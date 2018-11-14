@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="644" name="Absence of Motive" origNum="#615a." class="6" section="1" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="absence of motive">
+			<sg number="1">
+				<word number="1">absence of motive</word>
+				<word number="2">aimlessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="caprice" headRef="635">caprice</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="absence of design" headRef="650">chance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have no motive">
+			<sg number="1">
+				<word number="1">have no motive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be unwilling" headRef="629">scruple</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="without rhyme or reason">
+			<sg number="1">
+				<word number="1">without rhyme or reason</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aimless</word>
+				<word number="2">capricious</word>
+				<word number="3" paraRef="chance" headRef="650">whimsical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="out of mere caprice">
+			<sg number="1">
+				<word number="1">out of mere caprice</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

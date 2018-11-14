@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="524" name="Sage" origNum="#500." class="4" section="5" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sage">
+			<sg number="1">
+				<word number="1">sage</word>
+				<word number="2">wise man</word>
+			</sg>
+			<sg number="2">
+				<word number="1">genius</word>
+			</sg>
+			<sg number="3">
+				<word number="1">master mind</word>
+				<word number="2">master spirit of the age</word>
+			</sg>
+			<sg number="4">
+				<word number="1">longhead</word>
+				<word number="2">thinker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intellectual</word>
+				<word number="2">longhair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="authority">
+			<sg number="1">
+				<word number="1">authority</word>
+				<word number="2">oracle</word>
+				<word number="3">luminary</word>
+				<word number="4">shining light</word>
+				<word number="5">esprit fort</word>
+				<word number="6">magnus Apollo</word>
+				<word number="7">Solon</word>
+				<word number="8">Solomon</word>
+				<word number="9">Nestor</word>
+				<word number="10">Magi</word>
+				<word number="11">"second Daniel"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="man of learning">
+			<sg number="1">
+				<word number="1" paraRef="man of learning" headRef="516">man of learning</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expert" headRef="729">expert</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="wizard" headRef="1038">wizard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wiseacre">
+			<sg number="1">
+				<word number="1">wiseacre</word>
+				<word number="2">bigwig</word>
+				<word number="3">know-it-all</word>
+			</sg>
+			<sg number="2">
+				<word number="1">poor man's Einstein</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="venerable">
+			<sg number="1">
+				<word number="1">venerable</word>
+				<word number="2">reverenced</word>
+				<word number="3">emeritus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="barba tenus sapientes">
+			<sg number="1">
+				<word number="1">barba tenus sapientes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

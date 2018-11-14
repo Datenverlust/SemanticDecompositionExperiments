@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="69" name="Sequel" origNum="#65." class="1" section="4" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sequel">
+			<sg number="1">
+				<word number="1">sequel</word>
+				<word number="2">suffix</word>
+				<word number="3">successor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tail</word>
+				<word number="2">queue</word>
+				<word number="3">train</word>
+				<word number="4">wake</word>
+				<word number="5">trail</word>
+				<word number="6">rear</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retinue</word>
+				<word number="2">suite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">appendix</word>
+				<word number="2">postscript</word>
+			</sg>
+			<sg number="5">
+				<word number="1">epilogue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">peroration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">codicil</word>
+			</sg>
+			<sg number="8">
+				<word number="1">continuation</word>
+				<word number="2">sequela</word>
+			</sg>
+			<sg number="9">
+				<word number="1">appendage</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tail piece</word>
+				<word number="2">heelpiece</word>
+			</sg>
+			<sg number="11">
+				<word number="1">tag</word>
+				<word number="2">more last words</word>
+			</sg>
+			<sg number="12">
+				<word number="1">colophon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aftercome">
+			<sg number="1">
+				<word number="1">aftercome</word>
+				<word number="2">aftergrowth</word>
+				<word number="3">afterpart</word>
+				<word number="4">afterpiece</word>
+				<word number="5">aftercourse</word>
+				<word number="6">afterthought</word>
+				<word number="7">aftergame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arriere pensee</word>
+				<word number="2">second thoughts</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outgrowth</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

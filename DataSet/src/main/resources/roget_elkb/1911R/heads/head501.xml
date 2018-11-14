@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="501" name="Demonstration" origNum="#478." class="4" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">demonstration</word>
+				<word number="2">proof</word>
+				<word number="3">rigorous proof</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">conclusiveness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apodeixis</word>
+				<word number="2">apodixis</word>
+				<word number="3">probation</word>
+				<word number="4">comprobation|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="logic of facts">
+			<sg number="1">
+				<word number="1" paraRef="evidence" headRef="490">logic of facts</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="test" headRef="483">experimentum crucis</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="argument" headRef="499">argument</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rigorous establishment</word>
+				<word number="2">absolute establishment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="conviction">
+			<sg number="1">
+				<word number="1">conviction</word>
+				<word number="2" paraRef="persuasion" headRef="508">cogency</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="demonstrate">
+			<sg number="1">
+				<word number="1">demonstrate</word>
+				<word number="2">prove</word>
+				<word number="3">establish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make good</word>
+			</sg>
+			<sg number="3">
+				<word number="1">show</word>
+				<word number="2">evince</word>
+				<word number="3" paraRef="be evidence" headRef="490">manifest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">confirm</word>
+				<word number="2">corroborate</word>
+				<word number="3">substantiate</word>
+				<word number="4" paraRef="verify" headRef="490">verify</word>
+				<word number="5">reduce to demonstration</word>
+				<word number="6">set the question at rest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="make out">
+			<sg number="1">
+				<word number="1">make out</word>
+				<word number="2">make out a case</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prove one's point</word>
+				<word number="2">have the best of the argument</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="judge" headRef="503">draw a conclusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="follow">
+			<sg number="1">
+				<word number="1">follow</word>
+				<word number="2">follow of course</word>
+				<word number="3">follow as a matter of course</word>
+				<word number="4">follow necessarily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand to reason</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold good</word>
+				<word number="2">hold water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="convince">
+			<sg number="1">
+				<word number="1">convince</word>
+				<word number="2" paraRef="belief" headRef="508">persuade</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="demonstrating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">demonstrating</word>
+				<word number="2">demonstrative</word>
+				<word number="3">demonstrable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">probative</word>
+				<word number="2">unanswerable</word>
+				<word number="3">conclusive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apodictic</word>
+				<word number="2">apodeictic</word>
+				<word number="3">apodeictical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">irresistible</word>
+				<word number="2">irrefutable</word>
+				<word number="3">irrefragable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">necessary</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">prototypical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="categorical">
+			<sg number="1">
+				<word number="1">categorical</word>
+				<word number="2">decisive</word>
+				<word number="3">crucial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="demonstrated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">demonstrated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proven</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unconfuted</word>
+				<word number="2">unanswered</word>
+				<word number="3">unrefuted</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="evident" headRef="497">evident</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deducible">
+			<sg number="1">
+				<word number="1">deducible</word>
+				<word number="2">consequential</word>
+				<word number="3">consectary</word>
+				<word number="4">inferential</word>
+				<word number="5">following</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="convincing">
+			<sg number="1">
+				<word number="1">convincing</word>
+				<word number="2">cogent</word>
+				<word number="3" paraRef="believable" headRef="508">persuasive</word>
+				<word number="4" new="1">gentlemanly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="of course">
+			<sg number="1">
+				<word number="1">of course</word>
+				<word number="2">in consequence</word>
+				<word number="3">consequently</word>
+				<word number="4">as a matter of course</word>
+			</sg>
+			<sg number="2">
+				<word number="1">necessarily</word>
+				<word number="2">of necessity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="probatum est">
+			<sg number="1">
+				<word number="1">probatum est</word>
+			</sg>
+			<sg number="2">
+				<word number="1">there is nothing more to be said</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quod est demonstrandum</word>
+				<word number="2">Q.E.D</word>
+			</sg>
+			<sg number="4">
+				<word number="1">it must follow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exitus acta probat</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

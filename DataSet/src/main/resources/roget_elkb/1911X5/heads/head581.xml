@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="581" name="Misrepresentation" origNum="#555." class="5" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="misrepresentation">
+			<sg number="1">
+				<word number="1">misrepresentation</word>
+				<word number="2">distortion</word>
+				<word number="3">caricatura</word>
+				<word number="4">exaggeration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">daubing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bad likeness</word>
+				<word number="2">daub</word>
+				<word number="3">sign painting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scratch</word>
+				<word number="2">caricature</word>
+			</sg>
+			<sg number="5">
+				<word number="1">anamorphosis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">burlesque</word>
+				<word number="2">falsification</word>
+				<word number="3">misstatement</word>
+			</sg>
+			<sg number="7">
+				<word number="1">parody</word>
+				<word number="2">lampoon</word>
+				<word number="3">take-off</word>
+				<word number="4">travesty</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="misrepresent">
+			<sg number="1">
+				<word number="1">misrepresent</word>
+				<word number="2">distort</word>
+				<word number="3">overdraw</word>
+				<word number="4">exaggerate</word>
+				<word number="5">caricature</word>
+				<word number="6">daub</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burlesque</word>
+				<word number="2">parody</word>
+				<word number="3">travesty</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misrepresented">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">misrepresented</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

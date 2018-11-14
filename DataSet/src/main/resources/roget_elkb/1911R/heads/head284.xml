@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="284" name="Ship" origNum="#273." class="2" section="4" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ship">
+			<sg number="1">
+				<word number="1">ship</word>
+				<word number="2">vessel</word>
+				<word number="3">sail</word>
+			</sg>
+			<sg number="2">
+				<word number="1">craft</word>
+				<word number="2">bottom</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">materiality</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">mallei</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">fetishist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="navy">
+			<sg number="1">
+				<word number="1">navy</word>
+				<word number="2">marine</word>
+				<word number="3">fleet</word>
+				<word number="4">flotilla</word>
+				<word number="5" new="1">isicathamiya</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shipping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="man of war">
+			<sg number="1">
+				<word number="1" paraRef="combatant" headRef="755">man of war</word>
+			</sg>
+			<sg number="2">
+				<word number="1">transport</word>
+				<word number="2">tender</word>
+				<word number="3">storeship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">merchant ship</word>
+				<word number="2">merchantman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">packet</word>
+				<word number="2">liner</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whaler</word>
+				<word number="2">slaver</word>
+				<word number="3">collier</word>
+				<word number="4">coaster</word>
+				<word number="5">lighter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fishing boat</word>
+				<word number="2">pilot boat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trawler</word>
+				<word number="2">hulk</word>
+			</sg>
+			<sg number="8">
+				<word number="1">yacht</word>
+			</sg>
+			<sg number="9">
+				<word number="1">baggala</word>
+			</sg>
+			<sg number="10">
+				<word number="1">floating hotel</word>
+				<word number="2">floating palace</word>
+			</sg>
+			<sg number="11">
+				<word number="1">ocean greyhound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ship">
+			<sg number="1">
+				<word number="1">ship</word>
+				<word number="2">bark</word>
+				<word number="3">barque</word>
+				<word number="4">brig</word>
+				<word number="5">snow</word>
+				<word number="6">hermaphrodite brig</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brigantine</word>
+				<word number="2">barkantine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">schooner</word>
+			</sg>
+			<sg number="4">
+				<word number="1">topsail schooner</word>
+				<word number="2">for and aft schooner</word>
+				<word number="3">three masted schooner</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chasse-maree</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sloop</word>
+				<word number="2">cutter</word>
+				<word number="3">corvette</word>
+				<word number="4">clipper</word>
+				<word number="5">foist</word>
+				<word number="6">yawl</word>
+				<word number="7">dandy</word>
+				<word number="8">ketch</word>
+				<word number="9">smack</word>
+				<word number="10">lugger</word>
+				<word number="11">barge</word>
+				<word number="12">hoy</word>
+				<word number="13">cat</word>
+				<word number="14">buss</word>
+				<word number="15" new="1">postoffice</word>
+				<word number="16" new="1">tricone</word>
+				<word number="17" new="1">metaplasia</word>
+				<word number="18" new="1">subordinate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sailer</word>
+				<word number="2">sailing vessel</word>
+			</sg>
+			<sg number="8">
+				<word number="1">windjammer</word>
+			</sg>
+			<sg number="9">
+				<word number="1">steamer</word>
+				<word number="2">steamboat</word>
+				<word number="3">steamship</word>
+				<word number="4">liner</word>
+				<word number="5">ocean liner</word>
+				<word number="6">cruisp</word>
+				<word number="7">flap</word>
+				<word number="8">dab</word>
+				<word number="9">pat</word>
+				<word number="10">thump</word>
+				<word number="11">beat</word>
+				<word number="12">blow</word>
+				<word number="13">bang</word>
+				<word number="14">slam</word>
+				<word number="15">dash</word>
+				<word number="16" new="1">shoring</word>
+				<word number="17" new="1">revamping</word>
+				<word number="18" new="1">ransom</word>
+			</sg>
+			<sg number="10">
+				<word number="1">punch</word>
+				<word number="2">thwack</word>
+				<word number="3">whack</word>
+			</sg>
+			<sg number="11">
+				<word number="1">hit hard</word>
+				<word number="2">strike hard</word>
+			</sg>
+			<sg number="12">
+				<word number="1">swap</word>
+				<word number="2">batter</word>
+				<word number="3">dowse</word>
+				<word number="4">baste</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pelt</word>
+				<word number="2">patter</word>
+				<word number="3">buffet</word>
+				<word number="4">belabor</word>
+			</sg>
+			<sg number="14">
+				<word number="1">fetch one a blow</word>
+			</sg>
+			<sg number="15">
+				<word number="1">poke at</word>
+				<word number="2">pip</word>
+				<word number="3">ship of the line</word>
+			</sg>
+			<sg number="16">
+				<word number="1">destroyer</word>
+				<word number="2">cruiser</word>
+				<word number="3">frigate</word>
+				<word number="4" new="1">sharira</word>
+				<word number="5" new="1">millon</word>
+				<word number="6" new="1">monotherapy</word>
+				<word number="7" new="1">zoetrope</word>
+				<word number="8" new="1">churchwarden</word>
+				<word number="9" new="1">permissibility</word>
+				<word number="10" new="1">festa</word>
+				<word number="11" new="1">ballcourts</word>
+				<word number="12" new="1">cuneus</word>
+				<word number="13" new="1">digging</word>
+			</sg>
+			<sg number="17">
+				<word number="1">landing ship</word>
+				<word number="2">LST</word>
+			</sg>
+			<sg number="18">
+				<word number="1">aircraft carrier</word>
+				<word number="2">carrier</word>
+				<word number="3">flattop</word>
+				<word number="4">nuclear powered carrier</word>
+			</sg>
+			<sg number="19">
+				<word number="1">submarine</word>
+				<word number="2">submersible</word>
+				<word number="3">atomic submarine</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">anchorman</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">tomato</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">guilas</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">spacewalks</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">holmgang</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">harmaline</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">flche</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">monolith</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">form</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="1">regenerators</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="1">mycosis</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="1">vahana</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="1">assessor</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="1">helleborine</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="1">myeon</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="1">simulcasts</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="1">barrio</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="1">clitics</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="1">meek</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="1">wastebin</word>
+			</sg>
+			<sg number="40">
+				<word number="1" new="1">idempotent</word>
+			</sg>
+			<sg number="41">
+				<word number="1" new="1">fatality</word>
+			</sg>
+			<sg number="42">
+				<word number="1" new="1">pseudotensor</word>
+			</sg>
+			<sg number="43">
+				<word number="1" new="1">segmentata</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="boat">
+			<sg number="1">
+				<word number="1">boat</word>
+				<word number="2">pinnace</word>
+				<word number="3">launch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">life boat</word>
+				<word number="2">long boat</word>
+				<word number="3">jolly boat</word>
+				<word number="4">bum boat</word>
+				<word number="5">fly boat</word>
+				<word number="6">cock boat</word>
+				<word number="7">ferry oat</word>
+				<word number="8">canal boat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">swamp boat</word>
+				<word number="2">ark</word>
+				<word number="3">bully</word>
+				<word number="4">bateau  battery</word>
+				<word number="5">broadhorn</word>
+				<word number="6">dory</word>
+				<word number="7">droger</word>
+				<word number="8">drogher</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dugout</word>
+				<word number="2">durham boat</word>
+				<word number="3">flatboat</word>
+				<word number="4">galiot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shallop</word>
+				<word number="2">gig</word>
+				<word number="3">funny</word>
+				<word number="4">skiff</word>
+				<word number="5">dingy</word>
+				<word number="6">scow</word>
+				<word number="7">cockleshell</word>
+				<word number="8">wherry</word>
+				<word number="9">coble</word>
+				<word number="10">punt</word>
+				<word number="11">cog</word>
+				<word number="12">kedge</word>
+				<word number="13">lerret</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eight oar</word>
+				<word number="2">four oar</word>
+				<word number="3">pair oar</word>
+			</sg>
+			<sg number="7">
+				<word number="1">randan</word>
+			</sg>
+			<sg number="8">
+				<word number="1">outrigger</word>
+			</sg>
+			<sg number="9">
+				<word number="1">float</word>
+				<word number="2">raft</word>
+				<word number="3">pontoon</word>
+			</sg>
+			<sg number="10">
+				<word number="1">prame</word>
+			</sg>
+			<sg number="11">
+				<word number="1">iceboat</word>
+				<word number="2">ice canoe</word>
+				<word number="3">ice yacht</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">chafe</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">seatpost</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="catamaran">
+			<sg number="1">
+				<word number="1">catamaran</word>
+				<word number="2">hydroplane</word>
+				<word number="3">hovercraft</word>
+				<word number="4">coracle</word>
+				<word number="5">gondola</word>
+				<word number="6">carvel</word>
+				<word number="7">caravel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">felucca</word>
+				<word number="2">caique</word>
+				<word number="3">canoe</word>
+				<word number="4">birch bark canoe</word>
+				<word number="5">dugout canoe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">galley</word>
+				<word number="2">galleyfoist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bilander</word>
+				<word number="2">dogger</word>
+				<word number="3">hooker</word>
+				<word number="4">howker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">argosy</word>
+				<word number="2">carack</word>
+			</sg>
+			<sg number="6">
+				<word number="1">galliass</word>
+				<word number="2">galleon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">polacca</word>
+				<word number="2">polacre</word>
+				<word number="3">tartane</word>
+				<word number="4">junk</word>
+				<word number="5">lorcha</word>
+				<word number="6">praam</word>
+				<word number="7">proa</word>
+				<word number="8">prahu</word>
+				<word number="9">saick</word>
+				<word number="10">sampan</word>
+				<word number="11">xebec</word>
+				<word number="12">dhow</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dahabeah</word>
+			</sg>
+			<sg number="9">
+				<word number="1">nuggah</word>
+			</sg>
+			<sg number="10">
+				<word number="1">kayak</word>
+				<word number="2">keel boat</word>
+				<word number="3">log canoe</word>
+				<word number="4">pirogue</word>
+			</sg>
+			<sg number="11">
+				<word number="1">quadrireme</word>
+				<word number="2">trireme</word>
+			</sg>
+			<sg number="12">
+				<word number="1">stern-wheeler</word>
+			</sg>
+			<sg number="13">
+				<word number="1">wanigan</word>
+				<word number="2">wangan</word>
+				<word number="3">wharf boat</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">farther</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">lisa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="balloon">
+			<sg number="1">
+				<word number="1">balloon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">airship</word>
+				<word number="2">aeroplane</word>
+			</sg>
+			<sg number="3">
+				<word number="1">biplane</word>
+				<word number="2">monoplane</word>
+				<word number="3">triplane</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hydroplane</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aerodrome</word>
+			</sg>
+			<sg number="6">
+				<word number="1">air balloon</word>
+				<word number="2">pilot balloon</word>
+				<word number="3">fire balloon</word>
+				<word number="4">dirigible</word>
+				<word number="5">zeppelin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aerostat</word>
+				<word number="2">Montgolfier</word>
+			</sg>
+			<sg number="8">
+				<word number="1">kite</word>
+				<word number="2">parachute</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">burbidgeae</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">microvilli</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">perl</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">postmodernity</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">novus</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">nighthawk</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">residency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="jet plane">
+			<sg number="1">
+				<word number="1">jet plane</word>
+				<word number="2">rocket plane</word>
+				<word number="3">jet liner</word>
+				<word number="4">turbojet</word>
+				<word number="5">prop-jet</word>
+				<word number="6">propeller plane</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corporate plane</word>
+				<word number="2">corporate jet</word>
+				<word number="3">private plane</word>
+				<word number="4">private aviation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">airline</word>
+				<word number="2">common carrier</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fighter</word>
+				<word number="2">bomber</word>
+				<word number="3">fighter-bomber</word>
+				<word number="4">escort plane</word>
+				<word number="5">spy plane</word>
+			</sg>
+			<sg number="5">
+				<word number="1">supersonic aircraft</word>
+				<word number="2">subsonic aircraft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="care">
+			<sg number="1">
+				<word number="1" new="1">care</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="rabbinate">
+			<sg number="1">
+				<word number="1" new="1">rabbinate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="swastika">
+			<sg number="1">
+				<word number="1" new="1">swastika</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="samosas">
+			<sg number="1">
+				<word number="1" new="1">samosas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="kerogen">
+			<sg number="1">
+				<word number="1" new="1">kerogen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="abiogenesis">
+			<sg number="1">
+				<word number="1" new="1">abiogenesis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="atria">
+			<sg number="1">
+				<word number="1" new="1">atria</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="caroling">
+			<sg number="1">
+				<word number="1" new="1">caroling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="episode">
+			<sg number="1">
+				<word number="1" new="1">episode</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="search">
+			<sg number="1">
+				<word number="1" new="1">search</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="landmass">
+			<sg number="1">
+				<word number="1" new="1">landmass</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="head">
+			<sg number="1">
+				<word number="1" new="1">head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="brickyard">
+			<sg number="1">
+				<word number="1" new="1">brickyard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="pubis">
+			<sg number="1">
+				<word number="1" new="1">pubis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="afloat">
+			<sg number="1">
+				<word number="1">afloat</word>
+				<word number="2">aboard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on board</word>
+				<word number="2">on ship board</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard a lee</word>
+				<word number="2">hard a port</word>
+				<word number="3">hard a starboard</word>
+				<word number="4">hard a weather</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

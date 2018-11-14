@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="33" name="Greatness" origNum="#31." class="1" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="greatness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">greatness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">magnitude</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dimension" headRef="201">size</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="number" headRef="107">multitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1">immensity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">enormity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="infinity" headRef="110">infinity</word>
+			</sg>
+			<sg number="8">
+				<word number="1">might</word>
+				<word number="2">strength</word>
+				<word number="3">intensity</word>
+				<word number="4">fullness</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="importance" headRef="671">importance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="great quantity">
+			<sg number="1">
+				<word number="1">great quantity</word>
+				<word number="2">quantity</word>
+				<word number="3">deal</word>
+				<word number="4">power</word>
+				<word number="5">sight</word>
+				<word number="6">pot</word>
+				<word number="7">volume</word>
+				<word number="8">world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mass</word>
+				<word number="2" paraRef="assemblage" headRef="76">heap</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="store" headRef="665">stock</word>
+			</sg>
+			<sg number="4">
+				<word number="1">peck</word>
+				<word number="2">bushel</word>
+				<word number="3">load</word>
+				<word number="4">cargo</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cartload</word>
+				<word number="2">wagonload</word>
+				<word number="3">shipload</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flood</word>
+				<word number="2">spring tide</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="sufficiency" headRef="668">abundance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="principal part">
+			<sg number="1">
+				<word number="1">principal part</word>
+				<word number="2">chief part</word>
+				<word number="3">main part</word>
+				<word number="4">greater part</word>
+				<word number="5">major part</word>
+				<word number="6">best part</word>
+				<word number="7">essential part</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bulk</word>
+				<word number="2" paraRef="whole" headRef="53">mass</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be great">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be great</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run high</word>
+				<word number="2">soar</word>
+				<word number="3">tower</word>
+				<word number="4">transcend</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rise to a great height</word>
+				<word number="2">carry  to a great height</word>
+			</sg>
+			<sg number="4">
+				<word number="1">know no bounds</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ascend</word>
+				<word number="2">mount</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="enlarge">
+			<sg number="1">
+				<word number="1" paraRef="increase" headRef="37">enlarge</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="great">
+			<sg number="1">
+				<word number="1">great</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="greater" headRef="35">greater</word>
+			</sg>
+			<sg number="3">
+				<word number="1">large</word>
+				<word number="2">considerable</word>
+				<word number="3">fair</word>
+				<word number="4">above par</word>
+			</sg>
+			<sg number="4">
+				<word number="1">big</word>
+				<word number="2" paraRef="huge" headRef="201">huge</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Herculean</word>
+				<word number="2">cyclopean</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ample</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="enough" headRef="668">abundant</word>
+				<word number="2">intense</word>
+				<word number="3">strong</word>
+				<word number="4">sound</word>
+				<word number="5">passing</word>
+				<word number="6">heavy</word>
+				<word number="7">plenary</word>
+				<word number="8">deep</word>
+				<word number="9">high</word>
+			</sg>
+			<sg number="8">
+				<word number="1">signal</word>
+				<word number="2">at its height</word>
+				<word number="3">in the zenith</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">copious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="world-wide">
+			<sg number="1">
+				<word number="1">world-wide</word>
+				<word number="2">widespread</word>
+				<word number="3">far-famed</word>
+				<word number="4">extensive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wholesale</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="many" headRef="107">many</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="goodly">
+			<sg number="1">
+				<word number="1">goodly</word>
+				<word number="2">noble</word>
+				<word number="3">precious</word>
+				<word number="4">mighty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sad</word>
+				<word number="2">grave</word>
+				<word number="3">heavy</word>
+				<word number="4">serious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">far gone</word>
+				<word number="2">arrant</word>
+				<word number="3">downright</word>
+			</sg>
+			<sg number="4">
+				<word number="1">utter</word>
+				<word number="2">uttermost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crass</word>
+				<word number="2">gross</word>
+				<word number="3">arch</word>
+				<word number="4">profound</word>
+				<word number="5">intense</word>
+				<word number="6">consummate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rank</word>
+				<word number="2">uninitiated</word>
+				<word number="3">red-hot</word>
+				<word number="4">desperate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">glaring</word>
+				<word number="2">flagrant</word>
+				<word number="3">stark staring</word>
+			</sg>
+			<sg number="8">
+				<word number="1">thorough-paced</word>
+				<word number="2">thoroughgoing</word>
+			</sg>
+			<sg number="9">
+				<word number="1">roaring</word>
+				<word number="2">thumping</word>
+			</sg>
+			<sg number="10">
+				<word number="1">extraordinary</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="important" headRef="671">important</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="supreme" headRef="35">unsurpassed</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="complete" headRef="55">complete</word>
+				<word number="2">grand</word>
+				<word number="3">dignified</word>
+				<word number="4">sublime</word>
+				<word number="5" paraRef="repute" headRef="912">majestic</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">total</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="vast">
+			<sg number="1">
+				<word number="1">vast</word>
+				<word number="2">immense</word>
+				<word number="3">enormous</word>
+				<word number="4">extreme</word>
+				<word number="5" new="1">colossal</word>
+				<word number="6" new="1">overwhelming</word>
+				<word number="7" new="1">tremendous</word>
+				<word number="8" new="1">veritable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inordinate</word>
+				<word number="2">excessive</word>
+				<word number="3">extravagant</word>
+				<word number="4">exorbitant</word>
+				<word number="5">outrageous</word>
+				<word number="6">preposterous</word>
+				<word number="7">unconscionable</word>
+				<word number="8">swinging</word>
+				<word number="9">monstrous</word>
+				<word number="10">overgrown</word>
+				<word number="11" new="1">undue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">towering</word>
+				<word number="2">stupendous</word>
+				<word number="3">prodigious</word>
+				<word number="4">astonishing</word>
+				<word number="5">incredible</word>
+				<word number="6" new="1">miraculous</word>
+				<word number="7" new="1">uncanny</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="marvelous" headRef="909">marvelous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">gigantic</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">increasing</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">unprecedented</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">wonderful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unlimited">
+			<sg number="1">
+				<word number="1" paraRef="infinite" headRef="110">unlimited</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unapproachable</word>
+				<word number="2">unutterable</word>
+				<word number="3">indescribable</word>
+				<word number="4">ineffable</word>
+				<word number="5">unspeakable</word>
+				<word number="6">inexpressible</word>
+				<word number="7">beyond expression</word>
+				<word number="8">fabulous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="undiminished">
+			<sg number="1">
+				<word number="1">undiminished</word>
+				<word number="2">unabated</word>
+				<word number="3">unreduced</word>
+				<word number="4">unrestricted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="absolute">
+			<sg number="1">
+				<word number="1">absolute</word>
+				<word number="2">positive</word>
+				<word number="3">stark</word>
+				<word number="4">decided</word>
+				<word number="5">unequivocal</word>
+				<word number="6">essential</word>
+				<word number="7">perfect</word>
+				<word number="8">finished</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="remarkable">
+			<sg number="1">
+				<word number="1">remarkable</word>
+				<word number="2">of mark</word>
+				<word number="3">marked</word>
+				<word number="4">pointed</word>
+				<word number="5">veriest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">noteworthy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">renowned</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="exceptional">
+			<sg number="1">
+				<word number="1" new="1">exceptional</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="substantial">
+			<sg number="1">
+				<word number="1" new="1">substantial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="surprising">
+			<sg number="1">
+				<word number="1" new="1">surprising</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="utmost">
+			<sg number="1">
+				<word number="1" new="1">utmost</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="truly">
+			<sg number="1">
+				<word number="1" paraRef="truth" headRef="518">truly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decidedly</word>
+				<word number="2">unequivocally</word>
+				<word number="3">purely</word>
+				<word number="4">absolutely</word>
+				<word number="5">seriously</word>
+				<word number="6">essentially</word>
+				<word number="7">fundamentally</word>
+				<word number="8">radically</word>
+				<word number="9">downright</word>
+				<word number="10">in all conscience</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for the most part</word>
+				<word number="2">in the main</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="entirely">
+			<sg number="1">
+				<word number="1" paraRef="completely" headRef="55">entirely</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sufficiently" headRef="668">abundantly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">widely</word>
+				<word number="2">far and wide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="greatly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">greatly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">much</word>
+				<word number="2">muckle</word>
+				<word number="3">well</word>
+				<word number="4">indeed</word>
+				<word number="5">very</word>
+				<word number="6">very much</word>
+				<word number="7">a deal</word>
+				<word number="8">no end of</word>
+				<word number="9">most</word>
+				<word number="10">not a little</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pretty</word>
+				<word number="2">pretty well</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enough</word>
+				<word number="2">in a great measure</word>
+				<word number="3">richly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">to a large extent</word>
+				<word number="2">to a great extent</word>
+				<word number="3">to a gigantic extent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">on a large scale</word>
+			</sg>
+			<sg number="7">
+				<word number="1">so</word>
+			</sg>
+			<sg number="8">
+				<word number="1">never so</word>
+				<word number="2">ever so</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ever so dole</word>
+			</sg>
+			<sg number="10">
+				<word number="1">scrap</word>
+				<word number="2">shred</word>
+				<word number="3">tag</word>
+				<word number="4">splinter</word>
+				<word number="5">rag</word>
+				<word number="6">much</word>
+			</sg>
+			<sg number="11">
+				<word number="1">by wholesale</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mighty</word>
+				<word number="2">powerfully</word>
+			</sg>
+			<sg number="13">
+				<word number="1">with a witness</word>
+				<word number="2">ultra</word>
+				<word number="3">in the extreme</word>
+				<word number="4">extremely</word>
+				<word number="5">exceedingly</word>
+				<word number="6">intensely</word>
+				<word number="7">exquisitely</word>
+				<word number="8">acutely</word>
+				<word number="9">indefinitely</word>
+				<word number="10">immeasurably</word>
+			</sg>
+			<sg number="14">
+				<word number="1">beyond compare</word>
+				<word number="2">beyond comparison</word>
+				<word number="3">beyond measure</word>
+				<word number="4">beyond all bounds</word>
+			</sg>
+			<sg number="15">
+				<word number="1">incalculably</word>
+				<word number="2">infinitely</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="preeminently">
+			<sg number="1">
+				<word number="1">preeminently</word>
+				<word number="2" paraRef="superiority" headRef="35">superlatively</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="immoderately">
+			<sg number="1">
+				<word number="1">immoderately</word>
+				<word number="2">monstrously</word>
+				<word number="3">preposterously</word>
+				<word number="4">inordinately</word>
+				<word number="5">exorbitantly</word>
+				<word number="6">excessively</word>
+				<word number="7">enormously</word>
+				<word number="8">out of all proportion</word>
+				<word number="9">with a vengeance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="particularly">
+			<sg number="1">
+				<word number="1">particularly</word>
+				<word number="2">remarkably</word>
+				<word number="3">singularly</word>
+				<word number="4">curiously</word>
+				<word number="5">uncommonly</word>
+				<word number="6">unusually</word>
+				<word number="7">peculiarly</word>
+				<word number="8">notably</word>
+				<word number="9">signally</word>
+				<word number="10">strikingly</word>
+				<word number="11">pointedly</word>
+				<word number="12">mainly</word>
+				<word number="13">chiefly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">famously</word>
+				<word number="2">egregiously</word>
+				<word number="3">prominently</word>
+				<word number="4">glaringly</word>
+				<word number="5">emphatically</word>
+				<word number="6">strangely</word>
+				<word number="7">wonderfully</word>
+				<word number="8">amazingly</word>
+				<word number="9">surprisingly</word>
+				<word number="10">astonishingly</word>
+				<word number="11">incredibly</word>
+				<word number="12">marvelously</word>
+				<word number="13">awfully</word>
+				<word number="14">stupendously</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="peculiarly">
+			<sg number="1">
+				<word number="1" paraRef="unconformity" headRef="87">peculiarly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="furiously">
+			<sg number="1">
+				<word number="1" paraRef="violence" headRef="180">furiously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">severely</word>
+				<word number="2">desperately</word>
+				<word number="3">tremendously</word>
+				<word number="4">extravagantly</word>
+				<word number="5">confoundedly</word>
+				<word number="6">deucedly</word>
+				<word number="7">devilishly</word>
+				<word number="8">with a vengeance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a outrance</word>
+				<word number="2">a toute outrance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="painfully">
+			<sg number="1">
+				<word number="1">painfully</word>
+				<word number="2">sadly</word>
+				<word number="3">grossly</word>
+				<word number="4">sorely</word>
+				<word number="5">bitterly</word>
+				<word number="6">piteously</word>
+				<word number="7">grievously</word>
+				<word number="8">miserably</word>
+				<word number="9">cruelly</word>
+				<word number="10">woefully</word>
+				<word number="11">lamentably</word>
+				<word number="12">shockingly</word>
+				<word number="13">frightfully</word>
+				<word number="14">dreadfully</word>
+				<word number="15">fearfully</word>
+				<word number="16">terribly</word>
+				<word number="17">horribly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a maximis ad minima">
+			<sg number="1">
+				<word number="1">a maximis ad minima</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"greatness knows itself"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"mightiest powers by deepest calms are fed"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minimum decet libere cui multum licet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"some are born great</word>
+				<word number="2">some achieve greatness</word>
+				<word number="3">and some have greatness thrust upon them"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

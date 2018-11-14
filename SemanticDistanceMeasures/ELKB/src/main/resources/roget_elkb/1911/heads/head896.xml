@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="896" name="Laughingstock" origNum="#857." class="8" section="2" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="laughingstock">
+			<sg number="1">
+				<word number="1">laughingstock</word>
+				<word number="2">jestingstock</word>
+				<word number="3">gazingstock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">butt</word>
+				<word number="2">game</word>
+				<word number="3">fair game</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dupe" headRef="573">April fool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="original">
+			<sg number="1">
+				<word number="1">original</word>
+				<word number="2">oddity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">queer fish</word>
+				<word number="2">odd fish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quiz</word>
+				<word number="2">square toes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">old monkey</word>
+				<word number="2">old fogey</word>
+				<word number="3">fogey monkey</word>
+				<word number="4">fogy monkey</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="jester" headRef="882">buffoon</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="actor" headRef="625">pantomimist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="schlemiel">
+			<sg number="1">
+				<word number="1">schlemiel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="jest">
+			<sg number="1">
+				<word number="1" paraRef="wit" headRef="880">jest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="dum vitant stulti vitia in contraria currunt">
+			<sg number="1">
+				<word number="1">dum vitant stulti vitia in contraria currunt</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

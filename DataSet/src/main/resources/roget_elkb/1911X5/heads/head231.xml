@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="231" name="Interiority" origNum="#221." class="2" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="interiority">
+			<sg number="1">
+				<word number="1">interiority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inside</word>
+				<word number="2">interior</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interspace</word>
+				<word number="2">subsoil</word>
+				<word number="3">substratum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intrados</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contents">
+			<sg number="1">
+				<word number="1" paraRef="contents" headRef="199">contents</word>
+			</sg>
+			<sg number="2">
+				<word number="1">substance</word>
+				<word number="2">pith</word>
+				<word number="3">marrow</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="center" headRef="232">backbone</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heart</word>
+				<word number="2">bosom</word>
+				<word number="3">breast</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abdomen</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vitals</word>
+				<word number="2">viscera</word>
+				<word number="3">entrails</word>
+				<word number="4">bowels</word>
+				<word number="5">belly</word>
+				<word number="6">intestines</word>
+				<word number="7">guts</word>
+				<word number="8">chitterings</word>
+				<word number="9">womb</word>
+				<word number="10">lap</word>
+			</sg>
+			<sg number="7">
+				<word number="1">penetralia</word>
+				<word number="2">recesses</word>
+				<word number="3">innermost recesses</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="concavity" headRef="262">cave</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inside">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inside</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adv.">within</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="place within">
+			<sg number="1">
+				<word number="1">place within</word>
+				<word number="2">keep within</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="circumscribe" headRef="239">inclose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">intern</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="insert" headRef="311">imbed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="interior">
+			<sg number="1">
+				<word number="1">interior</word>
+				<word number="2">internal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inner</word>
+				<word number="2">inside</word>
+				<word number="3">inward</word>
+				<word number="4">intraregarding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inmost</word>
+				<word number="2">innermost</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deep seated</word>
+				<word number="2">gut</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intestine</word>
+				<word number="2">intestinal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">inland</word>
+			</sg>
+			<sg number="7">
+				<word number="1">subcutaneous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">abdominal</word>
+				<word number="2">coeliac</word>
+				<word number="3">endomorphic</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="interjacent" headRef="238">interstitial</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="intrinsic" headRef="5">inwrought</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="" posRef="v.">inclosed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="home">
+			<sg number="1">
+				<word number="1">home</word>
+				<word number="2">domestic</word>
+				<word number="3">indoor</word>
+				<word number="4">intramural</word>
+				<word number="5">vernacular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">endemic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="internally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">internally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inwards</word>
+				<word number="2">within</word>
+				<word number="3">in</word>
+				<word number="4">inly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">here in</word>
+				<word number="2">there in</word>
+				<word number="3">where in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ab intra</word>
+				<word number="2">withinside</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in doors</word>
+				<word number="2">within doors</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at home</word>
+				<word number="2">in the bosom of one's family</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

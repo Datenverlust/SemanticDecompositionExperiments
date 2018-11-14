@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="688" name="Deterioration" origNum="#659." class="6" section="2" subSection="2" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deterioration">
+			<sg number="1">
+				<word number="1">deterioration</word>
+				<word number="2">debasement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wane</word>
+				<word number="2">ebb</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="recession" headRef="298">recession</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="retrograduation" headRef="294">retrograduation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="decrease" headRef="38">decrease</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">vulcanoids</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="degeneracy">
+			<sg number="1">
+				<word number="1">degeneracy</word>
+				<word number="2">degeneration</word>
+				<word number="3">degenerateness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">degradation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depravation</word>
+				<word number="2">depravement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">devolution</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="depravity" headRef="987">depravity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">demoralization</word>
+				<word number="2">retrogression</word>
+			</sg>
+			<sg number="7">
+				<word number="1">masochism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="impairment">
+			<sg number="1">
+				<word number="1">impairment</word>
+				<word number="2">inquination</word>
+				<word number="3">injury</word>
+				<word number="4">damage</word>
+				<word number="5">loss</word>
+				<word number="6">detriment</word>
+				<word number="7">delaceration</word>
+				<word number="8">outrage</word>
+				<word number="9">havoc</word>
+				<word number="10">inroad</word>
+				<word number="11">ravage</word>
+				<word number="12">scath</word>
+				<word number="13" new="1">xebecs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perversion</word>
+				<word number="2">prostitution</word>
+				<word number="3">vitiation</word>
+				<word number="4">discoloration</word>
+				<word number="5">oxidation</word>
+				<word number="6">pollution</word>
+				<word number="7">defoedation</word>
+				<word number="8">poisoning</word>
+				<word number="9">venenation</word>
+				<word number="10">leaven</word>
+				<word number="11">contamination</word>
+				<word number="12">canker</word>
+				<word number="13">corruption</word>
+				<word number="14">adulteration</word>
+				<word number="15">alloy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">turnstone</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">roulette</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">colonel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="decline">
+			<sg number="1">
+				<word number="1">decline</word>
+				<word number="2">declension</word>
+				<word number="3">declination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decadence</word>
+				<word number="2">decadency</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">falling off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">caducity</word>
+				<word number="2">decrepitude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="decay">
+			<sg number="1">
+				<word number="1">decay</word>
+				<word number="2">dilapidation</word>
+				<word number="3">ravages of time</word>
+				<word number="4">wear and tear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corrosion</word>
+				<word number="2">erosion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">moldiness</word>
+				<word number="2">rottenness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moth and rust</word>
+				<word number="2">dry rot</word>
+				<word number="3">blight</word>
+				<word number="4">marasmus</word>
+				<word number="5">atrophy</word>
+				<word number="6">collapse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disorganization</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="destruction" headRef="169">delabrement</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aphid</word>
+				<word number="2">Aphis</word>
+				<word number="3">plant louse</word>
+				<word number="4">puceron</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vinefretter</word>
+				<word number="2">vinegrub</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">wheellock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="wreck">
+			<sg number="1">
+				<word number="1">wreck</word>
+				<word number="2">mere wreck</word>
+				<word number="3">honeycomb</word>
+				<word number="4">magni nominis umbra</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jade</word>
+				<word number="2">plug</word>
+				<word number="3">rackabones</word>
+				<word number="4">skate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tackey</word>
+				<word number="2">tacky</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="tuner">
+			<sg number="1">
+				<word number="1" new="1">tuner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="semigroups">
+			<sg number="1">
+				<word number="1" new="1">semigroups</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="concreteness">
+			<sg number="1">
+				<word number="1" new="1">concreteness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="aga">
+			<sg number="1">
+				<word number="1" new="1">aga</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="bluescreen">
+			<sg number="1">
+				<word number="1" new="1">bluescreen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="shaken">
+			<sg number="1">
+				<word number="1" new="1">shaken</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="supercarriers">
+			<sg number="1">
+				<word number="1" new="1">supercarriers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="elite">
+			<sg number="1">
+				<word number="1" new="1">elite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="book">
+			<sg number="1">
+				<word number="1" new="1">book</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="superset">
+			<sg number="1">
+				<word number="1" new="1">superset</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="subcontract">
+			<sg number="1">
+				<word number="1" new="1">subcontract</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="banter">
+			<sg number="1">
+				<word number="1" new="1">banter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="jubilation">
+			<sg number="1">
+				<word number="1" new="1">jubilation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="uh">
+			<sg number="1">
+				<word number="1" new="1">uh</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be worse">
+			<sg number="1">
+				<word number="1">be worse</word>
+				<word number="2">be  deteriorated</word>
+				<word number="3">become worse</word>
+				<word number="4" paraRef="" posRef="adj.">become  deteriorated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have seen better days</word>
+				<word number="2">deteriorate</word>
+				<word number="3">degenerate</word>
+				<word number="4">fall off</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="decrease" headRef="38">wane</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ebb</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="retrograde" headRef="294">retrograde</word>
+				<word number="2">droop</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="sink" headRef="317">go down</word>
+			</sg>
+			<sg number="7">
+				<word number="1">go downhill</word>
+				<word number="2">go from bad to worse</word>
+				<word number="3">go farther and fare worse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">jump out of the frying pan into the fire</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">automate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="run to seed">
+			<sg number="1">
+				<word number="1">run to seed</word>
+				<word number="2">go to seed</word>
+				<word number="3">run to waste swale</word>
+				<word number="4">sweal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lapse</word>
+				<word number="2">be the worse for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sphacelate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">break</word>
+				<word number="2">break down</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spring a leak</word>
+				<word number="2">crack</word>
+				<word number="3">start</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="contract" headRef="204">shrivel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fade</word>
+				<word number="2">go off</word>
+				<word number="3">wither</word>
+				<word number="4">molder</word>
+				<word number="5">rot</word>
+				<word number="6">rankle</word>
+				<word number="7">decay</word>
+				<word number="8">go bad</word>
+				<word number="9" new="1">impress</word>
+				<word number="10" new="1">reconfirm</word>
+			</sg>
+			<sg number="8">
+				<word number="1">go to decay</word>
+				<word number="2">fall into decay</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"fall into the sear and yellow leaf"</word>
+				<word number="2">rust</word>
+				<word number="3">crumble</word>
+				<word number="4">shake</word>
+			</sg>
+			<sg number="10">
+				<word number="1">totter</word>
+				<word number="2">totter to its fall</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="perish" headRef="169">perish</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="die" headRef="372">die</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">deluge</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">widen</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">snort</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">average</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="deteriorate">
+			<sg number="1">
+				<word number="1">deteriorate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="weaken" headRef="167">weaken</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put back</word>
+				<word number="2">set back</word>
+			</sg>
+			<sg number="4">
+				<word number="1">taint</word>
+				<word number="2">infect</word>
+				<word number="3">contaminate</word>
+				<word number="4">poison</word>
+				<word number="5">empoison</word>
+				<word number="6">envenom</word>
+				<word number="7">canker</word>
+				<word number="8">corrupt</word>
+				<word number="9">exulcerate</word>
+				<word number="10">pollute</word>
+				<word number="11">vitiate</word>
+				<word number="12">inquinate</word>
+				<word number="13" new="1">outlaw</word>
+			</sg>
+			<sg number="5">
+				<word number="1">debase</word>
+				<word number="2">embase</word>
+			</sg>
+			<sg number="6">
+				<word number="1">denaturalize</word>
+				<word number="2">denature</word>
+				<word number="3">leaven</word>
+			</sg>
+			<sg number="7">
+				<word number="1">deflower</word>
+				<word number="2">debauch</word>
+				<word number="3">defile</word>
+				<word number="4">deprave</word>
+				<word number="5">degrade</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ulcerate</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="dirt" headRef="682">stain</word>
+			</sg>
+			<sg number="10">
+				<word number="1">discolor</word>
+			</sg>
+			<sg number="11">
+				<word number="1">alloy</word>
+				<word number="2">adulterate</word>
+				<word number="3">sophisticate</word>
+				<word number="4">tamper with</word>
+				<word number="5">prejudice</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">motor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pervert">
+			<sg number="1">
+				<word number="1">pervert</word>
+				<word number="2">prostitute</word>
+				<word number="3">demoralize</word>
+				<word number="4">brutalize</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="render vicious" headRef="987">render vicious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="embitter">
+			<sg number="1">
+				<word number="1">embitter</word>
+				<word number="2">acerbate</word>
+				<word number="3">exacerbate</word>
+				<word number="4">aggravate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="injure">
+			<sg number="1">
+				<word number="1">injure</word>
+				<word number="2">impair</word>
+				<word number="3">labefy</word>
+				<word number="4">damage</word>
+				<word number="5">harm</word>
+				<word number="6">hurt</word>
+				<word number="7">shend</word>
+				<word number="8">scath</word>
+				<word number="9">scathe</word>
+				<word number="10">spoil</word>
+				<word number="11">mar</word>
+				<word number="12">despoil</word>
+				<word number="13">dilapidate</word>
+				<word number="14">waste</word>
+				<word number="15" new="1">encode</word>
+				<word number="16" new="1">underreport</word>
+				<word number="17" new="1">stump</word>
+				<word number="18" new="1">muck</word>
+				<word number="19" new="1">recompose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overrun</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ravage</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pillage" headRef="824">pillage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">reconstruct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="wound">
+			<sg number="1">
+				<word number="1">wound</word>
+				<word number="2">stab</word>
+				<word number="3">pierce</word>
+				<word number="4">maim</word>
+				<word number="5">lame</word>
+				<word number="6">surbate</word>
+				<word number="7">cripple</word>
+				<word number="8">hough</word>
+				<word number="9">hamstring</word>
+				<word number="10">hit between wind and water</word>
+				<word number="11">scotch</word>
+				<word number="12">mangle</word>
+				<word number="13">mutilate</word>
+				<word number="14">disfigure</word>
+				<word number="15">blemish</word>
+				<word number="16">deface</word>
+				<word number="17">warp</word>
+				<word number="18" new="1">stupify</word>
+				<word number="19" new="1">scoot</word>
+				<word number="20" new="1">reconstruct</word>
+				<word number="21" new="1">bomb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="blight">
+			<sg number="1">
+				<word number="1">blight</word>
+				<word number="2">rot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corrode</word>
+				<word number="2">erode</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wear away</word>
+				<word number="2">wear out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gnaw</word>
+				<word number="2">gnaw at the root of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sap</word>
+				<word number="2">mine</word>
+				<word number="3">undermine</word>
+				<word number="4">shake</word>
+				<word number="5">sap the foundations of</word>
+				<word number="6">break up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disorganize</word>
+				<word number="2">dismantle</word>
+				<word number="3">dismast</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="destroy" headRef="169">destroy</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">mope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="damnify">
+			<sg number="1">
+				<word number="1" paraRef="aggrieve" headRef="678">damnify</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do one's worst</word>
+			</sg>
+			<sg number="3">
+				<word number="1">knock down</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deal a blow to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">play havoc with</word>
+				<word number="2">play sad havoc with</word>
+				<word number="3">play the mischief with</word>
+				<word number="4">play the deuce with</word>
+				<word number="5">play the very devil with</word>
+				<word number="6">play havoc among</word>
+				<word number="7">play sad havoc among</word>
+				<word number="8">play the mischief among</word>
+				<word number="9">play the deuce among</word>
+				<word number="10">play the very devil among</word>
+			</sg>
+			<sg number="6">
+				<word number="1">decimate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="laud">
+			<sg number="1">
+				<word number="1" new="1">laud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="list">
+			<sg number="1">
+				<word number="1" new="1">list</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="undeceive">
+			<sg number="1">
+				<word number="1" new="1">undeceive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="blanch">
+			<sg number="1">
+				<word number="1" new="1">blanch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="nett">
+			<sg number="1">
+				<word number="1" new="1">nett</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="cheat">
+			<sg number="1">
+				<word number="1" new="1">cheat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="traumatize">
+			<sg number="1">
+				<word number="1" new="1">traumatize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="jolly">
+			<sg number="1">
+				<word number="1" new="1">jolly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="atrophy">
+			<sg number="1">
+				<word number="1" new="1">atrophy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="shrimp">
+			<sg number="1">
+				<word number="1" new="1">shrimp</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unimproved">
+			<sg number="1">
+				<word number="1" paraRef="improve" headRef="687">unimproved</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">deteriorated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">altered</word>
+				<word number="2">altered for the worse</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">injured</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sprung</word>
+			</sg>
+			<sg number="6">
+				<word number="1">withering</word>
+				<word number="2" paraRef="" posRef="v.">spoiling</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on the wane</word>
+				<word number="2">on the decline</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tabid</word>
+			</sg>
+			<sg number="9">
+				<word number="1">degenerate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">marescent</word>
+			</sg>
+			<sg number="11">
+				<word number="1">worse</word>
+			</sg>
+			<sg number="12">
+				<word number="1">the worse for</word>
+				<word number="2">all the worse for</word>
+			</sg>
+			<sg number="13">
+				<word number="1">out of repair</word>
+				<word number="2">out of tune</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="imperfect" headRef="680">imperfect</word>
+			</sg>
+			<sg number="15">
+				<word number="1">the worse for wear</word>
+			</sg>
+			<sg number="16">
+				<word number="1">battered</word>
+			</sg>
+			<sg number="17">
+				<word number="1">weathered</word>
+				<word number="2">weather-beaten</word>
+			</sg>
+			<sg number="18">
+				<word number="1">stale</word>
+				<word number="2">passe</word>
+				<word number="3">shaken</word>
+				<word number="4">dilapidated</word>
+				<word number="5">frayed</word>
+				<word number="6">faded</word>
+				<word number="7">wilted</word>
+				<word number="8">shabby</word>
+				<word number="9">secondhand</word>
+				<word number="10">threadbare</word>
+				<word number="11" new="1">redeposited</word>
+			</sg>
+			<sg number="19">
+				<word number="1">worn</word>
+				<word number="2">worn to a thread</word>
+				<word number="3">worn to  a shadow</word>
+				<word number="4">worn to the stump</word>
+				<word number="5">worn to rags</word>
+			</sg>
+			<sg number="20">
+				<word number="1">reduced</word>
+				<word number="2">reduced to a skeleton</word>
+			</sg>
+			<sg number="21">
+				<word number="1">far gone</word>
+			</sg>
+			<sg number="22">
+				<word number="1">tacky</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="decayed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">decayed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">moth-eaten</word>
+				<word number="2">worm-eaten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mildewed</word>
+				<word number="2">rusty</word>
+				<word number="3">moldy</word>
+				<word number="4">spotted</word>
+				<word number="5">seedy</word>
+				<word number="6">time-worn</word>
+				<word number="7">moss-grown</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discolored</word>
+			</sg>
+			<sg number="5">
+				<word number="1">effete</word>
+				<word number="2">wasted</word>
+				<word number="3">crumbling</word>
+				<word number="4">moldering</word>
+				<word number="5">rotten</word>
+				<word number="6">cankered</word>
+				<word number="7">blighted</word>
+				<word number="8">tainted</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="vicious" headRef="987">depraved</word>
+			</sg>
+			<sg number="7">
+				<word number="1">decrepid</word>
+				<word number="2">decrepit</word>
+			</sg>
+			<sg number="8">
+				<word number="1">broke</word>
+				<word number="2">busted</word>
+				<word number="3">broken</word>
+				<word number="4">out of commission</word>
+				<word number="5">hors de combat</word>
+				<word number="6">out of action</word>
+				<word number="7">broken down</word>
+			</sg>
+			<sg number="9">
+				<word number="1">done</word>
+				<word number="2">done for</word>
+				<word number="3">done up</word>
+			</sg>
+			<sg number="10">
+				<word number="1">worn out</word>
+				<word number="2">used up</word>
+				<word number="3">finished</word>
+			</sg>
+			<sg number="11">
+				<word number="1">beyond saving</word>
+				<word number="2">fit for the dust hole</word>
+				<word number="3">fit for the wastepaper basket</word>
+				<word number="4" paraRef="useless" headRef="674">past work</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="at a low ebb">
+			<sg number="1">
+				<word number="1">at a low ebb</word>
+				<word number="2">in a bad way</word>
+				<word number="3">on one's last legs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undermined</word>
+				<word number="2">deciduous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="destruction" headRef="169">nodding to its fall</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="dangerous" headRef="694">tottering</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="hopeless" headRef="898">past cure</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="fatigued" headRef="717">fatigued</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="retrogressive" headRef="294">retrograde</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="deleterious" headRef="678">deleterious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="out of the frying pan into the fire">
+			<sg number="1">
+				<word number="1">out of the frying pan into the fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agrescit medendo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"what a falling off was there!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

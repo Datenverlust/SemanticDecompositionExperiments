@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1017" name="Penalty" origNum="#974." class="8" section="4" subSection="5" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="penalty">
+			<sg number="1">
+				<word number="1">penalty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="punishment" headRef="1015">retribution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pain</word>
+				<word number="2">pains and penalties</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weregild</word>
+				<word number="2">wergild</word>
+			</sg>
+			<sg number="5">
+				<word number="1">peine forte et dure</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="atonement" headRef="994">penance</word>
+			</sg>
+			<sg number="7">
+				<word number="1">the devil to pay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fine">
+			<sg number="1">
+				<word number="1">fine</word>
+				<word number="2">mulct</word>
+				<word number="3">amercement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forfeit</word>
+				<word number="2">forfeiture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">escheat</word>
+				<word number="2">damages</word>
+				<word number="3">deodand</word>
+				<word number="4">sequestration</word>
+				<word number="5">confiscation</word>
+				<word number="6">premunire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">doomage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fine">
+			<sg number="1">
+				<word number="1">fine</word>
+				<word number="2">mulct</word>
+				<word number="3">amerce</word>
+				<word number="4">sconce</word>
+				<word number="5">confiscate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sequestrate</word>
+				<word number="2">sequester</word>
+			</sg>
+			<sg number="3">
+				<word number="1">escheat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">estreat</word>
+				<word number="2">forfeit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="227" name="Obliquity" origNum="#217." class="2" section="2" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="obliquity">
+			<sg number="1">
+				<word number="1">obliquity</word>
+				<word number="2">inclination</word>
+				<word number="3">slope</word>
+				<word number="4">slant</word>
+				<word number="5" paraRef="" posRef="adj.">crookedness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slopeness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">leaning</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bevel</word>
+				<word number="2">tilt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bias</word>
+				<word number="2">list</word>
+				<word number="3">twist</word>
+				<word number="4">swag</word>
+				<word number="5">cant</word>
+				<word number="6">lurch</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="distortion" headRef="253">distortion</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="curve" headRef="255">bend</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tower of Pisa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acclivity">
+			<sg number="1">
+				<word number="1">acclivity</word>
+				<word number="2">rise</word>
+				<word number="3">ascent</word>
+				<word number="4">gradient</word>
+				<word number="5">khudd</word>
+				<word number="6">rising ground</word>
+				<word number="7">hill</word>
+				<word number="8">bank</word>
+				<word number="9">declivity</word>
+				<word number="10">downhill</word>
+				<word number="11">dip</word>
+				<word number="12">fall</word>
+				<word number="13">devexity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gentle slope</word>
+				<word number="2">rapid slope</word>
+				<word number="3">easy ascent</word>
+				<word number="4">easy descent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shelving beach</word>
+			</sg>
+			<sg number="4">
+				<word number="1">talus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">monagne Russe</word>
+			</sg>
+			<sg number="6">
+				<word number="1">facilis descensus averni</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="intersect">
+			<sg number="1">
+				<word number="1">intersect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lack parallelism</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

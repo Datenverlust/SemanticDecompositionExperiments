@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="797" name="Deprecation" origNum="#766." class="7" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deprecation">
+			<sg number="1">
+				<word number="1">deprecation</word>
+				<word number="2">expostulation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intercession</word>
+				<word number="2">mediation</word>
+				<word number="3">protest</word>
+				<word number="4">remonstrance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="deprecate">
+			<sg number="1">
+				<word number="1">deprecate</word>
+				<word number="2">protest</word>
+				<word number="3">expostulate</word>
+				<word number="4">enter a protest</word>
+				<word number="5">intercede for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">remonstrate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="deprecatory">
+			<sg number="1">
+				<word number="1">deprecatory</word>
+				<word number="2">expostulatory</word>
+				<word number="3">intercessory</word>
+				<word number="4">mediatorial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deprecated">
+			<sg number="1">
+				<word number="1">deprecated</word>
+				<word number="2">protested</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unsought">
+			<sg number="1">
+				<word number="1">unsought</word>
+				<word number="2">unbesought</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ask" headRef="796">unasked</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="cry you mercy">
+			<sg number="1">
+				<word number="1">cry you mercy!</word>
+				<word number="2">God forbid!</word>
+				<word number="3">forbid it Heaven!</word>
+				<word number="4">Heaven forefend</word>
+				<word number="5">Heaven forbid!</word>
+				<word number="6">far be it from!</word>
+				<word number="7" paraRef="prohibition" headRef="792">hands off!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">please don't</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="773" name="Disobedience" origNum="#742." class="7" section="1" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disobedience">
+			<sg number="1">
+				<word number="1">disobedience</word>
+				<word number="2">insubordination</word>
+				<word number="3">contumacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infraction</word>
+				<word number="2">infringement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">violation</word>
+				<word number="2">noncompliance</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="nonobservance" headRef="805">nonobservance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="revolt">
+			<sg number="1">
+				<word number="1">revolt</word>
+				<word number="2">rebellion</word>
+				<word number="3">mutiny</word>
+				<word number="4">outbreak</word>
+				<word number="5">rising</word>
+				<word number="6">uprising</word>
+				<word number="7">insurrection</word>
+				<word number="8">emeute</word>
+				<word number="9" new="1">coup</word>
+				<word number="10" new="1">revolution</word>
+			</sg>
+			<sg number="2">
+				<word number="1">riot</word>
+				<word number="2" paraRef="disorder" headRef="62">tumult</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="resistance" headRef="748">strike</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barring out</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="defiance" headRef="744">defiance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mutinousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">mutinousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mutineering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sedition</word>
+				<word number="2">treason</word>
+			</sg>
+			<sg number="4">
+				<word number="1">high treason</word>
+				<word number="2">petty treason</word>
+				<word number="3">misprision of treason</word>
+			</sg>
+			<sg number="5">
+				<word number="1">premunire</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lese majeste</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="violation of law" headRef="1007">violation of law</word>
+			</sg>
+			<sg number="8">
+				<word number="1">defection</word>
+				<word number="2">secession</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="insurgent">
+			<sg number="1">
+				<word number="1">insurgent</word>
+				<word number="2">mutineer</word>
+				<word number="3">rebel</word>
+				<word number="4">revolter</word>
+				<word number="5">revolutionary</word>
+				<word number="6">rioter</word>
+				<word number="7">traitor</word>
+				<word number="8">quisling</word>
+				<word number="9">carbonaro</word>
+				<word number="10">sansculottes</word>
+				<word number="11">red republican</word>
+				<word number="12">bonnet rouge</word>
+				<word number="13">communist</word>
+				<word number="14">Fenian</word>
+				<word number="15">frondeur</word>
+				<word number="16" new="1">conspirator</word>
+				<word number="17" new="1">partisan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seceder</word>
+				<word number="2">secessionist</word>
+				<word number="3">runagate</word>
+				<word number="4">renegade</word>
+				<word number="5">brawler</word>
+				<word number="6">anarchist</word>
+				<word number="7">demagogue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Spartacus</word>
+				<word number="2">Masaniello</word>
+				<word number="3">Wat Tyler</word>
+				<word number="4">Jack Cade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ringleader</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disobey">
+			<sg number="1">
+				<word number="1">disobey</word>
+				<word number="2">violate</word>
+				<word number="3">infringe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shirk</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="defy" headRef="744">set at defiance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set authority at naught</word>
+				<word number="2">run riot</word>
+				<word number="3">fly in the face of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take the law into one's own hands</word>
+			</sg>
+			<sg number="6">
+				<word number="1">kick over the traces</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="turn restive">
+			<sg number="1">
+				<word number="1">turn restive</word>
+				<word number="2">run restive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">champ the bit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="resist" headRef="748">strike</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rise</word>
+				<word number="2">rise in arms</word>
+			</sg>
+			<sg number="5">
+				<word number="1">secede</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mutiny</word>
+				<word number="2">rebel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disobedient">
+			<sg number="1">
+				<word number="1">disobedient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncomplying</word>
+				<word number="2">uncompliant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unsubmissive</word>
+				<word number="2">unruly</word>
+				<word number="3">ungovernable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">breachy</word>
+				<word number="2">insubordinate</word>
+				<word number="3">impatient of control</word>
+				<word number="4">incorrigible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">restiff</word>
+				<word number="2">restive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">refractory</word>
+				<word number="2">contumacious</word>
+				<word number="3" paraRef="refuse" headRef="795">recusant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">recalcitrant</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="resisting" headRef="748">resisting</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lawless</word>
+				<word number="2">mutinous</word>
+				<word number="3">seditions</word>
+				<word number="4">insurgent</word>
+				<word number="5">riotous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unobeyed">
+			<sg number="1">
+				<word number="1">unobeyed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbidden</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="seditiosissimus quisque ignavus">
+			<sg number="1">
+				<word number="1">seditiosissimus quisque ignavus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"unthread the rude eye of rebellion"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="375" name="Interment" origNum="#363." class="3" section="3" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="interment">
+			<sg number="1">
+				<word number="1">interment</word>
+				<word number="2">burial</word>
+				<word number="3">sepulture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inhumation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obsequies</word>
+				<word number="2">exequies</word>
+			</sg>
+			<sg number="4">
+				<word number="1">funeral</word>
+				<word number="2">wake</word>
+				<word number="3">pyre</word>
+				<word number="4">funeral pile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cremation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">loft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="funeral">
+			<sg number="1">
+				<word number="1">funeral</word>
+				<word number="2">funeral rite</word>
+				<word number="3">funeral solemnity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kneel</word>
+				<word number="2">passing bell</word>
+				<word number="3">tolling</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lamentation" headRef="877">dirge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cypress</word>
+			</sg>
+			<sg number="5">
+				<word number="1">orbit</word>
+				<word number="2">dead march</word>
+				<word number="3">muffled drum</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mortuary</word>
+				<word number="2">undertaker</word>
+				<word number="3">mute</word>
+			</sg>
+			<sg number="7">
+				<word number="1">elegy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">funeral</word>
+				<word number="2">funeral oration</word>
+				<word number="3">funeral sermon</word>
+			</sg>
+			<sg number="9">
+				<word number="1">epitaph</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="graveclothes">
+			<sg number="1">
+				<word number="1">graveclothes</word>
+				<word number="2">shroud</word>
+				<word number="3">winding sheet</word>
+				<word number="4">cerecloth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cerement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="coffin">
+			<sg number="1">
+				<word number="1">coffin</word>
+				<word number="2">shell</word>
+				<word number="3">sarcophagus</word>
+				<word number="4">urn</word>
+				<word number="5">pall</word>
+				<word number="6">bier</word>
+				<word number="7">hearse</word>
+				<word number="8">catafalque</word>
+				<word number="9">cinerary urn</word>
+				<word number="10" new="1">wavefront</word>
+				<word number="11" new="1">cinder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="grave">
+			<sg number="1">
+				<word number="1">grave</word>
+				<word number="2">pit</word>
+				<word number="3">sepulcher</word>
+				<word number="4">tomb</word>
+				<word number="5">vault</word>
+				<word number="6">crypt</word>
+				<word number="7">catacomb</word>
+				<word number="8">mausoleum</word>
+				<word number="9">Golgotha</word>
+				<word number="10">house of death</word>
+				<word number="11">narrow house</word>
+				<word number="12" new="1">planned</word>
+				<word number="13" new="1">personae</word>
+				<word number="14" new="1">baroque</word>
+				<word number="15" new="1">photojournalist</word>
+				<word number="16" new="1">fragment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cemetery</word>
+				<word number="2">necropolis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">burial place</word>
+				<word number="2">burial ground</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grave yard</word>
+				<word number="2">church yard</word>
+			</sg>
+			<sg number="5">
+				<word number="1">God's acre</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tope</word>
+				<word number="2">cromlech</word>
+				<word number="3">barrow</word>
+				<word number="4">tumulus</word>
+				<word number="5">cairn</word>
+				<word number="6" new="1">batik</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ossuary</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bone house</word>
+				<word number="2">charnel house</word>
+				<word number="3">dead house</word>
+			</sg>
+			<sg number="9">
+				<word number="1">morgue</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lich gate</word>
+			</sg>
+			<sg number="11">
+				<word number="1">burning ghat</word>
+			</sg>
+			<sg number="12">
+				<word number="1">crematorium</word>
+				<word number="2">crematory</word>
+			</sg>
+			<sg number="13">
+				<word number="1">dokhma</word>
+				<word number="2">mastaba</word>
+				<word number="3">potter's field</word>
+				<word number="4">stupa</word>
+				<word number="5">Tower of Silence</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">radicchio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sexton">
+			<sg number="1">
+				<word number="1">sexton</word>
+				<word number="2">gravedigger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="monument">
+			<sg number="1">
+				<word number="1">monument</word>
+				<word number="2">cenotaph</word>
+				<word number="3">shrine</word>
+				<word number="4" new="1">supremo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grave stone</word>
+				<word number="2">head stone</word>
+				<word number="3">tomb stone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">memento mori</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hatchment</word>
+				<word number="2">stone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">obelisk</word>
+				<word number="2">pyramid</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">wetland</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">lashing</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">flex</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">information</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="exhumation">
+			<sg number="1">
+				<word number="1">exhumation</word>
+				<word number="2">disinterment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">necropsy</word>
+				<word number="2">autopsy</word>
+				<word number="3">post mortem examination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">zoothapsis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="exclaiming">
+			<sg number="1">
+				<word number="1" new="1">exclaiming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="sysop">
+			<sg number="1">
+				<word number="1" new="1">sysop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="solarization">
+			<sg number="1">
+				<word number="1" new="1">solarization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="vejk">
+			<sg number="1">
+				<word number="1" new="1">vejk</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="inter">
+			<sg number="1">
+				<word number="1">inter</word>
+				<word number="2">bury</word>
+				<word number="3" new="1">legitimise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay in the grave</word>
+				<word number="2">consign to the grave</word>
+				<word number="3">lay in the tomb</word>
+				<word number="4">entomb</word>
+				<word number="5">in tomb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inhume</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lay out</word>
+				<word number="2">perform a funeral</word>
+				<word number="3">embalm</word>
+				<word number="4">mummify</word>
+				<word number="5" new="1">skirt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">toll the knell</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put to bed with a shovel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">inurn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exhume">
+			<sg number="1">
+				<word number="1">exhume</word>
+				<word number="2">disinter</word>
+				<word number="3">unearth</word>
+				<word number="4" new="1">guide</word>
+				<word number="5" new="1">yield</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="buried">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">buried</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burial</word>
+				<word number="2">funereal</word>
+				<word number="3">funebrial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mortuary</word>
+				<word number="2">sepulchral</word>
+				<word number="3">cinerary</word>
+				<word number="4" new="1">incidental</word>
+			</sg>
+			<sg number="4">
+				<word number="1">elegiac</word>
+			</sg>
+			<sg number="5">
+				<word number="1">necroscopic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in memoriam">
+			<sg number="1">
+				<word number="1">in memoriam</word>
+			</sg>
+			<sg number="2">
+				<word number="1">post obit</word>
+				<word number="2">post mortem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">beneath the sod</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="hic jacet">
+			<sg number="1">
+				<word number="1">hic jacet</word>
+				<word number="2">ci-git</word>
+			</sg>
+			<sg number="2">
+				<word number="1">RIP</word>
+			</sg>
+			<sg number="3">
+				<word number="1">requiescat in pace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"the lone couch of his everlasting sleep"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"without a grave- unknell'd</word>
+				<word number="2">uncoffin'd</word>
+				<word number="3">and unknown"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"in the dark union of insensate dust"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the deep cold shadow of the tomb"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

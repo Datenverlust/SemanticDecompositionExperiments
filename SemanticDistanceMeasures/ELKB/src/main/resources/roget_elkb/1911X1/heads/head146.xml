@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="146" name="Irregularity of recurrence" origNum="#139." class="1" section="6" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="irregularity">
+			<sg number="1">
+				<word number="1">irregularity</word>
+				<word number="2">uncertainty</word>
+				<word number="3">unpunctuality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">fitfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capriciousness</word>
+				<word number="2">ecrhythmus|</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="irregular">
+			<sg number="1">
+				<word number="1">irregular</word>
+				<word number="2">uncertain</word>
+				<word number="3">unpunctual</word>
+				<word number="4">capricious</word>
+				<word number="5">desultory</word>
+				<word number="6">fitful</word>
+				<word number="7">flickering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rambling</word>
+				<word number="2">rhapsodical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spasmodic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">immethodical</word>
+				<word number="2">unmethodical</word>
+				<word number="3">variable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="irregularly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">irregularly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discontinuous" headRef="74">by fits and starts</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

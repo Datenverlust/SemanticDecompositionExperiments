@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="287" name="Impulse" origNum="#276." class="2" section="4" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impulse">
+			<sg number="1">
+				<word number="1">impulse</word>
+				<word number="2">impulsion</word>
+				<word number="3">impetus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">momentum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">push</word>
+				<word number="2">pulsion</word>
+				<word number="3">thrust</word>
+				<word number="4">shove</word>
+				<word number="5">jog</word>
+				<word number="6">jolt</word>
+				<word number="7">brunt</word>
+				<word number="8">booming</word>
+				<word number="9">boost</word>
+				<word number="10">throw</word>
+				<word number="11" new="1">pull</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="violence" headRef="180">explosion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="propulsion" headRef="295">propulsion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="percussion">
+			<sg number="1">
+				<word number="1">percussion</word>
+				<word number="2">concussion</word>
+				<word number="3">collision</word>
+				<word number="4">occursion</word>
+				<word number="5">clash</word>
+				<word number="6">encounter</word>
+				<word number="7">cannon</word>
+				<word number="8">carambole</word>
+				<word number="9">appulse</word>
+				<word number="10">shock</word>
+				<word number="11">crash</word>
+				<word number="12">bump</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impact</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elan</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="attack" headRef="745">charge</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="punishment" headRef="1015">beating</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="blow">
+			<sg number="1">
+				<word number="1">blow</word>
+				<word number="2">dint</word>
+				<word number="3">stroke</word>
+				<word number="4">knock</word>
+				<word number="5">tap</word>
+				<word number="6">rap</word>
+				<word number="7">slap</word>
+				<word number="8">smack</word>
+				<word number="9">pat</word>
+				<word number="10">dab</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fillip</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slam</word>
+				<word number="2">bang</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hit</word>
+				<word number="2">whack</word>
+				<word number="3">thwack</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="cuff" headRef="1015">cuff</word>
+			</sg>
+			<sg number="6">
+				<word number="1">squash</word>
+				<word number="2">dowse</word>
+				<word number="3">swap</word>
+				<word number="4">whap</word>
+				<word number="5">punch</word>
+				<word number="6">thump</word>
+				<word number="7">pelt</word>
+				<word number="8">kick</word>
+				<word number="9">punce</word>
+				<word number="10">calcitration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ruade</word>
+			</sg>
+			<sg number="8">
+				<word number="1">arietation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cut</word>
+				<word number="2">thrust</word>
+				<word number="3">lunge</word>
+				<word number="4">yerk</word>
+			</sg>
+			<sg number="10">
+				<word number="1">carom</word>
+				<word number="2">carrom</word>
+				<word number="3">clip *</word>
+				<word number="4">jab</word>
+				<word number="5">plug*</word>
+				<word number="6">sidewinder*</word>
+				<word number="7">sidewipe</word>
+				<word number="8">sideswipe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hammer">
+			<sg number="1">
+				<word number="1">hammer</word>
+				<word number="2">sledge hammer</word>
+				<word number="3">mall</word>
+				<word number="4">maul</word>
+				<word number="5">mallet</word>
+				<word number="6">flail</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ram</word>
+				<word number="2">rammer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">battering ram</word>
+				<word number="2">monkey</word>
+				<word number="3">pile-driving engine</word>
+				<word number="4">punch</word>
+				<word number="5">bat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cant hook</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="weapon" headRef="756">cudgel</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="sharp" headRef="264">ax</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dynamics">
+			<sg number="1">
+				<word number="1">dynamics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seismometer</word>
+				<word number="2">accelerometer</word>
+				<word number="3">earthquake detector</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="give an impetus">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">give an impetus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impel</word>
+				<word number="2">push</word>
+			</sg>
+			<sg number="3">
+				<word number="1">start</word>
+				<word number="2">give a start to</word>
+				<word number="3">set going</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drive</word>
+				<word number="2">urge</word>
+				<word number="3">boom</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thrust</word>
+				<word number="2">prod</word>
+				<word number="3">foin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">elbow</word>
+				<word number="2">shoulder</word>
+				<word number="3">jostle</word>
+				<word number="4">justle</word>
+				<word number="5">hustle</word>
+				<word number="6">hurtle</word>
+				<word number="7">shove</word>
+				<word number="8">jog</word>
+				<word number="9">jolt</word>
+				<word number="10">encounter</word>
+			</sg>
+			<sg number="8">
+				<word number="1">run against</word>
+				<word number="2">bump against</word>
+				<word number="3">butt against</word>
+			</sg>
+			<sg number="9">
+				<word number="1">knock one's head against</word>
+				<word number="2">run one's head against</word>
+			</sg>
+			<sg number="10">
+				<word number="1">impinge</word>
+			</sg>
+			<sg number="11">
+				<word number="1">boost</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bunt</word>
+				<word number="2">carom</word>
+				<word number="3">clip y</word>
+			</sg>
+			<sg number="13">
+				<word number="1">fan</word>
+				<word number="2">fan out</word>
+			</sg>
+			<sg number="14">
+				<word number="1">jab</word>
+				<word number="2">plug *</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">pull</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="strike">
+			<sg number="1">
+				<word number="1">strike</word>
+				<word number="2">knock</word>
+				<word number="3">hit</word>
+				<word number="4">tap</word>
+				<word number="5">rap</word>
+				<word number="6">slap</word>
+				<word number="7">flap</word>
+				<word number="8">dab</word>
+				<word number="9">pat</word>
+				<word number="10">thump</word>
+				<word number="11">beat</word>
+				<word number="12">blow</word>
+				<word number="13">bang</word>
+				<word number="14">slam</word>
+				<word number="15">dash</word>
+				<word number="16" new="1">toss</word>
+			</sg>
+			<sg number="2">
+				<word number="1">punch</word>
+				<word number="2">thwack</word>
+				<word number="3">whack</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hit hard</word>
+				<word number="2">strike hard</word>
+			</sg>
+			<sg number="4">
+				<word number="1">swap</word>
+				<word number="2">batter</word>
+				<word number="3">dowse</word>
+				<word number="4">baste</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pelt</word>
+				<word number="2">patter</word>
+				<word number="3">buffet</word>
+				<word number="4">belabor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fetch one a blow</word>
+			</sg>
+			<sg number="7">
+				<word number="1">poke at</word>
+				<word number="2">pink</word>
+				<word number="3">lunge</word>
+				<word number="4">yerk</word>
+			</sg>
+			<sg number="8">
+				<word number="1">kick</word>
+				<word number="2">calcitrate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">butt</word>
+				<word number="2" paraRef="attack" headRef="745">strike at</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="punish" headRef="1015">whip</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">smack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="come into a collision">
+			<sg number="1">
+				<word number="1">come into a collision</word>
+				<word number="2">enter into collision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">collide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sideswipe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">foul</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall foul of</word>
+				<word number="2">run foul of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">telescope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="throw">
+			<sg number="1">
+				<word number="1" paraRef="propel" headRef="295">throw</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="impelling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">impelling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impulsive</word>
+				<word number="2">impellent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">booming</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dynamic</word>
+				<word number="2">dynamical</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">impelled</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a hit">
+			<sg number="1">
+				<word number="1">"a hit</word>
+				<word number="2">a very palpable hit"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

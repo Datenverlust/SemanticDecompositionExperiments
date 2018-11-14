@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="90" name="List" origNum="#86." class="1" section="5" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="list">
+			<sg number="1">
+				<word number="1">list</word>
+				<word number="2">catalog</word>
+				<word number="3">catalogue</word>
+				<word number="4">inventory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="record" headRef="577">register</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="account">
+			<sg number="1">
+				<word number="1">account</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bill</word>
+				<word number="2">bill of costs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">terrier</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tally</word>
+				<word number="2">listing</word>
+				<word number="3">itemization</word>
+			</sg>
+			<sg number="5">
+				<word number="1">atlas</word>
+			</sg>
+			<sg number="6">
+				<word number="1">book</word>
+				<word number="2">ledger</word>
+			</sg>
+			<sg number="7">
+				<word number="1">catalogue raisonne</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tableau</word>
+			</sg>
+			<sg number="9">
+				<word number="1">invoice</word>
+				<word number="2">bill of lading</word>
+			</sg>
+			<sg number="10">
+				<word number="1">prospectus</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bill of fare</word>
+				<word number="2">menu</word>
+				<word number="3">carte</word>
+			</sg>
+			<sg number="12">
+				<word number="1">score</word>
+				<word number="2">census</word>
+				<word number="3">statistics</word>
+				<word number="4">returns</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="contents">
+			<sg number="1">
+				<word number="1">contents</word>
+				<word number="2">table of contents</word>
+				<word number="3">outline</word>
+			</sg>
+			<sg number="2">
+				<word number="1">synopsis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="program">
+			<sg number="1">
+				<word number="1">program</word>
+				<word number="2">programme</word>
+			</sg>
+			<sg number="2">
+				<word number="1">syllabus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">agenda</word>
+				<word number="2">schedule</word>
+				<word number="3">calendar</word>
+				<word number="4">docket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="listing">
+			<sg number="1">
+				<word number="1">listing</word>
+				<word number="2">printout</word>
+				<word number="3">output</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="checklist">
+			<sg number="1">
+				<word number="1">checklist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="table">
+			<sg number="1">
+				<word number="1">table</word>
+				<word number="2">chart</word>
+				<word number="3">database</word>
+			</sg>
+			<sg number="2">
+				<word number="1">index</word>
+				<word number="2">inverted file</word>
+				<word number="3">word list</word>
+				<word number="4">concordance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="dictionary">
+			<sg number="1">
+				<word number="1">dictionary</word>
+				<word number="2">lexicon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vocabulary</word>
+				<word number="2">glossary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thesaurus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="file">
+			<sg number="1">
+				<word number="1">file</word>
+				<word number="2">card index</word>
+				<word number="3">card file</word>
+				<word number="4">rolodex</word>
+				<word number="5">address book</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="Red book">
+			<sg number="1">
+				<word number="1">Red book</word>
+				<word number="2">Blue book</word>
+				<word number="3">Domesday book</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cadastre</word>
+			</sg>
+			<sg number="3">
+				<word number="1">directory</word>
+				<word number="2">gazetter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="almanac">
+			<sg number="1">
+				<word number="1">almanac</word>
+			</sg>
+			<sg number="2">
+				<word number="1">army list</word>
+				<word number="2">clergy list</word>
+				<word number="3">civil service list</word>
+				<word number="4">navy list</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Almanach de Gotha</word>
+				<word number="2">cadaster</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Lloyd's register</word>
+				<word number="2">nautical almanac</word>
+			</sg>
+			<sg number="5">
+				<word number="1">who's who</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Guiness's Book of World Records</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="roll">
+			<sg number="1">
+				<word number="1">roll</word>
+			</sg>
+			<sg number="2">
+				<word number="1">check roll</word>
+				<word number="2">checker roll</word>
+				<word number="3">bead roll</word>
+			</sg>
+			<sg number="3">
+				<word number="1">muster roll</word>
+				<word number="2">muster book</word>
+			</sg>
+			<sg number="4">
+				<word number="1">roster</word>
+				<word number="2">panel</word>
+				<word number="3">jury list</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cartulary</word>
+				<word number="2">diptych</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="list">
+			<sg number="1">
+				<word number="1">list</word>
+				<word number="2">itemize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sort</word>
+				<word number="2">collate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enumerate</word>
+				<word number="2">tabulate</word>
+				<word number="3">catalog</word>
+				<word number="4">tally</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cadastral">
+			<sg number="1">
+				<word number="1">cadastral</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

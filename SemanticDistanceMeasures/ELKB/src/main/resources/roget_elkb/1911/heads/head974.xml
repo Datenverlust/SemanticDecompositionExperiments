@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="974" name="Disapprobation" origNum="#932." class="8" section="4" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disapprobation">
+			<sg number="1">
+				<word number="1">disapprobation</word>
+				<word number="2">disapproval</word>
+			</sg>
+			<sg number="2">
+				<word number="1">improbation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disesteem</word>
+				<word number="2">disvaluation</word>
+				<word number="3">displacency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">odium</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="dislike" headRef="906">dislike</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dispraise">
+			<sg number="1">
+				<word number="1">dispraise</word>
+				<word number="2">discommendation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blame</word>
+				<word number="2">censure</word>
+				<word number="3">obloquy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="detraction" headRef="976">detraction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disparagement</word>
+				<word number="2">depreciation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">denunciation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="condemnation" headRef="1014">condemnation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ostracism</word>
+			</sg>
+			<sg number="8">
+				<word number="1">black list</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="animadversion">
+			<sg number="1">
+				<word number="1">animadversion</word>
+				<word number="2">reflection</word>
+				<word number="3">stricture</word>
+				<word number="4">objection</word>
+				<word number="5">exception</word>
+				<word number="6">criticism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sardonic grin</word>
+				<word number="2">sardonic laugh</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sarcasm</word>
+				<word number="2">insinuation</word>
+				<word number="3">innuendo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bad compliment</word>
+				<word number="2">poor compliment</word>
+				<word number="3">left-handed compliment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="satire">
+			<sg number="1">
+				<word number="1">satire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contempt" headRef="972">sneer</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disrespect" headRef="971">taunt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cavil</word>
+				<word number="2">carping</word>
+				<word number="3">censoriousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fastidiousness" headRef="907">hypercriticism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="reprehension">
+			<sg number="1">
+				<word number="1">reprehension</word>
+				<word number="2">remonstrance</word>
+				<word number="3">expostulation</word>
+				<word number="4">reproof</word>
+				<word number="5">reprobation</word>
+				<word number="6">admonition</word>
+				<word number="7">increpation</word>
+				<word number="8">reproach</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rebuke</word>
+				<word number="2">reprimand</word>
+				<word number="3">castigation</word>
+				<word number="4">jobation</word>
+				<word number="5">lecture</word>
+				<word number="6">curtain lecture</word>
+				<word number="7">blow up</word>
+				<word number="8">wigging</word>
+				<word number="9">dressing</word>
+				<word number="10">rating</word>
+				<word number="11">scolding</word>
+				<word number="12">trimming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">correction</word>
+				<word number="2">set down</word>
+				<word number="3">rap on the knuckles</word>
+				<word number="4">coup de bec</word>
+				<word number="5">rebuff</word>
+			</sg>
+			<sg number="4">
+				<word number="1">slap</word>
+				<word number="2">slap on the face</word>
+			</sg>
+			<sg number="5">
+				<word number="1">home thrust</word>
+				<word number="2">hit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">frown</word>
+				<word number="2">scowl</word>
+				<word number="3">black look</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="diatribe">
+			<sg number="1">
+				<word number="1">diatribe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jeremiad</word>
+				<word number="2">jeremiade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tirade</word>
+				<word number="2">philippic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="clamor">
+			<sg number="1">
+				<word number="1">clamor</word>
+				<word number="2">outcry</word>
+				<word number="3">hue and cry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hiss</word>
+				<word number="2">hissing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sibilance</word>
+				<word number="2">sibilation</word>
+				<word number="3">catcall</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="execration" headRef="948">execration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="chiding">
+			<sg number="1">
+				<word number="1">chiding</word>
+				<word number="2" paraRef="" posRef="v.">upbraiding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exprobation</word>
+				<word number="2">abuse</word>
+				<word number="3">vituperation</word>
+				<word number="4">invective</word>
+				<word number="5">objurgation</word>
+				<word number="6">contumely</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard words</word>
+				<word number="2">cutting words</word>
+				<word number="3">bitter words</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="evil-speaking">
+			<sg number="1">
+				<word number="1">evil-speaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bad language" headRef="948">bad language</word>
+			</sg>
+			<sg number="3">
+				<word number="1">personality</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disapprove">
+			<sg number="1">
+				<word number="1">disapprove</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dislike" headRef="906">dislike</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lament" headRef="877">lament</word>
+			</sg>
+			<sg number="4">
+				<word number="1">object to</word>
+				<word number="2">take exception to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be scandalized at</word>
+				<word number="2">think ill of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">view with disfavor</word>
+				<word number="2">view with dark eyes</word>
+				<word number="3">view with jaundiced eyes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nil admirari</word>
+				<word number="2">disvalue</word>
+			</sg>
+			<sg number="8">
+				<word number="1">improbate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="frown upon">
+			<sg number="1">
+				<word number="1">frown upon</word>
+				<word number="2">look grave</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bend the brows</word>
+				<word number="2">knit the brows</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shake the head at</word>
+				<word number="2">shrug the shoulders</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="contempt" headRef="972">turn up the nose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">look askance</word>
+				<word number="2">look black upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">look with an evil eye</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make a wry face</word>
+				<word number="2">make a wry mouth at</word>
+			</sg>
+			<sg number="8">
+				<word number="1">set one's face against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dispraise">
+			<sg number="1">
+				<word number="1">dispraise</word>
+				<word number="2">discommend</word>
+				<word number="3">disparage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deprecate</word>
+				<word number="2">speak ill of</word>
+				<word number="3">not speak well of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="find guilty" headRef="1014">condemn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="blame">
+			<sg number="1">
+				<word number="1">blame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay blame upon</word>
+				<word number="2">cast blame upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">censure</word>
+				<word number="2">fronder</word>
+				<word number="3">reproach</word>
+				<word number="4">pass censure on</word>
+				<word number="5">reprobate</word>
+				<word number="6">impugn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="remonstrate">
+			<sg number="1">
+				<word number="1">remonstrate</word>
+				<word number="2">expostulate</word>
+				<word number="3">recriminate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="reprehend">
+			<sg number="1">
+				<word number="1">reprehend</word>
+				<word number="2">chide</word>
+				<word number="3">admonish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">berate</word>
+				<word number="2">betongue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bring to account</word>
+				<word number="2">call to account</word>
+				<word number="3">call over the coals</word>
+				<word number="4">rake over the coals</word>
+				<word number="5">call to order</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take to task</word>
+				<word number="2">reprove</word>
+				<word number="3">lecture</word>
+				<word number="4">bring to book</word>
+			</sg>
+			<sg number="5">
+				<word number="1">read a lesson</word>
+				<word number="2">read a lecture to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rebuke</word>
+				<word number="2">correct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="reprimand">
+			<sg number="1">
+				<word number="1">reprimand</word>
+				<word number="2">chastise</word>
+				<word number="3">castigate</word>
+				<word number="4">lash</word>
+				<word number="5">blow up</word>
+				<word number="6">trounce</word>
+				<word number="7">trim</word>
+				<word number="8">laver la tete</word>
+				<word number="9">overhaul</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give it one</word>
+				<word number="2">give it one finely</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gibbet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="accuse">
+			<sg number="1">
+				<word number="1" paraRef="accuse" headRef="980">accuse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impeach</word>
+				<word number="2">denounce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold up to reprobation</word>
+				<word number="2">hold up to execration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">expose</word>
+				<word number="2">brand</word>
+				<word number="3">gibbet</word>
+				<word number="4">stigmatize</word>
+			</sg>
+			<sg number="5">
+				<word number="1">show up</word>
+				<word number="2">pull up</word>
+				<word number="3">take up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cry "shame" upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">be outspoken</word>
+			</sg>
+			<sg number="8">
+				<word number="1">raise a hue and cry against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="execrate">
+			<sg number="1">
+				<word number="1" paraRef="execrate" headRef="948">execrate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exprobate</word>
+				<word number="2">speak daggers</word>
+				<word number="3">vituperate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abuse</word>
+				<word number="2">abuse like a pickpocket</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scold</word>
+				<word number="2">rate</word>
+				<word number="3">objurgate</word>
+				<word number="4">upbraid</word>
+				<word number="5">fall foul of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jaw</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rail</word>
+				<word number="2">rail at</word>
+				<word number="3">rail in good set terms</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bark at</word>
+			</sg>
+			<sg number="8">
+				<word number="1">anathematize</word>
+				<word number="2">call names</word>
+			</sg>
+			<sg number="9">
+				<word number="1">call by hard names</word>
+				<word number="2">call by ugly names</word>
+			</sg>
+			<sg number="10">
+				<word number="1">avile</word>
+				<word number="2">revile</word>
+			</sg>
+			<sg number="11">
+				<word number="1">vilify</word>
+				<word number="2">vilipend</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bespatter</word>
+			</sg>
+			<sg number="13">
+				<word number="1">backbite</word>
+			</sg>
+			<sg number="14">
+				<word number="1">clapperclaw</word>
+			</sg>
+			<sg number="15">
+				<word number="1">rave against</word>
+				<word number="2">thunder against</word>
+				<word number="3">fulminate against</word>
+			</sg>
+			<sg number="16">
+				<word number="1">load with reproaches</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="exclaim against">
+			<sg number="1">
+				<word number="1">exclaim against</word>
+				<word number="2">protest against</word>
+				<word number="3">inveigh against</word>
+				<word number="4">declaim against</word>
+				<word number="5">cry out against</word>
+				<word number="6">raise one's voice against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="decry">
+			<sg number="1">
+				<word number="1">decry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cry down</word>
+				<word number="2">run  down</word>
+				<word number="3">frown down</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clamor</word>
+				<word number="2">hiss</word>
+				<word number="3">hoot</word>
+				<word number="4">mob</word>
+				<word number="5">ostracize</word>
+				<word number="6">blacklist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">draw up a round robin</word>
+				<word number="2">sign a round robin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="animadvert upon">
+			<sg number="1">
+				<word number="1">animadvert upon</word>
+				<word number="2">reflect upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glance at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cast reflection</word>
+				<word number="2">cast reproach</word>
+				<word number="3">cast a slur upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">insinuate</word>
+				<word number="2">damn with faint praise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"hint a fault and hesitate dislike"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">not to be able to say much for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="scoff at">
+			<sg number="1">
+				<word number="1">scoff at</word>
+				<word number="2">point at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">twit</word>
+				<word number="2" paraRef="disrespect" headRef="971">taunt</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="despise" headRef="972">sneer at</word>
+			</sg>
+			<sg number="4">
+				<word number="1">satirize</word>
+				<word number="2">lampoon</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="detract" headRef="976">defame</word>
+			</sg>
+			<sg number="6">
+				<word number="1">depreciate</word>
+				<word number="2">find fault with</word>
+				<word number="3">criticize</word>
+				<word number="4">cut up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pull to pieces</word>
+				<word number="2">pick to pieces</word>
+			</sg>
+			<sg number="8">
+				<word number="1">take exception</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cavil</word>
+			</sg>
+			<sg number="10">
+				<word number="1">peck at</word>
+				<word number="2">nibble at</word>
+				<word number="3">carp at</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="" posRef="adj.">be censorious</word>
+			</sg>
+			<sg number="12">
+				<word number="1">pick holes</word>
+				<word number="2">pick a hole</word>
+				<word number="3">pick a hole in one's coat</word>
+			</sg>
+			<sg number="13">
+				<word number="1">make a fuss about</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="take down">
+			<sg number="1">
+				<word number="1">take down</word>
+				<word number="2">take down a peg</word>
+				<word number="3">set down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snub</word>
+				<word number="2">snap one up</word>
+				<word number="3">give a rap on the knuckles</word>
+			</sg>
+			<sg number="3">
+				<word number="1">throw a stone at</word>
+				<word number="2">throw a stone in one's garden</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have a fling</word>
+				<word number="2">have a snap at</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have words with</word>
+				<word number="2">pluck a crow with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give one a wipe</word>
+				<word number="2">give one a lick with the rough side of the tongue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="incur blame">
+			<sg number="1">
+				<word number="1">incur blame</word>
+				<word number="2">excite disapprobation</word>
+				<word number="3">scandalize</word>
+				<word number="4">shock</word>
+				<word number="5">revolt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">get a bad name</word>
+				<word number="2">forfeit one's good opinion</word>
+				<word number="3">be under a cloud</word>
+				<word number="4">come under the ferule</word>
+				<word number="5">bring a hornet's nest about one's ears</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="take blame">
+			<sg number="1">
+				<word number="1">take blame</word>
+				<word number="2">stand corrected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have to answer for</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disapproving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disapproving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scandalized</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disparaging">
+			<sg number="1">
+				<word number="1">disparaging</word>
+				<word number="2">condemnatory</word>
+				<word number="3">damnatory</word>
+				<word number="4">denunciatory</word>
+				<word number="5">reproachful</word>
+				<word number="6">abusive</word>
+				<word number="7">objurgatory</word>
+				<word number="8">clamorous</word>
+				<word number="9">vituperative</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="defamatory" headRef="976">defamatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="satirical">
+			<sg number="1">
+				<word number="1">satirical</word>
+				<word number="2">sarcastic</word>
+				<word number="3">sardonic</word>
+				<word number="4">cynical</word>
+				<word number="5">dry</word>
+				<word number="6">sharp</word>
+				<word number="7">cutting</word>
+				<word number="8">biting</word>
+				<word number="9">severe</word>
+				<word number="10">withering</word>
+				<word number="11">trenchant</word>
+				<word number="12">hard upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">censorious</word>
+				<word number="2">critical</word>
+				<word number="3">captious</word>
+				<word number="4">carping</word>
+				<word number="5">hypercritical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fastidious" headRef="907">fastidious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sparing of praise</word>
+				<word number="2">grudging praise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="disapproved">
+			<sg number="1">
+				<word number="1">disapproved</word>
+				<word number="2" paraRef="" posRef="v.">chid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in bad odor</word>
+				<word number="2">blown upon</word>
+				<word number="3">unapproved</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unblest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at a discount</word>
+				<word number="2">exploded</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weighed in the balance and found wanting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="blameworthy">
+			<sg number="1">
+				<word number="1">blameworthy</word>
+				<word number="2" paraRef="guilt" headRef="989">reprehensible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to blame</word>
+				<word number="2">worthy of blame</word>
+			</sg>
+			<sg number="3">
+				<word number="1">answerable</word>
+				<word number="2">uncommendable</word>
+				<word number="3">exceptionable</word>
+				<word number="4">not to be thought of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="bad" headRef="678">bad</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="vicious" headRef="987">vicious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="unlamented">
+			<sg number="1">
+				<word number="1">unlamented</word>
+				<word number="2">unbewailed</word>
+				<word number="3">unpitied</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with a wry face">
+			<sg number="1">
+				<word number="1">with a wry face</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">reproachfully</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="it is too bad">
+			<sg number="1">
+				<word number="1">it is too bad!</word>
+				<word number="2">it won't do</word>
+				<word number="3">it will never do!</word>
+				<word number="4">marry come up!</word>
+				<word number="5">Oh!</word>
+				<word number="6">come!</word>
+				<word number="7">'sdeath!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="forbid it Heaven">
+			<sg number="1">
+				<word number="1">forbid it Heaven!</word>
+				<word number="2">God forbid</word>
+				<word number="3">Heaven forbid!</word>
+				<word number="4">out upon</word>
+				<word number="5">fie upon it!</word>
+				<word number="6">away with!</word>
+				<word number="7">tut!</word>
+				<word number="8">O tempora!</word>
+				<word number="9">O mores!</word>
+				<word number="10">shame!</word>
+				<word number="11">fie</word>
+				<word number="12">fie for shame!</word>
+				<word number="13">out on you!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tell it not in Gath">
+			<sg number="1">
+				<word number="1">tell it not in Gath!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

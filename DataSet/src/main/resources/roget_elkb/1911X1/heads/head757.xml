@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="757" name="Arena" origNum="#728." class="6" section="4" subSection="1" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="arena">
+			<sg number="1">
+				<word number="1">arena</word>
+				<word number="2">field</word>
+				<word number="3">platform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scene of action</word>
+				<word number="2">theater</word>
+			</sg>
+			<sg number="3">
+				<word number="1">walk</word>
+				<word number="2">course</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hustings</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stare</word>
+				<word number="2" paraRef="playhouse" headRef="625">boards</word>
+			</sg>
+			<sg number="6">
+				<word number="1">amphitheater</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Coliseum</word>
+				<word number="2">Colosseum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Flavian amphitheater</word>
+				<word number="2">hippodrome</word>
+				<word number="3">circus</word>
+				<word number="4">race course</word>
+				<word number="5">corso</word>
+				<word number="6">turf</word>
+				<word number="7">cockpit</word>
+				<word number="8">bear garden</word>
+				<word number="9">playground</word>
+				<word number="10">gymnasium</word>
+				<word number="11">palestra</word>
+				<word number="12">ring</word>
+				<word number="13">lists</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tiltyard</word>
+				<word number="2">tilting ground</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Campus Martins</word>
+				<word number="2">Champ de Allars</word>
+			</sg>
+			<sg number="11">
+				<word number="1">campus</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">rink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="boxing ring">
+			<sg number="1">
+				<word number="1">boxing ring</word>
+				<word number="2">canvas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="theater of war">
+			<sg number="1">
+				<word number="1">theater of war</word>
+				<word number="2">seat of war</word>
+			</sg>
+			<sg number="2">
+				<word number="1">battle-field</word>
+				<word number="2">battle-ground</word>
+			</sg>
+			<sg number="3">
+				<word number="1">field of battle</word>
+				<word number="2">field of slaughter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Aceldama</word>
+				<word number="2">camp</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the enemy's camp</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="place of meeting" headRef="78">trusting place</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

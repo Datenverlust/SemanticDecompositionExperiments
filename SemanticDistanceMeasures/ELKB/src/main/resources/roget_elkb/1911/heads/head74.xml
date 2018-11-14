@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="74" name="Discontinuity" origNum="#70." class="1" section="4" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discontinuity">
+			<sg number="1">
+				<word number="1">discontinuity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disjunction" headRef="47">disjunction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anacoluthon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">interruption</word>
+				<word number="2">break</word>
+				<word number="3">fracture</word>
+				<word number="4">flaw</word>
+				<word number="5">fault</word>
+				<word number="6">crack</word>
+				<word number="7">cut</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="interval" headRef="207">gap</word>
+			</sg>
+			<sg number="6">
+				<word number="1">solution of continuity</word>
+				<word number="2">caesura</word>
+			</sg>
+			<sg number="7">
+				<word number="1">broken thread</word>
+			</sg>
+			<sg number="8">
+				<word number="1">parenthesis</word>
+				<word number="2">episode</word>
+				<word number="3">rhapsody</word>
+				<word number="4">patchwork</word>
+			</sg>
+			<sg number="9">
+				<word number="1">intermission</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="periodicity" headRef="145">alternation</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dropping fire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be discontinuous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be discontinuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alternate</word>
+				<word number="2">intermit</word>
+				<word number="3">sputter</word>
+				<word number="4">stop and start</word>
+				<word number="5">hesitate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="discontinue">
+			<sg number="1">
+				<word number="1">discontinue</word>
+				<word number="2">pause</word>
+				<word number="3">interrupt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intervene</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break</word>
+				<word number="2">break in upon</word>
+				<word number="3">break off</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="interpose" headRef="238">interpose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">break the thread</word>
+				<word number="2">snap the thread</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="disjoin" headRef="47">disconnect</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dissever</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discontinuous">
+			<sg number="1">
+				<word number="1">discontinuous</word>
+				<word number="2">unsuccessive</word>
+				<word number="3">broken</word>
+				<word number="4">interrupted</word>
+				<word number="5">dicousu</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disconnected</word>
+				<word number="2">unconnected</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discrete</word>
+				<word number="2">disjunctive</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="irregular" headRef="146">fitful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spasmodic</word>
+				<word number="2">desultory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intermitting</word>
+				<word number="2" paraRef="" posRef="v.">occasional</word>
+				<word number="3">intermittent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">alternate</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="periodic" headRef="145">recurrent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at intervals">
+			<sg number="1">
+				<word number="1">at intervals</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by snatches</word>
+				<word number="2">by  jerks</word>
+				<word number="3">by skips</word>
+				<word number="4">by catches</word>
+				<word number="5">by fits and starts</word>
+			</sg>
+			<sg number="3">
+				<word number="1">skippingly</word>
+				<word number="2">per saltum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">longo intervallo</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="like angel visits few and far between">
+			<sg number="1">
+				<word number="1">like "angel visits few and far between"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

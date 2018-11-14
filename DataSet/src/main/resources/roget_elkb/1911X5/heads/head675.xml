@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="675" name="Expedience" origNum="#646." class="6" section="2" subSection="2" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="expedience">
+			<sg number="1">
+				<word number="1">expedience</word>
+				<word number="2">expediency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">desirableness</word>
+				<word number="2" paraRef="" posRef="adj.">desirability</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agreement" headRef="25">fitness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="utility" headRef="673">utility</word>
+			</sg>
+			<sg number="5">
+				<word number="1">propriety</word>
+			</sg>
+			<sg number="6">
+				<word number="1">opportunism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">advantage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="high time">
+			<sg number="1">
+				<word number="1" paraRef="occasion" headRef="141">high time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be expedient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be expedient</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="agree" headRef="25">suit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">befit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">suit the time</word>
+				<word number="2">befit the time</word>
+				<word number="3">suit the season</word>
+				<word number="4">befit the season</word>
+				<word number="5">suit the occasion</word>
+				<word number="6">befit the occasion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="conform">
+			<sg number="1">
+				<word number="1" paraRef="conform to" headRef="86">conform</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="expedient">
+			<sg number="1">
+				<word number="1">expedient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">desirable</word>
+				<word number="2">advisable</word>
+				<word number="3">acceptable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">convenient</word>
+			</sg>
+			<sg number="4">
+				<word number="1">worth while</word>
+				<word number="2">meet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fit</word>
+				<word number="2">fitting</word>
+			</sg>
+			<sg number="6">
+				<word number="1">due</word>
+				<word number="2">proper</word>
+				<word number="3">eligible</word>
+				<word number="4">seemly</word>
+				<word number="5">becoming</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">befitting</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="in proper season" headRef="141">opportune</word>
+			</sg>
+			<sg number="9">
+				<word number="1">in loco</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="accordant" headRef="25">suitable</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="useful" headRef="673">applicable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in the right place">
+			<sg number="1">
+				<word number="1">in the right place</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">conveniently</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="operae pretium est">
+			<sg number="1">
+				<word number="1">operae pretium est</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

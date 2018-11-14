@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="160" name="Cause" origNum="#153." class="1" section="8" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="cause">
+			<sg number="1">
+				<word number="1">cause</word>
+				<word number="2">origin</word>
+				<word number="3">source</word>
+				<word number="4">principle</word>
+				<word number="5">element</word>
+			</sg>
+			<sg number="2">
+				<word number="1">occasioner</word>
+				<word number="2">prime mover</word>
+				<word number="3">primum mobile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vera causa</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="producer" headRef="171">author</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mainspring</word>
+			</sg>
+			<sg number="6">
+				<word number="1">agent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">leaven</word>
+			</sg>
+			<sg number="8">
+				<word number="1">groundwork</word>
+				<word number="2" paraRef="support" headRef="224">foundation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spring">
+			<sg number="1">
+				<word number="1">spring</word>
+				<word number="2">fountain</word>
+				<word number="3">well</word>
+				<word number="4">font</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fountainhead</word>
+				<word number="2">spring head</word>
+				<word number="3">wellhead</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fons et origo</word>
+				<word number="2">genesis</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="paternity" headRef="173">descent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">remote cause</word>
+			</sg>
+			<sg number="6">
+				<word number="1">influence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pivot">
+			<sg number="1">
+				<word number="1">pivot</word>
+				<word number="2">hinge</word>
+				<word number="3">turning point</word>
+				<word number="4">lever</word>
+				<word number="5">crux</word>
+				<word number="6">fulcrum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">key</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proximate cause</word>
+				<word number="2">causa causans</word>
+			</sg>
+			<sg number="4">
+				<word number="1">straw that breaks the camel's back</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ground">
+			<sg number="1">
+				<word number="1">ground</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reason</word>
+				<word number="2">reason why</word>
+			</sg>
+			<sg number="3">
+				<word number="1">why and wherefore</word>
+				<word number="2">rationale</word>
+				<word number="3">occasion</word>
+				<word number="4">derivation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="intention" headRef="649">final cause</word>
+			</sg>
+			<sg number="5">
+				<word number="1">les dessous des cartes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">undercurrents</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="rudiment">
+			<sg number="1">
+				<word number="1">rudiment</word>
+				<word number="2">egg</word>
+				<word number="3">germ</word>
+				<word number="4">embryo</word>
+				<word number="5">bud</word>
+				<word number="6">root</word>
+				<word number="7">radix radical</word>
+				<word number="8">etymon</word>
+				<word number="9">nucleus</word>
+				<word number="10">seed</word>
+				<word number="11">stem</word>
+				<word number="12">stock</word>
+				<word number="13">stirps</word>
+				<word number="14">trunk</word>
+				<word number="15">tap-root</word>
+				<word number="16">gemmule</word>
+				<word number="17">radicle</word>
+				<word number="18">semen</word>
+				<word number="19">sperm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="nest">
+			<sg number="1">
+				<word number="1">nest</word>
+				<word number="2">cradle</word>
+				<word number="3">nursery</word>
+				<word number="4">womb</word>
+				<word number="5">nidus</word>
+				<word number="6">birthplace</word>
+				<word number="7">hotbed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="causality">
+			<sg number="1">
+				<word number="1">causality</word>
+				<word number="2">causation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">origination</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="production" headRef="168">production</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be the cause of">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">be the cause of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">originate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give origin to</word>
+				<word number="2">give rise</word>
+				<word number="3">to</word>
+				<word number="4">give occasion to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cause</word>
+				<word number="2">occasion</word>
+				<word number="3">sow the seeds of</word>
+				<word number="4">kindle</word>
+				<word number="5">suscitate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bring on</word>
+				<word number="2">bring to bring pass</word>
+				<word number="3">bring about</word>
+			</sg>
+			<sg number="6">
+				<word number="1">produce</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="create" headRef="168">create</word>
+			</sg>
+			<sg number="8">
+				<word number="1">set up</word>
+				<word number="2">set afloat</word>
+				<word number="3">set on foot</word>
+			</sg>
+			<sg number="9">
+				<word number="1">found</word>
+				<word number="2">broach</word>
+				<word number="3">institute</word>
+				<word number="4">lay the foundation of</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lie at the root of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="procure">
+			<sg number="1">
+				<word number="1">procure</word>
+				<word number="2">induce</word>
+				<word number="3">draw down</word>
+				<word number="4">open the door to</word>
+				<word number="5">superinduce</word>
+				<word number="6">evoke</word>
+				<word number="7">entail</word>
+				<word number="8">operate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">elicit</word>
+				<word number="2">provoke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="conduce to">
+			<sg number="1">
+				<word number="1" paraRef="tend" headRef="184">conduce to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contribute</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have a hand in the pie</word>
+				<word number="2">have a finger in the pie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">determine</word>
+				<word number="2">decide</word>
+				<word number="3">turn the scale</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have a common origin</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="effect" headRef="161">derive its origin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="caused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">caused</word>
+			</sg>
+			<sg number="2">
+				<word number="1">causal</word>
+				<word number="2">original</word>
+			</sg>
+			<sg number="3">
+				<word number="1">primary</word>
+				<word number="2">primitive</word>
+				<word number="3">primordial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aboriginal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">protogenal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">radical</word>
+			</sg>
+			<sg number="7">
+				<word number="1">embryonic</word>
+				<word number="2">embryotic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in embryo</word>
+				<word number="2">in ovo</word>
+			</sg>
+			<sg number="9">
+				<word number="1">seminal</word>
+				<word number="2">germinal</word>
+			</sg>
+			<sg number="10">
+				<word number="1">at the bottom of</word>
+			</sg>
+			<sg number="11">
+				<word number="1">connate</word>
+				<word number="2">having a common origin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="because">
+			<sg number="1">
+				<word number="1" paraRef="because" headRef="162">because</word>
+			</sg>
+			<sg number="2">
+				<word number="1">behind the scenes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="causa latet vis est notissima">
+			<sg number="1">
+				<word number="1">causa latet vis est notissima</word>
+			</sg>
+			<sg number="2">
+				<word number="1">felix qui potuit rerum cognoscere causas</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="580" name="Representation" origNum="#554." class="5" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="representation">
+			<sg number="1">
+				<word number="1">representation</word>
+				<word number="2">representment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imitation" headRef="20">imitation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">illustration</word>
+				<word number="2">delineation</word>
+				<word number="3">depictment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imagery</word>
+				<word number="2">portraiture</word>
+				<word number="3">iconography</word>
+			</sg>
+			<sg number="5">
+				<word number="1">design</word>
+				<word number="2">designing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">art</word>
+				<word number="2">fine arts</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="painting" headRef="582">painting</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="sculpture" headRef="583">sculpture</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="engraving" headRef="584">engraving</word>
+			</sg>
+			<sg number="10">
+				<word number="1">photography</word>
+				<word number="2">cinematography</word>
+			</sg>
+			<sg number="11">
+				<word number="1">radiography</word>
+				<word number="2">autoradiography</word>
+				<word number="3">fluorography</word>
+				<word number="4">sciagraphy</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">calligraphy</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">carving</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">masterpiece</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">miniature</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">print</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="personation">
+			<sg number="1">
+				<word number="1">personation</word>
+				<word number="2">personification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impersonation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="drama" headRef="625">drama</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="picture">
+			<sg number="1">
+				<word number="1">picture</word>
+				<word number="2">photo</word>
+				<word number="3">photograph</word>
+				<word number="4">daguerreotype</word>
+				<word number="5">snapshot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">X-ray photo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">movie film</word>
+				<word number="2">movie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tracing</word>
+				<word number="2">scan</word>
+				<word number="3">TV image</word>
+				<word number="4">video image</word>
+				<word number="5">image file</word>
+				<word number="6">graphics</word>
+				<word number="7">computer graphics</word>
+				<word number="8">televideo</word>
+				<word number="9">closed-circuit TV</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">video</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="copy">
+			<sg number="1">
+				<word number="1" paraRef="copy" headRef="23">copy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drawing</word>
+				<word number="2">sketch</word>
+				<word number="3">drought</word>
+				<word number="4">draft</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plot</word>
+				<word number="2">chart</word>
+				<word number="3">figure</word>
+				<word number="4">scheme</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="image">
+			<sg number="1">
+				<word number="1">image</word>
+				<word number="2">likeness</word>
+				<word number="3">icon</word>
+				<word number="4">portrait</word>
+				<word number="5">striking likeness</word>
+				<word number="6">speaking likeness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">very image</word>
+			</sg>
+			<sg number="3">
+				<word number="1">effigy</word>
+				<word number="2">facsimile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="figure">
+			<sg number="1">
+				<word number="1">figure</word>
+				<word number="2">figure head</word>
+			</sg>
+			<sg number="2">
+				<word number="1">puppet</word>
+				<word number="2">doll</word>
+				<word number="3">figurine</word>
+				<word number="4">aglet</word>
+				<word number="5">manikin</word>
+				<word number="6">lay-figure</word>
+				<word number="7">model</word>
+				<word number="8">mammet</word>
+				<word number="9">marionette</word>
+				<word number="10">fantoccini</word>
+				<word number="11">waxwork</word>
+				<word number="12">bust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">statue</word>
+				<word number="2">statuette</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">medallion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="ideograph">
+			<sg number="1">
+				<word number="1">ideograph</word>
+				<word number="2">hieroglyphic</word>
+				<word number="3">anaglyph ,kanji</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diagram</word>
+				<word number="2">monogram</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="map">
+			<sg number="1">
+				<word number="1">map</word>
+				<word number="2">plan</word>
+				<word number="3">chart</word>
+				<word number="4">ground plan</word>
+				<word number="5">projection</word>
+				<word number="6" paraRef="plan" headRef="655">elevation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="ichnography">
+			<sg number="1">
+				<word number="1">ichnography</word>
+				<word number="2">cartography</word>
+			</sg>
+			<sg number="2">
+				<word number="1">atlas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outline</word>
+				<word number="2">scheme</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="painting" headRef="582">view</word>
+			</sg>
+			<sg number="5">
+				<word number="1">radiograph</word>
+				<word number="2">scotograph</word>
+				<word number="3">sciagraph</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spectrogram</word>
+				<word number="2">heliogram</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="clipping">
+			<sg number="1">
+				<word number="1" new="1">clipping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="project">
+			<sg number="1">
+				<word number="1" new="1">project</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="represent">
+			<sg number="1">
+				<word number="1">represent</word>
+				<word number="2">delineate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depict</word>
+				<word number="2">depicture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">portray</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take a likeness</word>
+				<word number="2" paraRef="" posRef="n.">catch a likeness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hit off</word>
+				<word number="2">photograph</word>
+				<word number="3">daguerreotype</word>
+			</sg>
+			<sg number="6">
+				<word number="1">snapshot</word>
+			</sg>
+			<sg number="7">
+				<word number="1">figure</word>
+				<word number="2">shadow forth</word>
+				<word number="3">shadow out</word>
+			</sg>
+			<sg number="8">
+				<word number="1">adumbrate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">body forth</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="describe" headRef="620">describe</word>
+			</sg>
+			<sg number="11">
+				<word number="1">trace</word>
+				<word number="2">copy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mold</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dress up">
+			<sg number="1">
+				<word number="1">dress up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">illustrate</word>
+				<word number="2">symbolize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="paint">
+			<sg number="1">
+				<word number="1" paraRef="paint" headRef="582">paint</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="carve" headRef="583">carve</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="engrave" headRef="584">engrave</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="personate">
+			<sg number="1">
+				<word number="1">personate</word>
+				<word number="2">personify</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impersonate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assume a character</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pose as</word>
+			</sg>
+			<sg number="5">
+				<word number="1">act</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="drama" headRef="625">play</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="imitate" headRef="20">mimic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hold the mirror up to nature</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="represent">
+			<sg number="1">
+				<word number="1">represent</word>
+				<word number="2" paraRef="" posRef="v.">representing</word>
+				<word number="3">representative</word>
+			</sg>
+			<sg number="2">
+				<word number="1">*illustrative</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">represented</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imitative</word>
+				<word number="2">figurative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">iconic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="like">
+			<sg number="1">
+				<word number="1" paraRef="like" headRef="18">like</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="descriptive" headRef="620">graphic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cinquecento quattrocento</word>
+				<word number="2">trecento</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

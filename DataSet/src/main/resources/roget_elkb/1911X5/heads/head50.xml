@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="50" name="Incoherence" origNum="#47." class="1" section="3" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="nonadhesion">
+			<sg number="1">
+				<word number="1">nonadhesion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immiscibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incoherence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">looseness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">laxity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">relaxation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">loosening</word>
+			</sg>
+			<sg number="8">
+				<word number="1">freedom</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="disjunction" headRef="47">disjunction</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rope of sand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="make loose">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">make loose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">loosen</word>
+				<word number="2">slacken</word>
+				<word number="3">relax</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="glue" headRef="49">unglue</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disjoin" headRef="47">detach</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="nonadhesive">
+			<sg number="1">
+				<word number="1">nonadhesive</word>
+				<word number="2">immiscible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incoherent</word>
+				<word number="2">detached</word>
+				<word number="3">loose</word>
+				<word number="4">baggy</word>
+				<word number="5">slack</word>
+				<word number="6">lax</word>
+				<word number="7">relaxed</word>
+				<word number="8">flapping</word>
+				<word number="9">streaming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disheveled</word>
+			</sg>
+			<sg number="4">
+				<word number="1">segregated</word>
+				<word number="2" paraRef="edge" headRef="241">like grains of sand unconsolidated</word>
+				<word number="3" paraRef="combined" headRef="51">uncombined</word>
+			</sg>
+			<sg number="5">
+				<word number="1">noncohesive</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

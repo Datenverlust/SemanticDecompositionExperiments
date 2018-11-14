@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="140" name="Lateness" origNum="#133." class="1" section="6" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">lateness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="slowness" headRef="286">tardiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="delay">
+			<sg number="1">
+				<word number="1">delay</word>
+				<word number="2">delation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cunctation</word>
+				<word number="2">procrastination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deferring</word>
+				<word number="2" paraRef="" posRef="v.">deferral</word>
+			</sg>
+			<sg number="4">
+				<word number="1">postponement</word>
+				<word number="2">adjournment</word>
+				<word number="3">prorogation</word>
+				<word number="4">retardation</word>
+				<word number="5">respite</word>
+				<word number="6">pause</word>
+				<word number="7">reprieve</word>
+				<word number="8">stay of execution</word>
+			</sg>
+			<sg number="5">
+				<word number="1">protraction</word>
+				<word number="2">prolongation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Fabian policy</word>
+				<word number="2">medecine expectante</word>
+				<word number="3">chancery suit</word>
+				<word number="4">federal case</word>
+			</sg>
+			<sg number="7">
+				<word number="1">leeway</word>
+			</sg>
+			<sg number="8">
+				<word number="1">high time</word>
+			</sg>
+			<sg number="9">
+				<word number="1">moratorium</word>
+				<word number="2">holdover</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be late">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be late</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tarry</word>
+				<word number="2">wait</word>
+				<word number="3">stay</word>
+				<word number="4">bide</word>
+				<word number="5">take time</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be inactive" headRef="712">dawdle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">linger</word>
+				<word number="2">loiter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bide one's time</word>
+				<word number="2">take one's time</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gain time</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hang fire</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stand over</word>
+				<word number="2">lie over</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="put off">
+			<sg number="1">
+				<word number="1">put off</word>
+				<word number="2">defer</word>
+				<word number="3">delay</word>
+				<word number="4">lay over</word>
+				<word number="5">suspend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">table</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shift off</word>
+				<word number="2">stave off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">waive</word>
+				<word number="2">retard</word>
+				<word number="3">remand</word>
+				<word number="4">postpone</word>
+				<word number="5">adjourn</word>
+			</sg>
+			<sg number="5">
+				<word number="1">procrastinate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dally</word>
+			</sg>
+			<sg number="7">
+				<word number="1">prolong</word>
+				<word number="2">protract</word>
+			</sg>
+			<sg number="8">
+				<word number="1">spin out</word>
+				<word number="2">draw out</word>
+				<word number="3">lengthen out</word>
+				<word number="4">stretch out</word>
+			</sg>
+			<sg number="9">
+				<word number="1">prorogue</word>
+			</sg>
+			<sg number="10">
+				<word number="1">keep back</word>
+			</sg>
+			<sg number="11">
+				<word number="1">tide over</word>
+			</sg>
+			<sg number="12">
+				<word number="1">push to the last</word>
+				<word number="2">drive to the last</word>
+			</sg>
+			<sg number="13">
+				<word number="1">let the matter stand over</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="store" headRef="665">reserve</word>
+			</sg>
+			<sg number="15">
+				<word number="1">temporize</word>
+			</sg>
+			<sg number="16">
+				<word number="1">consult one's pillow</word>
+				<word number="2">sleep on it</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lose an opportunity">
+			<sg number="1">
+				<word number="1" paraRef="lose an opportunity" headRef="142">lose an opportunity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be kept waiting</word>
+				<word number="2">dance attendance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kick one's heels</word>
+				<word number="2">cool one's heels</word>
+			</sg>
+			<sg number="4">
+				<word number="1">faire antichambre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wait impatiently</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="expect" headRef="531">await</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sit up</word>
+				<word number="2">sit up at night</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="late">
+			<sg number="1">
+				<word number="1">late</word>
+				<word number="2">tardy</word>
+				<word number="3">slow</word>
+				<word number="4">behindhand</word>
+				<word number="5">serotine</word>
+				<word number="6">belated</word>
+				<word number="7">postliminious</word>
+				<word number="8">posthumous</word>
+				<word number="9">backward</word>
+				<word number="10">unpunctual</word>
+				<word number="11">untimely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delayed</word>
+				<word number="2">postponed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="slow" headRef="286">dilatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">delayed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in abeyance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="late">
+			<sg number="1">
+				<word number="1">late</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lateward</word>
+				<word number="2">backward</word>
+			</sg>
+			<sg number="3">
+				<word number="1">late in the day</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at sunset</word>
+				<word number="2">at the eleventh hour</word>
+				<word number="3">at length</word>
+				<word number="4">at last</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ultimately</word>
+			</sg>
+			<sg number="6">
+				<word number="1">after time</word>
+				<word number="2">behind time</word>
+				<word number="3">after the deadline</word>
+			</sg>
+			<sg number="7">
+				<word number="1">too late</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="too late for" headRef="142">too late for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="slowly">
+			<sg number="1">
+				<word number="1">slowly</word>
+				<word number="2">leisurely</word>
+				<word number="3">deliberately</word>
+				<word number="4">at one's leisure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ex post facto</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sine die</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nonum prematur in annum">
+			<sg number="1">
+				<word number="1">nonum prematur in annum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"against the sunbeams serotine and lucent"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ie meglio tardi che mai</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deliberando saepe perit occasio</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="129" name="Newness" origNum="#123." class="1" section="6" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="newness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">newness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">novelty</word>
+				<word number="2">recency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immaturity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="youth" headRef="133">youth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gloss of novelty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="innovation">
+			<sg number="1">
+				<word number="1">innovation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restoration" headRef="689">renovation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="modernism">
+			<sg number="1">
+				<word number="1">modernism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mushroom</word>
+				<word number="2">parvenu</word>
+			</sg>
+			<sg number="3">
+				<word number="1">latest fashion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="renew">
+			<sg number="1">
+				<word number="1" paraRef="restore" headRef="689">renew</word>
+			</sg>
+			<sg number="2">
+				<word number="1">modernize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="new">
+			<sg number="1">
+				<word number="1">new</word>
+				<word number="2">novel</word>
+				<word number="3">recent</word>
+				<word number="4">fresh</word>
+				<word number="5">green</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="young" headRef="133">young</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evergreen</word>
+			</sg>
+			<sg number="4">
+				<word number="1">raw</word>
+				<word number="2">immature</word>
+				<word number="3">unsettled</word>
+				<word number="4">yeasty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">virgin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">untried</word>
+				<word number="2">unhandseled</word>
+				<word number="3">untrodden</word>
+				<word number="4">untrod</word>
+				<word number="5">unbeaten</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fire-new</word>
+				<word number="2">span-new</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="late">
+			<sg number="1">
+				<word number="1">late</word>
+				<word number="2">modern</word>
+				<word number="3">neoteric</word>
+				<word number="4">hypermodern</word>
+				<word number="5">nouveau</word>
+			</sg>
+			<sg number="2">
+				<word number="1">new-born</word>
+				<word number="2">nascent</word>
+				<word number="3">neonatal</word>
+				<word number="4">new-fashioned</word>
+				<word number="5">new-fangled</word>
+				<word number="6">new-fledged</word>
+			</sg>
+			<sg number="3">
+				<word number="1">of yesterday</word>
+			</sg>
+			<sg number="4">
+				<word number="1">just out</word>
+				<word number="2">brand-new</word>
+				<word number="3">up to date</word>
+				<word number="4">up to the minute</word>
+				<word number="5">with it</word>
+				<word number="6">fashionable</word>
+				<word number="7">in fashion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in</word>
+				<word number="2">hip</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vernal</word>
+				<word number="2">renovated</word>
+				<word number="3">sempervirent</word>
+				<word number="4">sempervirid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fresh as a rose">
+			<sg number="1">
+				<word number="1">fresh as a rose</word>
+				<word number="2">fresh as a daisy</word>
+				<word number="3">fresh as paint</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spick and span</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="newly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">newly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">afresh</word>
+				<word number="2">anew</word>
+				<word number="3">lately</word>
+				<word number="4">just now</word>
+				<word number="5">only yesterday</word>
+				<word number="6">the other day</word>
+			</sg>
+			<sg number="3">
+				<word number="1">latterly</word>
+				<word number="2">of late</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not long ago">
+			<sg number="1">
+				<word number="1">not long ago</word>
+				<word number="2">a short time ago</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="di novello tutto par bello">
+			<sg number="1">
+				<word number="1">di novello tutto par bello</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nullum est jam dictum quod non dictum est prius</word>
+			</sg>
+			<sg number="3">
+				<word number="1">una scopa nuova spazza bene</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

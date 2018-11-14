@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="88" name="Number" origNum="#84." class="1" section="5" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="number">
+			<sg number="1">
+				<word number="1">number</word>
+				<word number="2">symbol</word>
+				<word number="3">numeral</word>
+				<word number="4">figure</word>
+				<word number="5">cipher</word>
+				<word number="6">digit</word>
+				<word number="7">integer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">counter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">round number</word>
+			</sg>
+			<sg number="4">
+				<word number="1">formula</word>
+			</sg>
+			<sg number="5">
+				<word number="1">function</word>
+			</sg>
+			<sg number="6">
+				<word number="1">series</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sum">
+			<sg number="1">
+				<word number="1">sum</word>
+				<word number="2">difference</word>
+				<word number="3">complement</word>
+				<word number="4">subtrahend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">product</word>
+			</sg>
+			<sg number="3">
+				<word number="1">multiplicand</word>
+				<word number="2">multiplier</word>
+				<word number="3">multiplicator</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coefficient</word>
+				<word number="2">multiple</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dividend</word>
+				<word number="2">divisor</word>
+				<word number="3">factor</word>
+				<word number="4">quotient</word>
+				<word number="5">submultiple</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fraction</word>
+				<word number="2">rational number</word>
+			</sg>
+			<sg number="7">
+				<word number="1">surd</word>
+				<word number="2">irrational number</word>
+			</sg>
+			<sg number="8">
+				<word number="1">transcendental number</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mixed number</word>
+				<word number="2">complex number</word>
+				<word number="3">complex conjugate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">numerator</word>
+				<word number="2">denominator</word>
+			</sg>
+			<sg number="11">
+				<word number="1">decimal</word>
+				<word number="2">circulating decimal</word>
+				<word number="3">repetend</word>
+			</sg>
+			<sg number="12">
+				<word number="1">common measure</word>
+				<word number="2">aliquot part</word>
+			</sg>
+			<sg number="13">
+				<word number="1">prime number</word>
+				<word number="2">prime</word>
+				<word number="3">relative prime</word>
+				<word number="4">prime factor</word>
+				<word number="5">prime pair</word>
+			</sg>
+			<sg number="14">
+				<word number="1">reciprocal</word>
+			</sg>
+			<sg number="15">
+				<word number="1">totient</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="binary number">
+			<sg number="1">
+				<word number="1">binary number</word>
+				<word number="2">octal number</word>
+				<word number="3">hexadecimal number</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="permutation">
+			<sg number="1">
+				<word number="1">permutation</word>
+				<word number="2">combination</word>
+				<word number="3">variation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">election</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ratio">
+			<sg number="1">
+				<word number="1">ratio</word>
+				<word number="2">proportion</word>
+				<word number="3" paraRef="comparison" headRef="484">comparison</word>
+			</sg>
+			<sg number="2">
+				<word number="1">progression</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arithmetical progression</word>
+				<word number="2">geometrical progression</word>
+				<word number="3">harmonical progression</word>
+			</sg>
+			<sg number="4">
+				<word number="1">percentage</word>
+				<word number="2">permilage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="figurate numbers">
+			<sg number="1">
+				<word number="1">figurate numbers</word>
+				<word number="2">pyramidal numbers</word>
+				<word number="3">polygonal numbers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="power">
+			<sg number="1">
+				<word number="1">power</word>
+				<word number="2">root</word>
+				<word number="3">exponent</word>
+				<word number="4">index</word>
+				<word number="5">logarithm</word>
+				<word number="6">antilogarithm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">modulus</word>
+				<word number="2">base</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="differential">
+			<sg number="1">
+				<word number="1">differential</word>
+				<word number="2">integral</word>
+				<word number="3">fluxion</word>
+				<word number="4">fluent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="constant">
+			<sg number="1">
+				<word number="1" new="1">constant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="numeral">
+			<sg number="1">
+				<word number="1">numeral</word>
+				<word number="2">complementary</word>
+				<word number="3">divisible</word>
+				<word number="4">aliquot</word>
+				<word number="5">reciprocal</word>
+				<word number="6">prime</word>
+				<word number="7">relatively prime</word>
+				<word number="8">fractional</word>
+				<word number="9">decimal</word>
+				<word number="10">figurate</word>
+				<word number="11">incommensurable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="proportional">
+			<sg number="1">
+				<word number="1">proportional</word>
+				<word number="2">exponential</word>
+				<word number="3">logarithmic</word>
+				<word number="4">logometric</word>
+				<word number="5">differential</word>
+				<word number="6">fluxional</word>
+				<word number="7">integral</word>
+				<word number="8">totitive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="positive">
+			<sg number="1">
+				<word number="1">positive</word>
+				<word number="2">negative</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rational</word>
+				<word number="2">irrational</word>
+			</sg>
+			<sg number="3">
+				<word number="1">surd</word>
+				<word number="2">radical</word>
+				<word number="3">real</word>
+			</sg>
+			<sg number="4">
+				<word number="1">complex</word>
+				<word number="2">imaginary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">finite</word>
+			</sg>
+			<sg number="6">
+				<word number="1">infinite</word>
+			</sg>
+			<sg number="7">
+				<word number="1">impossible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="numerically">
+			<sg number="1">
+				<word number="1">numerically</word>
+			</sg>
+			<sg number="2">
+				<word number="1">modulo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

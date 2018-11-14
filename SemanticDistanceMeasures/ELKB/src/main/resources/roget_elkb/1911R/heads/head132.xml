@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="132" name="Evening" origNum="#126." class="1" section="6" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="evening">
+			<sg number="1">
+				<word number="1">evening</word>
+				<word number="2">eve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decline of day</word>
+				<word number="2">fall of day</word>
+				<word number="3">close of day</word>
+			</sg>
+			<sg number="3">
+				<word number="1">candlelight</word>
+				<word number="2">candlelighting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eventide</word>
+				<word number="2">nightfall</word>
+				<word number="3">curfew</word>
+				<word number="4">dusk</word>
+				<word number="5">twilight</word>
+				<word number="6">eleventh hour</word>
+				<word number="7" new="1">pose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sunset</word>
+				<word number="2">sundown</word>
+			</sg>
+			<sg number="6">
+				<word number="1">going down of the sun</word>
+				<word number="2">cock- shut</word>
+				<word number="3">dewy eve</word>
+				<word number="4">gloaming</word>
+				<word number="5">bedtime</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">coprolite</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">railyard</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">endonym</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">microprobe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="afternoon">
+			<sg number="1">
+				<word number="1">afternoon</word>
+				<word number="2">postmeridian</word>
+				<word number="3">p.m</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="autumn">
+			<sg number="1">
+				<word number="1">autumn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall</word>
+				<word number="2">fall of the leaf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">autumnal equinox</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Indian summer</word>
+				<word number="2">St. Luke's summer</word>
+				<word number="3">St. Martin's summer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="midnight">
+			<sg number="1">
+				<word number="1">midnight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dead of night</word>
+				<word number="2">witching hour</word>
+				<word number="3">witching hour of night</word>
+				<word number="4">witching time of night</word>
+			</sg>
+			<sg number="3">
+				<word number="1">winter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">killing time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vespertine">
+			<sg number="1">
+				<word number="1">vespertine</word>
+				<word number="2">autumnal</word>
+				<word number="3">nocturnal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="midnight">
+			<sg number="1">
+				<word number="1">"midnight</word>
+				<word number="2">the outpost of advancing day"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"sable- vested Night"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"this gorgeous arch with golden worlds inlay'd"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

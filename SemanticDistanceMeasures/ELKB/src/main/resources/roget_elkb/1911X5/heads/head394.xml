@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="394" name="Numbness" origNum="#381." class="3" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="numbness">
+			<sg number="1">
+				<word number="1" paraRef="physical insensibility" headRef="389">numbness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anaesthesia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pins and needles</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="benumb">
+			<sg number="1">
+				<word number="1" paraRef="benumb" headRef="389">benumb</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="numb">
+			<sg number="1">
+				<word number="1">numb</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">benumbed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deadened</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intangible</word>
+				<word number="2">impalpable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

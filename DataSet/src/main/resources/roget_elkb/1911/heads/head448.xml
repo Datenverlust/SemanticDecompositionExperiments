@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="448" name="Achromatism" origNum="#429." class="3" section="3" subSection="2" headGroup="31">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="achromatism">
+			<sg number="1">
+				<word number="1">achromatism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decoloration</word>
+				<word number="2">discoloration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pallor</word>
+				<word number="2">pallidness</word>
+				<word number="3">pallidity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">paleness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">etiolation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">neutral tint</word>
+				<word number="2">monochrome</word>
+				<word number="3">black and white</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="lose color">
+			<sg number="1">
+				<word number="1" paraRef="color" headRef="447">lose color</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fade</word>
+				<word number="2">fly</word>
+				<word number="3">go</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">become colorless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turn pale</word>
+				<word number="2">pale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deprive of color">
+			<sg number="1">
+				<word number="1">deprive of color</word>
+				<word number="2">decolorize</word>
+				<word number="3">bleach</word>
+				<word number="4">tarnish</word>
+				<word number="5">achromatize</word>
+				<word number="6">blanch</word>
+				<word number="7">etiolate</word>
+				<word number="8">wash out</word>
+				<word number="9">tone down</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="uncolored">
+			<sg number="1">
+				<word number="1" paraRef="color" headRef="447">uncolored</word>
+			</sg>
+			<sg number="2">
+				<word number="1">colorless</word>
+				<word number="2">achromatic</word>
+				<word number="3">aplanatic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">etiolate</word>
+				<word number="2">etiolated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hueless</word>
+				<word number="2">pale</word>
+				<word number="3">pallid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">palefaced</word>
+				<word number="2">tallow-faced</word>
+			</sg>
+			<sg number="6">
+				<word number="1">faint</word>
+				<word number="2">dull</word>
+				<word number="3">cold</word>
+				<word number="4">muddy</word>
+				<word number="5">leaden</word>
+				<word number="6">dun</word>
+				<word number="7">wan</word>
+				<word number="8">sallow</word>
+				<word number="9">dead</word>
+				<word number="10">dingy</word>
+				<word number="11">ashy</word>
+				<word number="12">ashen</word>
+				<word number="13">ghastly</word>
+				<word number="14">cadaverous</word>
+				<word number="15">glassy</word>
+				<word number="16">lackluster</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">discolored</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="light-colored">
+			<sg number="1">
+				<word number="1">light-colored</word>
+				<word number="2">fair</word>
+				<word number="3">blond</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="white" headRef="449">white</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pale as death">
+			<sg number="1">
+				<word number="1">pale as death</word>
+				<word number="2">pale as ashes</word>
+				<word number="3">pale as a witch</word>
+				<word number="4">pale as a ghost</word>
+				<word number="5">pale as a corpse</word>
+				<word number="6">white as a corpse</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

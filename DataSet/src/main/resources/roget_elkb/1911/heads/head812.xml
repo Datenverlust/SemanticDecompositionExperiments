@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="812" name="Possessor" origNum="#779." class="7" section="4" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="possessor">
+			<sg number="1">
+				<word number="1">possessor</word>
+				<word number="2">holder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">occupant</word>
+				<word number="2">occupier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tenant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">person in possession</word>
+				<word number="2" paraRef="possession" headRef="809">man in possession</word>
+			</sg>
+			<sg number="5">
+				<word number="1">renter</word>
+				<word number="2">lodger</word>
+				<word number="3">lessee</word>
+				<word number="4">underlessee</word>
+			</sg>
+			<sg number="6">
+				<word number="1">zemindar</word>
+				<word number="2">ryot</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tenant on sufferance</word>
+				<word number="2">tenant at will</word>
+				<word number="3">tenant from year to year</word>
+				<word number="4">tenant for years</word>
+				<word number="5">tenant for life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="owner">
+			<sg number="1">
+				<word number="1">owner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proprietor</word>
+				<word number="2">proprietress</word>
+				<word number="3">proprietary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impropriator</word>
+				<word number="2">master</word>
+				<word number="3">mistress</word>
+				<word number="4">lord</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="land holder">
+			<sg number="1">
+				<word number="1">land holder</word>
+				<word number="2">land owner</word>
+				<word number="3">landlord</word>
+				<word number="4">land lady</word>
+				<word number="5">slumlord</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lord of the manor</word>
+				<word number="2">lord paramount</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heritor</word>
+				<word number="2">laird</word>
+				<word number="3">vavasour</word>
+				<word number="4">landed gentry</word>
+				<word number="5">mesne lord</word>
+			</sg>
+			<sg number="4">
+				<word number="1">planter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cestui-que-trust">
+			<sg number="1">
+				<word number="1">cestui-que-trust</word>
+				<word number="2">beneficiary</word>
+				<word number="3">mortgagor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="grantee">
+			<sg number="1">
+				<word number="1">grantee</word>
+				<word number="2">feoffee</word>
+				<word number="3">releasee</word>
+				<word number="4">relessee</word>
+				<word number="5">devisee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">legatee</word>
+				<word number="2">legatary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="trustee">
+			<sg number="1">
+				<word number="1">trustee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">holder of the legal estate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mortgagee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="right owner">
+			<sg number="1">
+				<word number="1">right owner</word>
+				<word number="2">rightful owner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="heir presumptive">
+			<sg number="1">
+				<word number="1">heir presumptive</word>
+				<word number="2">heir apparent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heiress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inheritor</word>
+				<word number="2">inheritress</word>
+				<word number="3">inheritrix</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reversioner</word>
+				<word number="2">remainderman</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

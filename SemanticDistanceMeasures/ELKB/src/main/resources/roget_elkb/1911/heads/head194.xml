@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="194" name="Displacement" origNum="#185." class="2" section="1" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="displacement">
+			<sg number="1">
+				<word number="1">displacement</word>
+				<word number="2">elocation</word>
+				<word number="3">transposition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ejectment">
+			<sg number="1">
+				<word number="1" paraRef="ejection" headRef="308">ejectment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="banishment" headRef="932">exile</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="transference" headRef="281">removal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="misplacement">
+			<sg number="1">
+				<word number="1">misplacement</word>
+				<word number="2" paraRef="dislocation" headRef="65">dislocation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fish out of water</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="displace">
+			<sg number="1">
+				<word number="1">displace</word>
+				<word number="2">misplace</word>
+				<word number="3">displant</word>
+				<word number="4">dislodge</word>
+				<word number="5">disestablish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="secluded" headRef="932">exile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ablegate</word>
+				<word number="2">set aside</word>
+				<word number="3">remove</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take away</word>
+				<word number="2">cart away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take off</word>
+				<word number="2">draft off</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="lade" headRef="193">lade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unload">
+			<sg number="1">
+				<word number="1">unload</word>
+				<word number="2" paraRef="eject" headRef="308">empty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="transfer" headRef="281">transfer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dispel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vacate">
+			<sg number="1">
+				<word number="1">vacate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="depart" headRef="304">depart</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="displaced">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">displaced</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unplaced</word>
+				<word number="2">unhoused</word>
+				<word number="3">unharbored</word>
+				<word number="4">unestablished</word>
+				<word number="5">unsettled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">houseless</word>
+				<word number="2">homeless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of place</word>
+				<word number="2">out of a situation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the wrong place</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="misplaced">
+			<sg number="1">
+				<word number="1">misplaced</word>
+				<word number="2">out of its element</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

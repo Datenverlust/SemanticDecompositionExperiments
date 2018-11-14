@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="543" name="Intelligibility" origNum="#518." class="5" section="1" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="intelligibility">
+			<sg number="1">
+				<word number="1">intelligibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clearness</word>
+				<word number="2" paraRef="" posRef="adj.">explicitness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lucidity</word>
+				<word number="2">comprehensibility</word>
+				<word number="3">perspicuity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">legibility</word>
+				<word number="2" paraRef="manifestation" headRef="550">plain speaking</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="precision" headRef="518">precision</word>
+			</sg>
+			<sg number="6">
+				<word number="1">a word to the wise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be intelligible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be intelligible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speak for itself</word>
+				<word number="2">speak volumes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tell its own tale</word>
+				<word number="2">lie on the surface</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render intelligible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render intelligible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">popularize</word>
+				<word number="2">simplify</word>
+				<word number="3">clear up</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="explain" headRef="547">elucidate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="understand">
+			<sg number="1">
+				<word number="1">understand</word>
+				<word number="2">comprehend</word>
+				<word number="3">take</word>
+				<word number="4">take in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catch</word>
+				<word number="2">grasp</word>
+				<word number="3">follow</word>
+				<word number="4">collect</word>
+				<word number="5">master</word>
+				<word number="6">make out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">see with half an eye</word>
+				<word number="2">see daylight</word>
+				<word number="3">see one's way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enter into the ideas of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come to an understanding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="intelligible">
+			<sg number="1">
+				<word number="1">intelligible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clear</word>
+				<word number="2">clear as day</word>
+				<word number="3">clear as noonday</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lucid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">perspicuous</word>
+				<word number="2">transpicuous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">luminous</word>
+				<word number="2">transparent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="easily understood">
+			<sg number="1">
+				<word number="1">easily understood</word>
+				<word number="2">easy to understand</word>
+				<word number="3">for the million</word>
+				<word number="4">intelligible to the meanest capacity</word>
+				<word number="5">popularized</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="plain">
+			<sg number="1">
+				<word number="1">plain</word>
+				<word number="2">distinct</word>
+				<word number="3">explicit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">positive</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="precise" headRef="518">definite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="graphic">
+			<sg number="1">
+				<word number="1">graphic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="meaning" headRef="541">expressive</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="explanatory" headRef="547">illustrative</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unambiguous">
+			<sg number="1">
+				<word number="1">unambiguous</word>
+				<word number="2">unequivocal</word>
+				<word number="3" paraRef="manifest" headRef="550">unmistakable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unconfused</word>
+			</sg>
+			<sg number="3">
+				<word number="1">legible</word>
+				<word number="2">recognizable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="obvious" headRef="550">obvious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in plain terms">
+			<sg number="1">
+				<word number="1">in plain terms</word>
+				<word number="2">in plain words</word>
+				<word number="3">in plain English</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="he that runs may read">
+			<sg number="1">
+				<word number="1" paraRef="manifest" headRef="550">he that runs may read</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="250" name="Form" origNum="#240." class="2" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="form">
+			<sg number="1">
+				<word number="1">form</word>
+				<word number="2">figure</word>
+				<word number="3">shape</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conformation</word>
+				<word number="2">configuration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make</word>
+				<word number="2">formation</word>
+				<word number="3">frame</word>
+				<word number="4">construction</word>
+				<word number="5">cut</word>
+				<word number="6">set</word>
+				<word number="7">build</word>
+				<word number="8">trim</word>
+				<word number="9">cut of one's jib</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stamp</word>
+				<word number="2">type</word>
+				<word number="3">cast</word>
+				<word number="4">mold</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fashion</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="outline" headRef="240">contour</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="structure" headRef="340">structure</word>
+			</sg>
+			<sg number="8">
+				<word number="1">plasmature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="feature">
+			<sg number="1">
+				<word number="1">feature</word>
+				<word number="2">lineament</word>
+				<word number="3">turn</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="aspect" headRef="467">phase</word>
+			</sg>
+			<sg number="3">
+				<word number="1">posture</word>
+				<word number="2">attitude</word>
+				<word number="3">pose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="morphism">
+			<sg number="1">
+				<word number="1">morphism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="isomorphism">
+			<sg number="1">
+				<word number="1">isomorphism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="forming">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">forming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">formation</word>
+				<word number="2">figuration</word>
+				<word number="3">efformation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sculpture</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plasmation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="form">
+			<sg number="1">
+				<word number="1">form</word>
+				<word number="2">shape</word>
+				<word number="3">figure</word>
+				<word number="4">fashion</word>
+				<word number="5">efform</word>
+				<word number="6">carve</word>
+				<word number="7">cut</word>
+				<word number="8">chisel</word>
+				<word number="9">hew</word>
+				<word number="10">cast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rough hew</word>
+				<word number="2">rough cast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sketch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">block out</word>
+				<word number="2">hammer out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trim</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lick into shape</word>
+				<word number="2">put into shape</word>
+			</sg>
+			<sg number="7">
+				<word number="1">model</word>
+				<word number="2">knead</word>
+				<word number="3">work up into</word>
+				<word number="4">set</word>
+				<word number="5">mold</word>
+				<word number="6">sculpture</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cast</word>
+				<word number="2">stamp</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="construct" headRef="168">build</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="formed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">formed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plastic">
+			<sg number="1">
+				<word number="1">plastic</word>
+				<word number="2">fictile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">formative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fluid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="plasmic">
+			<sg number="1">
+				<word number="1">plasmic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="isomorphous">
+			<sg number="1">
+				<word number="1">isomorphous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pleomorphic">
+			<sg number="1">
+				<word number="1">pleomorphic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">protean</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="changeable" headRef="156">changeable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

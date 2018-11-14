@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="391" name="Physical Pain" origNum="#378." class="3" section="3" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pain">
+			<sg number="1">
+				<word number="1">pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suffering</word>
+				<word number="2">sufferance</word>
+				<word number="3">suffrance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bodily pain</word>
+				<word number="2">physical pain</word>
+				<word number="3">bodily suffering</word>
+				<word number="4">physical suffering</word>
+				<word number="5">body pain</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="mental suffering" headRef="866">mental suffering</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dolour</word>
+				<word number="2">ache</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">aching</word>
+			</sg>
+			<sg number="7">
+				<word number="1">smart</word>
+			</sg>
+			<sg number="8">
+				<word number="1">shoot</word>
+				<word number="2">shooting</word>
+			</sg>
+			<sg number="9">
+				<word number="1">twinge</word>
+				<word number="2">twitch</word>
+				<word number="3">gripe</word>
+				<word number="4">headache</word>
+				<word number="5">stomach ache</word>
+				<word number="6">heartburn</word>
+				<word number="7">angina</word>
+				<word number="8">angina pectoris</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hurt</word>
+				<word number="2">cut</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sore</word>
+				<word number="2">soreness</word>
+			</sg>
+			<sg number="12">
+				<word number="1">discomfort</word>
+				<word number="2">malaise</word>
+			</sg>
+			<sg number="13">
+				<word number="1">cephalalgia</word>
+				<word number="2">earache</word>
+				<word number="3">gout</word>
+				<word number="4">ischiagra</word>
+				<word number="5">lumbago</word>
+				<word number="6">neuralgia</word>
+				<word number="7">odontalgia</word>
+				<word number="8">otalgia</word>
+				<word number="9">podagra</word>
+				<word number="10">rheumatism</word>
+				<word number="11">sciatica</word>
+			</sg>
+			<sg number="14">
+				<word number="1">tic douloureux</word>
+				<word number="2">toothache</word>
+				<word number="3">tormina</word>
+				<word number="4">torticollis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spasm">
+			<sg number="1">
+				<word number="1">spasm</word>
+				<word number="2">cramp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nightmare</word>
+				<word number="2">ephialtes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crick</word>
+				<word number="2">stitch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thrill</word>
+				<word number="2">convulsion</word>
+				<word number="3">throe</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="agitation" headRef="326">throb</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pang</word>
+			</sg>
+			<sg number="7">
+				<word number="1">colic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">kink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sharp pain">
+			<sg number="1">
+				<word number="1">sharp pain</word>
+				<word number="2">piercing pain</word>
+				<word number="3">throbbing pain</word>
+				<word number="4">shooting pain</word>
+				<word number="5">sting</word>
+				<word number="6">gnawing pain</word>
+				<word number="7">burning pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">excruciating pain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="anguish">
+			<sg number="1">
+				<word number="1">anguish</word>
+				<word number="2">agony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">torment</word>
+				<word number="2">torture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rack</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cruciation</word>
+				<word number="2">crucifixion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">martyrdom</word>
+				<word number="2">toad under a harrow</word>
+				<word number="3">vivisection</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="feel pain">
+			<sg number="1">
+				<word number="1">feel pain</word>
+				<word number="2">experience pain</word>
+				<word number="3">suffer pain</word>
+				<word number="4" paraRef="" posRef="n.">undergo pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suffer</word>
+				<word number="2">ache</word>
+				<word number="3">smart</word>
+				<word number="4">bleed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tingle</word>
+				<word number="2">shoot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">twinge</word>
+				<word number="2">twitch</word>
+				<word number="3">lancinate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">writhe</word>
+				<word number="2">wince</word>
+				<word number="3">make a wry face</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sit on thorns</word>
+				<word number="2">sit on pins and needles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="give pain">
+			<sg number="1">
+				<word number="1">give pain</word>
+				<word number="2">inflict pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lacerate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pain</word>
+				<word number="2">hurt</word>
+				<word number="3">chafe</word>
+				<word number="4">sting</word>
+				<word number="5">bite</word>
+				<word number="6">gnaw</word>
+				<word number="7">gripe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pinch</word>
+				<word number="2">tweak</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grate</word>
+				<word number="2">gall</word>
+				<word number="3">fret</word>
+				<word number="4">prick</word>
+				<word number="5">pierce</word>
+				<word number="6">wring</word>
+				<word number="7">convulse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">torment</word>
+				<word number="2">torture</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rack</word>
+				<word number="2">agonize</word>
+			</sg>
+			<sg number="8">
+				<word number="1">crucify</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cruciate</word>
+				<word number="2">excruciate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">break on the wheel</word>
+				<word number="2">put to the rack</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="punish" headRef="1015">flog</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="harsh sound" headRef="428">grate on the ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in pain">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in pain</word>
+				<word number="2">in a state of pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">pained</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gouty</word>
+				<word number="2">podagric</word>
+				<word number="3">torminous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="painful">
+			<sg number="1">
+				<word number="1">painful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">aching</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sore</word>
+				<word number="2">raw</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

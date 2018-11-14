@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="686" name="Insalubrity" origNum="#657." class="6" section="2" subSection="2" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="insalubrity">
+			<sg number="1">
+				<word number="1">insalubrity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">unhealthiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nonnaturals</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plague spot</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="poison" headRef="692">malaria</word>
+			</sg>
+			<sg number="6">
+				<word number="1">death in the pot</word>
+				<word number="2">contagion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">toxicity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="insalubrious">
+			<sg number="1">
+				<word number="1">insalubrious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unhealthy</word>
+				<word number="2">unwholesome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noxious</word>
+				<word number="2">noisome</word>
+			</sg>
+			<sg number="4">
+				<word number="1">morbific</word>
+				<word number="2">morbiferous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mephitic</word>
+				<word number="2">septic</word>
+				<word number="3">azotic</word>
+				<word number="4">deleterious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pestilent</word>
+				<word number="2">pestiferous</word>
+				<word number="3">pestilential</word>
+			</sg>
+			<sg number="7">
+				<word number="1">virulent</word>
+				<word number="2">venomous</word>
+				<word number="3">envenomed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">poisonous</word>
+				<word number="2">toxic</word>
+				<word number="3">toxiferous</word>
+				<word number="4">teratogenic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">narcotic</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">irremovable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contagious">
+			<sg number="1">
+				<word number="1">contagious</word>
+				<word number="2">infectious</word>
+				<word number="3">catching</word>
+				<word number="4">taking</word>
+				<word number="5">epidemic</word>
+				<word number="6">zymotic</word>
+				<word number="7" new="1">glycolytic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">epizootic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="innutritious">
+			<sg number="1">
+				<word number="1">innutritious</word>
+				<word number="2">indigestible</word>
+				<word number="3">ungenial</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disagreeing" headRef="26">uncongenial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deadly">
+			<sg number="1">
+				<word number="1" paraRef="killing" headRef="373">deadly</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

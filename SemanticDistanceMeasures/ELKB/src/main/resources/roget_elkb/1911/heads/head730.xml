@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="730" name="Bungler" origNum="#701." class="6" section="3" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bungler">
+			<sg number="1">
+				<word number="1">bungler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blunderer</word>
+				<word number="2">blunderhead</word>
+			</sg>
+			<sg number="3">
+				<word number="1">marplot</word>
+				<word number="2">fumbler</word>
+				<word number="3">lubber</word>
+				<word number="4">duffer</word>
+				<word number="5">dauber</word>
+				<word number="6">stick</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bad hand</word>
+				<word number="2">poor hand</word>
+				<word number="3">poor shot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">butterfingers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="no conjurer">
+			<sg number="1">
+				<word number="1">no conjurer</word>
+				<word number="2">flat</word>
+				<word number="3">muff</word>
+				<word number="4">slow coach</word>
+				<word number="5">looby</word>
+				<word number="6">lubber</word>
+				<word number="7">swab</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clod</word>
+				<word number="2">yokel</word>
+				<word number="3">awkward squad</word>
+				<word number="4">blanc-bec</word>
+			</sg>
+			<sg number="3">
+				<word number="1">galoot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="land lubber">
+			<sg number="1">
+				<word number="1">land lubber</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fresh water sailor</word>
+				<word number="2">fair weather sailor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">horse marine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fish out of water</word>
+				<word number="2">ass in lion's skin</word>
+				<word number="3">jackdaw in peacock's feathers</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deceiver" headRef="574">quack</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lord of misrule</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sloven">
+			<sg number="1">
+				<word number="1">sloven</word>
+				<word number="2">slattern</word>
+				<word number="3">trapes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="amateur">
+			<sg number="1">
+				<word number="1">amateur</word>
+				<word number="2">novice</word>
+				<word number="3" paraRef="learner" headRef="567">greenhorn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="il n'a pas invente' la poudre">
+			<sg number="1">
+				<word number="1">il n'a pas invente' la poudre</word>
+			</sg>
+			<sg number="2">
+				<word number="1">he will never set the Thames on fire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acierta errando</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aliquis in omnibus nullus in singulis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

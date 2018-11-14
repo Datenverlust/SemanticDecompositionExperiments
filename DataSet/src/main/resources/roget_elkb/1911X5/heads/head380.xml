@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="380" name="Zoology" origNum="#368." class="3" section="3" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="zoology">
+			<sg number="1">
+				<word number="1">zoology</word>
+				<word number="2">zoonomy</word>
+				<word number="3">zoography</word>
+				<word number="4">zootomy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anatomy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">comparative anatomy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">animal physiology</word>
+				<word number="2">comparative physiology</word>
+			</sg>
+			<sg number="5">
+				<word number="1">morphology</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mammalogy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="anthropology">
+			<sg number="1">
+				<word number="1">anthropology</word>
+				<word number="2">ornithology</word>
+				<word number="3">ichthyology</word>
+				<word number="4">herpetology</word>
+				<word number="5">ophiology</word>
+				<word number="6">malacology</word>
+				<word number="7">helminthology</word>
+				<word number="8">entomology</word>
+				<word number="9">oryctology</word>
+				<word number="10">paleontology</word>
+				<word number="11">mastology</word>
+				<word number="12">vermeology</word>
+				<word number="13" new="1">conchology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ichthy</word>
+				<word number="2">ichthyotomy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">taxidermy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="zoologist">
+			<sg number="1">
+				<word number="1">zoologist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="zoological">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">zoological</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

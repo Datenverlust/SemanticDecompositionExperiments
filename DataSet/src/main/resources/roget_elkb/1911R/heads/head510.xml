@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="510" name="Credulity" origNum="#486." class="4" section="5" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="credulity">
+			<sg number="1">
+				<word number="1">credulity</word>
+				<word number="2" paraRef="" posRef="adj.">credulousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cullibility</word>
+				<word number="2">gullibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gross credulity</word>
+				<word number="2">infatuation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">self delusion</word>
+				<word number="2">self deception</word>
+			</sg>
+			<sg number="5">
+				<word number="1">superstition</word>
+			</sg>
+			<sg number="6">
+				<word number="1">one's blind side</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="obstinacy" headRef="633">bigotry</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="hyperorthodoxy" headRef="1028">hyperorthodoxy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="misjudgment" headRef="505">misjudgment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="credulous person">
+			<sg number="1">
+				<word number="1" paraRef="dupe" headRef="573">credulous person</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be credulous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be credulous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jurare in verba magistri</word>
+			</sg>
+			<sg number="3">
+				<word number="1">follow implicitly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">swallow</word>
+				<word number="2">gulp down</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take on trust</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take for granted</word>
+				<word number="2">take for gospel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">run away with a notion</word>
+				<word number="2">run away with an idea</word>
+			</sg>
+			<sg number="8">
+				<word number="1">jump to a conclusion</word>
+				<word number="2">rush to a conclusion</word>
+			</sg>
+			<sg number="9">
+				<word number="1">think the moon is made of green cheese</word>
+			</sg>
+			<sg number="10">
+				<word number="1">take for granted</word>
+				<word number="2">grasp the shadow for the substance</word>
+			</sg>
+			<sg number="11">
+				<word number="1">catch at straws</word>
+				<word number="2">grasp at straws</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="impose upon">
+			<sg number="1">
+				<word number="1" paraRef="deceive" headRef="571">impose upon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="credulous">
+			<sg number="1">
+				<word number="1">credulous</word>
+				<word number="2">gullible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="deceived" headRef="571">easily deceived</word>
+			</sg>
+			<sg number="3">
+				<word number="1">simple</word>
+				<word number="2">green</word>
+				<word number="3">soft</word>
+				<word number="4">childish</word>
+				<word number="5">silly</word>
+				<word number="6">stupid</word>
+				<word number="7" new="1">honey</word>
+				<word number="8" new="1">longingly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">easily convinced</word>
+			</sg>
+			<sg number="5">
+				<word number="1">over-credulous</word>
+				<word number="2">over confident</word>
+				<word number="3">over trustful</word>
+			</sg>
+			<sg number="6">
+				<word number="1">infatuated</word>
+				<word number="2">superstitious</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="believing" headRef="508">confiding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the wish the father to the thought">
+			<sg number="1">
+				<word number="1">the wish the father to the thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">credo quia impossibile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">all is not gold that glitters</word>
+			</sg>
+			<sg number="4">
+				<word number="1">no es oro todo lo que reluce</word>
+			</sg>
+			<sg number="5">
+				<word number="1">omne ignotum pro magnifico</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

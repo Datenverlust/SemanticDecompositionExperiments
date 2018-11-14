@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="892" name="Ridiculousness" origNum="#853." class="8" section="2" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ridiculousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">ridiculousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">comicality</word>
+				<word number="2" paraRef="" posRef="adj.">oddity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extravagance</word>
+				<word number="2">drollery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="farce">
+			<sg number="1">
+				<word number="1">farce</word>
+				<word number="2">comedy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ridicule" headRef="895">burlesque</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fun" headRef="878">buffoonery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">frippery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">doggerel verses</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="absurdity" headRef="521">absurdity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="unmeaning" headRef="542">bombast</word>
+			</sg>
+			<sg number="8">
+				<word number="1">anticlimax</word>
+				<word number="2">bathos</word>
+			</sg>
+			<sg number="9">
+				<word number="1">eccentricity</word>
+				<word number="2" paraRef="unconformity" headRef="87">monstrosity</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="laughingstock" headRef="896">laughingstock</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be ridiculous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be ridiculous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pass from the sublime to the ridiculous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make one laugh</word>
+			</sg>
+			<sg number="4">
+				<word number="1">play the fool</word>
+				<word number="2">make a fool of oneself</word>
+				<word number="3">commit an absurdity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ridiculous">
+			<sg number="1">
+				<word number="1">ridiculous</word>
+				<word number="2">ludicrous</word>
+				<word number="3" new="1">absurd</word>
+			</sg>
+			<sg number="2">
+				<word number="1">comical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">droll</word>
+				<word number="2">funny</word>
+				<word number="3">laughable</word>
+				<word number="4">pour rire</word>
+				<word number="5">grotesque</word>
+				<word number="6">farcical</word>
+				<word number="7">odd</word>
+				<word number="8" new="1">hilarious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">whimsical</word>
+				<word number="2">whimsical as a dancing bear</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fanciful</word>
+				<word number="2">fantastic</word>
+				<word number="3">queer</word>
+				<word number="4">rum</word>
+				<word number="5">quizzical</word>
+				<word number="6">quaint</word>
+				<word number="7">bizarre</word>
+				<word number="8" new="1">fantastical</word>
+			</sg>
+			<sg number="6">
+				<word number="1">screaming</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="unconformable" headRef="87">eccentric</word>
+			</sg>
+			<sg number="8">
+				<word number="1">strange</word>
+				<word number="2">outlandish</word>
+				<word number="3">out of the way</word>
+				<word number="4">baroque</word>
+				<word number="5">weird</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="ugly" headRef="884">awkward</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">contrived</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">crazy</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">exotic</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">nonsensical</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">outrageous</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">peculiar</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">silly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="extravagant">
+			<sg number="1">
+				<word number="1">extravagant</word>
+				<word number="2">outre</word>
+				<word number="3">monstrous</word>
+				<word number="4">preposterous</word>
+				<word number="5">bombastic</word>
+				<word number="6">inflated</word>
+				<word number="7">stilted</word>
+				<word number="8">burlesque</word>
+				<word number="9">mock heroic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drollish">
+			<sg number="1">
+				<word number="1">drollish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seriocomic</word>
+				<word number="2">tragicomic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gimcrack</word>
+				<word number="2" paraRef="unimportant" headRef="672">contemptible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">doggerel</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="derisive" headRef="895">ironical</word>
+			</sg>
+			<sg number="6">
+				<word number="1">risible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="risum teneatis amici">
+			<sg number="1">
+				<word number="1">risum teneatis amici</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rideret Heraclitus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">du sublime au ridicule il n'y a qu'un pas</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

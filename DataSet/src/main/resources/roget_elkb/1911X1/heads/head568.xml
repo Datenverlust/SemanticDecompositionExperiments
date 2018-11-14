@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="568" name="School" origNum="#542." class="5" section="2" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="school">
+			<sg number="1">
+				<word number="1">school</word>
+				<word number="2">academy</word>
+				<word number="3">university</word>
+				<word number="4">alma mater</word>
+				<word number="5">college</word>
+				<word number="6">seminary</word>
+				<word number="7">Lyceum</word>
+				<word number="8" new="1">campus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">institute</word>
+				<word number="2">institution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">palaestra</word>
+				<word number="2">Gymnasium</word>
+				<word number="3">class</word>
+				<word number="4">seminar</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">hospital</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="day school">
+			<sg number="1">
+				<word number="1">day school</word>
+				<word number="2">boarding school</word>
+				<word number="3">preparatory school</word>
+				<word number="4">primary school</word>
+				<word number="5">infant school</word>
+				<word number="6">dame's school</word>
+				<word number="7">grammar school</word>
+				<word number="8">middle class school</word>
+				<word number="9">Board school</word>
+				<word number="10">denominational school</word>
+				<word number="11">National school</word>
+				<word number="12">British and Foreign school</word>
+				<word number="13">collegiate school</word>
+				<word number="14">art school</word>
+				<word number="15">continuation school</word>
+				<word number="16">convent school</word>
+				<word number="17">County Council school</word>
+				<word number="18">government school</word>
+				<word number="19">grant-in-aid school</word>
+				<word number="20">high school</word>
+				<word number="21">higher grade school</word>
+				<word number="22">military school</word>
+				<word number="23">missionary school</word>
+				<word number="24">naval school</word>
+				<word number="25">naval academy</word>
+				<word number="26">state-aided school</word>
+				<word number="27">technical school</word>
+				<word number="28">voluntary school</word>
+				<word number="29">school</word>
+			</sg>
+			<sg number="2">
+				<word number="1">school of art</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kindergarten</word>
+				<word number="2">nursery</word>
+				<word number="3">creche</word>
+				<word number="4">reformatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pulpit">
+			<sg number="1">
+				<word number="1">pulpit</word>
+				<word number="2">lectern</word>
+				<word number="3">soap box desk</word>
+				<word number="4">reading desk</word>
+				<word number="5">ambo</word>
+				<word number="6">lecture room</word>
+				<word number="7">theater</word>
+				<word number="8">auditorium</word>
+				<word number="9">amphitheater</word>
+				<word number="10">forum</word>
+				<word number="11">state</word>
+				<word number="12">rostrum</word>
+				<word number="13">platform</word>
+				<word number="14">hustings</word>
+				<word number="15">tribune</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="school book">
+			<sg number="1">
+				<word number="1">school book</word>
+				<word number="2">schoolbook</word>
+				<word number="3">horn book</word>
+				<word number="4">text book</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grammar</word>
+				<word number="2">primer</word>
+				<word number="3">abecedary</word>
+				<word number="4">rudiments</word>
+				<word number="5">manual</word>
+				<word number="6">vade mecum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">encyclopedia</word>
+				<word number="2">cyclopedia</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Lindley Murray</word>
+				<word number="2">Cocker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dictionary</word>
+				<word number="2">lexicon</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">concordance</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">thesaurus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="professorship">
+			<sg number="1">
+				<word number="1">professorship</word>
+				<word number="2">lectureship</word>
+				<word number="3">readership</word>
+				<word number="4">fellowship</word>
+				<word number="5">tutorship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="School Board Council of Education">
+			<sg number="1">
+				<word number="1">School Board Council of Education</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Board of Education</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Board of Studies</word>
+				<word number="2">Prefect of Studies</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Textbook Committee</word>
+			</sg>
+			<sg number="5">
+				<word number="1">propaganda</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="scholastic">
+			<sg number="1">
+				<word number="1">scholastic</word>
+				<word number="2">academic</word>
+				<word number="3">collegiate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">educational</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ex cathedra">
+			<sg number="1">
+				<word number="1">ex cathedra</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

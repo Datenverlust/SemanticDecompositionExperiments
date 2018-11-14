@@ -1,0 +1,539 @@
+abductive
+termination
+
+getCorrectAnswerNumber_v06
+
+pathNode:
+    - in_v06
+    - setAbductiveMarkers
+    - addinferenceCollision_v6
+
+--------------------- 
+
+Frage : 16
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: nitrogen
+tatsaechliche Antwort: oxygen
+    
+    - abductive :1
+        - correctly :0
+
+--------------------- 
+
+Frage : 22
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: miscarriage
+tatsaechliche Antwort: abortion
+    
+    - abductive :2
+        - correctly :0
+
+--------------------- 
+
+Frage : 28
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: divergence
+tatsaechliche Antwort: evolution
+    
+    - abductive :3
+        - correctly :0
+
+--------------------- 
+
+Frage : 41
+    Iterationen: 9
+    Ermittelte Antwort: 2 Marker-Ursprung: eruption
+tatsaechliche Antwort: earthquake
+    
+    - abductive :4
+        - correctly :0
+
+--------------------- 
+
+Frage : 48
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: enzyme
+tatsaechliche Antwort: enzymes
+    
+    - abductive :5
+        - correctly :1
+
+--------------------- 
+
+Frage : 51
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: cuticle
+tatsaechliche Antwort: papillae
+    
+    - abductive :6
+        - correctly :1
+
+--------------------- 
+
+Frage : 86
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: liquidation
+tatsaechliche Antwort: freezing
+    
+    - abductive :7
+        - correctly :1
+
+--------------------- 
+
+Frage : 109
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: monkey
+tatsaechliche Antwort: homo sapiens
+    
+    - abductive :8
+        - correctly :1
+
+--------------------- 
+
+Frage : 123
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: calcium
+tatsaechliche Antwort: solvent
+    
+    - abductive :9
+        - correctly :1
+
+--------------------- 
+
+Frage : 142
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: muscle
+tatsaechliche Antwort: jaws and pharynx
+    
+    - abductive :10
+        - correctly :1
+
+--------------------- 
+
+Frage : 150
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: halogen
+tatsaechliche Antwort: amalgams
+    
+    - abductive :11
+        - correctly :1
+
+--------------------- 
+
+Frage : 182
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: bacterium
+tatsaechliche Antwort: fungi
+    
+    - abductive :12
+        - correctly :1
+
+--------------------- 
+
+Frage : 184
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: temperature
+tatsaechliche Antwort: temperature
+    
+    - abductive :13
+        - correctly :2
+
+--------------------- 
+
+Frage : 199
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: allergy
+tatsaechliche Antwort: emergency
+    
+    - abductive :14
+        - correctly :2
+
+--------------------- 
+
+Frage : 204
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: apparatus
+tatsaechliche Antwort: an electrolytic cell
+    
+    - abductive :15
+        - correctly :2
+
+--------------------- 
+
+Frage : 221
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: diesel
+tatsaechliche Antwort: an electric generator
+    
+    - abductive :16
+        - correctly :2
+
+--------------------- 
+
+Frage : 227
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: density
+tatsaechliche Antwort: lower density
+    
+    - abductive :17
+        - correctly :3
+
+--------------------- 
+
+Frage : 241
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: entropy
+tatsaechliche Antwort: energy
+    
+    - abductive :18
+        - correctly :3
+
+--------------------- 
+
+Frage : 246
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: uranus
+tatsaechliche Antwort: uranus
+    
+    - abductive :19
+        - correctly :4
+
+--------------------- 
+
+Frage : 253
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: wind
+tatsaechliche Antwort: wind
+    
+    - abductive :20
+        - correctly :5
+
+--------------------- 
+
+Frage : 255
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: silver
+tatsaechliche Antwort: silicon and germanium
+    
+    - abductive :21
+        - correctly :5
+
+--------------------- 
+
+Frage : 256
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: zone
+tatsaechliche Antwort: aphotic zone
+    
+    - abductive :22
+        - correctly :6
+
+--------------------- 
+
+Frage : 271
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: glycogen
+tatsaechliche Antwort: to synthesize glycogen
+    
+    - abductive :23
+        - correctly :7
+
+--------------------- 
+
+Frage : 278
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: geomorphology
+tatsaechliche Antwort: biogeography
+    
+    - abductive :24
+        - correctly :7
+
+--------------------- 
+
+Frage : 283
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: bacterium
+tatsaechliche Antwort: fungi
+    
+    - abductive :25
+        - correctly :7
+
+--------------------- 
+
+Frage : 285
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: surgery
+tatsaechliche Antwort: antibiotics
+    
+    - abductive :26
+        - correctly :7
+
+--------------------- 
+
+Frage : 309
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: notochord
+tatsaechliche Antwort: intervertebral foramina
+    
+    - abductive :27
+        - correctly :7
+
+--------------------- 
+
+Frage : 311
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: absorption
+tatsaechliche Antwort: digestion
+    
+    - abductive :28
+        - correctly :7
+
+--------------------- 
+
+Frage : 323
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: creek
+tatsaechliche Antwort: lakes
+    
+    - abductive :29
+        - correctly :7
+
+--------------------- 
+
+Frage : 325
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gallbladder
+tatsaechliche Antwort: esophagus
+    
+    - abductive :30
+        - correctly :7
+
+--------------------- 
+
+Frage : 335
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: mouse
+tatsaechliche Antwort: amphibians
+    
+    - abductive :31
+        - correctly :7
+
+--------------------- 
+
+Frage : 336
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: solution
+tatsaechliche Antwort: solution
+    
+    - abductive :32
+        - correctly :8
+
+--------------------- 
+
+Frage : 344
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: enamel
+tatsaechliche Antwort: capsid
+    
+    - abductive :33
+        - correctly :8
+
+--------------------- 
+
+Frage : 348
+    Iterationen: 10
+    Ermittelte Antwort: 2 Marker-Ursprung: habitat
+tatsaechliche Antwort: the ecosystem
+    
+    - abductive :34
+        - correctly :8
+
+--------------------- 
+
+Frage : 349
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: ketosis
+tatsaechliche Antwort: homeostasis
+    
+    - abductive :35
+        - correctly :8
+
+--------------------- 
+
+Frage : 353
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :36
+        - correctly :9
+
+--------------------- 
+
+Frage : 354
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: precipitation
+tatsaechliche Antwort: heat
+    
+    - abductive :37
+        - correctly :9
+
+--------------------- 
+
+Frage : 355
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: exhaustion
+tatsaechliche Antwort: dehydration
+    
+    - abductive :38
+        - correctly :9
+
+--------------------- 
+
+Frage : 375
+    Iterationen: 10
+    Ermittelte Antwort: 4 Marker-Ursprung: shade
+tatsaechliche Antwort: food?
+    
+    - abductive :39
+        - correctly :9
+
+--------------------- 
+
+Frage : 384
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: fertilization
+tatsaechliche Antwort: fertilization
+    
+    - abductive :40
+        - correctly :10
+
+--------------------- 
+
+Frage : 386
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: division
+tatsaechliche Antwort: cell division
+    
+    - abductive :41
+        - correctly :11
+
+--------------------- 
+
+Frage : 390
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: kilocalorie
+tatsaechliche Antwort: molarity
+    
+    - abductive :42
+        - correctly :11
+
+--------------------- 
+
+Frage : 396
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: compression
+tatsaechliche Antwort: turbulence
+    
+    - abductive :43
+        - correctly :11
+
+--------------------- 
+
+Frage : 397
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: polarization
+tatsaechliche Antwort: polarization
+    
+    - abductive :44
+        - correctly :12
+
+--------------------- 
+
+Frage : 423
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: cytokinesis
+tatsaechliche Antwort: cytokinesis
+    
+    - abductive :45
+        - correctly :13
+
+--------------------- 
+
+Frage : 426
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: effect
+tatsaechliche Antwort: greenhouse effect
+    
+    - abductive :46
+        - correctly :14
+
+--------------------- 
+
+Frage : 434
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: friction
+tatsaechliche Antwort: temperature
+    
+    - abductive :47
+        - correctly :14
+
+--------------------- 
+
+Frage : 435
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: flagellum
+tatsaechliche Antwort: mitochondria
+    
+    - abductive :48
+        - correctly :14
+
+--------------------- 
+
+Frage : 439
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: histone
+tatsaechliche Antwort: globin
+    
+    - abductive :49
+        - correctly :14
+
+--------------------- 
+
+Frage : 457
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: animal
+tatsaechliche Antwort: plants
+    
+    - abductive :50
+        - correctly :14
+
+--------------------- 
+
+Frage : 458
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: bird
+tatsaechliche Antwort: birds and airplanes
+    
+    - abductive :51
+        - correctly :15
+
+--------------------- 
+
+Frage : 461
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: nucleus
+tatsaechliche Antwort: an atom
+    
+    - abductive :52
+        - correctly :15
+
+--------------------- 
+
+Frage : 469
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: nerve
+tatsaechliche Antwort: the synaptic terminals
+    
+    - abductive :53
+        - correctly :15

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="113" name="Period" origNum="#108." class="1" section="6" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="period">
+			<sg number="1">
+				<word number="1">period</word>
+				<word number="2">age</word>
+				<word number="3">era</word>
+			</sg>
+			<sg number="2">
+				<word number="1">second</word>
+				<word number="2">minute</word>
+				<word number="3">hour</word>
+				<word number="4">day</word>
+				<word number="5">week</word>
+				<word number="6">month</word>
+				<word number="7">quarter</word>
+				<word number="8">year</word>
+				<word number="9">decade</word>
+				<word number="10">decenniumm lustrum</word>
+				<word number="11">quinquennium</word>
+				<word number="12">lifetime</word>
+				<word number="13">generation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">epoch</word>
+				<word number="2">ghurry</word>
+				<word number="3">lunation</word>
+				<word number="4">moon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="century">
+			<sg number="1">
+				<word number="1">century</word>
+				<word number="2">millennium</word>
+			</sg>
+			<sg number="2">
+				<word number="1">annus magnus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="horary">
+			<sg number="1">
+				<word number="1">horary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hourly</word>
+				<word number="2" paraRef="periodical" headRef="145">annual</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

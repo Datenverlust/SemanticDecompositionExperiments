@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="798" name="Petitioner" origNum="#767." class="7" section="2" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="petitioner">
+			<sg number="1">
+				<word number="1">petitioner</word>
+				<word number="2">solicitor</word>
+				<word number="3">applicant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suppliant</word>
+				<word number="2">supplicant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suitor</word>
+				<word number="2">candidate</word>
+				<word number="3">claimant</word>
+				<word number="4">postulant</word>
+				<word number="5">aspirant</word>
+				<word number="6">competitor</word>
+				<word number="7">bidder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">place hunter</word>
+				<word number="2">pot hunter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prizer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">seeker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="beggar">
+			<sg number="1">
+				<word number="1">beggar</word>
+				<word number="2">mendicant</word>
+				<word number="3">moocher</word>
+				<word number="4">panhandler</word>
+				<word number="5">freeloader</word>
+				<word number="6">sponger</word>
+				<word number="7">mumper</word>
+				<word number="8">sturdy beggar</word>
+				<word number="9">cadger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hotel runner</word>
+				<word number="2">runner</word>
+				<word number="3">steerer</word>
+				<word number="4">tout</word>
+				<word number="5">touter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pauper">
+			<sg number="1">
+				<word number="1">pauper</word>
+				<word number="2">homeless person</word>
+				<word number="3">hobo</word>
+				<word number="4">bum</word>
+				<word number="5">tramp</word>
+				<word number="6">bindle stiff</word>
+				<word number="7">bo</word>
+				<word number="8" paraRef="poverty" headRef="839">knight of the road</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hippie</word>
+				<word number="2">flower child</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard core unemployed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">welfare client</word>
+				<word number="2">welfare case</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="canvasser">
+			<sg number="1">
+				<word number="1">canvasser</word>
+				<word number="2" paraRef="bagman" headRef="789">bagman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">salesman</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

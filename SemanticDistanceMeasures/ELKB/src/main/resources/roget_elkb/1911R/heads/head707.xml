@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="707" name="Disuse" origNum="#678." class="6" section="2" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="forbearance">
+			<sg number="1">
+				<word number="1">forbearance</word>
+				<word number="2">abstinence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="relinquishment" headRef="815">relinquishment</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="want of habit" headRef="642">desuetude</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disusage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not use">
+			<sg number="1">
+				<word number="1">not use</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do without</word>
+				<word number="2">dispense with</word>
+				<word number="3">let alone</word>
+				<word number="4">not touch</word>
+				<word number="5">forbear</word>
+				<word number="6">abstain</word>
+				<word number="7">spare</word>
+				<word number="8">waive</word>
+				<word number="9">neglect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep back</word>
+				<word number="2">reserve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lay up">
+			<sg number="1">
+				<word number="1">lay up</word>
+				<word number="2">lay by</word>
+				<word number="3">lay on the shelf</word>
+				<word number="4">keep on the shelf</word>
+				<word number="5">lay up in ordinary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay up in a napkin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shelve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set aside</word>
+				<word number="2">put aside</word>
+				<word number="3">lay aside</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disuse</word>
+				<word number="2">leave off</word>
+				<word number="3">have done with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">supersede</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="eject" headRef="308">discard</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dismiss</word>
+				<word number="2">give warning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="throw aside">
+			<sg number="1">
+				<word number="1" paraRef="relinquish" headRef="815">throw aside</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destroy" headRef="169">make away with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cast overboard</word>
+				<word number="2">heave overboard</word>
+				<word number="3">throw overboard</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cast to the dogs</word>
+				<word number="2">cast to the winds</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="render useless" headRef="674">dismantle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lie unemployed">
+			<sg number="1">
+				<word number="1">lie unemployed</word>
+				<word number="2" paraRef="" posRef="adj.">remain unemployed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="not used">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">not used</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unemployed</word>
+				<word number="2">unapplied</word>
+				<word number="3">undisposed of</word>
+				<word number="4">unspent</word>
+				<word number="5">unexercised</word>
+				<word number="6">untouched</word>
+				<word number="7">untrodden</word>
+				<word number="8">unessayed</word>
+				<word number="9">ungathered</word>
+				<word number="10">unculled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uncalled for</word>
+				<word number="2">not required</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disused</word>
+			</sg>
+			<sg number="2">
+				<word number="1">done with</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="903" name="Caution" origNum="#864." class="8" section="2" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="caution">
+			<sg number="1">
+				<word number="1">caution</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">cautiousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discretion</word>
+				<word number="2">prudence</word>
+				<word number="3">cautel</word>
+				<word number="4">heed</word>
+				<word number="5">circumspection</word>
+				<word number="6">calculation</word>
+				<word number="7">deliberation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="foresight">
+			<sg number="1">
+				<word number="1" paraRef="foresight" headRef="534">foresight</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vigilance" headRef="479">vigilance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="warning" headRef="697">warning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="coolness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">coolness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self-possession</word>
+				<word number="2">self-command</word>
+			</sg>
+			<sg number="3">
+				<word number="1">presence of mind</word>
+				<word number="2">sang froid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">well-regulated mind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">worldly wisdom</word>
+				<word number="2">Fabian policy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be cautious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be cautious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take care</word>
+				<word number="2">take  heed</word>
+				<word number="3">take  good care</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have a care mind</word>
+				<word number="2">what one is about</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="keep watch" headRef="479">be on one's guard</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"make assurance doubly sure"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bespeak">
+			<sg number="1">
+				<word number="1" paraRef="be early" headRef="138">bespeak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="think twice">
+			<sg number="1">
+				<word number="1">think twice</word>
+				<word number="2">look before one leaps</word>
+				<word number="3">count the cost</word>
+				<word number="4">look to the main chance</word>
+				<word number="5">cut one's coat according to one's cloth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feel one's ground</word>
+				<word number="2">feel one's way</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="foresight" headRef="534">see how the land lies</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wait to see how the cat jumps</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bridle one's tongue</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="prepare" headRef="702">reculer pour mieux sauter</word>
+			</sg>
+			<sg number="7">
+				<word number="1">let well alone</word>
+				<word number="2">let well enough alone</word>
+			</sg>
+			<sg number="8">
+				<word number="1">let sleeping dogs lie</word>
+				<word number="2">ne pas reveiller le chat qui dort</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="keep out of harm's way">
+			<sg number="1">
+				<word number="1">keep out of harm's way</word>
+				<word number="2">keep out of troubled waters</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep at a respectful distance</word>
+				<word number="2">stand aloof</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep on the safe side</word>
+				<word number="2">be on the safe side</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="husband one's resources">
+			<sg number="1">
+				<word number="1" paraRef="husband one's resources" headRef="665">husband one's resources</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="caution">
+			<sg number="1">
+				<word number="1" paraRef="warn" headRef="697">caution</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cautious">
+			<sg number="1">
+				<word number="1">cautious</word>
+				<word number="2">wary</word>
+				<word number="3">guarded</word>
+				<word number="4" new="1">ergonomically</word>
+				<word number="5" new="1">domestically</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="watchful" headRef="479">on one's guard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cavendo tutus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in medio tutissimus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vigilant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">roughshod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="careful">
+			<sg number="1">
+				<word number="1">careful</word>
+				<word number="2">heedful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cautelous</word>
+				<word number="2">stealthy</word>
+				<word number="3">chary</word>
+				<word number="4">shy of</word>
+				<word number="5">circumspect</word>
+				<word number="6">prudent</word>
+				<word number="7">discreet</word>
+				<word number="8">politic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="skillful" headRef="727">sure-footed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unenterprising">
+			<sg number="1">
+				<word number="1">unenterprising</word>
+				<word number="2">unadventurous</word>
+				<word number="3">cool</word>
+				<word number="4">steady</word>
+				<word number="5">self-possessed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overcautious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="cautiously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">cautiously</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="have a care">
+			<sg number="1">
+				<word number="1">have a care!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="timeo Danaos">
+			<sg number="1">
+				<word number="1">timeo Danaos</word>
+			</sg>
+			<sg number="2">
+				<word number="1">festina lente</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ante victoriam ne canas triumphum">
+			<sg number="1">
+				<word number="1">ante victoriam ne canas triumphum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"give</word>
+				<word number="2">every man thine ear but few thy voice"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">he who laughs last laughs best</word>
+				<word number="2">il rit bien qui rit le dernier</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ni firmes carta que no leas ni bebas agua que no veas</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nescit vox missa reverti</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"love all</word>
+				<word number="2">trust a few"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">noli irritare leones</word>
+			</sg>
+			<sg number="8">
+				<word number="1">safe bind safe find</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"if it ain't broke</word>
+				<word number="2">don't fix it"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

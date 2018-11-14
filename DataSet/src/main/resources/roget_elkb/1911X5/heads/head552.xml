@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="552" name="Information" origNum="#527." class="5" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="information">
+			<sg number="1">
+				<word number="1">information</word>
+				<word number="2">enlightenment</word>
+				<word number="3">acquaintance</word>
+				<word number="4" paraRef="knowledge" headRef="514">knowledge</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="publicity" headRef="557">publicity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="de.dailab.nsm.semanticDistanceMeasures.data" headRef="490">de.dailab.nsm.semanticDistanceMeasures.data</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="3">details</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="communication">
+			<sg number="1">
+				<word number="1">communication</word>
+				<word number="2">intimation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">notice</word>
+				<word number="2">notification</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enunciation</word>
+				<word number="2">annunciation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">announcement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">communiqué</word>
+			</sg>
+			<sg number="6">
+				<word number="1">representation</word>
+				<word number="2">round robin</word>
+				<word number="3">presentment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="case">
+			<sg number="1">
+				<word number="1">case</word>
+				<word number="2">estimate</word>
+				<word number="3">specification</word>
+				<word number="4">report</word>
+				<word number="5">advice</word>
+				<word number="6">monition</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="news" headRef="558">news</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="record" headRef="577">return</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="description" headRef="620">account</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="affirmation" headRef="561">statement</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">testimony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mention">
+			<sg number="1">
+				<word number="1">mention</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">acquainting</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="teaching" headRef="563">instruction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outpouring</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intercommunication</word>
+				<word number="2">communicativeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="informant">
+			<sg number="1">
+				<word number="1">informant</word>
+				<word number="2">authority</word>
+				<word number="3">teller</word>
+				<word number="4">intelligencer</word>
+				<word number="5">reporter</word>
+				<word number="6">exponent</word>
+				<word number="7">mouthpiece</word>
+			</sg>
+			<sg number="2">
+				<word number="1">informer</word>
+				<word number="2">eavesdropper</word>
+				<word number="3">delator</word>
+				<word number="4">detective</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sleuth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mouchard</word>
+				<word number="2">spy</word>
+				<word number="3">newsmonger</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="messenger" headRef="560">messenger</word>
+			</sg>
+			<sg number="6">
+				<word number="1">amicus curiae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="valet de place">
+			<sg number="1">
+				<word number="1">valet de place</word>
+				<word number="2">cicerone</word>
+				<word number="3">pilot</word>
+				<word number="4">guide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guidebook</word>
+				<word number="2">handbook</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vade mecum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">manual</word>
+			</sg>
+			<sg number="5">
+				<word number="1">map</word>
+				<word number="2">plan</word>
+				<word number="3">chart</word>
+				<word number="4">gazetteer</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="journey" headRef="277">itinerary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="hint">
+			<sg number="1">
+				<word number="1">hint</word>
+				<word number="2">suggestion</word>
+				<word number="3">innuendo</word>
+				<word number="4">inkling</word>
+				<word number="5">whisper</word>
+				<word number="6">passing word</word>
+				<word number="7">word in the ear</word>
+				<word number="8">subaudition</word>
+				<word number="9">cue</word>
+				<word number="10">byplay</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="indication" headRef="576">gesture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gentle hint</word>
+				<word number="2">broad hint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">verbum sapienti</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="latency" headRef="551">insinuation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="information theory">
+			<sg number="1">
+				<word number="1">information theory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="bit">
+			<sg number="1">
+				<word number="1">bit</word>
+				<word number="2">byte</word>
+				<word number="3">word</word>
+				<word number="4">doubleword</word>
+				<word number="5">quad word</word>
+				<word number="6">paragraph</word>
+				<word number="7">segment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="magnetic media">
+			<sg number="1">
+				<word number="1">magnetic media</word>
+				<word number="2">paper medium</word>
+				<word number="3">optical media</word>
+			</sg>
+			<sg number="2">
+				<word number="1">random access memory</word>
+				<word number="2">RAM</word>
+			</sg>
+			<sg number="3">
+				<word number="1">read-only memory</word>
+				<word number="2">ROM</word>
+			</sg>
+			<sg number="4">
+				<word number="1">write once read mostly memory</word>
+				<word number="2">WORM</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="warning">
+			<sg number="1">
+				<word number="1" new="1">warning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="evidence">
+			<sg number="1">
+				<word number="1" new="2">evidence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="forecast">
+			<sg number="1">
+				<word number="1" new="2">forecast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="clue">
+			<sg number="1">
+				<word number="1" new="3">clue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="reference">
+			<sg number="1">
+				<word number="1" new="3">reference</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="description">
+			<sg number="1">
+				<word number="1" new="4">description</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="tell">
+			<sg number="1">
+				<word number="1">tell</word>
+				<word number="2">told</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inform</word>
+				<word number="2">inform of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acquaint</word>
+				<word number="2">acquaint with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">impart</word>
+				<word number="2">impart to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make acquaintance with</word>
+				<word number="2">apprise</word>
+				<word number="3">advise</word>
+				<word number="4">enlighten</word>
+				<word number="5">awaken</word>
+			</sg>
+			<sg number="6">
+				<word number="1">transmit</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">consult</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="2">inquire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="let fall">
+			<sg number="1">
+				<word number="1">let fall</word>
+				<word number="2">mention</word>
+				<word number="3">express</word>
+				<word number="4">intimate</word>
+				<word number="5">represent</word>
+				<word number="6">communicate</word>
+				<word number="7">make known</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="publish" headRef="557">publish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">notify</word>
+				<word number="2">signify</word>
+				<word number="3">specify</word>
+				<word number="4">convey the knowledge of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="let one know">
+			<sg number="1">
+				<word number="1">let one know</word>
+				<word number="2">have one to know</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give one to understand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give notice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set before</word>
+				<word number="2">lay before</word>
+				<word number="3">put before</word>
+			</sg>
+			<sg number="5">
+				<word number="1">point out</word>
+				<word number="2">put into one's head</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put one in possession of</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="teach" headRef="563">instruct</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="direct the attention to" headRef="477">direct the attention to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="announce">
+			<sg number="1">
+				<word number="1">announce</word>
+				<word number="2">annunciate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">report</word>
+				<word number="2">report progress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bringword</word>
+				<word number="2">send word</word>
+				<word number="3">leave word</word>
+				<word number="4">write word</word>
+			</sg>
+			<sg number="4">
+				<word number="1">telegraph</word>
+				<word number="2">telephone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wire</word>
+			</sg>
+			<sg number="6">
+				<word number="1">retail</word>
+				<word number="2">render an account</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="describe" headRef="620">give an account</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="affirm" headRef="561">state</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="let slip">
+			<sg number="1">
+				<word number="1">let slip</word>
+				<word number="2">blurt out</word>
+				<word number="3">spill the beans</word>
+				<word number="4">unburden oneself of</word>
+				<word number="5">let off one's chest</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disclose" headRef="555">disclose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="show cause">
+			<sg number="1">
+				<word number="1">show cause</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="interpret" headRef="547">explain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="hint">
+			<sg number="1">
+				<word number="1">hint</word>
+			</sg>
+			<sg number="2">
+				<word number="1">given an inkling of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give a hint</word>
+				<word number="2">drop a hint</word>
+				<word number="3">throw out a hint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">insinuate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">allude to</word>
+				<word number="2">make allusion to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">glance at</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="indicate" headRef="576">tip the wink</word>
+			</sg>
+			<sg number="8">
+				<word number="1">suggest</word>
+				<word number="2">prompt</word>
+				<word number="3">give the cue</word>
+				<word number="4">breathe</word>
+			</sg>
+			<sg number="9">
+				<word number="1">whisper</word>
+				<word number="2">whisper in the ear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="give a bit of one's mind">
+			<sg number="1">
+				<word number="1">give a bit of one's mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tell one plainly</word>
+				<word number="2">tell once for all</word>
+			</sg>
+			<sg number="3">
+				<word number="1">speak volumes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="undeceive">
+			<sg number="1">
+				<word number="1">undeceive</word>
+				<word number="2">unbeguile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set right</word>
+				<word number="2">correct</word>
+				<word number="3">open the eyes of</word>
+				<word number="4">disabuse</word>
+				<word number="5">disillusion one of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="be informed of">
+			<sg number="1">
+				<word number="1">be informed of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="know" headRef="514">know</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="learn" headRef="565">learn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">get scent of</word>
+				<word number="2">get wind of</word>
+				<word number="3">gather from</word>
+			</sg>
+			<sg number="5">
+				<word number="1">awaken to</word>
+				<word number="2">open one's eyes to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">become alive</word>
+				<word number="2">become awake to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hear</word>
+				<word number="2">overhear</word>
+				<word number="3">understand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="come to one's ears">
+			<sg number="1">
+				<word number="1">come to one's ears</word>
+				<word number="2">come to one's knowledge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reach one's ears</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="informed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">informed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">communique</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">reported</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="published" headRef="557">published</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="expressive">
+			<sg number="1">
+				<word number="1" paraRef="expressive" headRef="541">expressive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="open" headRef="550">explicit</word>
+				<word number="2" paraRef="clear" headRef="543">clear</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="artless" headRef="732">plain spoken</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nuncupative">
+			<sg number="1">
+				<word number="1">nuncupative</word>
+				<word number="2">nuncupatory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">declaratory</word>
+				<word number="2">expository</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enunciative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">communicative</word>
+				<word number="2">communicatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="from information received">
+			<sg number="1">
+				<word number="1">from information received</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a little bird told me">
+			<sg number="1">
+				<word number="1">a little bird told me</word>
+			</sg>
+			<sg number="2">
+				<word number="1">I heard it through the grapevine</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

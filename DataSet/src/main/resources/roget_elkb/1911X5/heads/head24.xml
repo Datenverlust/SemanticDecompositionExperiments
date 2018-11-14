@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="24" name="Prototype" origNum="#22." class="1" section="2" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prototype">
+			<sg number="1">
+				<word number="1">prototype</word>
+				<word number="2">original</word>
+				<word number="3">model</word>
+				<word number="4">pattern</word>
+				<word number="5">precedent</word>
+				<word number="6">standard</word>
+				<word number="7">ideal</word>
+				<word number="8">reference</word>
+				<word number="9">scantling</word>
+				<word number="10">type</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archetype</word>
+				<word number="2">antitype</word>
+			</sg>
+			<sg number="3">
+				<word number="1">protoplast</word>
+				<word number="2">module</word>
+				<word number="3">exemplar</word>
+				<word number="4">example</word>
+				<word number="5">ensample</word>
+				<word number="6">paradigm</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lay-figure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="text">
+			<sg number="1">
+				<word number="1">text</word>
+				<word number="2">copy</word>
+				<word number="3">design</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fugleman</word>
+				<word number="2">keynote</word>
+			</sg>
+			<sg number="3">
+				<word number="1">die</word>
+				<word number="2">mold</word>
+			</sg>
+			<sg number="4">
+				<word number="1">matrix</word>
+				<word number="2">last</word>
+				<word number="3">plasm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">proplasm</word>
+				<word number="2">protoplasm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mint</word>
+			</sg>
+			<sg number="7">
+				<word number="1">seal</word>
+				<word number="2">punch</word>
+				<word number="3">intaglio</word>
+				<word number="4">negative</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stamp</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be an example">
+			<sg number="1">
+				<word number="1">be an example</word>
+				<word number="2">be a role model</word>
+				<word number="3">set an example</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set a copy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="aprecedent embalms a principle">
+			<sg number="1">
+				<word number="1">aprecedent embalms a principle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exempla sunt odiosa</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

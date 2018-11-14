@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="252" name="Symmetry" origNum="#242." class="2" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="symmetry">
+			<sg number="1">
+				<word number="1">symmetry</word>
+				<word number="2">shapeliness</word>
+				<word number="3">finish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="beauty" headRef="883">beauty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proportion</word>
+				<word number="2">eurythmy</word>
+				<word number="3">uniformity</word>
+				<word number="4">parallelism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bilateral symmetry</word>
+				<word number="2">trilateral symmetry</word>
+				<word number="3">multilateral symmetry</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="centrality" headRef="232">centrality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="arborescence">
+			<sg number="1">
+				<word number="1">arborescence</word>
+				<word number="2">branching</word>
+				<word number="3">ramification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arbor vitae</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="symmetrical">
+			<sg number="1">
+				<word number="1">symmetrical</word>
+				<word number="2">shapely</word>
+				<word number="3">well set</word>
+				<word number="4">finished</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="beautiful" headRef="883">beautiful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">classic</word>
+				<word number="2">chaste</word>
+				<word number="3">severe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="regular">
+			<sg number="1">
+				<word number="1">regular</word>
+				<word number="2">uniform</word>
+				<word number="3">balanced</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="equal" headRef="29">equal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">parallel</word>
+				<word number="2">coextensive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="arborescent">
+			<sg number="1">
+				<word number="1">arborescent</word>
+				<word number="2">arboriform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dendriform</word>
+				<word number="2">dendroid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">branching</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ramous</word>
+				<word number="2">ramose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">filiciform</word>
+				<word number="2">filicoid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">subarborescent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">papilionaceous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fuji-shaped">
+			<sg number="1">
+				<word number="1">fuji-shaped</word>
+				<word number="2">fujigata</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

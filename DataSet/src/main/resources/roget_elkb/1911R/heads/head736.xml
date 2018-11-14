@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="736" name="Aid" origNum="#707." class="6" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="aid">
+			<sg number="1">
+				<word number="1">aid</word>
+				<word number="2">aidance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assistance</word>
+				<word number="2">help</word>
+				<word number="3">opitulation</word>
+				<word number="4">succor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">support</word>
+				<word number="2">lift</word>
+				<word number="3">advance</word>
+				<word number="4">furtherance</word>
+				<word number="5">promotion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cooperation" headRef="738">coadjuvancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="patronage">
+			<sg number="1">
+				<word number="1">patronage</word>
+				<word number="2">championship</word>
+				<word number="3">countenance</word>
+				<word number="4">favor</word>
+				<word number="5">interest</word>
+				<word number="6">advocacy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sustentation">
+			<sg number="1">
+				<word number="1">sustentation</word>
+				<word number="2">subvention</word>
+				<word number="3">alimentation</word>
+				<word number="4">nutrition</word>
+				<word number="5">nourishment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eutrophy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">manna in the wilderness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="food" headRef="309">food</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="means" headRef="661">means</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ministry">
+			<sg number="1">
+				<word number="1">ministry</word>
+				<word number="2">ministration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subministration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accommodation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="relief">
+			<sg number="1">
+				<word number="1">relief</word>
+				<word number="2">rescue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">help at a dead lift</word>
+			</sg>
+			<sg number="3">
+				<word number="1">supernatural aid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deus ex machina</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="supplies">
+			<sg number="1">
+				<word number="1">supplies</word>
+				<word number="2">reinforcements</word>
+				<word number="3">reenforcements</word>
+				<word number="4">succors</word>
+				<word number="5">contingents</word>
+				<word number="6">recruits</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="support" headRef="224">support</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adjunct</word>
+				<word number="2" paraRef="helper" headRef="740">ally</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="aid">
+			<sg number="1">
+				<word number="1">aid</word>
+				<word number="2">assist</word>
+				<word number="3">help</word>
+				<word number="4">succor</word>
+				<word number="5">lend one's aid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">come to the aid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contribute</word>
+				<word number="2">subscribe to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bring aid</word>
+				<word number="2">give aid</word>
+				<word number="3">furnish aid</word>
+				<word number="4">afford aid</word>
+				<word number="5" paraRef="" posRef="n.">supply aid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give a helping hand</word>
+				<word number="2">stretch a hand</word>
+				<word number="3">lend a helping hand</word>
+				<word number="4">lend a hand</word>
+				<word number="5">bear a helping hand</word>
+				<word number="6">hold out a hand</word>
+				<word number="7">hold out a helping hand</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give one a life</word>
+				<word number="2">give one a cast</word>
+				<word number="3">give one a turn</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take by the hand</word>
+				<word number="2">take in tow</word>
+			</sg>
+			<sg number="8">
+				<word number="1">help a lame dog over a stile</word>
+				<word number="2">lend wings to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="relieve">
+			<sg number="1">
+				<word number="1">relieve</word>
+				<word number="2">rescue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set up</word>
+				<word number="2">set agoing</word>
+				<word number="3">set on one's legs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear through</word>
+				<word number="2">pull through</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give new life to</word>
+				<word number="2">be the making of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reinforce</word>
+				<word number="2">reenforce</word>
+				<word number="3">recruit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set forward</word>
+				<word number="2">put forward</word>
+				<word number="3">push forward</word>
+			</sg>
+			<sg number="7">
+				<word number="1">give a lift</word>
+				<word number="2">give a shove</word>
+				<word number="3">give an impulse to</word>
+			</sg>
+			<sg number="8">
+				<word number="1">promote</word>
+				<word number="2">further</word>
+				<word number="3">forward</word>
+				<word number="4">advance      expedite</word>
+				<word number="5">speed</word>
+				<word number="6">quicken</word>
+				<word number="7">hasten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="support">
+			<sg number="1">
+				<word number="1">support</word>
+				<word number="2">sustain</word>
+				<word number="3">uphold</word>
+				<word number="4">prop</word>
+				<word number="5">hold up</word>
+				<word number="6">bolster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cradle">
+			<sg number="1">
+				<word number="1">cradle</word>
+				<word number="2">nourish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nurture</word>
+				<word number="2">nurse</word>
+				<word number="3">dry nurse</word>
+				<word number="4">suckle</word>
+				<word number="5">put out to nurse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">manure</word>
+				<word number="2">cultivate</word>
+				<word number="3">force</word>
+			</sg>
+			<sg number="4">
+				<word number="1">foster</word>
+				<word number="2">cherish</word>
+				<word number="3">foment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">feed the flame</word>
+				<word number="2">fan the flame</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">spatter</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">synthesise</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">twang</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="serve">
+			<sg number="1">
+				<word number="1">serve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do service to</word>
+				<word number="2">tender to</word>
+				<word number="3">pander to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">administer to</word>
+				<word number="2">subminister to</word>
+				<word number="3">minister to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tend</word>
+				<word number="2">attend</word>
+				<word number="3">wait on</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="take care of" headRef="479">take care of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">entertain</word>
+			</sg>
+			<sg number="7">
+				<word number="1">smooth the bed of death</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="oblige">
+			<sg number="1">
+				<word number="1">oblige</word>
+				<word number="2">accommodate</word>
+				<word number="3">consult the wishes of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">humor</word>
+				<word number="2">cheer</word>
+				<word number="3">encourage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="second">
+			<sg number="1">
+				<word number="1">second</word>
+				<word number="2">stand by</word>
+			</sg>
+			<sg number="2">
+				<word number="1">back</word>
+				<word number="2">back up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pay the piper</word>
+				<word number="2">abet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">work for</word>
+				<word number="2">make interest for</word>
+				<word number="3">stick up for</word>
+				<word number="4">take up the cudgels for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take up the cause of</word>
+				<word number="2">espouse the cause of</word>
+				<word number="3">adopt the cause of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">advocate</word>
+				<word number="2">beat up for recruits</word>
+				<word number="3">press into the service</word>
+			</sg>
+			<sg number="7">
+				<word number="1">squire</word>
+				<word number="2">give moral support to</word>
+				<word number="3">keep in countenance</word>
+				<word number="4">countenance</word>
+				<word number="5">patronize</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lend oneself to</word>
+				<word number="2">lend one's countenance to</word>
+			</sg>
+			<sg number="9">
+				<word number="1">smile upon</word>
+				<word number="2">shine upon</word>
+			</sg>
+			<sg number="10">
+				<word number="1">favor</word>
+				<word number="2">befriend</word>
+				<word number="3">take in hand</word>
+				<word number="4">enlist under the banners of</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="cooperate" headRef="738">side with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="be of use to">
+			<sg number="1">
+				<word number="1">be of use to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="instrument" headRef="660">subserve</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="benefit" headRef="677">benefit</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="utility" headRef="673">render a service</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="tend" headRef="184">conduce</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="immortalise">
+			<sg number="1">
+				<word number="1" new="1">immortalise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="depoliticize">
+			<sg number="1">
+				<word number="1" new="1">depoliticize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="scallop">
+			<sg number="1">
+				<word number="1" new="1">scallop</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="aiding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">aiding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">auxiliary</word>
+				<word number="2">adjuvant</word>
+				<word number="3">helpful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="coadjuvant" headRef="738">coadjuvant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subservient</word>
+				<word number="2">ministrant</word>
+				<word number="3">ancillary</word>
+				<word number="4">accessory</word>
+				<word number="5">subsidiary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="at one's beck">
+			<sg number="1">
+				<word number="1">at one's beck</word>
+				<word number="2">at one's beck and call</word>
+			</sg>
+			<sg number="2">
+				<word number="1">friendly</word>
+				<word number="2">amicable</word>
+				<word number="3">favorable</word>
+				<word number="4">propitious</word>
+				<word number="5">well-disposed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">neighborly</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="benevolent" headRef="946">obliging</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with the aid">
+			<sg number="1">
+				<word number="1">with the aid</word>
+				<word number="2">by the aid of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on behalf of</word>
+				<word number="2">in behalf of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in aid of</word>
+				<word number="2">in the service of</word>
+				<word number="3">in the name of</word>
+				<word number="4">in favor of</word>
+				<word number="5">in furtherance of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on account of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">for the sake of</word>
+				<word number="2">on the part of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">non obstante</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="help">
+			<sg number="1">
+				<word number="1">help!</word>
+				<word number="2">save us!</word>
+				<word number="3">to the rescue!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="alterum alterius auxilio eget">
+			<sg number="1">
+				<word number="1">alterum alterius auxilio eget</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"God befriend us as our cause is just"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">at your service</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

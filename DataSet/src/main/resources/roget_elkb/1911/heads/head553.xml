@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="553" name="Correction" origNum="#527a." class="5" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="correction">
+			<sg number="1">
+				<word number="1">correction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disillusionment">
+			<sg number="1">
+				<word number="1" paraRef="disillusionment" headRef="645">disillusionment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="correct">
+			<sg number="1">
+				<word number="1">correct</word>
+				<word number="2">set right</word>
+				<word number="3">set straight</word>
+				<word number="4">put straight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undeceive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enlighten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="show one one's error">
+			<sg number="1">
+				<word number="1">show one one's error</word>
+			</sg>
+			<sg number="2">
+				<word number="1">point out an error</word>
+				<word number="2">point out a fallacy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pick out an error</word>
+				<word number="2">pick out the fallacy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">open one's eyes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pick apart an argument">
+			<sg number="1">
+				<word number="1">pick apart an argument</word>
+				<word number="2" paraRef="confutation" headRef="502">confutation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="reasoning" headRef="499">reasoning</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="corrective">
+			<sg number="1">
+				<word number="1">corrective</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="I stand corrected">
+			<sg number="1">
+				<word number="1">I stand corrected</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

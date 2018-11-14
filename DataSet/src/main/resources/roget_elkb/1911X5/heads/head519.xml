@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="519" name="Error" origNum="#495." class="4" section="5" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="error">
+			<sg number="1">
+				<word number="1">error</word>
+				<word number="2">fallacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misconception</word>
+				<word number="2">misapprehension</word>
+				<word number="3">misstanding</word>
+				<word number="4">misunderstanding</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">inexactness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">laxity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="misinterpretation" headRef="548">misconstruction</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="misjudgment" headRef="505">miscomputation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="non sequitur" headRef="500">non sequitur</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mis-statement</word>
+				<word number="2">mis-report</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mumpsimus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mistake">
+			<sg number="1">
+				<word number="1">mistake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">miss</word>
+				<word number="2">fault</word>
+				<word number="3">blunder</word>
+				<word number="4">quiproquo</word>
+				<word number="5">cross purposes</word>
+				<word number="6">oversight</word>
+				<word number="7">misprint</word>
+				<word number="8">erratum</word>
+				<word number="9">corrigendum</word>
+				<word number="10">slip</word>
+				<word number="11">blot</word>
+				<word number="12">flaw</word>
+				<word number="13">loose thread</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trip</word>
+				<word number="2" paraRef="failure" headRef="761">stumble</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="want of skill" headRef="728">botchery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slip of the tongue</word>
+				<word number="2">slip of the lip</word>
+				<word number="3">Freudian slip</word>
+			</sg>
+			<sg number="6">
+				<word number="1">slip of the pen</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lapsus linguae</word>
+				<word number="2">clerical error</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="absurdity" headRef="521">bull</word>
+			</sg>
+			<sg number="9">
+				<word number="1">haplography</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="illusion">
+			<sg number="1">
+				<word number="1">illusion</word>
+				<word number="2">delusion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snare</word>
+			</sg>
+			<sg number="3">
+				<word number="1">false impression</word>
+				<word number="2">false idea</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bubble</word>
+			</sg>
+			<sg number="5">
+				<word number="1">self- decit</word>
+				<word number="2">self-deception</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mists of error</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="heresy">
+			<sg number="1">
+				<word number="1" paraRef="heterodoxy" headRef="1028">heresy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insanity" headRef="527">hallucination</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fallacies of vision" headRef="462">false light</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="fancy" headRef="540">dream</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="untruth" headRef="572">fable</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="misjudgment" headRef="505">bias</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">misleading</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be erroneous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be erroneous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cause error">
+			<sg number="1">
+				<word number="1">cause error</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mislead</word>
+				<word number="2">misguide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lead astray</word>
+				<word number="2">lead into error</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beguile</word>
+				<word number="2" paraRef="misteach" headRef="564">misinform</word>
+			</sg>
+			<sg number="5">
+				<word number="1">delude</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give a false impression</word>
+				<word number="2">give a false idea</word>
+			</sg>
+			<sg number="7">
+				<word number="1">falsify</word>
+				<word number="2">misstate</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="deceive" headRef="571">deceive</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="lie" headRef="570">lie</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">defraud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="err">
+			<sg number="1">
+				<word number="1">err</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be -in error</word>
+				<word number="2" paraRef="" posRef="v.">be mistaken</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dupe" headRef="573">be deceived</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mistake</word>
+				<word number="2">receive a false impression</word>
+				<word number="3">deceive oneself</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall into error</word>
+				<word number="2">lie under error</word>
+				<word number="3" paraRef="" posRef="n.">labor under an error</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be in the wrong</word>
+				<word number="2">blunder</word>
+			</sg>
+			<sg number="7">
+				<word number="1">misapprehend</word>
+				<word number="2">misconceive</word>
+				<word number="3">misunderstand</word>
+				<word number="4">misreckon</word>
+				<word number="5">miscount</word>
+				<word number="6" paraRef="misjudge" headRef="505">miscalculate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="play at cross purposes">
+			<sg number="1">
+				<word number="1">play at cross purposes</word>
+				<word number="2" paraRef="misinterpret" headRef="548">be at cross purposes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="trip">
+			<sg number="1">
+				<word number="1">trip</word>
+				<word number="2">stumble</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncertainty" headRef="498">lose oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go astray</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="fail" headRef="761">fail</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be in the wrong box</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="mismanage" headRef="728">take the wrong sow by the ear</word>
+			</sg>
+			<sg number="7">
+				<word number="1">put the saddle on the wrong horse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">reckon without one's host</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="credulity" headRef="510">take the shadow for the substance</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="imagine" headRef="540">dream</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="erroneous">
+			<sg number="1">
+				<word number="1">erroneous</word>
+				<word number="2">untrue</word>
+				<word number="3">false</word>
+				<word number="4">devoid of truth</word>
+				<word number="5">fallacious</word>
+				<word number="6">apocryphal</word>
+				<word number="7">unreal</word>
+				<word number="8">ungrounded</word>
+				<word number="9">groundless</word>
+				<word number="10" new="1">inaccurate</word>
+				<word number="11" new="1">unfounded</word>
+				<word number="12" new="1">unsupported</word>
+				<word number="13" new="1">wrong</word>
+				<word number="14" new="2">baseless</word>
+				<word number="15" new="2">faulty</word>
+				<word number="16" new="2">ludicrous</word>
+				<word number="17" new="2">unproven</word>
+				<word number="18" new="2">unrealistic</word>
+				<word number="19" new="3">bogus</word>
+				<word number="20" new="3">exaggerated</word>
+				<word number="21" new="3">slanderous</word>
+				<word number="22" new="3">specious</word>
+				<word number="23" new="4">fictitious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unsubstantial" headRef="4">unsubstantial</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="heterodox" headRef="1028">heretical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unsound</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="illogical" headRef="500">illogical</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">unscientific</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="2">untenable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inexact">
+			<sg number="1">
+				<word number="1">inexact</word>
+				<word number="2">unexact inaccurate</word>
+				<word number="3">incorrect</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncertain" headRef="498">indefinite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="illusive">
+			<sg number="1">
+				<word number="1">illusive</word>
+				<word number="2">illusory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delusive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mock</word>
+				<word number="2" paraRef="imaginary" headRef="540">ideal</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="spurious" headRef="571">spurious</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deceitful" headRef="570">deceitful</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perverted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="controvertible">
+			<sg number="1">
+				<word number="1">controvertible</word>
+				<word number="2">unsustainable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unauthenticated</word>
+				<word number="2">untrustworthy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="exploded">
+			<sg number="1">
+				<word number="1">exploded</word>
+				<word number="2">refuted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discarded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="in error">
+			<sg number="1">
+				<word number="1">in error</word>
+				<word number="2" paraRef="" posRef="n.">under an error</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">mistaken</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">tripping</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out</word>
+				<word number="2">out in one's reckoning</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aberrant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">beside the mark</word>
+				<word number="2">wide of the mark</word>
+				<word number="3">wide of the truth</word>
+				<word number="4">way off</word>
+				<word number="5">far off</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="at fault" headRef="498">astray</word>
+			</sg>
+			<sg number="8">
+				<word number="1">on a false scent</word>
+				<word number="2">on the wrong scent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">in the wrong box</word>
+				<word number="2">outside the ballpark</word>
+			</sg>
+			<sg number="10">
+				<word number="1">at cross purposes</word>
+				<word number="2">all in the wrong</word>
+			</sg>
+			<sg number="11">
+				<word number="1">all out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="insincere">
+			<sg number="1">
+				<word number="1" new="3">insincere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="more or less">
+			<sg number="1">
+				<word number="1">more or less</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="errare est humanum">
+			<sg number="1">
+				<word number="1">errare est humanum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mentis gratissimus error</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"on the dubious waves of error tost"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"to err is human</word>
+				<word number="2">to forgive divine"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"you lie -- under a mistake"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

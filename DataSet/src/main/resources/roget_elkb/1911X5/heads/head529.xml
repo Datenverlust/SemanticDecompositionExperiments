@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="529" name="Memory" origNum="#505." class="4" section="6" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="memory">
+			<sg number="1">
+				<word number="1">memory</word>
+				<word number="2">remembrance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retention</word>
+				<word number="2">retentiveness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tenacity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">veteris vestigia flammae</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tablets of the memory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">readiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reminiscence">
+			<sg number="1">
+				<word number="1">reminiscence</word>
+				<word number="2">recognition</word>
+				<word number="3">recollection</word>
+				<word number="4">rememoration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recurrence</word>
+				<word number="2">flashback</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retrospect</word>
+				<word number="2">retrospection</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="afterthought">
+			<sg number="1">
+				<word number="1">afterthought</word>
+				<word number="2">post script</word>
+				<word number="3">PS</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="suggestion">
+			<sg number="1">
+				<word number="1" paraRef="information" headRef="552">suggestion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">prompting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hint</word>
+				<word number="2">reminder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">remembrancer</word>
+				<word number="2">flapper</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="record" headRef="577">memorial</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="celebration" headRef="922">commemoration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="note">
+			<sg number="1">
+				<word number="1">note</word>
+				<word number="2">memo</word>
+				<word number="3">memorandum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">things to be remembered</word>
+				<word number="2">token of remembrance</word>
+				<word number="3">memento</word>
+				<word number="4">souvenir</word>
+				<word number="5">keepsake</word>
+				<word number="6">relic</word>
+				<word number="7">memorabilia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="art of memory">
+			<sg number="1">
+				<word number="1">art of memory</word>
+				<word number="2">artificial memory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">memoria technica</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mnemonics</word>
+				<word number="2">mnemotechnics</word>
+			</sg>
+			<sg number="4">
+				<word number="1">phrenotypics</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Mnemosyne</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="prompt-book">
+			<sg number="1">
+				<word number="1">prompt-book</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crib sheet</word>
+				<word number="2">cheat sheet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="retentive memory">
+			<sg number="1">
+				<word number="1">retentive memory</word>
+				<word number="2">tenacious memory</word>
+				<word number="3">photographic memory</word>
+				<word number="4">green memory!</word>
+				<word number="5">trustworthy memory</word>
+				<word number="6">capacious memory</word>
+				<word number="7">faithful memory</word>
+				<word number="8">correct memory</word>
+				<word number="9">exact memory</word>
+				<word number="10">ready memory</word>
+				<word number="11">prompt memory</word>
+				<word number="12">accurate recollection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perfect memory</word>
+				<word number="2">total recall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="celebrity">
+			<sg number="1">
+				<word number="1">celebrity</word>
+				<word number="2">fame</word>
+				<word number="3">renown</word>
+				<word number="4" paraRef="repute" headRef="912">reputation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="remember">
+			<sg number="1">
+				<word number="1">remember</word>
+				<word number="2">mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retain the memory of</word>
+				<word number="2">retain the remembrance of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep in view</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recognize">
+			<sg number="1">
+				<word number="1">recognize</word>
+				<word number="2">recollect</word>
+				<word number="3">bethink oneself</word>
+				<word number="4">recall</word>
+				<word number="5">call up</word>
+				<word number="6">retrace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">look back</word>
+				<word number="2">trace back</word>
+				<word number="3">trace backwards</word>
+			</sg>
+			<sg number="3">
+				<word number="1">think back</word>
+				<word number="2">look back upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">review</word>
+			</sg>
+			<sg number="5">
+				<word number="1">call upon</word>
+				<word number="2">recall upon</word>
+				<word number="3">bring to mind</word>
+				<word number="4">bring to remembrance</word>
+			</sg>
+			<sg number="6">
+				<word number="1">carry one's thoughts back</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rake up the past</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="have in the thoughts">
+			<sg number="1">
+				<word number="1">have in the thoughts</word>
+				<word number="2">hold in the thoughts</word>
+				<word number="3">bear in the thoughts</word>
+				<word number="4">carry in the thoughts</word>
+				<word number="5">keep in the thoughts</word>
+				<word number="6">retain in the thoughts</word>
+				<word number="7">have in the memory</word>
+				<word number="8">hold in the memory</word>
+				<word number="9">bear in the memory</word>
+				<word number="10">carry in the memory</word>
+				<word number="11">keep in the memory</word>
+				<word number="12">retain in the memory</word>
+				<word number="13">have in the mind</word>
+				<word number="14">hold in the mind</word>
+				<word number="15">bear in the mind</word>
+				<word number="16">carry in the mind</word>
+				<word number="17">keep in the mind</word>
+				<word number="18">retain in the mind</word>
+				<word number="19">hold in remembrance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be in one's thoughts</word>
+				<word number="2">live in one's thoughts</word>
+				<word number="3">remain in one's thoughts</word>
+				<word number="4">dwell in one's thoughts</word>
+				<word number="5">haunt one's thoughts</word>
+				<word number="6">impress one's thoughts</word>
+				<word number="7">be in one's mind</word>
+				<word number="8">live in one's mind</word>
+				<word number="9">remain in one's mind</word>
+				<word number="10">dwell in one's mind</word>
+				<word number="11">haunt one's mind</word>
+				<word number="12">impress one's mind</word>
+				<word number="13">dwell in  one's memory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sink in the mind">
+			<sg number="1">
+				<word number="1">sink in the mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run in the head</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not be able to get out of one's head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be deeply impressed with</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="revenge" headRef="960">rankle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="recur to the mind">
+			<sg number="1">
+				<word number="1">recur to the mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flash on the mind</word>
+				<word number="2">flash across the memory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="remind">
+			<sg number="1">
+				<word number="1">remind</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inform" headRef="552">suggest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prompt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put in mind</word>
+				<word number="2">keep in mind</word>
+				<word number="3">bring to mind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fan the embers</word>
+			</sg>
+			<sg number="6">
+				<word number="1">call up</word>
+				<word number="2">summon up</word>
+				<word number="3">rip up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">renew</word>
+			</sg>
+			<sg number="8">
+				<word number="1">infandum renovare dolorem</word>
+			</sg>
+			<sg number="9">
+				<word number="1">jog the memory</word>
+				<word number="2">flap the memory</word>
+				<word number="3">refresh the memory</word>
+				<word number="4">rub up the memory</word>
+				<word number="5">awaken the memory</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pull by the sleeve</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bring back to the memory</word>
+				<word number="2">put in remembrance</word>
+				<word number="3">memorialize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="task the memory">
+			<sg number="1">
+				<word number="1">task the memory</word>
+				<word number="2">tax the memory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="get at one's fingers' ends">
+			<sg number="1">
+				<word number="1">get at one's fingers' ends</word>
+				<word number="2">have at one's fingers'</word>
+				<word number="3">learn at one's fingers'</word>
+				<word number="4">know one's lesson</word>
+				<word number="5">say one's lesson</word>
+				<word number="6">repeat by heart</word>
+				<word number="7">repeat by rote</word>
+			</sg>
+			<sg number="2">
+				<word number="1">say one's lesson</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repeat</word>
+				<word number="2">repeat as a parrot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have at one's fingers' ends</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="commit to memory">
+			<sg number="1">
+				<word number="1">commit to memory</word>
+				<word number="2">memorize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">con over</word>
+				<word number="2">con</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fix in the memory</word>
+				<word number="2">rivet in the memory</word>
+				<word number="3">imprint in the memory</word>
+				<word number="4">impress in the memory</word>
+				<word number="5">stamp in the memory</word>
+				<word number="6">grave in the memory</word>
+				<word number="7">engrave in the memory</word>
+				<word number="8">store in the memory</word>
+				<word number="9">treasure up in the memory</word>
+				<word number="10">bottle up in the memory</word>
+				<word number="11">embalm in the memory</word>
+				<word number="12">enshrine in the memory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">load the memory with</word>
+				<word number="2">store the memory with</word>
+				<word number="3">stuff the memory with</word>
+				<word number="4">burden the memory with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="redeem from oblivion">
+			<sg number="1">
+				<word number="1">redeem from oblivion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep the memory alive</word>
+				<word number="2">keep the  wound green</word>
+				<word number="3">pour salt in the wound</word>
+				<word number="4">reopen old wounds'</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tangere ulcus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep up the memory of</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="celebrate" headRef="922">commemorate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="make a note of">
+			<sg number="1">
+				<word number="1">make a note of</word>
+				<word number="2">jot a note</word>
+				<word number="3" paraRef="record" headRef="577">pen a memorandum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="remembering">
+			<sg number="1">
+				<word number="1">remembering</word>
+				<word number="2" paraRef="" posRef="v.">remembered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mindful</word>
+				<word number="2">reminiscential</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">retained in the memory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pent up in one's memory</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fresh</word>
+			</sg>
+			<sg number="6">
+				<word number="1">green</word>
+				<word number="2">green in remembrance</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unforgotten</word>
+				<word number="2">present to the mind</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="n.">within one's memory</word>
+			</sg>
+			<sg number="9">
+				<word number="1">indelible</word>
+			</sg>
+			<sg number="10">
+				<word number="1">uppermost in one's thoughts</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="important" headRef="671">memorable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by heart">
+			<sg number="1">
+				<word number="1">by heart</word>
+				<word number="2">by rote</word>
+			</sg>
+			<sg number="2">
+				<word number="1">without book</word>
+				<word number="2">memoriter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in memory of">
+			<sg number="1">
+				<word number="1">in memory of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in memoriam</word>
+			</sg>
+			<sg number="3">
+				<word number="1">memoria in aeterna</word>
+			</sg>
+			<sg number="4">
+				<word number="1">suggestive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="manet alta mente repostum">
+			<sg number="1">
+				<word number="1">manet alta mente repostum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forsan et haec olim meminisse juvabit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">absens haeres non erit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beatae memoriae</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"briefly thyself remember"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mendacem memorem esse oportet</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"memory the warder of the brain"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">parsque est meminisse doloris</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"to live in hearts we leave behind is not to die"</word>
+			</sg>
+			<sg number="10">
+				<word number="1">vox audita peril littera scripta manet</word>
+			</sg>
+			<sg number="11">
+				<word number="1">out of sight</word>
+				<word number="2">out of mind</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

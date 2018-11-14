@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="660" name="Instrumentality" origNum="#631." class="6" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="instrumentality">
+			<sg number="1">
+				<word number="1">instrumentality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="aid" headRef="736">aid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subservience</word>
+				<word number="2">subserviency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mediation</word>
+				<word number="2">intervention</word>
+				<word number="3">medium</word>
+				<word number="4">intermedium</word>
+				<word number="5">vehicle</word>
+				<word number="6">hand</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="agency" headRef="177">agency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="minister">
+			<sg number="1">
+				<word number="1">minister</word>
+				<word number="2">handmaid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">midwife</word>
+				<word number="2">accoucheur</word>
+				<word number="3">accoucheuse</word>
+				<word number="4">obstetrician</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gobetween</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cat's-paw</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stepping-stone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="opener">
+			<sg number="1">
+				<word number="1" paraRef="opener" headRef="271">opener</word>
+			</sg>
+			<sg number="2">
+				<word number="1">key</word>
+			</sg>
+			<sg number="3">
+				<word number="1">master key</word>
+				<word number="2">passkey</word>
+				<word number="3">latchkey</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"open sesame"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">passport</word>
+				<word number="2">passe-partout</word>
+				<word number="3">safe-conduct</word>
+				<word number="4">password</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="instrument">
+			<sg number="1">
+				<word number="1" paraRef="instrument" headRef="662">instrument</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="plan" headRef="655">expedient</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="means" headRef="661">means</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="subserve">
+			<sg number="1">
+				<word number="1">subserve</word>
+				<word number="2">minister</word>
+				<word number="3">mediate</word>
+				<word number="4">intervene</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be instrumental</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pander to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">officiate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="instrumental">
+			<sg number="1">
+				<word number="1">instrumental</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="useful" headRef="673">useful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ministerial</word>
+				<word number="2">subservient</word>
+				<word number="3">mediatorial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intermediate</word>
+				<word number="2">intervening</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conducive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="through">
+			<sg number="1">
+				<word number="1">through</word>
+				<word number="2">by</word>
+				<word number="3">per</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whereby</word>
+				<word number="2">thereby</word>
+				<word number="3">hereby</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agency" headRef="177">by the agency of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">by dint of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">by virtue of</word>
+				<word number="2">in virtue of</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="n.">through the medium of</word>
+			</sg>
+			<sg number="7">
+				<word number="1">along with</word>
+			</sg>
+			<sg number="8">
+				<word number="1">on the shoulders of</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="by means of" headRef="661">by means of</word>
+			</sg>
+			<sg number="10">
+				<word number="1">by the aid of</word>
+				<word number="2" paraRef="assistance" headRef="736">with the aid of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="per fas et nefas">
+			<sg number="1">
+				<word number="1">per fas et nefas</word>
+				<word number="2">by fair means or foul</word>
+			</sg>
+			<sg number="2">
+				<word number="1">somehow</word>
+				<word number="2">somehow or other</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by hook or by crook</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

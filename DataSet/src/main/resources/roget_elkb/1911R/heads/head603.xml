@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="603" name="Ornament" origNum="#577." class="5" section="3" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ornament">
+			<sg number="1">
+				<word number="1">ornament</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">floridness</word>
+				<word number="2">turgidity</word>
+				<word number="3">turgescence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">altiloquence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">declamation</word>
+				<word number="2">teratology!</word>
+			</sg>
+			<sg number="5">
+				<word number="1">well-rounded periods</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="elegance" headRef="604">elegance</word>
+			</sg>
+			<sg number="7">
+				<word number="1">orotundity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inversion">
+			<sg number="1">
+				<word number="1">inversion</word>
+				<word number="2">antithesis</word>
+				<word number="3">alliteration</word>
+				<word number="4">paronomasia</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="metaphor" headRef="546">figurativeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="flourish">
+			<sg number="1">
+				<word number="1">flourish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flowers of speech</word>
+				<word number="2">flowers of rhetoric</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frills of style</word>
+				<word number="2">euphuism</word>
+				<word number="3">euphemism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="big-sounding words">
+			<sg number="1">
+				<word number="1">big-sounding words</word>
+				<word number="2">high-sounding words</word>
+			</sg>
+			<sg number="2">
+				<word number="1">macrology</word>
+				<word number="2">sesquipedalia verba</word>
+				<word number="3">Alexandrine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inflation</word>
+				<word number="2">pretension</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rant</word>
+				<word number="2">bombast</word>
+				<word number="3">fustian</word>
+				<word number="4">prose run mad</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fine writing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sesquipedality</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Minerva press</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="phrasemonger">
+			<sg number="1">
+				<word number="1">phrasemonger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">euphuist</word>
+				<word number="2">euphemist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="ornament">
+			<sg number="1">
+				<word number="1">ornament</word>
+				<word number="2">overlay with ornament</word>
+				<word number="3">overcharge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smell of the lamp</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ornament">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">ornament</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="beautified" headRef="885">beautified</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ornate</word>
+				<word number="2">florid</word>
+				<word number="3">rich</word>
+				<word number="4">flowery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">euphuistic</word>
+				<word number="2">euphemistic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sonorous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">high-sounding</word>
+				<word number="2">big- sounding</word>
+			</sg>
+			<sg number="7">
+				<word number="1">inflated</word>
+				<word number="2">swelling</word>
+				<word number="3">tumid</word>
+			</sg>
+			<sg number="8">
+				<word number="1">turgid</word>
+				<word number="2">turgescent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pedantic</word>
+				<word number="2">pompous</word>
+				<word number="3">stilted</word>
+			</sg>
+			<sg number="10">
+				<word number="1">orotund</word>
+			</sg>
+			<sg number="11">
+				<word number="1">high flown</word>
+				<word number="2">high flowing</word>
+			</sg>
+			<sg number="12">
+				<word number="1">sententious</word>
+				<word number="2">rhetorical</word>
+				<word number="3">declamatory</word>
+			</sg>
+			<sg number="13">
+				<word number="1">grandiose</word>
+			</sg>
+			<sg number="14">
+				<word number="1">grandiloquent</word>
+				<word number="2">magniloquent</word>
+				<word number="3">altiloquent</word>
+			</sg>
+			<sg number="15">
+				<word number="1">sesquipedal</word>
+				<word number="2">sesquipedalian</word>
+			</sg>
+			<sg number="16">
+				<word number="1">Johnsonian</word>
+				<word number="2">mouthy</word>
+			</sg>
+			<sg number="17">
+				<word number="1">bombastic</word>
+			</sg>
+			<sg number="18">
+				<word number="1">fustian</word>
+			</sg>
+			<sg number="19">
+				<word number="1">frothy</word>
+				<word number="2">flashy</word>
+				<word number="3">flaming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="antithetical">
+			<sg number="1">
+				<word number="1">antithetical</word>
+				<word number="2">alliterative</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="figurative" headRef="546">figurative</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inelegant" headRef="605">artificial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ore rutundo">
+			<sg number="1">
+				<word number="1">ore rutundo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

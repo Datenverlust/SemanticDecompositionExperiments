@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="496" name="Improbability" origNum="#473." class="4" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="improbability">
+			<sg number="1">
+				<word number="1">improbability</word>
+				<word number="2">unlikelihood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfavorable chance</word>
+				<word number="2">bad chance</word>
+				<word number="3">ghost of a chance</word>
+				<word number="4">little chance</word>
+				<word number="5">small chance</word>
+				<word number="6">poor chance</word>
+				<word number="7">scarcely any chance</word>
+				<word number="8">no chance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bare possibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">long odds</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="incredibility" headRef="509">incredibility</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be improbable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be improbable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">have a small chance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="improbable">
+			<sg number="1">
+				<word number="1">improbable</word>
+				<word number="2">unlikely</word>
+				<word number="3">contrary to all reasonable expectation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wild</word>
+				<word number="2">far out</word>
+				<word number="3">out of sight</word>
+				<word number="4">outtasight</word>
+				<word number="5">heavy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rare">
+			<sg number="1">
+				<word number="1" paraRef="infrequent" headRef="144">rare</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unheard of</word>
+				<word number="2">inconceivable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unimaginable</word>
+				<word number="2">inimaginable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="incredible" headRef="509">incredible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">more than doubtful</word>
+			</sg>
+			<sg number="6">
+				<word number="1">strange</word>
+				<word number="2" paraRef="uncomformable" headRef="87">bizarre</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the chances are against">
+			<sg number="1">
+				<word number="1">the chances are against</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aquila non capit muscas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pedir peras pal olmo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

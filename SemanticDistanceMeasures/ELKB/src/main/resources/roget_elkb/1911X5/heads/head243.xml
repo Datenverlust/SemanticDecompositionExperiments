@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="243" name="Limit" origNum="#233." class="2" section="2" subSection="3" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="limit">
+			<sg number="1">
+				<word number="1">limit</word>
+				<word number="2">boundary</word>
+				<word number="3">bounds</word>
+				<word number="4">confine</word>
+				<word number="5">enclave</word>
+				<word number="6">term</word>
+				<word number="7">bourn</word>
+				<word number="8">verge</word>
+				<word number="9">curbstone</word>
+				<word number="10">but</word>
+				<word number="11">pale</word>
+				<word number="12">reservation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">termination</word>
+				<word number="2">terminus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stint</word>
+				<word number="2">frontier</word>
+				<word number="3">precinct</word>
+				<word number="4">marches</word>
+			</sg>
+			<sg number="4">
+				<word number="1">backwoods</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="boundary line">
+			<sg number="1">
+				<word number="1">boundary line</word>
+				<word number="2">landmark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">line of demarcation</word>
+				<word number="2">line of circumvallation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pillars of Hercules</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Rubicon</word>
+				<word number="2">turning point</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ne plus ultra</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sluice</word>
+				<word number="2">floodgate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="definite">
+			<sg number="1">
+				<word number="1">definite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conterminate</word>
+				<word number="2">conterminable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">terminal</word>
+				<word number="2">frontier</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bordering</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="thus far">
+			<sg number="1">
+				<word number="1">thus far</word>
+				<word number="2">thus far and no further</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="stick to the reservation">
+			<sg number="1">
+				<word number="1">stick to the reservation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go beyond the pale</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

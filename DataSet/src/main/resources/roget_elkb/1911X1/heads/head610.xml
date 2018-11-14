@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="610" name="Loquacity" origNum="#584." class="5" section="3" subSection="2" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="loquacity">
+			<sg number="1">
+				<word number="1">loquacity</word>
+				<word number="2">loquaciousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">talkativeness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">garrulity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">multiloquence</word>
+				<word number="2">much speaking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="jaw">
+			<sg number="1">
+				<word number="1">jaw</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gabble</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jabber</word>
+				<word number="2">chatter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prate</word>
+				<word number="2">prattle</word>
+				<word number="3">cackle</word>
+				<word number="4">clack</word>
+			</sg>
+			<sg number="5">
+				<word number="1">twaddle</word>
+				<word number="2">twattle</word>
+				<word number="3">rattle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">caquet</word>
+				<word number="2">caquetterie</word>
+			</sg>
+			<sg number="7">
+				<word number="1">blabber</word>
+				<word number="2">bavardage</word>
+				<word number="3">bibble-babble</word>
+				<word number="4">gibble-gabble</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="converse" headRef="614">small talk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fluency">
+			<sg number="1">
+				<word number="1">fluency</word>
+				<word number="2">flippancy</word>
+				<word number="3">volubility</word>
+				<word number="4">flowing</word>
+				<word number="5">tongue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flow of words</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flux de bouche</word>
+				<word number="2">flux de mots</word>
+			</sg>
+			<sg number="4">
+				<word number="1">copia verborum</word>
+				<word number="2">cacoethes loquendi</word>
+			</sg>
+			<sg number="5">
+				<word number="1">furor loquendi</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="diffuseness" headRef="599">verbosity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="eloquence" headRef="608">gift of the gab</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="talker">
+			<sg number="1">
+				<word number="1">talker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chatterer</word>
+				<word number="2">chatterbox</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">babbler</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rattle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ranter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sermonizer</word>
+				<word number="2">proser</word>
+				<word number="3">driveler</word>
+			</sg>
+			<sg number="7">
+				<word number="1">blatherskite</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="converse" headRef="614">gossip</word>
+			</sg>
+			<sg number="9">
+				<word number="1">magpie</word>
+				<word number="2">jay</word>
+				<word number="3">parrot</word>
+				<word number="4">poll</word>
+				<word number="5">Babel</word>
+			</sg>
+			<sg number="10">
+				<word number="1">moulin a paroles</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be loquacious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be loquacious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">talk glibly</word>
+				<word number="2">pour forth</word>
+				<word number="3">patter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prate</word>
+				<word number="2">palaver</word>
+				<word number="3">prose</word>
+				<word number="4">chatter</word>
+				<word number="5">prattle</word>
+				<word number="6">clack</word>
+				<word number="7">jabber</word>
+				<word number="8">jaw</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blather</word>
+				<word number="2">blatter</word>
+				<word number="3">blether</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rattle</word>
+				<word number="2">rattle on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">twaddle</word>
+				<word number="2">twattle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">babble</word>
+				<word number="2">gabble</word>
+			</sg>
+			<sg number="8">
+				<word number="1">outtalk</word>
+			</sg>
+			<sg number="9">
+				<word number="1">talk oneself out of breath</word>
+				<word number="2">talk oneself hoarse</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="speak at length" headRef="599">expatiate</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="converse" headRef="614">gossip</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="repeat" headRef="109">din in the ears</word>
+			</sg>
+			<sg number="13">
+				<word number="1">talk at random</word>
+				<word number="2" paraRef="talk nonsense" headRef="521">talk nonsense</word>
+			</sg>
+			<sg number="14">
+				<word number="1">be hoarse with talking</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="loquacious">
+			<sg number="1">
+				<word number="1">loquacious</word>
+				<word number="2">talkative</word>
+				<word number="3">garrulous</word>
+				<word number="4">linguacious</word>
+				<word number="5">multiloquous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">largiloquent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">chattering</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sociable" headRef="931">chatty</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="declamatory" headRef="608">declamatory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">open-mouthed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fluent">
+			<sg number="1">
+				<word number="1">fluent</word>
+				<word number="2">voluble</word>
+				<word number="3">glib</word>
+				<word number="4">flippant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">long tongued</word>
+				<word number="2" paraRef="diffuse" headRef="599">long winded</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="trippingly on the tongue">
+			<sg number="1">
+				<word number="1">trippingly on the tongue</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">glibly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">off the reel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the tongue running fast">
+			<sg number="1">
+				<word number="1">the tongue running fast</word>
+				<word number="2">the tongue running loose</word>
+				<word number="3">the tongue running on wheels</word>
+			</sg>
+			<sg number="2">
+				<word number="1">all talk and no cider</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"foul whisperings are abroad"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"what a spendthrift is he of his tongue!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

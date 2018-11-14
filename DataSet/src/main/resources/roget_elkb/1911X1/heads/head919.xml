@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="919" name="Vanity" origNum="#880." class="8" section="2" subSection="5" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vanity">
+			<sg number="1">
+				<word number="1">vanity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conceit</word>
+				<word number="2">conceitedness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">self-conceit</word>
+				<word number="2">self-complacency</word>
+				<word number="3">self-confidence</word>
+				<word number="4">self-sufficiency</word>
+				<word number="5">self-esteem</word>
+				<word number="6">self- love</word>
+				<word number="7">self-approbation</word>
+				<word number="8">self-praise</word>
+				<word number="9">self-glorification</word>
+				<word number="10">self-laudation</word>
+				<word number="11">self-gratulation</word>
+				<word number="12">self-applause</word>
+				<word number="13">self-admiration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amour propre</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="selfishness" headRef="985">selfishness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="airs">
+			<sg number="1">
+				<word number="1">airs</word>
+				<word number="2">affected manner</word>
+				<word number="3">pretensions</word>
+				<word number="4">mannerism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">egotism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">priggism</word>
+				<word number="2">priggishness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coxcombry</word>
+				<word number="2">gaudery</word>
+				<word number="3">vainglory</word>
+				<word number="4">elation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="pride" headRef="917">pride</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="ostentation" headRef="921">ostentation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="assurance" headRef="924">assurance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vox et praeterea nihil">
+			<sg number="1">
+				<word number="1">vox et praeterea nihil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cheval de bataille</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="coxcomb">
+			<sg number="1">
+				<word number="1" paraRef="coxcomb" headRef="893">coxcomb</word>
+				<word number="2" paraRef="Sir Oracle" headRef="926">Sir Oracle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be vain">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be vain</word>
+				<word number="2">be vain of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pride" headRef="917">pique oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay the flattering unction to one's soul</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have too high an opinion of oneself">
+			<sg number="1">
+				<word number="1">have too high an opinion of oneself</word>
+				<word number="2">have  an overweening opinion of oneself</word>
+				<word number="3">have too high an opinion of one's talents</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blind oneself as to one's own merit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not think small beer of oneself</word>
+				<word number="2">not think vin ordinaire of oneself</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put oneself forward</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fish for compliments</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="assume" headRef="924">give oneself airs</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="boast" headRef="923">boast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render vain">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render vain</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">inspire with vanity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inflate</word>
+				<word number="2">puff up</word>
+				<word number="3">turn up</word>
+				<word number="4">turn one's head</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vain">
+			<sg number="1">
+				<word number="1">vain</word>
+				<word number="2">vain as a peacock</word>
+				<word number="3">proud as a peacock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conceited</word>
+				<word number="2">overweening</word>
+				<word number="3">pert</word>
+				<word number="4">forward</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vainglorious</word>
+				<word number="2">high-flown</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ostentatious" headRef="921">ostentatious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">puffed up</word>
+				<word number="2">inflated</word>
+				<word number="3">flushed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="self-satisfied">
+			<sg number="1">
+				<word number="1">self-satisfied</word>
+				<word number="2">self-confident</word>
+				<word number="3">self-sufficient</word>
+				<word number="4">self-flattering</word>
+				<word number="5">self-admiring</word>
+				<word number="6">self-applauding</word>
+				<word number="7">self-glorious</word>
+				<word number="8">self-opinionated</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wrong-headed" headRef="505">entente</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wise in one's own conceit</word>
+				<word number="2">pragmatical</word>
+				<word number="3">overwise</word>
+				<word number="4">pretentious</word>
+				<word number="5">priggish</word>
+			</sg>
+			<sg number="4">
+				<word number="1">egotistic</word>
+				<word number="2">egotistical</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="boastful" headRef="923">soi-disant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="arrogant" headRef="924">arrogant</word>
+				<word number="2">unblushing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unconstrained</word>
+				<word number="2">unceremonious</word>
+			</sg>
+			<sg number="8">
+				<word number="1">free and easy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">pompous</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">selfish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="vainly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">vainly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="how we apples swim">
+			<sg number="1">
+				<word number="1">"how we apples swim!"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"prouder than rustling in unpaid-for silk"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

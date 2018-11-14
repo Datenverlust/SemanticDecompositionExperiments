@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="357" name="Island" origNum="#346." class="3" section="2" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="island">
+			<sg number="1">
+				<word number="1">island</word>
+				<word number="2">isle</word>
+				<word number="3">islet</word>
+				<word number="4">eyot</word>
+				<word number="5">ait</word>
+				<word number="6">holf</word>
+				<word number="7">reef</word>
+				<word number="8">atoll</word>
+				<word number="9">breaker</word>
+				<word number="10" new="1">blockaders</word>
+				<word number="11" new="1">lengthy</word>
+				<word number="12" new="1">pinprick</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archipelago</word>
+			</sg>
+			<sg number="3">
+				<word number="1">islander</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="insular">
+			<sg number="1">
+				<word number="1">insular</word>
+				<word number="2">seagirt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archipelagic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

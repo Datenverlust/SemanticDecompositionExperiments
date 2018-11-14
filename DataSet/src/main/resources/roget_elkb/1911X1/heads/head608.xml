@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="608" name="Speech" origNum="#582." class="5" section="3" subSection="2" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="speech">
+			<sg number="1">
+				<word number="1">speech</word>
+				<word number="2">faculty of speech</word>
+			</sg>
+			<sg number="2">
+				<word number="1">locution</word>
+				<word number="2">talk</word>
+				<word number="3">parlance</word>
+				<word number="4">verbal intercourse</word>
+				<word number="5">prolation</word>
+				<word number="6">oral communication</word>
+				<word number="7">word of mouth</word>
+				<word number="8">parole</word>
+				<word number="9">palaver</word>
+				<word number="10">prattle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">effusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="oration">
+			<sg number="1">
+				<word number="1">oration</word>
+				<word number="2">recitation</word>
+				<word number="3">delivery</word>
+				<word number="4">say</word>
+				<word number="5">speech</word>
+				<word number="6">lecture</word>
+				<word number="7">harangue</word>
+				<word number="8">sermon</word>
+				<word number="9">tirade</word>
+				<word number="10">formal speech</word>
+				<word number="11">peroration</word>
+				<word number="12" new="1">eulogy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speechifying</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="soliloquy" headRef="615">soliloquy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="allocution" headRef="612">allocution</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="conversation" headRef="614">conversation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">salutatory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">screed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">valedictory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="oratory">
+			<sg number="1">
+				<word number="1">oratory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">elocution</word>
+				<word number="2">eloquence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rhetoric</word>
+				<word number="2">declamation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grandiloquence</word>
+				<word number="2">multiloquence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">burst of eloquence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">facundity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flow of words</word>
+				<word number="2">command of words</word>
+				<word number="3">command of  language</word>
+			</sg>
+			<sg number="8">
+				<word number="1">copia verborum</word>
+			</sg>
+			<sg number="9">
+				<word number="1">power of speech</word>
+				<word number="2">gift of the gab</word>
+			</sg>
+			<sg number="10">
+				<word number="1">usus loquendi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="speaker">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">speaker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spokesman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prolocutor</word>
+				<word number="2">interlocutor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mouthpiece</word>
+				<word number="2">Hermes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">orator</word>
+				<word number="2">oratrix</word>
+				<word number="3">oratress</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Demosthenes</word>
+				<word number="2">Cicero</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rhetorician</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stump orator</word>
+				<word number="2">platform orator</word>
+			</sg>
+			<sg number="9">
+				<word number="1">speechmaker</word>
+				<word number="2">patterer</word>
+				<word number="3">improvisatore</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="speak of">
+			<sg number="1">
+				<word number="1">speak of</word>
+				<word number="2">speak</word>
+			</sg>
+			<sg number="2">
+				<word number="1">say</word>
+				<word number="2">utter</word>
+				<word number="3">pronounce</word>
+				<word number="4">deliver</word>
+				<word number="5">give utterance to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">utter forth</word>
+				<word number="2">pour forth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">breathe</word>
+				<word number="2">let fall</word>
+				<word number="3">come out with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rap out</word>
+				<word number="2">blurt out have on one's lips</word>
+			</sg>
+			<sg number="6">
+				<word number="1">have at the end of one's tongue</word>
+				<word number="2">have at the tip of one's tongue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="break silence">
+			<sg number="1">
+				<word number="1">break silence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">open one's lips</word>
+				<word number="2">open one's mouth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lift one's voice</word>
+				<word number="2">raise one's voice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give the tongue</word>
+				<word number="2">wag the tongue</word>
+			</sg>
+			<sg number="5">
+				<word number="1">talk</word>
+				<word number="2">outspeak</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put in a word or two</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hold forth">
+			<sg number="1">
+				<word number="1">hold forth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make a speech</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deliver a speech">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">deliver a speech</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speechify</word>
+				<word number="2">harangue</word>
+				<word number="3">declaim</word>
+				<word number="4">stump</word>
+				<word number="5">flourish</word>
+				<word number="6">recite</word>
+				<word number="7">lecture</word>
+				<word number="8">sermonize</word>
+				<word number="9">discourse</word>
+				<word number="10">be on one's legs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have one's say</word>
+				<word number="2">say one's say</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spout</word>
+				<word number="2">rant</word>
+				<word number="3">rave</word>
+				<word number="4">vent one's  fury</word>
+				<word number="5">vent one's rage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="expatiate" headRef="599">expatiate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">speak one's mind</word>
+				<word number="2">go on the stump</word>
+				<word number="3">take the stump</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="soliloquize">
+			<sg number="1">
+				<word number="1" paraRef="soliloquy" headRef="615">soliloquize</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inform" headRef="552">tell</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="speak to" headRef="612">speak to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="talk together" headRef="614">talk together</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="be eloquent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be eloquent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a tongue in one's head</word>
+				<word number="2" paraRef="" posRef="n.">have the gift of the gab</word>
+				<word number="3">escape one's lips</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall from the lips</word>
+				<word number="2">fall from the mouth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="speaking">
+			<sg number="1">
+				<word number="1">speaking</word>
+				<word number="2" paraRef="" posRef="v.">spoken</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oral</word>
+				<word number="2">lingual</word>
+				<word number="3">phonetic</word>
+				<word number="4">not written</word>
+				<word number="5">unwritten</word>
+				<word number="6">outspoken</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eloquent</word>
+				<word number="2">elocutionary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">oratorical</word>
+				<word number="2">rhetorical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">declamatory</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="grandiloquent" headRef="603">grandiloquent</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="talkative" headRef="610">talkative</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Ciceronian</word>
+				<word number="2">nuncupative</word>
+				<word number="3">Tullian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="orally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">orally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by word of mouth</word>
+				<word number="2">viva voce</word>
+				<word number="3">from the lips of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="quoth he">
+			<sg number="1">
+				<word number="1">quoth he</word>
+				<word number="2">said he</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"action is eloquence"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"pour the full tide of eloquence along"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"she speaks poignards and every word stabs"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"speech is but broken light upon the depth of the unspoken"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"to try thy eloquence now 'tis time"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

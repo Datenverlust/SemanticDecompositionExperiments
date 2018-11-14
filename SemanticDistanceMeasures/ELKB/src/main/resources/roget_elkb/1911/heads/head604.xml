@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="604" name="Elegance" origNum="#578." class="5" section="3" subSection="2" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="elegance">
+			<sg number="1">
+				<word number="1">elegance</word>
+				<word number="2">purity</word>
+				<word number="3">grace</word>
+				<word number="4">ease</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gracefulness</word>
+				<word number="2" paraRef="" posRef="adj.">readiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">concinnity</word>
+				<word number="2">euphony</word>
+				<word number="3">numerosity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Atticism</word>
+				<word number="2">classicalism</word>
+				<word number="3">classicism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="well rounded periods">
+			<sg number="1">
+				<word number="1">well rounded periods</word>
+				<word number="2">well turned periods</word>
+				<word number="3">flowing periods</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the right word in the right place</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="antithesis" headRef="603">antithesis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="*purist">
+			<sg number="1">
+				<word number="1">*purist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="point an antithesis">
+			<sg number="1">
+				<word number="1">point an antithesis</word>
+				<word number="2">round a period</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="elegant">
+			<sg number="1">
+				<word number="1">elegant</word>
+				<word number="2">polished</word>
+				<word number="3">classical</word>
+				<word number="4">Attic</word>
+				<word number="5">correct</word>
+				<word number="6">Ciceronian</word>
+				<word number="7">artistic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chaste</word>
+				<word number="2">pure</word>
+				<word number="3">Saxon</word>
+				<word number="4">academical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="graceful">
+			<sg number="1">
+				<word number="1">graceful</word>
+				<word number="2">easy</word>
+				<word number="3">readable</word>
+				<word number="4">fluent</word>
+				<word number="5">flowing</word>
+				<word number="6">tripping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unaffected</word>
+				<word number="2">natural</word>
+				<word number="3">unlabored</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mellifluous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">euphonious</word>
+				<word number="2">euphemism</word>
+				<word number="3">euphemistic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">numerose</word>
+				<word number="2">rhythmical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="felicitous">
+			<sg number="1">
+				<word number="1">felicitous</word>
+				<word number="2">happy</word>
+				<word number="3">neat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">well put</word>
+				<word number="2">neatly put</word>
+				<word number="3">well expressed</word>
+				<word number="4">neatly expressed</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

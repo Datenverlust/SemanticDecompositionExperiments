@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="421" name="Loudness" origNum="#404." class="3" section="3" subSection="2" headGroup="19">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="loudness">
+			<sg number="1">
+				<word number="1">loudness</word>
+				<word number="2">power</word>
+			</sg>
+			<sg number="2">
+				<word number="1">loud noise</word>
+				<word number="2">din</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blare</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clang</word>
+				<word number="2">clangor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">clatter</word>
+				<word number="2">noise</word>
+				<word number="3">bombilation</word>
+				<word number="4">roar</word>
+				<word number="5">uproar</word>
+				<word number="6">racket</word>
+				<word number="7">hubbub</word>
+				<word number="8">bobbery</word>
+				<word number="9">fracas</word>
+				<word number="10">charivari</word>
+				<word number="11">trumpet blast</word>
+				<word number="12">flourish of trumpets</word>
+				<word number="13">fanfare</word>
+				<word number="14">tintamarre</word>
+				<word number="15">peal</word>
+				<word number="16">swell</word>
+				<word number="17">blast</word>
+				<word number="18">larum</word>
+				<word number="19">boom</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="explosion" headRef="423">bang</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="resonance" headRef="425">resonance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vociferation">
+			<sg number="1">
+				<word number="1">vociferation</word>
+				<word number="2" paraRef="hullabaloo" headRef="429">hullabaloo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lungs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Stentor. artillery</word>
+				<word number="2">cannon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thunder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be loud">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be loud</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peal</word>
+				<word number="2">swell</word>
+				<word number="3">clang</word>
+				<word number="4">boom</word>
+				<word number="5">thunder</word>
+				<word number="6">blare</word>
+				<word number="7">fulminate</word>
+				<word number="8">roar</word>
+				<word number="9" new="1">chime</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="resound" headRef="425">resound</word>
+				<word number="2" paraRef="vociferate" headRef="429">shout</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cry" headRef="430">bellow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rend the air">
+			<sg number="1">
+				<word number="1">rend the air</word>
+				<word number="2">rend the skies</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fill the air</word>
+			</sg>
+			<sg number="3">
+				<word number="1">din in the ear</word>
+				<word number="2">ring in the ear</word>
+				<word number="3">thunder in the ear</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pierce the ears</word>
+				<word number="2">split the ears</word>
+				<word number="3">rend the ears</word>
+				<word number="4">split the head</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deafen</word>
+				<word number="2">stun</word>
+			</sg>
+			<sg number="6">
+				<word number="1">faire le diable a quatre</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make one's windows shake</word>
+				<word number="2">rattle the windows</word>
+			</sg>
+			<sg number="8">
+				<word number="1">awaken the echoes</word>
+				<word number="2">startle the echoes</word>
+			</sg>
+			<sg number="9">
+				<word number="1">wake the dead</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="loud">
+			<sg number="1">
+				<word number="1">loud</word>
+				<word number="2">sonorous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high-sounding</word>
+				<word number="2">big-sounding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deep</word>
+				<word number="2">full</word>
+				<word number="3">powerful</word>
+				<word number="4">noisy</word>
+				<word number="5">blatant</word>
+				<word number="6">clangorous</word>
+				<word number="7">multisonous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thundering</word>
+				<word number="2" paraRef="" posRef="v.">deafening</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trumpet-tongued</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ear-splitting</word>
+				<word number="2">ear-rending</word>
+				<word number="3">ear- deafening</word>
+			</sg>
+			<sg number="7">
+				<word number="1">piercing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">obstreperous</word>
+				<word number="2">rackety</word>
+				<word number="3">uproarious</word>
+			</sg>
+			<sg number="9">
+				<word number="1">enough to wake the dead</word>
+				<word number="2">enough to wake seven sleepers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="shrill">
+			<sg number="1">
+				<word number="1" paraRef="shrill" headRef="428">shrill</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vociferous" headRef="429">clamorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stentorian</word>
+				<word number="2">stentorophonic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="loudly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">loudly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at the top of one's voice</word>
+				<word number="2">at the top of one's  lungs</word>
+				<word number="3">lustily</word>
+				<word number="4">in full cry</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the air rings with">
+			<sg number="1">
+				<word number="1">the air rings with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the deep dread-bolted thunder"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

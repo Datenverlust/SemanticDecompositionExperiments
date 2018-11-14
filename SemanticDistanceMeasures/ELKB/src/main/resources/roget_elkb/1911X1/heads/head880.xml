@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="880" name="Wit" origNum="#842." class="8" section="2" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="wit">
+			<sg number="1">
+				<word number="1">wit</word>
+				<word number="2">humor</word>
+				<word number="3">wittiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sense of humor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">attic wit</word>
+				<word number="2">attic salt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">atticism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">salt</word>
+				<word number="2">esprit</word>
+				<word number="3">point</word>
+				<word number="4">fancy</word>
+				<word number="5">whim</word>
+				<word number="6">drollery</word>
+				<word number="7">pleasantry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="farce">
+			<sg number="1">
+				<word number="1">farce</word>
+				<word number="2">buffoonery</word>
+				<word number="3">fooling</word>
+				<word number="4">tomfoolery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shenanigan</word>
+				<word number="2" paraRef="harlequinade" headRef="625">harlequinade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">broad farce</word>
+				<word number="2">broad humor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fun</word>
+				<word number="2">espieglerie</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vis comica</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="jocularity">
+			<sg number="1">
+				<word number="1">jocularity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jocosity</word>
+				<word number="2">jocoseness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">facetiousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">waggery</word>
+				<word number="2">waggishness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whimsicality</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="comicality" headRef="892">comicality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="banter">
+			<sg number="1">
+				<word number="1">banter</word>
+				<word number="2">badinage</word>
+				<word number="3">retort</word>
+				<word number="4">repartee</word>
+				<word number="5">smartness</word>
+				<word number="6">ready wit</word>
+				<word number="7">quid-pro- quo</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ridicule" headRef="895">ridicule</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="jest">
+			<sg number="1">
+				<word number="1">jest</word>
+				<word number="2">joke</word>
+				<word number="3">jape</word>
+				<word number="4">jibe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">facetiae</word>
+				<word number="2">levity</word>
+				<word number="3">quips and cranks</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capital joke</word>
+			</sg>
+			<sg number="4">
+				<word number="1">canorae nugae</word>
+			</sg>
+			<sg number="5">
+				<word number="1">standing jest</word>
+				<word number="2">standing joke</word>
+				<word number="3">private joke</word>
+				<word number="4">conceit</word>
+				<word number="5">quip</word>
+				<word number="6">quirk</word>
+				<word number="7">crank</word>
+				<word number="8">quiddity</word>
+				<word number="9">concetto</word>
+				<word number="10">plaisanterie</word>
+				<word number="11">brilliant idea</word>
+			</sg>
+			<sg number="6">
+				<word number="1">merry thought</word>
+				<word number="2">bright thought</word>
+				<word number="3">happy thought</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sally</word>
+			</sg>
+			<sg number="8">
+				<word number="1">flash of wit</word>
+				<word number="2">flash of merriment</word>
+			</sg>
+			<sg number="9">
+				<word number="1">scintillation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mot</word>
+				<word number="2">mot pour rire</word>
+			</sg>
+			<sg number="11">
+				<word number="1">witticism</word>
+				<word number="2">smart saying</word>
+				<word number="3">bon-mot,jeu d'esprit,epigram</word>
+			</sg>
+			<sg number="12">
+				<word number="1">jest book</word>
+			</sg>
+			<sg number="13">
+				<word number="1">dry joke</word>
+				<word number="2">quodlibet</word>
+				<word number="3">cream of the  jest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="word-play">
+			<sg number="1">
+				<word number="1">word-play</word>
+				<word number="2">jeu de mots</word>
+			</sg>
+			<sg number="2">
+				<word number="1">play of words</word>
+				<word number="2">play upon words</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pun</word>
+				<word number="2">punning</word>
+			</sg>
+			<sg number="4">
+				<word number="1">double entente</word>
+				<word number="2" paraRef="ambiguity" headRef="545">double entendre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quibble</word>
+				<word number="2">verbal quibble</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="riddle" headRef="559">conundrum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">anagram</word>
+				<word number="2">acrostic</word>
+				<word number="3">double acrostic</word>
+				<word number="4">trifling</word>
+				<word number="5">idle conceit</word>
+				<word number="6">turlupinade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="old joke">
+			<sg number="1">
+				<word number="1">old joke</word>
+				<word number="2">tired joke</word>
+				<word number="3">flat joke</word>
+				<word number="4">Joe Miller!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="joke">
+			<sg number="1">
+				<word number="1">joke</word>
+				<word number="2">jest</word>
+				<word number="3">crack a joke</word>
+				<word number="4">make a joke</word>
+				<word number="5">jape</word>
+				<word number="6">cut jokes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perpetrate a joke</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pun</word>
+				<word number="2">perpetrate a pun</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make fun of</word>
+				<word number="2">make merry with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">kid</word>
+				<word number="2">kid around</word>
+				<word number="3">fool around</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="amuse" headRef="878">set the table in a roar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="retort">
+			<sg number="1">
+				<word number="1">retort</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ridicule" headRef="895">banter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ridentem dicere verum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">joke at one's expense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="take in jest">
+			<sg number="1">
+				<word number="1">take in jest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bomb">
+			<sg number="1">
+				<word number="1">bomb</word>
+				<word number="2">fall flat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go over like a lead balloon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="witty">
+			<sg number="1">
+				<word number="1">witty</word>
+				<word number="2">attic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quick-witted</word>
+				<word number="2">nimble-witted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jocular</word>
+				<word number="2">jocose</word>
+				<word number="3">humorous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">facetious</word>
+				<word number="2">waggish</word>
+				<word number="3">whimsical</word>
+			</sg>
+			<sg number="6">
+				<word number="1">kidding</word>
+				<word number="2">joking</word>
+				<word number="3">puckish</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="playful" headRef="878">playful</word>
+			</sg>
+			<sg number="8">
+				<word number="1">merry and wise</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pleasant</word>
+				<word number="2">sprightly</word>
+				<word number="3">light</word>
+				<word number="4">spirituel</word>
+				<word number="5">sparkling</word>
+				<word number="6">epigrammatic</word>
+				<word number="7">full of point</word>
+				<word number="8">ben trovato</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="comical" headRef="892">comic</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">ironic</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">irreverent</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">provocative</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="zany">
+			<sg number="1">
+				<word number="1">zany</word>
+				<word number="2">madcap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="funny">
+			<sg number="1">
+				<word number="1">funny</word>
+				<word number="2" paraRef="amusement" headRef="878">amusing</word>
+				<word number="3" new="1">comical</word>
+				<word number="4" new="1">hilarious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="jokingly">
+			<sg number="1">
+				<word number="1">jokingly</word>
+				<word number="2">in joke</word>
+				<word number="3">in jest</word>
+				<word number="4">in sport</word>
+				<word number="5">in play</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="adhibenda est in jocando moderatio">
+			<sg number="1">
+				<word number="1">adhibenda est in jocando moderatio</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"gentle dullness ever loves a joke"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"leave this keen encounter of our wits"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">just joking</word>
+				<word number="2">just kidding</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"surely you jest!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

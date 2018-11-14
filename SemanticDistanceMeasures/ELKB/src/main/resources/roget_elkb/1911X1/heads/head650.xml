@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="650" name="Chance" origNum="#621." class="6" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="chance">
+			<sg number="1">
+				<word number="1" paraRef="chance" headRef="163">chance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lot</word>
+				<word number="2" paraRef="necessity" headRef="627">fate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">luck</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="good" headRef="647">good luck</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mascot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="speculation">
+			<sg number="1">
+				<word number="1">speculation</word>
+				<word number="2">venture</word>
+				<word number="3">stake</word>
+				<word number="4">game of chance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mere shot</word>
+				<word number="2">random shot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blind bargain</word>
+				<word number="2">leap in the dark</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="uncertainty" headRef="498">pig in a poke</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fluke</word>
+				<word number="2">potluck</word>
+			</sg>
+			<sg number="6">
+				<word number="1">faro bank</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flyer*</word>
+			</sg>
+			<sg number="8">
+				<word number="1">limit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="uncertainty">
+			<sg number="1">
+				<word number="1">uncertainty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncertainty principle</word>
+				<word number="2">Heisenberg's uncertainty principle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="drawing lots">
+			<sg number="1">
+				<word number="1">drawing lots</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sortilegy</word>
+				<word number="2">sortition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sortes</word>
+				<word number="2">sortes Virgilianae</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rouge et noir</word>
+				<word number="2">hazard</word>
+				<word number="3">ante</word>
+				<word number="4">chuck-a-luck</word>
+				<word number="5">crack-loo</word>
+				<word number="6">craps</word>
+				<word number="7">faro</word>
+				<word number="8">roulette</word>
+				<word number="9">pitch and toss</word>
+				<word number="10">chuck</word>
+				<word number="11">farthing</word>
+				<word number="12">cup tossing</word>
+				<word number="13">heads or tails cross and pile</word>
+				<word number="14">poker-dice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wager</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bet</word>
+				<word number="2">betting</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gambling</word>
+			</sg>
+			<sg number="8">
+				<word number="1">the turf</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="gaming house">
+			<sg number="1">
+				<word number="1">gaming house</word>
+				<word number="2">gambling house</word>
+				<word number="3">betting house</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bucket shop</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gambling joint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">totalizator</word>
+				<word number="2">totalizer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hell</word>
+			</sg>
+			<sg number="6">
+				<word number="1">betting ring</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dice</word>
+				<word number="2">dice box</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="gambler">
+			<sg number="1">
+				<word number="1">gambler</word>
+				<word number="2">gamester</word>
+			</sg>
+			<sg number="2">
+				<word number="1">man of the turf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adventurer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dicer!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="chance">
+			<sg number="1">
+				<word number="1" paraRef="hap" headRef="163">chance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be possible" headRef="493">stand a chance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="toss up">
+			<sg number="1">
+				<word number="1">toss up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast lots</word>
+				<word number="2">draw lots</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leave to chance</word>
+				<word number="2">trust to chance</word>
+				<word number="3">leave to the chapter of accidents</word>
+				<word number="4">trust to the chapter of accidents</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tempt fortune</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chance it</word>
+				<word number="2">take one's chance</word>
+				<word number="3" paraRef="attempt" headRef="704">take a shot at it</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run the risk</word>
+				<word number="2">run the chance</word>
+				<word number="3">incur the risk</word>
+				<word number="4">incur the chance</word>
+				<word number="5">encounter the risk</word>
+				<word number="6">encounter the chance</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stand the hazard of the die</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="speculate">
+			<sg number="1">
+				<word number="1">speculate</word>
+				<word number="2">try one's luck</word>
+				<word number="3">set on a cast</word>
+				<word number="4">raffle</word>
+				<word number="5">put into a lottery</word>
+				<word number="6">buy a pig in a poke</word>
+				<word number="7">shuffle the cards</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="risk">
+			<sg number="1">
+				<word number="1">risk</word>
+				<word number="2">venture</word>
+				<word number="3">hazard</word>
+				<word number="4">stake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ante</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay</word>
+				<word number="2">lay a wager</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make a bet</word>
+				<word number="2">wager</word>
+				<word number="3">bet</word>
+				<word number="4">gamble</word>
+				<word number="5">game</word>
+				<word number="6">play for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">play at chuck farthing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fortuitous">
+			<sg number="1">
+				<word number="1" paraRef="fortuitous" headRef="163">fortuitous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unintentional</word>
+				<word number="2">unintended</word>
+				<word number="3" new="1">inadvertent</word>
+				<word number="4" new="1">undesired</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accidental</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not meant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">undesigned</word>
+				<word number="2">purposed</word>
+				<word number="3">absence of design</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="unpremeditated" headRef="640">unpremeditated</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unforeseen</word>
+				<word number="2">uncontemplated</word>
+				<word number="3">never thought of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="random">
+			<sg number="1">
+				<word number="1">random</word>
+				<word number="2">indiscriminate</word>
+				<word number="3">promiscuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undirected</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aimless</word>
+				<word number="2">driftless</word>
+				<word number="3">designless</word>
+				<word number="4">purposeless</word>
+				<word number="5">causeless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">without purpose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="possible">
+			<sg number="1">
+				<word number="1" paraRef="possible" headRef="493">possible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unforeseeable">
+			<sg number="1">
+				<word number="1">unforeseeable</word>
+				<word number="2">unpredictable</word>
+				<word number="3">chancy</word>
+				<word number="4">risky</word>
+				<word number="5">speculative</word>
+				<word number="6">dicey</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="randomly">
+			<sg number="1">
+				<word number="1">randomly</word>
+				<word number="2">by chance</word>
+				<word number="3">fortuitously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unpredictably</word>
+				<word number="2">unforeseeably</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="casually" headRef="163">casually</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">unintentionally</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unwittingly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="en passant">
+			<sg number="1">
+				<word number="1">en passant</word>
+				<word number="2">by the way</word>
+				<word number="3">incidentally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as it may happen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">at random</word>
+				<word number="2">at a venture</word>
+				<word number="3">at haphazard</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="acierta errando">
+			<sg number="1">
+				<word number="1">acierta errando</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dextro tempore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"fearful concatenation of circumstances"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"fortuitous combination of circumstances"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">le jeu est le fils d'avarice et le pere du desespoir</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the happy combination of fortuitous circumstances"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the fortuitous or casual concourse of atoms"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"God does not play dice with the universe"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

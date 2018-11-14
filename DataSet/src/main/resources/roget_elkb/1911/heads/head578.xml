@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="578" name="Obliteration" origNum="#552." class="5" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="obliteration">
+			<sg number="1">
+				<word number="1">obliteration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">erasure</word>
+				<word number="2">rasure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cancel</word>
+				<word number="2">cancellation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">circumduction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deletion</word>
+				<word number="2">blot</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tabula rasa</word>
+			</sg>
+			<sg number="7">
+				<word number="1">effacement</word>
+				<word number="2">extinction</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="efface">
+			<sg number="1">
+				<word number="1">efface</word>
+				<word number="2">obliterate</word>
+				<word number="3">erase</word>
+				<word number="4">raze!</word>
+				<word number="5">rase</word>
+				<word number="6">expunge</word>
+				<word number="7">cancel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blot out</word>
+				<word number="2">take out</word>
+				<word number="3">rub out</word>
+				<word number="4">scratch out</word>
+				<word number="5">strike out</word>
+				<word number="6">wipe out</word>
+				<word number="7">wash out</word>
+				<word number="8">sponge out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wipe off</word>
+				<word number="2">rub off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wipe away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deface</word>
+				<word number="2">render illegible</word>
+			</sg>
+			<sg number="6">
+				<word number="1">draw the pen through</word>
+				<word number="2">apply the sponge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be effaced">
+			<sg number="1">
+				<word number="1">be effaced</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="trace" headRef="576">leave no trace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"leave not a rack behind"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="obliterated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">obliterated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out of print</word>
+			</sg>
+			<sg number="3">
+				<word number="1">printless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">leaving no trace</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intestate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unrecorded</word>
+				<word number="2">unregistered</word>
+				<word number="3">unwritten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="dele">
+			<sg number="1">
+				<word number="1">dele</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out with it!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="delenda est Carthago">
+			<sg number="1">
+				<word number="1">delenda est Carthago</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

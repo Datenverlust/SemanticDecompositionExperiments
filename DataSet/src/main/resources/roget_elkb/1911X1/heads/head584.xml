@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="584" name="Engraving" origNum="#558." class="5" section="3" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="engraving">
+			<sg number="1">
+				<word number="1">engraving</word>
+				<word number="2">chalcography</word>
+			</sg>
+			<sg number="2">
+				<word number="1">line engraving</word>
+				<word number="2">mezzotint engraving</word>
+				<word number="3">stipple engraving</word>
+				<word number="4">chalk engraving</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dry point</word>
+				<word number="2">bur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">etching</word>
+				<word number="2">aquatinta</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chiseling</word>
+			</sg>
+			<sg number="6">
+				<word number="1">plate engraving</word>
+				<word number="2">copperplate engraving</word>
+				<word number="3">steel engraving</word>
+				<word number="4">wood engraving</word>
+			</sg>
+			<sg number="7">
+				<word number="1">xylography</word>
+				<word number="2">lignography</word>
+				<word number="3">glyptography</word>
+				<word number="4">cerography</word>
+				<word number="5">lithography</word>
+				<word number="6">chromolithography</word>
+				<word number="7">photolithography</word>
+				<word number="8">zincography</word>
+				<word number="9">glyphography</word>
+				<word number="10">xylograph</word>
+				<word number="11">lignograph</word>
+				<word number="12">glyptograph</word>
+				<word number="13">cerograph</word>
+				<word number="14">lithograph</word>
+				<word number="15">chromolithograph</word>
+				<word number="16">photolithograph</word>
+				<word number="17">zincograph</word>
+				<word number="18">glyphograph</word>
+				<word number="19">holograph</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="impression">
+			<sg number="1">
+				<word number="1">impression</word>
+				<word number="2">print</word>
+				<word number="3">engraving</word>
+				<word number="4">plate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">steelplate</word>
+				<word number="2">copperplate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">etching</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mezzotint</word>
+				<word number="2">aquatint</word>
+				<word number="3">lithotint</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cut</word>
+				<word number="2">woodcut</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stereotype</word>
+				<word number="2">graphotype</word>
+				<word number="3">autotype</word>
+				<word number="4">heliotype</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">intaglio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="graver">
+			<sg number="1">
+				<word number="1">graver</word>
+				<word number="2">burin</word>
+				<word number="3">etching point</word>
+				<word number="4">style</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plate</word>
+				<word number="2">stone</word>
+				<word number="3">wood block</word>
+				<word number="4">negative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">die</word>
+				<word number="2">punch</word>
+				<word number="3">stamp</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="printing">
+			<sg number="1">
+				<word number="1">printing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plate printing</word>
+				<word number="2">copperplate printing</word>
+				<word number="3">anastatic printing</word>
+				<word number="4">color printing</word>
+				<word number="5">lithographic printing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="printing" headRef="617">type printing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">three-color process</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="illustration">
+			<sg number="1">
+				<word number="1">illustration</word>
+				<word number="2">illumination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">half tone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">photogravure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vignette</word>
+				<word number="2">initial letter</word>
+				<word number="3">cul de lampe</word>
+				<word number="4">tailpiece</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="lapidary">
+			<sg number="1">
+				<word number="1">lapidary</word>
+				<word number="2">lapidarian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="drawing">
+			<sg number="1">
+				<word number="1" new="1">drawing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="frontispiece">
+			<sg number="1">
+				<word number="1" new="1">frontispiece</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="letterpress">
+			<sg number="1">
+				<word number="1" new="1">letterpress</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="engrave">
+			<sg number="1">
+				<word number="1">engrave</word>
+				<word number="2">grave</word>
+				<word number="3">stipple</word>
+				<word number="4">scrape</word>
+				<word number="5">etch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bite</word>
+				<word number="2">bite in</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">lithograph</word>
+			</sg>
+			<sg number="4">
+				<word number="1">print</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="insculptured">
+			<sg number="1">
+				<word number="1">insculptured</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">engraved</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lapidary">
+			<sg number="1">
+				<word number="1">lapidary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="sculpsit">
+			<sg number="1">
+				<word number="1">sculpsit</word>
+				<word number="2">imprimit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

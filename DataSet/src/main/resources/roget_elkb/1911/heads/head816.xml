@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="816" name="Transfer" origNum="#783." class="7" section="4" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="transfer">
+			<sg number="1">
+				<word number="1">transfer</word>
+				<word number="2">conveyance</word>
+				<word number="3">assignment</word>
+				<word number="4">alienation</word>
+				<word number="5">abalienation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demise</word>
+				<word number="2">limitation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conveyancing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="transference" headRef="281">transmission</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enfeoffment</word>
+				<word number="2">bargain and sale</word>
+				<word number="3">lease and release</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="interchange" headRef="155">exchange</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="barter" headRef="827">barter</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="substitution" headRef="154">substitution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="succession">
+			<sg number="1">
+				<word number="1">succession</word>
+				<word number="2">reversion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shifting use</word>
+				<word number="2">shifting trust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">devolution</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="transfer">
+			<sg number="1">
+				<word number="1">transfer</word>
+				<word number="2">convey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alienate</word>
+				<word number="2">alien</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assign</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="confer" headRef="817">grant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">consign</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make over</word>
+				<word number="2">hand over</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pass</word>
+				<word number="2">hand</word>
+				<word number="3">transmit</word>
+				<word number="4">negotiate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hand down</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="interchange" headRef="155">exchange</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="change hands">
+			<sg number="1">
+				<word number="1">change hands</word>
+				<word number="2">change hands from one to another</word>
+			</sg>
+			<sg number="2">
+				<word number="1">devolve</word>
+				<word number="2">succeed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="acquire" headRef="807">come into possession</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="abalienate">
+			<sg number="1">
+				<word number="1">abalienate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disinherit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dispossess" headRef="822">dispossess</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="substitute" headRef="154">substitute</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="alienable">
+			<sg number="1">
+				<word number="1">alienable</word>
+				<word number="2">negotiable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="estate coming into possession">
+			<sg number="1">
+				<word number="1">estate coming into possession</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

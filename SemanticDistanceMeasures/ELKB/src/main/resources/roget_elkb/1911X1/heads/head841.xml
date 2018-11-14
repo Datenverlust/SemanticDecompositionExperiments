@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="841" name="Debt" origNum="#806." class="7" section="4" subSection="4" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="debt">
+			<sg number="1">
+				<word number="1">debt</word>
+				<word number="2">obligation</word>
+				<word number="3">liability</word>
+				<word number="4">indebtment</word>
+				<word number="5">debit</word>
+				<word number="6">score</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bill">
+			<sg number="1">
+				<word number="1">bill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">check</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="credit" headRef="840">account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="arrears">
+			<sg number="1">
+				<word number="1">arrears</word>
+				<word number="2">deferred payment</word>
+				<word number="3">deficit</word>
+				<word number="4">default</word>
+				<word number="5" paraRef="nonpayment" headRef="843">insolvency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bad debt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="interest">
+			<sg number="1">
+				<word number="1">interest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">premium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">usance</word>
+				<word number="2">usury</word>
+			</sg>
+			<sg number="4">
+				<word number="1">floating debt</word>
+				<word number="2">floating capital</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="debtor">
+			<sg number="1">
+				<word number="1">debtor</word>
+				<word number="2">debitor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mortgagor</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="defaulter" headRef="843">defaulter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">borrower</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in debt">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be in debt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">owe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incur a debt</word>
+				<word number="2" paraRef="" posRef="n.">contract a debt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">run up a bill</word>
+				<word number="2">run up a score</word>
+				<word number="3">run up an account</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go on tick</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="borrow" headRef="821">borrow</word>
+			</sg>
+			<sg number="7">
+				<word number="1">run into debt</word>
+				<word number="2">get into debt</word>
+				<word number="3">outrun the constable</word>
+			</sg>
+			<sg number="8">
+				<word number="1">run up debts</word>
+				<word number="2" paraRef="spend" headRef="844">run up bills</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="answer for">
+			<sg number="1">
+				<word number="1">answer for</word>
+				<word number="2">go bail for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bill">
+			<sg number="1">
+				<word number="1">bill</word>
+				<word number="2">charge</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="indebted">
+			<sg number="1">
+				<word number="1">indebted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">liable</word>
+				<word number="2">chargeable</word>
+				<word number="3">answerable for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in debt">
+			<sg number="1">
+				<word number="1">in debt</word>
+				<word number="2">in embarrassed circumstances</word>
+				<word number="3">in difficulties</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incumbered</word>
+				<word number="2">involved</word>
+			</sg>
+			<sg number="3">
+				<word number="1">involved in debt</word>
+				<word number="2">plunged in debt</word>
+				<word number="3">deep in debt</word>
+				<word number="4">over one's head in debt</word>
+				<word number="5">over head and ears in debt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deeply involved</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fast tied up</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="not paying" headRef="843">insolvent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">minus</word>
+				<word number="2">out of pocket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unpaid">
+			<sg number="1">
+				<word number="1">unpaid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unrequited</word>
+				<word number="2">unrewarded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">owing</word>
+				<word number="2">due</word>
+				<word number="3">in arrear</word>
+				<word number="4">outstanding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">past due</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="aes alienum debitorem leve gravius inimicum facit">
+			<sg number="1">
+				<word number="1">aes alienum debitorem leve gravius inimicum facit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"neither a borrower nor a lender be"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

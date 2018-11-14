@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="415" name="Inodorousness" origNum="#399." class="3" section="3" subSection="2" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inodorousness">
+			<sg number="1">
+				<word number="1">inodorousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">absence of smell</word>
+				<word number="2">want of smell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deodorant">
+			<sg number="1">
+				<word number="1">deodorant</word>
+				<word number="2">deodorization</word>
+				<word number="3">deodorizer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inodorous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inodorous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not smell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deodorize">
+			<sg number="1">
+				<word number="1">deodorize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inodorous">
+			<sg number="1">
+				<word number="1">inodorous</word>
+				<word number="2">onodorate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scentless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">without smell</word>
+				<word number="2" paraRef="smell" headRef="414">wanting smell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deodorized">
+			<sg number="1">
+				<word number="1">deodorized</word>
+				<word number="2">deodorizing</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

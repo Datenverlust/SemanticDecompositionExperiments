@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="359" name="River" origNum="#348." class="3" section="2" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="running water">
+			<sg number="1">
+				<word number="1">running water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">water in motion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="jet">
+			<sg number="1">
+				<word number="1">jet</word>
+				<word number="2">spirt</word>
+				<word number="3">spurt</word>
+				<word number="4">squirt</word>
+				<word number="5">spout</word>
+				<word number="6">spray</word>
+				<word number="7">splash</word>
+				<word number="8">rush</word>
+				<word number="9">gush</word>
+				<word number="10">jet d'eau</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sluice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="water spout">
+			<sg number="1">
+				<word number="1">water spout</word>
+				<word number="2">water fall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cascade</word>
+				<word number="2">force</word>
+				<word number="3">foss</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lin</word>
+				<word number="2">linn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ghyll</word>
+				<word number="2">Niagara</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cataract</word>
+				<word number="2">rapids</word>
+				<word number="3">white water</word>
+				<word number="4">catadupe</word>
+				<word number="5">cataclysm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">debacle</word>
+				<word number="2">inundation</word>
+				<word number="3">deluge</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chute</word>
+				<word number="2">washout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="rain">
+			<sg number="1">
+				<word number="1">rain</word>
+				<word number="2">rainfall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">serein</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shower</word>
+				<word number="2">scud</word>
+			</sg>
+			<sg number="4">
+				<word number="1">downpour</word>
+			</sg>
+			<sg number="5">
+				<word number="1">driving rain</word>
+				<word number="2">drenching rain</word>
+				<word number="3">cloudburst</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hyetology</word>
+				<word number="2">hyetography</word>
+			</sg>
+			<sg number="7">
+				<word number="1">predominance of Aquarius</word>
+				<word number="2">reign of St. Swithin</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mizzle</word>
+				<word number="2">drizzle</word>
+				<word number="3">stillicidum</word>
+				<word number="4">plash</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">dropping</word>
+			</sg>
+			<sg number="10">
+				<word number="1">falling weather</word>
+			</sg>
+			<sg number="11">
+				<word number="1">northeaster</word>
+				<word number="2">hurricane</word>
+				<word number="3">typhoon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="stream">
+			<sg number="1">
+				<word number="1">stream</word>
+				<word number="2">course</word>
+				<word number="3">flux</word>
+				<word number="4">flow</word>
+				<word number="5">profluence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="egress" headRef="306">effluence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">defluxion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">flowing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">current</word>
+				<word number="2">tide</word>
+				<word number="3">race</word>
+				<word number="4">coulee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="spring">
+			<sg number="1">
+				<word number="1">spring</word>
+				<word number="2">artesian well</word>
+				<word number="3">fount</word>
+				<word number="4">fountain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rill</word>
+				<word number="2">rivulet</word>
+				<word number="3">gill</word>
+				<word number="4">gullet</word>
+				<word number="5">rillet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">streamlet</word>
+				<word number="2">brooklet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">branch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">runnel</word>
+				<word number="2">sike</word>
+				<word number="3">burn</word>
+				<word number="4">beck</word>
+				<word number="5">creek</word>
+				<word number="6">brook</word>
+				<word number="7">bayou</word>
+				<word number="8">stream</word>
+				<word number="9">river</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reach</word>
+				<word number="2">tributary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="geyser">
+			<sg number="1">
+				<word number="1">geyser</word>
+				<word number="2">spout</word>
+				<word number="3">waterspout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="body of water">
+			<sg number="1">
+				<word number="1">body of water</word>
+				<word number="2">torrent</word>
+				<word number="3">rapids</word>
+				<word number="4">flush</word>
+				<word number="5">flood</word>
+				<word number="6">swash</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spring tide</word>
+				<word number="2">high tide</word>
+				<word number="3">full tide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bore</word>
+				<word number="2">tidal bore</word>
+				<word number="3">eagre</word>
+				<word number="4">hygre</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fresh</word>
+				<word number="2">freshet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indraught</word>
+				<word number="2">reflux</word>
+				<word number="3">undercurrent</word>
+				<word number="4">eddy</word>
+				<word number="5">vortex</word>
+				<word number="6">gurge</word>
+				<word number="7">whirlpool</word>
+				<word number="8">Maelstrom</word>
+				<word number="9">regurgitation</word>
+				<word number="10">overflow</word>
+			</sg>
+			<sg number="6">
+				<word number="1">confluence</word>
+				<word number="2">corrivation|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="wave">
+			<sg number="1">
+				<word number="1">wave</word>
+				<word number="2">billow</word>
+				<word number="3">surge</word>
+				<word number="4">swell</word>
+				<word number="5">ripple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beach comber</word>
+				<word number="2">riffle</word>
+				<word number="3">rollers</word>
+				<word number="4">ground swell</word>
+				<word number="5">surf</word>
+				<word number="6">breakers</word>
+				<word number="7">white horses</word>
+				<word number="8">whitecaps</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rough sea</word>
+				<word number="2">heavy sea</word>
+				<word number="3">high seas</word>
+				<word number="4">cross sea</word>
+				<word number="5">long sea</word>
+				<word number="6">short sea</word>
+				<word number="7">chopping sea</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="hydrodynamics">
+			<sg number="1">
+				<word number="1">hydrodynamics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hydraulics</word>
+				<word number="2">hydraulicostatics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rain gauge</word>
+				<word number="2">flowmeter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pegology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="irrigation">
+			<sg number="1">
+				<word number="1" paraRef="water" headRef="348">irrigation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pump</word>
+			</sg>
+			<sg number="3">
+				<word number="1">watering pot</word>
+				<word number="2">watering cart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hydrant</word>
+				<word number="2">syringe</word>
+			</sg>
+			<sg number="5">
+				<word number="1">garden hose</word>
+				<word number="2">lawn spray</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bhisti</word>
+				<word number="2">mussuk</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="flow">
+			<sg number="1">
+				<word number="1">flow</word>
+				<word number="2">run</word>
+			</sg>
+			<sg number="2">
+				<word number="1">meander</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gush</word>
+				<word number="2">pour</word>
+				<word number="3">spout</word>
+				<word number="4">roll</word>
+				<word number="5">jet</word>
+				<word number="6">well</word>
+				<word number="7">issue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drop</word>
+				<word number="2">drip</word>
+				<word number="3">dribble</word>
+				<word number="4">plash</word>
+				<word number="5">spirtle</word>
+				<word number="6">trill</word>
+				<word number="7">trickle</word>
+				<word number="8">distill</word>
+				<word number="9">percolate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stream</word>
+				<word number="2">overflow</word>
+				<word number="3">inundate</word>
+				<word number="4">deluge</word>
+				<word number="5">flow over</word>
+				<word number="6">splash</word>
+				<word number="7">swash</word>
+			</sg>
+			<sg number="6">
+				<word number="1">guggle</word>
+				<word number="2">murmur</word>
+				<word number="3">babble</word>
+				<word number="4">bubble</word>
+				<word number="5">purl</word>
+				<word number="6">gurgle</word>
+				<word number="7">sputter</word>
+				<word number="8">spurt</word>
+				<word number="9">spray</word>
+				<word number="10">regurgitate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ooze</word>
+				<word number="2" paraRef="egress" headRef="306">flow out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rain hard">
+			<sg number="1">
+				<word number="1">rain hard</word>
+				<word number="2">rain in torrents</word>
+				<word number="3">rain cats and dogs</word>
+				<word number="4">rain pitchforks</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pour with rain</word>
+				<word number="2">drizzle</word>
+				<word number="3">spit</word>
+				<word number="4">set in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mizzle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="flow into">
+			<sg number="1">
+				<word number="1">flow into</word>
+				<word number="2">fall into</word>
+				<word number="3">open into</word>
+				<word number="4">drain into</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discharge itself</word>
+				<word number="2">disembogue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pour">
+			<sg number="1">
+				<word number="1">pour</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discharge" headRef="308">pour out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shower down</word>
+				<word number="2">irrigate</word>
+				<word number="3" paraRef="wet" headRef="348">drench</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spill</word>
+				<word number="2">splash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="stanch">
+			<sg number="1">
+				<word number="1">stanch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dam</word>
+				<word number="2" paraRef="close" headRef="272">up</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="obstruct" headRef="735">obstruct</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fluent">
+			<sg number="1">
+				<word number="1">fluent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diffluent</word>
+				<word number="2">profluent</word>
+				<word number="3">affluent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tidal</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">flowing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">meandering</word>
+				<word number="2">meandry</word>
+				<word number="3">meandrous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fluvial</word>
+				<word number="2">fluviatile</word>
+			</sg>
+			<sg number="7">
+				<word number="1">streamy</word>
+				<word number="2">showery</word>
+				<word number="3">rainy</word>
+				<word number="4">pluvial</word>
+				<word number="5">stillicidous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stillatitious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="for men may come and men may go but I go on forever">
+			<sg number="1">
+				<word number="1">"for men may come and men may go but I go on forever"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"that old man river</word>
+				<word number="2">he just keeps rolling along"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

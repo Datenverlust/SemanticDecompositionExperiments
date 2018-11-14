@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="409" name="Condiment" origNum="#393." class="3" section="3" subSection="2" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="condiment">
+			<sg number="1">
+				<word number="1">condiment</word>
+				<word number="2">seasoning</word>
+				<word number="3">sauce</word>
+				<word number="4">spice</word>
+				<word number="5">relish</word>
+				<word number="6">appetizer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="salt">
+			<sg number="1">
+				<word number="1">salt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mustard</word>
+				<word number="2">grey poupon mustard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pepper</word>
+				<word number="2">black pepper</word>
+				<word number="3">white pepper</word>
+				<word number="4">peppercorn</word>
+				<word number="5">curry</word>
+				<word number="6">sauce piquante</word>
+			</sg>
+			<sg number="4">
+				<word number="1">caviare</word>
+				<word number="2">onion</word>
+				<word number="3">garlic</word>
+				<word number="4">pickle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">achar</word>
+				<word number="2">allspice</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bell pepper</word>
+				<word number="2">Jamaica pepper</word>
+				<word number="3">green pepper</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chutney</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cubeb</word>
+				<word number="2">pimento</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="capsicum">
+			<sg number="1">
+				<word number="1">capsicum</word>
+				<word number="2">red pepper</word>
+				<word number="3">chili peppers</word>
+				<word number="4">cayenne</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="nutmeg">
+			<sg number="1">
+				<word number="1">nutmeg</word>
+				<word number="2">mace</word>
+				<word number="3">cinnamon</word>
+				<word number="4">oregano</word>
+				<word number="5">cloves</word>
+				<word number="6">fennel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pot herbs">
+			<sg number="1">
+				<word number="1">pot herbs</word>
+				<word number="2">parsley</word>
+				<word number="3">sage</word>
+				<word number="4">rosemary</word>
+				<word number="5">thyme</word>
+				<word number="6">bay leaves</word>
+				<word number="7">marjoram</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="frankincense">
+			<sg number="1">
+				<word number="1">frankincense</word>
+				<word number="2">balm</word>
+				<word number="3">myrrh</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="paprika">
+			<sg number="1">
+				<word number="1">paprika</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="saffron">
+			<sg number="1">
+				<word number="1">saffron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="ginger">
+			<sg number="1">
+				<word number="1">ginger</word>
+				<word number="2">turmeric</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="season">
+			<sg number="1">
+				<word number="1">season</word>
+				<word number="2">spice</word>
+				<word number="3">flavor</word>
+				<word number="4" paraRef="render pungent" headRef="406">spice up</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

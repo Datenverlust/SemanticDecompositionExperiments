@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="WSExample.xsl"?>
+
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<collection>
+
+
+	<schema>
+		<text>
+			<txt1>
+The trophy doesn't fit into the brown suitcase because 
+			</txt1>
+			<pron> it  </pron>
+			<txt2> is too large.
+			</txt2>
+		</text>
+		<quote>
+			<pron>it </pron>
+			<quote2> is too large</quote2>
+		</quote>
+		<answers>
+			<answer>the trophy </answer>
+			<answer>the suitcase </answer>
+		</answers>
+		<correctAnswer>A  </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+The trophy doesn't fit into the brown suitcase because 
+			</txt1>
+			<pron> it  </pron>
+			<txt2> is too small.
+			</txt2>
+		</text>
+		<quote>
+			<pron>it </pron>
+			<quote2> is too small</quote2>
+		</quote>
+		<answers>
+			<answer>the trophy </answer>
+			<answer>the suitcase </answer>
+		</answers>
+		<correctAnswer>B  </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+Paul tried to call George on the phone, but 
+			</txt1>
+			<pron> he </pron>
+			<txt2> wasn't successful.
+			</txt2>
+		</text>
+		<quote>
+			<pron>he  </pron>
+			<quote2> wasn't successful.</quote2>
+		</quote>
+		<answers>
+			<answer> Paul </answer>
+			<answer> George </answer>
+		</answers>
+		<correctAnswer> A </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+Paul tried to call George on the phone, but 
+			</txt1>
+			<pron> he </pron>
+			<txt2> wasn't available.
+			</txt2>
+		</text>
+		<quote>
+			<pron>he </pron>
+			<quote2> wasn't available. </quote2>
+		</quote>
+		<answers>
+			<answer> Paul </answer>
+			<answer> George </answer>
+		</answers>
+		<correctAnswer> B </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+The man couldn't lift his son because 
+			</txt1>
+			<pron> he </pron>
+			<txt2> was so weak.
+			</txt2>
+		</text>
+		<quote>
+			<pron>he </pron>
+			<quote2>was so weak. </quote2>
+		</quote>
+		<answers>
+			<answer> The man </answer>
+			<answer> The son </answer>
+		</answers>
+		<correctAnswer> A </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+The man couldn't lift his son because 
+			</txt1>
+			<pron> he </pron>
+			<txt2> was so heavy.
+			</txt2>
+		</text>
+		<quote>
+			<pron>he </pron>
+			<quote2>was so heavy. </quote2>
+		</quote>
+		<answers>
+			<answer> The man </answer>
+			<answer> The son </answer>
+		</answers>
+		<correctAnswer> B </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+The firemen arrived after the police because 
+			</txt1>
+			<pron> they </pron>
+			<txt2> 
+were coming from so far away. </txt2>
+		</text>
+		<quote>
+			<pron> they </pron>
+			<quote2>
+were coming from so far away. 
+			</quote2>
+		</quote>
+		<answers>
+			<answer>The firemen </answer>
+			<answer>The police </answer>
+		</answers>
+		<correctAnswer> A  </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+The firemen arrived before the police because 
+			</txt1>
+			<pron> they </pron>
+			<txt2> 
+were coming from so far away. </txt2>
+		</text>
+		<quote>
+			<pron> they </pron>
+			<quote2>
+were coming from so far away. 
+			</quote2>
+		</quote>
+		<answers>
+			<answer>The firemen </answer>
+			<answer>The police </answer>
+		</answers>
+		<correctAnswer> B  </correctAnswer>
+		<source> Hector Levesque </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+Pete envies Martin although
+			</txt1>
+			<pron> he </pron>
+			<txt2> 
+is very successful.</txt2>
+		</text>
+		<quote>
+			<quote1>
+			</quote1>
+			<pron> he </pron>
+			<quote2> 
+is very successful.
+			</quote2>
+		</quote>
+		<answers>
+			<answer> Pete </answer>
+			<answer> Martin </answer>
+		</answers>
+		<correctAnswer> A  </correctAnswer>
+		<source> Ernest Davis </source>
+	</schema>
+
+
+	<schema>
+		<text>
+			<txt1>
+Pete envies Martin because
+			</txt1>
+			<pron> he </pron>
+			<txt2> 
+is very successful.</txt2>
+		</text>
+		<quote>
+			<quote1>
+			</quote1>
+			<pron> he </pron>
+			<quote2> 
+is very successful.
+			</quote2>
+		</quote>
+		<answers>
+			<answer> Pete </answer>
+			<answer> Martin </answer>
+		</answers>
+		<correctAnswer> B  </correctAnswer>
+		<source> Ernest Davis </source>
+	</schema>
+
+</collection>

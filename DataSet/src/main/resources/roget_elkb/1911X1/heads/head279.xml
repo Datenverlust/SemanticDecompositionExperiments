@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="279" name="Traveler" origNum="#268." class="2" section="4" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="traveler">
+			<sg number="1">
+				<word number="1">traveler</word>
+				<word number="2">wayfarer</word>
+				<word number="3">voyager</word>
+				<word number="4">itinerant</word>
+				<word number="5">passenger</word>
+				<word number="6">commuter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tourist">
+			<sg number="1">
+				<word number="1">tourist</word>
+				<word number="2">excursionist</word>
+				<word number="3">explorer</word>
+				<word number="4">adventurer</word>
+				<word number="5">mountaineer</word>
+				<word number="6">hiker</word>
+				<word number="7">backpacker</word>
+				<word number="8">Alpine Club</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peregrinator</word>
+				<word number="2">wanderer</word>
+				<word number="3">rover</word>
+				<word number="4">straggler</word>
+				<word number="5">rambler</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bird of passage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gadabout</word>
+				<word number="2">gadling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vagrant</word>
+				<word number="2">scatterling</word>
+				<word number="3">landloper</word>
+				<word number="4">waifs and estrays</word>
+				<word number="5">wastrel</word>
+				<word number="6">foundling</word>
+			</sg>
+			<sg number="6">
+				<word number="1">loafer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tramp</word>
+				<word number="2">tramper</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vagabond</word>
+				<word number="2">nomad</word>
+				<word number="3">Bohemian</word>
+				<word number="4">gypsy</word>
+				<word number="5">Arab</word>
+				<word number="6">Wandering Jew</word>
+				<word number="7">Hadji</word>
+				<word number="8">pilgrim</word>
+				<word number="9">palmer</word>
+			</sg>
+			<sg number="9">
+				<word number="1">peripatetic</word>
+			</sg>
+			<sg number="10">
+				<word number="1">somnambulist</word>
+				<word number="2">emigrant</word>
+				<word number="3">fugitive</word>
+				<word number="4">refugee</word>
+			</sg>
+			<sg number="11">
+				<word number="1">beach comber</word>
+				<word number="2">booly</word>
+			</sg>
+			<sg number="12">
+				<word number="1">globegirdler</word>
+				<word number="2">globetrotter</word>
+			</sg>
+			<sg number="13">
+				<word number="1">vagrant</word>
+				<word number="2">hobo</word>
+				<word number="3">night walker</word>
+				<word number="4">sleep walker</word>
+			</sg>
+			<sg number="14">
+				<word number="1">noctambulist</word>
+				<word number="2">runabout</word>
+				<word number="3">straphanger</word>
+				<word number="4">swagman</word>
+				<word number="5">swagsman</word>
+			</sg>
+			<sg number="15">
+				<word number="1">trecker</word>
+				<word number="2">trekker</word>
+				<word number="3">zingano</word>
+				<word number="4">zingaro</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">outcast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="runner">
+			<sg number="1">
+				<word number="1">runner</word>
+				<word number="2">courier</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Mercury</word>
+				<word number="2">Iris</word>
+				<word number="3">Ariel</word>
+				<word number="4">comet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pedestrian">
+			<sg number="1">
+				<word number="1">pedestrian</word>
+				<word number="2">walker</word>
+				<word number="3">foot passenger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cyclist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wheelman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="rider">
+			<sg number="1">
+				<word number="1">rider</word>
+				<word number="2">horseman</word>
+				<word number="3">equestrian</word>
+				<word number="4">cavalier</word>
+				<word number="5">jockey</word>
+				<word number="6">roughrider</word>
+				<word number="7">trainer</word>
+				<word number="8">breaker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="driver">
+			<sg number="1">
+				<word number="1">driver</word>
+				<word number="2">coachman</word>
+				<word number="3">whip</word>
+				<word number="4">Jehu</word>
+				<word number="5">charioteer</word>
+				<word number="6">postilion</word>
+				<word number="7">postboy</word>
+				<word number="8">carter</word>
+				<word number="9">wagoner</word>
+				<word number="10">drayman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cabman</word>
+				<word number="2">cabdriver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">voiturier</word>
+				<word number="2">vetturino</word>
+				<word number="3">condottiere</word>
+			</sg>
+			<sg number="4">
+				<word number="1">engine driver</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stoker</word>
+				<word number="2">fireman</word>
+				<word number="3">guard</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chauffeur</word>
+				<word number="2">conductor</word>
+				<word number="3">engineer</word>
+				<word number="4">gharry-wallah</word>
+				<word number="5">gari-wala</word>
+				<word number="6">hackman</word>
+				<word number="7">syce</word>
+				<word number="8">truckman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="racer">
+			<sg number="1">
+				<word number="1" new="1">racer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="trucker">
+			<sg number="1">
+				<word number="1" new="1">trucker</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="on the road">
+			<sg number="1">
+				<word number="1">on the road</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="739" name="Opponent" origNum="#710." class="6" section="4" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="opponent">
+			<sg number="1">
+				<word number="1">opponent</word>
+				<word number="2">antagonist</word>
+				<word number="3">adversary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adverse party</word>
+				<word number="2">opposition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="enemy" headRef="930">enemy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the other side</word>
+			</sg>
+			<sg number="5">
+				<word number="1">assailant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">herdsmen</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">browning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="oppositionist">
+			<sg number="1">
+				<word number="1">oppositionist</word>
+				<word number="2">obstructive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brawler</word>
+				<word number="2">wrangler</word>
+				<word number="3">brangler</word>
+				<word number="4">disputant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">filibuster</word>
+				<word number="2">obstructionist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="malcontent">
+			<sg number="1">
+				<word number="1">malcontent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Jacobin</word>
+				<word number="2">Fenian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">demagogue</word>
+				<word number="2">reactionist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="rival">
+			<sg number="1">
+				<word number="1">rival</word>
+				<word number="2">competitor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bete noir">
+			<sg number="1">
+				<word number="1">bete noir</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

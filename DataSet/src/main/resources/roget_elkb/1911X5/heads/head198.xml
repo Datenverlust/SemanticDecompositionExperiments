@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="198" name="Abode" origNum="#189." class="2" section="1" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="abode">
+			<sg number="1">
+				<word number="1">abode</word>
+				<word number="2">dwelling</word>
+				<word number="3">lodging</word>
+				<word number="4">domicile</word>
+				<word number="5">residence</word>
+				<word number="6">apartment</word>
+				<word number="7">place</word>
+				<word number="8">digs</word>
+				<word number="9">pad</word>
+				<word number="10">address</word>
+				<word number="11">habitation</word>
+				<word number="12">where one's lot is cast</word>
+				<word number="13">local habitation</word>
+				<word number="14">berth</word>
+				<word number="15">diggings</word>
+				<word number="16">seat</word>
+				<word number="17">lap</word>
+				<word number="18">sojourn</word>
+				<word number="19">housing</word>
+				<word number="20">quarters</word>
+				<word number="21">headquarters</word>
+				<word number="22">resiance</word>
+				<word number="23">tabernacle</word>
+				<word number="24">throne</word>
+				<word number="25">ark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="home">
+			<sg number="1">
+				<word number="1">home</word>
+				<word number="2">fatherland</word>
+			</sg>
+			<sg number="2">
+				<word number="1">country</word>
+			</sg>
+			<sg number="3">
+				<word number="1">homestead</word>
+				<word number="2">homestall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fireside</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hearth</word>
+				<word number="2">hearth stone</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chimney corner</word>
+				<word number="2">inglenook</word>
+				<word number="3">ingle side</word>
+			</sg>
+			<sg number="7">
+				<word number="1">harem</word>
+				<word number="2">seraglio</word>
+				<word number="3">zenana</word>
+			</sg>
+			<sg number="8">
+				<word number="1">household gods</word>
+				<word number="2">lares et penates</word>
+				<word number="3">roof</word>
+				<word number="4">household</word>
+				<word number="5">housing</word>
+				<word number="6">dulce domum</word>
+				<word number="7">paternal domicile</word>
+			</sg>
+			<sg number="9">
+				<word number="1">native soil</word>
+				<word number="2">native land</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="habitat">
+			<sg number="1">
+				<word number="1">habitat</word>
+				<word number="2">range</word>
+				<word number="3">stamping ground</word>
+			</sg>
+			<sg number="2">
+				<word number="1">haunt</word>
+				<word number="2">hangout</word>
+			</sg>
+			<sg number="3">
+				<word number="1">biosphere</word>
+			</sg>
+			<sg number="4">
+				<word number="1">environment</word>
+				<word number="2">ecological niche</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="nest">
+			<sg number="1">
+				<word number="1">nest</word>
+				<word number="2">nidus</word>
+				<word number="3">snuggery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arbor</word>
+				<word number="2" paraRef="bower" headRef="200">bower</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lair</word>
+				<word number="2">den</word>
+				<word number="3">cave</word>
+				<word number="4">hole</word>
+				<word number="5">hiding place</word>
+				<word number="6">cell</word>
+				<word number="7">sanctum sanctorum</word>
+				<word number="8">aerie</word>
+				<word number="9">eyrie</word>
+				<word number="10">eyry</word>
+				<word number="11">rookery</word>
+				<word number="12">hive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">covert</word>
+				<word number="2">resort</word>
+				<word number="3">retreat</word>
+				<word number="4">perch</word>
+				<word number="5">roost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nidification</word>
+			</sg>
+			<sg number="6">
+				<word number="1">kala jagah</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bivouac">
+			<sg number="1">
+				<word number="1">bivouac</word>
+				<word number="2">camp</word>
+				<word number="3">encampment</word>
+				<word number="4">cantonment</word>
+				<word number="5">castrametation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">barrack</word>
+				<word number="2">casemate</word>
+				<word number="3">casern</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="tent">
+			<sg number="1">
+				<word number="1" paraRef="covering" headRef="233">tent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="construction" headRef="168">building</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="receptacle" headRef="200">chamber</word>
+			</sg>
+			<sg number="4">
+				<word number="1">xenodochium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="tenement">
+			<sg number="1">
+				<word number="1">tenement</word>
+				<word number="2">messuage</word>
+				<word number="3">farm</word>
+				<word number="4">farmhouse</word>
+				<word number="5">grange</word>
+				<word number="6">hacienda</word>
+				<word number="7">toft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="cot">
+			<sg number="1">
+				<word number="1">cot</word>
+				<word number="2">cabin</word>
+				<word number="3">hut</word>
+				<word number="4">chalet</word>
+				<word number="5">croft</word>
+				<word number="6">shed</word>
+				<word number="7">booth</word>
+				<word number="8">stall</word>
+				<word number="9">hovel</word>
+				<word number="10">bothy</word>
+				<word number="11">shanty</word>
+				<word number="12">dugout</word>
+				<word number="13">wigwam</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inclosure" headRef="242">pen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">barn</word>
+				<word number="2">bawn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">kennel</word>
+				<word number="2">sty</word>
+				<word number="3">doghold</word>
+				<word number="4">cote</word>
+				<word number="5">coop</word>
+				<word number="6">hutch</word>
+				<word number="7">byre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cow house</word>
+				<word number="2">cow shed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stable</word>
+				<word number="2">dovecote</word>
+				<word number="3">columbary</word>
+				<word number="4">columbarium</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shippen</word>
+			</sg>
+			<sg number="8">
+				<word number="1">igloo</word>
+				<word number="2">iglu</word>
+				<word number="3">jacal</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lacustrine dwelling</word>
+				<word number="2">lacuslake dwelling</word>
+				<word number="3">lacuspile dwelling</word>
+			</sg>
+			<sg number="10">
+				<word number="1">log cabin</word>
+				<word number="2">log house</word>
+			</sg>
+			<sg number="11">
+				<word number="1">shack</word>
+				<word number="2">shebang*</word>
+				<word number="3">tepee</word>
+				<word number="4">topek</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="house">
+			<sg number="1">
+				<word number="1">house</word>
+				<word number="2">mansion</word>
+				<word number="3">place</word>
+				<word number="4">villa</word>
+				<word number="5">cottage</word>
+				<word number="6">box</word>
+				<word number="7">lodge</word>
+				<word number="8">hermitage</word>
+				<word number="9">rus in urbe</word>
+				<word number="10">folly</word>
+				<word number="11">rotunda</word>
+				<word number="12">tower</word>
+				<word number="13">chateau</word>
+				<word number="14">castle</word>
+				<word number="15">pavilion</word>
+				<word number="16">hotel</word>
+				<word number="17">court</word>
+				<word number="18">manor-house</word>
+				<word number="19">capital messuage</word>
+				<word number="20">hall</word>
+				<word number="21">palace</word>
+				<word number="22" new="1">complex</word>
+				<word number="23" new="1">estate</word>
+				<word number="24" new="1">manor</word>
+				<word number="25" new="1">museum</word>
+				<word number="26" new="2">louvre</word>
+				<word number="27" new="2">theatre</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kiosk</word>
+				<word number="2">bungalow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">casa</word>
+				<word number="2">country seat</word>
+				<word number="3">apartment house</word>
+				<word number="4">flat house</word>
+				<word number="5">frame house</word>
+				<word number="6">shingle house</word>
+				<word number="7">tenement house</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="temple" headRef="1044">temple</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">church</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">abbey</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="2">cemetery</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="2">priory</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="3">churchyard</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="3">convent</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="3">minster</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="3">monastery</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="4">friary</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="4">nunnery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="hamlet">
+			<sg number="1">
+				<word number="1">hamlet</word>
+				<word number="2">village</word>
+				<word number="3">thorp</word>
+				<word number="4">dorp</word>
+				<word number="5">ham</word>
+				<word number="6">kraal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">borough</word>
+				<word number="2">burgh</word>
+				<word number="3">town</word>
+				<word number="4">city</word>
+				<word number="5">capital</word>
+				<word number="6">metropolis</word>
+				<word number="7" new="1">birthplace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suburb</word>
+			</sg>
+			<sg number="4">
+				<word number="1">province</word>
+				<word number="2">country</word>
+			</sg>
+			<sg number="5">
+				<word number="1">county town</word>
+				<word number="2">county seat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">courthouse</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ghetto</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="2">locality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="street">
+			<sg number="1">
+				<word number="1">street</word>
+				<word number="2">place</word>
+				<word number="3">terrace</word>
+				<word number="4">parade</word>
+				<word number="5">esplanade</word>
+				<word number="6">alameda</word>
+				<word number="7">board walk</word>
+				<word number="8">embankment</word>
+				<word number="9">road</word>
+				<word number="10">row</word>
+				<word number="11">lane</word>
+				<word number="12">alley</word>
+				<word number="13">court</word>
+				<word number="14">quadrangle</word>
+				<word number="15">quad</word>
+				<word number="16">wynd</word>
+				<word number="17">close</word>
+				<word number="18">yard</word>
+				<word number="19">passage</word>
+				<word number="20">rents</word>
+				<word number="21">buildings</word>
+				<word number="22">mews</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="square">
+			<sg number="1">
+				<word number="1">square</word>
+				<word number="2">polygon</word>
+				<word number="3">circus</word>
+				<word number="4">crescent</word>
+				<word number="5">mall</word>
+				<word number="6">piazza</word>
+				<word number="7">arcade</word>
+				<word number="8">colonnade</word>
+				<word number="9">peristyle</word>
+				<word number="10">cloister</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gardens</word>
+				<word number="2">grove</word>
+				<word number="3">residences</word>
+			</sg>
+			<sg number="3">
+				<word number="1">block of buildings</word>
+				<word number="2">market place</word>
+				<word number="3">place</word>
+				<word number="4">plaza</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="anchorage">
+			<sg number="1">
+				<word number="1">anchorage</word>
+				<word number="2">roadstead</word>
+				<word number="3">roads</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dock</word>
+				<word number="2">basin</word>
+				<word number="3">wharf</word>
+				<word number="4">quay</word>
+				<word number="5">port</word>
+				<word number="6">harbor</word>
+				<word number="7" new="2">jetty</word>
+				<word number="8" new="3">breakwater</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="quarter">
+			<sg number="1">
+				<word number="1">quarter</word>
+				<word number="2" paraRef="region" headRef="190">parish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="assembly room">
+			<sg number="1">
+				<word number="1">assembly room</word>
+				<word number="2">meetinghouse</word>
+				<word number="3">pump room</word>
+				<word number="4">spa</word>
+				<word number="5">watering place</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hostel</word>
+				<word number="2">hostelry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hotel</word>
+				<word number="2">tavern</word>
+				<word number="3">caravansary</word>
+				<word number="4">dak bungalow</word>
+				<word number="5">khan</word>
+				<word number="6">hospice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">public house</word>
+				<word number="2">pub</word>
+				<word number="3">pot house</word>
+				<word number="4">mug house</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gin mill</word>
+				<word number="2">gin palace</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bar</word>
+				<word number="2">bar room</word>
+			</sg>
+			<sg number="8">
+				<word number="1">barrel house*</word>
+				<word number="2">cabaret</word>
+				<word number="3">chophouse</word>
+			</sg>
+			<sg number="9">
+				<word number="1">club</word>
+				<word number="2">clubhouse</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cookshop</word>
+				<word number="2">dive</word>
+				<word number="3">exchange</word>
+			</sg>
+			<sg number="11">
+				<word number="1">grill room</word>
+				<word number="2">saloon</word>
+				<word number="3">shebeen</word>
+			</sg>
+			<sg number="12">
+				<word number="1">coffee house</word>
+				<word number="2">eating house</word>
+			</sg>
+			<sg number="13">
+				<word number="1">canteen</word>
+				<word number="2">restaurant</word>
+				<word number="3">buffet</word>
+				<word number="4">cafe</word>
+				<word number="5">estaminet</word>
+				<word number="6">posada</word>
+			</sg>
+			<sg number="14">
+				<word number="1">almshouse</word>
+				<word number="2">poorhouse</word>
+				<word number="3">townhouse</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">brothel</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">diner</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="5">dispensary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="garden">
+			<sg number="1">
+				<word number="1">garden</word>
+				<word number="2">park</word>
+				<word number="3">pleasure ground</word>
+				<word number="4">plaisance</word>
+				<word number="5">demesne</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="cage">
+			<sg number="1">
+				<word number="1">cage</word>
+				<word number="2">terrarium</word>
+				<word number="3">doghouse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pen</word>
+				<word number="2">aviary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">barn</word>
+				<word number="2">stall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">zoo</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">aquarium</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">menagerie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="capitol">
+			<sg number="1">
+				<word number="1" new="1">capitol</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="chapel">
+			<sg number="1">
+				<word number="1" new="1">chapel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="duplex">
+			<sg number="1">
+				<word number="1" new="1">duplex</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="garage">
+			<sg number="1">
+				<word number="1" new="1">garage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="granary">
+			<sg number="1">
+				<word number="1" new="1">granary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="lawn">
+			<sg number="1">
+				<word number="1" new="1">lawn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="lighthouse">
+			<sg number="1">
+				<word number="1" new="1">lighthouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="neighborhood">
+			<sg number="1">
+				<word number="1" new="1">neighborhood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="paddock">
+			<sg number="1">
+				<word number="1" new="1">paddock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="pier">
+			<sg number="1">
+				<word number="1" new="1">pier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="ranch">
+			<sg number="1">
+				<word number="1" new="1">ranch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="storehouse">
+			<sg number="1">
+				<word number="1" new="1">storehouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="warehouse">
+			<sg number="1">
+				<word number="1" new="1">warehouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="windmill">
+			<sg number="1">
+				<word number="1" new="1">windmill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="workhouse">
+			<sg number="1">
+				<word number="1" new="1">workhouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="arboretum">
+			<sg number="1">
+				<word number="1" new="2">arboretum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="armory">
+			<sg number="1">
+				<word number="1" new="2">armory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="bridge">
+			<sg number="1">
+				<word number="1" new="2">bridge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="cathedral">
+			<sg number="1">
+				<word number="1" new="2">cathedral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="cellar">
+			<sg number="1">
+				<word number="1" new="2">cellar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="38" name="corral">
+			<sg number="1">
+				<word number="1" new="2">corral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="39" name="derelict">
+			<sg number="1">
+				<word number="1" new="2">derelict</word>
+			</sg>
+		</paragraph>
+		<paragraph number="40" name="gallery">
+			<sg number="1">
+				<word number="1" new="2">gallery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="41" name="greenhouse">
+			<sg number="1">
+				<word number="1" new="2">greenhouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="42" name="hangar">
+			<sg number="1">
+				<word number="1" new="2">hangar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="43" name="jail">
+			<sg number="1">
+				<word number="1" new="2">jail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="44" name="loft">
+			<sg number="1">
+				<word number="1" new="2">loft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="45" name="mosque">
+			<sg number="1">
+				<word number="1" new="2">mosque</word>
+			</sg>
+		</paragraph>
+		<paragraph number="46" name="parterre">
+			<sg number="1">
+				<word number="1" new="2">parterre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="47" name="prison">
+			<sg number="1">
+				<word number="1" new="2">prison</word>
+			</sg>
+		</paragraph>
+		<paragraph number="48" name="rectory">
+			<sg number="1">
+				<word number="1" new="2">rectory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="49" name="slum">
+			<sg number="1">
+				<word number="1" new="2">slum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="50" name="storeroom">
+			<sg number="1">
+				<word number="1" new="2">storeroom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="51" name="synagogue">
+			<sg number="1">
+				<word number="1" new="2">synagogue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="52" name="asylum">
+			<sg number="1">
+				<word number="1" new="3">asylum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="53" name="basilica">
+			<sg number="1">
+				<word number="1" new="3">basilica</word>
+			</sg>
+		</paragraph>
+		<paragraph number="54" name="crematorium">
+			<sg number="1">
+				<word number="1" new="3">crematorium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="55" name="gaol">
+			<sg number="1">
+				<word number="1" new="3">gaol</word>
+			</sg>
+		</paragraph>
+		<paragraph number="56" name="library">
+			<sg number="1">
+				<word number="1" new="3">library</word>
+			</sg>
+		</paragraph>
+		<paragraph number="57" name="manse">
+			<sg number="1">
+				<word number="1" new="3">manse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="58" name="subdivision">
+			<sg number="1">
+				<word number="1" new="3">subdivision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="59" name="campus">
+			<sg number="1">
+				<word number="1" new="4">campus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="60" name="edifice">
+			<sg number="1">
+				<word number="1" new="4">edifice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="61" name="infirmary">
+			<sg number="1">
+				<word number="1" new="4">infirmary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="62" name="office">
+			<sg number="1">
+				<word number="1" new="4">office</word>
+			</sg>
+		</paragraph>
+		<paragraph number="63" name="parsonage">
+			<sg number="1">
+				<word number="1" new="4">parsonage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="64" name="sanatorium">
+			<sg number="1">
+				<word number="1" new="4">sanatorium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="65" name="shrine">
+			<sg number="1">
+				<word number="1" new="4">shrine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="66" name="vicarage">
+			<sg number="1">
+				<word number="1" new="4">vicarage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="67" name="district">
+			<sg number="1">
+				<word number="1" new="5">district</word>
+			</sg>
+		</paragraph>
+		<paragraph number="68" name="mausoleum">
+			<sg number="1">
+				<word number="1" new="5">mausoleum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="69" name="mortuary">
+			<sg number="1">
+				<word number="1" new="5">mortuary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="70" name="refectory">
+			<sg number="1">
+				<word number="1" new="5">refectory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="71" name="sanctuary">
+			<sg number="1">
+				<word number="1" new="5">sanctuary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="72" name="skyscraper">
+			<sg number="1">
+				<word number="1" new="5">skyscraper</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="take up one's abode">
+			<sg number="1">
+				<word number="1" paraRef="locate oneself" headRef="193">take up one's abode</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be present" headRef="195">inhabit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="urban">
+			<sg number="1">
+				<word number="1">urban</word>
+				<word number="2">metropolitan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suburban</word>
+			</sg>
+			<sg number="3">
+				<word number="1">provincial</word>
+				<word number="2">rural</word>
+				<word number="3">rustic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">domestic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cosmopolitan</word>
+			</sg>
+			<sg number="6">
+				<word number="1">palatial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="eigner Hert ist goldes Werth">
+			<sg number="1">
+				<word number="1">eigner Hert ist goldes Werth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"even cities have their graves"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ubi libertas ibi patria</word>
+			</sg>
+			<sg number="4">
+				<word number="1">home sweet home</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

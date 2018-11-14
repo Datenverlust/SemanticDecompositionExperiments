@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="890" name="Vulgarity" origNum="#851." class="8" section="2" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vulgarity">
+			<sg number="1">
+				<word number="1">vulgarity</word>
+				<word number="2">vulgarism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">barbarism</word>
+				<word number="2">Vandalism</word>
+				<word number="3">Gothicism!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mauvis gout</word>
+				<word number="2">bad taste</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gaucherie</word>
+				<word number="2">awkwardness</word>
+				<word number="3">want of tact</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="discourtesy" headRef="934">ill-breeding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="courseness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">courseness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indecorum</word>
+				<word number="2">misbehavior</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lowness">
+			<sg number="1">
+				<word number="1">lowness</word>
+				<word number="2">homeliness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">low life</word>
+				<word number="2">mauvais ton</word>
+				<word number="3">rusticity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">boorishness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">brutality</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rowdyism</word>
+				<word number="2">blackguardism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ribaldry</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="neology" headRef="589">slang</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bad joke">
+			<sg number="1">
+				<word number="1">bad joke</word>
+				<word number="2">mauvais plaisanterie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="gaudiness">
+			<sg number="1">
+				<word number="1">gaudiness</word>
+				<word number="2">tawdriness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">false ornament</word>
+			</sg>
+			<sg number="3">
+				<word number="1">finery</word>
+				<word number="2">frippery</word>
+				<word number="3">trickery</word>
+				<word number="4">tinsel</word>
+				<word number="5">gewgaw</word>
+				<word number="6">clinquant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">baroque</word>
+				<word number="2">rococo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rough diamond">
+			<sg number="1">
+				<word number="1">rough diamond</word>
+				<word number="2">tomboy</word>
+				<word number="3">hoyden</word>
+				<word number="4">cub</word>
+				<word number="5">unlicked cub</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="commonalty" headRef="915">clown</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Goth</word>
+				<word number="2">Vandal</word>
+				<word number="3">Boeotian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snob</word>
+				<word number="2">cad</word>
+				<word number="3">gent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="parvenu" headRef="915">parvenu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">frump</word>
+				<word number="2">dowdy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="slattern" headRef="682">slattern</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be vulgar">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be vulgar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misbehave</word>
+			</sg>
+			<sg number="3">
+				<word number="1">talk shop</word>
+				<word number="2">smell of the shop</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in bad taste vulgar">
+			<sg number="1">
+				<word number="1">in bad taste vulgar</word>
+				<word number="2">unrefined</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coarse">
+			<sg number="1">
+				<word number="1">coarse</word>
+				<word number="2">indecorous</word>
+				<word number="3">ribald</word>
+				<word number="4">gross</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unseemly</word>
+				<word number="2">unbeseeming</word>
+				<word number="3">unpresentable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contra bonos mores</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ugly" headRef="884">ungraceful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dowdy">
+			<sg number="1">
+				<word number="1">dowdy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dirty" headRef="682">slovenly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ungenteel</word>
+				<word number="2">shabby genteel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">low</word>
+				<word number="2">common</word>
+				<word number="3" paraRef="plebeian" headRef="915">hoi polloi</word>
+			</sg>
+			<sg number="5">
+				<word number="1">uncourtly</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="discourteous" headRef="934">uncivil</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ill bred</word>
+				<word number="2">ill mannered</word>
+			</sg>
+			<sg number="8">
+				<word number="1">underbred</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ungentlemanly</word>
+				<word number="2">ungentlemanlike</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unladylike</word>
+				<word number="2">unfeminine</word>
+			</sg>
+			<sg number="11">
+				<word number="1">wild</word>
+				<word number="2">wild as an unbacked colt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="untutored">
+			<sg number="1">
+				<word number="1">untutored</word>
+				<word number="2" paraRef="ignorant" headRef="515">unschooled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unkempt">
+			<sg number="1">
+				<word number="1">unkempt</word>
+				<word number="2">uncombed</word>
+				<word number="3">untamed</word>
+				<word number="4">unlicked</word>
+				<word number="5">unpolished</word>
+				<word number="6">uncouth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plebeian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incondite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heavy</word>
+				<word number="2">rude</word>
+				<word number="3">awkward</word>
+			</sg>
+			<sg number="5">
+				<word number="1">homely</word>
+				<word number="2">homespun</word>
+				<word number="3">home bred</word>
+			</sg>
+			<sg number="6">
+				<word number="1">provincial</word>
+				<word number="2">countrified</word>
+				<word number="3">rustic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">boorish</word>
+				<word number="2">clownish</word>
+			</sg>
+			<sg number="8">
+				<word number="1">savage</word>
+				<word number="2">brutish</word>
+				<word number="3">blackguard</word>
+				<word number="4">rowdy</word>
+				<word number="5">snobbish</word>
+			</sg>
+			<sg number="9">
+				<word number="1">barbarous</word>
+				<word number="2">barbaric</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Gothic</word>
+				<word number="2">unclassical</word>
+				<word number="3">doggerel</word>
+				<word number="4">heathenish</word>
+				<word number="5">tramontane</word>
+				<word number="6">outlandish</word>
+			</sg>
+			<sg number="11">
+				<word number="1">uncultivated</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Bohemian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="obsolete">
+			<sg number="1">
+				<word number="1" paraRef="antiquated" headRef="130">obsolete</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfashionable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unfamiliar" headRef="87">newfangled</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ridiculous" headRef="892">odd</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="particular">
+			<sg number="1">
+				<word number="1">particular</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="affected" headRef="894">affected</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meretricious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extravagant</word>
+				<word number="2">monstrous</word>
+				<word number="3">horrid</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="painful" headRef="868">shocking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="gaudy">
+			<sg number="1">
+				<word number="1">gaudy</word>
+				<word number="2">tawdry</word>
+				<word number="3">overornamented</word>
+				<word number="4">baroque</word>
+				<word number="5">rococo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bedizened</word>
+				<word number="2">tricked out</word>
+				<word number="3">gingerbread</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obtrusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

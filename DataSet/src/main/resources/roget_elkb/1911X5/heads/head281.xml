@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="281" name="Transference" origNum="#270." class="2" section="4" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="transfer">
+			<sg number="1">
+				<word number="1">transfer</word>
+				<word number="2">transference</word>
+			</sg>
+			<sg number="2">
+				<word number="1">translocation</word>
+				<word number="2">elocation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">displacement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">metastasis</word>
+				<word number="2">metathesis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">removal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">remotion</word>
+				<word number="2">amotion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">relegation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">deportation</word>
+				<word number="2">asportation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">extradition</word>
+				<word number="2">conveyance</word>
+				<word number="3">draft</word>
+				<word number="4">carrying</word>
+				<word number="5">carriage</word>
+			</sg>
+			<sg number="10">
+				<word number="1">convection</word>
+				<word number="2">conduction</word>
+				<word number="3">contagion</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="transfer" headRef="816">transfer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="transit">
+			<sg number="1">
+				<word number="1">transit</word>
+				<word number="2">transition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">passage</word>
+				<word number="2">ferry</word>
+				<word number="3">gestation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">portage</word>
+				<word number="2">porterage</word>
+				<word number="3">carting</word>
+				<word number="4">cartage</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">shoveling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vection</word>
+				<word number="2">vecture</word>
+				<word number="3">vectitation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shipment</word>
+				<word number="2">freight</word>
+				<word number="3">wafture</word>
+			</sg>
+			<sg number="7">
+				<word number="1">transmission</word>
+				<word number="2">transport</word>
+				<word number="3">transportation</word>
+				<word number="4">importation</word>
+				<word number="5">exportation</word>
+				<word number="6">transumption</word>
+				<word number="7">transplantation</word>
+				<word number="8">translation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">shifting</word>
+				<word number="2">dodging</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="dispersion" headRef="77">dispersion</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="interchange" headRef="155">transposition</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="traction" headRef="296">traction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drift">
+			<sg number="1">
+				<word number="1">drift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="access">
+			<sg number="1">
+				<word number="1" new="1">access</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="delivery">
+			<sg number="1">
+				<word number="1" new="1">delivery</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="transfer">
+			<sg number="1">
+				<word number="1">transfer</word>
+				<word number="2">transmit</word>
+				<word number="3">transport</word>
+				<word number="4">transplace</word>
+				<word number="5">transplant</word>
+				<word number="6">translocate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">convey</word>
+				<word number="2">carry</word>
+				<word number="3">bear</word>
+				<word number="4">fetch and carry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">carry over</word>
+				<word number="2">ferry over</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hand pass</word>
+				<word number="2">forward</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shift</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conduct</word>
+				<word number="2">convoy</word>
+				<word number="3">bring</word>
+				<word number="4">fetch</word>
+				<word number="5">reach</word>
+				<word number="6" new="1">land</word>
+				<word number="7" new="1">pass</word>
+				<word number="8" new="2">hit</word>
+				<word number="9" new="3">sweep</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tote</word>
+			</sg>
+			<sg number="8">
+				<word number="1">port</word>
+				<word number="2">import</word>
+				<word number="3">export</word>
+				<word number="4" new="1">procure</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">supply</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="2">market</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="send">
+			<sg number="1">
+				<word number="1">send</word>
+				<word number="2">delegate</word>
+				<word number="3">consign</word>
+				<word number="4">relegate</word>
+				<word number="5">turn over to</word>
+				<word number="6">deliver</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ship</word>
+				<word number="2">embark</word>
+			</sg>
+			<sg number="3">
+				<word number="1">waft</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shunt</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="interchange" headRef="155">transpose</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="displace" headRef="194">displace</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="throw" headRef="295">throw</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="drag" headRef="296">drag</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mail</word>
+				<word number="2">post</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">catch</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">hand</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">tender</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shovel">
+			<sg number="1">
+				<word number="1">shovel</word>
+				<word number="2">ladle</word>
+				<word number="3">decant</word>
+				<word number="4">draft off</word>
+				<word number="5">transfuse</word>
+				<word number="6">infuse</word>
+				<word number="7">siphon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="transferred">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">transferred</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drifted</word>
+				<word number="2">movable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">portable</word>
+				<word number="2">portative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mailable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contagious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="from hand to hand">
+			<sg number="1">
+				<word number="1">from hand to hand</word>
+				<word number="2">from pillar to post</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="on the way">
+			<sg number="1">
+				<word number="1">on the way</word>
+				<word number="2">by the way</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the road</word>
+				<word number="2">on the wing</word>
+				<word number="3">under way</word>
+				<word number="4">in transit</word>
+				<word number="5">on course</word>
+			</sg>
+			<sg number="3">
+				<word number="1">as one goes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in transitu</word>
+				<word number="2">en route</word>
+				<word number="3">chemin faisant</word>
+				<word number="4">en passant</word>
+				<word number="5">in mid progress</word>
+				<word number="6">in mid course</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

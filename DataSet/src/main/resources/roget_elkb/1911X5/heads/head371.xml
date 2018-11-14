@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="371" name="Life" origNum="#359." class="3" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="life">
+			<sg number="1">
+				<word number="1">life</word>
+				<word number="2">vitality</word>
+				<word number="3">viability</word>
+			</sg>
+			<sg number="2">
+				<word number="1">animation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vital spark</word>
+				<word number="2">vital flame</word>
+				<word number="3">soul</word>
+				<word number="4">spirit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="respiration">
+			<sg number="1">
+				<word number="1">respiration</word>
+				<word number="2">wind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">breath of life</word>
+				<word number="2">breath of one's nostrils</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oxygen</word>
+				<word number="2">air</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="respirator">
+			<sg number="1">
+				<word number="1">respirator</word>
+				<word number="2">artificial respirator</word>
+				<word number="3">heart and lung machine</word>
+				<word number="4">iron lung</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="medical devices" headRef="691">medical devices</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lifeblood">
+			<sg number="1">
+				<word number="1">lifeblood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Archeus</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="existence" headRef="1">existence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="vivification">
+			<sg number="1">
+				<word number="1">vivification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vital force</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vitalization</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="revivification" headRef="170">revivification</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Prometheus</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="destiny" headRef="159">life to come</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="physiology">
+			<sg number="1">
+				<word number="1">physiology</word>
+				<word number="2">biology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">animal ecology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="nourishment">
+			<sg number="1">
+				<word number="1">nourishment</word>
+				<word number="2" paraRef="food" headRef="309">staff of life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="genetics">
+			<sg number="1">
+				<word number="1">genetics</word>
+				<word number="2">heredity</word>
+				<word number="3">inheritance</word>
+				<word number="4">evolution</word>
+				<word number="5">natural selection</word>
+				<word number="6" paraRef="production" headRef="168">reproduction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="microbe">
+			<sg number="1">
+				<word number="1">microbe</word>
+				<word number="2">aerobe</word>
+				<word number="3">anaerobe</word>
+				<word number="4">facultative anaerobe</word>
+				<word number="5">obligate aerobe</word>
+				<word number="6">obligate anaerobe</word>
+				<word number="7">halophile</word>
+				<word number="8">methanogen</word>
+				<word number="9">archaebacteria</word>
+				<word number="10">microaerophile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="animal">
+			<sg number="1">
+				<word number="1" paraRef="animal" headRef="378">animal</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vegetable" headRef="379">vegetable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="artificial life">
+			<sg number="1">
+				<word number="1">artificial life</word>
+				<word number="2">robot</word>
+				<word number="3">robotics</word>
+				<word number="4">artificial intelligence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="breathing">
+			<sg number="1">
+				<word number="1">breathing</word>
+				<word number="2">breathing rate</word>
+				<word number="3">heartbeat</word>
+				<word number="4">pulse</word>
+				<word number="5">temperature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="preservation of life">
+			<sg number="1">
+				<word number="1">preservation of life</word>
+				<word number="2" paraRef="medicine" headRef="691">healing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be alive">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be alive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">live</word>
+				<word number="2">breathe</word>
+				<word number="3">respire</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="exist" headRef="1">subsist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">walk the earth "strut and fret one's hour upon the stage"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be spared</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="see the light">
+			<sg number="1">
+				<word number="1">see the light</word>
+				<word number="2">be born</word>
+				<word number="3">come into the world</word>
+				<word number="4">fetch breath</word>
+				<word number="5">draw breath</word>
+				<word number="6">fetch the breath of life</word>
+				<word number="7">draw the breath of life</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quicken</word>
+			</sg>
+			<sg number="3">
+				<word number="1">revive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come to life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="give birth to">
+			<sg number="1">
+				<word number="1" paraRef="produce" headRef="168">give birth to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring to life</word>
+				<word number="2">put into life</word>
+				<word number="3">vitalize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vivify</word>
+				<word number="2">vivificate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="restore" headRef="689">reanimate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">keep alive</word>
+				<word number="2">keep body and soul together</word>
+				<word number="3">keep the wolf from the door</word>
+			</sg>
+			<sg number="6">
+				<word number="1">support life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hive nine lives like a cat">
+			<sg number="1">
+				<word number="1">hive nine lives like a cat</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="living">
+			<sg number="1">
+				<word number="1">living</word>
+				<word number="2">alive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in life</word>
+				<word number="2">in the flesh</word>
+				<word number="3">in the land of the living</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on this side of the grave</word>
+				<word number="2">above ground</word>
+				<word number="3">breathing</word>
+				<word number="4">quick</word>
+				<word number="5">animated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">animative</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="active" headRef="711">lively</word>
+			</sg>
+			<sg number="6">
+				<word number="1">all alive and kicking</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tenacious of life</word>
+			</sg>
+			<sg number="8">
+				<word number="1">full of life</word>
+				<word number="2">yeasty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vital">
+			<sg number="1">
+				<word number="1">vital</word>
+				<word number="2">vitalic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vivifying</word>
+				<word number="2" paraRef="" posRef="v.">vivified</word>
+			</sg>
+			<sg number="3">
+				<word number="1">viable</word>
+				<word number="2">zoetic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Promethean</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="vivendi causa">
+			<sg number="1">
+				<word number="1">vivendi causa</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="atqui vivere militare est">
+			<sg number="1">
+				<word number="1">atqui vivere militare est</word>
+			</sg>
+			<sg number="2">
+				<word number="1">non est vivere sed valere vita</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

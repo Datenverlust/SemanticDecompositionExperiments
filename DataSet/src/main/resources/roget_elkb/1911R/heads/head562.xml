@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="562" name="Negation" origNum="#536." class="5" section="2" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="negation">
+			<sg number="1">
+				<word number="1">negation</word>
+				<word number="2">abnegation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">denial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disavowal</word>
+				<word number="2">disclaimer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abjuration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contradiction</word>
+				<word number="2">contravention</word>
+			</sg>
+			<sg number="6">
+				<word number="1">recusation</word>
+				<word number="2">protest</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="dissent" headRef="513">recusancy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">flat contradiction</word>
+				<word number="2">emphatic contradiction</word>
+				<word number="3">emphatic denial</word>
+				<word number="4">dementi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="qualification">
+			<sg number="1">
+				<word number="1" paraRef="qualification" headRef="492">qualification</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="repudiation" headRef="638">repudiation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="retraction" headRef="634">retraction</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="confutation" headRef="502">confutation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="refusal" headRef="795">refusal</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="prohibition" headRef="792">prohibition</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="deny">
+			<sg number="1">
+				<word number="1">deny</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contradict</word>
+				<word number="2">contravene</word>
+			</sg>
+			<sg number="3">
+				<word number="1">controvert</word>
+				<word number="2">give denial to</word>
+				<word number="3">gainsay</word>
+				<word number="4">negative</word>
+				<word number="5">shake the head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disown">
+			<sg number="1">
+				<word number="1">disown</word>
+				<word number="2">disaffirm</word>
+				<word number="3">disclaim</word>
+				<word number="4">disavow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recant" headRef="634">recant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="abrogate" headRef="787">revoke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dispute">
+			<sg number="1">
+				<word number="1">dispute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impugn</word>
+				<word number="2">traverse</word>
+				<word number="3">rebut</word>
+				<word number="4">join issue upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bring in question</word>
+				<word number="2" paraRef="doubt" headRef="509">call in question</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give (one) the lie in his throat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deny flatly">
+			<sg number="1">
+				<word number="1">deny flatly</word>
+				<word number="2">deny peremptorily</word>
+				<word number="3">deny emphatically</word>
+				<word number="4">deny absolutely</word>
+				<word number="5">deny wholly</word>
+				<word number="6">deny entirely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give the lie to</word>
+				<word number="2">belie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="repudiate">
+			<sg number="1">
+				<word number="1" paraRef="repudiate" headRef="638">repudiate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set aside</word>
+				<word number="2" paraRef="ignore" headRef="480">ignore</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="confute" headRef="502">rebut</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="qualify" headRef="492">qualify</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="refuse" headRef="795">refuse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="recuse">
+			<sg number="1">
+				<word number="1">recuse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="burr">
+			<sg number="1">
+				<word number="1" new="1">burr</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="denying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">denying</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">denied</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contradictory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">negative</word>
+				<word number="2">negatory</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="dissenting" headRef="513">recusant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at issue upon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="no">
+			<sg number="1">
+				<word number="1">no</word>
+				<word number="2">nay</word>
+				<word number="3">not</word>
+				<word number="4">nowise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not a bit</word>
+				<word number="2">not a whit</word>
+				<word number="3">not a jot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not at all</word>
+				<word number="2">nohow</word>
+				<word number="3">not in the least</word>
+				<word number="4">not so</word>
+			</sg>
+			<sg number="4">
+				<word number="1">negative</word>
+				<word number="2">negatory</word>
+			</sg>
+			<sg number="5">
+				<word number="1">no way</word>
+			</sg>
+			<sg number="6">
+				<word number="1">no such thing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nothing of the kind</word>
+				<word number="2">nothing of the sort</word>
+			</sg>
+			<sg number="8">
+				<word number="1">quite the contrary</word>
+				<word number="2">tout au contraire</word>
+				<word number="3">far from it</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tant s'en faut</word>
+			</sg>
+			<sg number="10">
+				<word number="1">on no account</word>
+				<word number="2">in no respect</word>
+			</sg>
+			<sg number="11">
+				<word number="1">by no</word>
+				<word number="2">by no manner of means</word>
+			</sg>
+			<sg number="12">
+				<word number="1">negatively</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="never">
+			<sg number="1">
+				<word number="1">never</word>
+				<word number="2">never in a million years</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at no time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="there never was a greater mistake">
+			<sg number="1">
+				<word number="1">there never was a greater mistake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">I know better</word>
+			</sg>
+			<sg number="3">
+				<word number="1">non haec in faedera</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a thousand times no</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

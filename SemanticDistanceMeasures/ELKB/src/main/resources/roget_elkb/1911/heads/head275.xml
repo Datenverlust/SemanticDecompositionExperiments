@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="275" name="Motion" origNum="#264." class="2" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="motion">
+			<sg number="1">
+				<word number="1">motion</word>
+				<word number="2">movement</word>
+				<word number="3">move</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">going</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unrest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stream">
+			<sg number="1">
+				<word number="1">stream</word>
+				<word number="2">flow</word>
+				<word number="3">flux</word>
+				<word number="4">run</word>
+				<word number="5">course</word>
+				<word number="6">stir</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evolution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kinematics</word>
+			</sg>
+			<sg number="4">
+				<word number="1">telekinesis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="step">
+			<sg number="1">
+				<word number="1">step</word>
+				<word number="2">rate</word>
+				<word number="3">pace</word>
+				<word number="4">tread</word>
+				<word number="5">stride</word>
+				<word number="6">gait</word>
+				<word number="7">port</word>
+				<word number="8">footfall</word>
+				<word number="9">cadence</word>
+				<word number="10">carriage</word>
+				<word number="11">velocity</word>
+				<word number="12">angular velocity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clip</word>
+				<word number="2">progress</word>
+				<word number="3">locomotion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="journey" headRef="277">journey</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="voyage" headRef="278">voyage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="transit" headRef="281">transit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="restlessness">
+			<sg number="1">
+				<word number="1" paraRef="changeableness" headRef="156">restlessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mobility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">movableness</word>
+				<word number="2">motive power</word>
+			</sg>
+			<sg number="4">
+				<word number="1">laws of motion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mobilization</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in motion">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be in motion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">move</word>
+				<word number="2">go</word>
+				<word number="3">hie</word>
+				<word number="4">gang</word>
+				<word number="5">budge</word>
+				<word number="6">stir</word>
+				<word number="7">pass</word>
+				<word number="8">flit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hover about</word>
+				<word number="2">hover round</word>
+				<word number="3">hover about</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shift</word>
+				<word number="2">slide</word>
+				<word number="3">glide</word>
+			</sg>
+			<sg number="5">
+				<word number="1">roll</word>
+				<word number="2">roll on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flow</word>
+				<word number="2">stream</word>
+				<word number="3">run</word>
+				<word number="4">drift</word>
+				<word number="5">sweep along</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="deviate" headRef="290">wander</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="walk" headRef="277">walk</word>
+			</sg>
+			<sg number="9">
+				<word number="1">change one's place</word>
+				<word number="2">shift one's place</word>
+				<word number="3">change one's quarters</word>
+				<word number="4">shift one's quarters</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dodge</word>
+			</sg>
+			<sg number="11">
+				<word number="1">keep going</word>
+				<word number="2">keep moving</word>
+			</sg>
+			<sg number="12">
+				<word number="1">put in motion</word>
+				<word number="2">set in motion</word>
+			</sg>
+			<sg number="13">
+				<word number="1">move</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="impel" headRef="287">impel</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="propel" headRef="295">propel</word>
+			</sg>
+			<sg number="16">
+				<word number="1">render movable</word>
+				<word number="2">mobilize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="moving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">moving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in motion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">transitional</word>
+			</sg>
+			<sg number="4">
+				<word number="1">motory</word>
+				<word number="2">motive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shifting</word>
+				<word number="2">movable</word>
+				<word number="3">mobile</word>
+				<word number="4">mercurial</word>
+				<word number="5">unquiet</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="changeable" headRef="156">restless</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="nomadism" headRef="277">nomadic</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="erratic" headRef="290">erratic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under way">
+			<sg number="1">
+				<word number="1">under way</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the move</word>
+				<word number="2">on the wing</word>
+				<word number="3">on the tramp</word>
+				<word number="4">on the march</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="eppur si muove">
+			<sg number="1">
+				<word number="1">eppur si muove</word>
+			</sg>
+			<sg number="2">
+				<word number="1">es bildet ein Talent sich in der Stille</word>
+				<word number="2">sich ein Charakter in dem Strom der Welt</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

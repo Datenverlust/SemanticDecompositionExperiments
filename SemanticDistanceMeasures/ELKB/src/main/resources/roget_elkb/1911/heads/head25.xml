@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="25" name="Agreement" origNum="#23." class="1" section="2" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="agreement">
+			<sg number="1">
+				<word number="1">agreement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accord</word>
+				<word number="2">accordance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unison</word>
+				<word number="2">harmony</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="concord" headRef="743">concord</word>
+			</sg>
+			<sg number="5">
+				<word number="1">concordance</word>
+				<word number="2">concert</word>
+			</sg>
+			<sg number="6">
+				<word number="1">understanding</word>
+				<word number="2">mutual understanding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="conformity">
+			<sg number="1">
+				<word number="1" paraRef="conformity" headRef="86">conformity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conformance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="uniformity" headRef="16">uniformity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">consonance</word>
+				<word number="2">consentaneousness</word>
+				<word number="3">consistency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">congruity</word>
+				<word number="2">congruence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">keeping</word>
+			</sg>
+			<sg number="7">
+				<word number="1">congeniality</word>
+			</sg>
+			<sg number="8">
+				<word number="1">correspondence</word>
+				<word number="2">parallelism</word>
+				<word number="3">apposition</word>
+				<word number="4">union</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fitness">
+			<sg number="1">
+				<word number="1">fitness</word>
+				<word number="2" paraRef="" posRef="adj.">aptness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">relevancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pertinence</word>
+				<word number="2">pertinencey</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sortance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">case in point</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aptitude</word>
+				<word number="2">coaptation</word>
+				<word number="3">propriety</word>
+				<word number="4">applicability</word>
+				<word number="5">admissibility</word>
+				<word number="6">commensurability</word>
+				<word number="7">compatibility</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="relation" headRef="9">cognation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="adaption">
+			<sg number="1">
+				<word number="1">adaption</word>
+				<word number="2">adjustment</word>
+				<word number="3">graduation</word>
+				<word number="4">accommodation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reconciliation</word>
+				<word number="2">reconcilement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assimilation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="consent">
+			<sg number="1">
+				<word number="1" paraRef="assent" headRef="512">consent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="concurrence" headRef="186">concurrence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cooperation" headRef="738">cooperation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="right man in the right place">
+			<sg number="1">
+				<word number="1">right man in the right place</word>
+				<word number="2">very thing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quite the thing</word>
+				<word number="2">just the thing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be accordant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be accordant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agree</word>
+				<word number="2">accord</word>
+				<word number="3">harmonize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">correspond</word>
+				<word number="2">tally</word>
+				<word number="3">respond</word>
+			</sg>
+			<sg number="4">
+				<word number="1">meet</word>
+				<word number="2">suit</word>
+				<word number="3">fit</word>
+				<word number="4">befit</word>
+				<word number="5">do</word>
+				<word number="6">adapt itself to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall in with</word>
+				<word number="2">chime in with</word>
+				<word number="3">square with</word>
+				<word number="4">quadrate with</word>
+				<word number="5">consort with</word>
+				<word number="6">comport with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dovetail</word>
+				<word number="2">assimilate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fit like a glove</word>
+				<word number="2">fit to a tittle</word>
+				<word number="3">fit to a T</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="match" headRef="18">match</word>
+			</sg>
+			<sg number="9">
+				<word number="1">become one</word>
+			</sg>
+			<sg number="10">
+				<word number="1">homologate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="consent">
+			<sg number="1">
+				<word number="1" paraRef="assent" headRef="512">consent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render accordant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render accordant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fit</word>
+				<word number="2">suit</word>
+				<word number="3">adapt</word>
+				<word number="4">accommodate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">graduate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="render equal" headRef="29">adjust</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dress</word>
+				<word number="2">regulate</word>
+				<word number="3">readjust</word>
+			</sg>
+			<sg number="6">
+				<word number="1">accord</word>
+				<word number="2">harmonize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="reconcile">
+			<sg number="1">
+				<word number="1">reconcile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fadge</word>
+				<word number="2">dovetail</word>
+				<word number="3">square</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="agreeing">
+			<sg number="1">
+				<word number="1">agreeing</word>
+				<word number="2" paraRef="" posRef="v.">suiting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in accord</word>
+				<word number="2">accordant</word>
+				<word number="3">concordant</word>
+				<word number="4">consonant</word>
+				<word number="5">congruous</word>
+				<word number="6">consentaneous</word>
+				<word number="7">correspondent</word>
+				<word number="8">congenial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">coherent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">becoming</word>
+			</sg>
+			<sg number="5">
+				<word number="1">harmonious reconcilable</word>
+				<word number="2">conformable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in accordance with</word>
+				<word number="2">in harmony with</word>
+				<word number="3">in keeping with</word>
+				<word number="4" paraRef="" posRef="n.">in unison with</word>
+			</sg>
+			<sg number="7">
+				<word number="1">at one with</word>
+				<word number="2">of one mind</word>
+				<word number="3">of a piece</word>
+			</sg>
+			<sg number="8">
+				<word number="1">consistent</word>
+				<word number="2">compatible</word>
+				<word number="3">proportionate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">commensurate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">on all fours</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="apt">
+			<sg number="1">
+				<word number="1">apt</word>
+				<word number="2">apposite</word>
+				<word number="3">pertinent</word>
+				<word number="4">pat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to the point</word>
+				<word number="2">to the purpose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">happy</word>
+				<word number="2">felicitous</word>
+				<word number="3">germane</word>
+				<word number="4">ad rem</word>
+				<word number="5">in point</word>
+				<word number="6">on point</word>
+				<word number="7">directly on point</word>
+				<word number="8">bearing upon</word>
+				<word number="9">applicable</word>
+				<word number="10">relevant</word>
+				<word number="11">admissible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fit adapted">
+			<sg number="1">
+				<word number="1">fit adapted</word>
+				<word number="2">in loco</word>
+				<word number="3">a propos</word>
+				<word number="4">appropriate</word>
+				<word number="5">seasonable</word>
+				<word number="6">sortable</word>
+				<word number="7">suitable</word>
+				<word number="8">idoneous</word>
+				<word number="9">deft</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expedient" headRef="675">meet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="at home">
+			<sg number="1">
+				<word number="1">at home</word>
+				<word number="2">in one's proper element</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="a propos of">
+			<sg number="1">
+				<word number="1">a propos of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">pertinently</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="rem acu tetigisti">
+			<sg number="1">
+				<word number="1">rem acu tetigisti</word>
+			</sg>
+			<sg number="2">
+				<word number="1">if the shoe fits</word>
+				<word number="2">wear it</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the cap fits</word>
+			</sg>
+			<sg number="4">
+				<word number="1">auxilia humilia firma consensus facit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">discers concordia</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="92" name="Accompaniment" origNum="#88." class="1" section="5" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="accompaniment">
+			<sg number="1">
+				<word number="1">accompaniment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="adjunct" headRef="41">adjunct</word>
+			</sg>
+			<sg number="3">
+				<word number="1">context</word>
+			</sg>
+			<sg number="4">
+				<word number="1">appendage</word>
+				<word number="2">appurtenance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coexistence">
+			<sg number="1">
+				<word number="1">coexistence</word>
+				<word number="2">concomitance</word>
+				<word number="3">company</word>
+				<word number="4">association</word>
+				<word number="5">companionship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">partnership</word>
+				<word number="2">copartnership</word>
+			</sg>
+			<sg number="3">
+				<word number="1">coefficiency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="concomitant">
+			<sg number="1">
+				<word number="1">concomitant</word>
+				<word number="2">accessory</word>
+				<word number="3">coefficient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">companion</word>
+				<word number="2">buddy</word>
+				<word number="3">attendant</word>
+				<word number="4">fellow</word>
+				<word number="5">associate</word>
+				<word number="6">friend</word>
+				<word number="7">colleague</word>
+			</sg>
+			<sg number="3">
+				<word number="1">consort</word>
+				<word number="2">spouse</word>
+				<word number="3">mate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">partner</word>
+				<word number="2">co- partner</word>
+			</sg>
+			<sg number="5">
+				<word number="1">satellite</word>
+				<word number="2">hanger on</word>
+				<word number="3">fellow-traveller</word>
+				<word number="4">shadow</word>
+			</sg>
+			<sg number="6">
+				<word number="1">escort</word>
+				<word number="2">cortege</word>
+			</sg>
+			<sg number="7">
+				<word number="1">attribute</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="accompany">
+			<sg number="1">
+				<word number="1">accompany</word>
+				<word number="2">coexist</word>
+				<word number="3">attend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang on</word>
+				<word number="2">wait on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go hand in hand with</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="synchronize" headRef="126">synchronize</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bear company</word>
+				<word number="2">keep company</word>
+			</sg>
+			<sg number="6">
+				<word number="1">row in the same boat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bring in its train</word>
+			</sg>
+			<sg number="8">
+				<word number="1">associate with</word>
+				<word number="2">couple with</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="accompanying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">accompanying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">concomitant</word>
+				<word number="2">fellow</word>
+				<word number="3">twin</word>
+				<word number="4">joint</word>
+			</sg>
+			<sg number="3">
+				<word number="1">associated with</word>
+				<word number="2">coupled with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accessory</word>
+				<word number="2">attendant</word>
+				<word number="3">obbligato</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with">
+			<sg number="1">
+				<word number="1">with</word>
+				<word number="2">withal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">together with</word>
+				<word number="2">along with</word>
+				<word number="3">in company with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hand in hand</word>
+				<word number="2">side by side</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cheek by jowl</word>
+				<word number="2">cheek by jole</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arm in arm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">therewith</word>
+				<word number="2">herewith</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="addition" headRef="39">and</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="together">
+			<sg number="1">
+				<word number="1">together</word>
+				<word number="2">in a body</word>
+				<word number="3">collectively</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="noscitur a sociis">
+			<sg number="1">
+				<word number="1">noscitur a sociis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">virtutis fortuna comes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

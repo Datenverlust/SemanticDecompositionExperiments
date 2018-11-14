@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="80" name="Inclusion" origNum="#76." class="1" section="4" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{opp">
+			<sg number="1">
+				<word number="1">inclusion</word>
+				<word number="2">admission</word>
+				<word number="3">comprehension</word>
+				<word number="4">reception</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="composition">
+			<sg number="1">
+				<word number="1" paraRef="inclusion" headRef="57">composition</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be included in">
+			<sg number="1">
+				<word number="1">be included in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come under</word>
+				<word number="2">fall under</word>
+				<word number="3">range under</word>
+			</sg>
+			<sg number="3">
+				<word number="1">belong to</word>
+				<word number="2">pertain to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">range with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">merge in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="include">
+			<sg number="1">
+				<word number="1">include</word>
+				<word number="2">comprise</word>
+				<word number="3">comprehend</word>
+				<word number="4">contain</word>
+				<word number="5">admit</word>
+				<word number="6">embrace</word>
+				<word number="7">receive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="circumscribe" headRef="239">inclose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">embody</word>
+				<word number="2">encircle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="reckon among">
+			<sg number="1">
+				<word number="1">reckon among</word>
+				<word number="2">enumerate among</word>
+				<word number="3">number among</word>
+			</sg>
+			<sg number="2">
+				<word number="1">refer to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">place with</word>
+				<word number="2">arrange with</word>
+				<word number="3">place under</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take into account</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="included">
+			<sg number="1">
+				<word number="1">included</word>
+				<word number="2" paraRef="" posRef="v.">including</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inclusive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">congener</word>
+				<word number="2">congenerous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="class" headRef="79">of the same class</word>
+			</sg>
+			<sg number="5">
+				<word number="1">encircling</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a maximis ad minima">
+			<sg number="1">
+				<word number="1">a maximis ad minima</word>
+				<word number="2">et hoc genus omne</word>
+				<word number="3">etc</word>
+			</sg>
+			<sg number="2">
+				<word number="1">et coetera</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="52" name="Decomposition" origNum="#49." class="1" section="3" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="decomposition">
+			<sg number="1">
+				<word number="1">decomposition</word>
+				<word number="2">analysis</word>
+				<word number="3">dissection</word>
+				<word number="4">resolution</word>
+				<word number="5">catalysis</word>
+				<word number="6">dissolution</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncleanness" headRef="682">corruption</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dispersion" headRef="77">dispersion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disjunction" headRef="47">disjunction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disintegration</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="decompose">
+			<sg number="1">
+				<word number="1">decompose</word>
+				<word number="2">decompound</word>
+			</sg>
+			<sg number="2">
+				<word number="1">analyze</word>
+				<word number="2">disembody</word>
+				<word number="3">dissolve</word>
+			</sg>
+			<sg number="3">
+				<word number="1">resolve into its elements</word>
+				<word number="2">separate into its elements</word>
+			</sg>
+			<sg number="4">
+				<word number="1">electrolyze</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dissect</word>
+				<word number="2">decentralize</word>
+				<word number="3">break up</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="disperse" headRef="77">disperse</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="unroll" headRef="324">unravel</word>
+			</sg>
+			<sg number="8">
+				<word number="1">crumble into dust</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="decomposed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">decomposed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catalytic</word>
+				<word number="2">analytical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">resolvent</word>
+				<word number="2">separative</word>
+				<word number="3">solvent</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

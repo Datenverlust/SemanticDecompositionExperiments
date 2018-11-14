@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="938" name="Favorite" origNum="#899." class="8" section="3" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="favorite">
+			<sg number="1">
+				<word number="1">favorite</word>
+				<word number="2">pet</word>
+				<word number="3">cosset</word>
+				<word number="4">minion</word>
+				<word number="5">idol</word>
+				<word number="6">jewel</word>
+				<word number="7">spoiled child</word>
+				<word number="8">enfant gaté</word>
+			</sg>
+			<sg number="2">
+				<word number="1">led captain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crony</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fondling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">apple of one's eye</word>
+				<word number="2">man after one's own heart</word>
+			</sg>
+			<sg number="6">
+				<word number="1">persona grata</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="love">
+			<sg number="1">
+				<word number="1">love</word>
+				<word number="2">dear</word>
+				<word number="3">darling</word>
+				<word number="4">duck</word>
+				<word number="5">duckey</word>
+				<word number="6">honey</word>
+				<word number="7">sugar</word>
+				<word number="8">jewel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mopsey</word>
+				<word number="2">moppet</word>
+				<word number="3">princess</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sweetheart</word>
+				<word number="2" paraRef="love" headRef="936">sweetie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="teacher's pet">
+			<sg number="1">
+				<word number="1">teacher's pet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="general favorite">
+			<sg number="1">
+				<word number="1">general favorite</word>
+				<word number="2">universal favorite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">idol of the people</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="687" name="Improvement" origNum="#658." class="6" section="2" subSection="2" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="improvement">
+			<sg number="1">
+				<word number="1">improvement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amelioration</word>
+				<word number="2">melioration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">betterment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mend</word>
+				<word number="2">amendment</word>
+				<word number="3">emendation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">mending</word>
+			</sg>
+			<sg number="6">
+				<word number="1">advancement</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="progress" headRef="293">advance</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ascent" headRef="316">ascent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">promotion</word>
+				<word number="2">preferment</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="elevation" headRef="318">elevation</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="increase" headRef="37">increase</word>
+			</sg>
+			<sg number="12">
+				<word number="1">cultivation</word>
+				<word number="2">civilization</word>
+			</sg>
+			<sg number="13">
+				<word number="1">culture</word>
+				<word number="2">march of intellect</word>
+			</sg>
+			<sg number="14">
+				<word number="1">menticulture</word>
+			</sg>
+			<sg number="15">
+				<word number="1">race-culture</word>
+				<word number="2">eugenics</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">progress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reform">
+			<sg number="1">
+				<word number="1">reform</word>
+				<word number="2">reformation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">revision</word>
+				<word number="2">radical reform</word>
+			</sg>
+			<sg number="3">
+				<word number="1">second thoughts</word>
+				<word number="2">correction</word>
+				<word number="3">limoe labor</word>
+				<word number="4">refinement</word>
+				<word number="5">elaboration</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="purification" headRef="681">purification</word>
+			</sg>
+			<sg number="5">
+				<word number="1">oxidation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="restoration" headRef="689">repair</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="recovery" headRef="689">recovery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="revise">
+			<sg number="1">
+				<word number="1">revise</word>
+				<word number="2">new edition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="reformer">
+			<sg number="1">
+				<word number="1">reformer</word>
+				<word number="2">radical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="improve">
+			<sg number="1">
+				<word number="1">improve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be better</word>
+				<word number="2">become better</word>
+				<word number="3">get better</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mend</word>
+				<word number="2">amend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="advance">
+			<sg number="1">
+				<word number="1" paraRef="progress" headRef="293">advance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ascend" headRef="316">ascend</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="increase" headRef="37">increase</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fructify</word>
+				<word number="2">ripen</word>
+				<word number="3">mature</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pick up</word>
+				<word number="2">come about</word>
+				<word number="3">rally</word>
+				<word number="4">take a favorable turn</word>
+			</sg>
+			<sg number="6">
+				<word number="1">turn over a new leaf</word>
+				<word number="2">turn the corner</word>
+			</sg>
+			<sg number="7">
+				<word number="1">raise one's head</word>
+				<word number="2">sow one's wild oats</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="recover" headRef="689">recover</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be better">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be better</word>
+				<word number="2">be improved by</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn to right account</word>
+				<word number="2">turn to good account</word>
+				<word number="3">turn to best account</word>
+			</sg>
+			<sg number="3">
+				<word number="1">profit by</word>
+				<word number="2">reap the benefit of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make good use of</word>
+				<word number="2">make capital out of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">place to good account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="render better">
+			<sg number="1">
+				<word number="1">render better</word>
+				<word number="2">improve</word>
+				<word number="3">mend</word>
+				<word number="4">amend</word>
+				<word number="5">better</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ameliorate</word>
+				<word number="2">meliorate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">correct</word>
+			</sg>
+			<sg number="4">
+				<word number="1">decrassify</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">redress</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">remedy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="improve upon">
+			<sg number="1">
+				<word number="1">improve upon</word>
+				<word number="2">refine upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rectify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enrich</word>
+				<word number="2">mellow</word>
+				<word number="3">elaborate</word>
+				<word number="4">fatten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="promote">
+			<sg number="1">
+				<word number="1">promote</word>
+				<word number="2">cultivate</word>
+				<word number="3">advance</word>
+				<word number="4">forward</word>
+				<word number="5">enhance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring forward</word>
+				<word number="2">bring on</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="foster" headRef="736">foster</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="strengthen" headRef="166">invigorate</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">facilitate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">strengthen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="touch up">
+			<sg number="1">
+				<word number="1">touch up</word>
+				<word number="2">rub up</word>
+				<word number="3">brush up</word>
+				<word number="4">furbish up</word>
+				<word number="5">bolster up</word>
+				<word number="6">vamp up</word>
+				<word number="7">brighten up</word>
+				<word number="8">warm up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">polish</word>
+				<word number="2">cook</word>
+				<word number="3">make the most of</word>
+				<word number="4">set off to advantage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prune</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="restore" headRef="689">repair</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="arrange" headRef="64">put in order</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="review">
+			<sg number="1">
+				<word number="1">review</word>
+				<word number="2">revise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make corrections</word>
+				<word number="2" paraRef="" posRef="n.">make improvements</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="remedy" headRef="691">doctor</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="purify" headRef="681">purify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="relieve">
+			<sg number="1">
+				<word number="1">relieve</word>
+				<word number="2">refresh</word>
+				<word number="3">infuse new blood into</word>
+				<word number="4">recruit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="reform">
+			<sg number="1">
+				<word number="1">reform</word>
+				<word number="2">remodel</word>
+				<word number="3">reorganize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">new model</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="view in a new light">
+			<sg number="1">
+				<word number="1">view in a new light</word>
+				<word number="2">think better of</word>
+				<word number="3">appeal from Philip drunk to Philip sober</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="palliate">
+			<sg number="1">
+				<word number="1">palliate</word>
+				<word number="2">mitigate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="evil" headRef="648">lessen an evil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="achieve">
+			<sg number="1">
+				<word number="1" new="1">achieve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="alleviate">
+			<sg number="1">
+				<word number="1" new="1">alleviate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="augment">
+			<sg number="1">
+				<word number="1" new="1">augment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="benefit">
+			<sg number="1">
+				<word number="1" new="1">benefit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="boost">
+			<sg number="1">
+				<word number="1" new="1">boost</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="expand">
+			<sg number="1">
+				<word number="1" new="1">expand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="lack">
+			<sg number="1">
+				<word number="1" new="1">lack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="lower">
+			<sg number="1">
+				<word number="1" new="1">lower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="patch">
+			<sg number="1">
+				<word number="1" new="1">patch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="reduce">
+			<sg number="1">
+				<word number="1" new="1">reduce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="improving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">improving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">progressive</word>
+				<word number="2" paraRef="" posRef="v.">improved</word>
+			</sg>
+			<sg number="3">
+				<word number="1">better</word>
+				<word number="2">better off</word>
+				<word number="3">better for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">all the better for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">better advised</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reformatory">
+			<sg number="1">
+				<word number="1">reformatory</word>
+				<word number="2">emendatory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restorative" headRef="689">reparatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="remedial" headRef="691">remedial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="corrigible">
+			<sg number="1">
+				<word number="1">corrigible</word>
+				<word number="2">improvable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accultural</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on consideration">
+			<sg number="1">
+				<word number="1">on consideration</word>
+				<word number="2">on reconsideration</word>
+				<word number="3">on second thoughts</word>
+				<word number="4">on better advice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ad melius inquirendum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="urbent latericiam invenit marmoream reliquit">
+			<sg number="1">
+				<word number="1">urbent latericiam invenit marmoream reliquit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

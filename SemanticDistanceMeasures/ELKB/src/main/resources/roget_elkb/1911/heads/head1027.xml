@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1027" name="Orthodoxy" origNum="#983a." class="8" section="5" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="orthodoxy">
+			<sg number="1">
+				<word number="1">orthodoxy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strictness</word>
+				<word number="2">soundness</word>
+				<word number="3">religious truth</word>
+				<word number="4">true faith</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="truth" headRef="518">truth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">soundness of doctrine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Christianity">
+			<sg number="1">
+				<word number="1">Christianity</word>
+				<word number="2">Christianism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Catholicism</word>
+				<word number="2">Catholicity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"the faith once delivered to the saints"</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hyperorthodoxy" headRef="1028">hyperorthodoxy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">iconoclasm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="The Church">
+			<sg number="1">
+				<word number="1">The Church</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Catholic Church</word>
+				<word number="2">Universal Church</word>
+				<word number="3">Apostolic Church</word>
+				<word number="4">Established Church</word>
+			</sg>
+			<sg number="3">
+				<word number="1">temple of the Holy Ghost</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Church of Christ</word>
+				<word number="2">body of Christ</word>
+				<word number="3">members of Christ</word>
+				<word number="4">disciples of Christ</word>
+				<word number="5">followers of Christ</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Christian</word>
+				<word number="2">Christian community</word>
+			</sg>
+			<sg number="6">
+				<word number="1">true believer</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="theologian" headRef="1026">canonist</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Christendom</word>
+				<word number="2">collective body of Christians</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="canons">
+			<sg number="1">
+				<word number="1" paraRef="belief" headRef="508">canons</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thirty nine articles</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Apostles' Creed</word>
+				<word number="2">Nicene Creed</word>
+				<word number="3">Athanasian Creed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Church Catechism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">textuary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="orthodox">
+			<sg number="1">
+				<word number="1">orthodox</word>
+				<word number="2">sound</word>
+				<word number="3">strick</word>
+				<word number="4">faithful</word>
+				<word number="5">catholic</word>
+				<word number="6">schismless</word>
+				<word number="7">Christian</word>
+				<word number="8">evangelical</word>
+				<word number="9">scriptural</word>
+				<word number="10">divine</word>
+				<word number="11">monotheistic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="true" headRef="518">true</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="of the true faith">
+			<sg number="1">
+				<word number="1">of the true faith</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

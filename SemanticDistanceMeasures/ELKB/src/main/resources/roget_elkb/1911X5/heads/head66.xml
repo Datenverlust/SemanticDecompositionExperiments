@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="66" name="Precedence" origNum="#62." class="1" section="4" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="precedence">
+			<sg number="1">
+				<word number="1">precedence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">coming before</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the lead</word>
+				<word number="2">le pas</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="superiority" headRef="35">superiority</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="importance" headRef="671">importance</word>
+			</sg>
+			<sg number="6">
+				<word number="1">antecedence</word>
+				<word number="2">antecedency</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="front" headRef="244">anteriority</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="precursor" headRef="68">precursor</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="priority" headRef="122">priority</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="precession" headRef="291">precession</word>
+			</sg>
+			<sg number="11">
+				<word number="1">anteposition</word>
+			</sg>
+			<sg number="12">
+				<word number="1">epacme</word>
+			</sg>
+			<sg number="13">
+				<word number="1">preference</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="precede">
+			<sg number="1">
+				<word number="1">precede</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come before</word>
+				<word number="2">come first</word>
+				<word number="3">first in order</word>
+			</sg>
+			<sg number="3">
+				<word number="1">head</word>
+				<word number="2">lead</word>
+				<word number="3">take the lead</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lead the way</word>
+				<word number="2">lead the dance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be in the vanguard</word>
+			</sg>
+			<sg number="6">
+				<word number="1">introduce</word>
+				<word number="2">usher in</word>
+			</sg>
+			<sg number="7">
+				<word number="1">have the pas</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="influence" headRef="182">set the fashion</word>
+			</sg>
+			<sg number="9">
+				<word number="1">open the ball</word>
+			</sg>
+			<sg number="10">
+				<word number="1">take precedence</word>
+				<word number="2">have precedence</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="get before" headRef="291">have the start</word>
+			</sg>
+			<sg number="12">
+				<word number="1">prefix</word>
+			</sg>
+			<sg number="13">
+				<word number="1">premise</word>
+				<word number="2">prelude</word>
+				<word number="3">preface</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="preceding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">preceding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">precedent</word>
+				<word number="2">antecedent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anterior</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="prior" headRef="122">prior</word>
+			</sg>
+			<sg number="5">
+				<word number="1">before</word>
+			</sg>
+			<sg number="6">
+				<word number="1">former</word>
+			</sg>
+			<sg number="7">
+				<word number="1">foregoing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">beforementioned</word>
+				<word number="2">abovementioned</word>
+				<word number="3">aforementioned</word>
+			</sg>
+			<sg number="9">
+				<word number="1">aforesaid</word>
+				<word number="2">said</word>
+			</sg>
+			<sg number="10">
+				<word number="1">precursory</word>
+				<word number="2">precursive</word>
+			</sg>
+			<sg number="11">
+				<word number="1">prevenient</word>
+				<word number="2">preliminary</word>
+				<word number="3">prefatory</word>
+				<word number="4">introductory</word>
+			</sg>
+			<sg number="12">
+				<word number="1">prelusive</word>
+				<word number="2">prelusory</word>
+			</sg>
+			<sg number="13">
+				<word number="1">proemial</word>
+				<word number="2">preparatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="before">
+			<sg number="1">
+				<word number="1">before</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="precession" headRef="291">in advance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="seniores priores">
+			<sg number="1">
+				<word number="1">seniores priores</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prior tempore prior jure</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

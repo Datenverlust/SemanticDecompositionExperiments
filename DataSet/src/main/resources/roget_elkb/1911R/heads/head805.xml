@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="805" name="Nonobservance" origNum="#773." class="7" section="3" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="nonobservance">
+			<sg number="1">
+				<word number="1" paraRef="observance" headRef="804">nonobservance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evasion</word>
+				<word number="2">inobservance</word>
+				<word number="3">failure</word>
+				<word number="4">omission</word>
+				<word number="5">neglect</word>
+				<word number="6">laches</word>
+				<word number="7">laxity</word>
+				<word number="8">informality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="infringement">
+			<sg number="1">
+				<word number="1">infringement</word>
+				<word number="2">infraction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">violation</word>
+				<word number="2">transgression</word>
+			</sg>
+			<sg number="3">
+				<word number="1">piracy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">superheater</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="retraction">
+			<sg number="1">
+				<word number="1">retraction</word>
+				<word number="2">retractation</word>
+				<word number="3">repudiation</word>
+				<word number="4">nullification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">protest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">forfeiture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lawlessness">
+			<sg number="1">
+				<word number="1">lawlessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disobedience" headRef="773">disobedience</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bad faith" headRef="982">bad faith</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fail">
+			<sg number="1">
+				<word number="1">fail</word>
+				<word number="2">neglect</word>
+				<word number="3">omit</word>
+				<word number="4">elude</word>
+				<word number="5">evade</word>
+				<word number="6">give the go-by to</word>
+				<word number="7">set aside</word>
+				<word number="8">ignore</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shut one's eyes to</word>
+				<word number="2">close one's eyes to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="infringe">
+			<sg number="1">
+				<word number="1">infringe</word>
+				<word number="2">transgress</word>
+				<word number="3">violate</word>
+				<word number="4">pirate</word>
+				<word number="5">break</word>
+				<word number="6">trample under foot</word>
+				<word number="7">do violence to</word>
+				<word number="8">drive a coach and six through</word>
+				<word number="9" new="1">precondition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="discard">
+			<sg number="1">
+				<word number="1">discard</word>
+				<word number="2">protest</word>
+				<word number="3">repudiate</word>
+				<word number="4">fling to the winds</word>
+				<word number="5">set at naught</word>
+				<word number="6">nullify</word>
+				<word number="7">declare null and void</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wipe off" headRef="578">cancel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="retract">
+			<sg number="1">
+				<word number="1">retract</word>
+				<word number="2">go back from</word>
+				<word number="3">be off</word>
+				<word number="4">forfeit</word>
+				<word number="5">go from one's word</word>
+				<word number="6">palter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stretch a point</word>
+				<word number="2">strain a point</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="centre">
+			<sg number="1">
+				<word number="1" new="1">centre</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="violating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">violating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lawless</word>
+				<word number="2">transgressive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elusive</word>
+				<word number="2">evasive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unfulfilled">
+			<sg number="1">
+				<word number="1" paraRef="fulfill" headRef="804">unfulfilled</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

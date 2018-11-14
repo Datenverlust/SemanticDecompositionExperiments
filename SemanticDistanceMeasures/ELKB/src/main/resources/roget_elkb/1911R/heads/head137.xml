@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="137" name="Adolescence" origNum="#131." class="1" section="6" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="adolescence">
+			<sg number="1">
+				<word number="1">adolescence</word>
+				<word number="2">pubescence</word>
+				<word number="3">majority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adultism</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">adultness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">manhood</word>
+				<word number="2">virility</word>
+				<word number="3">maturity full age</word>
+				<word number="4">ripe age</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flower of age</word>
+			</sg>
+			<sg number="6">
+				<word number="1">prime of life</word>
+				<word number="2">meridian of life</word>
+				<word number="3">spring of life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="man">
+			<sg number="1">
+				<word number="1" paraRef="man" headRef="385">man</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="woman" headRef="386">woman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adult</word>
+				<word number="2">no chicken</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="come of age">
+			<sg number="1">
+				<word number="1">come of age</word>
+				<word number="2">come to man's estate</word>
+				<word number="3">come to years of discretion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attain majority</word>
+				<word number="2">assume the toga virilis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have cut one's eyeteeth</word>
+				<word number="2">have  sown one's mild oats</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="adolescent">
+			<sg number="1">
+				<word number="1">adolescent</word>
+				<word number="2">pubescent</word>
+				<word number="3">of age</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of full age</word>
+				<word number="2">of ripe age</word>
+			</sg>
+			<sg number="3">
+				<word number="1">out of one's teens</word>
+				<word number="2">grown up</word>
+				<word number="3">mature</word>
+				<word number="4">full grown</word>
+				<word number="5">in one's prime</word>
+				<word number="6">middle-aged</word>
+				<word number="7">manly</word>
+				<word number="8">virile</word>
+				<word number="9">adult</word>
+			</sg>
+			<sg number="4">
+				<word number="1">womanly</word>
+				<word number="2">matronly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">marriageable</word>
+				<word number="2">nubile</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

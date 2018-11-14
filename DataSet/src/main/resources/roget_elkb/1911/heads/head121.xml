@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="121" name="Anachronism" origNum="#115." class="1" section="6" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="anachronism">
+			<sg number="1">
+				<word number="1">anachronism</word>
+				<word number="2">metachronism</word>
+				<word number="3">parachronism</word>
+				<word number="4">prochronism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prolepsis</word>
+				<word number="2">misdate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anticipation</word>
+				<word number="2">antichronism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disregard of time">
+			<sg number="1">
+				<word number="1">disregard of time</word>
+				<word number="2">neglect of time</word>
+				<word number="3">oblivion of time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="intempestivity">
+			<sg number="1">
+				<word number="1" paraRef="intempestivity" headRef="142">intempestivity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="misdate">
+			<sg number="1">
+				<word number="1">misdate</word>
+				<word number="2">antedate</word>
+				<word number="3">postdate</word>
+				<word number="4">backdate</word>
+				<word number="5">overdate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anticipate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take no note of time</word>
+				<word number="2">lose track of time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anachronize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misdated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">misdated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overdue</word>
+				<word number="2">past due</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of date</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

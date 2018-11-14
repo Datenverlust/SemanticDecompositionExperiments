@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="77" name="Nonassemblage" origNum="#73." class="1" section="4" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{opp">
+			<sg number="1">
+				<word number="1">dispersion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disjunction" headRef="47">disjunction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="divergence" headRef="302">divergence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aspersion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">scattering</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dissemination</word>
+				<word number="2">diffusion</word>
+				<word number="3">dissipation</word>
+				<word number="4">distribution</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="apportionment" headRef="819">apportionment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">spread</word>
+				<word number="2">respersion</word>
+				<word number="3">circumfusion</word>
+				<word number="4">interspersion</word>
+				<word number="5">spargefaction</word>
+			</sg>
+			<sg number="9">
+				<word number="1">affusion. waifs and estrays</word>
+				<word number="2">flotsam and jetsam</word>
+				<word number="3">disjecta membra</word>
+			</sg>
+			<sg number="10">
+				<word number="1">waveson</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disperse">
+			<sg number="1">
+				<word number="1">disperse</word>
+				<word number="2">scatter</word>
+				<word number="3">sow</word>
+				<word number="4">broadcast</word>
+				<word number="5">disseminate</word>
+				<word number="6">diffuse</word>
+				<word number="7">shed</word>
+				<word number="8">spread</word>
+				<word number="9">bestrew</word>
+				<word number="10">overspread</word>
+				<word number="11">dispense</word>
+				<word number="12">disband</word>
+				<word number="13">disembody</word>
+				<word number="14">dismember</word>
+				<word number="15">distribute</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="apportion" headRef="819">apportion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blow off</word>
+				<word number="2">let out</word>
+				<word number="3">dispel</word>
+				<word number="4">cast forth</word>
+				<word number="5">draught off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strew</word>
+				<word number="2">straw</word>
+				<word number="3">strow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spirtle</word>
+				<word number="2">cast</word>
+				<word number="3">sprinkle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">issue</word>
+				<word number="2">deal out</word>
+				<word number="3">retail</word>
+				<word number="4">utter</word>
+			</sg>
+			<sg number="8">
+				<word number="1">resperse</word>
+				<word number="2">intersperse</word>
+			</sg>
+			<sg number="9">
+				<word number="1">set abroach</word>
+				<word number="2">circumfuse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="turn adrift">
+			<sg number="1">
+				<word number="1">turn adrift</word>
+				<word number="2">cast adrift</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scatter to the winds</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spread like wildfire</word>
+				<word number="2">disperse themselves</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unassembled">
+			<sg number="1">
+				<word number="1" paraRef="assemble" headRef="76">unassembled</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">dispersed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sparse</word>
+				<word number="2">dispread</word>
+				<word number="3">broadcast</word>
+				<word number="4">sporadic</word>
+				<word number="5">widespread</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="general" headRef="82">epidemic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">adrift</word>
+				<word number="2">stray</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disheveled</word>
+				<word number="2">streaming</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="sparsim">
+			<sg number="1">
+				<word number="1">sparsim</word>
+				<word number="2">here and there</word>
+				<word number="3">passim</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

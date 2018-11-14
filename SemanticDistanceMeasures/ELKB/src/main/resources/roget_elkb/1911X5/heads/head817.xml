@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="817" name="Giving" origNum="#784." class="7" section="4" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="giving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">giving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bestowal</word>
+				<word number="2">bestowment</word>
+				<word number="3">donation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">presentation</word>
+				<word number="2">presentment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accordance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">concession</word>
+			</sg>
+			<sg number="6">
+				<word number="1">delivery</word>
+				<word number="2">consignment</word>
+				<word number="3">dispensation</word>
+				<word number="4">communication</word>
+				<word number="5">endowment</word>
+			</sg>
+			<sg number="7">
+				<word number="1">investment</word>
+				<word number="2">investiture</word>
+			</sg>
+			<sg number="8">
+				<word number="1">award</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="almsgiving">
+			<sg number="1">
+				<word number="1">almsgiving</word>
+				<word number="2">charity</word>
+				<word number="3">liberality</word>
+				<word number="4">generosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="gift">
+			<sg number="1">
+				<word number="1">gift</word>
+				<word number="2">donation</word>
+				<word number="3">present</word>
+				<word number="4">cadeau</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fairing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">free gift</word>
+				<word number="2">boon</word>
+				<word number="3">favor</word>
+				<word number="4">benefaction</word>
+				<word number="5">grant</word>
+				<word number="6">offering</word>
+				<word number="7">oblation</word>
+				<word number="8">sacrifice</word>
+				<word number="9">immolation</word>
+				<word number="10" new="1">libation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lagniappe</word>
+				<word number="2">pilon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="grace">
+			<sg number="1">
+				<word number="1">grace</word>
+				<word number="2">act of grace</word>
+				<word number="3">bonus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="allowance">
+			<sg number="1">
+				<word number="1">allowance</word>
+				<word number="2">contribution</word>
+				<word number="3">subscription</word>
+				<word number="4">subsidy</word>
+				<word number="5">tribute</word>
+				<word number="6">subvention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="bequest">
+			<sg number="1">
+				<word number="1">bequest</word>
+				<word number="2">legacy</word>
+				<word number="3">devise</word>
+				<word number="4">will</word>
+				<word number="5">dotation</word>
+				<word number="6">dot</word>
+				<word number="7">appanage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">voluntary settlement</word>
+				<word number="2" paraRef="conveyance" headRef="816">voluntary conveyance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">amortization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="alms">
+			<sg number="1">
+				<word number="1">alms</word>
+				<word number="2">largess</word>
+				<word number="3">bounty</word>
+				<word number="4">dole</word>
+				<word number="5">sportule</word>
+				<word number="6">donative</word>
+				<word number="7">help</word>
+				<word number="8">oblation</word>
+				<word number="9">offertory</word>
+				<word number="10">honorarium</word>
+				<word number="11">gratuity</word>
+				<word number="12">Peter pence</word>
+				<word number="13">sportula</word>
+				<word number="14">Christmas box</word>
+				<word number="15">Easter offering</word>
+				<word number="16">vail</word>
+				<word number="17">douceur</word>
+				<word number="18">drink money</word>
+				<word number="19">pourboire</word>
+				<word number="20">trinkgeld</word>
+				<word number="21">bakshish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recompense" headRef="1016">fee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">consideration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="bribe">
+			<sg number="1">
+				<word number="1">bribe</word>
+				<word number="2">bait</word>
+				<word number="3">ground bait</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peace offering</word>
+				<word number="2">handsel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">boodle*</word>
+				<word number="2">graft</word>
+				<word number="3">grease*</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="giver">
+			<sg number="1">
+				<word number="1">giver</word>
+				<word number="2" paraRef="" posRef="v.">grantor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">donor</word>
+				<word number="2">feoffer</word>
+				<word number="3">settlor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="funding">
+			<sg number="1">
+				<word number="1" new="1">funding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="inducement">
+			<sg number="1">
+				<word number="1" new="1">inducement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="sponsorship">
+			<sg number="1">
+				<word number="1" new="1">sponsorship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="endorsement">
+			<sg number="1">
+				<word number="1" new="2">endorsement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="fund">
+			<sg number="1">
+				<word number="1" new="2">fund</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="incentive">
+			<sg number="1">
+				<word number="1" new="2">incentive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="loan">
+			<sg number="1">
+				<word number="1" new="3">loan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="money">
+			<sg number="1">
+				<word number="1" new="3">money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="reward">
+			<sg number="1">
+				<word number="1" new="3">reward</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="cash">
+			<sg number="1">
+				<word number="1" new="4">cash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="credit">
+			<sg number="1">
+				<word number="1" new="4">credit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="easements">
+			<sg number="1">
+				<word number="1" new="4">easements</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="financing">
+			<sg number="1">
+				<word number="1" new="4">financing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="payment">
+			<sg number="1">
+				<word number="1" new="4">payment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="remittance">
+			<sg number="1">
+				<word number="1" new="4">remittance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="appropriation">
+			<sg number="1">
+				<word number="1" new="5">appropriation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="equity">
+			<sg number="1">
+				<word number="1" new="5">equity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="guarantee">
+			<sg number="1">
+				<word number="1" new="5">guarantee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="mortgage">
+			<sg number="1">
+				<word number="1" new="5">mortgage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="rebate">
+			<sg number="1">
+				<word number="1" new="5">rebate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="repayment">
+			<sg number="1">
+				<word number="1" new="5">repayment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="stipend">
+			<sg number="1">
+				<word number="1" new="5">stipend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="deliver">
+			<sg number="1">
+				<word number="1">deliver</word>
+				<word number="2">hand</word>
+				<word number="3">pass</word>
+				<word number="4">put into the hands of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hand over</word>
+				<word number="2">make over</word>
+				<word number="3">deliver over</word>
+				<word number="4">pass over</word>
+				<word number="5">turn over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assign dower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="present">
+			<sg number="1">
+				<word number="1">present</word>
+				<word number="2">give away</word>
+				<word number="3">dispense</word>
+				<word number="4">dispose of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give out</word>
+				<word number="2">deal out</word>
+				<word number="3">dole out</word>
+				<word number="4">mete out</word>
+				<word number="5">fork out</word>
+				<word number="6">squeeze out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pay">
+			<sg number="1">
+				<word number="1" paraRef="pay" headRef="842">pay</word>
+			</sg>
+			<sg number="2">
+				<word number="1">render</word>
+				<word number="2">impart</word>
+				<word number="3">communicate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="concede">
+			<sg number="1">
+				<word number="1">concede</word>
+				<word number="2">cede</word>
+				<word number="3">yield</word>
+				<word number="4">part with</word>
+				<word number="5">shed</word>
+				<word number="6">cast</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="spend" headRef="844">spend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="give">
+			<sg number="1">
+				<word number="1">give</word>
+				<word number="2">bestow</word>
+				<word number="3">confer</word>
+				<word number="4">grant</word>
+				<word number="5">accord</word>
+				<word number="6">award</word>
+				<word number="7">assign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="intrust">
+			<sg number="1">
+				<word number="1">intrust</word>
+				<word number="2">consign</word>
+				<word number="3">vest in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="make a present">
+			<sg number="1">
+				<word number="1">make a present</word>
+			</sg>
+			<sg number="2">
+				<word number="1">allow</word>
+				<word number="2">contribute</word>
+				<word number="3">subscribe</word>
+				<word number="4">furnish its quota</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="invest">
+			<sg number="1">
+				<word number="1">invest</word>
+				<word number="2">endow</word>
+				<word number="3">settle upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bequeath</word>
+				<word number="2">leave</word>
+				<word number="3">devise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="furnish">
+			<sg number="1">
+				<word number="1">furnish</word>
+				<word number="2">supply</word>
+				<word number="3">help</word>
+			</sg>
+			<sg number="2">
+				<word number="1">administer to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">afford</word>
+				<word number="2">spare</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accommodate with</word>
+				<word number="2">indulge with</word>
+				<word number="3">favor with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shower down upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lavish</word>
+				<word number="2">pour on</word>
+				<word number="3">thrust upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="tip">
+			<sg number="1">
+				<word number="1">tip</word>
+				<word number="2">bribe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tickle the palm</word>
+				<word number="2">grease the palm</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="offer" headRef="794">offer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sacrifice</word>
+				<word number="2">immolate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="fine">
+			<sg number="1">
+				<word number="1" new="1">fine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="gift">
+			<sg number="1">
+				<word number="1" new="1">gift</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="giving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">giving</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">given</word>
+			</sg>
+			<sg number="3">
+				<word number="1">allowed</word>
+				<word number="2">allowable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">concessional</word>
+			</sg>
+			<sg number="5">
+				<word number="1">communicable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">charitable</word>
+				<word number="2">eleemosynary</word>
+				<word number="3">sportulary</word>
+				<word number="4">tributary</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="gratis" headRef="852">gratis</word>
+			</sg>
+			<sg number="8">
+				<word number="1">donative</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="auctor pretiosa facit">
+			<sg number="1">
+				<word number="1">auctor pretiosa facit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ex dono</word>
+			</sg>
+			<sg number="3">
+				<word number="1">res est ingeniosa dare</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

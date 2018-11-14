@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="832" name="Mart" origNum="#799." class="7" section="4" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="mart">
+			<sg number="1">
+				<word number="1">mart</word>
+			</sg>
+			<sg number="2">
+				<word number="1">market</word>
+				<word number="2">marketplace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fair</word>
+				<word number="2">bazaar</word>
+				<word number="3">staple</word>
+				<word number="4">exchange</word>
+				<word number="5">change</word>
+				<word number="6">bourse</word>
+				<word number="7">hall</word>
+				<word number="8">guildhall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tollbooth</word>
+				<word number="2">customhouse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Tattersall's</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stall">
+			<sg number="1">
+				<word number="1">stall</word>
+				<word number="2">booth</word>
+				<word number="3">stand</word>
+				<word number="4">newsstand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cart</word>
+				<word number="2">wagon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wharf">
+			<sg number="1">
+				<word number="1">wharf</word>
+			</sg>
+			<sg number="2">
+				<word number="1">office</word>
+				<word number="2">chambers</word>
+				<word number="3">countinghouse</word>
+				<word number="4">bureau</word>
+			</sg>
+			<sg number="3">
+				<word number="1">counter</word>
+				<word number="2">compter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="shop">
+			<sg number="1">
+				<word number="1">shop</word>
+				<word number="2">emporium</word>
+				<word number="3">establishment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="store" headRef="665">store</word>
+			</sg>
+			<sg number="3">
+				<word number="1">department store</word>
+				<word number="2">general store</word>
+				<word number="3">five and ten</word>
+				<word number="4">variety store</word>
+				<word number="5">co-op</word>
+				<word number="6">finding store</word>
+				<word number="7">grindery warehouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="grocery">
+			<sg number="1">
+				<word number="1">grocery</word>
+				<word number="2">supermarket</word>
+				<word number="3">candy store</word>
+				<word number="4">sweet shop</word>
+				<word number="5">confectionery</word>
+				<word number="6">bakery</word>
+				<word number="7">greengrocer</word>
+				<word number="8">delicatessen</word>
+				<word number="9">bakeshop</word>
+				<word number="10">butcher shop</word>
+				<word number="11">fish store</word>
+				<word number="12">farmers' market</word>
+				<word number="13">mom and pop store</word>
+				<word number="14">dairy</word>
+				<word number="15">health food store</word>
+				<word number="16" new="1">grocer</word>
+				<word number="17" new="1">laundry</word>
+				<word number="18" new="1">pharmacy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="tobacco shop">
+			<sg number="1">
+				<word number="1">tobacco shop</word>
+				<word number="2">tobacco store</word>
+				<word number="3">tobacconists</word>
+				<word number="4">cigar store</word>
+				<word number="5">hardware store</word>
+				<word number="6">jewelry shop</word>
+				<word number="7">bookstore</word>
+				<word number="8">liquor store</word>
+				<word number="9">gun shop</word>
+				<word number="10">rod and reel shop</word>
+				<word number="11">furniture store</word>
+				<word number="12">drugstore</word>
+				<word number="13">chemist's</word>
+				<word number="14">florist</word>
+				<word number="15">flower shop</word>
+				<word number="16">shoe store</word>
+				<word number="17">stationer</word>
+				<word number="18">stationer's</word>
+				<word number="19">electronics shop</word>
+				<word number="20">telephone store</word>
+				<word number="21">music store</word>
+				<word number="22">record shop</word>
+				<word number="23">fur store</word>
+				<word number="24">sporting goods store</word>
+				<word number="25">video store</word>
+				<word number="26">video rental store</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lumber store</word>
+				<word number="2">lumber yard</word>
+				<word number="3">home improvements store</word>
+				<word number="4">home improvement center</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gas station</word>
+				<word number="2">auto repair shop</word>
+				<word number="3">auto dealer</word>
+				<word number="4">used car dealer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="mall">
+			<sg number="1">
+				<word number="1">mall</word>
+				<word number="2">suburban mall</word>
+				<word number="3">commons</word>
+				<word number="4">pedestrian mall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shopping street</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="surplus store">
+			<sg number="1">
+				<word number="1">surplus store</word>
+				<word number="2">army-navy surplus store</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="auction">
+			<sg number="1">
+				<word number="1">auction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flea market</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yard sale</word>
+				<word number="2">garage sale</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pawn shop</word>
+			</sg>
+			<sg number="5">
+				<word number="1">antiques store</word>
+			</sg>
+			<sg number="6">
+				<word number="1">second-hand store</word>
+				<word number="2">second time around shop</word>
+				<word number="3">thrift shop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="warehouse">
+			<sg number="1">
+				<word number="1">warehouse</word>
+				<word number="2">wareroom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depot</word>
+				<word number="2">interposit</word>
+				<word number="3">entrepot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="market-overt">
+			<sg number="1">
+				<word number="1">market-overt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="real-estate broker">
+			<sg number="1">
+				<word number="1">real-estate broker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="vending machine">
+			<sg number="1">
+				<word number="1">vending machine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="bookshop">
+			<sg number="1">
+				<word number="1" new="1">bookshop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="cafe">
+			<sg number="1">
+				<word number="1" new="1">cafe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="cinema">
+			<sg number="1">
+				<word number="1" new="1">cinema</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="garage">
+			<sg number="1">
+				<word number="1" new="1">garage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="outlet">
+			<sg number="1">
+				<word number="1" new="1">outlet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="pub">
+			<sg number="1">
+				<word number="1" new="1">pub</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="restaurant">
+			<sg number="1">
+				<word number="1" new="1">restaurant</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

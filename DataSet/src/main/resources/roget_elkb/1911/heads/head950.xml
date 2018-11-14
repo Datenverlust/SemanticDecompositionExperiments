@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="950" name="Philanthropy" origNum="#910." class="8" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="philanthropy">
+			<sg number="1">
+				<word number="1">philanthropy</word>
+				<word number="2">humanity</word>
+				<word number="3">humanitarianism universal benevolence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">endaemonism</word>
+				<word number="2">deliciae humani generis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cosmopolitanism</word>
+				<word number="2">utilitarianism</word>
+				<word number="3">the greatest happiness of the greatest number</word>
+				<word number="4">social science</word>
+				<word number="5">sociology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="common weal">
+			<sg number="1">
+				<word number="1">common weal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">socialism</word>
+				<word number="2">communism</word>
+				<word number="3">Fourierism!</word>
+				<word number="4">phalansterianism</word>
+				<word number="5">Saint Simonianism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="patriotism">
+			<sg number="1">
+				<word number="1">patriotism</word>
+				<word number="2">civism</word>
+				<word number="3">nationality</word>
+				<word number="4">love of country</word>
+				<word number="5">amor patriae</word>
+				<word number="6">public spirit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="chivalry">
+			<sg number="1">
+				<word number="1">chivalry</word>
+				<word number="2">knight errantry</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="generosity" headRef="984">generosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="philanthropist">
+			<sg number="1">
+				<word number="1">philanthropist</word>
+				<word number="2">endaemonist</word>
+				<word number="3">utilitarian</word>
+				<word number="4">Benthamite</word>
+				<word number="5">socialist</word>
+				<word number="6">communist</word>
+				<word number="7">cosmopolite</word>
+				<word number="8">citizen of the world</word>
+				<word number="9">amicus humani generis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">knight errant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">patriot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="philanthropic">
+			<sg number="1">
+				<word number="1">philanthropic</word>
+				<word number="2">humanitarian</word>
+				<word number="3">utilitarian</word>
+				<word number="4">cosmopolitan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">public- spirited</word>
+				<word number="2">patriotic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">humane</word>
+				<word number="2" paraRef="benevolent" headRef="946">large-hearted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chivalric</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="generous" headRef="984">generous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="pro bono publico">
+			<sg number="1">
+				<word number="1">pro bono publico</word>
+				<word number="2">pro aris et focis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="humani nihil a me alienum puto">
+			<sg number="1">
+				<word number="1">humani nihil a me alienum puto</word>
+			</sg>
+			<sg number="2">
+				<word number="1">omne solum forti patria</word>
+			</sg>
+			<sg number="3">
+				<word number="1">un bien fait n'est jamais perdu</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

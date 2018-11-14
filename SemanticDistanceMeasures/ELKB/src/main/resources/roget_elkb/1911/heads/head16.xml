@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="16" name="Uniformity" origNum="#16." class="1" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="uniformity">
+			<sg number="1">
+				<word number="1">uniformity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homogeneity</word>
+				<word number="2">homogeneousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">consistency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">connaturality</word>
+				<word number="2">connaturalness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">homology</word>
+			</sg>
+			<sg number="6">
+				<word number="1">accordance</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="conformity" headRef="86">conformity</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="agreement" headRef="25">agreement</word>
+			</sg>
+			<sg number="9">
+				<word number="1">consonance</word>
+				<word number="2">uniformness. regularity</word>
+				<word number="3">constancy</word>
+				<word number="4">even tenor</word>
+				<word number="5">routine</word>
+			</sg>
+			<sg number="10">
+				<word number="1">monotony</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be uniform">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be uniform</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="agreement" headRef="25">accord with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run through</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="become uniform">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">become uniform</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="conform to" headRef="86">conform to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render uniform">
+			<sg number="1">
+				<word number="1">render uniform</word>
+				<word number="2" paraRef="" posRef="adj.">homogenize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assimilate</word>
+				<word number="2">level</word>
+				<word number="3">smooth</word>
+				<word number="4">dress</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="uniform">
+			<sg number="1">
+				<word number="1">uniform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homogeneous</word>
+				<word number="2">homologous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">of a piece</word>
+				<word number="2">consistent</word>
+				<word number="3">connatural</word>
+			</sg>
+			<sg number="4">
+				<word number="1">monotonous</word>
+				<word number="2">even</word>
+				<word number="3">invariable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">regular</word>
+				<word number="2">unchanged</word>
+				<word number="3">undeviating</word>
+				<word number="4">unvaried</word>
+				<word number="5">unvarying</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unsegmented">
+			<sg number="1">
+				<word number="1">unsegmented</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="uniformly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">uniformly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="conformably" headRef="86">uniformly with</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agreeing" headRef="25">in harmony with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="always">
+			<sg number="1">
+				<word number="1">always</word>
+				<word number="2">invariably</word>
+				<word number="3">without exception</word>
+				<word number="4">without fail</word>
+				<word number="5">unfailingly</word>
+				<word number="6">never otherwise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by clockwork</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ab uno disce omnes">
+			<sg number="1">
+				<word number="1">ab uno disce omnes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

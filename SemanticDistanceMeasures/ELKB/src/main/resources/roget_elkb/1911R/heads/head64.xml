@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="64" name="Arrangement" origNum="#60." class="1" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="arrangement">
+			<sg number="1">
+				<word number="1">arrangement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="plan" headRef="655">plan</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="preparation" headRef="702">preparation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disposal</word>
+				<word number="2">disposition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">collocation</word>
+				<word number="2">allocation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">distribution</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">sorting</word>
+			</sg>
+			<sg number="8">
+				<word number="1">assortment</word>
+				<word number="2">allotment</word>
+				<word number="3">apportionment</word>
+				<word number="4">taxis</word>
+				<word number="5">taxonomy</word>
+				<word number="6">syntaxis</word>
+				<word number="7">graduation</word>
+				<word number="8">organization</word>
+			</sg>
+			<sg number="9">
+				<word number="1">grouping</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tabulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="analysis">
+			<sg number="1">
+				<word number="1">analysis</word>
+				<word number="2">classification</word>
+				<word number="3">clustering</word>
+				<word number="4">division</word>
+				<word number="5">digestion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="digest">
+			<sg number="1">
+				<word number="1">digest</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="compendium" headRef="622">synopsis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">syntagma</word>
+				<word number="2">table</word>
+				<word number="3">atlas</word>
+			</sg>
+			<sg number="4">
+				<word number="1">file</word>
+				<word number="2">database</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="record" headRef="577">register</word>
+			</sg>
+			<sg number="6">
+				<word number="1">organism</word>
+				<word number="2">architecture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sieve">
+			<sg number="1">
+				<word number="1">sieve</word>
+				<word number="2">riddle</word>
+				<word number="3">screen</word>
+				<word number="4">sorter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="reduce to order">
+			<sg number="1">
+				<word number="1">reduce to order</word>
+				<word number="2">bring into order</word>
+			</sg>
+			<sg number="2">
+				<word number="1">introduce order into</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rally</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="arrange">
+			<sg number="1">
+				<word number="1">arrange</word>
+				<word number="2">dispose</word>
+				<word number="3">place</word>
+				<word number="4">form</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put in order</word>
+				<word number="2">set in order</word>
+				<word number="3">place in order</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set out</word>
+				<word number="2">collocate</word>
+				<word number="3">pack</word>
+				<word number="4">marshal</word>
+				<word number="5">range</word>
+				<word number="6">size</word>
+				<word number="7">rank</word>
+				<word number="8">group</word>
+				<word number="9">parcel out</word>
+				<word number="10">allot</word>
+				<word number="11">distribute</word>
+				<word number="12">deal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cast the parts</word>
+				<word number="2">assign the parts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dispose of</word>
+				<word number="2">assign places to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">assort</word>
+				<word number="2">sort</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sift</word>
+				<word number="2">riddle</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put to rights</word>
+				<word number="2">set to rights</word>
+				<word number="3">put into shape</word>
+				<word number="4">put in trim</word>
+				<word number="5">put in array</word>
+			</sg>
+			<sg number="9">
+				<word number="1">apportion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="class">
+			<sg number="1">
+				<word number="1">class</word>
+				<word number="2">classify</word>
+			</sg>
+			<sg number="2">
+				<word number="1">divide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">file</word>
+				<word number="2">string together</word>
+				<word number="3">thread</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="record" headRef="577">register</word>
+			</sg>
+			<sg number="5">
+				<word number="1">catalogue</word>
+				<word number="2">tabulate</word>
+				<word number="3">index</word>
+				<word number="4">graduate</word>
+				<word number="5">digest</word>
+				<word number="6">grade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="methodize">
+			<sg number="1">
+				<word number="1">methodize</word>
+				<word number="2">regulate</word>
+				<word number="3">systematize</word>
+				<word number="4">coordinate</word>
+				<word number="5">organize</word>
+				<word number="6">settle</word>
+				<word number="7">fix</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unravel">
+			<sg number="1">
+				<word number="1">unravel</word>
+				<word number="2">disentangle</word>
+				<word number="3">ravel</word>
+				<word number="4">card</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disembroil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feaze</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="arranged">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">arranged</word>
+			</sg>
+			<sg number="2">
+				<word number="1">embattled</word>
+				<word number="2">in battle array</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cut and dried</word>
+			</sg>
+			<sg number="4">
+				<word number="1">methodical</word>
+				<word number="2">orderly</word>
+				<word number="3">regular</word>
+				<word number="4">systematic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="In vast cumbrous array">
+			<sg number="1">
+				<word number="1">"In vast cumbrous array"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

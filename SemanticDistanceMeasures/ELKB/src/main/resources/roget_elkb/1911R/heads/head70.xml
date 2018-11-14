@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="70" name="Beginning" origNum="#66." class="1" section="4" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="beginning">
+			<sg number="1">
+				<word number="1">beginning</word>
+				<word number="2">commencement</word>
+				<word number="3">opening</word>
+				<word number="4">outset</word>
+				<word number="5">incipience</word>
+				<word number="6">inception</word>
+				<word number="7">inchoation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="precursor" headRef="68">introduction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alpha</word>
+				<word number="2">initial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inauguration</word>
+				<word number="2">debut</word>
+				<word number="3">le premier pas</word>
+				<word number="4">embarcation</word>
+				<word number="5">rising of the curtain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">maiden speech</word>
+			</sg>
+			<sg number="6">
+				<word number="1">outbreak</word>
+				<word number="2">onset</word>
+				<word number="3">brunt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">initiative</word>
+				<word number="2">move</word>
+				<word number="3">first move</word>
+			</sg>
+			<sg number="8">
+				<word number="1">narrow end of the wedge</word>
+				<word number="2">thin end of the wedge</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fresh start</word>
+				<word number="2">new departure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="origin">
+			<sg number="1">
+				<word number="1" paraRef="cause" headRef="160">origin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">source</word>
+				<word number="2">rise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bud</word>
+				<word number="2" paraRef="germ" headRef="160">germ</word>
+			</sg>
+			<sg number="4">
+				<word number="1">egg</word>
+				<word number="2">rudiment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">genesis</word>
+				<word number="2">primogenesis</word>
+				<word number="3">birth</word>
+				<word number="4">nativity</word>
+				<word number="5">cradle</word>
+				<word number="6">infancy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">start</word>
+				<word number="2">inception</word>
+				<word number="3">creation</word>
+				<word number="4" paraRef="starting point" headRef="304">starting point</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="morning" headRef="131">dawn</word>
+			</sg>
+			<sg number="8">
+				<word number="1">evolution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="title-page">
+			<sg number="1">
+				<word number="1">title-page</word>
+			</sg>
+			<sg number="2">
+				<word number="1">head</word>
+				<word number="2">heading</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="front" headRef="244">van</word>
+			</sg>
+			<sg number="4">
+				<word number="1">caption</word>
+				<word number="2">fatihah</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="entrance">
+			<sg number="1">
+				<word number="1">entrance</word>
+				<word number="2">entry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inlet</word>
+				<word number="2">orifice</word>
+				<word number="3">mouth</word>
+				<word number="4">chops</word>
+				<word number="5">lips</word>
+				<word number="6">porch</word>
+				<word number="7">portal</word>
+				<word number="8">portico</word>
+				<word number="9">propylon</word>
+				<word number="10">door</word>
+				<word number="11" new="1">dystonia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gate</word>
+				<word number="2">gateway</word>
+			</sg>
+			<sg number="4">
+				<word number="1">postern</word>
+				<word number="2">wicket</word>
+				<word number="3">threshold</word>
+				<word number="4">vestibule</word>
+			</sg>
+			<sg number="5">
+				<word number="1">propylaeum</word>
+			</sg>
+			<sg number="6">
+				<word number="1">skirts</word>
+				<word number="2" paraRef="edge" headRef="241">border</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">goshawk</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">preservation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="first stage">
+			<sg number="1">
+				<word number="1">first stage</word>
+				<word number="2">first blush</word>
+				<word number="3">first glance</word>
+				<word number="4">first impression</word>
+				<word number="5">first sight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rudiments">
+			<sg number="1">
+				<word number="1">rudiments</word>
+				<word number="2">elements</word>
+				<word number="3">outlines</word>
+				<word number="4">grammar</word>
+				<word number="5">alphabet</word>
+				<word number="6">ABCE</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="begin">
+			<sg number="1">
+				<word number="1">begin</word>
+				<word number="2">start</word>
+				<word number="3">commence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conceive</word>
+				<word number="2">open</word>
+				<word number="3">dawn</word>
+				<word number="4">set in</word>
+				<word number="5">take its rise</word>
+				<word number="6">enter upon</word>
+				<word number="7">enter</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="depart" headRef="304">set out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">embark in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">incept</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="initiate">
+			<sg number="1">
+				<word number="1">initiate</word>
+				<word number="2">launch</word>
+				<word number="3">inaugurate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inchoate">
+			<sg number="1">
+				<word number="1">inchoate</word>
+				<word number="2">rise</word>
+				<word number="3">arise</word>
+				<word number="4">originate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="usher in">
+			<sg number="1">
+				<word number="1">usher in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lead off</word>
+				<word number="2">lead the way</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take the lead</word>
+				<word number="2">take the initiative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">head</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stand at the head</word>
+				<word number="2">stand first</word>
+				<word number="3">stand for</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="prepare" headRef="702">lay the foundations</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="cause" headRef="160">found</word>
+			</sg>
+			<sg number="8">
+				<word number="1">set up</word>
+				<word number="2">set  on foot</word>
+				<word number="3">agoing</word>
+				<word number="4">set abroach</word>
+				<word number="5">set the ball in motion</word>
+			</sg>
+			<sg number="9">
+				<word number="1">apply the match to a train</word>
+			</sg>
+			<sg number="10">
+				<word number="1">broach</word>
+			</sg>
+			<sg number="11">
+				<word number="1">open up</word>
+				<word number="2">open the door to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="get underway">
+			<sg number="1">
+				<word number="1">get underway</word>
+				<word number="2">set about</word>
+				<word number="3">get to work</word>
+				<word number="4">set to work</word>
+				<word number="5">set to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make a beginning</word>
+				<word number="2">make a start</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="handsel">
+			<sg number="1">
+				<word number="1">handsel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take the first step</word>
+				<word number="2">lay the first stone</word>
+				<word number="3">cut the first turf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break ground</word>
+				<word number="2">break the ice</word>
+				<word number="3">break cover</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass the Rubicon</word>
+				<word number="2">cross  the Rubicon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">open fire</word>
+				<word number="2">open the ball</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ventilate</word>
+				<word number="2">air</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="undertake" headRef="705">undertake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="come into existence">
+			<sg number="1">
+				<word number="1">come into existence</word>
+				<word number="2">come into the world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make one's debut</word>
+				<word number="2">take birth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">burst forth</word>
+				<word number="2">break out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spring up</word>
+				<word number="2">spring forth</word>
+				<word number="3">crop up</word>
+				<word number="4">pop up</word>
+				<word number="5">appear</word>
+				<word number="6">materialize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="begin at the beginning">
+			<sg number="1">
+				<word number="1">begin at the beginning</word>
+				<word number="2">begin  ab ovo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="begin again">
+			<sg number="1">
+				<word number="1">begin again</word>
+				<word number="2">begin  de novo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">start afresh</word>
+				<word number="2">make a fresh start</word>
+				<word number="3">take it from the top</word>
+				<word number="4">shuffle the cards</word>
+				<word number="5">reshuffle the cards</word>
+				<word number="6">resume</word>
+				<word number="7">recommence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="grunt">
+			<sg number="1">
+				<word number="1" new="1">grunt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="beginning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">beginning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">initial</word>
+				<word number="2">initiatory</word>
+				<word number="3">initiative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inceptive</word>
+				<word number="2">introductory</word>
+				<word number="3">incipient</word>
+			</sg>
+			<sg number="4">
+				<word number="1">proemial</word>
+				<word number="2">inaugural</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inchoate</word>
+				<word number="2">inchoative</word>
+			</sg>
+			<sg number="6">
+				<word number="1">embryonic</word>
+				<word number="2">rudimental</word>
+			</sg>
+			<sg number="7">
+				<word number="1">primogenial</word>
+			</sg>
+			<sg number="8">
+				<word number="1">primeval</word>
+				<word number="2">primitive</word>
+				<word number="3" paraRef="old" headRef="130">primordial</word>
+			</sg>
+			<sg number="9">
+				<word number="1">aboriginal</word>
+			</sg>
+			<sg number="10">
+				<word number="1">natal</word>
+				<word number="2">nascent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="first">
+			<sg number="1">
+				<word number="1">first</word>
+				<word number="2">foremost</word>
+				<word number="3">leading</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maiden</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="begun">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">begun</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">just begun</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at the beginning">
+			<sg number="1">
+				<word number="1">at the beginning</word>
+				<word number="2" paraRef="" posRef="n.">in the beginning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">first</word>
+				<word number="2">in the first place</word>
+				<word number="3">imprimis</word>
+				<word number="4">first and foremost</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in limine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the bud</word>
+				<word number="2">in embryo</word>
+				<word number="3">in its infancy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">from the beginning</word>
+				<word number="2">from its birth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ab initio</word>
+				<word number="2">ab ovo</word>
+				<word number="3">ab incunabilis</word>
+				<word number="4">ab origine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="let's get going">
+			<sg number="1">
+				<word number="1">let's get going!</word>
+				<word number="2">let's get this show on the road!</word>
+				<word number="3">up and at 'em!</word>
+				<word number="4">aller Anfang ist schwer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dimidium facti qui coepit habet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">omnium rerum principia parva sunt</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

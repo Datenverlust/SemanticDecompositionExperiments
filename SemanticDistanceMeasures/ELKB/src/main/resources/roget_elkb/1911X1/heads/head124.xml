@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="124" name="The Present Time" origNum="#118." class="1" section="6" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="the present">
+			<sg number="1">
+				<word number="1">the present</word>
+				<word number="2">the present time</word>
+				<word number="3">the present day</word>
+				<word number="4">the present moment</word>
+				<word number="5">the present juncture</word>
+				<word number="6">the present occasion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the times</word>
+				<word number="2">the  existing time</word>
+				<word number="3">the  time being</word>
+			</sg>
+			<sg number="3">
+				<word number="1">today</word>
+				<word number="2">these days</word>
+				<word number="3">nowadays</word>
+				<word number="4">our times</word>
+				<word number="5">modern times</word>
+				<word number="6">the twentieth century</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nonce</word>
+				<word number="2">crisis</word>
+				<word number="3">epoch</word>
+				<word number="4">day</word>
+				<word number="5">hour</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="age">
+			<sg number="1">
+				<word number="1">age</word>
+				<word number="2">time of life</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="present">
+			<sg number="1">
+				<word number="1">present</word>
+				<word number="2">actual</word>
+				<word number="3">instant</word>
+				<word number="4">current</word>
+				<word number="5">existing</word>
+				<word number="6">extant</word>
+				<word number="7">that is</word>
+			</sg>
+			<sg number="2">
+				<word number="1">present-day</word>
+				<word number="2">up-to-date</word>
+				<word number="3">up-to-the-moment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at this time">
+			<sg number="1">
+				<word number="1">at this time</word>
+				<word number="2" paraRef="moment" headRef="119">at this moment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">at the present time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">now</word>
+				<word number="2">at present</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="at this time of  day">
+			<sg number="1">
+				<word number="1">at this time of  day</word>
+				<word number="2">today</word>
+				<word number="3">nowadays</word>
+			</sg>
+			<sg number="2">
+				<word number="1">already</word>
+			</sg>
+			<sg number="3">
+				<word number="1">even now</word>
+				<word number="2">but now</word>
+				<word number="3">just now</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on the present occasion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">for the time being</word>
+				<word number="2">for the nonce</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pro hac vice</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on the nail</word>
+				<word number="2">on the spot</word>
+			</sg>
+			<sg number="8">
+				<word number="1">on the spur of the moment</word>
+				<word number="2">until now</word>
+			</sg>
+			<sg number="9">
+				<word number="1">to this day</word>
+				<word number="2">to the present day</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the present hour alone is man's">
+			<sg number="1">
+				<word number="1">"the present hour alone is man's"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

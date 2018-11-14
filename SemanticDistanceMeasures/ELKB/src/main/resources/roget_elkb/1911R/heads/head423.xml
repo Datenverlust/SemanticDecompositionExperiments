@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="423" name="Snap" origNum="#406." class="3" section="3" subSection="2" headGroup="20">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="snap">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">snap</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">rapping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decrepitation</word>
+				<word number="2">crepitation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">report</word>
+				<word number="2">thud</word>
+			</sg>
+			<sg number="5">
+				<word number="1">burst</word>
+				<word number="2">explosion</word>
+				<word number="3">blast</word>
+				<word number="4">boom</word>
+				<word number="5">discharge</word>
+				<word number="6">detonation</word>
+				<word number="7">firing</word>
+				<word number="8">salvo</word>
+				<word number="9">volley</word>
+				<word number="10" new="1">repens</word>
+				<word number="11" new="1">legibility</word>
+				<word number="12" new="1">djembe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="squib">
+			<sg number="1">
+				<word number="1">squib</word>
+				<word number="2">cracker</word>
+				<word number="3">firecracker</word>
+				<word number="4">cherry bomb</word>
+				<word number="5">M80</word>
+				<word number="6">gun</word>
+				<word number="7">cap</word>
+				<word number="8">cap gun</word>
+				<word number="9">popgun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="implosion">
+			<sg number="1">
+				<word number="1">implosion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bomb burst">
+			<sg number="1">
+				<word number="1">bomb burst</word>
+				<word number="2">atomic explosion</word>
+				<word number="3" paraRef="arms" headRef="756">nuclear explosion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="gunpowder">
+			<sg number="1">
+				<word number="1">gunpowder</word>
+				<word number="2">dynamite</word>
+				<word number="3">gun cotton</word>
+				<word number="4">nitroglycerine</word>
+				<word number="5">nitrocellulose</word>
+				<word number="6">plastic explosive</word>
+				<word number="7">plastique</word>
+				<word number="8">TNT</word>
+				<word number="9">cordite</word>
+				<word number="10">trinitrotoluene</word>
+				<word number="11">picric acid</word>
+				<word number="12">picrates</word>
+				<word number="13" paraRef="arms" headRef="756">mercury fulminate</word>
+				<word number="14" new="1">cathedral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="whack">
+			<sg number="1">
+				<word number="1">whack</word>
+				<word number="2">wham</word>
+				<word number="3">pow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="rap">
+			<sg number="1">
+				<word number="1">rap</word>
+				<word number="2">snap</word>
+				<word number="3">tap</word>
+				<word number="4">knock</word>
+				<word number="5">ping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">click</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clash</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crack</word>
+				<word number="2">crackle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crash</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pop</word>
+			</sg>
+			<sg number="7">
+				<word number="1">slam</word>
+				<word number="2">bang</word>
+				<word number="3">blast</word>
+				<word number="4">boom</word>
+				<word number="5">clap</word>
+				<word number="6">clang</word>
+				<word number="7">clack</word>
+				<word number="8">whack</word>
+				<word number="9">wham</word>
+			</sg>
+			<sg number="8">
+				<word number="1">brustle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">burst on the ear</word>
+			</sg>
+			<sg number="10">
+				<word number="1">crepitate</word>
+				<word number="2">rump</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="blow up">
+			<sg number="1">
+				<word number="1">blow up</word>
+				<word number="2">blow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">detonate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rapping">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">rapping</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="kaboom">
+			<sg number="1">
+				<word number="1">kaboom!</word>
+				<word number="2">whamo!</word>
+				<word number="3">Heewhack!</word>
+				<word number="4">pow!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

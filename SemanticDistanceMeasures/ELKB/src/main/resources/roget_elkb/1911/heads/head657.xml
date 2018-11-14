@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="657" name="Mid-course" origNum="#628." class="6" section="2" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="mid-course">
+			<sg number="1">
+				<word number="1">mid-course</word>
+				<word number="2">middle course</word>
+				<word number="3">midcourse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mean" headRef="31">mean</word>
+				<word number="2" paraRef="middle" headRef="72">middle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">juste milieu</word>
+				<word number="2">mezzo termine</word>
+				<word number="3">golden mean</word>
+				<word number="4">aurea mediocritas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="straight">
+			<sg number="1">
+				<word number="1" paraRef="direct" headRef="289">straight</word>
+				<word number="2">straight path</word>
+			</sg>
+			<sg number="2">
+				<word number="1">short cut</word>
+				<word number="2">cross cut</word>
+			</sg>
+			<sg number="3">
+				<word number="1">great circle sailing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="neutrality">
+			<sg number="1">
+				<word number="1">neutrality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">half measure</word>
+				<word number="2">half and half measures</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compromise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="keep in a middle course">
+			<sg number="1">
+				<word number="1">keep in a middle course</word>
+				<word number="2">preserve a middle course</word>
+				<word number="3">preserve an even course</word>
+				<word number="4" paraRef="direct" headRef="289">go straight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="go halfway">
+			<sg number="1">
+				<word number="1">go halfway</word>
+				<word number="2">compromise</word>
+				<word number="3">make a compromise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="straight">
+			<sg number="1">
+				<word number="1" paraRef="direct" headRef="289">straight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="medium tenuere beati">
+			<sg number="1">
+				<word number="1">medium tenuere beati</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="639" name="Predetermination" origNum="#611." class="6" section="1" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="predestination">
+			<sg number="1">
+				<word number="1">predestination</word>
+				<word number="2">preordination</word>
+				<word number="3">premeditation</word>
+				<word number="4">predeliberation</word>
+				<word number="5">predetermination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">foregone conclusion</word>
+				<word number="2">fait accompli</word>
+			</sg>
+			<sg number="3">
+				<word number="1">parti pris</word>
+			</sg>
+			<sg number="4">
+				<word number="1">resolve</word>
+				<word number="2">propendency</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="intention" headRef="649">intention</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="project" headRef="655">project</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fate</word>
+				<word number="2">foredoom</word>
+				<word number="3">necessity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="predestine">
+			<sg number="1">
+				<word number="1">predestine</word>
+				<word number="2">preordain</word>
+				<word number="3">predetermine</word>
+				<word number="4">premeditate</word>
+				<word number="5">resolve</word>
+				<word number="6">concert</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resolve beforehand</word>
+				<word number="2">predesignate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="prepense">
+			<sg number="1">
+				<word number="1">prepense</word>
+				<word number="2" paraRef="" posRef="v.">premeditated</word>
+				<word number="3">predesignated</word>
+				<word number="4">predesigned</word>
+			</sg>
+			<sg number="2">
+				<word number="1">advised</word>
+				<word number="2">studied</word>
+				<word number="3">designed</word>
+				<word number="4">calculated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aforethought</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="intended" headRef="649">intended</word>
+			</sg>
+			<sg number="5">
+				<word number="1">foregone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="well-laid">
+			<sg number="1">
+				<word number="1">well-laid</word>
+				<word number="2">well-devised</word>
+				<word number="3">well-weighed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maturely considered</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cunning</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="advisedly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">advisedly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with premeditation</word>
+				<word number="2">deliberately</word>
+				<word number="3">all things considered</word>
+				<word number="4">with eyes open</word>
+				<word number="5">in cold blood</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intentionally" headRef="649">intentionally</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="620" name="Description" origNum="#594." class="5" section="3" subSection="2" headGroup="23">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="description">
+			<sg number="1">
+				<word number="1">description</word>
+				<word number="2">account</word>
+				<word number="3">statement</word>
+				<word number="4">report</word>
+				<word number="5" new="1">disavowal</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disclosure" headRef="555">expose</word>
+				<word number="2">particulars</word>
+			</sg>
+			<sg number="3">
+				<word number="1">state of facts</word>
+				<word number="2">summary of facts</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="abstract" headRef="622">brief</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="record" headRef="577">return</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="list" headRef="90">catalogue raisonne</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="information" headRef="552">guidebook</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="delineation">
+			<sg number="1">
+				<word number="1" paraRef="representation" headRef="580">delineation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sketch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monograph</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minute account</word>
+				<word number="2">detailed particular account</word>
+				<word number="3">circumstantial account</word>
+				<word number="4">graphic account</word>
+			</sg>
+			<sg number="5">
+				<word number="1">narration</word>
+				<word number="2">recital</word>
+				<word number="3">rehearsal</word>
+				<word number="4">relation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="historiography">
+			<sg number="1">
+				<word number="1">historiography</word>
+				<word number="2">chronography</word>
+			</sg>
+			<sg number="2">
+				<word number="1">historic Muse</word>
+				<word number="2">Clio</word>
+			</sg>
+			<sg number="3">
+				<word number="1">history</word>
+			</sg>
+			<sg number="4">
+				<word number="1">biography</word>
+				<word number="2">autobiography</word>
+			</sg>
+			<sg number="5">
+				<word number="1">necrology</word>
+				<word number="2">obituary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="narrative">
+			<sg number="1">
+				<word number="1">narrative</word>
+				<word number="2">history</word>
+			</sg>
+			<sg number="2">
+				<word number="1">memoir</word>
+				<word number="2">memorials</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="chronicle" headRef="577">annals</word>
+			</sg>
+			<sg number="4">
+				<word number="1">saga</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tradition</word>
+				<word number="2">legend</word>
+				<word number="3">story</word>
+				<word number="4">tale</word>
+				<word number="5">historiette</word>
+				<word number="6" new="1">moneyer</word>
+				<word number="7" new="1">junction</word>
+				<word number="8" new="1">hatching</word>
+				<word number="9" new="1">exterior</word>
+			</sg>
+			<sg number="6">
+				<word number="1">personal narrative</word>
+				<word number="2">journal</word>
+				<word number="3">life</word>
+				<word number="4">adventures</word>
+				<word number="5">fortunes</word>
+				<word number="6">experiences</word>
+				<word number="7">confessions</word>
+			</sg>
+			<sg number="7">
+				<word number="1">anecdote</word>
+				<word number="2">ana</word>
+				<word number="3">trait</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">bowstring</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">fluxgate</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">obscurantism</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">consciousness</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">premiership</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">grappling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="work of fiction">
+			<sg number="1">
+				<word number="1">work of fiction</word>
+				<word number="2">novel</word>
+				<word number="3">romance</word>
+				<word number="4">Minerva press</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fairy tale</word>
+				<word number="2">nursery tale</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fable</word>
+				<word number="2">parable</word>
+				<word number="3">apologue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dime novel</word>
+				<word number="2">penny dreadful</word>
+				<word number="3" paraRef="" posRef="v.">shilling shocker      relator</word>
+			</sg>
+			<sg number="5">
+				<word number="1">raconteur</word>
+				<word number="2" paraRef="recorder" headRef="579">historian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">biographer</word>
+				<word number="2">fabulist</word>
+				<word number="3">novelist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="salamander">
+			<sg number="1">
+				<word number="1" new="1">salamander</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="mount">
+			<sg number="1">
+				<word number="1" new="1">mount</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="oakum">
+			<sg number="1">
+				<word number="1" new="1">oakum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="describe">
+			<sg number="1">
+				<word number="1">describe</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="state" headRef="561">set forth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">draw a picture</word>
+				<word number="2">picture</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="represent" headRef="580">portray</word>
+			</sg>
+			<sg number="5">
+				<word number="1">characterize</word>
+				<word number="2">particularize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">narrate</word>
+				<word number="2">relate</word>
+				<word number="3">recite</word>
+				<word number="4">recount</word>
+				<word number="5">sum up</word>
+				<word number="6">run over</word>
+				<word number="7">recapitulate</word>
+				<word number="8">rehearse</word>
+				<word number="9">fight one's battles over again</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unfold a tale">
+			<sg number="1">
+				<word number="1" paraRef="disclose" headRef="555">unfold a tale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give an account of</word>
+				<word number="2">render an account of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">report</word>
+				<word number="2">make a report</word>
+				<word number="3">draw up a statement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="detail">
+			<sg number="1">
+				<word number="1">detail</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enter into particulars</word>
+				<word number="2">enter into details</word>
+				<word number="3">descend to particulars</word>
+				<word number="4">descend to details</word>
+			</sg>
+			<sg number="3">
+				<word number="1">itemize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="descriptive">
+			<sg number="1">
+				<word number="1">descriptive</word>
+				<word number="2">graphic</word>
+				<word number="3">narrative</word>
+				<word number="4">epic</word>
+				<word number="5">suggestive</word>
+				<word number="6">well-drawn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">historic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">traditional</word>
+				<word number="2">traditionary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">legendary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">anecdotic</word>
+				<word number="2">storied</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">described</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="furor scribendi">
+			<sg number="1">
+				<word number="1">furor scribendi</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

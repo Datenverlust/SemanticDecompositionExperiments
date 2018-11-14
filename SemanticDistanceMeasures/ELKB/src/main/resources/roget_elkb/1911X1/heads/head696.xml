@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="696" name="Pitfall" origNum="#667." class="6" section="2" subSection="2" headGroup="22">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rocks">
+			<sg number="1">
+				<word number="1">rocks</word>
+				<word number="2">reefs</word>
+				<word number="3">coral reef</word>
+				<word number="4">sunken rocks</word>
+				<word number="5">snags</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sands</word>
+				<word number="2">quicksands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">syrt</word>
+				<word number="2">syrtis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Goodwin sands</word>
+				<word number="2">sandy foundation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slippery ground</word>
+			</sg>
+			<sg number="6">
+				<word number="1">breakers</word>
+				<word number="2">shoals</word>
+				<word number="3">shallows</word>
+				<word number="4">bank</word>
+				<word number="5">shelf</word>
+				<word number="6">flat</word>
+				<word number="7">lee shore</word>
+				<word number="8">ironbound coast</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rock ahead</word>
+				<word number="2">breakers ahead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="precipice">
+			<sg number="1">
+				<word number="1">precipice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maelstrom</word>
+				<word number="2">volcano</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ambush" headRef="556">ambush</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pitfall</word>
+				<word number="2">trapdoor</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="snare" headRef="571">trap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sword of Damocles">
+			<sg number="1">
+				<word number="1">sword of Damocles</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wolf at the door</word>
+				<word number="2">snake in the grass</word>
+				<word number="3">death in the pot</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="latency" headRef="551">latency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="source of danger">
+			<sg number="1">
+				<word number="1">source of danger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ugly customer</word>
+				<word number="2">dangerous person</word>
+				<word number="3">le chat qui dort</word>
+			</sg>
+			<sg number="3">
+				<word number="1">firebrand</word>
+				<word number="2">hornet's nest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="latet anquis in herba">
+			<sg number="1">
+				<word number="1">latet anquis in herba</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proximus ardet Ucalegon</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

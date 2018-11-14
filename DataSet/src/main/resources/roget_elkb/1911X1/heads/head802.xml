@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="802" name="Conditions" origNum="#770." class="7" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="conditions">
+			<sg number="1">
+				<word number="1">conditions</word>
+				<word number="2">terms</word>
+			</sg>
+			<sg number="2">
+				<word number="1">articles</word>
+				<word number="2">articles of agreement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">memorandum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clauses">
+			<sg number="1">
+				<word number="1">clauses</word>
+				<word number="2">provisions</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="qualification" headRef="492">proviso</word>
+			</sg>
+			<sg number="3">
+				<word number="1">covenant</word>
+				<word number="2">stipulation</word>
+				<word number="3">obligation</word>
+				<word number="4">ultimatum</word>
+				<word number="5">sine qua non</word>
+			</sg>
+			<sg number="4">
+				<word number="1">casus foederris</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="make terms">
+			<sg number="1">
+				<word number="1">make terms</word>
+				<word number="2" paraRef="contract" headRef="801">come to terms</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make it a condition</word>
+				<word number="2">stipulate</word>
+				<word number="3">insist upon</word>
+				<word number="4">make a point of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bind</word>
+				<word number="2">tie up</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="conditional">
+			<sg number="1">
+				<word number="1">conditional</word>
+				<word number="2">provisional</word>
+				<word number="3">guarded</word>
+				<word number="4">fenced</word>
+				<word number="5">hedged in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="conditionally">
+			<sg number="1">
+				<word number="1" paraRef="qualification" headRef="492">conditionally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">provisionally</word>
+				<word number="2">pro re nata</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on condition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">with a string to it</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

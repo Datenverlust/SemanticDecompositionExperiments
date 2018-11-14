@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="28" name="Degree" origNum="#26." class="1" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="degree">
+			<sg number="1">
+				<word number="1">degree</word>
+				<word number="2">grade</word>
+				<word number="3">extent</word>
+				<word number="4">measure</word>
+				<word number="5">amount</word>
+				<word number="6">ratio</word>
+				<word number="7">stint</word>
+				<word number="8">standard</word>
+				<word number="9">height</word>
+				<word number="10">pitch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reach</word>
+				<word number="2">amplitude</word>
+				<word number="3">range</word>
+				<word number="4">scope</word>
+				<word number="5">caliber</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gradation</word>
+				<word number="2">shade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenor</word>
+				<word number="2">compass</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sphere</word>
+				<word number="2">station</word>
+				<word number="3">rank</word>
+				<word number="4">standing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rate</word>
+				<word number="2">way</word>
+				<word number="3">sort</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="point">
+			<sg number="1">
+				<word number="1">point</word>
+				<word number="2">mark</word>
+				<word number="3" paraRef="term" headRef="75">stage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intensity</word>
+				<word number="2" paraRef="greatness" headRef="33">strength</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="comparative">
+			<sg number="1">
+				<word number="1">comparative</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gradual</word>
+				<word number="2">shading off</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="limit" headRef="243">within the bounds</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by degrees">
+			<sg number="1">
+				<word number="1">by degrees</word>
+				<word number="2">gradually</word>
+				<word number="3">inasmuch</word>
+				<word number="4">pro tanto</word>
+			</sg>
+			<sg number="2">
+				<word number="1">however</word>
+				<word number="2">howsoever</word>
+			</sg>
+			<sg number="3">
+				<word number="1">step by step</word>
+				<word number="2">bit by bit</word>
+				<word number="3">little by little</word>
+				<word number="4">inch by inch</word>
+				<word number="5">drop by drop</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a little at a time</word>
+				<word number="2">by inches</word>
+				<word number="3">by slow degrees</word>
+				<word number="4">by degrees</word>
+				<word number="5">by little and little</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in some degree</word>
+				<word number="2">in some measure</word>
+			</sg>
+			<sg number="6">
+				<word number="1">to some extent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">di grado in grado</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

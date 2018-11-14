@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1031" name="Piety" origNum="#987." class="8" section="5" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="piety">
+			<sg number="1">
+				<word number="1">piety</word>
+				<word number="2">religion</word>
+				<word number="3">theism</word>
+				<word number="4">faith</word>
+			</sg>
+			<sg number="2">
+				<word number="1">religiousness</word>
+				<word number="2" paraRef="" posRef="adj.">holiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">saintship</word>
+			</sg>
+			<sg number="4">
+				<word number="1">religionism</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="sanctimony" headRef="1032">assumed piety</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="respect" headRef="970">reverence</word>
+			</sg>
+			<sg number="7">
+				<word number="1">humility</word>
+				<word number="2">veneration</word>
+				<word number="3">devotion</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="worship" headRef="1034">prostration</word>
+			</sg>
+			<sg number="9">
+				<word number="1">grace</word>
+				<word number="2">unction</word>
+				<word number="3">edification</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sanctity</word>
+				<word number="2">sanctitude</word>
+			</sg>
+			<sg number="11">
+				<word number="1">consecration</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">asceticism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spiritual existence">
+			<sg number="1">
+				<word number="1">spiritual existence</word>
+				<word number="2">odor of sanctity</word>
+				<word number="3">beauty of holiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="theopathy">
+			<sg number="1">
+				<word number="1">theopathy</word>
+				<word number="2">beatification</word>
+				<word number="3">adoption</word>
+				<word number="4">regeneration</word>
+				<word number="5">conversion</word>
+				<word number="6">justification</word>
+				<word number="7">sanctification</word>
+				<word number="8">salvation</word>
+				<word number="9">inspiration</word>
+				<word number="10">bread of life</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Body and Blood of Christ</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="believer">
+			<sg number="1">
+				<word number="1">believer</word>
+				<word number="2">convert</word>
+				<word number="3">theist</word>
+				<word number="4">Christian</word>
+				<word number="5">devotee</word>
+				<word number="6">pietist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the good</word>
+				<word number="2">the righteous</word>
+				<word number="3">the just</word>
+				<word number="4">the believing</word>
+				<word number="5">the elect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Saint</word>
+				<word number="2">Madonna</word>
+				<word number="3">Notre Dame</word>
+				<word number="4">Our Lady</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="the children of God">
+			<sg number="1">
+				<word number="1">the children of God</word>
+				<word number="2">the children of the Kingdom</word>
+				<word number="3">the children of the light</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be pious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be pious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">have faith</word>
+			</sg>
+			<sg number="3">
+				<word number="1">believe</word>
+				<word number="2">receive Christ</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="revere" headRef="970">revere</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be converted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="convert">
+			<sg number="1">
+				<word number="1">convert</word>
+				<word number="2">edify</word>
+				<word number="3">sanctify</word>
+				<word number="4">keep holy</word>
+				<word number="5">beatify</word>
+				<word number="6">regenerate</word>
+				<word number="7">inspire</word>
+				<word number="8">consecrate</word>
+				<word number="9">enshrine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pious">
+			<sg number="1">
+				<word number="1">pious</word>
+				<word number="2">religious</word>
+				<word number="3">devout</word>
+				<word number="4">devoted</word>
+				<word number="5">reverent</word>
+				<word number="6">godly</word>
+				<word number="7">heavenly- minded</word>
+				<word number="8">humble</word>
+				<word number="9">pure</word>
+				<word number="10">holy</word>
+				<word number="11">spiritual</word>
+				<word number="12">pietistic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saintly</word>
+				<word number="2">saint-like</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seraphic</word>
+				<word number="2">sacred</word>
+				<word number="3">solemn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="believing">
+			<sg number="1">
+				<word number="1">believing</word>
+				<word number="2">faithful</word>
+				<word number="3">Christian</word>
+				<word number="4">Catholic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="elected">
+			<sg number="1">
+				<word number="1">elected</word>
+				<word number="2">adopted</word>
+				<word number="3">justified</word>
+				<word number="4">sanctified</word>
+				<word number="5">regenerated</word>
+				<word number="6">inspired</word>
+				<word number="7">consecrated</word>
+				<word number="8">converted</word>
+				<word number="9">unearthly</word>
+				<word number="10">not of the earth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ne vile fano">
+			<sg number="1">
+				<word number="1">ne vile fano</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"pure-eyed Faith . . . thou hovering angel girt with golden wings"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

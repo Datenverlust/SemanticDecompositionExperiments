@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="205" name="Distance" origNum="#196." class="2" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="distance">
+			<sg number="1">
+				<word number="1">distance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="space" headRef="188">space</word>
+			</sg>
+			<sg number="3">
+				<word number="1">remoteness</word>
+				<word number="2">farness</word>
+				<word number="3">far-cry to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">longinquity</word>
+				<word number="2">elongation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">offing</word>
+				<word number="2">background</word>
+			</sg>
+			<sg number="6">
+				<word number="1">remote region</word>
+			</sg>
+			<sg number="7">
+				<word number="1">removedness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">parallax</word>
+			</sg>
+			<sg number="9">
+				<word number="1">reach</word>
+				<word number="2">span</word>
+				<word number="3">stride</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="outpost">
+			<sg number="1">
+				<word number="1">outpost</word>
+				<word number="2">outskirt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horizon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aphelion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">foreign parts</word>
+				<word number="2">ultima Thule</word>
+				<word number="3">ne plus ultra</word>
+				<word number="4">antipodes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">long range</word>
+				<word number="2">giant's stride</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dispersion">
+			<sg number="1">
+				<word number="1" paraRef="dispersion" headRef="77">dispersion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="length">
+			<sg number="1">
+				<word number="1" paraRef="length" headRef="209">length</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cosmic distance">
+			<sg number="1">
+				<word number="1">cosmic distance</word>
+				<word number="2">light-years</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be distant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be distant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">extend to</word>
+				<word number="2">stretch to</word>
+				<word number="3">reach to</word>
+				<word number="4">spread to</word>
+				<word number="5">go to</word>
+				<word number="6">get to</word>
+				<word number="7">stretch away to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">range</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="remain at a distance">
+			<sg number="1">
+				<word number="1">remain at a distance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep away</word>
+				<word number="2">keep off</word>
+				<word number="3">keep aloof</word>
+				<word number="4">keep clear of</word>
+				<word number="5">stand away</word>
+				<word number="6">stand off</word>
+				<word number="7">stand aloof</word>
+				<word number="8">stand clear of</word>
+				<word number="9">stay away</word>
+				<word number="10">keep one's distance'</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="distance">
+			<sg number="1">
+				<word number="1">distance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">distance oneself from</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="distant">
+			<sg number="1">
+				<word number="1">distant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">far off</word>
+				<word number="2">far away</word>
+			</sg>
+			<sg number="3">
+				<word number="1">remote</word>
+				<word number="2">telescopic</word>
+				<word number="3">distal</word>
+				<word number="4">wide of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">stretching to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">yon</word>
+				<word number="2">yonder</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ulterior</word>
+			</sg>
+			<sg number="7">
+				<word number="1">transmarine</word>
+				<word number="2">transpontine</word>
+				<word number="3">transatlantic</word>
+				<word number="4">transalpine</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tramontane</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ultramontane</word>
+				<word number="2">ultramundane</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hyperborean</word>
+				<word number="2">antipodean</word>
+			</sg>
+			<sg number="11">
+				<word number="1">inaccessible</word>
+				<word number="2">out of the way</word>
+			</sg>
+			<sg number="12">
+				<word number="1">unapproached</word>
+				<word number="2">unapproachable</word>
+			</sg>
+			<sg number="13">
+				<word number="1">incontiguous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="far off">
+			<sg number="1">
+				<word number="1">far off</word>
+				<word number="2">far away</word>
+			</sg>
+			<sg number="2">
+				<word number="1">afar</word>
+				<word number="2">afar off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">a long way off</word>
+				<word number="2">a great way off</word>
+				<word number="3">a good way off</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wide away</word>
+				<word number="2">aloof</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wide of</word>
+				<word number="2">clear of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">out of the way</word>
+				<word number="2">out of reach</word>
+			</sg>
+			<sg number="9">
+				<word number="1">abroad</word>
+				<word number="2">yonder</word>
+				<word number="3">farther</word>
+				<word number="4">further</word>
+				<word number="5">beyond</word>
+			</sg>
+			<sg number="10">
+				<word number="1">outre mer</word>
+				<word number="2">over the border</word>
+				<word number="3">far and wide</word>
+				<word number="4">"over the hills and far away"</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="over great space" headRef="188">from pole to pole</word>
+			</sg>
+			<sg number="12">
+				<word number="1">to the uttermost parts</word>
+				<word number="2">to the ends of the earth</word>
+			</sg>
+			<sg number="13">
+				<word number="1">out of hearing</word>
+				<word number="2">nobody knows where</word>
+				<word number="3">a perte de vue</word>
+				<word number="4">out of the sphere of</word>
+				<word number="5">wide of the mark</word>
+			</sg>
+			<sg number="14">
+				<word number="1">a far cry to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="apart">
+			<sg number="1">
+				<word number="1">apart</word>
+				<word number="2">asunder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wide apart</word>
+				<word number="2">wide asunder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">longo intervallo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at arm's length</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="distance lends enchantment">
+			<sg number="1">
+				<word number="1">"distance lends enchantment"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"it's a long long way to Tipperary"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">out of sight</word>
+				<word number="2">out of mind</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

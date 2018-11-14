@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="538" name="Supposition" origNum="#514." class="4" section="7" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="supposition">
+			<sg number="1">
+				<word number="1">supposition</word>
+				<word number="2">assumption</word>
+				<word number="3">assumed position</word>
+				<word number="4">postulation</word>
+				<word number="5">condition</word>
+				<word number="6">presupposition</word>
+				<word number="7">hypothesis</word>
+				<word number="8">blue sky hypothesis</word>
+				<word number="9">postulate</word>
+				<word number="10">postulatum</word>
+				<word number="11">theory</word>
+				<word number="12" new="1">eugenicist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thesis</word>
+				<word number="2">theorem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">de.dailab.nsm.semanticDistanceMeasures.data</word>
+			</sg>
+			<sg number="4">
+				<word number="1">proposition</word>
+				<word number="2">position</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="plan" headRef="655">proposal</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="belief" headRef="508">presumption</word>
+			</sg>
+			<sg number="7">
+				<word number="1">divination</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">revise</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">anthropologist</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">hedge</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">partes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="conjecture">
+			<sg number="1">
+				<word number="1">conjecture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guess</word>
+				<word number="2">guesswork</word>
+				<word number="3">speculation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rough guess</word>
+				<word number="2">shot</word>
+				<word number="3">shot in the dark</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conjecturality</word>
+			</sg>
+			<sg number="5">
+				<word number="1">surmise</word>
+				<word number="2">suspicion</word>
+				<word number="3">sneaking suspicion</word>
+			</sg>
+			<sg number="6">
+				<word number="1">estimate</word>
+				<word number="2" paraRef="nearness" headRef="206">approximation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">therapeutic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inkling">
+			<sg number="1">
+				<word number="1">inkling</word>
+				<word number="2">suggestion</word>
+				<word number="3">hint</word>
+				<word number="4">intimation</word>
+				<word number="5">notion</word>
+				<word number="6">impression</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bare supposition</word>
+				<word number="2">vague supposition</word>
+				<word number="3">loose supposition</word>
+				<word number="4">loose suggestion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="association of ideas">
+			<sg number="1">
+				<word number="1" paraRef="analogy" headRef="539">association of ideas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metonym</word>
+				<word number="2">metonymy</word>
+				<word number="3" paraRef="metaphor" headRef="546">simile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="conceit">
+			<sg number="1">
+				<word number="1">conceit</word>
+				<word number="2">idea</word>
+				<word number="3">thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">original idea</word>
+				<word number="2" paraRef="imagination" headRef="540">invention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="salt">
+			<sg number="1">
+				<word number="1" new="1">salt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="varenicline">
+			<sg number="1">
+				<word number="1" new="1">varenicline</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="gallina">
+			<sg number="1">
+				<word number="1" new="1">gallina</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="suppose">
+			<sg number="1">
+				<word number="1">suppose</word>
+				<word number="2">conjecture</word>
+				<word number="3">surmise</word>
+				<word number="4">suspect</word>
+				<word number="5">guess</word>
+				<word number="6">divine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">theorize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">presume</word>
+				<word number="2">presurmise</word>
+				<word number="3">presuppose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assume</word>
+				<word number="2">fancy</word>
+				<word number="3">wis</word>
+				<word number="4">take it</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give a guess</word>
+				<word number="2">speculate</word>
+				<word number="3">believe</word>
+				<word number="4">dare say</word>
+				<word number="5">take it into one's head</word>
+				<word number="6">take for granted</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="imagine" headRef="540">imagine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="put forth">
+			<sg number="1">
+				<word number="1">put forth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">propound</word>
+				<word number="2">propose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">start</word>
+				<word number="2">put a case</word>
+				<word number="3">submit</word>
+				<word number="4">move</word>
+				<word number="5">make a motion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hazard out</word>
+				<word number="2">throw out a suggestion</word>
+				<word number="3">put forward a suggestion</word>
+				<word number="4">put forward conjecture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="allude to">
+			<sg number="1">
+				<word number="1">allude to</word>
+				<word number="2">suggest</word>
+				<word number="3">hint</word>
+				<word number="4">put it into one's head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="suggest itself">
+			<sg number="1">
+				<word number="1" paraRef="thought" headRef="471">suggest itself</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="memory" headRef="529">run in the head</word>
+			</sg>
+			<sg number="3">
+				<word number="1">marvel if</word>
+				<word number="2">wonder if</word>
+				<word number="3">wonder whether</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="supposing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">supposing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">given</word>
+				<word number="2">mooted</word>
+				<word number="3">postulatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">assumed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">supposititious</word>
+				<word number="2">suppositive</word>
+				<word number="3">suppositious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gratuitous</word>
+				<word number="2">speculative</word>
+				<word number="3">conjectural</word>
+				<word number="4">hypothetical</word>
+				<word number="5">theoretical</word>
+				<word number="6">academic</word>
+				<word number="7">supposable</word>
+				<word number="8">presumptive</word>
+				<word number="9">putative</word>
+			</sg>
+			<sg number="6">
+				<word number="1">suppositional</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="suggestive">
+			<sg number="1">
+				<word number="1">suggestive</word>
+				<word number="2">allusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="if">
+			<sg number="1">
+				<word number="1">if</word>
+				<word number="2">if so be</word>
+			</sg>
+			<sg number="2">
+				<word number="1">an</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">on the supposition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ex hypothesi</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the case</word>
+				<word number="2">in the event of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">quasi</word>
+				<word number="2">as if</word>
+				<word number="3">provided</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="by possibility" headRef="493">perhaps</word>
+			</sg>
+			<sg number="8">
+				<word number="1">for aught one knows</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

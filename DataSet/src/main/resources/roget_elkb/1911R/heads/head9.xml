@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="9" name="Relation" origNum="#9." class="1" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="relation">
+			<sg number="1">
+				<word number="1">relation</word>
+				<word number="2">bearing</word>
+				<word number="3">reference</word>
+				<word number="4">connection</word>
+				<word number="5">concern</word>
+				<word number="6">cognation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="correlation" headRef="12">correlation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">analogy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="similarity" headRef="18">similarity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">affinity</word>
+				<word number="2">homology</word>
+				<word number="3">alliance</word>
+				<word number="4">homogeneity</word>
+				<word number="5">association</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="nearness" headRef="206">approximation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="consanguinity" headRef="11">filiation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">interest</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="relevancy" headRef="25">relevancy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dependency</word>
+				<word number="2">relationship</word>
+				<word number="3">relative position</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="comparison">
+			<sg number="1">
+				<word number="1" paraRef="comparison" headRef="484">comparison</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ratio</word>
+				<word number="2">proportion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="link">
+			<sg number="1">
+				<word number="1">link</word>
+				<word number="2">tie</word>
+				<word number="3">bond of union</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be related">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be related</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">have a relation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">relate to</word>
+				<word number="2">refer to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bear upon</word>
+				<word number="2">regard</word>
+				<word number="3">concern</word>
+				<word number="4">touch</word>
+				<word number="5">affect</word>
+				<word number="6">have to do with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pertain to</word>
+				<word number="2">belong to</word>
+				<word number="3">appertain to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">answer to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">interest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bring into relation with">
+			<sg number="1">
+				<word number="1">bring into relation with</word>
+				<word number="2">bring to bear upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">connect</word>
+				<word number="2">associate</word>
+				<word number="3">draw a parallel</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="link" headRef="46">link</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="relative">
+			<sg number="1">
+				<word number="1">relative</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="correlative" headRef="12">correlative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cognate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">relating to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">relative to</word>
+				<word number="2">in relation with</word>
+				<word number="3">referable or referrible to</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">belonging to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">appurtenant to</word>
+				<word number="2">in common with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="related">
+			<sg number="1">
+				<word number="1">related</word>
+				<word number="2">connected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">implicated</word>
+				<word number="2">associated</word>
+				<word number="3">affiliated</word>
+				<word number="4">allied to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">en rapport</word>
+				<word number="2">in touch with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="approximative">
+			<sg number="1">
+				<word number="1">approximative</word>
+				<word number="2">approximating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proportional</word>
+				<word number="2">proportionate</word>
+				<word number="3">proportionable</word>
+				<word number="4" new="1">rebuked</word>
+			</sg>
+			<sg number="3">
+				<word number="1">allusive</word>
+				<word number="2">comparable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="in the same category">
+			<sg number="1">
+				<word number="1" paraRef="category" headRef="79">in the same category</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="like" headRef="18">like</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="apt" headRef="25">relevant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">applicable</word>
+				<word number="2">equiparant</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">cleansed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="relatively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">relatively</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pertinently" headRef="25">pertinently</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="thereof">
+			<sg number="1">
+				<word number="1">thereof</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as to</word>
+				<word number="2">as for</word>
+				<word number="3">as respects</word>
+				<word number="4">as regards</word>
+			</sg>
+			<sg number="3">
+				<word number="1">about</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">concerning</word>
+			</sg>
+			<sg number="5">
+				<word number="1">anent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">relating to</word>
+				<word number="2">as relates to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">with relation</word>
+				<word number="2">with reference to</word>
+				<word number="3">with respect to</word>
+				<word number="4">with regard to</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in respect of</word>
+			</sg>
+			<sg number="9">
+				<word number="1">while speaking of</word>
+				<word number="2">a propos of</word>
+			</sg>
+			<sg number="10">
+				<word number="1">in connection with</word>
+			</sg>
+			<sg number="11">
+				<word number="1">by the way</word>
+				<word number="2">by the  by</word>
+			</sg>
+			<sg number="12">
+				<word number="1">whereas</word>
+			</sg>
+			<sg number="13">
+				<word number="1">for as much as</word>
+				<word number="2">in as much as</word>
+			</sg>
+			<sg number="14">
+				<word number="1">in point of</word>
+				<word number="2">as far as</word>
+			</sg>
+			<sg number="15">
+				<word number="1">on the part of</word>
+				<word number="2">on the score of</word>
+			</sg>
+			<sg number="16">
+				<word number="1">quoad hoc</word>
+			</sg>
+			<sg number="17">
+				<word number="1">pro re nata</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="class" headRef="79">under the head of</word>
+			</sg>
+			<sg number="19">
+				<word number="1">in the matter of</word>
+				<word number="2">in re</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="thereby hangs a tale">
+			<sg number="1">
+				<word number="1">"thereby hangs a tale"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

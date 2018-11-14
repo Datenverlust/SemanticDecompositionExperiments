@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="829" name="Sale" origNum="#796." class="7" section="4" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sale">
+			<sg number="1">
+				<word number="1">sale</word>
+				<word number="2">vent</word>
+				<word number="3">disposal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">auction</word>
+				<word number="2">roup</word>
+				<word number="3">Dutch auction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outcry</word>
+				<word number="2">vendue</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="traffic" headRef="827">custom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vendibility">
+			<sg number="1">
+				<word number="1">vendibility</word>
+				<word number="2">vendibleness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="seller">
+			<sg number="1">
+				<word number="1">seller</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vender</word>
+				<word number="2">vendor</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="merchant" headRef="830">merchant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">auctioneer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="sell">
+			<sg number="1">
+				<word number="1">sell</word>
+				<word number="2">vend</word>
+				<word number="3">dispose of</word>
+				<word number="4">effect a sale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sell over the counter</word>
+				<word number="2" paraRef="" posRef="n.">sell by auction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dispense</word>
+				<word number="2">retail</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deal in" headRef="827">deal in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sell off</word>
+				<word number="2">sell out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">turn into money</word>
+				<word number="2">realize</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bring to the hammer</word>
+				<word number="2">bring under the hammer</word>
+				<word number="3">put up to auction</word>
+				<word number="4">put up for auction</word>
+			</sg>
+			<sg number="8">
+				<word number="1">offer for sale</word>
+				<word number="2">put up for sale</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hawk</word>
+				<word number="2">bring to market</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="offer" headRef="794">offer</word>
+			</sg>
+			<sg number="11">
+				<word number="1">undersell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="let">
+			<sg number="1">
+				<word number="1">let</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="security" headRef="803">mortgage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="under the hammer">
+			<sg number="1">
+				<word number="1">under the hammer</word>
+				<word number="2">on the market</word>
+				<word number="3">for sale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="salable">
+			<sg number="1">
+				<word number="1">salable</word>
+				<word number="2">marketable</word>
+				<word number="3">vendible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsalable</word>
+				<word number="2">unpurchased</word>
+				<word number="3">unbought</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on one's hands</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="chose qui plait est a demi vendue">
+			<sg number="1">
+				<word number="1">chose qui plait est a demi vendue</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

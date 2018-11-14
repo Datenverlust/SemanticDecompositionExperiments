@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="299" name="Attraction" origNum="#288." class="2" section="4" subSection="4" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="attraction">
+			<sg number="1">
+				<word number="1">attraction</word>
+				<word number="2">attractiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attractivity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drawing to</word>
+				<word number="2">pulling towards</word>
+				<word number="3">adduction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="electrical attraction">
+			<sg number="1">
+				<word number="1">electrical attraction</word>
+				<word number="2">electricity</word>
+				<word number="3">static electricity</word>
+				<word number="4">static</word>
+				<word number="5">static cling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">magnetism</word>
+				<word number="2">magnetic attraction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gravity</word>
+				<word number="2">attraction of gravitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lodestone">
+			<sg number="1">
+				<word number="1">lodestone</word>
+				<word number="2">loadstone</word>
+				<word number="3">lodestar</word>
+				<word number="4">loadstar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">magnet</word>
+				<word number="2">permanent magnet</word>
+				<word number="3">siderite</word>
+				<word number="4">magnetite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">electromagnet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">magnetic coil</word>
+				<word number="2">voice coil</word>
+			</sg>
+			<sg number="5">
+				<word number="1">magnetic dipole</word>
+			</sg>
+			<sg number="6">
+				<word number="1">motor coil</word>
+				<word number="2">rotor</word>
+				<word number="3">stator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="electrical charge">
+			<sg number="1">
+				<word number="1">electrical charge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">positive charge</word>
+				<word number="2">negative charge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="magnetic pole">
+			<sg number="1">
+				<word number="1">magnetic pole</word>
+			</sg>
+			<sg number="2">
+				<word number="1">north pole</word>
+				<word number="2">south pole</word>
+			</sg>
+			<sg number="3">
+				<word number="1">magnetic monopole</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="attract">
+			<sg number="1">
+				<word number="1">attract</word>
+				<word number="2">draw</word>
+			</sg>
+			<sg number="2">
+				<word number="1">draw towards</word>
+				<word number="2">pull towards</word>
+				<word number="3">drag towards</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adduce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="attracting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">attracting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attrahent</word>
+				<word number="2">attractive</word>
+				<word number="3">adducent</word>
+				<word number="4">adductive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="centrifugal">
+			<sg number="1">
+				<word number="1">centrifugal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ubi mel ibi apes">
+			<sg number="1">
+				<word number="1">ubi mel ibi apes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

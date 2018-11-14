@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="464" name="Optical Instruments" origNum="#445." class="3" section="3" subSection="2" headGroup="36">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="optical instruments">
+			<sg number="1">
+				<word number="1">optical instruments</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lens</word>
+				<word number="2">meniscus</word>
+				<word number="3">magnifier</word>
+				<word number="4">sunglass</word>
+				<word number="5">magnifying glass</word>
+				<word number="6">hand lens</word>
+			</sg>
+			<sg number="3">
+				<word number="1">microscope</word>
+				<word number="2">megascope</word>
+				<word number="3">tienoscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spectacles">
+			<sg number="1">
+				<word number="1">spectacles</word>
+				<word number="2">specs ,glasses</word>
+				<word number="3">barnacles</word>
+				<word number="4">goggles</word>
+				<word number="5">eyeglass</word>
+				<word number="6">pince-nez</word>
+				<word number="7">monocle</word>
+				<word number="8">reading glasses</word>
+				<word number="9">bifocals</word>
+				<word number="10" new="1">roth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contact lenses</word>
+				<word number="2">soft lenses</word>
+				<word number="3">hard lenses</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sunglasses</word>
+				<word number="2">shades</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="periscopic lens">
+			<sg number="1">
+				<word number="1">periscopic lens</word>
+			</sg>
+			<sg number="2">
+				<word number="1">telescope</word>
+				<word number="2">glass</word>
+				<word number="3">lorgnette</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spyglass</word>
+				<word number="2">opera glass</word>
+				<word number="3">binocular</word>
+				<word number="4">binoculars</word>
+				<word number="5">field glass</word>
+			</sg>
+			<sg number="4">
+				<word number="1">burning glass</word>
+				<word number="2">convex lens</word>
+				<word number="3">concave lens</word>
+				<word number="4">convexo-concave lens</word>
+				<word number="5">coated lens</word>
+				<word number="6">multiple lens</word>
+				<word number="7">compound lens</word>
+				<word number="8">lens system</word>
+				<word number="9">telephoto lens</word>
+				<word number="10">wide-angle lens</word>
+				<word number="11">fish-eye lens</word>
+				<word number="12">zoom lens</word>
+			</sg>
+			<sg number="5">
+				<word number="1">optical bench</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">corrector</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="astronomical telescope">
+			<sg number="1">
+				<word number="1">astronomical telescope</word>
+				<word number="2">reflecting telescope</word>
+				<word number="3">reflector</word>
+				<word number="4">refracting telescope</word>
+				<word number="5">refractor</word>
+				<word number="6">Newtonian telescope</word>
+				<word number="7">folded-path telescope</word>
+				<word number="8">finder telescope</word>
+				<word number="9">chromatoscope</word>
+			</sg>
+			<sg number="2">
+				<word number="1">X-ray telescope</word>
+			</sg>
+			<sg number="3">
+				<word number="1">radiotelescope</word>
+				<word number="2">phased-array telescope</word>
+				<word number="3">Very Large Array radiotelescope</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ultraviolet telescope</word>
+			</sg>
+			<sg number="5">
+				<word number="1">infrared telescope</word>
+			</sg>
+			<sg number="6">
+				<word number="1">star spectroscope</word>
+			</sg>
+			<sg number="7">
+				<word number="1">space telescope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="altazimuth mount">
+			<sg number="1">
+				<word number="1">altazimuth mount</word>
+				<word number="2">equatorial mount</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="refractometer">
+			<sg number="1">
+				<word number="1">refractometer</word>
+				<word number="2">circular dichroism spectrometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="interferometer">
+			<sg number="1">
+				<word number="1">interferometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="phase-contrast microscope">
+			<sg number="1">
+				<word number="1">phase-contrast microscope</word>
+				<word number="2">fluorescence microscope</word>
+				<word number="3">dissecting microscope</word>
+			</sg>
+			<sg number="2">
+				<word number="1">electron microscope</word>
+				<word number="2">transmission electron microscope</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scanning electron microscope</word>
+				<word number="2">SEM</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scanning tunneling electron microscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="objective lens">
+			<sg number="1">
+				<word number="1">objective lens</word>
+				<word number="2">eyepiece</word>
+				<word number="3">barrel</word>
+				<word number="4">platform</word>
+				<word number="5">focusing knob</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slide</word>
+				<word number="2">slide glass</word>
+				<word number="3">cover glass</word>
+				<word number="4">counting chamber</word>
+			</sg>
+			<sg number="3">
+				<word number="1">illuminator</word>
+				<word number="2">light source</word>
+				<word number="3">polarizer</word>
+				<word number="4">reticle</word>
+				<word number="5">cross-hairs</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="light pipe">
+			<sg number="1">
+				<word number="1">light pipe</word>
+				<word number="2">fiber optics      mirror</word>
+				<word number="3">reflector</word>
+				<word number="4">speculum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">looking-glass</word>
+				<word number="2">pier-glass</word>
+				<word number="3">cheval-glass</word>
+				<word number="4">rear-view mirror</word>
+				<word number="5">hand mirror</word>
+				<word number="6">one-way mirror</word>
+				<word number="7">magnifying mirror</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="fun house">
+			<sg number="1">
+				<word number="1">fun house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="prism">
+			<sg number="1">
+				<word number="1">prism</word>
+				<word number="2">diffraction grating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beam splitter</word>
+				<word number="2">half-wave plate</word>
+				<word number="3">quarter- wave plate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="camera lucida">
+			<sg number="1">
+				<word number="1">camera lucida</word>
+				<word number="2">camera obscura</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="show" headRef="467">magic lantern</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stereopticon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chromatrope</word>
+				<word number="2">thaumatrope</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stereoscope</word>
+				<word number="2">pseudoscope</word>
+				<word number="3">polyscope</word>
+				<word number="4">kaleidoscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="photometer">
+			<sg number="1">
+				<word number="1">photometer</word>
+				<word number="2">eriometer</word>
+				<word number="3">actinometer</word>
+				<word number="4">lucimeter</word>
+				<word number="5">radiometer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ligth detector</word>
+				<word number="2">photodiode</word>
+				<word number="3">photomultiplier</word>
+				<word number="4">photodiode array</word>
+				<word number="5">photocell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="X-ray diffractometer">
+			<sg number="1">
+				<word number="1">X-ray diffractometer</word>
+				<word number="2">goniometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="spectrometer">
+			<sg number="1">
+				<word number="1">spectrometer</word>
+				<word number="2">monochrometer</word>
+				<word number="3">UV spectrometer</word>
+				<word number="4">visible spectrometer</word>
+				<word number="5">Infrared spectrometer</word>
+				<word number="6">Fourier transform infrared spectrometer</word>
+				<word number="7">recording spectrometer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">densitometer</word>
+				<word number="2">scanning densitometer</word>
+				<word number="3">two-dimensional densitometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="abdominoscope">
+			<sg number="1">
+				<word number="1">abdominoscope</word>
+				<word number="2">gastroscope</word>
+				<word number="3">helioscope</word>
+				<word number="4">polariscope</word>
+				<word number="5">polemoscope</word>
+				<word number="6">spectroscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="abdominoscopy">
+			<sg number="1">
+				<word number="1">abdominoscopy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gastroscopy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">microscopy</word>
+				<word number="2">microscopist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="counterattack">
+			<sg number="1">
+				<word number="1" new="1">counterattack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="representativeness">
+			<sg number="1">
+				<word number="1" new="1">representativeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="criminologist">
+			<sg number="1">
+				<word number="1" new="1">criminologist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="sovereignty">
+			<sg number="1">
+				<word number="1" new="1">sovereignty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="talc">
+			<sg number="1">
+				<word number="1" new="1">talc</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="pyrophosphate">
+			<sg number="1">
+				<word number="1" new="1">pyrophosphate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="rugger">
+			<sg number="1">
+				<word number="1" new="1">rugger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="iauliai">
+			<sg number="1">
+				<word number="1" new="1">iauliai</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="emission">
+			<sg number="1">
+				<word number="1" new="1">emission</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="terribles">
+			<sg number="1">
+				<word number="1" new="1">terribles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="medialis">
+			<sg number="1">
+				<word number="1" new="1">medialis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="wakeboard">
+			<sg number="1">
+				<word number="1" new="1">wakeboard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="simile">
+			<sg number="1">
+				<word number="1" new="1">simile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="kismet">
+			<sg number="1">
+				<word number="1" new="1">kismet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="ditions">
+			<sg number="1">
+				<word number="1" new="1">ditions</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

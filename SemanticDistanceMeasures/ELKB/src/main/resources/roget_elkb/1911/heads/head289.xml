@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="289" name="Direction" origNum="#278." class="2" section="4" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="direction">
+			<sg number="1">
+				<word number="1">direction</word>
+				<word number="2">bearing</word>
+				<word number="3">course</word>
+				<word number="4">vector</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set</word>
+				<word number="2">drift</word>
+				<word number="3">tenor</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="tendency" headRef="184">tendency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incidence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bending</word>
+				<word number="2" paraRef="" posRef="v.">trending</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dip</word>
+				<word number="2">tack</word>
+				<word number="3">aim</word>
+				<word number="4">collimation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">steering steerage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="point of the compass">
+			<sg number="1">
+				<word number="1">point of the compass</word>
+				<word number="2">cardinal points</word>
+			</sg>
+			<sg number="2">
+				<word number="1">North East</word>
+				<word number="2">South</word>
+				<word number="3">West</word>
+			</sg>
+			<sg number="3">
+				<word number="1">N by E</word>
+				<word number="2">ENE</word>
+				<word number="3">NE by N</word>
+				<word number="4">NE</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rhumb</word>
+				<word number="2">azimuth</word>
+				<word number="3">line of collimation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="line">
+			<sg number="1">
+				<word number="1">line</word>
+				<word number="2">path</word>
+				<word number="3">road</word>
+				<word number="4">range</word>
+				<word number="5">quarter</word>
+				<word number="6">line of march</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alignment</word>
+				<word number="2">allignment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">air line</word>
+				<word number="2">beeline</word>
+			</sg>
+			<sg number="4">
+				<word number="1">straight shoot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="tend towards">
+			<sg number="1">
+				<word number="1">tend towards</word>
+				<word number="2">bend towards</word>
+				<word number="3">point towards</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conduct to</word>
+				<word number="2">go to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">point to</word>
+				<word number="2">point at</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bend</word>
+				<word number="2">trend</word>
+				<word number="3">verge</word>
+				<word number="4">incline</word>
+				<word number="5">dip</word>
+				<word number="6">determine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="steer for">
+			<sg number="1">
+				<word number="1">steer for</word>
+				<word number="2">steer towards</word>
+				<word number="3">make for</word>
+				<word number="4">make towards</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aim at</word>
+				<word number="2">level at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take aim</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep a course</word>
+				<word number="2">hold a course</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be bound for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bend one's steps towards</word>
+			</sg>
+			<sg number="7">
+				<word number="1">direct one's course</word>
+				<word number="2">steer one's course</word>
+				<word number="3">bend one's course</word>
+				<word number="4">shape one's course</word>
+			</sg>
+			<sg number="8">
+				<word number="1">align one's march</word>
+				<word number="2">allign one's march</word>
+			</sg>
+			<sg number="9">
+				<word number="1">to straight</word>
+				<word number="2">go straight to the point</word>
+			</sg>
+			<sg number="10">
+				<word number="1">march on</word>
+				<word number="2">march on a point</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ascertain one's direction">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">ascertain one's direction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">s'orienter</word>
+				<word number="2">see which way the wind blows</word>
+			</sg>
+			<sg number="3">
+				<word number="1">box the compass</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take the air line</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="directed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">directed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">pointing towards</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bound for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aligned</word>
+				<word number="2">with alligned with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">direct</word>
+				<word number="2">straight</word>
+			</sg>
+			<sg number="6">
+				<word number="1">undeviating</word>
+				<word number="2">unswerving</word>
+			</sg>
+			<sg number="7">
+				<word number="1">straightforward</word>
+			</sg>
+			<sg number="8">
+				<word number="1">North</word>
+				<word number="2">Northern</word>
+				<word number="3" paraRef="" posRef="n.">Northerly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="towards">
+			<sg number="1">
+				<word number="1">towards</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the road</word>
+				<word number="2">on the high road to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">en avant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">versus</word>
+				<word number="2">to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hither</word>
+				<word number="2">thither</word>
+				<word number="3">whither</word>
+			</sg>
+			<sg number="6">
+				<word number="1">directly</word>
+			</sg>
+			<sg number="7">
+				<word number="1">straight as an arrow</word>
+				<word number="2">forwards as an arrow</word>
+			</sg>
+			<sg number="8">
+				<word number="1">point blank</word>
+			</sg>
+			<sg number="9">
+				<word number="1">in a bee line to</word>
+				<word number="2">in a direct line to</word>
+				<word number="3">as the crow flies</word>
+				<word number="4">in a straight line to</word>
+				<word number="5">in a bee line for</word>
+				<word number="6">in a direct line for</word>
+				<word number="7">in a straight line for</word>
+				<word number="8">in a bee line with</word>
+				<word number="9">in a direct line with</word>
+				<word number="10">in a straight line with</word>
+			</sg>
+			<sg number="10">
+				<word number="1">in a line with</word>
+			</sg>
+			<sg number="11">
+				<word number="1">full tilt at</word>
+				<word number="2">as the crow flies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="before the wind">
+			<sg number="1">
+				<word number="1">before the wind</word>
+				<word number="2">near the wind</word>
+				<word number="3">close to the wind</word>
+				<word number="4">against the wind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">windwards</word>
+				<word number="2">in the wind's eye</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="through">
+			<sg number="1">
+				<word number="1">through</word>
+				<word number="2">via</word>
+				<word number="3">by way of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in all directions</word>
+				<word number="2">in all manner of ways</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quaquaversum</word>
+				<word number="2">from the four winds</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the shortest distance between two points is a straight line">
+			<sg number="1">
+				<word number="1">the shortest distance between two points is a straight line</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

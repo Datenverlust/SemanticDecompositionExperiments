@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="123" name="Posteriority" origNum="#117." class="1" section="6" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="posteriority">
+			<sg number="1">
+				<word number="1">posteriority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">succession</word>
+				<word number="2">sequence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="following" headRef="292">following</word>
+				<word number="2">supervention</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="futurity" headRef="127">futurity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">successor</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="sequel" headRef="69">sequel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">remainder</word>
+				<word number="2">reversion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="follow">
+			<sg number="1">
+				<word number="1" paraRef="follow" headRef="292">follow</word>
+				<word number="2">come after</word>
+				<word number="3">go after</word>
+			</sg>
+			<sg number="2">
+				<word number="1">succeed</word>
+				<word number="2">supervene</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ensue</word>
+				<word number="2">occur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">step into the shoes of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="subsequent">
+			<sg number="1">
+				<word number="1">subsequent</word>
+				<word number="2">posterior</word>
+				<word number="3">following</word>
+				<word number="4">after</word>
+				<word number="5">later</word>
+				<word number="6">succeeding</word>
+				<word number="7">postliminious</word>
+				<word number="8">postnate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">postdiluvial</word>
+				<word number="2">postdiluvian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">puisne!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">posthumous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="future" headRef="127">future</word>
+			</sg>
+			<sg number="6">
+				<word number="1">afterdinner</word>
+				<word number="2">postprandial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="subsequently">
+			<sg number="1">
+				<word number="1">subsequently</word>
+				<word number="2">after</word>
+				<word number="3">afterwards</word>
+				<word number="4">since</word>
+				<word number="5">later</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at a subsequent</word>
+				<word number="2">at a later period</word>
+				<word number="3">at a later date</word>
+			</sg>
+			<sg number="3">
+				<word number="1">next</word>
+				<word number="2">in the sequel</word>
+				<word number="3">close upon</word>
+				<word number="4">thereafter</word>
+				<word number="5">thereupon</word>
+				<word number="6">upon which</word>
+				<word number="7">eftsoons</word>
+			</sg>
+			<sg number="4">
+				<word number="1">from that time</word>
+				<word number="2">from that moment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">after a while</word>
+				<word number="2">after a time</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in process of time</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

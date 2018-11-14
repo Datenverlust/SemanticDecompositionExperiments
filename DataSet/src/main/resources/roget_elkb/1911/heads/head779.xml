@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="779" name="Freedom" origNum="#748." class="7" section="1" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="freedom">
+			<sg number="1">
+				<word number="1">freedom</word>
+				<word number="2">liberty</word>
+				<word number="3">independence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="permission" headRef="791">license</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="facility" headRef="734">facility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="scope">
+			<sg number="1">
+				<word number="1">scope</word>
+				<word number="2">range</word>
+				<word number="3">latitude</word>
+				<word number="4">play</word>
+			</sg>
+			<sg number="2">
+				<word number="1">free play</word>
+				<word number="2">full play</word>
+				<word number="3">free scope</word>
+				<word number="4">full scope</word>
+			</sg>
+			<sg number="3">
+				<word number="1">free stage and no favor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">swing</word>
+				<word number="2">full swing</word>
+				<word number="3">elbowroom</word>
+				<word number="4">margin</word>
+				<word number="5">rope</word>
+				<word number="6">wide berth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Liberty Hall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="franchise">
+			<sg number="1">
+				<word number="1">franchise</word>
+				<word number="2">denization</word>
+			</sg>
+			<sg number="2">
+				<word number="1">free man</word>
+				<word number="2">freed man</word>
+				<word number="3">livery man</word>
+			</sg>
+			<sg number="3">
+				<word number="1">denizen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="autonomy">
+			<sg number="1">
+				<word number="1">autonomy</word>
+				<word number="2">self-government</word>
+				<word number="3">liberalism</word>
+				<word number="4">free trade</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="interference" headRef="735">noninterference</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Monroe Doctrine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="immunity">
+			<sg number="1">
+				<word number="1">immunity</word>
+				<word number="2">exemption</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="liberation" headRef="781">emancipation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enfranchisement</word>
+				<word number="2">affranchisement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="free land">
+			<sg number="1">
+				<word number="1">free land</word>
+				<word number="2">freehold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">allodium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frankalmoigne</word>
+				<word number="2">mortmain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bushwhacker">
+			<sg number="1">
+				<word number="1">bushwhacker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">freelance</word>
+				<word number="2">free thinker</word>
+				<word number="3">free trader</word>
+			</sg>
+			<sg number="3">
+				<word number="1">independent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be free">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be free</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">have scope</word>
+				<word number="2">have the run of</word>
+				<word number="3">have one's own way</word>
+				<word number="4">have a will of one's own</word>
+				<word number="5">have one's fling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">do what one likes</word>
+				<word number="2">do what one wishes</word>
+				<word number="3">do what one pleases</word>
+				<word number="4">do what one chooses</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go at large</word>
+				<word number="2">feel at home</word>
+				<word number="3">paddle one's own canoe</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stand on one's legs</word>
+				<word number="2">stand on one's rights</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shift for oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take a liberty">
+			<sg number="1">
+				<word number="1">take a liberty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make free with</word>
+				<word number="2">make oneself quite at home</word>
+			</sg>
+			<sg number="3">
+				<word number="1">use a freedom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take leave</word>
+				<word number="2">take French leave</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="set free">
+			<sg number="1">
+				<word number="1" paraRef="liberate" headRef="781">set free</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="permit" headRef="791">give a loose to</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">allow scope</word>
+				<word number="2" paraRef="" posRef="n.">give scope</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give a horse his head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="make free of">
+			<sg number="1">
+				<word number="1">make free of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give the freedom of</word>
+				<word number="2">give the franchise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enfranchise</word>
+				<word number="2">affranchise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="laisser faire">
+			<sg number="1">
+				<word number="1">laisser faire</word>
+				<word number="2">laisser aller</word>
+			</sg>
+			<sg number="2">
+				<word number="1">live and let live</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leave to oneself</word>
+			</sg>
+			<sg number="4">
+				<word number="1">leave alone</word>
+				<word number="2">let alone</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="free">
+			<sg number="1">
+				<word number="1">free</word>
+				<word number="2">free as air</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out of harness</word>
+				<word number="2">independent</word>
+				<word number="3">at large</word>
+				<word number="4">loose</word>
+				<word number="5">scot-free</word>
+			</sg>
+			<sg number="3">
+				<word number="1">left alone</word>
+				<word number="2">left to oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in full swing">
+			<sg number="1">
+				<word number="1">in full swing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncaught</word>
+				<word number="2">unconstrained</word>
+				<word number="3">unbuttoned</word>
+				<word number="4">unconfined</word>
+				<word number="5">unrestrained</word>
+				<word number="6">unchecked</word>
+				<word number="7">unprevented</word>
+				<word number="8">unhindered</word>
+				<word number="9">unobstructed</word>
+				<word number="10">unbound</word>
+				<word number="11">uncontrolled</word>
+				<word number="12">untrammeled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unsubject">
+			<sg number="1">
+				<word number="1">unsubject</word>
+				<word number="2">ungoverned</word>
+				<word number="3">unenslaved</word>
+				<word number="4">unenthralled</word>
+				<word number="5">unchained</word>
+				<word number="6">unshackled</word>
+				<word number="7">unfettered</word>
+				<word number="8">unreined</word>
+				<word number="9">unbridled</word>
+				<word number="10">uncurbed</word>
+				<word number="11">unmuzzled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unrestricted">
+			<sg number="1">
+				<word number="1">unrestricted</word>
+				<word number="2">unlimited</word>
+				<word number="3">unmitigated</word>
+				<word number="4">unconditional</word>
+			</sg>
+			<sg number="2">
+				<word number="1">absolute</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="optional" headRef="626">discretionary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unassailed">
+			<sg number="1">
+				<word number="1">unassailed</word>
+				<word number="2">unforced</word>
+				<word number="3">uncompelled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="unbiassed">
+			<sg number="1">
+				<word number="1">unbiassed</word>
+				<word number="2">spontaneous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="free and easy">
+			<sg number="1">
+				<word number="1">free and easy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at ease</word>
+				<word number="2">at one's ease</word>
+			</sg>
+			<sg number="3">
+				<word number="1">degage</word>
+				<word number="2">quite at home</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wanton</word>
+				<word number="2">rampant</word>
+				<word number="3">irrepressible</word>
+				<word number="4">unvanquished</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="exempt">
+			<sg number="1">
+				<word number="1">exempt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="free" headRef="781">freed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">freeborn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">autonomous</word>
+				<word number="2">freehold</word>
+				<word number="3">allodial</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="gratis" headRef="852">gratis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eleutherian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="unclaimed">
+			<sg number="1">
+				<word number="1">unclaimed</word>
+				<word number="2">going a begging</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="freely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">freely</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="at will" headRef="626">ad libitum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ubi libertas ibi patria">
+			<sg number="1">
+				<word number="1">ubi libertas ibi patria</word>
+			</sg>
+			<sg number="2">
+				<word number="1">free white and twenty-one</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

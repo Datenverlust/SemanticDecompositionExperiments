@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="513" name="Dissent" origNum="#489." class="4" section="5" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dissent">
+			<sg number="1">
+				<word number="1">dissent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disagreement" headRef="26">discordance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">difference diversity of opinion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nonconformity">
+			<sg number="1">
+				<word number="1" paraRef="heterodoxy" headRef="1028">nonconformity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">protestantism</word>
+				<word number="2">recusancy</word>
+				<word number="3">schism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disaffection</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="secession" headRef="653">secession</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="recantation" headRef="634">recantation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dissension">
+			<sg number="1">
+				<word number="1" paraRef="discord" headRef="742">dissension</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discontent" headRef="870">discontent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cavilling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="protest">
+			<sg number="1">
+				<word number="1">protest</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="denial" headRef="562">contradiction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="rejection" headRef="795">noncompliance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dissentient">
+			<sg number="1">
+				<word number="1">dissentient</word>
+				<word number="2">dissenter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">non-juror</word>
+				<word number="2">non-content</word>
+				<word number="3">nonconformist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sectary</word>
+				<word number="2">separatist</word>
+				<word number="3">recusant</word>
+				<word number="4">schismatic</word>
+				<word number="5">protestant</word>
+				<word number="6">heretic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="refusal">
+			<sg number="1">
+				<word number="1" paraRef="refusal" headRef="795">refusal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="dissent">
+			<sg number="1">
+				<word number="1">dissent</word>
+				<word number="2">demur</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="doubt" headRef="509">call in question</word>
+			</sg>
+			<sg number="3">
+				<word number="1">differ in opinion</word>
+				<word number="2">disagree</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="negation" headRef="562">say no</word>
+			</sg>
+			<sg number="5">
+				<word number="1">refuse assent</word>
+				<word number="2">refuse to admit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cavil</word>
+				<word number="2">protest</word>
+				<word number="3">raise one's voice against</word>
+				<word number="4">repudiate</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="deny" headRef="562">contradict</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have no notion of">
+			<sg number="1">
+				<word number="1">have no notion of</word>
+				<word number="2">differ toto caelo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">revolt at</word>
+				<word number="2">revolt from the idea</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shake the head">
+			<sg number="1">
+				<word number="1">shake the head</word>
+				<word number="2">shrug the shoulders</word>
+			</sg>
+			<sg number="2">
+				<word number="1">look askance</word>
+				<word number="2">look askant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="secede">
+			<sg number="1">
+				<word number="1">secede</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recant" headRef="634">recant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dissenting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">dissenting</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="negative" headRef="562">negative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dissident</word>
+				<word number="2">dissentient</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="refusing" headRef="795">unconsenting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">non-content</word>
+				<word number="2">nonjuring</word>
+			</sg>
+			<sg number="6">
+				<word number="1">protestant</word>
+				<word number="2">recusant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unconvinced</word>
+				<word number="2">unconverted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unavowed">
+			<sg number="1">
+				<word number="1">unavowed</word>
+				<word number="2">unacknowledged</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out of the question</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="discontented">
+			<sg number="1">
+				<word number="1" paraRef="discontented" headRef="870">discontented</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unwilling" headRef="629">unwilling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extorted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sectarian">
+			<sg number="1">
+				<word number="1">sectarian</word>
+				<word number="2">denominational</word>
+				<word number="3">schismatic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heterodox</word>
+			</sg>
+			<sg number="3">
+				<word number="1">intolerant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="no">
+			<sg number="1">
+				<word number="1" paraRef="no" headRef="562">no</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at variance</word>
+				<word number="2">at issue with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under protest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="God forbid">
+			<sg number="1">
+				<word number="1">God forbid!</word>
+				<word number="2">not for the world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">I'll be hanged if</word>
+			</sg>
+			<sg number="3">
+				<word number="1">never tell me</word>
+			</sg>
+			<sg number="4">
+				<word number="1">your humble servant</word>
+				<word number="2">pardon me</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="many men many minds">
+			<sg number="1">
+				<word number="1">many men many minds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quot homines tot sententiae</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tant s'en faut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">il s'en faut bien</word>
+			</sg>
+			<sg number="5">
+				<word number="1">no way</word>
+			</sg>
+			<sg number="6">
+				<word number="1">by no means</word>
+			</sg>
+			<sg number="7">
+				<word number="1">count me out</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1011" name="Lawyer" origNum="#968." class="8" section="4" subSection="5" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lawyer">
+			<sg number="1">
+				<word number="1">lawyer</word>
+				<word number="2">attorney</word>
+				<word number="3">legal counsel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">counsel</word>
+				<word number="2">counsellor</word>
+				<word number="3">counsellor at law</word>
+				<word number="4">attorney at law</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jurist</word>
+				<word number="2">legist</word>
+				<word number="3">civilian</word>
+				<word number="4">pundit</word>
+				<word number="5">publicist</word>
+				<word number="6">juris consult</word>
+				<word number="7">legal adviser</word>
+				<word number="8">advocate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barrister</word>
+				<word number="2">barrister at law</word>
+			</sg>
+			<sg number="5">
+				<word number="1">King's or Queen's counsel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">K.C</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Q.C</word>
+			</sg>
+			<sg number="8">
+				<word number="1">silk gown</word>
+				<word number="2">leader</word>
+				<word number="3">sergeant-at-law</word>
+				<word number="4">bencher</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tubman</word>
+				<word number="2" paraRef="judge" headRef="1010">judge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bar">
+			<sg number="1">
+				<word number="1">bar</word>
+				<word number="2">legal profession</word>
+				<word number="3">bar association</word>
+				<word number="4">association of trial lawyers</word>
+			</sg>
+			<sg number="2">
+				<word number="1">officer of the court</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gentleman of the long robe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">junior bar</word>
+				<word number="2">outer bar</word>
+				<word number="3">inner bar</word>
+			</sg>
+			<sg number="5">
+				<word number="1">equity draftsman</word>
+				<word number="2">conveyancer</word>
+				<word number="3">pleader</word>
+				<word number="4">special pleader</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="solicitor">
+			<sg number="1">
+				<word number="1">solicitor</word>
+				<word number="2">proctor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">notary</word>
+				<word number="2">notary public</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scrivener</word>
+				<word number="2">cursitor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">writer</word>
+				<word number="2">writer to the signet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">S.S.C</word>
+			</sg>
+			<sg number="6">
+				<word number="1">limb of the law</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pettifogger</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vakil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="legal beagle [coll">
+			<sg number="1">
+				<word number="1">legal beagle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="legal secretary">
+			<sg number="1">
+				<word number="1">legal secretary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">legal assistant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">law student</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="practice law">
+			<sg number="1">
+				<word number="1">practice law</word>
+				<word number="2">practice at the bar</word>
+				<word number="3">practice within the bar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plead</word>
+			</sg>
+			<sg number="3">
+				<word number="1">call to the bar</word>
+				<word number="2">be called to the bar</word>
+				<word number="3">be called within the bar</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take silk</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take to the law</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="give legal counsel">
+			<sg number="1">
+				<word number="1">give legal counsel</word>
+				<word number="2">provide legal counsel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="learned in the law">
+			<sg number="1">
+				<word number="1">learned in the law</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at the bar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">forensic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">esquire</word>
+				<word number="2">esquired</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="banco regis">
+			<sg number="1">
+				<word number="1">banco regis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="301" name="Convergence" origNum="#290." class="2" section="4" subSection="4" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="convergence">
+			<sg number="1">
+				<word number="1">convergence</word>
+				<word number="2">confluence</word>
+				<word number="3">concourse</word>
+				<word number="4">conflux</word>
+				<word number="5">congress</word>
+				<word number="6">concurrence</word>
+				<word number="7">concentration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">convergency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appulse</word>
+				<word number="2">meeting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">corradiation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="assemblage">
+			<sg number="1">
+				<word number="1" paraRef="assemblage" headRef="76">assemblage</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="focus" headRef="78">resort</word>
+			</sg>
+			<sg number="3">
+				<word number="1">asymptote</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="converge">
+			<sg number="1">
+				<word number="1">converge</word>
+				<word number="2">concur</word>
+				<word number="3">come together</word>
+				<word number="4">unite</word>
+				<word number="5">meet</word>
+				<word number="6">fall in with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">close with</word>
+				<word number="2">close in upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">center round</word>
+				<word number="2">center in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enter in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pour in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gather together">
+			<sg number="1">
+				<word number="1">gather together</word>
+				<word number="2">unite</word>
+				<word number="3">concentrate</word>
+				<word number="4">bring into a focus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="converging">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">converging</word>
+			</sg>
+			<sg number="2">
+				<word number="1">convergent</word>
+				<word number="2">confluent</word>
+				<word number="3">concurrent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">centripetal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">asymptotical</word>
+				<word number="2">asymptotic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">confluxible</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

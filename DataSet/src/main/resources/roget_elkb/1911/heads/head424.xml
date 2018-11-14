@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="424" name="Roll" origNum="#407." class="3" section="3" subSection="2" headGroup="20">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="roll">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">roll</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">drumming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">berloque</word>
+				<word number="2">bombination</word>
+				<word number="3">rumbling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tattoo</word>
+				<word number="2">drumroll</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dingdong</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tantara</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rataplan</word>
+			</sg>
+			<sg number="8">
+				<word number="1">whirr</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ratatat</word>
+				<word number="2">ratatat- tat</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rubadub</word>
+			</sg>
+			<sg number="11">
+				<word number="1">pitapat</word>
+			</sg>
+			<sg number="12">
+				<word number="1">quaver</word>
+				<word number="2">clutter</word>
+				<word number="3">charivari</word>
+				<word number="4">racket</word>
+			</sg>
+			<sg number="13">
+				<word number="1">cuckoo</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="repetition" headRef="109">repetition</word>
+			</sg>
+			<sg number="15">
+				<word number="1">peal of bells</word>
+				<word number="2">devil's tattoo</word>
+			</sg>
+			<sg number="16">
+				<word number="1" paraRef="reverberation" headRef="425">reverberation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clickety-clack">
+			<sg number="1">
+				<word number="1">clickety-clack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hum">
+			<sg number="1">
+				<word number="1">hum</word>
+				<word number="2">purr</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hummingbird">
+			<sg number="1">
+				<word number="1">hummingbird</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cat">
+			<sg number="1">
+				<word number="1">cat</word>
+				<word number="2" paraRef="animal sounds" headRef="430">kitten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="roll">
+			<sg number="1">
+				<word number="1">roll</word>
+				<word number="2">drum</word>
+				<word number="3">rumble</word>
+				<word number="4">rattle</word>
+				<word number="5">clatter</word>
+				<word number="6">patter</word>
+				<word number="7">clack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bombinate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hum">
+			<sg number="1">
+				<word number="1">hum</word>
+				<word number="2">trill</word>
+				<word number="3">shake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chime</word>
+				<word number="2">peal</word>
+				<word number="3">toll</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tick</word>
+				<word number="2">beat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drum in the ear">
+			<sg number="1">
+				<word number="1">drum in the ear</word>
+				<word number="2">din in the ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rolling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">rolling</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="repeated" headRef="109">monotonous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">like a bee in a bottle</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

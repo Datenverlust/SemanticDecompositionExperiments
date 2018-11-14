@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="185" name="Liability" origNum="#177." class="1" section="8" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="liability">
+			<sg number="1">
+				<word number="1">liability</word>
+				<word number="2">liableness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">possibility</word>
+				<word number="2">contingency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">susceptivity</word>
+				<word number="2">susceptibility</word>
+				<word number="3">exposure</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -liable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -liable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incur</word>
+				<word number="2">lay oneself open to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run the chance</word>
+				<word number="2">stand a chance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lie under</word>
+				<word number="2">expose oneself to</word>
+				<word number="3">open a door to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="liable">
+			<sg number="1">
+				<word number="1">liable</word>
+				<word number="2">subject</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="in danger" headRef="694">in danger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open to</word>
+				<word number="2">exposed to</word>
+				<word number="3">obnoxious to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">answerable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unexempt from</word>
+			</sg>
+			<sg number="6">
+				<word number="1">apt to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dependent on</word>
+			</sg>
+			<sg number="8">
+				<word number="1">incident to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contingent">
+			<sg number="1">
+				<word number="1">contingent</word>
+				<word number="2">incidental</word>
+				<word number="3">possible</word>
+				<word number="4">on the cards</word>
+				<word number="5">within range of</word>
+				<word number="6">at the mercy of</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

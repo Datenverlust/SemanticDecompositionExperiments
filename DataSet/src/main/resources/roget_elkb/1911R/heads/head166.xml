@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="166" name="Strength" origNum="#159." class="1" section="8" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="strength">
+			<sg number="1">
+				<word number="1">strength</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="power" headRef="164">power</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="energy" headRef="178">energy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vigor</word>
+				<word number="2">force</word>
+			</sg>
+			<sg number="5">
+				<word number="1">main force</word>
+				<word number="2">physical force</word>
+				<word number="3">brute force</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spring</word>
+				<word number="2">elasticity</word>
+				<word number="3">tone</word>
+				<word number="4">tension</word>
+				<word number="5">tonicity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stoutness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">stoutness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lustihood</word>
+				<word number="2">stamina</word>
+				<word number="3">nerve</word>
+				<word number="4">muscle</word>
+				<word number="5">sinew</word>
+				<word number="6">thews and sinews</word>
+				<word number="7">physique</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pith</word>
+				<word number="2">pithiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">virtility</word>
+				<word number="2">vitality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="athletics">
+			<sg number="1">
+				<word number="1">athletics</word>
+				<word number="2">athleticism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gymnastics</word>
+				<word number="2">feats of strength</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="adamant">
+			<sg number="1">
+				<word number="1">adamant</word>
+				<word number="2">steel</word>
+				<word number="3">iron</word>
+				<word number="4">oak</word>
+				<word number="5">heart of oak</word>
+			</sg>
+			<sg number="2">
+				<word number="1">iron grip</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grit</word>
+				<word number="2">bone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="athlete">
+			<sg number="1">
+				<word number="1">athlete</word>
+				<word number="2">gymnast</word>
+				<word number="3">acrobat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">superman</word>
+				<word number="2">Atlas</word>
+				<word number="3">Hercules</word>
+				<word number="4">Antaeus</word>
+				<word number="5">Samson</word>
+				<word number="6">Cyclops</word>
+				<word number="7">Goliath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tower of strength</word>
+			</sg>
+			<sg number="4">
+				<word number="1">giant refreshed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="strengthening">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">strengthening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">invigoration</word>
+				<word number="2">refreshment</word>
+				<word number="3">refocillation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="dynamics">
+			<sg number="1">
+				<word number="1">dynamics</word>
+				<word number="2">statics</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be strong">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be strong</word>
+				<word number="2">be stronger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overmatch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render strong">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render strong</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">give strength</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strengthen</word>
+				<word number="2">invigorate</word>
+				<word number="3">brace</word>
+				<word number="4">nerve</word>
+				<word number="5">fortify</word>
+				<word number="6">sustain</word>
+				<word number="7">harden</word>
+				<word number="8">case harden</word>
+				<word number="9">steel</word>
+				<word number="10">gird</word>
+			</sg>
+			<sg number="4">
+				<word number="1">screw up</word>
+				<word number="2">wind up</word>
+				<word number="3">set up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gird up one's loins</word>
+				<word number="2">brace up one's loins</word>
+			</sg>
+			<sg number="6">
+				<word number="1">recruit</word>
+				<word number="2">set on one's legs</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vivify</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="refresh" headRef="718">refresh</word>
+			</sg>
+			<sg number="9">
+				<word number="1">refect</word>
+			</sg>
+			<sg number="10">
+				<word number="1">reinforce</word>
+				<word number="2" paraRef="restore" headRef="689">reenforce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="strong">
+			<sg number="1">
+				<word number="1">strong</word>
+				<word number="2">mighty</word>
+				<word number="3">vigorous</word>
+				<word number="4">forcible</word>
+				<word number="5">hard</word>
+				<word number="6">adamantine</word>
+				<word number="7">stout</word>
+				<word number="8">robust</word>
+				<word number="9">sturdy</word>
+				<word number="10">hardy</word>
+				<word number="11">powerful</word>
+				<word number="12">potent</word>
+				<word number="13">puissant</word>
+				<word number="14">valid</word>
+				<word number="15" new="1">nonlinear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="resistless">
+			<sg number="1">
+				<word number="1">resistless</word>
+				<word number="2">irresistible</word>
+				<word number="3">invincible</word>
+				<word number="4">proof against</word>
+				<word number="5">impregnable</word>
+				<word number="6">unconquerable</word>
+				<word number="7">indomitable</word>
+				<word number="8">dominating</word>
+				<word number="9">inextinguishable</word>
+				<word number="10">unquenchable</word>
+				<word number="11" new="1">counterbalanced</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incontestable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">more than a match for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">overpowering</word>
+				<word number="2">overwhelming</word>
+			</sg>
+			<sg number="5">
+				<word number="1">all powerful</word>
+				<word number="2">all sufficient</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sovereign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="able-bodied">
+			<sg number="1">
+				<word number="1">able-bodied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">athletic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Herculean</word>
+				<word number="2">Cyclopean</word>
+				<word number="3">Atlantean</word>
+			</sg>
+			<sg number="4">
+				<word number="1">muscular</word>
+				<word number="2">brawny</word>
+				<word number="3">wiry</word>
+				<word number="4">well-knit</word>
+				<word number="5">broad-shouldered</word>
+				<word number="6">sinewy</word>
+				<word number="7">strapping</word>
+				<word number="8">stalwart</word>
+				<word number="9">gigantic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="manly">
+			<sg number="1">
+				<word number="1">manly</word>
+				<word number="2">man-like</word>
+				<word number="3">manful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">masculine</word>
+				<word number="2">male</word>
+				<word number="3">virile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unweakened">
+			<sg number="1">
+				<word number="1">unweakened</word>
+				<word number="2">unallayed</word>
+				<word number="3">unwithered</word>
+				<word number="4">unshaken</word>
+				<word number="5">unworn</word>
+				<word number="6">unexhausted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in full force</word>
+				<word number="2">in full swing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the plenitude of power</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="stubborn">
+			<sg number="1">
+				<word number="1">stubborn</word>
+				<word number="2">thick-ribbed</word>
+				<word number="3">made of iron</word>
+				<word number="4">deep-rooted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strong as a lion</word>
+				<word number="2">strong as a horse</word>
+				<word number="3">strong as an ox</word>
+				<word number="4">strong as brandy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sound as a roach</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in fine feather</word>
+				<word number="2">in high feather</word>
+			</sg>
+			<sg number="5">
+				<word number="1">built like a brick shithouse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">like a giant refreshed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="strongly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">strongly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">by force</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="compulsion" headRef="775">by main force</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="our withers are unwrung">
+			<sg number="1">
+				<word number="1">"our withers are unwrung"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Blut und Eisen">
+			<sg number="1">
+				<word number="1">Blut und Eisen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coelitus mihi vires</word>
+			</sg>
+			<sg number="3">
+				<word number="1">du fort au diable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">en habiles gens</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ex vi termini</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flecti non frangi</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"he that wrestles with us strengthens our nerves and sharpens our skill"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"inflexible in faith invincible in arms"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

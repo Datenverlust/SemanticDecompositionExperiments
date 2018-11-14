@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="99" name="Four" origNum="#95." class="1" section="5" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="quaternity">
+			<sg number="1">
+				<word number="1">quaternity</word>
+				<word number="2">four</word>
+				<word number="3">tetrad</word>
+				<word number="4">quartet</word>
+				<word number="5">quaternion</word>
+				<word number="6">square</word>
+				<word number="7">quarter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tetract">
+			<sg number="1">
+				<word number="1">tetract</word>
+				<word number="2">tetragon</word>
+				<word number="3">quadrangle</word>
+				<word number="4">rectangle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tetrahedron">
+			<sg number="1">
+				<word number="1">tetrahedron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="quadrature">
+			<sg number="1">
+				<word number="1">quadrature</word>
+				<word number="2">quadrifoil</word>
+				<word number="3">quadriform</word>
+				<word number="4">quadruplet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quatrefoil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="tetrapod">
+			<sg number="1">
+				<word number="1">tetrapod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="quadrangle">
+			<sg number="1">
+				<word number="1">quadrangle</word>
+				<word number="2">quad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="quadrupole">
+			<sg number="1">
+				<word number="1">quadrupole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="quadrivium">
+			<sg number="1">
+				<word number="1">quadrivium</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="reduce to a square">
+			<sg number="1">
+				<word number="1">reduce to a square</word>
+				<word number="2">square</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="four">
+			<sg number="1">
+				<word number="1">four</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quaternary</word>
+				<word number="2">quaternal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quadratic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quartile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tetract</word>
+				<word number="2">tetractic</word>
+				<word number="3">tetractinal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tetrad</word>
+				<word number="2">tetragonal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">square</word>
+				<word number="2">quadrate</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

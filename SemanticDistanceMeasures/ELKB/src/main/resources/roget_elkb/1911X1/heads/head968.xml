@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="968" name="Dereliction of Duty" origNum="#927." class="8" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dereliction of duty">
+			<sg number="1">
+				<word number="1">dereliction of duty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="guilt" headRef="989">fault</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="vice" headRef="987">sin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">non-observance</word>
+				<word number="2">non-performance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">neglect</word>
+				<word number="2">relaxation</word>
+				<word number="3">infraction</word>
+				<word number="4">violation</word>
+				<word number="5">transgression</word>
+				<word number="6">failure</word>
+				<word number="7">evasion</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dead letter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="violate">
+			<sg number="1">
+				<word number="1">violate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break</word>
+				<word number="2">break through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">infringe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set aside</word>
+				<word number="2">set at naught</word>
+			</sg>
+			<sg number="5">
+				<word number="1">encroach upon</word>
+				<word number="2">trench upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">trample on</word>
+				<word number="2">trample under foot</word>
+			</sg>
+			<sg number="7">
+				<word number="1">slight</word>
+				<word number="2">neglect</word>
+				<word number="3">evade</word>
+				<word number="4">renounce</word>
+				<word number="5">forswear</word>
+				<word number="6">repudiate</word>
+				<word number="7" new="1">abjure</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wash one's hands of</word>
+			</sg>
+			<sg number="9">
+				<word number="1">escape</word>
+				<word number="2">transgress</word>
+				<word number="3">fail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="call to account">
+			<sg number="1">
+				<word number="1" paraRef="disapprobation" headRef="974">call to account</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

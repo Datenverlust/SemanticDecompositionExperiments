@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="977" name="Flatterer" origNum="#935." class="8" section="4" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="flatterer">
+			<sg number="1">
+				<word number="1">flatterer</word>
+				<word number="2">adulator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eulogist</word>
+				<word number="2">euphemist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">optimist</word>
+				<word number="2">encomiast</word>
+				<word number="3">laudator</word>
+				<word number="4">whitewasher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="toady">
+			<sg number="1">
+				<word number="1">toady</word>
+				<word number="2">toadeater</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sycophant</word>
+				<word number="2">courtier</word>
+				<word number="3">Sir Pertinax MacSycophant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flaneur</word>
+				<word number="2">proneur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">puffer</word>
+				<word number="2">touter</word>
+				<word number="3">claqueur</word>
+			</sg>
+			<sg number="5">
+				<word number="1">clawback</word>
+				<word number="2">earwig</word>
+				<word number="3">doer of dirty work</word>
+			</sg>
+			<sg number="6">
+				<word number="1">parasite</word>
+				<word number="2" paraRef="servility" headRef="925">hanger-on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="yes-man">
+			<sg number="1">
+				<word number="1">yes-man</word>
+				<word number="2">suckup</word>
+				<word number="3">ass-kisser</word>
+				<word number="4">brown-noser</word>
+				<word number="5">teacher's pet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="pessimum genus inimicorum laudantes">
+			<sg number="1">
+				<word number="1">pessimum genus inimicorum laudantes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

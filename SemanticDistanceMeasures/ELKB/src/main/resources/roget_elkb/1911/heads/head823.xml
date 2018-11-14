@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="823" name="Restitution" origNum="#790." class="7" section="4" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="restitution">
+			<sg number="1">
+				<word number="1">restitution</word>
+				<word number="2">return</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rendition</word>
+				<word number="2">reddition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">restoration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reinvestment</word>
+				<word number="2">recuperation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="reconstruction" headRef="689">rehabilitation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reparation</word>
+				<word number="2">atonement</word>
+			</sg>
+			<sg number="7">
+				<word number="1">compensation</word>
+				<word number="2">indemnification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="release">
+			<sg number="1">
+				<word number="1">release</word>
+				<word number="2">replevin</word>
+				<word number="3">redemption</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recovery" headRef="807">getting back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">remitter</word>
+				<word number="2">reversion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="return">
+			<sg number="1">
+				<word number="1">return</word>
+				<word number="2">restore</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give back</word>
+				<word number="2">carry back</word>
+				<word number="3">bring back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">render</word>
+				<word number="2">render up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">let go</word>
+				<word number="2">unclutch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disgorge</word>
+				<word number="2">regorge</word>
+			</sg>
+			<sg number="7">
+				<word number="1">regurgitate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">recoup</word>
+				<word number="2">reimburse</word>
+				<word number="3">compensate</word>
+				<word number="4">indemnify</word>
+			</sg>
+			<sg number="9">
+				<word number="1">remit</word>
+				<word number="2">rehabilitate</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="make good" headRef="689">repair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reinvest">
+			<sg number="1">
+				<word number="1">reinvest</word>
+				<word number="2">revest</word>
+				<word number="3">reinstate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="redeem">
+			<sg number="1">
+				<word number="1">redeem</word>
+				<word number="2" paraRef="get back" headRef="807">recover</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take back again</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="revest">
+			<sg number="1">
+				<word number="1">revest</word>
+				<word number="2">revert</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="restoring">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">restoring</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recuperative" headRef="689">recuperative</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="suum cuique">
+			<sg number="1">
+				<word number="1">suum cuique</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

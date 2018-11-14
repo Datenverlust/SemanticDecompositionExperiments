@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="321" name="Plunge" origNum="#310." class="2" section="4" subSection="4" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="plunge">
+			<sg number="1">
+				<word number="1">plunge</word>
+				<word number="2">dip</word>
+				<word number="3">dive</word>
+				<word number="4">header</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">ducking</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diver</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="plunge">
+			<sg number="1">
+				<word number="1">plunge</word>
+				<word number="2">dip</word>
+				<word number="3">souse</word>
+				<word number="4">duck</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dive</word>
+				<word number="2">plump</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take a plunge</word>
+				<word number="2">take a header</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make a plunge</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="water" headRef="348">bathe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="submerge">
+			<sg number="1">
+				<word number="1">submerge</word>
+				<word number="2">submerse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immerse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">douse</word>
+				<word number="2">sink</word>
+				<word number="3">engulf</word>
+				<word number="4">send to the bottom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="get out of one's depth">
+			<sg number="1">
+				<word number="1">get out of one's depth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go to the bottom</word>
+				<word number="2">go down like a stone</word>
+				<word number="3">drop like a lead balloon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">founder</word>
+				<word number="2">welter</word>
+				<word number="3">wallow</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

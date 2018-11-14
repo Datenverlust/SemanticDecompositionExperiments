@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1025" name="Hell" origNum="#982." class="8" section="5" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="hell">
+			<sg number="1">
+				<word number="1">hell</word>
+				<word number="2">bottomless pit</word>
+				<word number="3">place of torment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">habitation of fallen angels</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Pandemonium</word>
+				<word number="2">Abaddon</word>
+				<word number="3">Domdaniel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jahannan</word>
+				<word number="2">sheol</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hell fire">
+			<sg number="1">
+				<word number="1">hell fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">everlasting fire</word>
+				<word number="2">everlasting torment</word>
+				<word number="3">eternal damnation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lake of fire and brimstone</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fire that is never quenched</word>
+			</sg>
+			<sg number="5">
+				<word number="1">worm that never dies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="purgatory">
+			<sg number="1">
+				<word number="1">purgatory</word>
+				<word number="2">limbo</word>
+				<word number="3">gehenna</word>
+				<word number="4">abyss</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Tartarus">
+			<sg number="1">
+				<word number="1">Tartarus</word>
+				<word number="2">Hades</word>
+				<word number="3">Avernus</word>
+				<word number="4">Styx</word>
+				<word number="5">Stygian creek</word>
+				<word number="6">pit of Acheron</word>
+				<word number="7">Cocytus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infernal regions</word>
+				<word number="2">inferno</word>
+				<word number="3">shades below</word>
+				<word number="4">realms of Pluto</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Pluto">
+			<sg number="1">
+				<word number="1">Pluto</word>
+				<word number="2">Rhadamanthus</word>
+				<word number="3">Erebus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Tophet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="hellish">
+			<sg number="1">
+				<word number="1">hellish</word>
+				<word number="2">infernal</word>
+				<word number="3">stygian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="dies irae dies illa">
+			<sg number="1">
+				<word number="1">dies irae dies illa</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the hue of dungeons and the scowl of night"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

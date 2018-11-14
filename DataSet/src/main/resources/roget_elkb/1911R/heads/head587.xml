@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="587" name="Letter" origNum="#561." class="5" section="3" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="letter">
+			<sg number="1">
+				<word number="1">letter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">character</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="writing" headRef="616">hieroglyphic</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="printing" headRef="617">type</word>
+			</sg>
+			<sg number="5">
+				<word number="1">capitals</word>
+			</sg>
+			<sg number="6">
+				<word number="1">digraph</word>
+				<word number="2">trigraph</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ideogram</word>
+				<word number="2">ideograph</word>
+			</sg>
+			<sg number="8">
+				<word number="1">majuscule</word>
+				<word number="2">minuscule</word>
+			</sg>
+			<sg number="9">
+				<word number="1">majuscule</word>
+				<word number="2">minuscule</word>
+			</sg>
+			<sg number="10">
+				<word number="1">alphabet</word>
+				<word number="2">ABC</word>
+				<word number="3">abecedary</word>
+				<word number="4">christcross-row</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="consonant">
+			<sg number="1">
+				<word number="1">consonant</word>
+				<word number="2">vowel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diphthong</word>
+				<word number="2">triphthong</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mute</word>
+				<word number="2">liquid</word>
+				<word number="3">labial</word>
+				<word number="4">dental</word>
+				<word number="5">guttural</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">patronus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="syllable">
+			<sg number="1">
+				<word number="1">syllable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">monosyllable</word>
+				<word number="2">dissyllable</word>
+				<word number="3">polysyllable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">affix</word>
+				<word number="2">suffix</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="spelling">
+			<sg number="1">
+				<word number="1">spelling</word>
+				<word number="2">orthograph</word>
+			</sg>
+			<sg number="2">
+				<word number="1">phonography</word>
+				<word number="2">phonetic spelling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anagrammatism</word>
+				<word number="2">metagrammatism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cipher">
+			<sg number="1">
+				<word number="1">cipher</word>
+				<word number="2">monogram</word>
+				<word number="3">anagram</word>
+			</sg>
+			<sg number="2">
+				<word number="1">doubleacrostic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="baldacchino">
+			<sg number="1">
+				<word number="1" new="1">baldacchino</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="spell">
+			<sg number="1">
+				<word number="1">spell</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="literal">
+			<sg number="1">
+				<word number="1">literal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alphabetical</word>
+				<word number="2">abecedarian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">syllabic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">majuscular</word>
+				<word number="2">minuscular</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="writing" headRef="616">uncial</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

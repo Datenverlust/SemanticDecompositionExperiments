@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="416" name="Fragrance" origNum="#400." class="3" section="3" subSection="2" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fragrance">
+			<sg number="1">
+				<word number="1">fragrance</word>
+				<word number="2">aroma</word>
+				<word number="3">redolence</word>
+				<word number="4">perfume</word>
+				<word number="5">bouquet</word>
+				<word number="6">essence</word>
+				<word number="7">scent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sweet smell</word>
+				<word number="2">aromatic perfume</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="agalloch">
+			<sg number="1">
+				<word number="1">agalloch</word>
+				<word number="2">agallochium</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aloes wood</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bay rum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">calambac</word>
+				<word number="2">calambour</word>
+			</sg>
+			<sg number="5">
+				<word number="1">champak</word>
+				<word number="2">horehound</word>
+				<word number="3">lign-aloes</word>
+				<word number="4">marrubium</word>
+				<word number="5">mint</word>
+				<word number="6">muskrat</word>
+				<word number="7">napha water</word>
+				<word number="8">olibanum</word>
+				<word number="9">spirit of myrcia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="essential oil">
+			<sg number="1">
+				<word number="1">essential oil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="incense">
+			<sg number="1">
+				<word number="1">incense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">musk</word>
+				<word number="2">frankincense</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pastil</word>
+				<word number="2">pastille</word>
+			</sg>
+			<sg number="4">
+				<word number="1">myrrh</word>
+				<word number="2">perfumes of Arabia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">otto</word>
+				<word number="2">ottar</word>
+				<word number="3">attar</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bergamot</word>
+				<word number="2">balm</word>
+				<word number="3">civet</word>
+				<word number="4">potpourri</word>
+				<word number="5">pulvil</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nosegay</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scentbag</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sachet</word>
+				<word number="2">smelling bottle</word>
+				<word number="3">vinaigrette</word>
+			</sg>
+			<sg number="10">
+				<word number="1">eau de Cologne</word>
+				<word number="2">toilet water</word>
+				<word number="3">lotion</word>
+				<word number="4">after-shave lotion</word>
+			</sg>
+			<sg number="11">
+				<word number="1">thurification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="perfumer">
+			<sg number="1">
+				<word number="1">perfumer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="eucalyptus oil">
+			<sg number="1">
+				<word number="1">eucalyptus oil</word>
+				<word number="2">pinene</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be fragrant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be fragrant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">have a perfume</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smell sweet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="scent">
+			<sg number="1">
+				<word number="1">scent</word>
+				<word number="2">perfume</word>
+				<word number="3">embalm</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fragrant">
+			<sg number="1">
+				<word number="1">fragrant</word>
+				<word number="2">aromatic</word>
+				<word number="3">redolent</word>
+				<word number="4">spicy</word>
+				<word number="5">savory</word>
+				<word number="6">balmy</word>
+				<word number="7">scented</word>
+				<word number="8">sweet-smelling</word>
+				<word number="9">sweet-scented</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perfumed</word>
+				<word number="2">perfumatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thuriferous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fragrant as a rose</word>
+				<word number="2">muscadine</word>
+				<word number="3">ambrosial</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

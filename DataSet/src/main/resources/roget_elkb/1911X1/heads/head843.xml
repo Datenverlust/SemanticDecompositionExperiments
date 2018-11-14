@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="843" name="Nonpayment" origNum="#808." class="7" section="4" subSection="4" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="nonpayment">
+			<sg number="1">
+				<word number="1">nonpayment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">default</word>
+				<word number="2">defalcation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">protest</word>
+				<word number="2">repudiation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">application of the sponge!</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whitewashing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="insolvency">
+			<sg number="1">
+				<word number="1">insolvency</word>
+				<word number="2">bankruptcy</word>
+				<word number="3">failure</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insufficiency" headRef="669">insufficiency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run upon a bank</word>
+			</sg>
+			<sg number="4">
+				<word number="1">overdrawn account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="waste paper bonds">
+			<sg number="1">
+				<word number="1">waste paper bonds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dishonored bills</word>
+				<word number="2">protested bills</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bogus check</word>
+				<word number="2">bogus cheque</word>
+				<word number="3">rubber check</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bankrupt">
+			<sg number="1">
+				<word number="1">bankrupt</word>
+				<word number="2">insolvent</word>
+				<word number="3">debtor</word>
+				<word number="4">lame duck</word>
+				<word number="5">man of straw</word>
+				<word number="6">welsher</word>
+				<word number="7">stag</word>
+				<word number="8">defaulter</word>
+				<word number="9">levanter!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not pay">
+			<sg number="1">
+				<word number="1" paraRef="pay" headRef="842">not pay</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fail</word>
+				<word number="2">break</word>
+				<word number="3">stop payment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">become insolvent</word>
+				<word number="2">become bankrupt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be gazetted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="protest">
+			<sg number="1">
+				<word number="1">protest</word>
+				<word number="2">dishonor</word>
+				<word number="3">repudiate</word>
+				<word number="4">nullify</word>
+				<word number="5">refuse payment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pay under protest">
+			<sg number="1">
+				<word number="1">pay under protest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">button up one's pockets</word>
+				<word number="2">draw the purse strings</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apply the sponge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pay over the left shoulder</word>
+				<word number="2">get whitewashed</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="swindle" headRef="824">swindle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run up bills</word>
+				<word number="2">fly kites</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="not paying">
+			<sg number="1">
+				<word number="1">not paying</word>
+				<word number="2">non-paying</word>
+				<word number="3">non-performing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="in debt" headRef="841">in debt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">behindhand</word>
+				<word number="2">in arrear</word>
+				<word number="3">behind in payments</word>
+				<word number="4">in  arrears</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="poor" headRef="839">beggared</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unable to make both ends meet</word>
+				<word number="2">minus</word>
+			</sg>
+			<sg number="6">
+				<word number="1">worse than nothing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">worthless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="insolvent">
+			<sg number="1">
+				<word number="1">insolvent</word>
+				<word number="2">bankrupt</word>
+				<word number="3">in the gazette</word>
+				<word number="4">gazetted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unpaid">
+			<sg number="1">
+				<word number="1" paraRef="outstanding" headRef="841">unpaid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="gratis" headRef="852">gratis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unremunerated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

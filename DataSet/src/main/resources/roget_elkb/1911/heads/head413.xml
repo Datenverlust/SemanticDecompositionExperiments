@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="413" name="Sourness" origNum="#397." class="3" section="3" subSection="2" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sourness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">sourness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acid</word>
+				<word number="2">acidity</word>
+				<word number="3">low pH</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acetous fermentation</word>
+				<word number="2">lactic fermentation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vinegar">
+			<sg number="1">
+				<word number="1">vinegar</word>
+				<word number="2">verjuice</word>
+				<word number="3">crab</word>
+				<word number="4">alum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acetic acid</word>
+				<word number="2">lactic acid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be sour">
+			<sg number="1">
+				<word number="1">be sour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sour</word>
+				<word number="2" paraRef="" posRef="adj.">turn sour</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set the teeth on edge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render sour">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render sour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acidify</word>
+				<word number="2">acidulate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sour">
+			<sg number="1">
+				<word number="1">sour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acid</word>
+				<word number="2">acidulous</word>
+				<word number="3">acidulated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tart</word>
+				<word number="2">crabbed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acetous</word>
+				<word number="2">acetose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">acerb</word>
+				<word number="2">acetic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sour as vinegar</word>
+				<word number="2">sourish</word>
+				<word number="3">acescent</word>
+				<word number="4">subacid</word>
+			</sg>
+			<sg number="7">
+				<word number="1">styptic</word>
+				<word number="2">hard</word>
+				<word number="3">rough</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="sour as a lemon">
+			<sg number="1">
+				<word number="1">sour as a lemon</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

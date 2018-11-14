@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="11" name="Consanguinity" origNum="#11." class="1" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="consanguinity">
+			<sg number="1">
+				<word number="1">consanguinity</word>
+				<word number="2">relationship</word>
+				<word number="3">kindred</word>
+				<word number="4">blood</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="paternity" headRef="173">parentage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">filiation</word>
+				<word number="2">affiliation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lineage</word>
+				<word number="2">agnation</word>
+				<word number="3">connection</word>
+				<word number="4">alliance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">family connection</word>
+				<word number="2">family tie</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ties of blood</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nepotism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="kinsman">
+			<sg number="1">
+				<word number="1">kinsman</word>
+				<word number="2">kinfolk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kith and kin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">relation</word>
+				<word number="2">relative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">connection</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sibling</word>
+				<word number="2">sib</word>
+			</sg>
+			<sg number="6">
+				<word number="1">next of kin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">uncle</word>
+				<word number="2">aunt</word>
+				<word number="3">nephew</word>
+				<word number="4">niece</word>
+				<word number="5" new="1">pocket</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cousin</word>
+				<word number="2">cousin- german</word>
+			</sg>
+			<sg number="9">
+				<word number="1">first cousin</word>
+				<word number="2">second cousin</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cousin once removed</word>
+				<word number="2">cousin twice removed</word>
+			</sg>
+			<sg number="11">
+				<word number="1">near relation</word>
+				<word number="2">distant relation</word>
+			</sg>
+			<sg number="12">
+				<word number="1">brother</word>
+				<word number="2">sister</word>
+				<word number="3">one's own flesh and blood</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">dance</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">operand</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">auto</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="family">
+			<sg number="1">
+				<word number="1">family</word>
+				<word number="2">fraternity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brotherhood</word>
+				<word number="2">sisterhood</word>
+				<word number="3">cousinhood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="race">
+			<sg number="1">
+				<word number="1">race</word>
+				<word number="2">stock</word>
+				<word number="3">generation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sept" headRef="173">sept</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stirps</word>
+				<word number="2">side</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">breed</word>
+				<word number="2">clan</word>
+				<word number="3">tribe</word>
+				<word number="4">nation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="saltine">
+			<sg number="1">
+				<word number="1" new="1">saltine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be related to">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be related to</word>
+				<word number="2" paraRef="" posRef="n.">claim relationship with</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="related">
+			<sg number="1">
+				<word number="1">related</word>
+				<word number="2">akin</word>
+				<word number="3">consanguineous</word>
+				<word number="4">of the blood</word>
+				<word number="5">family</word>
+				<word number="6">allied</word>
+				<word number="7">collateral</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cognate</word>
+				<word number="2">agnate</word>
+				<word number="3">connate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kindred</word>
+			</sg>
+			<sg number="4">
+				<word number="1">affiliated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fraternal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="intimately related">
+			<sg number="1">
+				<word number="1">intimately related</word>
+				<word number="2">nearly related</word>
+				<word number="3">closely related</word>
+				<word number="4">remotely related</word>
+				<word number="5">distantly related</word>
+				<word number="6">allied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">german</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="984" name="Disinterestedness" origNum="#942." class="8" section="4" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disinterestedness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">disinterestedness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">generosity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">liberality</word>
+				<word number="2">liberalism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">altruism</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="benevolence" headRef="946">benevolence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">elevation</word>
+				<word number="2">loftiness of purpose</word>
+				<word number="3">exaltation</word>
+				<word number="4">magnanimity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chivalry</word>
+				<word number="2">chivalrous spirit</word>
+			</sg>
+			<sg number="8">
+				<word number="1">heroism</word>
+				<word number="2">sublimity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="self-denial">
+			<sg number="1">
+				<word number="1">self-denial</word>
+				<word number="2">self-abnegation</word>
+				<word number="3">self-sacrifice</word>
+				<word number="4">self-immolation</word>
+				<word number="5" paraRef="resolution" headRef="630">self- control</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stoicism</word>
+				<word number="2">devotion</word>
+				<word number="3">martyrdom</word>
+				<word number="4">suttee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="labor of love">
+			<sg number="1">
+				<word number="1">labor of love</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be disinterested">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be disinterested</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make a sacrifice</word>
+				<word number="2">lay one's head on the block</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put oneself in the place of others</word>
+				<word number="2">do as one would be done by</word>
+				<word number="3">do unto others as we would men should do unto us</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disinterested">
+			<sg number="1">
+				<word number="1">disinterested</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unselfish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">self-denying</word>
+				<word number="2">self-sacrificing</word>
+				<word number="3">self- devoted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">generous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">rhetorical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="handsome">
+			<sg number="1">
+				<word number="1">handsome</word>
+				<word number="2">liberal</word>
+				<word number="3">noble</word>
+				<word number="4">broad-minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">noble-minded</word>
+				<word number="2">high-minded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">princely</word>
+				<word number="2">great</word>
+				<word number="3">high</word>
+				<word number="4">elevated</word>
+				<word number="5">lofty</word>
+				<word number="6">exalted</word>
+				<word number="7">spirited</word>
+				<word number="8">stoical</word>
+				<word number="9">magnanimous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">great-hearted</word>
+				<word number="2">large-hearted</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chivalrous</word>
+				<word number="2">heroic</word>
+				<word number="3">sublime</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unbought">
+			<sg number="1">
+				<word number="1">unbought</word>
+				<word number="2">unbribed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="upright" headRef="981">uncorrupted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non vobis solum">
+			<sg number="1">
+				<word number="1">non vobis solum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

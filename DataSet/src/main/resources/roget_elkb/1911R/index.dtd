@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!ELEMENT index (entry+)>
+
+<!ELEMENT entry (word, location+)>
+
+<!ELEMENT location (#PCDATA)>
+
+<!ATTLIST location altRef CDATA #IMPLIED>
+<!ATTLIST location para CDATA #REQUIRED>
+
+<!ELEMENT word (#PCDATA)>

@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="691" name="Remedy" origNum="#662." class="6" section="2" subSection="2" headGroup="20">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="remedy">
+			<sg number="1">
+				<word number="1">remedy</word>
+				<word number="2">help</word>
+				<word number="3">cure</word>
+				<word number="4">redress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">medicine</word>
+				<word number="2">medicament</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diagnosis</word>
+				<word number="2">medical examination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">medical treatment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">surgery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">preventive medicine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="medical devices">
+			<sg number="1">
+				<word number="1">medical devices</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clinical thermometer</word>
+				<word number="2">stethoscope</word>
+				<word number="3">X-ray machine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="anthelmintic">
+			<sg number="1">
+				<word number="1">anthelmintic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">antidote</word>
+				<word number="2">antifebrile</word>
+				<word number="3">antipoison</word>
+				<word number="4">counterpoison</word>
+				<word number="5">antitoxin</word>
+				<word number="6">antispasmodic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bracer</word>
+				<word number="2">faith cure</word>
+				<word number="3">placebo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">helminthagogue</word>
+				<word number="2">lithagogue</word>
+				<word number="3">pick-meup</word>
+				<word number="4">stimulant</word>
+				<word number="5">tonic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vermifuge</word>
+				<word number="2">prophylactic</word>
+				<word number="3">corrective</word>
+				<word number="4">restorative</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="sedative" headRef="181">sedative</word>
+			</sg>
+			<sg number="7">
+				<word number="1">palliative</word>
+			</sg>
+			<sg number="8">
+				<word number="1">febrifuge</word>
+			</sg>
+			<sg number="9">
+				<word number="1">alterant</word>
+				<word number="2">alterative</word>
+			</sg>
+			<sg number="10">
+				<word number="1">specific</word>
+			</sg>
+			<sg number="11">
+				<word number="1">antiseptic</word>
+				<word number="2">emetic</word>
+				<word number="3">analgesic</word>
+				<word number="4">pain-killer</word>
+				<word number="5">antitussive</word>
+				<word number="6">antiinflammatory</word>
+				<word number="7">antibiotic</word>
+				<word number="8">antiviral</word>
+				<word number="9">antifungal</word>
+				<word number="10">carminative</word>
+				<word number="11" new="1">anesthetic</word>
+				<word number="12" new="1">laxative</word>
+				<word number="13" new="2">anaesthetic</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Nepenthe</word>
+				<word number="2">Mithridate</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">astringent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cure">
+			<sg number="1">
+				<word number="1">cure</word>
+				<word number="2">treatment</word>
+				<word number="3">regimen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">radical cure</word>
+				<word number="2">perfect cure</word>
+				<word number="3">certain cure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sovereign remedy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="examination">
+			<sg number="1">
+				<word number="1">examination</word>
+				<word number="2">diagnosis</word>
+				<word number="3">diagnostics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">analysis</word>
+				<word number="2">urinalysis</word>
+				<word number="3">biopsy</word>
+				<word number="4">radiology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="medicine">
+			<sg number="1">
+				<word number="1">medicine</word>
+				<word number="2">physic</word>
+				<word number="3">Galenicals</word>
+				<word number="4">simples</word>
+				<word number="5">drug</word>
+				<word number="6">pharmaceutical</word>
+				<word number="7">prescription</word>
+				<word number="8">potion</word>
+				<word number="9">draught</word>
+				<word number="10">dose</word>
+				<word number="11">pill</word>
+				<word number="12">bolus</word>
+				<word number="13">injection</word>
+				<word number="14">infusion</word>
+				<word number="15">drip</word>
+				<word number="16">suppository</word>
+				<word number="17">electuary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">linctus</word>
+				<word number="2">lincture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">medicament</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pharmacon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="nostrum">
+			<sg number="1">
+				<word number="1">nostrum</word>
+				<word number="2">receipt</word>
+				<word number="3">recipe</word>
+				<word number="4">prescription</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catholicon</word>
+				<word number="2">panacea</word>
+				<word number="3">elixir</word>
+				<word number="4">elixir vitae</word>
+				<word number="5">philosopher's stone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">balm</word>
+				<word number="2">balsam</word>
+				<word number="3">cordial</word>
+				<word number="4">theriac</word>
+				<word number="5">ptisan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="agueweed">
+			<sg number="1">
+				<word number="1">agueweed</word>
+				<word number="2">arnica</word>
+				<word number="3">benzoin</word>
+				<word number="4">bitartrate of potash</word>
+				<word number="5">boneset</word>
+				<word number="6">calomel</word>
+				<word number="7">catnip</word>
+				<word number="8">cinchona</word>
+				<word number="9">cream of tartar</word>
+				<word number="10">Epsom salts</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feverroot</word>
+				<word number="2">feverwort</word>
+			</sg>
+			<sg number="3">
+				<word number="1">friar's balsam</word>
+				<word number="2">Indian sage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ipecac</word>
+				<word number="2">ipecacuanha</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jonquil</word>
+				<word number="2">mercurous chloride</word>
+				<word number="3">Peruvian bark</word>
+			</sg>
+			<sg number="6">
+				<word number="1">quinine</word>
+				<word number="2">quinquina</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sassafras</word>
+				<word number="2">yarrow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="salve">
+			<sg number="1">
+				<word number="1">salve</word>
+				<word number="2">ointment</word>
+				<word number="3">cerate</word>
+				<word number="4">oil</word>
+				<word number="5">lenitive</word>
+				<word number="6">lotion</word>
+				<word number="7">cosmetic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plaster</word>
+			</sg>
+			<sg number="3">
+				<word number="1">epithem</word>
+				<word number="2">embrocation</word>
+				<word number="3">liniment</word>
+				<word number="4">cataplasm</word>
+				<word number="5">sinapism</word>
+				<word number="6">arquebusade</word>
+				<word number="7">traumatic</word>
+				<word number="8">vulnerary</word>
+				<word number="9">pepastic</word>
+				<word number="10">poultice</word>
+				<word number="11">collyrium</word>
+				<word number="12">depilatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">emplastrum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eyewater</word>
+				<word number="2">vesicant</word>
+				<word number="3">vesicatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="compress">
+			<sg number="1">
+				<word number="1">compress</word>
+				<word number="2">pledget</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="support" headRef="224">bandage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="treatment">
+			<sg number="1">
+				<word number="1">treatment</word>
+				<word number="2">medical treatment</word>
+				<word number="3">regimen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dietary</word>
+				<word number="2">dietetics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vis medicatrix</word>
+				<word number="2">vis medicatrix naturae</word>
+			</sg>
+			<sg number="4">
+				<word number="1">medecine expectante</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bloodletting</word>
+				<word number="2">bleeding</word>
+				<word number="3">venesection</word>
+				<word number="4">phlebotomy</word>
+				<word number="5">cupping</word>
+				<word number="6">sanguisae</word>
+				<word number="7">leeches</word>
+			</sg>
+			<sg number="6">
+				<word number="1">operation</word>
+				<word number="2">surgical operation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">transfusion</word>
+				<word number="2">infusion</word>
+				<word number="3">intravenous infusion</word>
+				<word number="4">catheter</word>
+				<word number="5">feeding tube</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prevention</word>
+				<word number="2">preventative medicine</word>
+				<word number="3">immunization</word>
+				<word number="4">inoculation</word>
+				<word number="5">vaccination</word>
+				<word number="6">vaccine</word>
+				<word number="7">shot</word>
+				<word number="8">booster</word>
+				<word number="9">gamma globulin</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">prophylaxis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="pharmacy">
+			<sg number="1">
+				<word number="1">pharmacy</word>
+				<word number="2">pharmacology</word>
+				<word number="3">pharmaceutics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pharmacopoeia</word>
+				<word number="2">formulary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acology</word>
+				<word number="2">Materia Medica</word>
+				<word number="3">therapeutics</word>
+				<word number="4">posology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">homeopathy</word>
+				<word number="2">allopathy</word>
+				<word number="3">heteropathy</word>
+				<word number="4">osteopathy</word>
+				<word number="5">hydropathy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cold water cure</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dietetics</word>
+			</sg>
+			<sg number="7">
+				<word number="1">surgery</word>
+				<word number="2">chirurgery</word>
+				<word number="3">chirurgy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">healing art</word>
+				<word number="2">leechcraft</word>
+			</sg>
+			<sg number="9">
+				<word number="1">orthopedics</word>
+				<word number="2">orthopedy</word>
+				<word number="3">orthopraxy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pediatrics</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dentistry</word>
+				<word number="2">midwifery</word>
+				<word number="3">obstetrics</word>
+				<word number="4">gynecology</word>
+			</sg>
+			<sg number="12">
+				<word number="1">tocology</word>
+			</sg>
+			<sg number="13">
+				<word number="1">sarcology</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">geriatrics</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">neurology</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">veterinary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="hospital">
+			<sg number="1">
+				<word number="1">hospital</word>
+				<word number="2">infirmary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pesthouse</word>
+				<word number="2">lazarhouse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lazaretto</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lock hospital</word>
+			</sg>
+			<sg number="5">
+				<word number="1">maison de sante</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ambulance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="dispensary">
+			<sg number="1">
+				<word number="1">dispensary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dispensatory</word>
+				<word number="2">drug store</word>
+				<word number="3">pharmacy</word>
+				<word number="4">apothecary</word>
+				<word number="5">druggist</word>
+				<word number="6">chemist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="Hotel des Invalides">
+			<sg number="1">
+				<word number="1">Hotel des Invalides</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sanatorium</word>
+				<word number="2">spa</word>
+				<word number="3">pump room</word>
+				<word number="4">well</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hospice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Red Cross</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="doctor">
+			<sg number="1">
+				<word number="1">doctor</word>
+				<word number="2">physician</word>
+				<word number="3">surgeon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">medical practitioner</word>
+				<word number="2">general practitioner</word>
+				<word number="3">specialist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">medical attendant</word>
+				<word number="2">apothecary</word>
+				<word number="3">druggist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">leech</word>
+			</sg>
+			<sg number="5">
+				<word number="1">osteopath</word>
+				<word number="2">osteopathist</word>
+			</sg>
+			<sg number="6">
+				<word number="1">optometrist</word>
+				<word number="2">ophthalmologist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">internist</word>
+				<word number="2">oncologist</word>
+				<word number="3">gastroenterologist</word>
+			</sg>
+			<sg number="8">
+				<word number="1">epidemiologist</word>
+				<word number="2">public health specialist</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dermatologist</word>
+			</sg>
+			<sg number="10">
+				<word number="1">podiatrist</word>
+			</sg>
+			<sg number="11">
+				<word number="1">witch doctor</word>
+				<word number="2">shaman</word>
+				<word number="3">faith healer</word>
+				<word number="4">quack</word>
+				<word number="5">exorcist</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Aesculapius</word>
+				<word number="2">Hippocrates</word>
+				<word number="3">Galen</word>
+			</sg>
+			<sg number="13">
+				<word number="1">accoucheur</word>
+				<word number="2">accoucheuse</word>
+				<word number="3">midwife</word>
+				<word number="4">oculist</word>
+				<word number="5">aurist</word>
+			</sg>
+			<sg number="14">
+				<word number="1">operator</word>
+			</sg>
+			<sg number="15">
+				<word number="1">nurse</word>
+				<word number="2">registered nurse</word>
+				<word number="3">practical nurse</word>
+				<word number="4">monthly nurse</word>
+				<word number="5">sister</word>
+			</sg>
+			<sg number="16">
+				<word number="1">nurse's aide</word>
+				<word number="2">candystriper</word>
+			</sg>
+			<sg number="17">
+				<word number="1">dresser</word>
+			</sg>
+			<sg number="18">
+				<word number="1">bonesetter</word>
+			</sg>
+			<sg number="19">
+				<word number="1">pharmaceutist</word>
+				<word number="2">pharmacist</word>
+				<word number="3">druggist</word>
+				<word number="4">chemist</word>
+				<word number="5">pharmacopolist</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">obstetrician</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">veterinarian</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="2">vet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="care">
+			<sg number="1">
+				<word number="1" new="1">care</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="detection">
+			<sg number="1">
+				<word number="1" new="1">detection</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="medical">
+			<sg number="1">
+				<word number="1" new="1">medical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="modality">
+			<sg number="1">
+				<word number="1" new="1">modality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="nutrition">
+			<sg number="1">
+				<word number="1" new="1">nutrition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="procedure">
+			<sg number="1">
+				<word number="1" new="1">procedure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="tincture">
+			<sg number="1">
+				<word number="1" new="1">tincture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="anesthesia">
+			<sg number="1">
+				<word number="1" new="2">anesthesia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="hygiene">
+			<sg number="1">
+				<word number="1" new="2">hygiene</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="identification">
+			<sg number="1">
+				<word number="1" new="2">identification</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="apply a remedy">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">apply a remedy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">doctor</word>
+				<word number="2">dose</word>
+				<word number="3">physic</word>
+				<word number="4">nurse</word>
+				<word number="5">minister to</word>
+				<word number="6">attend</word>
+				<word number="7">dress the wounds</word>
+				<word number="8">plaster</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drain</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="prevent" headRef="735">prevent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="relieve" headRef="872">relieve</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="palliate" headRef="687">palliate</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="restore" headRef="689">restore</word>
+			</sg>
+			<sg number="8">
+				<word number="1">drench with physic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bleed</word>
+				<word number="2">cup</word>
+				<word number="3">let blood</word>
+			</sg>
+			<sg number="10">
+				<word number="1">manicure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="operate">
+			<sg number="1">
+				<word number="1">operate</word>
+				<word number="2">excise</word>
+				<word number="3">cut out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="remedial">
+			<sg number="1">
+				<word number="1">remedial</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restorative" headRef="689">restorative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">corrective</word>
+				<word number="2">palliative</word>
+				<word number="3">healing</word>
+				<word number="4" new="1">curative</word>
+				<word number="5" new="1">precautionary</word>
+				<word number="6" new="2">adjuvant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sanatory</word>
+				<word number="2">sanative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prophylactic</word>
+				<word number="2">preventative</word>
+				<word number="3">immunizing</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="salutary" headRef="685">salutiferous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">medical</word>
+				<word number="2">medicinal</word>
+			</sg>
+			<sg number="8">
+				<word number="1">therapeutic</word>
+				<word number="2">chirurgical</word>
+				<word number="3">epulotic</word>
+				<word number="4">paregoric</word>
+				<word number="5">tonic</word>
+				<word number="6">corroborant</word>
+				<word number="7">analeptic</word>
+				<word number="8">balsamic</word>
+				<word number="9">anodyne</word>
+				<word number="10">hypnotic</word>
+				<word number="11">neurotic</word>
+				<word number="12">narcotic</word>
+				<word number="13">sedative</word>
+				<word number="14">lenitive</word>
+				<word number="15">demulcent</word>
+				<word number="16">emollient</word>
+			</sg>
+			<sg number="9">
+				<word number="1">depuratory</word>
+			</sg>
+			<sg number="10">
+				<word number="1">detersive</word>
+				<word number="2">detergent</word>
+			</sg>
+			<sg number="11">
+				<word number="1">abstersive</word>
+				<word number="2">disinfectant</word>
+				<word number="3">febrifugal</word>
+				<word number="4">alterative</word>
+			</sg>
+			<sg number="12">
+				<word number="1">traumatic</word>
+				<word number="2">vulnerary</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">hygienic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="allopathic">
+			<sg number="1">
+				<word number="1">allopathic</word>
+				<word number="2">heteropathic</word>
+				<word number="3">homeopathic</word>
+				<word number="4">hydropathic</word>
+				<word number="5" new="1">herbal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anthelmintic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antifebrile</word>
+				<word number="2">antiluetic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aperient</word>
+				<word number="2">chalybeate</word>
+				<word number="3">deobstruent</word>
+				<word number="4">depurative</word>
+				<word number="5">laxative</word>
+				<word number="6">roborant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dietetic">
+			<sg number="1">
+				<word number="1">dietetic</word>
+				<word number="2">alimentary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nutritious</word>
+				<word number="2">nutritive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peptic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alexipharmic</word>
+				<word number="2">alexiteric</word>
+			</sg>
+			<sg number="5">
+				<word number="1">remediable</word>
+				<word number="2">curable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="aux grands maux les grands remedes">
+			<sg number="1">
+				<word number="1">aux grands maux les grands remedes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Dios que da la llaga da la medicina</word>
+			</sg>
+			<sg number="3">
+				<word number="1">para todo hay remedio sino para la muerte</word>
+			</sg>
+			<sg number="4">
+				<word number="1">temporis ars medicina fere est</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"the remedy is worse than the disease"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"throw physic to the dogs</word>
+				<word number="2">I'll none of it"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

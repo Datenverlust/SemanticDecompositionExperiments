@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="885" name="Ornament" origNum="#847." class="8" section="2" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ornament">
+			<sg number="1">
+				<word number="1">ornament</word>
+				<word number="2">ornamentation</word>
+				<word number="3">ornamental art</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ornature</word>
+				<word number="2">ornateness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adornment</word>
+				<word number="2">decoration</word>
+				<word number="3">embellishment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">architecture</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="jewelry" headRef="886">jewelry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="garnish">
+			<sg number="1">
+				<word number="1">garnish</word>
+				<word number="2">polish</word>
+				<word number="3">varnish</word>
+				<word number="4">French polish</word>
+				<word number="5">veneer</word>
+				<word number="6">japanning</word>
+				<word number="7">lacquer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="gilding">
+			<sg number="1">
+				<word number="1">gilding</word>
+				<word number="2">plating</word>
+				<word number="3">ormolu</word>
+				<word number="4">enamel</word>
+				<word number="5">cloisonné</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cosmetics">
+			<sg number="1">
+				<word number="1">cosmetics</word>
+				<word number="2">makeup</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eye shadow</word>
+				<word number="2">rouge</word>
+				<word number="3">face powder</word>
+				<word number="4">lipstick</word>
+				<word number="5">blush</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pattern">
+			<sg number="1">
+				<word number="1">pattern</word>
+				<word number="2">diaper</word>
+				<word number="3">powdering</word>
+				<word number="4">paneling</word>
+				<word number="5">graining</word>
+				<word number="6">pargeting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">detail</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="convexity" headRef="260">repousse</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="texture" headRef="340">texture</word>
+			</sg>
+			<sg number="5">
+				<word number="1">richness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tracery</word>
+				<word number="2">molding</word>
+				<word number="3">fillet</word>
+				<word number="4">listel</word>
+				<word number="5">strapwork</word>
+				<word number="6">coquillage</word>
+				<word number="7">flourish</word>
+				<word number="8">fleur-de-lis</word>
+				<word number="9">arabesque</word>
+				<word number="10">fret</word>
+				<word number="11">anthemion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">egg and tongue</word>
+				<word number="2">egg and dart</word>
+			</sg>
+			<sg number="8">
+				<word number="1">astragal</word>
+				<word number="2">zigzag</word>
+				<word number="3">acanthus</word>
+				<word number="4">cartouche</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="projection" headRef="260">pilaster</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bead</word>
+				<word number="2">beading</word>
+			</sg>
+			<sg number="11">
+				<word number="1">champleve ware</word>
+				<word number="2">cloisonne ware</word>
+			</sg>
+			<sg number="12">
+				<word number="1">frost work</word>
+				<word number="2">Moresque</word>
+				<word number="3">Morisco</word>
+				<word number="4">tooling</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">moulding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="embroidery">
+			<sg number="1">
+				<word number="1">embroidery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brocade</word>
+				<word number="2">brocatelle</word>
+				<word number="3">galloon</word>
+				<word number="4">lace</word>
+				<word number="5">fringe</word>
+				<word number="6">trapping</word>
+				<word number="7">border</word>
+				<word number="8">edging</word>
+				<word number="9">trimming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hanging</word>
+				<word number="2">tapestry</word>
+				<word number="3">arras</word>
+			</sg>
+			<sg number="4">
+				<word number="1">millinery</word>
+				<word number="2">ermine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">drap d'or</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="wreath">
+			<sg number="1">
+				<word number="1">wreath</word>
+				<word number="2">festoon</word>
+				<word number="3">garland</word>
+				<word number="4">chaplet</word>
+				<word number="5">flower</word>
+				<word number="6">nosegay</word>
+				<word number="7">bouquet</word>
+				<word number="8">posy</word>
+				<word number="9">"daisies pied and violets blue"      tassel</word>
+				<word number="10">knot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shoulder knot</word>
+				<word number="2">apaulette</word>
+				<word number="3">epaulet</word>
+				<word number="4">aigulet</word>
+				<word number="5">frog</word>
+			</sg>
+			<sg number="3">
+				<word number="1">star</word>
+				<word number="2">rosette</word>
+				<word number="3">bow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">feather</word>
+				<word number="2">plume</word>
+				<word number="3">pompom</word>
+				<word number="4">panache</word>
+				<word number="5">aigrette</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="finery">
+			<sg number="1">
+				<word number="1">finery</word>
+				<word number="2">frippery</word>
+				<word number="3">gewgaw</word>
+				<word number="4">gimcrack</word>
+				<word number="5">tinsel</word>
+				<word number="6">spangle</word>
+				<word number="7">clinquant</word>
+				<word number="8">pinchbeck</word>
+				<word number="9">paste</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vulgarity" headRef="890">excess of ornament</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gaud</word>
+				<word number="2">pride</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="illustration">
+			<sg number="1">
+				<word number="1">illustration</word>
+				<word number="2">illumination</word>
+				<word number="3">vignette</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="fleuron">
+			<sg number="1">
+				<word number="1">fleuron</word>
+			</sg>
+			<sg number="2">
+				<word number="1">head piece</word>
+				<word number="2">tail piece</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cul-de-lampe</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="flowers of rhetoric" headRef="603">flowers of rhetoric</word>
+			</sg>
+			<sg number="5">
+				<word number="1">work of art</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="ornament">
+			<sg number="1">
+				<word number="1">ornament</word>
+				<word number="2">embellish</word>
+				<word number="3">enrich</word>
+				<word number="4">decorate</word>
+				<word number="5">adorn</word>
+				<word number="6">bead</word>
+				<word number="7">beautify</word>
+				<word number="8">adonize</word>
+				<word number="9" new="1">clothe</word>
+				<word number="10" new="1">grace</word>
+				<word number="11" new="1">inlay</word>
+				<word number="12" new="1">surmount</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="smarten">
+			<sg number="1">
+				<word number="1">smarten</word>
+				<word number="2">furbish</word>
+				<word number="3">polish</word>
+				<word number="4">gild</word>
+				<word number="5">varnish</word>
+				<word number="6">whitewash</word>
+				<word number="7">enamel</word>
+				<word number="8">japan</word>
+				<word number="9">lacquer</word>
+				<word number="10">paint</word>
+				<word number="11">grain</word>
+				<word number="12" new="1">burnish</word>
+				<word number="13" new="1">stencil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="garnish">
+			<sg number="1">
+				<word number="1">garnish</word>
+				<word number="2">trim</word>
+				<word number="3">dizen</word>
+				<word number="4">bedizen</word>
+				<word number="5">prink</word>
+				<word number="6">prank</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trick out</word>
+				<word number="2">fig out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deck</word>
+				<word number="2">bedeck</word>
+				<word number="3">dight</word>
+				<word number="4">bedight</word>
+				<word number="5">array</word>
+			</sg>
+			<sg number="4">
+				<word number="1">begawd</word>
+				<word number="2">titivate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dress</word>
+				<word number="2">dress up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spangle</word>
+				<word number="2">bespangle</word>
+				<word number="3">powder</word>
+			</sg>
+			<sg number="7">
+				<word number="1">embroider</word>
+				<word number="2">work</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chase</word>
+				<word number="2">emboss</word>
+				<word number="3">fret</word>
+				<word number="4">emblazon</word>
+			</sg>
+			<sg number="9">
+				<word number="1">illuminate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">illustrate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="become">
+			<sg number="1">
+				<word number="1" paraRef="accord" headRef="25">become</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ornamented">
+			<sg number="1">
+				<word number="1">ornamented</word>
+				<word number="2" paraRef="" posRef="v.">beautified</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ornate</word>
+				<word number="2">rich</word>
+				<word number="3">gilt</word>
+				<word number="4">begilt</word>
+				<word number="5">tesselated</word>
+				<word number="6">festooned</word>
+			</sg>
+			<sg number="3">
+				<word number="1">champleve</word>
+				<word number="2">cloisonne</word>
+				<word number="3">topiary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="smart">
+			<sg number="1">
+				<word number="1">smart</word>
+				<word number="2">gay</word>
+				<word number="3">trickly</word>
+				<word number="4">flowery</word>
+				<word number="5">glittering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">new gilt</word>
+				<word number="2">new spangled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fine as a Mayday queen</word>
+				<word number="2">fine as a fivepence</word>
+				<word number="3">fine as a carrot fresh scraped</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pranked out</word>
+				<word number="2">bedight</word>
+				<word number="3">well-groomed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in full dress">
+			<sg number="1">
+				<word number="1" paraRef="fashion" headRef="891">in full dress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dressed to kill</word>
+				<word number="2">dressed to the nines</word>
+				<word number="3">dressed to advantage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in Sunday best</word>
+				<word number="2">en grand tenue</word>
+				<word number="3">en grande toilette</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in best bib and tucker</word>
+				<word number="2">endimanche</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="showy">
+			<sg number="1">
+				<word number="1">showy</word>
+				<word number="2">flashy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vulgarity" headRef="890">gaudy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">garish</word>
+				<word number="2">gairish!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gorgeous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ornamental">
+			<sg number="1">
+				<word number="1">ornamental</word>
+				<word number="2">decorative</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="accordant" headRef="25">becoming</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

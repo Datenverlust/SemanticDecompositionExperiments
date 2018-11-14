@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="473" name="Idea" origNum="#453." class="4" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="idea">
+			<sg number="1">
+				<word number="1">idea</word>
+				<word number="2">notion</word>
+				<word number="3">conception</word>
+				<word number="4">thought</word>
+				<word number="5">apprehension</word>
+				<word number="6">impression</word>
+				<word number="7">perception</word>
+				<word number="8">image</word>
+				<word number="9">sentiment</word>
+				<word number="10">reflection</word>
+				<word number="11">observation</word>
+				<word number="12">consideration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abstract idea</word>
+			</sg>
+			<sg number="3">
+				<word number="1">archetype</word>
+				<word number="2">formative notion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guiding conception</word>
+				<word number="2">organizing conception</word>
+			</sg>
+			<sg number="5">
+				<word number="1">image in the mind</word>
+				<word number="2">regulative principle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="view">
+			<sg number="1">
+				<word number="1" paraRef="opinion" headRef="508">view</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="theory" headRef="538">theory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conceit</word>
+				<word number="2">fancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="imagination" headRef="540">phantasy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="point of view">
+			<sg number="1">
+				<word number="1" paraRef="aspect" headRef="467">point of view</word>
+			</sg>
+			<sg number="2">
+				<word number="1">field of view</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="argument">
+			<sg number="1">
+				<word number="1" new="1">argument</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="thesis">
+			<sg number="1">
+				<word number="1" new="1">thesis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="claim">
+			<sg number="1">
+				<word number="1" new="2">claim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="hypothesis">
+			<sg number="1">
+				<word number="1" new="2">hypothesis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

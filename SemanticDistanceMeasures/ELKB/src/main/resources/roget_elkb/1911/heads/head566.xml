@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="566" name="Teacher" origNum="#540." class="5" section="2" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="teacher">
+			<sg number="1">
+				<word number="1">teacher</word>
+				<word number="2">trainer</word>
+				<word number="3">instructor</word>
+				<word number="4">institutor</word>
+				<word number="5">master</word>
+				<word number="6">tutor</word>
+				<word number="7">director</word>
+				<word number="8">Corypheus</word>
+				<word number="9">dry nurse</word>
+				<word number="10">coach</word>
+				<word number="11">grinder</word>
+				<word number="12">crammer</word>
+				<word number="13">don</word>
+			</sg>
+			<sg number="2">
+				<word number="1">governor</word>
+				<word number="2">bear leader</word>
+			</sg>
+			<sg number="3">
+				<word number="1">governess</word>
+				<word number="2">duenna</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disciplinarian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="professor">
+			<sg number="1">
+				<word number="1">professor</word>
+				<word number="2">lecturer</word>
+				<word number="3">reader</word>
+				<word number="4">prelector</word>
+				<word number="5">prolocutor</word>
+				<word number="6">preacher</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chalk talker</word>
+				<word number="2">khoja</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="clergy" headRef="1040">pastor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">schoolmaster</word>
+				<word number="2">dominie</word>
+				<word number="3">usher</word>
+				<word number="4">pedagogue</word>
+				<word number="5">abecedarian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">schoolmistress</word>
+				<word number="2">dame</word>
+				<word number="3">monitor</word>
+				<word number="4">pupil teacher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="expositor">
+			<sg number="1">
+				<word number="1" paraRef="expositor" headRef="549">expositor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">preceptor</word>
+				<word number="2">guide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">guru</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="adviser" headRef="724">mentor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pioneer</word>
+				<word number="2">apostle</word>
+				<word number="3">missionary</word>
+				<word number="4">propagandist</word>
+				<word number="5">munshi</word>
+				<word number="6" paraRef="example" headRef="24">example</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="professorship">
+			<sg number="1">
+				<word number="1" paraRef="school" headRef="568">professorship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="tutelage">
+			<sg number="1">
+				<word number="1" paraRef="teaching" headRef="563">tutelage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="professorial">
+			<sg number="1">
+				<word number="1">professorial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="qui doet discet">
+			<sg number="1">
+				<word number="1">qui doet discet</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

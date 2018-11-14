@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="976" name="Detraction" origNum="#934." class="8" section="4" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="detraction">
+			<sg number="1">
+				<word number="1">detraction</word>
+				<word number="2">disparagement</word>
+				<word number="3">depreciation</word>
+				<word number="4">vilification</word>
+				<word number="5">obloquy</word>
+				<word number="6">scurrility</word>
+				<word number="7">scandal</word>
+				<word number="8">defamation</word>
+				<word number="9">aspersion</word>
+				<word number="10">traducement</word>
+				<word number="11">slander</word>
+				<word number="12">calumny</word>
+				<word number="13">obtrectation</word>
+				<word number="14">evil-speaking</word>
+				<word number="15">backbiting</word>
+				<word number="16">scandalum magnatum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="personality">
+			<sg number="1">
+				<word number="1">personality</word>
+				<word number="2">libel</word>
+				<word number="3">lampoon</word>
+				<word number="4">skit</word>
+				<word number="5">pasquinade</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chronique scandaleuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">roorback</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sarcasm">
+			<sg number="1">
+				<word number="1">sarcasm</word>
+				<word number="2">cynicism</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disapprobation" headRef="974">criticism</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="invective" headRef="974">invective</word>
+			</sg>
+			<sg number="4">
+				<word number="1">envenomed tongue</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spretae injuria formae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="personality">
+			<sg number="1">
+				<word number="1">personality</word>
+				<word number="2">libel</word>
+				<word number="3">lampoon</word>
+				<word number="4">skit</word>
+				<word number="5">pasquinade</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chronique scandaleuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">roorback</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="detractor">
+			<sg number="1">
+				<word number="1" paraRef="detractor" headRef="978">detractor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="detract">
+			<sg number="1">
+				<word number="1">detract</word>
+				<word number="2">derogate</word>
+				<word number="3">decry</word>
+				<word number="4">deprecate</word>
+				<word number="5">depreciate</word>
+				<word number="6">disparage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run down</word>
+				<word number="2">cry down</word>
+			</sg>
+			<sg number="3">
+				<word number="1">backcap</word>
+			</sg>
+			<sg number="4">
+				<word number="1">belittle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="contemn" headRef="972">sneer at</word>
+			</sg>
+			<sg number="6">
+				<word number="1">criticize</word>
+				<word number="2">pull to pieces</word>
+				<word number="3">pick a hole in one's coat</word>
+				<word number="4">asperse</word>
+				<word number="5">cast aspersions</word>
+				<word number="6">blow upon</word>
+				<word number="7">bespatter</word>
+				<word number="8">blacken</word>
+				<word number="9">vilify</word>
+				<word number="10">vilipend</word>
+			</sg>
+			<sg number="7">
+				<word number="1">avile</word>
+			</sg>
+			<sg number="8">
+				<word number="1">give a dog a bad name</word>
+				<word number="2">brand</word>
+				<word number="3">malign</word>
+			</sg>
+			<sg number="9">
+				<word number="1">muckrake</word>
+			</sg>
+			<sg number="10">
+				<word number="1">backbite</word>
+				<word number="2">libel</word>
+				<word number="3">lampoon</word>
+				<word number="4">traduce</word>
+				<word number="5">slander</word>
+				<word number="6">defame</word>
+				<word number="7">calumniate</word>
+				<word number="8">bear false witness against</word>
+			</sg>
+			<sg number="11">
+				<word number="1">speak ill of behind one's back</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fling dirt">
+			<sg number="1">
+				<word number="1" paraRef="disrespect" headRef="971">fling dirt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="anathematize" headRef="974">anathematize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dip the pen in gall</word>
+				<word number="2">view in a bad light</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="impugn">
+			<sg number="1">
+				<word number="1">impugn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assail</word>
+				<word number="2" paraRef="attack" headRef="745">attack</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="oppose" headRef="737">oppose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">denounce</word>
+				<word number="2" paraRef="accuse" headRef="980">accuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="detracting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">detracting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defamatory</word>
+				<word number="2">detractory</word>
+				<word number="3">derogatory</word>
+				<word number="4">deprecatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">catty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disparaging</word>
+				<word number="2">libelous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scurrile</word>
+				<word number="2">scurrilous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">abusive</word>
+			</sg>
+			<sg number="7">
+				<word number="1">foul-spoken</word>
+				<word number="2">foul-tongued</word>
+				<word number="3">foul-mouthed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slanderous</word>
+			</sg>
+			<sg number="9">
+				<word number="1">calumnious</word>
+				<word number="2">calumniatory</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sarcastic</word>
+				<word number="2">sardonic</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sarcastic</word>
+				<word number="2">satirical</word>
+				<word number="3">cynical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="critical">
+			<sg number="1">
+				<word number="1" paraRef="critical" headRef="974">critical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="damn with faint praise">
+			<sg number="1">
+				<word number="1">"damn with faint praise</word>
+				<word number="2">assent with civil leer</word>
+				<word number="3">and without sneering</word>
+				<word number="4">teach the rest to sneer"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">another lie nailed to the counter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"cut men's throats with whisperings"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"foul whisperings are abroad"</word>
+				<word number="2">"soft-buzzing slander"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"virtue itself 'scapes not calumnious strokes"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

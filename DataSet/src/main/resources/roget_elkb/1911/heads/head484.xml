@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="484" name="Comparison" origNum="#464." class="4" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="comparison">
+			<sg number="1">
+				<word number="1">comparison</word>
+				<word number="2">collation</word>
+				<word number="3">contrast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">identification</word>
+			</sg>
+			<sg number="3">
+				<word number="1">comparative estimate</word>
+				<word number="2">relative estimate</word>
+				<word number="3">relativity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="simile">
+			<sg number="1">
+				<word number="1">simile</word>
+				<word number="2">similitude</word>
+				<word number="3" paraRef="similarity" headRef="18">analogy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="metaphor" headRef="546">allegory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="matching">
+			<sg number="1">
+				<word number="1">matching</word>
+				<word number="2">pattern-matching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ratio">
+			<sg number="1">
+				<word number="1">ratio</word>
+				<word number="2" paraRef="number" headRef="88">proportion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="discrimination">
+			<sg number="1">
+				<word number="1" paraRef="discrimination" headRef="486">discrimination</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="indiscrimination" headRef="487">indiscrimination</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="identification" headRef="488">identification</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="compare to">
+			<sg number="1">
+				<word number="1">compare to</word>
+				<word number="2">compare with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">collate</word>
+				<word number="2">confront</word>
+			</sg>
+			<sg number="3">
+				<word number="1">place side by side</word>
+				<word number="2" paraRef="near" headRef="206">juxtapose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set against one another</word>
+				<word number="2">pit against one another</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contrast</word>
+				<word number="2">balance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="identify">
+			<sg number="1">
+				<word number="1">identify</word>
+				<word number="2">draw a parallel</word>
+				<word number="3">parallel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="compare notes">
+			<sg number="1">
+				<word number="1">compare notes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">institute a comparison</word>
+			</sg>
+			<sg number="3">
+				<word number="1">parva componere magnis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="comparative">
+			<sg number="1">
+				<word number="1">comparative</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="metaphorical" headRef="546">metaphorical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="compared with">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">compared with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">comparable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">judged by comparison</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="relatively">
+			<sg number="1">
+				<word number="1" paraRef="relation" headRef="9">relatively</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">as compared with</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="comparisons are odious">
+			<sg number="1">
+				<word number="1">comparisons are odious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"comparisons are odorous"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

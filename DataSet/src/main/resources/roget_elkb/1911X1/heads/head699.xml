@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="699" name="Preservation" origNum="#670." class="6" section="2" subSection="2" headGroup="24">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="preservation">
+			<sg number="1">
+				<word number="1">preservation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">safe-keeping</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="storage" headRef="665">conservation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maintenance</word>
+				<word number="2">support</word>
+				<word number="3">susteritation</word>
+				<word number="4">conservatism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vis conservatrix</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="deliverance" headRef="701">salvation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prophylaxis">
+			<sg number="1">
+				<word number="1">prophylaxis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">preserver</word>
+				<word number="2">preservative</word>
+				<word number="3">additive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antibiotics</word>
+				<word number="2">antifungals</word>
+				<word number="3">biocide</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hygiastics</word>
+				<word number="2">hygiantics</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cover</word>
+				<word number="2">drugget</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cordon sanitaire</word>
+			</sg>
+			<sg number="7">
+				<word number="1">canning</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ensilage</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tinned goods</word>
+				<word number="2">canned goods</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="snake oil">
+			<sg number="1">
+				<word number="1">snake oil</word>
+				<word number="2">spider webs</word>
+				<word number="3">cure-all</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laetrile</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="charm" headRef="1037">charm</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="preserve">
+			<sg number="1">
+				<word number="1">preserve</word>
+				<word number="2">maintain</word>
+				<word number="3">keep</word>
+				<word number="4">sustain</word>
+				<word number="5">support</word>
+				<word number="6">hold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep up</word>
+				<word number="2">keep alive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">refrigerate</word>
+				<word number="2">keep on ice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not willingly let die</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bank up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nurse</word>
+			</sg>
+			<sg number="7">
+				<word number="1">save</word>
+				<word number="2">rescue</word>
+			</sg>
+			<sg number="8">
+				<word number="1">be safe</word>
+				<word number="2" paraRef="make safe" headRef="693">make safe</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="care" headRef="479">take care of</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="defend" headRef="746">guard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stare super antiquas vias">
+			<sg number="1">
+				<word number="1">stare super antiquas vias</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold one's own</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold one's ground</word>
+				<word number="2" paraRef="resist" headRef="748">stand one's ground</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="embalm">
+			<sg number="1">
+				<word number="1">embalm</word>
+				<word number="2">cure</word>
+				<word number="3">salt</word>
+				<word number="4">pickle</word>
+				<word number="5">season</word>
+				<word number="6">kyanize</word>
+				<word number="7">bottle</word>
+				<word number="8">pot</word>
+				<word number="9">tin</word>
+				<word number="10">can</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sterilize</word>
+				<word number="2">pasteurize</word>
+				<word number="3">radiate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dry</word>
+				<word number="2">lyophilize</word>
+				<word number="3">freeze-dry</word>
+				<word number="4">concentrate</word>
+				<word number="5">evaporate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">freeze</word>
+				<word number="2">quick-freeze</word>
+				<word number="3">deep-freeze</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="store" headRef="665">husband</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="preserving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">preserving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conservative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prophylactic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">preservatory</word>
+				<word number="2">preservative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hygienic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="preserved">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">preserved</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unimpaired</word>
+				<word number="2">unbroken</word>
+				<word number="3">uninjured</word>
+				<word number="4">unhurt</word>
+				<word number="5">unsinged</word>
+				<word number="6">unmarred</word>
+			</sg>
+			<sg number="3">
+				<word number="1">safe</word>
+				<word number="2">safe and sound</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intact</word>
+				<word number="2">with a whole skin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nolumus leges Angliae mutari">
+			<sg number="1">
+				<word number="1">nolumus leges Angliae mutari</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

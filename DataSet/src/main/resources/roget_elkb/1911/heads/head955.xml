@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="955" name="Pitilessness" origNum="#914a." class="8" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pitilessness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">pitilessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inclemency</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="severity" headRef="770">severity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="malevolence" headRef="947">malevolence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have no mercy">
+			<sg number="1">
+				<word number="1">have no mercy</word>
+				<word number="2" paraRef="mercy" headRef="954">shut the gates of mercy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give no quarter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pitiless">
+			<sg number="1">
+				<word number="1">pitiless</word>
+				<word number="2">merciless</word>
+				<word number="3">ruthless</word>
+				<word number="4">bowelless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unpitying</word>
+				<word number="2">unmerciful</word>
+				<word number="3">inclement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grim-faced</word>
+				<word number="2">grim-visaged</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incompassionate</word>
+				<word number="2">uncompassionate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inexorable</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="harsh" headRef="770">harsh</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="unrelenting" headRef="960">unrelenting</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

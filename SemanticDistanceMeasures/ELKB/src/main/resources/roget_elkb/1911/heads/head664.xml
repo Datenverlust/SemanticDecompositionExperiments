@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="664" name="Materials" origNum="#635." class="6" section="2" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="material">
+			<sg number="1">
+				<word number="1">material</word>
+				<word number="2">raw material</word>
+				<word number="3">stuff</word>
+				<word number="4">stock</word>
+				<word number="5">staple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adobe</word>
+				<word number="2">brown stone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chinking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clapboard</word>
+			</sg>
+			<sg number="5">
+				<word number="1">daubing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">puncheon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shake</word>
+			</sg>
+			<sg number="8">
+				<word number="1">shingle</word>
+				<word number="2">bricks and mortar</word>
+			</sg>
+			<sg number="9">
+				<word number="1">metal</word>
+			</sg>
+			<sg number="10">
+				<word number="1">stone</word>
+			</sg>
+			<sg number="11">
+				<word number="1">clay</word>
+				<word number="2" paraRef="crockery" headRef="397">brick crockery</word>
+			</sg>
+			<sg number="12">
+				<word number="1">compo</word>
+				<word number="2">composition</word>
+			</sg>
+			<sg number="13">
+				<word number="1">concrete</word>
+			</sg>
+			<sg number="14">
+				<word number="1">reinforced concrete</word>
+				<word number="2">cement</word>
+			</sg>
+			<sg number="15">
+				<word number="1">wood</word>
+				<word number="2">ore</word>
+				<word number="3">timber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="materials">
+			<sg number="1">
+				<word number="1">materials</word>
+			</sg>
+			<sg number="2">
+				<word number="1">supplies</word>
+				<word number="2">munition</word>
+				<word number="3">fuel</word>
+				<word number="4">grist</word>
+				<word number="5" paraRef="food" headRef="309">household stuff pabulum</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="arms" headRef="756">ammunition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contingents</word>
+			</sg>
+			<sg number="5">
+				<word number="1">relay</word>
+				<word number="2">reinforcement</word>
+				<word number="3">reenforcement</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="personal property" headRef="813">baggage</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="means" headRef="661">means</word>
+			</sg>
+			<sg number="8">
+				<word number="1">calico</word>
+				<word number="2">cambric</word>
+				<word number="3">cashmere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="raw">
+			<sg number="1">
+				<word number="1" paraRef="unprepared" headRef="703">raw</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">wooden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adobe</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

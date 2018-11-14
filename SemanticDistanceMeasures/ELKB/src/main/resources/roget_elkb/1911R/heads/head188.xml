@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="188" name="Space" origNum="#180." class="2" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="space">
+			<sg number="1">
+				<word number="1">space</word>
+				<word number="2">extension</word>
+				<word number="3">extent</word>
+				<word number="4">superficial extent</word>
+				<word number="5">expanse</word>
+				<word number="6">stretch</word>
+				<word number="7">hyperspace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">room</word>
+				<word number="2">scope</word>
+				<word number="3">range</word>
+				<word number="4">field</word>
+				<word number="5">way</word>
+				<word number="6">expansion</word>
+				<word number="7">compass</word>
+				<word number="8">sweep</word>
+				<word number="9">swing</word>
+				<word number="10">spread</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">paintballs</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dimension">
+			<sg number="1">
+				<word number="1">dimension</word>
+				<word number="2" paraRef="length" headRef="209">length</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="distance" headRef="205">distance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="size" headRef="201">size</word>
+			</sg>
+			<sg number="4">
+				<word number="1">volume</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hypervolume</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">sharia</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">skink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="latitude">
+			<sg number="1">
+				<word number="1">latitude</word>
+				<word number="2">play</word>
+				<word number="3">leeway</word>
+				<word number="4">purchase</word>
+				<word number="5">tolerance</word>
+				<word number="6">room for maneuver</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="spare room">
+			<sg number="1">
+				<word number="1">spare room</word>
+				<word number="2">elbow room</word>
+				<word number="3">house room</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stowage</word>
+				<word number="2">roomage</word>
+				<word number="3">margin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">opening</word>
+				<word number="2">sphere</word>
+				<word number="3">arena</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="open space">
+			<sg number="1">
+				<word number="1">open space</word>
+				<word number="2">free space</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="absence" headRef="196">void</word>
+			</sg>
+			<sg number="3">
+				<word number="1">waste</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wildness</word>
+				<word number="2">wilderness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">moor</word>
+				<word number="2">moorland</word>
+			</sg>
+			<sg number="6">
+				<word number="1">campagna</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="abyss">
+			<sg number="1">
+				<word number="1" paraRef="interval" headRef="207">abyss</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unlimited space</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="infinity" headRef="110">infinity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">world</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="presence" headRef="195">ubiquity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">length and breadth of the land</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="proportions">
+			<sg number="1">
+				<word number="1">proportions</word>
+				<word number="2">acreage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acres</word>
+				<word number="2">acres and perches</word>
+				<word number="3">roods and perches</word>
+				<word number="4">hectares</word>
+				<word number="5">square miles</word>
+			</sg>
+			<sg number="3">
+				<word number="1">square inches</word>
+				<word number="2">square yards</word>
+				<word number="3">square centimeters</word>
+				<word number="4">square meters</word>
+				<word number="5" paraRef="clothing" headRef="235">yards</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ares</word>
+				<word number="2">arpents</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="spacious">
+			<sg number="1">
+				<word number="1">spacious</word>
+				<word number="2">roomy</word>
+				<word number="3">extensive</word>
+				<word number="4">expansive</word>
+				<word number="5">capacious</word>
+				<word number="6">ample</word>
+			</sg>
+			<sg number="2">
+				<word number="1">widespread</word>
+				<word number="2">vast</word>
+				<word number="3">world-wide</word>
+				<word number="4">uncircumscribed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="infinite" headRef="110">boundless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shoreless</word>
+				<word number="2">trackless</word>
+				<word number="3">pathless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">extended</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="extensively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">extensively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wherever</word>
+			</sg>
+			<sg number="3">
+				<word number="1">everywhere</word>
+			</sg>
+			<sg number="4">
+				<word number="1">far and near</word>
+				<word number="2">far and wide</word>
+			</sg>
+			<sg number="5">
+				<word number="1">right and left</word>
+				<word number="2">all over</word>
+				<word number="3">all the world over</word>
+			</sg>
+			<sg number="6">
+				<word number="1">throughout the world</word>
+				<word number="2">throughout the length and breadth of the land</word>
+			</sg>
+			<sg number="7">
+				<word number="1">under the sun</word>
+				<word number="2">in every quarter</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in all quarters</word>
+				<word number="2">in all lands</word>
+			</sg>
+			<sg number="9">
+				<word number="1">here there and everywhere</word>
+			</sg>
+			<sg number="10">
+				<word number="1">from pole to pole</word>
+				<word number="2">from China to Peru</word>
+				<word number="3">from Indus to the pole</word>
+				<word number="4">from Dan to Beersheba</word>
+				<word number="5">from end to end</word>
+			</sg>
+			<sg number="11">
+				<word number="1">on the face of the earth</word>
+				<word number="2">in the wide world</word>
+				<word number="3">from all points of the compass</word>
+			</sg>
+			<sg number="12">
+				<word number="1">over great space</word>
+			</sg>
+			<sg number="13">
+				<word number="1">to the four winds</word>
+				<word number="2">to the uttermost parts of the earth</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

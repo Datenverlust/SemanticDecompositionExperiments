@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="521" name="Absurdity" origNum="#497." class="4" section="5" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="absurdity">
+			<sg number="1">
+				<word number="1">absurdity</word>
+				<word number="2" paraRef="" posRef="adj.">absurdness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imbecility" headRef="523">imbecility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alogy</word>
+				<word number="2">nonsense</word>
+				<word number="3">utter nonsense</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paradox</word>
+				<word number="2">inconsistency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stultiloquy</word>
+				<word number="2">stultiloquence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nugacity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="blunder">
+			<sg number="1">
+				<word number="1">blunder</word>
+				<word number="2">muddle</word>
+				<word number="3">bull</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Irishism!</word>
+				<word number="2">Hibernicism!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slipslop</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anticlimax</word>
+				<word number="2">bathos</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="sophism" headRef="500">sophism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="farce">
+			<sg number="1">
+				<word number="1">farce</word>
+				<word number="2">galimathias</word>
+				<word number="3">amphigouri</word>
+				<word number="4">rhapsody</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disorder" headRef="62">farrago</word>
+			</sg>
+			<sg number="3">
+				<word number="1">betise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extravagance</word>
+				<word number="2">romance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sciamachy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sell">
+			<sg number="1">
+				<word number="1">sell</word>
+				<word number="2">pun</word>
+				<word number="3">verbal quibble</word>
+				<word number="4">macaronic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="jargon">
+			<sg number="1">
+				<word number="1">jargon</word>
+				<word number="2">fustian</word>
+				<word number="3">twaddle</word>
+				<word number="4" paraRef="no meaning" headRef="542">gibberish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exaggeration" headRef="575">exaggeration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">moonshine</word>
+				<word number="2">stuff</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mare's nest</word>
+				<word number="2">quibble</word>
+				<word number="3">self-delusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="vagary">
+			<sg number="1">
+				<word number="1">vagary</word>
+				<word number="2">tomfoolery</word>
+				<word number="3">poppycock</word>
+				<word number="4">mummery</word>
+				<word number="5">monkey trick</word>
+				<word number="6">boutade</word>
+				<word number="7">escapade</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="play the fool">
+			<sg number="1">
+				<word number="1" paraRef="play the fool" headRef="523">play the fool</word>
+			</sg>
+			<sg number="2">
+				<word number="1">talk nonsense</word>
+				<word number="2">parler a tort et a travess</word>
+			</sg>
+			<sg number="3">
+				<word number="1">battre la campagne</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">be - absurd</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="absurd">
+			<sg number="1">
+				<word number="1">absurd</word>
+				<word number="2">nonsensical</word>
+				<word number="3">preposterous</word>
+				<word number="4">egregious</word>
+				<word number="5">senseless</word>
+				<word number="6">inconsistent</word>
+				<word number="7">ridiculous</word>
+				<word number="8">extravagant</word>
+				<word number="9">quibbling</word>
+				<word number="10" new="1">laughable</word>
+				<word number="11" new="1">ludicrous</word>
+				<word number="12" new="1">outrageous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self-annulling</word>
+				<word number="2">self- contradictory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">macaronic</word>
+				<word number="2">punning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="foolish">
+			<sg number="1">
+				<word number="1" paraRef="foolish" headRef="523">foolish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sophistical" headRef="500">sophistical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unmeaning" headRef="542">unmeaning</word>
+			</sg>
+			<sg number="4">
+				<word number="1">without rhyme or reason</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fantastic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="fiddlededee">
+			<sg number="1">
+				<word number="1">fiddlededee!</word>
+				<word number="2">pish!</word>
+				<word number="3">pho!</word>
+				<word number="4">"in the name of the Prophet--figs!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="credat Judaeus Apella">
+			<sg number="1">
+				<word number="1">credat Judaeus Apella</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tell it to the marines</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

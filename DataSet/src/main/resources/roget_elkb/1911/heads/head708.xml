@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="708" name="Misuse" origNum="#679." class="6" section="2" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="misuse">
+			<sg number="1">
+				<word number="1">misuse</word>
+				<word number="2">misusage</word>
+				<word number="3">misemployment</word>
+				<word number="4">misapplication</word>
+				<word number="5">misappropriation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="abuse">
+			<sg number="1">
+				<word number="1">abuse</word>
+				<word number="2">profanation</word>
+				<word number="3">prostitution</word>
+				<word number="4">desecration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="waste" headRef="667">waste</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="misuse">
+			<sg number="1">
+				<word number="1">misuse</word>
+				<word number="2">misemploy</word>
+				<word number="3">misapply</word>
+				<word number="4">misappropriate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="desecrate">
+			<sg number="1">
+				<word number="1">desecrate</word>
+				<word number="2">abuse</word>
+				<word number="3">profane</word>
+				<word number="4">prostitute</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="waste" headRef="667">waste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overtask</word>
+				<word number="2">overtax</word>
+				<word number="3">overwork</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="squander" headRef="856">squander</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cut blocks with a razor">
+			<sg number="1">
+				<word number="1">cut blocks with a razor</word>
+				<word number="2">employ a steam engine to crack a nut</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catch at a straw</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">misused</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ludere cum sacris">
+			<sg number="1">
+				<word number="1">ludere cum sacris</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

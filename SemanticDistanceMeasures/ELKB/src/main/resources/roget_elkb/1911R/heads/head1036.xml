@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1036" name="Sorcery" origNum="#992." class="8" section="5" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sorcery">
+			<sg number="1">
+				<word number="1">sorcery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">occult art</word>
+				<word number="2">occult sciences</word>
+			</sg>
+			<sg number="3">
+				<word number="1">magic</word>
+				<word number="2">the black art</word>
+				<word number="3">necromancy</word>
+				<word number="4">theurgy</word>
+				<word number="5">thaumaturgy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">demonology</word>
+				<word number="2">demonomy</word>
+				<word number="3">demonship</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diablerie</word>
+				<word number="2">bedevilment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">witchcraft</word>
+				<word number="2">witchery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">glamor</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fetishism</word>
+				<word number="2">fetichism</word>
+				<word number="3">feticism</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ghost dance</word>
+				<word number="2">hoodoo</word>
+			</sg>
+			<sg number="10">
+				<word number="1">obi</word>
+				<word number="2">obiism</word>
+			</sg>
+			<sg number="11">
+				<word number="1">voodoo</word>
+				<word number="2">voodooism</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Shamanism</word>
+				<word number="2">vampirism</word>
+			</sg>
+			<sg number="13">
+				<word number="1">conjuration</word>
+			</sg>
+			<sg number="14">
+				<word number="1">bewitchery</word>
+				<word number="2">exorcism</word>
+				<word number="3">enchantment</word>
+				<word number="4">mysticism</word>
+				<word number="5">second sight</word>
+				<word number="6">mesmerism</word>
+				<word number="7">animal magnetism</word>
+			</sg>
+			<sg number="15">
+				<word number="1">od force</word>
+				<word number="2">odylic force</word>
+			</sg>
+			<sg number="16">
+				<word number="1">electrobiology</word>
+				<word number="2">clairvoyance</word>
+			</sg>
+			<sg number="17">
+				<word number="1">spiritualism</word>
+				<word number="2">spirit rapping</word>
+				<word number="3">table turning</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">intaglio</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">pemmican</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">ribcage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="divination">
+			<sg number="1">
+				<word number="1" paraRef="prediction" headRef="535">divination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sortilege</word>
+				<word number="2">ordeal</word>
+				<word number="3">sortes Virgilianae</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deception" headRef="571">hocus-pocus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="practice sorcery">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">practice sorcery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast a nativity</word>
+				<word number="2">conjure</word>
+				<word number="3">exorcise</word>
+				<word number="4">charm</word>
+				<word number="5">enchant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bewitch</word>
+				<word number="2">bedevil</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hoodoo</word>
+				<word number="2">voodoo</word>
+			</sg>
+			<sg number="5">
+				<word number="1">entrance</word>
+				<word number="2">mesmerize</word>
+				<word number="3">magnetize</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="influence" headRef="643">fascinate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">taboo</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wave a wand</word>
+			</sg>
+			<sg number="9">
+				<word number="1">rub the ring</word>
+				<word number="2">rub the lamp</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cast a spell</word>
+			</sg>
+			<sg number="11">
+				<word number="1">call up spirits</word>
+				<word number="2">call up spirits from the vasty deep</word>
+			</sg>
+			<sg number="12">
+				<word number="1">raise spirits from the dead</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="magic">
+			<sg number="1">
+				<word number="1">magic</word>
+				<word number="2">magical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mystic</word>
+				<word number="2">weird</word>
+				<word number="3">cabalistic</word>
+				<word number="4">talismanic</word>
+				<word number="5">phylacteric</word>
+				<word number="6">incantatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">charmed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Circean</word>
+				<word number="2">odylic</word>
+				<word number="3">voodoo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

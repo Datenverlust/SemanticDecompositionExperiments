@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="947" name="Malevolence" origNum="#907." class="8" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="malevolence">
+			<sg number="1">
+				<word number="1">malevolence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bad intent</word>
+				<word number="2">bad intention</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unkindness</word>
+				<word number="2">diskindness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ill nature</word>
+				<word number="2">ill will</word>
+				<word number="3">ill blood</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bad blood</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="enmity" headRef="928">enmity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="hate" headRef="937">hate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">malignity</word>
+			</sg>
+			<sg number="9">
+				<word number="1">malice</word>
+				<word number="2">malice prepense</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="" posRef="adj.">maliciousness</word>
+			</sg>
+			<sg number="11">
+				<word number="1">spite</word>
+				<word number="2">despite</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="resentment" headRef="939">resentment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="uncharitableness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">uncharitableness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="incompassionate" headRef="955">incompassionateness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gall</word>
+				<word number="2">venom</word>
+				<word number="3">rancor</word>
+				<word number="4">rankling</word>
+				<word number="5">virulence</word>
+				<word number="6">mordacity</word>
+				<word number="7" paraRef="discourtesy" headRef="934">acerbity churlishness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hardness of heart">
+			<sg number="1">
+				<word number="1">hardness of heart</word>
+				<word number="2">heart of stone</word>
+				<word number="3">obduracy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cruelty</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">cruelness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">brutality</word>
+				<word number="2">savagery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ferity</word>
+				<word number="2">ferocity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">barbarity</word>
+				<word number="2">inhumanity</word>
+				<word number="3">immanity</word>
+				<word number="4">truculence</word>
+				<word number="5">ruffianism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">evil eye</word>
+				<word number="2">cloven foot</word>
+			</sg>
+			<sg number="8">
+				<word number="1">torture</word>
+				<word number="2">vivisection</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">ruthlessness</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">viciousness</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">callousness</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">harshness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ill turn">
+			<sg number="1">
+				<word number="1">ill turn</word>
+				<word number="2">bad turn</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disrespect" headRef="971">affront</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outrage</word>
+				<word number="2">atrocity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ill usage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intolerance</word>
+				<word number="2">persecution</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tender mercies</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"unkindest cut of all"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be malevolent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be malevolent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bear spleen</word>
+				<word number="2">harbor spleen</word>
+				<word number="3">bear a grudge</word>
+				<word number="4">harbor a grudge</word>
+				<word number="5">bear malice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">betray the cloven foot</word>
+				<word number="2">show the cloven foot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hurt">
+			<sg number="1">
+				<word number="1" paraRef="physical pain" headRef="391">hurt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="annoy" headRef="868">annoy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">injure</word>
+				<word number="2">harm</word>
+				<word number="3">wrong</word>
+			</sg>
+			<sg number="4">
+				<word number="1">do harm to</word>
+				<word number="2">do an ill office to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">outrage</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disoblige</word>
+				<word number="2">malign</word>
+				<word number="3">plant a thorn in the breast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="molest">
+			<sg number="1">
+				<word number="1">molest</word>
+				<word number="2">worry</word>
+				<word number="3">harass</word>
+				<word number="4">haunt</word>
+				<word number="5">harry</word>
+				<word number="6">bait</word>
+				<word number="7">tease</word>
+				<word number="8" new="1">pester</word>
+			</sg>
+			<sg number="2">
+				<word number="1">throw stones at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">play the devil with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hunt down</word>
+				<word number="2">dragoon</word>
+				<word number="3">hound</word>
+			</sg>
+			<sg number="5">
+				<word number="1">persecute</word>
+				<word number="2">oppress</word>
+				<word number="3">grind</word>
+				<word number="4" new="1">victimize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">maltreat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">illtreat</word>
+				<word number="2">ill-use</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wreak one's malice on">
+			<sg number="1">
+				<word number="1">wreak one's malice on</word>
+				<word number="2">do one's worst</word>
+				<word number="3">break a butterfly on the wheel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dip one's hands in blood</word>
+				<word number="2">imbrue one's hands in blood</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="have no mercy" headRef="955">have no mercy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="malevolent">
+			<sg number="1">
+				<word number="1">malevolent</word>
+				<word number="2">unbenevolent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbenign</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill-disposed</word>
+				<word number="2">ill- intentioned</word>
+				<word number="3">ill-natured</word>
+				<word number="4">ill-conditioned</word>
+				<word number="5">ill-contrived</word>
+			</sg>
+			<sg number="4">
+				<word number="1">evil-minded</word>
+				<word number="2">evil-disposed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">black-browed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="malicious">
+			<sg number="1">
+				<word number="1">malicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">malign</word>
+				<word number="2">malignant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rancorous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">despiteful</word>
+				<word number="2">spiteful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mordacious</word>
+				<word number="2">caustic</word>
+				<word number="3">bitter</word>
+				<word number="4">envenomed</word>
+				<word number="5">acrimonious</word>
+				<word number="6">virulent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unamiable</word>
+				<word number="2">uncharitable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">maleficent</word>
+				<word number="2">venomous</word>
+				<word number="3">grinding</word>
+				<word number="4">galling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="harsh">
+			<sg number="1">
+				<word number="1">harsh</word>
+				<word number="2">disobliging</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unkind</word>
+				<word number="2">unfriendly</word>
+				<word number="3">ungracious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inofficious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">invidious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">uncandid</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="discourteous" headRef="934">churlish</word>
+			</sg>
+			<sg number="7">
+				<word number="1">surly</word>
+				<word number="2" paraRef="sullen" headRef="941">sullen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cold">
+			<sg number="1">
+				<word number="1">cold</word>
+				<word number="2">cold-blooded</word>
+				<word number="3">cold-hearted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">black-hearted</word>
+				<word number="2">hard-hearted</word>
+				<word number="3">flint- hearted</word>
+				<word number="4">marble-hearted</word>
+				<word number="5">stony-hearted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard of heart</word>
+				<word number="2">unnatural</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unmerciful" headRef="955">ruthless</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="revengeful" headRef="960">relentless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cruel">
+			<sg number="1">
+				<word number="1">cruel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brutal</word>
+				<word number="2">brutish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">savage</word>
+				<word number="2">savage as a bear</word>
+				<word number="3">savage as a tiger</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ferine</word>
+				<word number="2">ferocious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inhuman</word>
+			</sg>
+			<sg number="6">
+				<word number="1">barbarous</word>
+				<word number="2">barbaric</word>
+				<word number="3">semibarbaric</word>
+				<word number="4">fell</word>
+				<word number="5">untamed</word>
+				<word number="6">tameless</word>
+				<word number="7">truculent</word>
+				<word number="8">incendiary</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="murderous" headRef="373">bloodthirsty</word>
+			</sg>
+			<sg number="8">
+				<word number="1">atrocious</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bloodyminded</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">depraved</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">fierce</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">murderous</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">vicious</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="2">bestial</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">bloody</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">evil</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="2">feared</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="2">violent</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="3">aggressive</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="3">drunken</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="3">vindictive</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="4">belligerent</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="4">warlike</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="fiendish">
+			<sg number="1">
+				<word number="1">fiendish</word>
+				<word number="2">fiendlike</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demoniacal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diabolic</word>
+				<word number="2">diabolical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">devilish</word>
+				<word number="2">infernal</word>
+				<word number="3">hellish</word>
+				<word number="4">Satanic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Tartaran</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="vengeful">
+			<sg number="1">
+				<word number="1" new="1">vengeful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="villainous">
+			<sg number="1">
+				<word number="1" new="2">villainous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="sinister">
+			<sg number="1">
+				<word number="1" new="3">sinister</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="malevolently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">malevolently</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">with bad intent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cruel as death">
+			<sg number="1">
+				<word number="1">cruel as death</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"hard unkindness' alter'd eye"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">homo homini lupus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mala mens</word>
+				<word number="2">malus animus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"rich gifts wax poor when givers prove unkind"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"sharp-tooth'd unkindness"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="2" name="Inexistence" origNum="#2." class="1" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inexistence">
+			<sg number="1">
+				<word number="1">inexistence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nonexistence</word>
+				<word number="2">nonsubsistence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nonentity</word>
+				<word number="2">nil</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">negativeness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nullity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nihility</word>
+				<word number="2">nihilism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tabula rasa</word>
+				<word number="2">blank</word>
+			</sg>
+			<sg number="8">
+				<word number="1">abeyance</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="absence" headRef="196">absence</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="no such thing" headRef="4">no such thing</word>
+			</sg>
+			<sg number="11">
+				<word number="1">nonbeing</word>
+				<word number="2">nothingness</word>
+				<word number="3">oblivion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="annihilation">
+			<sg number="1">
+				<word number="1">annihilation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destruction" headRef="169">extinction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extinguishment</word>
+				<word number="2">extirpation</word>
+				<word number="3">Nirvana</word>
+				<word number="4">obliteration</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not exist">
+			<sg number="1">
+				<word number="1" paraRef="exist" headRef="1">not exist</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="existence" headRef="1">have no existence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be null and void</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="exist" headRef="1">cease to exist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pass away</word>
+				<word number="2">perish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be extinct</word>
+				<word number="2" paraRef="" posRef="adj.">become extinct</word>
+			</sg>
+			<sg number="7">
+				<word number="1">die out</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="disappear" headRef="468">disappear</word>
+			</sg>
+			<sg number="9">
+				<word number="1">melt away</word>
+				<word number="2">dissolve</word>
+				<word number="3">leave not a rack behind</word>
+			</sg>
+			<sg number="10">
+				<word number="1">go</word>
+				<word number="2">be no more</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="die" headRef="372">die</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="annihilate">
+			<sg number="1">
+				<word number="1">annihilate</word>
+				<word number="2">render null</word>
+				<word number="3">nullify</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="abrogate" headRef="787">abrogate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="destroy" headRef="169">destroy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take away</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="displace" headRef="194">remove</word>
+			</sg>
+			<sg number="6">
+				<word number="1">obliterate</word>
+				<word number="2">extirpate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inexistent">
+			<sg number="1">
+				<word number="1">inexistent</word>
+				<word number="2" paraRef="existent" headRef="1">nonexistent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">negative</word>
+				<word number="2">blank</word>
+			</sg>
+			<sg number="3">
+				<word number="1">missing</word>
+				<word number="2">omitted</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="absent" headRef="196">absent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">insubstantial</word>
+				<word number="2">shadowy</word>
+				<word number="3">spectral</word>
+				<word number="4">visionary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unreal">
+			<sg number="1">
+				<word number="1">unreal</word>
+				<word number="2">potential</word>
+				<word number="3">virtual</word>
+			</sg>
+			<sg number="2">
+				<word number="1">baseless</word>
+				<word number="2">in nubibus</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unsubstantial" headRef="4">unsubstantial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unborn">
+			<sg number="1">
+				<word number="1">unborn</word>
+				<word number="2">uncreated</word>
+				<word number="3">unbegotten</word>
+				<word number="4">unconceived</word>
+				<word number="5">unproduced</word>
+				<word number="6">unmade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="perished">
+			<sg number="1">
+				<word number="1">perished</word>
+				<word number="2" paraRef="" posRef="v.">annihilated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">extinct</word>
+				<word number="2">exhausted</word>
+				<word number="3">gone</word>
+				<word number="4">lost</word>
+				<word number="5">vanished</word>
+				<word number="6">departed</word>
+				<word number="7">gone with the wind</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dead" headRef="372">defunct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fabulous">
+			<sg number="1">
+				<word number="1">fabulous</word>
+				<word number="2" paraRef="imaginary" headRef="540">ideal</word>
+				<word number="3" paraRef="supposititious" headRef="538">supposititious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="negatively">
+			<sg number="1">
+				<word number="1">negatively</word>
+				<word number="2" paraRef="" posRef="adj.">virtually</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non ens">
+			<sg number="1">
+				<word number="1">non ens</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

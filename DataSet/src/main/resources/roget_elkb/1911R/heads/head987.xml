@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="987" name="Vice" origNum="#945." class="8" section="4" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vice">
+			<sg number="1">
+				<word number="1">vice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evil-doing</word>
+				<word number="2">evil courses</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wrongdoing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wickedness</word>
+				<word number="2" paraRef="" posRef="adj.">viciousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">iniquity</word>
+				<word number="2">peccability</word>
+				<word number="3">demerit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sin</word>
+				<word number="2">Adam!</word>
+			</sg>
+			<sg number="7">
+				<word number="1">old Adam</word>
+				<word number="2">offending Adam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="immorality">
+			<sg number="1">
+				<word number="1">immorality</word>
+				<word number="2">impropriety</word>
+				<word number="3">indecorum</word>
+				<word number="4">scandal</word>
+				<word number="5">laxity</word>
+				<word number="6">looseness of morals</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enphagy</word>
+				<word number="2">dophagy</word>
+				<word number="3">exophagy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">want of principle</word>
+				<word number="2">want of ballast</word>
+			</sg>
+			<sg number="4">
+				<word number="1">obliquity</word>
+				<word number="2">backsliding</word>
+				<word number="3">infamy</word>
+				<word number="4">demoralization</word>
+				<word number="5">pravity</word>
+				<word number="6">depravity</word>
+				<word number="7">pollution</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hardness of heart</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="malevolence" headRef="947">brutality</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="debasement" headRef="688">corruption</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="improbity" headRef="982">knavery</word>
+			</sg>
+			<sg number="9">
+				<word number="1">profligacy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">flagrancy</word>
+				<word number="2">atrocity</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cannibalism</word>
+			</sg>
+			<sg number="12">
+				<word number="1">lesbianism</word>
+				<word number="2">Sadism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="infirmity">
+			<sg number="1">
+				<word number="1">infirmity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">weakness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">weakness of the flesh</word>
+				<word number="2">frailty</word>
+				<word number="3">imperfection</word>
+			</sg>
+			<sg number="4">
+				<word number="1">error</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weak side</word>
+			</sg>
+			<sg number="6">
+				<word number="1">foible</word>
+			</sg>
+			<sg number="7">
+				<word number="1">failing</word>
+				<word number="2">failure</word>
+			</sg>
+			<sg number="8">
+				<word number="1">crying sin</word>
+				<word number="2">besetting sin</word>
+			</sg>
+			<sg number="9">
+				<word number="1">defect</word>
+				<word number="2">deficiency</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cloven foot</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">sterreichischer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lowest dregs of vice">
+			<sg number="1">
+				<word number="1">lowest dregs of vice</word>
+				<word number="2">sink of iniquity</word>
+				<word number="3">Alsatian den</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gusto picaresco</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fault">
+			<sg number="1">
+				<word number="1">fault</word>
+				<word number="2">crime</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="guilt" headRef="989">criminality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sinner">
+			<sg number="1">
+				<word number="1" paraRef="sinner" headRef="991">sinner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="brothel">
+			<sg number="1">
+				<word number="1" paraRef="brothel" headRef="1004">brothel</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="gambling house" headRef="650">gambling house</word>
+			</sg>
+			<sg number="3">
+				<word number="1">joint*</word>
+				<word number="2">opium den</word>
+				<word number="3">shooting gallery</word>
+				<word number="4">crack house</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be vicious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be vicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sin</word>
+				<word number="2">commit sin</word>
+				<word number="3">do amiss</word>
+				<word number="4">err</word>
+				<word number="5">transgress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">misdemean oneself</word>
+				<word number="2">forget oneself</word>
+				<word number="3">misconduct oneself</word>
+			</sg>
+			<sg number="4">
+				<word number="1">misdo</word>
+				<word number="2">misbehave</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall</word>
+				<word number="2">lapse</word>
+				<word number="3">slip</word>
+				<word number="4">trip</word>
+				<word number="5">offend</word>
+				<word number="6">trespass</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deviate from the line of duty</word>
+				<word number="2" paraRef="virtue" headRef="986">deviate from the path of virtue</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take a wrong course</word>
+				<word number="2">go astray</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hug a sin</word>
+				<word number="2">hug a fault</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sow one's wild oats</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render vicious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render vicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demoralize</word>
+				<word number="2">brutalize</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="degrade" headRef="688">corrupt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vicious">
+			<sg number="1">
+				<word number="1">vicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sinful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">sinning</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wicked</word>
+				<word number="2">iniquitous</word>
+				<word number="3">immoral</word>
+				<word number="4">unrighteous</word>
+				<word number="5">wrong</word>
+				<word number="6">criminal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">naughty</word>
+				<word number="2">incorrect</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unduteous</word>
+				<word number="2">undutiful</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">carnal</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">documentary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unprincipled">
+			<sg number="1">
+				<word number="1">unprincipled</word>
+				<word number="2">lawless</word>
+				<word number="3">disorderly</word>
+				<word number="4">contra bonos mores</word>
+				<word number="5">indecorous</word>
+				<word number="6">unseemly</word>
+				<word number="7">improper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissolute</word>
+				<word number="2">profligate</word>
+				<word number="3">scampish</word>
+				<word number="4" new="1">monopolised</word>
+				<word number="5" new="1">saurian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unworthy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">worthless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">desertless</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disgraceful</word>
+				<word number="2">recreant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reprehensible</word>
+				<word number="2">blameworthy</word>
+				<word number="3">uncommendable</word>
+				<word number="4" new="1">supermassive</word>
+				<word number="5" new="1">decomposable</word>
+				<word number="6" new="1">junior</word>
+				<word number="7" new="1">hairsplitting</word>
+			</sg>
+			<sg number="8">
+				<word number="1">discreditable</word>
+				<word number="2">disreputable</word>
+				<word number="3" new="1">penciled</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Sadistic</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">woolen</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">moronic</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">geared</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="base">
+			<sg number="1">
+				<word number="1">base</word>
+				<word number="2">sinister</word>
+				<word number="3">scurvy</word>
+				<word number="4">foul</word>
+				<word number="5">gross</word>
+				<word number="6">vile</word>
+				<word number="7">black</word>
+				<word number="8">grave</word>
+				<word number="9">facinorous</word>
+				<word number="10">felonious</word>
+				<word number="11">nefarious</word>
+				<word number="12">shameful</word>
+				<word number="13">scandalous</word>
+				<word number="14">infamous</word>
+				<word number="15">villainous</word>
+				<word number="16">of a deep dye</word>
+				<word number="17">heinous</word>
+				<word number="18" new="1">smiling</word>
+				<word number="19" new="1">batty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flagrant</word>
+				<word number="2">flagitious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">atrocious</word>
+				<word number="2">incarnate</word>
+				<word number="3">accursed</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">anthropomorphized</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Mephistophelian">
+			<sg number="1">
+				<word number="1">Mephistophelian</word>
+				<word number="2">satanic</word>
+				<word number="3">diabolic</word>
+				<word number="4">hellish</word>
+				<word number="5">infernal</word>
+				<word number="6">stygian</word>
+				<word number="7">fiendlike</word>
+				<word number="8">hell-born</word>
+				<word number="9">demoniacal</word>
+				<word number="10">devilish</word>
+				<word number="11">fiendish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="miscreated">
+			<sg number="1">
+				<word number="1">miscreated</word>
+				<word number="2">misbegotten</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demoralized</word>
+				<word number="2">corrupt</word>
+				<word number="3">depraved</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="evil-minded">
+			<sg number="1">
+				<word number="1">evil-minded</word>
+				<word number="2">evil-disposed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-conditioned</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="malevolent" headRef="947">malevolent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heartless</word>
+				<word number="2">graceless</word>
+				<word number="3">shameless</word>
+				<word number="4">virtueless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abandoned</word>
+				<word number="2">lost to virtue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unconscionable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sunk in iniquity</word>
+				<word number="2">lost in iniquity</word>
+				<word number="3">steeped in iniquity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="incorrigible">
+			<sg number="1">
+				<word number="1">incorrigible</word>
+				<word number="2">irreclaimable</word>
+				<word number="3">obdurate</word>
+				<word number="4">reprobate</word>
+				<word number="5">past praying for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">culpable</word>
+				<word number="2" paraRef="guilty" headRef="989">reprehensible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="unjustifiable">
+			<sg number="1">
+				<word number="1">unjustifiable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indefensible</word>
+				<word number="2">inexcusable</word>
+				<word number="3" new="1">exponential</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inexpiable</word>
+				<word number="2">unpardonable</word>
+				<word number="3">irremissible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="weak">
+			<sg number="1">
+				<word number="1">weak</word>
+				<word number="2">frail</word>
+				<word number="3">lax</word>
+				<word number="4">infirm</word>
+				<word number="5">imperfect</word>
+				<word number="6" new="1">dedicated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indiscrete</word>
+			</sg>
+			<sg number="3">
+				<word number="1">demoralizing</word>
+				<word number="2">degrading</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="terraforming">
+			<sg number="1">
+				<word number="1" new="1">terraforming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="ineffectually">
+			<sg number="1">
+				<word number="1" new="1">ineffectually</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="unborn">
+			<sg number="1">
+				<word number="1" new="1">unborn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="wrong">
+			<sg number="1">
+				<word number="1">wrong</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">sinfully</word>
+			</sg>
+			<sg number="3">
+				<word number="1">without excuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="O tempora">
+			<sg number="1">
+				<word number="1">O tempora!</word>
+				<word number="2">O mores!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="alitur vitium vivitque tegendo">
+			<sg number="1">
+				<word number="1">alitur vitium vivitque tegendo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">genus est mortis male vivere</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mala mens malus animus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nemo repente fuit turpissimus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"the trail of the serpent is over them all"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"to sanction vice and hunt decorum down"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

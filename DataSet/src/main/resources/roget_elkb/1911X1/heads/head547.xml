@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="547" name="Interpretation" origNum="#522." class="5" section="1" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="interpretation">
+			<sg number="1">
+				<word number="1">interpretation</word>
+				<word number="2">definition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">explanation</word>
+				<word number="2">explication</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solution</word>
+				<word number="2">answer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rationale</word>
+			</sg>
+			<sg number="5">
+				<word number="1">plain interpretation</word>
+				<word number="2">simple interpretation</word>
+				<word number="3">strict  interpretation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="meaning" headRef="541">meaning</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">justification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="translation">
+			<sg number="1">
+				<word number="1">translation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rendering</word>
+				<word number="2">rendition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">redition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">literal translation</word>
+				<word number="2">free translation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">key</word>
+			</sg>
+			<sg number="6">
+				<word number="1">secret</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="indication" headRef="576">clew</word>
+			</sg>
+			<sg number="8">
+				<word number="1">clavis</word>
+				<word number="2">crib</word>
+				<word number="3">pony</word>
+				<word number="4">trot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="exegesis">
+			<sg number="1">
+				<word number="1">exegesis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expounding</word>
+				<word number="2">exposition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hermeneutics</word>
+			</sg>
+			<sg number="4">
+				<word number="1">comment</word>
+				<word number="2">commentary</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deduction" headRef="503">inference</word>
+			</sg>
+			<sg number="6">
+				<word number="1">illustration</word>
+				<word number="2">exemplification</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gloss</word>
+				<word number="2">annotation</word>
+				<word number="3">scholium</word>
+				<word number="4">note</word>
+			</sg>
+			<sg number="8">
+				<word number="1">elucidation</word>
+				<word number="2">dilucidation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">eclaircissement</word>
+				<word number="2">mot d'enigme</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="symptomatology">
+			<sg number="1">
+				<word number="1">symptomatology</word>
+				<word number="2">semiology</word>
+				<word number="3">semeiology</word>
+				<word number="4">semiotics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metoposcopy</word>
+				<word number="2">physiognomy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="philology" headRef="586">paleography</word>
+			</sg>
+			<sg number="4">
+				<word number="1">oneirology      acception</word>
+				<word number="2">acceptation</word>
+				<word number="3">acceptance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">light</word>
+				<word number="2">reading</word>
+				<word number="3">lection</word>
+				<word number="4">construction</word>
+				<word number="5">version</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="equivalent">
+			<sg number="1">
+				<word number="1">equivalent</word>
+				<word number="2" paraRef="meaning" headRef="541">equivalent meaning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">synonym</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paraphrase</word>
+				<word number="2">metaphrase</word>
+			</sg>
+			<sg number="4">
+				<word number="1">convertible terms</word>
+				<word number="2">apposition</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="dictionary" headRef="588">dictionary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">polyglot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="interpret">
+			<sg number="1">
+				<word number="1">interpret</word>
+				<word number="2">explain</word>
+				<word number="3">define</word>
+				<word number="4">construe</word>
+				<word number="5">translate</word>
+				<word number="6">render</word>
+				<word number="7" new="1">understand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do into</word>
+				<word number="2">turn into</word>
+			</sg>
+			<sg number="3">
+				<word number="1">transfuse the sense of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="find out">
+			<sg number="1">
+				<word number="1" paraRef="find" headRef="504">find out</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="meaning" headRef="541">the meaning of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">read</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spell out</word>
+				<word number="2">make out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">decipher</word>
+				<word number="2">unravel</word>
+				<word number="3">disentangle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">find the key of</word>
+				<word number="2">enucleate</word>
+				<word number="3">resolve</word>
+				<word number="4">solve</word>
+			</sg>
+			<sg number="7">
+				<word number="1">read between the lines</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="account for">
+			<sg number="1">
+				<word number="1">account for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">find the cause</word>
+				<word number="2" paraRef="cause" headRef="160">tell the cause</word>
+			</sg>
+			<sg number="3">
+				<word number="1">throw light upon</word>
+				<word number="2">shed light upon</word>
+				<word number="3">shed new light upon</word>
+				<word number="4">shed fresh light upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clear up</word>
+				<word number="2">clarify</word>
+				<word number="3">elucidate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="illustrate">
+			<sg number="1">
+				<word number="1">illustrate</word>
+				<word number="2">exemplify</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfold</word>
+				<word number="2">expound</word>
+				<word number="3">comment upon</word>
+				<word number="4">annotate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="render intelligible" headRef="543">popularize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="take in a particular sense">
+			<sg number="1">
+				<word number="1">take in a particular sense</word>
+				<word number="2">understand in a particular sense</word>
+				<word number="3">receive in a particular sense</word>
+				<word number="4">accept in a particular sense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">understand by</word>
+				<word number="2">put a construction on</word>
+				<word number="3">be given to understand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="explanatory">
+			<sg number="1">
+				<word number="1">explanatory</word>
+				<word number="2">expository</word>
+			</sg>
+			<sg number="2">
+				<word number="1">explicative</word>
+				<word number="2">explicatory</word>
+				<word number="3">being interpreted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exegetical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">construable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="polyglot">
+			<sg number="1">
+				<word number="1">polyglot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">literal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paraphrastic</word>
+				<word number="2">metaphrastic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">consignificative</word>
+				<word number="2">synonymous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="equivalent" headRef="29">equivalent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in explanation">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in explanation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">that is to say</word>
+				<word number="2">id est</word>
+				<word number="3">videlicet</word>
+				<word number="4">to wit</word>
+				<word number="5">namely</word>
+				<word number="6">in other words</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="literally">
+			<sg number="1">
+				<word number="1">literally</word>
+				<word number="2">strictly speaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in plain</word>
+				<word number="2">in plainer terms</word>
+				<word number="3">in plainer words</word>
+				<word number="4">in plainer English</word>
+			</sg>
+			<sg number="3">
+				<word number="1">more simply</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="102" name="Five" origNum="#98." class="1" section="5" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="five">
+			<sg number="1">
+				<word number="1">five</word>
+				<word number="2">cinque</word>
+				<word number="3">quint</word>
+				<word number="4">quincux</word>
+			</sg>
+			<sg number="2">
+				<word number="1">six</word>
+				<word number="2">half-a-dozen</word>
+				<word number="3">half dozen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seven</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eight</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nine</word>
+				<word number="2">three times three</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dicker</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ten</word>
+				<word number="2">decade</word>
+			</sg>
+			<sg number="8">
+				<word number="1">eleven</word>
+			</sg>
+			<sg number="9">
+				<word number="1">twelve</word>
+				<word number="2">dozen</word>
+			</sg>
+			<sg number="10">
+				<word number="1">thirteen</word>
+			</sg>
+			<sg number="11">
+				<word number="1">long dozen</word>
+				<word number="2">baker's dozen</word>
+			</sg>
+			<sg number="12">
+				<word number="1">quintuplet</word>
+			</sg>
+			<sg number="13">
+				<word number="1">twenty</word>
+				<word number="2">score</word>
+			</sg>
+			<sg number="14">
+				<word number="1">twenty-four</word>
+				<word number="2">four and twenty</word>
+				<word number="3">two dozen</word>
+			</sg>
+			<sg number="15">
+				<word number="1">twenty- five</word>
+				<word number="2">five and twenty</word>
+				<word number="3">quarter of a hundred</word>
+			</sg>
+			<sg number="16">
+				<word number="1">forty</word>
+				<word number="2">two score</word>
+			</sg>
+			<sg number="17">
+				<word number="1">fifty</word>
+				<word number="2">half a hundred</word>
+			</sg>
+			<sg number="18">
+				<word number="1">sixty</word>
+				<word number="2">three score</word>
+			</sg>
+			<sg number="19">
+				<word number="1">seventy</word>
+				<word number="2">three score and ten</word>
+			</sg>
+			<sg number="20">
+				<word number="1">eighty</word>
+				<word number="2">four score</word>
+			</sg>
+			<sg number="21">
+				<word number="1">ninety</word>
+				<word number="2">fourscore and ten</word>
+			</sg>
+			<sg number="22">
+				<word number="1">sestiad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hundred">
+			<sg number="1">
+				<word number="1">hundred</word>
+				<word number="2">centenary</word>
+				<word number="3">hecatomb</word>
+				<word number="4">century</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hundredweight</word>
+				<word number="2">cwt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one hundred and forty-four</word>
+				<word number="2">gross</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="thousand">
+			<sg number="1">
+				<word number="1">thousand</word>
+				<word number="2">chiliad</word>
+			</sg>
+			<sg number="2">
+				<word number="1">millennium</word>
+				<word number="2">thousand years</word>
+				<word number="3">grand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">myriad</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ten thousand</word>
+				<word number="2">ban</word>
+				<word number="3">man</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ten thousand years</word>
+				<word number="2">banzai</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lac</word>
+				<word number="2">one hundred thousand</word>
+				<word number="3">plum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">million</word>
+			</sg>
+			<sg number="8">
+				<word number="1">thousand million</word>
+				<word number="2">milliard</word>
+				<word number="3">billion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="centuriate">
+			<sg number="1">
+				<word number="1">centuriate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quintuplicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="five">
+			<sg number="1">
+				<word number="1">five</word>
+				<word number="2">quinary</word>
+				<word number="3">quintuple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fifth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">senary</word>
+				<word number="2">sextuple</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sixth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">seventh</word>
+			</sg>
+			<sg number="6">
+				<word number="1">septuple</word>
+			</sg>
+			<sg number="7">
+				<word number="1">octuple</word>
+			</sg>
+			<sg number="8">
+				<word number="1">eighth</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ninefold</word>
+				<word number="2">ninth</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tenfold</word>
+				<word number="2">decimal</word>
+				<word number="3">denary</word>
+				<word number="4">decuple</word>
+				<word number="5">tenth</word>
+			</sg>
+			<sg number="11">
+				<word number="1">eleventh</word>
+			</sg>
+			<sg number="12">
+				<word number="1">duodenary</word>
+				<word number="2">duodenal</word>
+			</sg>
+			<sg number="13">
+				<word number="1">twelfth</word>
+			</sg>
+			<sg number="14">
+				<word number="1">in one's 'teens</word>
+				<word number="2">thirteenth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vicesimal">
+			<sg number="1">
+				<word number="1">vicesimal</word>
+				<word number="2">vigesimal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">twentieth</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">twenty-fourth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vicenary</word>
+				<word number="2">vicennial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="centuple">
+			<sg number="1">
+				<word number="1">centuple</word>
+				<word number="2">centuplicate</word>
+				<word number="3">centennial</word>
+				<word number="4">centenary</word>
+				<word number="5">centurial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">secular</word>
+				<word number="2">hundredth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thousandth</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

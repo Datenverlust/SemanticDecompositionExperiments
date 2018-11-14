@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="79" name="Class" origNum="#75." class="1" section="4" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="class">
+			<sg number="1">
+				<word number="1">class</word>
+				<word number="2">division</word>
+				<word number="3">category</word>
+				<word number="4">categorema</word>
+				<word number="5">head</word>
+				<word number="6">order</word>
+				<word number="7">section</word>
+			</sg>
+			<sg number="2">
+				<word number="1">department</word>
+				<word number="2">subdepartment</word>
+				<word number="3">province</word>
+				<word number="4">domain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="kind">
+			<sg number="1">
+				<word number="1">kind</word>
+				<word number="2">sort</word>
+				<word number="3">genus</word>
+				<word number="4">species</word>
+				<word number="5">variety</word>
+				<word number="6">family</word>
+				<word number="7">order</word>
+				<word number="8">kingdom</word>
+				<word number="9">race</word>
+				<word number="10">tribe</word>
+				<word number="11">caste</word>
+				<word number="12">sept</word>
+				<word number="13">clan</word>
+				<word number="14">breed</word>
+				<word number="15">type</word>
+				<word number="16">subtype</word>
+				<word number="17">kit</word>
+				<word number="18">sect</word>
+				<word number="19">set</word>
+				<word number="20">subset</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assortment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feather</word>
+				<word number="2">kidney</word>
+			</sg>
+			<sg number="4">
+				<word number="1">suit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">range</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gender</word>
+				<word number="2">sex</word>
+				<word number="3">kin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="manner">
+			<sg number="1">
+				<word number="1">manner</word>
+				<word number="2">description</word>
+				<word number="3">denomination</word>
+				<word number="4">designation</word>
+				<word number="5">rubric</word>
+				<word number="6">character</word>
+				<word number="7">stamp predicament</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indication</word>
+				<word number="2">particularization</word>
+				<word number="3">selection</word>
+				<word number="4">specification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="similarity">
+			<sg number="1">
+				<word number="1" paraRef="similarity" headRef="18">similarity</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

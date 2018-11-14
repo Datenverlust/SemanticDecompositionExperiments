@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="998" name="Asceticism" origNum="#955." class="8" section="4" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="asceticism">
+			<sg number="1">
+				<word number="1">asceticism</word>
+				<word number="2">puritanism</word>
+				<word number="3">sabbatarianism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cynicism!</word>
+				<word number="2">austerity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">total abstinence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nephalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mortification">
+			<sg number="1">
+				<word number="1">mortification</word>
+				<word number="2">maceration</word>
+				<word number="3">sackcloth and ashes</word>
+				<word number="4">flagellation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="penance" headRef="994">penance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fasting" headRef="999">fasting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">martyrdom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ascetic">
+			<sg number="1">
+				<word number="1">ascetic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anchoret</word>
+				<word number="2">anchorite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">martyr</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Heautontimorumenos</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="recluse" headRef="932">hermit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">puritan</word>
+				<word number="2">sabbatarian</word>
+				<word number="3">cynic</word>
+				<word number="4">sanyasi</word>
+				<word number="5">yogi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="aeroplane">
+			<sg number="1">
+				<word number="1" new="1">aeroplane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="vocalisation">
+			<sg number="1">
+				<word number="1" new="1">vocalisation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ascetic">
+			<sg number="1">
+				<word number="1">ascetic</word>
+				<word number="2">austere</word>
+				<word number="3">puritanical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cynical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">over-religious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acerbic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="350" name="Moisture" origNum="#339." class="3" section="2" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="moisture">
+			<sg number="1">
+				<word number="1">moisture</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">moistness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">humidity</word>
+				<word number="2">humectation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">madefaction</word>
+				<word number="2">dew</word>
+			</sg>
+			<sg number="5">
+				<word number="1">serein</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="marsh" headRef="356">marsh</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hygrometry</word>
+				<word number="2">hygrometer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="moisten">
+			<sg number="1">
+				<word number="1">moisten</word>
+				<word number="2">wet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">humect</word>
+				<word number="2">humectate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sponge</word>
+				<word number="2">damp</word>
+				<word number="3">bedew</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imbue</word>
+				<word number="2">imbrue</word>
+				<word number="3">infiltrate</word>
+				<word number="4">saturate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">soak</word>
+				<word number="2" paraRef="water" headRef="348">drench</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be moist">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be moist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not have a dry thread</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="exude" headRef="306">perspire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="moist">
+			<sg number="1">
+				<word number="1">moist</word>
+				<word number="2">damp</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="watery" headRef="348">watery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">madid</word>
+				<word number="2">roric</word>
+			</sg>
+			<sg number="4">
+				<word number="1">undried</word>
+				<word number="2">humid</word>
+				<word number="3">sultry</word>
+				<word number="4">wet</word>
+				<word number="5">dank</word>
+				<word number="6">luggy</word>
+				<word number="7">dewy</word>
+				<word number="8" new="1">dusty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">roral</word>
+				<word number="2">rorid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">roscid</word>
+			</sg>
+			<sg number="7">
+				<word number="1">juicy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wringing wet">
+			<sg number="1">
+				<word number="1">wringing wet</word>
+				<word number="2">soaking wet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wet through to the skin</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">saturated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="swashy">
+			<sg number="1">
+				<word number="1">swashy</word>
+				<word number="2">soggy</word>
+				<word number="3">dabbled</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reeking</word>
+				<word number="2">dripping</word>
+				<word number="3">soaking</word>
+				<word number="4">soft</word>
+				<word number="5">sodden</word>
+				<word number="6">sloppy</word>
+				<word number="7">muddy</word>
+				<word number="8" new="1">waterlogged</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="marshy" headRef="356">swampy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">irriguous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

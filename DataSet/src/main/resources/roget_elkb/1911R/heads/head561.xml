@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="561" name="Affirmation" origNum="#535." class="5" section="2" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="affirmance">
+			<sg number="1">
+				<word number="1">affirmance</word>
+				<word number="2">affirmation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">statement</word>
+				<word number="2">allegation</word>
+				<word number="3">assertion</word>
+				<word number="4">predication</word>
+				<word number="5">declaration</word>
+				<word number="6">word</word>
+				<word number="7">averment</word>
+				<word number="8" new="1">footsoldiers</word>
+			</sg>
+			<sg number="3">
+				<word number="1">confirmation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="asseveration">
+			<sg number="1">
+				<word number="1">asseveration</word>
+				<word number="2">adjuration</word>
+				<word number="3">swearing</word>
+				<word number="4">oath</word>
+				<word number="5">affidavit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="record" headRef="577">deposition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">avouchment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assurance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">protest</word>
+				<word number="2">protestation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">profession</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="assent" headRef="512">acknowledgment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">legal pledge</word>
+				<word number="2">pronouncement</word>
+			</sg>
+			<sg number="9">
+				<word number="1">solemn averment</word>
+				<word number="2">solemn avowal</word>
+				<word number="3">solemn declaration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="remark">
+			<sg number="1">
+				<word number="1">remark</word>
+				<word number="2">observation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="proposition" headRef="538">position</word>
+				<word number="2">saying</word>
+				<word number="3">dictum</word>
+				<word number="4">sentence</word>
+				<word number="5">ipse dixit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="emphasis">
+			<sg number="1">
+				<word number="1">emphasis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weight</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="certainty" headRef="497">dogmatism</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="dogmatic" headRef="505">dogmatics</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="assert">
+			<sg number="1">
+				<word number="1">assert</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">make an assertion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have one's say</word>
+			</sg>
+			<sg number="4">
+				<word number="1">say</word>
+				<word number="2">affirm</word>
+				<word number="3">predicate</word>
+				<word number="4">declare</word>
+				<word number="5">state</word>
+			</sg>
+			<sg number="5">
+				<word number="1">protest</word>
+				<word number="2">profess</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="put forth">
+			<sg number="1">
+				<word number="1">put forth</word>
+				<word number="2">put forward</word>
+			</sg>
+			<sg number="2">
+				<word number="1">advance</word>
+				<word number="2">allege</word>
+				<word number="3">propose</word>
+				<word number="4">propound</word>
+				<word number="5">enunciate</word>
+				<word number="6">broach</word>
+				<word number="7">set forth</word>
+				<word number="8">hold out</word>
+				<word number="9">maintain</word>
+				<word number="10">contend</word>
+				<word number="11">pronounce</word>
+				<word number="12">pretend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="depose">
+			<sg number="1">
+				<word number="1">depose</word>
+				<word number="2">depone</word>
+				<word number="3">aver</word>
+				<word number="4">avow</word>
+				<word number="5">avouch</word>
+				<word number="6">asseverate</word>
+				<word number="7">swear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make oath</word>
+				<word number="2">take one's oath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make an affidavit</word>
+				<word number="2">swear an affidavit</word>
+				<word number="3">put in an affidavit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take one's Bible oath</word>
+				<word number="2">kiss the book</word>
+				<word number="3">vow</word>
+				<word number="4">vitam impendere vero</word>
+			</sg>
+			<sg number="5">
+				<word number="1">swear till one is black in the face</word>
+				<word number="2">swear till one is blue in the face</word>
+				<word number="3">swear till all's blue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be sworn</word>
+				<word number="2">call Heaven to witness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vouch</word>
+				<word number="2">warrant</word>
+				<word number="3">certify</word>
+				<word number="4">assure</word>
+				<word number="5">swear by bell book and candle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="swear by">
+			<sg number="1">
+				<word number="1" paraRef="believe" headRef="508">swear by</word>
+			</sg>
+			<sg number="2">
+				<word number="1">insist upon</word>
+				<word number="2">take one's stand upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emphasize</word>
+				<word number="2">lay stress on</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assert roundly</word>
+				<word number="2">assert positively</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lay down</word>
+				<word number="2">lay down the law</word>
+			</sg>
+			<sg number="6">
+				<word number="1">raise one's voice</word>
+				<word number="2">dogmatize</word>
+				<word number="3">have the last word</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rap out</word>
+			</sg>
+			<sg number="8">
+				<word number="1">repeat</word>
+			</sg>
+			<sg number="9">
+				<word number="1">reassert</word>
+				<word number="2">reaffirm</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">assort</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="announce">
+			<sg number="1">
+				<word number="1" paraRef="information" headRef="552">announce</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="assent" headRef="512">acknowledge</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="evidence" headRef="490">attest</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="put to one's oath" headRef="799">adjure</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="asserting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">asserting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">declaratory</word>
+				<word number="2">predicatory</word>
+				<word number="3">pronunciative</word>
+				<word number="4">affirmative</word>
+				<word number="5">soi-disant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">positive</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="certain" headRef="497">certain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">express</word>
+				<word number="2" paraRef="patent" headRef="550">explicit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">absolute</word>
+				<word number="2">emphatic</word>
+				<word number="3">flat</word>
+				<word number="4">broad</word>
+				<word number="5">round</word>
+				<word number="6">pointed</word>
+				<word number="7">marked</word>
+				<word number="8">distinct</word>
+				<word number="9">decided</word>
+				<word number="10">confident</word>
+				<word number="11">trenchant</word>
+				<word number="12">dogmatic</word>
+				<word number="13">definitive</word>
+				<word number="14">formal</word>
+				<word number="15">solemn</word>
+				<word number="16">categorical</word>
+				<word number="17">peremptory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unretracted</word>
+			</sg>
+			<sg number="8">
+				<word number="1">predicable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="affirmatively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">affirmatively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the affirmative</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="with emphasis">
+			<sg number="1">
+				<word number="1">with emphasis</word>
+				<word number="2">ex-cathedra</word>
+				<word number="3">without fear of contradiction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="as God is my witness">
+			<sg number="1">
+				<word number="1">as God is my witness</word>
+				<word number="2">I must say</word>
+				<word number="3">indeed</word>
+				<word number="4">i' faith</word>
+				<word number="5">let me tell you</word>
+				<word number="6">why</word>
+				<word number="7">give me leave to say</word>
+				<word number="8">marry</word>
+				<word number="9">you may be sure</word>
+				<word number="10">I'd have you to know</word>
+			</sg>
+			<sg number="2">
+				<word number="1">upon my word</word>
+				<word number="2">upon my honor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by my troth</word>
+				<word number="2">egad</word>
+				<word number="3">I assure you</word>
+			</sg>
+			<sg number="4">
+				<word number="1">by jingo</word>
+				<word number="2">by Jove</word>
+				<word number="3">by George</word>
+			</sg>
+			<sg number="5">
+				<word number="1">troth</word>
+				<word number="2">seriously</word>
+				<word number="3">sadly</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in sadness</word>
+				<word number="2">in sober sadness</word>
+				<word number="3">in truth</word>
+				<word number="4">in earnest</word>
+			</sg>
+			<sg number="7">
+				<word number="1">of a truth</word>
+				<word number="2">truly</word>
+				<word number="3">perdy</word>
+				<word number="4">in all conscience</word>
+				<word number="5">upon oath</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="belief" headRef="508">be assured</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="assent" headRef="512">yes</word>
+			</sg>
+			<sg number="10">
+				<word number="1">I'll warrant</word>
+				<word number="2">I'll warrant you</word>
+				<word number="3">I'll engage</word>
+				<word number="4">I'll answer for it</word>
+				<word number="5">I'll be bound</word>
+				<word number="6">I'll venture to say</word>
+				<word number="7">I'll take my oath</word>
+			</sg>
+			<sg number="11">
+				<word number="1">in fact</word>
+				<word number="2">forsooth</word>
+				<word number="3">joking apart</word>
+			</sg>
+			<sg number="12">
+				<word number="1">so help me God</word>
+			</sg>
+			<sg number="13">
+				<word number="1">not to mince the matter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="quoth he">
+			<sg number="1">
+				<word number="1">quoth he</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dixi</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="849" name="Worthlessness" origNum="#812b." class="7" section="4" subSection="4" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">worthlessness</word>
+				<word number="2">valuelessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lack of value</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uselessness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cheapness">
+			<sg number="1">
+				<word number="1">cheapness</word>
+				<word number="2">shoddiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">low quality</word>
+				<word number="2">poor quality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="trash">
+			<sg number="1">
+				<word number="1">trash</word>
+				<word number="2">garbage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="worthless">
+			<sg number="1">
+				<word number="1">worthless</word>
+				<word number="2">valueless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">useless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cheap">
+			<sg number="1">
+				<word number="1">cheap</word>
+				<word number="2">shoddy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slapdash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inexpensive">
+			<sg number="1">
+				<word number="1" paraRef="inexpensive" headRef="852">inexpensive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="not worth the paper it's printed on">
+			<sg number="1">
+				<word number="1">not worth the paper it's printed on</word>
+				<word number="2">not worth a sou</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

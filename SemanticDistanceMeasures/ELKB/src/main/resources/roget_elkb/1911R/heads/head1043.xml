@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1043" name="Canonicals" origNum="#999." class="8" section="5" subSection="5" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="canonicals">
+			<sg number="1">
+				<word number="1">canonicals</word>
+				<word number="2">vestments</word>
+			</sg>
+			<sg number="2">
+				<word number="1">robe</word>
+				<word number="2">gown</word>
+				<word number="3">Geneva gown frock</word>
+				<word number="4">pallium</word>
+				<word number="5">surplice</word>
+				<word number="6">cassock</word>
+				<word number="7">dalmatic</word>
+				<word number="8">scapulary</word>
+				<word number="9">cope</word>
+				<word number="10">mozetta</word>
+				<word number="11">scarf</word>
+				<word number="12">tunicle</word>
+				<word number="13">chasuble</word>
+				<word number="14">alb</word>
+				<word number="15">alba</word>
+				<word number="16">stole</word>
+				<word number="17" new="1">dominos</word>
+				<word number="18" new="1">mydriasis</word>
+				<word number="19" new="1">fauld</word>
+				<word number="20" new="1">pincushion</word>
+				<word number="21" new="1">quip</word>
+				<word number="22" new="1">multichannel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fanon</word>
+				<word number="2">fannel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tonsure</word>
+				<word number="2">cowl</word>
+				<word number="3">hood</word>
+			</sg>
+			<sg number="5">
+				<word number="1">calote</word>
+				<word number="2">calotte</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bands</word>
+			</sg>
+			<sg number="7">
+				<word number="1">capouch</word>
+				<word number="2">amice</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vagas</word>
+				<word number="2">vakas</word>
+				<word number="3">vakass</word>
+			</sg>
+			<sg number="9">
+				<word number="1">apron</word>
+				<word number="2">lawn sleeves</word>
+				<word number="3">pontificals</word>
+				<word number="4">pall</word>
+			</sg>
+			<sg number="10">
+				<word number="1">miter</word>
+				<word number="2">tiara</word>
+				<word number="3">triple crown</word>
+			</sg>
+			<sg number="11">
+				<word number="1">shovel hat</word>
+				<word number="2">cardinal's hat</word>
+			</sg>
+			<sg number="12">
+				<word number="1">biretta</word>
+			</sg>
+			<sg number="13">
+				<word number="1">crosier</word>
+			</sg>
+			<sg number="14">
+				<word number="1">pastoral staff</word>
+				<word number="2">thurifer</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="costume" headRef="235">costume</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

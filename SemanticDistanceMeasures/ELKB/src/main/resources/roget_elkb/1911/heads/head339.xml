@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="339" name="Brittleness" origNum="#328." class="3" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">brittleness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fragility</word>
+				<word number="2">friability</word>
+				<word number="3">frangibility</word>
+				<word number="4">fissibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">house of cards</word>
+				<word number="2">house of glass</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be brittle">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be brittle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">live in a glass house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="break">
+			<sg number="1">
+				<word number="1">break</word>
+				<word number="2">crack</word>
+				<word number="3">snap</word>
+				<word number="4">split</word>
+				<word number="5">shiver</word>
+				<word number="6">splinter</word>
+				<word number="7">crumble</word>
+				<word number="8">break short</word>
+				<word number="9">burst</word>
+				<word number="10">fly</word>
+				<word number="11">give way</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall to pieces</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crumble to</word>
+				<word number="2">crumble into dust</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="brittle">
+			<sg number="1">
+				<word number="1">brittle</word>
+				<word number="2">brash</word>
+				<word number="3">breakable</word>
+				<word number="4">weak</word>
+				<word number="5">frangible</word>
+				<word number="6">fragile</word>
+				<word number="7">frail</word>
+				<word number="8">gimcrack</word>
+				<word number="9">shivery</word>
+				<word number="10">fissile</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">splitting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lacerable</word>
+				<word number="2">splintery</word>
+				<word number="3">crisp</word>
+				<word number="4">crimp</word>
+				<word number="5">short</word>
+				<word number="6">brittle as glass</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

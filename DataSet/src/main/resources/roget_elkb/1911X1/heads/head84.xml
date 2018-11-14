@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="84" name="Normality" origNum="#80." class="1" section="4" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="normality">
+			<sg number="1">
+				<word number="1">normality</word>
+				<word number="2">normalcy</word>
+				<word number="3">normalness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">familiarity</word>
+				<word number="2">naturalness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="frequency" headRef="143">commonness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rule</word>
+				<word number="2" paraRef="conformity" headRef="86">standard</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="habit" headRef="641">customary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">standard</word>
+				<word number="2" paraRef="prototype" headRef="24">pattern</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="normalize">
+			<sg number="1">
+				<word number="1">normalize</word>
+				<word number="2">standardize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="normal">
+			<sg number="1">
+				<word number="1">normal</word>
+				<word number="2">natural</word>
+				<word number="3">unexceptional</word>
+			</sg>
+			<sg number="2">
+				<word number="1">common</word>
+				<word number="2" paraRef="frequency" headRef="143">usual</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

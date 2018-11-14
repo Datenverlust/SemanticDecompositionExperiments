@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="344" name="Fluidity" origNum="#333." class="3" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fluidity">
+			<sg number="1">
+				<word number="1">fluidity</word>
+				<word number="2">liquidity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">liquidness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="gaseity" headRef="345">gaseity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fluid">
+			<sg number="1">
+				<word number="1">fluid</word>
+				<word number="2">inelastic fluid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">liquid</word>
+				<word number="2">liquor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lymph</word>
+				<word number="2">humor</word>
+				<word number="3">juice</word>
+				<word number="4">sap</word>
+				<word number="5">serum</word>
+				<word number="6">blood</word>
+				<word number="7">serosity</word>
+				<word number="8">gravy</word>
+				<word number="9">rheum</word>
+				<word number="10">ichor</word>
+				<word number="11">sanies</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chyle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="solubility">
+			<sg number="1">
+				<word number="1">solubility</word>
+				<word number="2">solubleness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hydrology">
+			<sg number="1">
+				<word number="1">hydrology</word>
+				<word number="2">hydrostatics</word>
+				<word number="3">hydrodynamics</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be fluid">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be fluid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="water in motion" headRef="359">flow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">liquefy</word>
+				<word number="2">melt</word>
+				<word number="3" paraRef="condense" headRef="346">condense</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="liquid">
+			<sg number="1">
+				<word number="1">liquid</word>
+				<word number="2">fluid</word>
+				<word number="3">serous</word>
+				<word number="4">juicy</word>
+				<word number="5">succulent</word>
+				<word number="6">sappy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ichorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="flowing" headRef="359">fluent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="liquefied">
+			<sg number="1">
+				<word number="1" paraRef="liquefied" headRef="346">liquefied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncongealed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">soluble</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

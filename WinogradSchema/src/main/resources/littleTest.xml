@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="WSExample.xsl"?>
+
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<collection>
+<schema>
+    <text>
+        <txt1>
+            The police arrested all of the gang members.
+        </txt1>
+        <pron> They </pron>
+        <txt2>
+            were trying to stop the drug trade in the neighborhood.
+        </txt2>
+    </text>
+    <quote>
+        <pron> They </pron>
+        <quote2>
+            were trying to stop the drug trade.
+        </quote2>
+    </quote>
+    <answers>
+        <answer> The police </answer>
+        <answer> The gang members </answer>
+    </answers>
+    <correctAnswer> A  </correctAnswer>
+    <source> Ernest Davis </source>
+</schema>
+
+<schema>
+<text>
+    <txt1>
+        The police arrested all of the gang members.
+    </txt1>
+    <pron> They </pron>
+    <txt2>
+        were trying to run the drug trade in the neighborhood.
+    </txt2>
+</text>
+<quote>
+    <pron> They </pron>
+    <quote2>
+        were trying to run the drug trade.
+    </quote2>
+</quote>
+<answers>
+    <answer> The police </answer>
+    <answer> The gang members </answer>
+</answers>
+<correctAnswer> B  </correctAnswer>
+<source> Ernest Davis </source>
+</schema>
+
+</collection>

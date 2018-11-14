@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="387" name="Sexuality " origNum="#374a." class="3" section="3" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sex">
+			<sg number="1">
+				<word number="1">sex</word>
+				<word number="2">sexuality</word>
+				<word number="3">gender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">male</word>
+				<word number="2">masculinity</word>
+				<word number="3" paraRef="male" headRef="385">maleness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">female</word>
+				<word number="2" paraRef="feminine" headRef="386">femininity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sexual intercourse">
+			<sg number="1">
+				<word number="1">sexual intercourse</word>
+				<word number="2">copulation</word>
+				<word number="3">mating</word>
+				<word number="4">coitus</word>
+				<word number="5">sex</word>
+				<word number="6" new="1">courtship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lovemaking</word>
+				<word number="2">marital relations</word>
+				<word number="3">sexual union</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sleeping together</word>
+				<word number="2">carnal knowledge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sex instinct">
+			<sg number="1">
+				<word number="1">sex instinct</word>
+				<word number="2">sex drive</word>
+				<word number="3">libido</word>
+				<word number="4">lust</word>
+				<word number="5">concupiscence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hots</word>
+				<word number="2">horns</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arousal</word>
+				<word number="2">heat</word>
+				<word number="3">rut</word>
+				<word number="4">estrus</word>
+				<word number="5">oestrus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tumescence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">erection</word>
+				<word number="2">hard-on</word>
+				<word number="3">boner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="masturbation">
+			<sg number="1">
+				<word number="1">masturbation</word>
+				<word number="2">self-gratification</word>
+				<word number="3">autoeroticism</word>
+				<word number="4">onanism</word>
+				<word number="5">self-abuse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="orgasm">
+			<sg number="1">
+				<word number="1">orgasm</word>
+				<word number="2">climax</word>
+				<word number="3">ejaculation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sexiness">
+			<sg number="1">
+				<word number="1">sexiness</word>
+				<word number="2">attractiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sensuality</word>
+				<word number="2">voluptuousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="fornication">
+			<sg number="1">
+				<word number="1">fornication</word>
+				<word number="2">adultery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="sex symbol">
+			<sg number="1">
+				<word number="1">sex symbol</word>
+				<word number="2">sex goddess</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stud</word>
+				<word number="2">hunk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="one-night stand">
+			<sg number="1">
+				<word number="1">one-night stand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="pornography">
+			<sg number="1">
+				<word number="1">pornography</word>
+				<word number="2">porn</word>
+				<word number="3">porno</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hardcore pornography</word>
+				<word number="2">softcore pornography</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pin-up</word>
+				<word number="2">cheesecake</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beefcake</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Playboy</word>
+				<word number="2">Esquire</word>
+				<word number="3">Hustler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="perversion">
+			<sg number="1">
+				<word number="1">perversion</word>
+				<word number="2">deviation</word>
+				<word number="3">sexual abnormality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fetish</word>
+				<word number="2">fetishism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">homosexuality</word>
+				<word number="2">lesbianism</word>
+				<word number="3">bisexuality</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sodomy</word>
+				<word number="2">buggery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pederasty</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sadism</word>
+				<word number="2">masochism</word>
+				<word number="3">sado-masochism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">incest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="intercourse">
+			<sg number="1">
+				<word number="1" new="1">intercourse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="nudity">
+			<sg number="1">
+				<word number="1" new="1">nudity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="prostitution">
+			<sg number="1">
+				<word number="1" new="1">prostitution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="abortion">
+			<sg number="1">
+				<word number="1" new="2">abortion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="concubinage">
+			<sg number="1">
+				<word number="1" new="2">concubinage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="drunkenness">
+			<sg number="1">
+				<word number="1" new="2">drunkenness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="polygamy">
+			<sg number="1">
+				<word number="1" new="2">polygamy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="cohabitation">
+			<sg number="1">
+				<word number="1" new="3">cohabitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="drinking">
+			<sg number="1">
+				<word number="1" new="3">drinking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="euthanasia">
+			<sg number="1">
+				<word number="1" new="3">euthanasia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="idolatry">
+			<sg number="1">
+				<word number="1" new="3">idolatry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="infanticide">
+			<sg number="1">
+				<word number="1" new="3">infanticide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="apostasy">
+			<sg number="1">
+				<word number="1" new="4">apostasy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="bigamy">
+			<sg number="1">
+				<word number="1" new="4">bigamy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="cannibalism">
+			<sg number="1">
+				<word number="1" new="4">cannibalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="heresy">
+			<sg number="1">
+				<word number="1" new="5">heresy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="indecency">
+			<sg number="1">
+				<word number="1" new="5">indecency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="molestation">
+			<sg number="1">
+				<word number="1" new="5">molestation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="monogamy">
+			<sg number="1">
+				<word number="1" new="5">monogamy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="mate">
+			<sg number="1">
+				<word number="1">mate</word>
+				<word number="2">copulate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make love</word>
+				<word number="2">have intercourse</word>
+				<word number="3">fornicate</word>
+				<word number="4">have sex</word>
+				<word number="5">do it</word>
+				<word number="6">sleep together</word>
+				<word number="7">fuck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sleep around</word>
+				<word number="2">play the field</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="masturbate">
+			<sg number="1">
+				<word number="1">masturbate</word>
+				<word number="2">jerk off</word>
+				<word number="3">jack off</word>
+				<word number="4">play with oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="have the hots">
+			<sg number="1">
+				<word number="1">have the hots</word>
+			</sg>
+			<sg number="2">
+				<word number="1">become aroused</word>
+				<word number="2">get hot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have an erection</word>
+				<word number="2">get it up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="come">
+			<sg number="1">
+				<word number="1">come</word>
+				<word number="2">climax</word>
+				<word number="3">ejaculate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sexy">
+			<sg number="1">
+				<word number="1">sexy</word>
+				<word number="2">erotic</word>
+				<word number="3">sexual</word>
+				<word number="4">carnal</word>
+				<word number="5">sensual</word>
+				<word number="6" new="1">sensuous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hot">
+			<sg number="1">
+				<word number="1">hot</word>
+				<word number="2">horny</word>
+				<word number="3">randy</word>
+				<word number="4">rutting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">passionate</word>
+				<word number="2">lusty</word>
+				<word number="3">hot-blooded</word>
+				<word number="4">libidinous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">up</word>
+				<word number="2">in the mood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="homosexual">
+			<sg number="1">
+				<word number="1">homosexual</word>
+				<word number="2">gay</word>
+				<word number="3">lesbian</word>
+				<word number="4">bisexual</word>
+				<word number="5" new="1">queer</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

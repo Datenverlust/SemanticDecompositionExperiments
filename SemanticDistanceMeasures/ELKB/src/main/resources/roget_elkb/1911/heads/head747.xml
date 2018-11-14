@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="747" name="Retaliation" origNum="#718." class="6" section="4" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="retaliation">
+			<sg number="1">
+				<word number="1">retaliation</word>
+				<word number="2">reprisal</word>
+				<word number="3">retort</word>
+				<word number="4">payback</word>
+			</sg>
+			<sg number="2">
+				<word number="1">counter-stroke</word>
+				<word number="2">counter-blast</word>
+				<word number="3">counterplot</word>
+				<word number="4">counter-project</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retribution</word>
+				<word number="2">lex talionis</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="reciprocity" headRef="12">reciprocation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tit for tat">
+			<sg number="1">
+				<word number="1">tit for tat</word>
+				<word number="2">give and take</word>
+				<word number="3">blow for blow</word>
+				<word number="4">quid pro quo</word>
+				<word number="5">a Roland for an Oliver</word>
+				<word number="6">measure for measure</word>
+				<word number="7">diamond cut diamond</word>
+				<word number="8">the biter bit</word>
+				<word number="9">a game at which two can play</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reproof valiant</word>
+				<word number="2">retort courteous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="recrimination">
+			<sg number="1">
+				<word number="1" paraRef="accusation" headRef="980">recrimination</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="revenge" headRef="960">revenge</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="compensation" headRef="32">compensation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="recoil" headRef="288">reaction</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="retaliate">
+			<sg number="1">
+				<word number="1">retaliate</word>
+				<word number="2">retort</word>
+				<word number="3">turn upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay</word>
+				<word number="2">pay off</word>
+				<word number="3">pay back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pay in one's own coin</word>
+				<word number="2">pay in the same coin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cap</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="reciprocate" headRef="155">reciprocate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">turn the tables upon</word>
+				<word number="2">return the compliment</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="n.">give a quid pro quo</word>
+				<word number="2">give as much as one takes</word>
+				<word number="3">give as good as one gets</word>
+			</sg>
+			<sg number="8">
+				<word number="1">give and take</word>
+				<word number="2">exchange fisticuffs</word>
+			</sg>
+			<sg number="9">
+				<word number="1">be quits</word>
+				<word number="2">be even with</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pay off old scores</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="serve one right">
+			<sg number="1">
+				<word number="1">serve one right</word>
+				<word number="2">be hoist on one's own petard</word>
+				<word number="3">throw a stone in one's own garden</word>
+				<word number="4">catch a Tartar</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="retaliating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">retaliating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retaliatory</word>
+				<word number="2">retaliative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">talionic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in retaliation">
+			<sg number="1">
+				<word number="1">in retaliation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">en revanche</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="mutato nomine de te fabula narratur">
+			<sg number="1">
+				<word number="1">mutato nomine de te fabula narratur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">par pari refero</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tu quoque</word>
+			</sg>
+			<sg number="4">
+				<word number="1">you're another</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suo sibi gladio hunc jugulo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">a beau jeu beau retour</word>
+			</sg>
+			<sg number="7">
+				<word number="1">litem . . . lite resolvit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

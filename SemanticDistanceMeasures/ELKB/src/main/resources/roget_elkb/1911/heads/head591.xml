@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="591" name="Misnomer" origNum="#565." class="5" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="misnomer">
+			<sg number="1">
+				<word number="1">misnomer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lucus a non lucendo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Mrs. Malaprop</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="neologism" headRef="589">what d'ye call 'em</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Hoosier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nickname">
+			<sg number="1">
+				<word number="1">nickname</word>
+				<word number="2">sobriquet</word>
+				<word number="3">by-name</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assumed name</word>
+				<word number="2">assumed title</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alias</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nom de course</word>
+				<word number="2">nom de theatre</word>
+				<word number="3">nom de guerre</word>
+				<word number="4">nom de plume</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pseudonym</word>
+				<word number="2">pseudonymy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="misname">
+			<sg number="1">
+				<word number="1">misname</word>
+				<word number="2">miscall</word>
+				<word number="3">misterm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nickname</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assume a name</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misnamed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">misnamed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pseudonymous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">soi-disant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">self called</word>
+				<word number="2">self styled</word>
+				<word number="3">self christened</word>
+			</sg>
+			<sg number="5">
+				<word number="1">so-called</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nameless">
+			<sg number="1">
+				<word number="1">nameless</word>
+				<word number="2">anonymous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">without a having no name</word>
+			</sg>
+			<sg number="3">
+				<word number="1">innominate</word>
+				<word number="2">unnamed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unacknowledged</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in no sense">
+			<sg number="1">
+				<word number="1">in no sense</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

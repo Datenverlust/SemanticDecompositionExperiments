@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="437" name="Deafness" origNum="#419." class="3" section="3" subSection="2" headGroup="26">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deafness">
+			<sg number="1">
+				<word number="1">deafness</word>
+				<word number="2">hardness of hearing</word>
+				<word number="3">surdity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inaudibility</word>
+				<word number="2">inaudibleness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be deaf">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be deaf</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have no ear</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shut one's ears</word>
+				<word number="2">stop one's ears</word>
+				<word number="3">close one's ears</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turn a deaf ear to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render deaf">
+			<sg number="1">
+				<word number="1">render deaf</word>
+				<word number="2">stun</word>
+				<word number="3">deafen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="deaf">
+			<sg number="1">
+				<word number="1">deaf</word>
+				<word number="2">earless</word>
+				<word number="3">surd</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard of hearing</word>
+				<word number="2">dull of hearing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deaf-mute</word>
+				<word number="2">stunned</word>
+				<word number="3">deafened</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stone deaf</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deaf as a post</word>
+				<word number="2">deaf as  an adder</word>
+				<word number="3">deaf as a beetle</word>
+				<word number="4">deaf as a trunkmaker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inaudible">
+			<sg number="1">
+				<word number="1">inaudible</word>
+				<word number="2">out of hearing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="hear no evil">
+			<sg number="1">
+				<word number="1">hear no evil</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="268" name="Notch" origNum="#257." class="2" section="3" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="notch">
+			<sg number="1">
+				<word number="1">notch</word>
+				<word number="2">dent</word>
+				<word number="3">nick</word>
+				<word number="4">cut</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indent</word>
+				<word number="2">indentation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dimple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="embrasure">
+			<sg number="1">
+				<word number="1">embrasure</word>
+				<word number="2">battlement</word>
+				<word number="3">machicolation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saw</word>
+				<word number="2">tooth</word>
+				<word number="3">crenelle</word>
+				<word number="4">scallop</word>
+				<word number="5">scollop</word>
+				<word number="6">vandyke</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depression</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jag</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="notch">
+			<sg number="1">
+				<word number="1">notch</word>
+				<word number="2">nick</word>
+				<word number="3">cut</word>
+				<word number="4">dent</word>
+				<word number="5">indent</word>
+				<word number="6">jag</word>
+				<word number="7">scarify</word>
+				<word number="8">scotch</word>
+				<word number="9">crimp</word>
+				<word number="10">scallop</word>
+				<word number="11">scollop</word>
+				<word number="12">crenulate</word>
+				<word number="13">vandyke</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="notched">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">notched</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crenate</word>
+				<word number="2">crenated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dentate</word>
+				<word number="2">dentated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">denticulate</word>
+				<word number="2">denticulated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">toothed</word>
+				<word number="2">palmated</word>
+				<word number="3">serrated</word>
+				<word number="4" new="1">fringed</word>
+				<word number="5" new="1">keeled</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

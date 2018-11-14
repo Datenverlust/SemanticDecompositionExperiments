@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="818" name="Receiving" origNum="#785." class="7" section="4" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="receiving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">receiving</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="acquisition" headRef="807">acquisition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="introduction" headRef="307">reception</word>
+			</sg>
+			<sg number="4">
+				<word number="1">suscipiency!</word>
+				<word number="2">acceptance</word>
+				<word number="3">admission</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recipient">
+			<sg number="1">
+				<word number="1">recipient</word>
+				<word number="2">accipient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assignee</word>
+				<word number="2">devisee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">legatee</word>
+				<word number="2">legatary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grantee</word>
+				<word number="2">feoffee</word>
+				<word number="3">donee</word>
+				<word number="4">releasee</word>
+				<word number="5">relessee</word>
+				<word number="6">lessee</word>
+			</sg>
+			<sg number="5">
+				<word number="1">receiver</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sportulary|">
+			<sg number="1">
+				<word number="1">sportulary</word>
+				<word number="2">stipendiary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beneficiary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pensioner</word>
+				<word number="2">pensionary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">almsman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="income">
+			<sg number="1">
+				<word number="1" paraRef="receipt" headRef="845">income</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="receive">
+			<sg number="1">
+				<word number="1">receive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="take" headRef="822">take</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="acquire" headRef="807">acquire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">admit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take in">
+			<sg number="1">
+				<word number="1">take in</word>
+				<word number="2">catch</word>
+				<word number="3">touch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pocket</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put into one's pocket</word>
+				<word number="2">put into one's purse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accept</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take off one's hands</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be received">
+			<sg number="1">
+				<word number="1">be received</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come in</word>
+				<word number="2">come to hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pass into one's hand</word>
+				<word number="2">fall into one's hand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go into one's pocket</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall to one's lot</word>
+				<word number="2">fall to one's share</word>
+			</sg>
+			<sg number="6">
+				<word number="1">come to one</word>
+				<word number="2">fall to one</word>
+			</sg>
+			<sg number="7">
+				<word number="1">accrue</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="given" headRef="817">have given to one</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="receiving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">receiving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recipient</word>
+				<word number="2">suscipient!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="received">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">received</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="given" headRef="817">given</word>
+			</sg>
+			<sg number="3">
+				<word number="1">secondhand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="not given">
+			<sg number="1">
+				<word number="1">not given</word>
+				<word number="2" paraRef="bestow" headRef="817">unbestowed</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

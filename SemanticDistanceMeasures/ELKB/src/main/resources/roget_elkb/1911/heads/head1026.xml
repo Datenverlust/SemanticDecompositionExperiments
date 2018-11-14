@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1026" name="Theology" origNum="#983." class="8" section="5" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="theology (natural and revealed)">
+			<sg number="1">
+				<word number="1">theology (natural and revealed)</word>
+			</sg>
+			<sg number="2">
+				<word number="1">theogony</word>
+				<word number="2">theosophy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">divinity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hagiology</word>
+				<word number="2">hagiography</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Caucasian mystery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">monotheism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">religion</word>
+			</sg>
+			<sg number="8">
+				<word number="1">religious persuasion</word>
+				<word number="2">religious sect</word>
+				<word number="3">religious denomination</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="belief" headRef="508">creed</word>
+			</sg>
+			<sg number="10">
+				<word number="1">article of faith</word>
+				<word number="2">declaration of faith</word>
+				<word number="3">profession of faith</word>
+				<word number="4">confession of faith</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="theologue">
+			<sg number="1">
+				<word number="1">theologue</word>
+				<word number="2">theologian</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scholastic</word>
+				<word number="2">divine</word>
+				<word number="3">schoolman</word>
+				<word number="4">canonist</word>
+				<word number="5">theologist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the Fathers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="theological">
+			<sg number="1">
+				<word number="1">theological</word>
+				<word number="2">religious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">denominational</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sectarian" headRef="1028">sectarian</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

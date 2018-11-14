@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1024" name="Heaven" origNum="#981." class="8" section="5" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="heaven">
+			<sg number="1">
+				<word number="1">heaven</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kingdom of heaven</word>
+				<word number="2">kingdom of God</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heavenly kingdom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">throne of God</word>
+			</sg>
+			<sg number="5">
+				<word number="1">presence of God</word>
+			</sg>
+			<sg number="6">
+				<word number="1">inheritance of the saints in light</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Paradise">
+			<sg number="1">
+				<word number="1">Paradise</word>
+				<word number="2">Eden</word>
+				<word number="3">Zion</word>
+				<word number="4">abode of the blessed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">celestial bliss</word>
+				<word number="2">glory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Olympus">
+			<sg number="1">
+				<word number="1">Olympus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Elysium</word>
+				<word number="2">paradise</word>
+				<word number="3">Elysian fields</word>
+				<word number="4">Arcadia</word>
+				<word number="5">bowers of bliss</word>
+				<word number="6">garden of the Hesperides</word>
+				<word number="7">third heaven</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Valhalla</word>
+				<word number="2">Walhalla (Scandinavian)</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Nirvana (Buddhist)</word>
+			</sg>
+			<sg number="5">
+				<word number="1">happy hunting grounds</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Alfardaws</word>
+				<word number="2">Assama</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Falak al aflak "the highest heaven" (Mohammedan)</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="future state">
+			<sg number="1">
+				<word number="1">future state</word>
+				<word number="2">eternal home</word>
+				<word number="3">eternal reward</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="resurrection">
+			<sg number="1">
+				<word number="1">resurrection</word>
+				<word number="2">translation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="resuscitation" headRef="689">resuscitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="apotheosis">
+			<sg number="1">
+				<word number="1">apotheosis</word>
+				<word number="2">deification</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="heavenly">
+			<sg number="1">
+				<word number="1">heavenly</word>
+				<word number="2">celestial</word>
+				<word number="3">supernal</word>
+				<word number="4">unearthly</word>
+				<word number="5">from on high</word>
+				<word number="6">paradisiacal</word>
+				<word number="7">beatific</word>
+				<word number="8">elysian</word>
+				<word number="9" new="1">anarchical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="looks through nature up to the nature's god">
+			<sg number="1">
+				<word number="1">"looks through nature up to the nature's god"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the great world's altar stairs</word>
+				<word number="2">that slope through darkness up to God"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"the treasury of everlasting joy"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vigeur de dessus</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

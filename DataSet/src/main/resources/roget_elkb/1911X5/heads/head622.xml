@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="622" name="Compendium" origNum="#596." class="5" section="3" subSection="2" headGroup="25">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="compend">
+			<sg number="1">
+				<word number="1">compend</word>
+				<word number="2">compendium</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abstract</word>
+				<word number="2">precis</word>
+				<word number="3">epitome</word>
+				<word number="4">multum in parvo</word>
+				<word number="5">analysis</word>
+				<word number="6">pandect</word>
+				<word number="7">digest</word>
+				<word number="8">sum and substance</word>
+				<word number="9">brief</word>
+				<word number="10">abridgment</word>
+				<word number="11">summary</word>
+				<word number="12">apercu</word>
+				<word number="13">draft</word>
+				<word number="14">minute</word>
+				<word number="15">note</word>
+			</sg>
+			<sg number="3">
+				<word number="1">excerpt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">synopsis</word>
+				<word number="2">textbook</word>
+				<word number="3">conspectus</word>
+				<word number="4">outlines</word>
+				<word number="5">syllabus</word>
+				<word number="6">contents</word>
+				<word number="7">heads</word>
+				<word number="8">prospectus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="album">
+			<sg number="1">
+				<word number="1">album</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scrap book</word>
+				<word number="2">note book</word>
+				<word number="3">memorandum book</word>
+				<word number="4">commonplace book</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extracts</word>
+				<word number="2">excerpta</word>
+				<word number="3">cuttings</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fugitive pieces</word>
+				<word number="2">fugitive writing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spicilegium</word>
+				<word number="2">flowers</word>
+				<word number="3">anthology</word>
+				<word number="4">collectanea</word>
+				<word number="5">analecta</word>
+			</sg>
+			<sg number="6">
+				<word number="1">compilation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="recapitulation">
+			<sg number="1">
+				<word number="1">recapitulation</word>
+				<word number="2">resume</word>
+				<word number="3">review</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="abbreviation">
+			<sg number="1">
+				<word number="1">abbreviation</word>
+				<word number="2">abbreviature</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contraction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="shortening" headRef="210">shortening</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="compression" headRef="204">compression</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="abridge">
+			<sg number="1">
+				<word number="1">abridge</word>
+				<word number="2">abstract</word>
+				<word number="3">epitomize</word>
+				<word number="4">summarize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make an abstract</word>
+				<word number="2">prepare an abstract</word>
+				<word number="3">draw an abstract</word>
+				<word number="4" paraRef="" posRef="n.">compile an abstract</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recapitulate">
+			<sg number="1">
+				<word number="1">recapitulate</word>
+				<word number="2">review</word>
+				<word number="3">skim</word>
+				<word number="4">run over</word>
+				<word number="5">sum up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="abbreviate">
+			<sg number="1">
+				<word number="1" paraRef="shorten" headRef="210">abbreviate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="compress" headRef="204">condense</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="collect" headRef="76">compile</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="compendious">
+			<sg number="1">
+				<word number="1">compendious</word>
+				<word number="2">synoptic</word>
+				<word number="3">analectic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abrege</word>
+				<word number="2" paraRef="" posRef="v.">abridged</word>
+			</sg>
+			<sg number="3">
+				<word number="1">variorum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in short">
+			<sg number="1">
+				<word number="1">in short</word>
+				<word number="2">in epitome</word>
+				<word number="3">in substance</word>
+				<word number="4">in few words</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="it lies in a nutshell">
+			<sg number="1">
+				<word number="1">it lies in a nutshell</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

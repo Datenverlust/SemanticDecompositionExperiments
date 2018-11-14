@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="490" name="Evidence " origNum="#467." class="4" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="evidence">
+			<sg number="1">
+				<word number="1">evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">facts</word>
+				<word number="2">premises</word>
+				<word number="3">de.dailab.nsm.semanticDistanceMeasures.data</word>
+				<word number="4">praecognita</word>
+				<word number="5">grounds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="indication">
+			<sg number="1">
+				<word number="1" paraRef="indication" headRef="576">indication</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="test" headRef="483">criterion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="testimony">
+			<sg number="1">
+				<word number="1">testimony</word>
+				<word number="2">testification</word>
+				<word number="3">expert testimony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attestation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="affirmation" headRef="561">deposition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">examination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="admission">
+			<sg number="1">
+				<word number="1" paraRef="assent" headRef="512">admission</word>
+			</sg>
+			<sg number="2">
+				<word number="1">authority</word>
+				<word number="2">warrant</word>
+				<word number="3">credential</word>
+				<word number="4">diploma</word>
+				<word number="5">voucher</word>
+				<word number="6">certificate</word>
+				<word number="7">doquet</word>
+				<word number="8">docket</word>
+			</sg>
+			<sg number="3">
+				<word number="1">testamur</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="record" headRef="577">record</word>
+			</sg>
+			<sg number="5">
+				<word number="1">document</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pi ce justificative</word>
+			</sg>
+			<sg number="7">
+				<word number="1">deed</word>
+				<word number="2" paraRef="security" headRef="803">warranty</word>
+			</sg>
+			<sg number="8">
+				<word number="1">signature</word>
+				<word number="2" paraRef="identification" headRef="576">seal</word>
+			</sg>
+			<sg number="9">
+				<word number="1">exhibit</word>
+				<word number="2">material evidence</word>
+				<word number="3">objective evidence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="witness">
+			<sg number="1">
+				<word number="1">witness</word>
+				<word number="2">indicator</word>
+				<word number="3">hostile witness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eyewitness</word>
+				<word number="2">earwitness</word>
+				<word number="3">material witness</word>
+				<word number="4">state's evidence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deponent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sponsor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cojuror</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="oral evidence">
+			<sg number="1">
+				<word number="1">oral evidence</word>
+				<word number="2">documentary evidence</word>
+				<word number="3">hearsay evidence</word>
+				<word number="4">external evidence</word>
+				<word number="5">extrinsic evidence</word>
+				<word number="6">internal evidence</word>
+				<word number="7">intrinsic evidence</word>
+				<word number="8">circumstantial evidence</word>
+				<word number="9">cumulative evidence</word>
+				<word number="10">ex parte evidence</word>
+				<word number="11">presumptive evidence</word>
+				<word number="12">collateral evidence</word>
+				<word number="13">constructive evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="demonstration" headRef="501">proof</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evidence in chief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="secondary evidence">
+			<sg number="1">
+				<word number="1">secondary evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confirmation</word>
+				<word number="2">corroboration</word>
+				<word number="3">support</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="assent" headRef="512">ratification</word>
+			</sg>
+			<sg number="4">
+				<word number="1">authentication</word>
+			</sg>
+			<sg number="5">
+				<word number="1">compurgation</word>
+				<word number="2">wager of law</word>
+				<word number="3">comprobation|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="citation">
+			<sg number="1">
+				<word number="1">citation</word>
+				<word number="2">reference</word>
+			</sg>
+			<sg number="2">
+				<word number="1">legal research</word>
+				<word number="2" paraRef="experiment" headRef="483">literature search</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be evidence">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">be evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evince</word>
+				<word number="2">show</word>
+				<word number="3">betoken</word>
+				<word number="4">tell of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="denote" headRef="576">indicate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imply</word>
+				<word number="2">involve</word>
+				<word number="3">argue</word>
+				<word number="4">bespeak</word>
+				<word number="5">breathe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have weight">
+			<sg number="1">
+				<word number="1">have weight</word>
+				<word number="2">carry weight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tell</word>
+				<word number="2">speak volumes</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="manifest" headRef="550">speak for itself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rest upon">
+			<sg number="1">
+				<word number="1">rest upon</word>
+				<word number="2">depend upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repose on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bear witness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">bear witness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">give evidence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">testify</word>
+				<word number="2">depose</word>
+				<word number="3">witness</word>
+				<word number="4">vouch for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sign</word>
+				<word number="2">seal</word>
+				<word number="3">undersign</word>
+				<word number="4">set one's hand and seal</word>
+				<word number="5">sign and seal</word>
+				<word number="6">deliver as one's act and deed</word>
+				<word number="7">certify</word>
+				<word number="8">attest</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="assent" headRef="512">acknowledge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="make absolute">
+			<sg number="1">
+				<word number="1">make absolute</word>
+				<word number="2">confirm</word>
+				<word number="3" paraRef="demonstrate" headRef="501">prove</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="indorse">
+			<sg number="1">
+				<word number="1">indorse</word>
+				<word number="2">countersign</word>
+				<word number="3">corroborate</word>
+				<word number="4">support</word>
+				<word number="5">ratify</word>
+				<word number="6">bear out</word>
+				<word number="7">uphold</word>
+				<word number="8">warrant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="adduce">
+			<sg number="1">
+				<word number="1">adduce</word>
+				<word number="2">attest</word>
+				<word number="3">cite</word>
+				<word number="4">quote</word>
+			</sg>
+			<sg number="2">
+				<word number="1">refer to</word>
+				<word number="2">appeal to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">call</word>
+				<word number="2">call to witness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bring forward</word>
+				<word number="2">bring into court</word>
+			</sg>
+			<sg number="5">
+				<word number="1">allege</word>
+				<word number="2">plead</word>
+			</sg>
+			<sg number="6">
+				<word number="1">produce witnesses</word>
+				<word number="2">confront witnesses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="place into evidence">
+			<sg number="1">
+				<word number="1">place into evidence</word>
+				<word number="2">mark into evidence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="collect evidence">
+			<sg number="1">
+				<word number="1">collect evidence</word>
+				<word number="2">bring together evidence</word>
+				<word number="3">rake up evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="experiment" headRef="483">experiment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="have a case">
+			<sg number="1">
+				<word number="1">have a case</word>
+				<word number="2">make out a case</word>
+			</sg>
+			<sg number="2">
+				<word number="1">establish</word>
+				<word number="2">authenticate</word>
+				<word number="3">substantiate</word>
+				<word number="4">verify</word>
+				<word number="5">make good</word>
+				<word number="6">quote chapter and verse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bring home to</word>
+				<word number="2">bring to book</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="showing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">showing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indicative</word>
+				<word number="2">indicatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deducible" headRef="501">deducible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grounded on</word>
+				<word number="2">founded on</word>
+				<word number="3">based on</word>
+			</sg>
+			<sg number="5">
+				<word number="1">corroborative</word>
+				<word number="2">confirmatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by inference">
+			<sg number="1">
+				<word number="1">by inference</word>
+			</sg>
+			<sg number="2">
+				<word number="1">according to</word>
+				<word number="2">witness</word>
+				<word number="3">a fortiori</word>
+			</sg>
+			<sg number="3">
+				<word number="1">still more</word>
+				<word number="2">still less</word>
+			</sg>
+			<sg number="4">
+				<word number="1">raison de plus</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="n.">in corroboration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">valeat quantum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">under seal</word>
+				<word number="2">under one's hand and seal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="dictum de dicto">
+			<sg number="1">
+				<word number="1">dictum de dicto</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mise en evidence</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

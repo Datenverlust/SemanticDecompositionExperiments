@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="116" name="Diuturnity" origNum="#110." class="1" section="6" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="diuturnity">
+			<sg number="1">
+				<word number="1">diuturnity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a long time</word>
+				<word number="2">a length of time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">an age</word>
+				<word number="2">a century</word>
+				<word number="3">an eternity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="slowness" headRef="286">slowness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="perpetuity" headRef="118">perpetuity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blue moon</word>
+				<word number="2">coon's age</word>
+				<word number="3">dog's age</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="durableness">
+			<sg number="1">
+				<word number="1">durableness</word>
+				<word number="2">durability</word>
+			</sg>
+			<sg number="2">
+				<word number="1">persistence</word>
+				<word number="2">endlessness</word>
+				<word number="3" paraRef="" posRef="adj.">lastingness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">continuance</word>
+				<word number="2">standing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="stability" headRef="157">permanence</word>
+				<word number="2">survivance</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="age" headRef="134">longevity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">distance of time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="protraction of time">
+			<sg number="1">
+				<word number="1">protraction of time</word>
+				<word number="2">prolongation of time</word>
+				<word number="3">extension of time</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lateness" headRef="140">delay</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="last">
+			<sg number="1">
+				<word number="1">last</word>
+				<word number="2">endure</word>
+				<word number="3">stand</word>
+				<word number="4">remain</word>
+				<word number="5">abide</word>
+				<word number="6">continue</word>
+				<word number="7">brave a thousand years</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tarry">
+			<sg number="1">
+				<word number="1" paraRef="be late" headRef="140">tarry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drag on</word>
+				<word number="2">drag its slow length along</word>
+				<word number="3">drag a lengthening chain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">protract</word>
+				<word number="2">prolong</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spin out</word>
+				<word number="2">eke out</word>
+				<word number="3">draw out</word>
+				<word number="4">lengthen out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">temporize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gain time</word>
+				<word number="2">make time</word>
+				<word number="3">talk against time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="outlast">
+			<sg number="1">
+				<word number="1">outlast</word>
+				<word number="2">outlive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">survive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">live to fight again</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="durable">
+			<sg number="1">
+				<word number="1">durable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">lasting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">of long duration</word>
+				<word number="2">of long-standing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">permanent</word>
+				<word number="2">endless</word>
+				<word number="3">chronic</word>
+				<word number="4">long-standing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intransient</word>
+				<word number="2">intransitive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intransmutable</word>
+				<word number="2">persistent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lifelong</word>
+				<word number="2">livelong</word>
+			</sg>
+			<sg number="8">
+				<word number="1">longeval</word>
+				<word number="2">long-lived</word>
+				<word number="3">macrobiotic</word>
+				<word number="4">diuturnal</word>
+				<word number="5">evergreen</word>
+				<word number="6">perennial</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sempervirent</word>
+				<word number="2">sempervirid</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unrelenting</word>
+				<word number="2">unintermitting</word>
+				<word number="3">unremitting</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="perpetual" headRef="118">perpetual</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lingering">
+			<sg number="1">
+				<word number="1">lingering</word>
+				<word number="2">protracted</word>
+				<word number="3">prolonged</word>
+				<word number="4" paraRef="" posRef="v.">spun out</word>
+				<word number="5">long- winded</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="slow" headRef="286">slow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="long">
+			<sg number="1">
+				<word number="1">long</word>
+			</sg>
+			<sg number="2">
+				<word number="1">for a long time</word>
+				<word number="2">for an age</word>
+				<word number="3">for ages</word>
+				<word number="4">for ever so long</word>
+				<word number="5">for many a long day</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="past time" headRef="128">long ago</word>
+			</sg>
+			<sg number="4">
+				<word number="1">longo intervallo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="all the day long">
+			<sg number="1">
+				<word number="1">all the day long</word>
+				<word number="2">all the year round</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the livelong day</word>
+				<word number="2">as the day is long</word>
+				<word number="3">morning noon and night</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hour after hour</word>
+				<word number="2">day after day</word>
+			</sg>
+			<sg number="4">
+				<word number="1">for good</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">permanently</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

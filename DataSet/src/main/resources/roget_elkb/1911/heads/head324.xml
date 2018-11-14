@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="324" name="Evolution" origNum="#313." class="2" section="4" subSection="4" headGroup="19">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="evolution">
+			<sg number="1">
+				<word number="1">evolution</word>
+				<word number="2">unfolding</word>
+				<word number="3">development</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evolvement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unfoldment</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="inversion" headRef="228">eversion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="evolve">
+			<sg number="1">
+				<word number="1">evolve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfold</word>
+				<word number="2">unroll</word>
+				<word number="3">unwind</word>
+				<word number="4">uncoil</word>
+				<word number="5">untwist</word>
+				<word number="6">unfurl</word>
+				<word number="7">untwine</word>
+				<word number="8">unravel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">untangle</word>
+				<word number="2">disentangle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">develop</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="evolving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">evolving</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">evolved</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="44" name="Mixture" origNum="#41." class="1" section="3" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="mixture">
+			<sg number="1">
+				<word number="1">mixture</word>
+				<word number="2">admixture</word>
+				<word number="3">commixture</word>
+				<word number="4">commixtion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commixion</word>
+				<word number="2">intermixture</word>
+				<word number="3">alloyage</word>
+				<word number="4">matrimony</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="junction" headRef="46">junction</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="combination" headRef="51">combination</word>
+			</sg>
+			<sg number="5">
+				<word number="1">miscegenation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="impregnation">
+			<sg number="1">
+				<word number="1">impregnation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infusion</word>
+				<word number="2">diffusion suffusion</word>
+				<word number="3">transfusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">infiltration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seasoning</word>
+				<word number="2">sprinkling</word>
+				<word number="3">interlarding</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="interpolation" headRef="238">interpolation</word>
+				<word number="2">sophistication</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tinge">
+			<sg number="1">
+				<word number="1">tinge</word>
+				<word number="2">tincture</word>
+				<word number="3">touch</word>
+				<word number="4">dash</word>
+				<word number="5">smack</word>
+				<word number="6">sprinkling</word>
+				<word number="7">spice</word>
+				<word number="8">seasoning</word>
+				<word number="9">infusion</word>
+				<word number="10">soupcon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="alloy">
+			<sg number="1">
+				<word number="1">alloy</word>
+				<word number="2">amalgam</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brass</word>
+				<word number="2">chowchow</word>
+				<word number="3">pewter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">magma</word>
+				<word number="2">half-and-half</word>
+				<word number="3">melange</word>
+				<word number="4">tertium quid</word>
+				<word number="5">miscellany</word>
+				<word number="6">ambigu</word>
+				<word number="7">medley</word>
+				<word number="8">mess</word>
+				<word number="9">hotchpot</word>
+				<word number="10">pasticcio</word>
+				<word number="11">patchwork</word>
+				<word number="12">odds and ends</word>
+				<word number="13">all sorts</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disorder" headRef="62">jumble</word>
+			</sg>
+			<sg number="5">
+				<word number="1">salad</word>
+				<word number="2">sauce</word>
+				<word number="3">mash</word>
+				<word number="4">omnium gatherum</word>
+				<word number="5">gallimaufry</word>
+				<word number="6">olla-podrida</word>
+				<word number="7">olio</word>
+				<word number="8">salmagundi</word>
+				<word number="9">potpourri</word>
+				<word number="10">Noah's ark</word>
+				<word number="11">caldron texture</word>
+				<word number="12">mingled yarn</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="variegation" headRef="459">mosaic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="half-blood">
+			<sg number="1">
+				<word number="1">half-blood</word>
+				<word number="2">half-caste</word>
+				<word number="3">mulatto</word>
+			</sg>
+			<sg number="2">
+				<word number="1">terceron</word>
+				<word number="2">quarteron</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quadroon</word>
+				<word number="2">octoroon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">griffo</word>
+				<word number="2">zambo</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cafuzo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Eurasian</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fustee</word>
+				<word number="2">fustie</word>
+			</sg>
+			<sg number="8">
+				<word number="1">griffe</word>
+				<word number="2">ladino</word>
+				<word number="3">marabou</word>
+				<word number="4">mestee</word>
+				<word number="5">mestizo</word>
+				<word number="6">quintroon</word>
+				<word number="7">sacatra  zebrule</word>
+			</sg>
+			<sg number="9">
+				<word number="1">catalo</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cross</word>
+				<word number="2">hybrid</word>
+				<word number="3">mongrel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="orthogonality">
+			<sg number="1">
+				<word number="1" new="1">orthogonality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="dossier">
+			<sg number="1">
+				<word number="1" new="1">dossier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="herpes">
+			<sg number="1">
+				<word number="1" new="1">herpes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="mix">
+			<sg number="1">
+				<word number="1">mix</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="join" headRef="46">join</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="combine" headRef="51">combine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">commix</word>
+				<word number="2">immix</word>
+				<word number="3">intermix</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mix up with</word>
+				<word number="2">mingle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">commingle</word>
+				<word number="2">intermingle</word>
+				<word number="3">bemingle</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="derange" headRef="65">shuffle</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pound together</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hash up</word>
+				<word number="2">stir up</word>
+			</sg>
+			<sg number="10">
+				<word number="1">knead</word>
+				<word number="2">brew</word>
+			</sg>
+			<sg number="11">
+				<word number="1">impregnate with</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="interpolate" headRef="238">interlard</word>
+			</sg>
+			<sg number="13">
+				<word number="1">intertwine</word>
+				<word number="2" paraRef="interweave" headRef="229">interweave</word>
+				<word number="3" new="1">whirr</word>
+				<word number="4" new="1">backfill</word>
+			</sg>
+			<sg number="14">
+				<word number="1">associate with</word>
+			</sg>
+			<sg number="15">
+				<word number="1">miscegenate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be mixed">
+			<sg number="1">
+				<word number="1">be mixed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">get among</word>
+				<word number="2">be entangled with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="instill">
+			<sg number="1">
+				<word number="1">instill</word>
+				<word number="2">imbue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infuse</word>
+				<word number="2">suffuse</word>
+				<word number="3">transfuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">infiltrate</word>
+				<word number="2">dash</word>
+				<word number="3">tinge</word>
+				<word number="4">tincture</word>
+				<word number="5">season</word>
+				<word number="6">sprinkle</word>
+				<word number="7">besprinkle</word>
+				<word number="8">attemper</word>
+				<word number="9">medicate</word>
+				<word number="10">blend</word>
+				<word number="11">cross</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alloy</word>
+				<word number="2">amalgamate</word>
+				<word number="3">compound</word>
+				<word number="4">adulterate</word>
+				<word number="5">sophisticate</word>
+				<word number="6">infect</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="mixed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">mixed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">implex</word>
+				<word number="2">composite</word>
+				<word number="3">half-and-half</word>
+				<word number="4">linsey- woolsey</word>
+				<word number="5">chowchow</word>
+				<word number="6">hybrid</word>
+				<word number="7">mongrel</word>
+				<word number="8">heterogeneous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="variegated" headRef="459">motley</word>
+			</sg>
+			<sg number="4">
+				<word number="1">miscellaneous</word>
+				<word number="2">promiscuous</word>
+				<word number="3">indiscriminate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">miscible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="among">
+			<sg number="1">
+				<word number="1">among</word>
+				<word number="2">amongst</word>
+				<word number="3">amid</word>
+				<word number="4">amidst</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the midst of</word>
+				<word number="2">in the crowd</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

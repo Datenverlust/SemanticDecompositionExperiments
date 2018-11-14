@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="161" name="Effect" origNum="#154." class="1" section="8" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="effect">
+			<sg number="1">
+				<word number="1">effect</word>
+				<word number="2">consequence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aftergrowth</word>
+				<word number="2">aftercome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">derivative</word>
+				<word number="2">derivation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">result</word>
+			</sg>
+			<sg number="5">
+				<word number="1">resultant</word>
+				<word number="2">resultance</word>
+			</sg>
+			<sg number="6">
+				<word number="1">upshot</word>
+				<word number="2">issue</word>
+				<word number="3">denouement</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="end" headRef="71">end</word>
+			</sg>
+			<sg number="8">
+				<word number="1">development</word>
+				<word number="2">outgrowth</word>
+				<word number="3">fruit</word>
+				<word number="4">crop</word>
+				<word number="5">harvest</word>
+				<word number="6">product</word>
+				<word number="7">bud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="production">
+			<sg number="1">
+				<word number="1">production</word>
+				<word number="2">produce</word>
+				<word number="3">work</word>
+				<word number="4">handiwork</word>
+				<word number="5">fabric</word>
+				<word number="6">performance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">creature</word>
+				<word number="2">creation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">offspring</word>
+				<word number="2">offshoot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">firstfruits</word>
+				<word number="2">firstlings</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heredity</word>
+				<word number="2">telegony</word>
+			</sg>
+			<sg number="6">
+				<word number="1">premices premises</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be the effect of">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">be the effect of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be due to</word>
+				<word number="2">be owing to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">originate in</word>
+				<word number="2">originate from</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rise -</word>
+				<word number="2">arise</word>
+				<word number="3">take its rise spring from</word>
+				<word number="4">proceed from</word>
+				<word number="5">emanate from</word>
+				<word number="6">come from</word>
+				<word number="7">grow from</word>
+				<word number="8">bud from</word>
+				<word number="9">sprout from</word>
+				<word number="10">germinate from</word>
+				<word number="11">issue from</word>
+				<word number="12">flow from</word>
+				<word number="13">result from</word>
+				<word number="14">follow from</word>
+				<word number="15">derive its origin from</word>
+				<word number="16">accrue from</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come to</word>
+				<word number="2">come of</word>
+				<word number="3">come  out of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">depend upon</word>
+				<word number="2">hang upon</word>
+				<word number="3">hinge upon</word>
+				<word number="4">turn upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take the consequences">
+			<sg number="1">
+				<word number="1">take the consequences</word>
+				<word number="2">sow the wind and reap the whirlwind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="owing to">
+			<sg number="1">
+				<word number="1">owing to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">resulting from</word>
+			</sg>
+			<sg number="3">
+				<word number="1">derivable from</word>
+			</sg>
+			<sg number="4">
+				<word number="1">due to</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="caused" headRef="160">caused by</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dependent upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">derived from</word>
+				<word number="2">evolved from</word>
+			</sg>
+			<sg number="8">
+				<word number="1">derivative</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hereditary</word>
+			</sg>
+			<sg number="10">
+				<word number="1">telegonous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="of course">
+			<sg number="1">
+				<word number="1">of course</word>
+				<word number="2">it follows that</word>
+				<word number="3">naturally</word>
+				<word number="4">consequently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as a consequence</word>
+				<word number="2">in consequence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">through</word>
+				<word number="2">all along of</word>
+				<word number="3">necessarily</word>
+				<word number="4">eventually</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cela va sans dire">
+			<sg number="1">
+				<word number="1">cela va sans dire</word>
+				<word number="2">"thereby hangs a tale"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

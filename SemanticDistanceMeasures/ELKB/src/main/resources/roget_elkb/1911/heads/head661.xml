@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="661" name="Means" origNum="#632." class="6" section="2" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="means">
+			<sg number="1">
+				<word number="1">means</word>
+				<word number="2">resources</word>
+				<word number="3">wherewithal</word>
+				<word number="4">ways and means</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="money" headRef="835">capital</word>
+			</sg>
+			<sg number="3">
+				<word number="1">revenue</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="stock in trade" headRef="665">stock in trade</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="provision" headRef="666">provision</word>
+			</sg>
+			<sg number="6">
+				<word number="1">a shot in the locker</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="machinery" headRef="662">appliances</word>
+			</sg>
+			<sg number="8">
+				<word number="1">means and appliances</word>
+			</sg>
+			<sg number="9">
+				<word number="1">conveniences</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cards to play</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="measure" headRef="655">expedients</word>
+			</sg>
+			<sg number="12">
+				<word number="1">two strings to one's bow</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="safety" headRef="693">sheet anchor</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="aid" headRef="736">aid</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="medium" headRef="660">medium</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="find means">
+			<sg number="1">
+				<word number="1">find means</word>
+				<word number="2">have means</word>
+				<word number="3" paraRef="" posRef="n.">possess means</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="instrumental">
+			<sg number="1">
+				<word number="1" paraRef="instrumental" headRef="660">instrumental</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mechanical" headRef="662">mechanical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by means of">
+			<sg number="1">
+				<word number="1">by means of</word>
+				<word number="2">with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by what means</word>
+				<word number="2">by all means</word>
+				<word number="3">by any means</word>
+				<word number="4">by some means</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wherewith</word>
+				<word number="2">herewith</word>
+				<word number="3">therewith</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wherewithal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="how">
+			<sg number="1">
+				<word number="1" paraRef="in what manner" headRef="656">how</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="instrumentality" headRef="660">through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with the aid of</word>
+				<word number="2" paraRef="assistance" headRef="736">by the aid of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="agency" headRef="177">by the agency of</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

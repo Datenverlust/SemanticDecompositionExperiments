@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="383" name="Agriculture" origNum="#371." class="3" section="3" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="agriculture">
+			<sg number="1">
+				<word number="1">agriculture</word>
+				<word number="2">cultivation</word>
+				<word number="3">husbandry</word>
+				<word number="4">farming</word>
+				<word number="5" new="1">dairying</word>
+				<word number="6" new="1">growing</word>
+				<word number="7" new="1">rearing</word>
+				<word number="8" new="2">harvest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">georgics</word>
+				<word number="2">geoponics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tillage</word>
+				<word number="2">agronomy</word>
+				<word number="3">gardening</word>
+				<word number="4">spade husbandry</word>
+				<word number="5">vintage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">horticulture</word>
+				<word number="2">arboriculture</word>
+				<word number="3">floriculture</word>
+			</sg>
+			<sg number="5">
+				<word number="1">landscape gardening</word>
+			</sg>
+			<sg number="6">
+				<word number="1">viticulture</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">planting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="husbandman">
+			<sg number="1">
+				<word number="1">husbandman</word>
+				<word number="2">horticulturist</word>
+				<word number="3">gardener</word>
+				<word number="4">florist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agricultor</word>
+				<word number="2">agriculturist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yeoman</word>
+				<word number="2">farmer</word>
+				<word number="3">cultivator</word>
+				<word number="4">tiller of the soil</word>
+				<word number="5">woodcutter</word>
+				<word number="6">backwoodsman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">granger</word>
+				<word number="2">habitat</word>
+				<word number="3">vigneron</word>
+				<word number="4">viticulturist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Triptolemus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="field">
+			<sg number="1">
+				<word number="1">field</word>
+				<word number="2">meadow</word>
+				<word number="3">garden</word>
+			</sg>
+			<sg number="2">
+				<word number="1">botanic garden</word>
+				<word number="2">winter garden</word>
+				<word number="3">ornamental garden</word>
+				<word number="4">flower garden</word>
+				<word number="5">kitchen garden</word>
+				<word number="6">market garden</word>
+				<word number="7">hop garden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nursery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">green house</word>
+				<word number="2">hot house</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conservatory</word>
+				<word number="2">bed</word>
+				<word number="3">border</word>
+				<word number="4">seed plot</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grassplot</word>
+				<word number="2">grassplat</word>
+				<word number="3">lawn</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="pleasure ground" headRef="878">park</word>
+			</sg>
+			<sg number="8">
+				<word number="1">parterre</word>
+				<word number="2">shrubbery</word>
+				<word number="3">plantation</word>
+				<word number="4">avenue</word>
+				<word number="5">arboretum</word>
+				<word number="6">pinery</word>
+				<word number="7">pinetum</word>
+				<word number="8">orchard</word>
+			</sg>
+			<sg number="9">
+				<word number="1">vineyard</word>
+				<word number="2">vinery</word>
+			</sg>
+			<sg number="10">
+				<word number="1">orangery</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="abode" headRef="198">farm</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">paddock</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">ranch</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">zoo</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cultivate">
+			<sg number="1">
+				<word number="1">cultivate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">till the soil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">farm</word>
+				<word number="2">garden</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sow</word>
+				<word number="2">plant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reap</word>
+				<word number="2">mow</word>
+				<word number="3">cut</word>
+			</sg>
+			<sg number="6">
+				<word number="1">manure</word>
+				<word number="2">dress the ground</word>
+				<word number="3">dig</word>
+				<word number="4">delve</word>
+				<word number="5">dibble</word>
+				<word number="6">hoe</word>
+				<word number="7">plough</word>
+				<word number="8">plow</word>
+				<word number="9">harrow</word>
+				<word number="10">rake</word>
+				<word number="11">weed</word>
+				<word number="12">lop and top</word>
+			</sg>
+			<sg number="7">
+				<word number="1">backset</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="agricultural">
+			<sg number="1">
+				<word number="1">agricultural</word>
+				<word number="2">agrarian</word>
+				<word number="3">agrestic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="arable">
+			<sg number="1">
+				<word number="1">arable</word>
+				<word number="2">predial</word>
+				<word number="3">rural</word>
+				<word number="4">rustic</word>
+				<word number="5">country</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horticultural</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="257" name="Circularity" origNum="#247." class="2" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="circularity">
+			<sg number="1">
+				<word number="1">circularity</word>
+				<word number="2">roundness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="rotundity" headRef="259">rotundity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="circle">
+			<sg number="1">
+				<word number="1">circle</word>
+				<word number="2">circlet</word>
+				<word number="3">ring</word>
+				<word number="4">areola</word>
+				<word number="5">hoop</word>
+				<word number="6">roundlet</word>
+				<word number="7">annulus</word>
+				<word number="8">annulet</word>
+				<word number="9">bracelet</word>
+				<word number="10">armlet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ringlet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eye</word>
+				<word number="2">loop</word>
+				<word number="3">wheel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cycle</word>
+				<word number="2">orb</word>
+				<word number="3">orbit</word>
+				<word number="4">rundle</word>
+				<word number="5">zone</word>
+				<word number="6">belt</word>
+				<word number="7">cordon</word>
+				<word number="8">band</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contrate wheel</word>
+				<word number="2">crown wheel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hub</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nave</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sash</word>
+				<word number="2">girdle</word>
+				<word number="3">cestus</word>
+				<word number="4">cincture</word>
+				<word number="5">baldric</word>
+				<word number="6">fillet</word>
+				<word number="7">fascia</word>
+				<word number="8">wreath</word>
+				<word number="9">garland</word>
+			</sg>
+			<sg number="9">
+				<word number="1">crown</word>
+				<word number="2">corona</word>
+				<word number="3">coronet</word>
+				<word number="4">chaplet</word>
+				<word number="5">snood</word>
+				<word number="6">necklace</word>
+				<word number="7">collar</word>
+				<word number="8" new="1">tiara</word>
+			</sg>
+			<sg number="10">
+				<word number="1">noose</word>
+				<word number="2">lasso</word>
+				<word number="3">lassoo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ellipse">
+			<sg number="1">
+				<word number="1">ellipse</word>
+				<word number="2">oval</word>
+				<word number="3">ovule</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ellipsoid</word>
+				<word number="2">cycloid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">epicycloid</word>
+				<word number="2">epicycle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">semicircle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quadrant</word>
+				<word number="2">sextant</word>
+				<word number="3">sector</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sphere">
+			<sg number="1">
+				<word number="1" paraRef="sphere" headRef="259">sphere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="make round">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">make round</word>
+			</sg>
+			<sg number="2">
+				<word number="1">round</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="go round">
+			<sg number="1">
+				<word number="1">go round</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="encircle" headRef="237">encircle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="describe a circle" headRef="322">describe a circle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="round">
+			<sg number="1">
+				<word number="1">round</word>
+				<word number="2">rounded</word>
+				<word number="3">circular</word>
+				<word number="4">annular</word>
+				<word number="5">orbicular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oval</word>
+				<word number="2">ovate</word>
+				<word number="3" new="1">oblong</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elliptic</word>
+				<word number="2">elliptical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">egg-shaped</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="pear shaped" headRef="255">pear shaped</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="n.">cycloidal</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="spherical" headRef="259">spherical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="I watched the little circles die">
+			<sg number="1">
+				<word number="1">"I watched the little circles die"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

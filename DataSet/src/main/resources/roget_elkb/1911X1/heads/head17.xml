@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="17" name="Nonuniformity" origNum="#16a." class="1" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="diversity">
+			<sg number="1">
+				<word number="1">diversity</word>
+				<word number="2">irregularity</word>
+				<word number="3">unevenness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="multiformity" headRef="85">multiformity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unconformity" headRef="87">unconformity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="roughness" headRef="267">roughness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dissimilarity</word>
+				<word number="2">dissimilitude</word>
+				<word number="3">divarication</word>
+				<word number="4">divergence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="diversified">
+			<sg number="1">
+				<word number="1">diversified</word>
+				<word number="2">varied</word>
+				<word number="3">irregular</word>
+				<word number="4">uneven</word>
+				<word number="5" paraRef="rough" headRef="267">rough</word>
+			</sg>
+			<sg number="2">
+				<word number="1">multifarious</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="multiform" headRef="85">multiform</word>
+			</sg>
+			<sg number="4">
+				<word number="1">of various kinds</word>
+			</sg>
+			<sg number="5">
+				<word number="1">all manner of</word>
+				<word number="2">all sorts of</word>
+				<word number="3">all kinds of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="variously">
+			<sg number="1">
+				<word number="1">variously</word>
+				<word number="2">in all manner of ways</word>
+				<word number="3">here there and everywhere</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

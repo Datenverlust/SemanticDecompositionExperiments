@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="282" name="Carrier" origNum="#271." class="2" section="4" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="carrier">
+			<sg number="1">
+				<word number="1">carrier</word>
+				<word number="2">porter</word>
+				<word number="3">bearer</word>
+				<word number="4">tranter</word>
+				<word number="5">conveyer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cargador</word>
+			</sg>
+			<sg number="3">
+				<word number="1">express</word>
+				<word number="2">expressman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stevedore</word>
+				<word number="2">coolie</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conductor</word>
+				<word number="2">locomotive</word>
+				<word number="3">motor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="beast">
+			<sg number="1">
+				<word number="1">beast</word>
+				<word number="2">beast of burden</word>
+				<word number="3">cattle</word>
+				<word number="4">horse</word>
+				<word number="5">nag</word>
+				<word number="6">palfrey</word>
+				<word number="7">Arab</word>
+				<word number="8">blood horse</word>
+				<word number="9">thoroughbred</word>
+				<word number="10">galloway</word>
+				<word number="11">charger</word>
+				<word number="12">courser</word>
+				<word number="13">racer</word>
+				<word number="14">hunter</word>
+				<word number="15">jument</word>
+				<word number="16">pony</word>
+				<word number="17">filly</word>
+				<word number="18">colt</word>
+				<word number="19">foal</word>
+				<word number="20">barb</word>
+				<word number="21">roan</word>
+				<word number="22">jade</word>
+				<word number="23">hack</word>
+				<word number="24">bidet</word>
+				<word number="25">pad</word>
+				<word number="26">cob</word>
+				<word number="27">tit</word>
+				<word number="28">punch</word>
+				<word number="29">roadster</word>
+				<word number="30">goer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">racehorse</word>
+				<word number="2">pack horse</word>
+				<word number="3">draft horse</word>
+				<word number="4">cart horse</word>
+				<word number="5">dray horse</word>
+				<word number="6">post horse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ketch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Shetland pony</word>
+				<word number="2">shelty</word>
+				<word number="3">sheltie</word>
+			</sg>
+			<sg number="5">
+				<word number="1">garran</word>
+				<word number="2">garron</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jennet</word>
+				<word number="2">genet</word>
+				<word number="3">bayard</word>
+				<word number="4">mare</word>
+				<word number="5">stallion</word>
+				<word number="6">gelding</word>
+				<word number="7" new="1">sire</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bronco</word>
+				<word number="2">broncho</word>
+				<word number="3">cayuse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">creature</word>
+				<word number="2">critter</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cow pony</word>
+				<word number="2">mustang</word>
+				<word number="3">Narraganset</word>
+				<word number="4">waler</word>
+			</sg>
+			<sg number="10">
+				<word number="1">stud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Pegasus">
+			<sg number="1">
+				<word number="1">Pegasus</word>
+				<word number="2">Bucephalus</word>
+				<word number="3">Rocinante</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ass">
+			<sg number="1">
+				<word number="1">ass</word>
+				<word number="2">donkey</word>
+				<word number="3">jackass</word>
+				<word number="4">mule</word>
+				<word number="5">hinny</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sumpter horse</word>
+				<word number="2">sumpter mule</word>
+			</sg>
+			<sg number="3">
+				<word number="1">burro</word>
+				<word number="2">cuddy</word>
+				<word number="3">ladino</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reindeer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">camel</word>
+				<word number="2">dromedary</word>
+				<word number="3">llama</word>
+				<word number="4">elephant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">carrier pigeon</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">oxen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pallet">
+			<sg number="1">
+				<word number="1">pallet</word>
+				<word number="2">brace</word>
+				<word number="3">cart</word>
+				<word number="4">dolley</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="support" headRef="224">support</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fork lift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="carriage">
+			<sg number="1">
+				<word number="1" paraRef="vehicle" headRef="283">carriage</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ship" headRef="284">ship</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="equine">
+			<sg number="1">
+				<word number="1">equine</word>
+				<word number="2">asinine</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

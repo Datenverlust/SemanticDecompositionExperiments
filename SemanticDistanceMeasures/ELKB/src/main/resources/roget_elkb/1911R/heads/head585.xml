@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="585" name="Artist" origNum="#559." class="5" section="3" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="artist">
+			<sg number="1">
+				<word number="1">artist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">painter</word>
+				<word number="2">limner</word>
+				<word number="3">drawer</word>
+				<word number="4">sketcher</word>
+				<word number="5">designer</word>
+				<word number="6">engraver</word>
+				<word number="7" new="1">laetrile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">master</word>
+				<word number="2">old master</word>
+			</sg>
+			<sg number="4">
+				<word number="1">draftsman</word>
+				<word number="2">draughtsman</word>
+			</sg>
+			<sg number="5">
+				<word number="1">copyist</word>
+				<word number="2">dauber</word>
+				<word number="3">hack</word>
+			</sg>
+			<sg number="6">
+				<word number="1">enamel</word>
+				<word number="2">enameler</word>
+				<word number="3">enamelist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">caricaturist</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">fibrillation</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">dribbling</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">misbehaviour</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">cytoplasm</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">inductor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="historical painter">
+			<sg number="1">
+				<word number="1">historical painter</word>
+				<word number="2">landscape painter</word>
+				<word number="3">marine painter</word>
+				<word number="4">flower painter</word>
+				<word number="5">portrait painter</word>
+				<word number="6">miniature painter</word>
+				<word number="7">miniaturist</word>
+				<word number="8">scene painter</word>
+				<word number="9">sign painter</word>
+				<word number="10">coach painter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">engraver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Apelles</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sculptor</word>
+				<word number="2">carver</word>
+				<word number="3">chaser</word>
+				<word number="4">modeler</word>
+				<word number="5">figuriste</word>
+				<word number="6">statuary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Phidias</word>
+				<word number="2">Praxiteles</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Royal Academician</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="photographer">
+			<sg number="1">
+				<word number="1">photographer</word>
+				<word number="2">cinematographer</word>
+				<word number="3">lensman</word>
+				<word number="4">cameraman</word>
+				<word number="5">camera technician</word>
+				<word number="6">camera buff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wildlife photographer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="photo safari">
+			<sg number="1">
+				<word number="1">photo safari</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"with gun and camera"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

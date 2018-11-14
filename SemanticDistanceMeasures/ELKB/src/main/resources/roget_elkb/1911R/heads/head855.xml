@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="855" name="Greed " origNum="#817a." class="7" section="4" subSection="4" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="covetousness">
+			<sg number="1">
+				<word number="1">covetousness</word>
+				<word number="2" paraRef="" posRef="adj.">ravenousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">venality</word>
+				<word number="2">avidity</word>
+				<word number="3">cupidity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="acquisition" headRef="807">acquisitiveness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="desire" headRef="904">desire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="greed">
+			<sg number="1">
+				<word number="1">greed</word>
+				<word number="2">greediness</word>
+				<word number="3">avarice</word>
+				<word number="4">avidity</word>
+				<word number="5">rapacity</word>
+				<word number="6">extortion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="selfishness">
+			<sg number="1">
+				<word number="1" paraRef="selfishness" headRef="985">selfishness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">auri sacra fames</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="grasping">
+			<sg number="1">
+				<word number="1">grasping</word>
+				<word number="2">craving</word>
+				<word number="3">canine appetite</word>
+				<word number="4">rapacity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fiftieth">
+			<sg number="1">
+				<word number="1" new="1">fiftieth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="covet">
+			<sg number="1">
+				<word number="1">covet</word>
+				<word number="2" paraRef="desire" headRef="904">crave</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grasp</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exact</word>
+				<word number="2">extort</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="greedy">
+			<sg number="1">
+				<word number="1">greedy</word>
+				<word number="2">avaricious</word>
+				<word number="3">covetous</word>
+				<word number="4">acquisitive</word>
+				<word number="5">grasping</word>
+				<word number="6" new="1">chalky</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rapacious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lickerish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="greedy as a hog">
+			<sg number="1">
+				<word number="1">greedy as a hog</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overeager</word>
+			</sg>
+			<sg number="3">
+				<word number="1">voracious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ravenous</word>
+				<word number="2">ravenous as a wolf</word>
+			</sg>
+			<sg number="5">
+				<word number="1">openmouthed</word>
+				<word number="2">extortionate</word>
+				<word number="3">exacting</word>
+				<word number="4">sordid!</word>
+				<word number="5">alieni appetens</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insatiable</word>
+				<word number="2">insatiate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unquenchable</word>
+				<word number="2">quenchless</word>
+			</sg>
+			<sg number="8">
+				<word number="1">omnivorous</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">checkable</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">orient</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">bizarre</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

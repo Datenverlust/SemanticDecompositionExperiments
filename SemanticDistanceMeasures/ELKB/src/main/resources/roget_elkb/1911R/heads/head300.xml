@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="300" name="Repulsion" origNum="#289." class="2" section="4" subSection="4" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="repulsion">
+			<sg number="1">
+				<word number="1">repulsion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">driving from</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repulse</word>
+				<word number="2">abduction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="magnetic repulsion">
+			<sg number="1">
+				<word number="1">magnetic repulsion</word>
+				<word number="2">magnetic levitation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">antigravity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="repel">
+			<sg number="1">
+				<word number="1">repel</word>
+				<word number="2">push from</word>
+				<word number="3">drive apart</word>
+				<word number="4" paraRef="drive" headRef="287">drive from</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chase</word>
+				<word number="2">dispel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retrude</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abduce</word>
+				<word number="2">abduct</word>
+			</sg>
+			<sg number="5">
+				<word number="1">send away</word>
+			</sg>
+			<sg number="6">
+				<word number="1">repulse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep at arm's length">
+			<sg number="1">
+				<word number="1">keep at arm's length</word>
+				<word number="2">turn one's back upon</word>
+				<word number="3">give the cold shoulder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">send off</word>
+				<word number="2">send away with a flea in one's ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="repelling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">repelling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repellent</word>
+				<word number="2">repulsive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abducent</word>
+				<word number="2">abductive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="centripetal">
+			<sg number="1">
+				<word number="1">centripetal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="like charges repel">
+			<sg number="1">
+				<word number="1">like charges repel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">opposite charges attract</word>
+			</sg>
+			<sg number="3">
+				<word number="1">like poles repel</word>
+				<word number="2">opposite poles attract</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="535" name="Prediction" origNum="#511." class="4" section="6" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prediction">
+			<sg number="1">
+				<word number="1">prediction</word>
+				<word number="2">announcement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">program</word>
+				<word number="2" paraRef="plan" headRef="655">programme</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="warning" headRef="697">premonition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prognosis</word>
+				<word number="2">prophecy</word>
+				<word number="3">vaticination</word>
+				<word number="4">mantology</word>
+				<word number="5">prognostication</word>
+				<word number="6">premonstration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">augury</word>
+				<word number="2">auguration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ariolation</word>
+				<word number="2">hariolation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">foreboding</word>
+				<word number="2">aboding</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bodement</word>
+				<word number="2">abodement</word>
+			</sg>
+			<sg number="9">
+				<word number="1">omniation</word>
+				<word number="2">omniousness</word>
+			</sg>
+			<sg number="10">
+				<word number="1">auspices</word>
+				<word number="2">forecast</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="omen" headRef="536">omen</word>
+			</sg>
+			<sg number="12">
+				<word number="1">horoscope</word>
+				<word number="2">nativity</word>
+			</sg>
+			<sg number="13">
+				<word number="1">sooth</word>
+				<word number="2">soothsaying</word>
+			</sg>
+			<sg number="14">
+				<word number="1">fortune telling</word>
+				<word number="2">crystal gazing</word>
+			</sg>
+			<sg number="15">
+				<word number="1">divination</word>
+			</sg>
+			<sg number="16">
+				<word number="1" paraRef="necromancy" headRef="1036">necromancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="astrology">
+			<sg number="1">
+				<word number="1">astrology</word>
+				<word number="2">horoscopy</word>
+				<word number="3">judicial astrology1</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="adytum">
+			<sg number="1">
+				<word number="1">adytum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="prefiguration">
+			<sg number="1">
+				<word number="1">prefiguration</word>
+				<word number="2">prefigurement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prototype</word>
+				<word number="2">type</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="oracle">
+			<sg number="1">
+				<word number="1" paraRef="oracle" headRef="537">oracle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="predict">
+			<sg number="1">
+				<word number="1">predict</word>
+				<word number="2">prognosticate</word>
+				<word number="3">prophesy</word>
+				<word number="4">vaticinate</word>
+				<word number="5">divine</word>
+				<word number="6">foretell</word>
+				<word number="7">soothsay</word>
+				<word number="8">augurate</word>
+				<word number="9">tell fortunes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast a horoscope</word>
+				<word number="2">cast a nativity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">advise</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="forewarn" headRef="697">forewarn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="presage">
+			<sg number="1">
+				<word number="1">presage</word>
+				<word number="2">augur</word>
+				<word number="3">bode</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abode</word>
+				<word number="2">forebode</word>
+			</sg>
+			<sg number="3">
+				<word number="1">foretoken</word>
+				<word number="2">betoken</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prefigure</word>
+				<word number="2">preshow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">portend</word>
+			</sg>
+			<sg number="6">
+				<word number="1">foreshow</word>
+				<word number="2">foreshadow</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shadow forth</word>
+				<word number="2">typify</word>
+				<word number="3">pretypify</word>
+				<word number="4">ominate</word>
+				<word number="5">signify</word>
+				<word number="6">point to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="usher in">
+			<sg number="1">
+				<word number="1">usher in</word>
+				<word number="2">herald</word>
+				<word number="3">premise</word>
+				<word number="4">announce</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hold out expectation">
+			<sg number="1">
+				<word number="1">hold out expectation</word>
+				<word number="2">raise expectation</word>
+				<word number="3">excite expectation</word>
+				<word number="4">excite hope</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bid fair</word>
+				<word number="2">promise</word>
+				<word number="3">lead one to expect</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="precursor" headRef="68">be the precursor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="extrapolate">
+			<sg number="1">
+				<word number="1">extrapolate</word>
+				<word number="2">project</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="predicting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">predicting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">predictive</word>
+				<word number="2">prophetic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fatidic</word>
+				<word number="2">fatidical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vaticinal</word>
+				<word number="2">oracular</word>
+				<word number="3">fatiloquent</word>
+				<word number="4">haruspical</word>
+				<word number="5">Sibylline</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weatherwise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ominous">
+			<sg number="1">
+				<word number="1">ominous</word>
+				<word number="2">portentous</word>
+				<word number="3">augurous</word>
+				<word number="4">augurial</word>
+				<word number="5">augural</word>
+			</sg>
+			<sg number="2">
+				<word number="1">auspicial</word>
+				<word number="2">auspicious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prescious</word>
+				<word number="2">monitory</word>
+				<word number="3">extispicious</word>
+				<word number="4">premonitory</word>
+				<word number="5">significant of</word>
+				<word number="6">pregnant with</word>
+				<word number="7">bit with the fate of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="coming events cast their shadows before">
+			<sg number="1">
+				<word number="1">"coming events cast their shadows before"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dicamus bona verba</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"there buds the promise of celestial worth"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Divination by oracles">
+			<sg number="1">
+				<word number="1">Divination by oracles</word>
+				<word number="2">Theomancy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by the Bible</word>
+				<word number="2">Bibliomancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by ghosts</word>
+				<word number="2">Psychomancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">by crystal gazing</word>
+				<word number="2">Crystallomancy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">by shadows or manes</word>
+				<word number="2">Sciomancy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">by appearances in the air</word>
+				<word number="2">Aeromancy</word>
+				<word number="3">Chaomancy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">by the stars at birth</word>
+				<word number="2">Genethliacs</word>
+			</sg>
+			<sg number="8">
+				<word number="1">by meteors</word>
+				<word number="2">Meteoromancy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">by winds</word>
+				<word number="2">Austromancy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">by sacrificial appearances</word>
+				<word number="2">Aruspicy (or Haruspicy)</word>
+				<word number="3">Hieromancy</word>
+				<word number="4">Hieroscopy</word>
+			</sg>
+			<sg number="11">
+				<word number="1">by the entrails of animals sacrificed</word>
+				<word number="2">Extispicy</word>
+				<word number="3">Hieromancy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">by the entrails of a human sacrifice</word>
+				<word number="2">Anthropomancy</word>
+			</sg>
+			<sg number="13">
+				<word number="1">by the entrails of fishes</word>
+				<word number="2">Ichthyomancy</word>
+			</sg>
+			<sg number="14">
+				<word number="1">by sacrificial fire</word>
+				<word number="2">Pyromancy</word>
+			</sg>
+			<sg number="15">
+				<word number="1">by red-hot iron</word>
+				<word number="2">Sideromancy</word>
+			</sg>
+			<sg number="16">
+				<word number="1">by smoke from the altar</word>
+				<word number="2">Capnomancy</word>
+			</sg>
+			<sg number="17">
+				<word number="1">by mice</word>
+				<word number="2">Myomancy</word>
+			</sg>
+			<sg number="18">
+				<word number="1">by birds</word>
+				<word number="2">Orniscopy</word>
+				<word number="3">Ornithomancy</word>
+			</sg>
+			<sg number="19">
+				<word number="1">by a cock picking up grains</word>
+				<word number="2">Alectryomancy (or Alectromancy)</word>
+			</sg>
+			<sg number="20">
+				<word number="1">by fishes</word>
+				<word number="2">Ophiomancy</word>
+			</sg>
+			<sg number="21">
+				<word number="1">by herbs</word>
+				<word number="2">Botanomancy</word>
+			</sg>
+			<sg number="22">
+				<word number="1">by water</word>
+				<word number="2">Hydromancy</word>
+			</sg>
+			<sg number="23">
+				<word number="1">by fountains</word>
+				<word number="2">Pegomancy</word>
+			</sg>
+			<sg number="24">
+				<word number="1">by a wand</word>
+				<word number="2">Rhabdomancy</word>
+			</sg>
+			<sg number="25">
+				<word number="1">by dough of cakes</word>
+				<word number="2">Crithomancy</word>
+			</sg>
+			<sg number="26">
+				<word number="1">by meal</word>
+				<word number="2">Aleuromancy</word>
+				<word number="3">Alphitomancy</word>
+			</sg>
+			<sg number="27">
+				<word number="1">by salt</word>
+				<word number="2">Halomancy</word>
+			</sg>
+			<sg number="28">
+				<word number="1">by dice</word>
+				<word number="2">Cleromancy</word>
+			</sg>
+			<sg number="29">
+				<word number="1">by arrows</word>
+				<word number="2">Belomancy</word>
+			</sg>
+			<sg number="30">
+				<word number="1">by a balanced hatchet</word>
+				<word number="2">Axinomancy</word>
+			</sg>
+			<sg number="31">
+				<word number="1">by a balanced sieve</word>
+				<word number="2">Coscinomancy</word>
+			</sg>
+			<sg number="32">
+				<word number="1">by a suspended ring</word>
+				<word number="2">Dactyliomancy</word>
+			</sg>
+			<sg number="33">
+				<word number="1">by dots made at random on paper</word>
+				<word number="2">Geomancy</word>
+			</sg>
+			<sg number="34">
+				<word number="1">by precious stones</word>
+				<word number="2">Lithomancy</word>
+			</sg>
+			<sg number="35">
+				<word number="1">by pebbles</word>
+				<word number="2">Pessomancy</word>
+			</sg>
+			<sg number="36">
+				<word number="1">by pebbles drawn from a heap</word>
+				<word number="2">Psephomancy</word>
+			</sg>
+			<sg number="37">
+				<word number="1">by mirrors</word>
+				<word number="2">Catoptromancy</word>
+			</sg>
+			<sg number="38">
+				<word number="1">by writings in ashes</word>
+				<word number="2">Tephramancy</word>
+			</sg>
+			<sg number="39">
+				<word number="1">by dreams</word>
+				<word number="2">Oneiromancy</word>
+			</sg>
+			<sg number="40">
+				<word number="1">by the hand</word>
+				<word number="2">Palmistry</word>
+				<word number="3">Chiromancy</word>
+			</sg>
+			<sg number="41">
+				<word number="1">by nails reflecting the sun's rays</word>
+				<word number="2">Onychomancy</word>
+			</sg>
+			<sg number="42">
+				<word number="1">by finger rings</word>
+				<word number="2">Dactylomancy</word>
+			</sg>
+			<sg number="43">
+				<word number="1">by numbers</word>
+				<word number="2">Arithmancy</word>
+			</sg>
+			<sg number="44">
+				<word number="1">by drawing lots</word>
+				<word number="2">Sortilege</word>
+			</sg>
+			<sg number="45">
+				<word number="1">by passages in books</word>
+				<word number="2">Stichomancy</word>
+			</sg>
+			<sg number="46">
+				<word number="1">by the letters forming the name of the person</word>
+				<word number="2">Onomancy</word>
+				<word number="3">Nomancy</word>
+			</sg>
+			<sg number="47">
+				<word number="1">by the features</word>
+				<word number="2">Anthroposcopy</word>
+			</sg>
+			<sg number="48">
+				<word number="1">by the mode of laughing</word>
+				<word number="2">Geloscopy</word>
+			</sg>
+			<sg number="49">
+				<word number="1">by ventriloquism</word>
+				<word number="2">Gastromancy</word>
+			</sg>
+			<sg number="50">
+				<word number="1">by walking in a circle</word>
+				<word number="2">Gyromancy</word>
+			</sg>
+			<sg number="51">
+				<word number="1">by dropping melted wax into water</word>
+				<word number="2">Ceromancy</word>
+			</sg>
+			<sg number="52">
+				<word number="1">by currents</word>
+				<word number="2">Bletonism</word>
+			</sg>
+			<sg number="53">
+				<word number="1">by the color and peculiarities of wine</word>
+				<word number="2">Oenomancy</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

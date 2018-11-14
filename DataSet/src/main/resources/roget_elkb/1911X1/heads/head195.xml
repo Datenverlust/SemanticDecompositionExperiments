@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="195" name="Presence" origNum="#186." class="2" section="1" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="presence">
+			<sg number="1">
+				<word number="1">presence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">occupancy</word>
+				<word number="2">occupation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">attendance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">whereness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="permeation">
+			<sg number="1">
+				<word number="1">permeation</word>
+				<word number="2">pervasion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dispersion" headRef="77">diffusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ubiety">
+			<sg number="1">
+				<word number="1">ubiety</word>
+				<word number="2">ubiquity</word>
+				<word number="3">ubiquitariness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">omnipresence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bystander">
+			<sg number="1">
+				<word number="1" paraRef="spectator" headRef="463">bystander</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="exist in space">
+			<sg number="1">
+				<word number="1">exist in space</word>
+				<word number="2" paraRef="" posRef="adj.">be present</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assister</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make one of</word>
+				<word number="2">make one at</word>
+			</sg>
+			<sg number="4">
+				<word number="1">look on</word>
+				<word number="2">attend</word>
+				<word number="3">remain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">find oneself</word>
+				<word number="2">present oneself</word>
+			</sg>
+			<sg number="6">
+				<word number="1">show one's face</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fall in the way of</word>
+				<word number="2">occur in a place</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lie</word>
+				<word number="2">stand</word>
+			</sg>
+			<sg number="9">
+				<word number="1">occupy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">be there</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="people">
+			<sg number="1">
+				<word number="1">people</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inhabit</word>
+				<word number="2">dwell</word>
+				<word number="3">reside</word>
+				<word number="4">stay</word>
+				<word number="5">sojourn</word>
+				<word number="6">live</word>
+				<word number="7">abide</word>
+				<word number="8">lodge</word>
+				<word number="9">nestle</word>
+				<word number="10">roost</word>
+				<word number="11">perch</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be located" headRef="193">take up one's abode</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="resort to">
+			<sg number="1">
+				<word number="1">resort to</word>
+				<word number="2">frequent</word>
+				<word number="3">haunt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">revisit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fill">
+			<sg number="1">
+				<word number="1">fill</word>
+				<word number="2">pervade</word>
+				<word number="3">permeate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be diffused</word>
+				<word number="2">be disseminated</word>
+				<word number="3">be through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">over spread</word>
+				<word number="2">overrun</word>
+			</sg>
+			<sg number="4">
+				<word number="1">run through</word>
+			</sg>
+			<sg number="5">
+				<word number="1">meet one at every turn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="present">
+			<sg number="1">
+				<word number="1">present</word>
+			</sg>
+			<sg number="2">
+				<word number="1">occupying</word>
+				<word number="2" paraRef="" posRef="v.">inhabiting</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="moored" headRef="193">moored</word>
+			</sg>
+			<sg number="4">
+				<word number="1">resiant</word>
+				<word number="2">resident</word>
+				<word number="3">residentiary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">domiciled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ubiquitous">
+			<sg number="1">
+				<word number="1">ubiquitous</word>
+				<word number="2">ubiquitary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">omnipresent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">universally present</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="peopled">
+			<sg number="1">
+				<word number="1">peopled</word>
+				<word number="2">populous</word>
+				<word number="3">full of people</word>
+				<word number="4">inhabited</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="here">
+			<sg number="1">
+				<word number="1">here</word>
+				<word number="2">there</word>
+				<word number="3">where</word>
+				<word number="4">everywhere</word>
+				<word number="5">aboard</word>
+				<word number="6">on board</word>
+				<word number="7">at home</word>
+				<word number="8">afield</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="space" headRef="188">here there and everywhere</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in presence of</word>
+				<word number="2">before</word>
+			</sg>
+			<sg number="4">
+				<word number="1">under the eyes of</word>
+				<word number="2">under the nose of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the face of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in propria persona</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="on the spot">
+			<sg number="1">
+				<word number="1">on the spot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in person</word>
+				<word number="2">in the flesh</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nusquam est qui ubique est">
+			<sg number="1">
+				<word number="1">nusquam est qui ubique est</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

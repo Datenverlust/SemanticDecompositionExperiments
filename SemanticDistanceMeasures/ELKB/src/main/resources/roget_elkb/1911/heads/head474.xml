@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="474" name="Topic" origNum="#454." class="4" section="1" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="subject of thought">
+			<sg number="1">
+				<word number="1">subject of thought</word>
+				<word number="2">material for thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">food for the mind</word>
+				<word number="2">mental pabulum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="subject">
+			<sg number="1">
+				<word number="1">subject</word>
+				<word number="2">subject matter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">matter</word>
+				<word number="2">theme</word>
+				<word number="3">topic</word>
+				<word number="4">what it is about</word>
+				<word number="5">thesis</word>
+				<word number="6">text</word>
+				<word number="7">business</word>
+				<word number="8">affair</word>
+				<word number="9">matter in hand</word>
+				<word number="10">argument</word>
+			</sg>
+			<sg number="3">
+				<word number="1">motion</word>
+				<word number="2">resolution</word>
+			</sg>
+			<sg number="4">
+				<word number="1">head</word>
+				<word number="2">chapter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">case</word>
+				<word number="2">point</word>
+			</sg>
+			<sg number="6">
+				<word number="1">proposition</word>
+				<word number="2">theorem</word>
+			</sg>
+			<sg number="7">
+				<word number="1">field of inquiry</word>
+			</sg>
+			<sg number="8">
+				<word number="1">moot point</word>
+				<word number="2" paraRef="question" headRef="481">problem</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="float in the mind">
+			<sg number="1">
+				<word number="1">float in the mind</word>
+				<word number="2" paraRef="pass in the mind" headRef="471">pass in the mind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="thought of">
+			<sg number="1">
+				<word number="1">thought of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uppermost in the mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in petto</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under consideration">
+			<sg number="1">
+				<word number="1">under consideration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in question</word>
+				<word number="2">in the mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on foot</word>
+				<word number="2">on the carpet</word>
+				<word number="3">on the docket</word>
+				<word number="4">on the tapis</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="relative to" headRef="9">relative to</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

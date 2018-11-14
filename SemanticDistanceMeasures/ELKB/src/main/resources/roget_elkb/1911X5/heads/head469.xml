@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="469" name="Intellect" origNum="#450." class="4" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="intellect">
+			<sg number="1">
+				<word number="1">intellect</word>
+				<word number="2">mind</word>
+				<word number="3">understanding</word>
+				<word number="4">reason</word>
+				<word number="5">thinking principle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rationality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cogitative faculties</word>
+				<word number="2">cognitive faculties</word>
+				<word number="3">discursive faculties</word>
+				<word number="4">reasoning faculties</word>
+				<word number="5">intellectual faculties</word>
+			</sg>
+			<sg number="4">
+				<word number="1">faculties</word>
+				<word number="2">senses</word>
+				<word number="3">consciousness</word>
+				<word number="4">observation</word>
+				<word number="5">percipience</word>
+				<word number="6">intelligence</word>
+				<word number="7">intellection</word>
+				<word number="8">intuition</word>
+				<word number="9">association of ideas</word>
+				<word number="10">instinct</word>
+				<word number="11">conception</word>
+				<word number="12">judgment</word>
+				<word number="13">wits</word>
+				<word number="14">parts</word>
+				<word number="15">capacity</word>
+				<word number="16">intellectuality</word>
+				<word number="17">genius</word>
+			</sg>
+			<sg number="5">
+				<word number="1">brains</word>
+				<word number="2">cognitive powers</word>
+				<word number="3">intellectual powers</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="wit" headRef="522">wit</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="skill" headRef="727">ability</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="wisdom" headRef="522">wisdom</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Vernunft</word>
+				<word number="2">Verstand</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">cognition</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">insight</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">knowledge</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="2">experience</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="2">imagination</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">talent</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="3">skill</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="3">vision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="soul">
+			<sg number="1">
+				<word number="1">soul</word>
+				<word number="2">spirit</word>
+				<word number="3">ghost</word>
+				<word number="4">inner man</word>
+				<word number="5">heart</word>
+				<word number="6">breast</word>
+				<word number="7">bosom</word>
+				<word number="8">penetralia mentis</word>
+				<word number="9">divina particula aurae</word>
+				<word number="10">heart's core</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the Absolute</word>
+				<word number="2">psyche</word>
+				<word number="3">subliminal consciousness</word>
+				<word number="4">supreme principle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="brain">
+			<sg number="1">
+				<word number="1">brain</word>
+				<word number="2">organ of thought</word>
+				<word number="3">seat of thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sensorium</word>
+				<word number="2">sensory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">head</word>
+				<word number="2">headpiece</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pate</word>
+				<word number="2">noddle</word>
+				<word number="3">noggin</word>
+				<word number="4">skull</word>
+				<word number="5">scull</word>
+				<word number="6">pericranium</word>
+				<word number="7">cerebrum</word>
+				<word number="8">cranium</word>
+				<word number="9">brainpan</word>
+				<word number="10">sconce</word>
+				<word number="11">upper story</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="central processing unit">
+			<sg number="1">
+				<word number="1">central processing unit</word>
+				<word number="2">CPU</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arithmetic and logical unit</word>
+				<word number="2">ALU</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="metaphysics">
+			<sg number="1">
+				<word number="1">metaphysics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">psychics</word>
+				<word number="2">psychology</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ideology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mental philosophy</word>
+				<word number="2">moral philosophy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">philosophy of the mind</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pneumatology</word>
+				<word number="2">phrenology</word>
+			</sg>
+			<sg number="7">
+				<word number="1">craniology</word>
+				<word number="2">cranioscopy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="ideality">
+			<sg number="1">
+				<word number="1">ideality</word>
+				<word number="2">idealism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">transcendentalism</word>
+				<word number="2">spiritualism</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="immateriality" headRef="328">immateriality</word>
+			</sg>
+			<sg number="4">
+				<word number="1">universal concept</word>
+				<word number="2">universal  conception</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="metaphysician">
+			<sg number="1">
+				<word number="1">metaphysician</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="note">
+			<sg number="1">
+				<word number="1">note</word>
+				<word number="2">notice</word>
+				<word number="3">mark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take notice of</word>
+				<word number="2">take cognizance of be aware of</word>
+				<word number="3">be conscious of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">realize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">appreciate</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="think" headRef="471">ruminate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="imagine" headRef="540">fancy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="intellectual">
+			<sg number="1">
+				<word number="1">intellectual</word>
+				<word number="2">mental</word>
+				<word number="3">rational</word>
+				<word number="4">subjective</word>
+				<word number="5">metaphysical</word>
+				<word number="6">nooscopic</word>
+				<word number="7">spiritual</word>
+				<word number="8" new="1">emotional</word>
+				<word number="9" new="1">transcendental</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ghostly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">psychical</word>
+				<word number="2">psychological</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cerebral</word>
+			</sg>
+			<sg number="5">
+				<word number="1">animastic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">brainy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hyperphysical</word>
+				<word number="2">superphysical</word>
+			</sg>
+			<sg number="8">
+				<word number="1">subconscious</word>
+				<word number="2">subliminal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="immaterial">
+			<sg number="1">
+				<word number="1" paraRef="immaterial" headRef="328">immaterial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">endowed with reason</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in petto">
+			<sg number="1">
+				<word number="1">in petto</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ens rationis">
+			<sg number="1">
+				<word number="1">ens rationis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frons est animi janua</word>
+			</sg>
+			<sg number="3">
+				<word number="1">locos y ninos dicen la verdad</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mens sola loco non exulat</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"my mind is my kingdom"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"stern men with empires in their brains"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the mind</word>
+				<word number="2">the music breathing from her face"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"thou living ray of intellectual Fire"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

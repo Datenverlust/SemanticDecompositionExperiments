@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="972" name="Contempt" origNum="#930." class="8" section="4" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="contempt">
+			<sg number="1">
+				<word number="1">contempt</word>
+				<word number="2">disdain</word>
+				<word number="3">scorn</word>
+				<word number="4">sovereign contempt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">despisal</word>
+				<word number="2">despiciency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">despisement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vilipendency!</word>
+				<word number="2">contumely</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slight</word>
+				<word number="2">sneer</word>
+				<word number="3">spurn</word>
+				<word number="4">by-word</word>
+			</sg>
+			<sg number="6">
+				<word number="1">despect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contemptuousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">contemptuousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scornful eye</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smile of contempt</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disrespect" headRef="971">derision</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="despise">
+			<sg number="1">
+				<word number="1">despise</word>
+				<word number="2">contemn</word>
+				<word number="3">scorn</word>
+				<word number="4">disdain</word>
+				<word number="5">feel contempt for</word>
+				<word number="6">view with a scornful eye</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disregard</word>
+				<word number="2">slight</word>
+				<word number="3">not mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="neglect" headRef="480">pass by</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="look down upon">
+			<sg number="1">
+				<word number="1">look down upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold cheap</word>
+				<word number="2">hold in contempt</word>
+				<word number="3">hold in disrespect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">think nothing of</word>
+				<word number="2">think small beer of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make light of</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="underestimate" headRef="507">underestimate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">esteem slightly</word>
+				<word number="2">esteem of small or no account</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take no account of</word>
+				<word number="2">care nothing for</word>
+			</sg>
+			<sg number="8">
+				<word number="1">set no store by</word>
+			</sg>
+			<sg number="9">
+				<word number="1">not care a straw</word>
+				<word number="2" paraRef="unimportance" headRef="672">sneeze at</word>
+			</sg>
+			<sg number="10">
+				<word number="1">set at naught</word>
+				<word number="2">laugh in one's sleeve</word>
+				<word number="3">laugh up one's sleeve</word>
+				<word number="4">snap one's fingers at</word>
+				<word number="5">shrug one's shoulders</word>
+				<word number="6">turn up one's nose at</word>
+				<word number="7">pooh-pooh</word>
+				<word number="8">"damn with faint praise"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">whistle at</word>
+				<word number="2">sneer at</word>
+			</sg>
+			<sg number="12">
+				<word number="1">curl up one's lip</word>
+				<word number="2">toss the head</word>
+				<word number="3">traiter de haut enbas</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="be disrespectful" headRef="971">laugh at</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="point the finger of scorn">
+			<sg number="1">
+				<word number="1">point the finger of scorn</word>
+				<word number="2">hold up to scorn</word>
+				<word number="3">laugh to scorn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scout</word>
+				<word number="2">hoot</word>
+				<word number="3">flout</word>
+				<word number="4">hiss</word>
+				<word number="5">scoff at</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="turn one's back upon">
+			<sg number="1">
+				<word number="1">turn one's back upon</word>
+				<word number="2">turn a cold shoulder upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tread upon</word>
+				<word number="2">trample upon</word>
+				<word number="3">trample under foot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spurn</word>
+				<word number="2">kick</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="repudiate" headRef="638">fling to the winds</word>
+			</sg>
+			<sg number="5">
+				<word number="1">send away with a flea in the ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="contemptuous">
+			<sg number="1">
+				<word number="1">contemptuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disdainful</word>
+				<word number="2">scornful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">withering</word>
+				<word number="2">contumelious</word>
+				<word number="3">supercilious</word>
+				<word number="4">cynical</word>
+				<word number="5">haughty</word>
+				<word number="6">bumptious</word>
+				<word number="7">cavalier</word>
+			</sg>
+			<sg number="4">
+				<word number="1">derisive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contemptible">
+			<sg number="1">
+				<word number="1">contemptible</word>
+				<word number="2">despicable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pitiable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unimportant" headRef="672">pitiful</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">despised</word>
+			</sg>
+			<sg number="5">
+				<word number="1">downtrodden</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unenvied</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unrespectable">
+			<sg number="1">
+				<word number="1" paraRef="unworthy" headRef="913">unrespectable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="contemptuously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">contemptuously</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="a fig for">
+			<sg number="1">
+				<word number="1" paraRef="unimportant" headRef="672">a fig for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bah!</word>
+				<word number="2">never mind!</word>
+				<word number="3">away with!</word>
+				<word number="4">hang it!</word>
+				<word number="5">fiddlededee!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a dismal universal hiss">
+			<sg number="1">
+				<word number="1">"a dismal universal hiss</word>
+				<word number="2">the sound of public scorn"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"I had rather be a dog and bay the moon than such a Roman"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

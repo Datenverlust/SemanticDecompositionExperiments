@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="922" name="Celebration" origNum="#883." class="8" section="2" subSection="5" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="celebration">
+			<sg number="1">
+				<word number="1">celebration</word>
+				<word number="2">solemnization</word>
+				<word number="3">jubilee</word>
+				<word number="4">commemoration</word>
+				<word number="5">ovation</word>
+				<word number="6">paean</word>
+				<word number="7">triumph</word>
+				<word number="8">jubilation</word>
+				<word number="9" paraRef="rite" headRef="1042">ceremony</word>
+				<word number="10" new="1">anniversary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">holiday</word>
+				<word number="2">fiesta</word>
+				<word number="3">zarabanda</word>
+				<word number="4">revelry</word>
+				<word number="5" paraRef="amusement" headRef="878">feast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">china anniversary</word>
+				<word number="2">diamond anniversary</word>
+				<word number="3">golden anniversary</word>
+				<word number="4">silver anniversary</word>
+				<word number="5">tin anniversary</word>
+				<word number="6">china jubilee</word>
+				<word number="7">diamond jubilee</word>
+				<word number="8">golden jubilee</word>
+				<word number="9">silver jubilee</word>
+				<word number="10">tin jubilee</word>
+				<word number="11">china wedding</word>
+				<word number="12">diamond wedding</word>
+				<word number="13">golden wedding</word>
+				<word number="14">silver wedding</word>
+				<word number="15">tin wedding</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">birthday</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">occasion</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">wedding</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="3">banquet</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="4">festivity</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="4">gala</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="5">dinner</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="5">extravaganza</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="5">procession</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="triumphal arch">
+			<sg number="1">
+				<word number="1">triumphal arch</word>
+				<word number="2">bonfire</word>
+				<word number="3">salute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">salvo</word>
+				<word number="2">salvo of artillery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feu de joie</word>
+				<word number="2">flourish of trumpets</word>
+				<word number="3">fanfare</word>
+				<word number="4">colors flying</word>
+				<word number="5">illuminations</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inauguration">
+			<sg number="1">
+				<word number="1">inauguration</word>
+				<word number="2">installation</word>
+				<word number="3">presentation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coronation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Lord Mayor's show</word>
+			</sg>
+			<sg number="4">
+				<word number="1">harvest-home</word>
+				<word number="2">red-letter day</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="trophy" headRef="762">trophy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="thanksgiving" headRef="1034">Te Deum</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="fete" headRef="921">fete</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="holiday" headRef="878">holiday</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Forefathers' Day</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="funeral">
+			<sg number="1">
+				<word number="1" new="1">funeral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="graduation">
+			<sg number="1">
+				<word number="1" new="2">graduation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="investiture">
+			<sg number="1">
+				<word number="1" new="4">investiture</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="celebrate keep">
+			<sg number="1">
+				<word number="1">celebrate keep</word>
+				<word number="2">celebrate</word>
+				<word number="3">signalize</word>
+				<word number="4">do honor to</word>
+				<word number="5">commemorate</word>
+				<word number="6">solemnize</word>
+				<word number="7">hallow</word>
+				<word number="8">mark with a red letter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pledge">
+			<sg number="1">
+				<word number="1">pledge</word>
+				<word number="2">drink to</word>
+				<word number="3">toast</word>
+				<word number="4">hob and nob</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inaugurate">
+			<sg number="1">
+				<word number="1">inaugurate</word>
+				<word number="2">install</word>
+				<word number="3">chair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="rejoice">
+			<sg number="1">
+				<word number="1" paraRef="rejoice" headRef="876">rejoice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kill the fatted calf</word>
+				<word number="2">hold jubilee</word>
+				<word number="3">roast an ox</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="celebrating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">celebrating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commemorative</word>
+				<word number="2">celebrated</word>
+				<word number="3">immortal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in honor of">
+			<sg number="1">
+				<word number="1">in honor of</word>
+				<word number="2">in commemoration of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hail">
+			<sg number="1">
+				<word number="1">hail!</word>
+				<word number="2">all hail!</word>
+				<word number="3">io paean</word>
+				<word number="4">io triumphe!</word>
+				<word number="5">"see the conquering hero comes!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

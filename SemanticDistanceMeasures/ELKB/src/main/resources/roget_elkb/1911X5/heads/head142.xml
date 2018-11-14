@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="142" name="Untimeliness" origNum="#135." class="1" section="6" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">untimeliness</word>
+				<word number="2">intempestivity</word>
+				<word number="3">unseasonableness</word>
+				<word number="4">inexpedience</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsuitable time</word>
+				<word number="2">improper time</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">unreasonableness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">evil hour</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contretemps</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intrusion</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="anachronism" headRef="121">anachronism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bad time">
+			<sg number="1">
+				<word number="1">bad time</word>
+				<word number="2">wrong time</word>
+				<word number="3">inappropriate time</word>
+				<word number="4">not the right occasion</word>
+				<word number="5">unsuitable time</word>
+				<word number="6">inopportune time</word>
+				<word number="7">poor timing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be ill timed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be ill timed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mistime</word>
+				<word number="2">intrude</word>
+				<word number="3">come amiss</word>
+				<word number="4">break in upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have other fish to fry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be busy</word>
+				<word number="2">be occupied</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lose an opportunity">
+			<sg number="1">
+				<word number="1">lose an opportunity</word>
+				<word number="2">throw away an opportunity</word>
+				<word number="3">waste an opportunity</word>
+				<word number="4" paraRef="neglect" headRef="480">neglect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">allow the opportunity to pass</word>
+				<word number="2">suffer the opportunity to pass</word>
+				<word number="3">allow the opportunity to slip</word>
+				<word number="4">suffer the opportunity to slip</word>
+				<word number="5">allow the opportunity to go by</word>
+				<word number="6">suffer the opportunity to go by</word>
+				<word number="7">allow the opportunity to escape</word>
+				<word number="8">suffer the opportunity to escape</word>
+				<word number="9">allow the opportunity to lapse</word>
+				<word number="10">suffer the opportunity to lapse</word>
+				<word number="11">allow the occasion to pass</word>
+				<word number="12">allow the occasion to slip by</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be inactive" headRef="712">waste time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">let slip through the fingers</word>
+				<word number="2">lock the barn door after the horse is stolen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ill-timed">
+			<sg number="1">
+				<word number="1">ill-timed</word>
+				<word number="2">mistimed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-fated</word>
+				<word number="2">ill-omened</word>
+				<word number="3">ill-starred</word>
+			</sg>
+			<sg number="3">
+				<word number="1">untimely</word>
+				<word number="2">unseasonable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of date</word>
+				<word number="2">out of season</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inopportune</word>
+				<word number="2">timeless</word>
+				<word number="3">intrusive</word>
+				<word number="4">untoward</word>
+				<word number="5">mal a propos</word>
+				<word number="6">unlucky</word>
+				<word number="7">inauspicious</word>
+				<word number="8">infelicitous</word>
+				<word number="9">unbefitting</word>
+				<word number="10">unpropitious</word>
+				<word number="11">unfortunate</word>
+				<word number="12">unfavorable</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="unsuited" headRef="26">unsuited</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="inexpedient" headRef="676">inexpedient</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unpunctual">
+			<sg number="1">
+				<word number="1" paraRef="late" headRef="140">unpunctual</word>
+			</sg>
+			<sg number="2">
+				<word number="1">too late for</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="early" headRef="138">premature</word>
+			</sg>
+			<sg number="4">
+				<word number="1">too soon for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wise after the event</word>
+				<word number="2">monday morning quarterbacking</word>
+				<word number="3">twenty- twenty hindsight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="inopportunely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">inopportunely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as ill luck would have it</word>
+				<word number="2">in an evil hour</word>
+				<word number="3">the time having gone by</word>
+				<word number="4">a day after the fair</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="after death the doctor">
+			<sg number="1">
+				<word number="1">after death the doctor</word>
+				<word number="2">after meat mustard</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

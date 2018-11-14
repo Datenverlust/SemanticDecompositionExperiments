@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="340" name="Texture" origNum="#329." class="3" section="2" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="structure">
+			<sg number="1">
+				<word number="1" paraRef="form" headRef="250">structure</word>
+				<word number="2">organization</word>
+				<word number="3">anatomy</word>
+				<word number="4">frame</word>
+				<word number="5">mold</word>
+				<word number="6">fabric</word>
+				<word number="7">construction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">framework</word>
+				<word number="2">carcass</word>
+				<word number="3">architecture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stratification</word>
+				<word number="2">cleavage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="substance">
+			<sg number="1">
+				<word number="1">substance</word>
+				<word number="2">stuff</word>
+				<word number="3">compages</word>
+				<word number="4">parenchyma</word>
+			</sg>
+			<sg number="2">
+				<word number="1">constitution</word>
+				<word number="2">staple</word>
+				<word number="3">organism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="organography">
+			<sg number="1">
+				<word number="1">organography</word>
+				<word number="2">osteology</word>
+				<word number="3">myology</word>
+				<word number="4">splanchnology</word>
+				<word number="5">neurology</word>
+				<word number="6">angiography</word>
+				<word number="7">adeology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">angiography</word>
+				<word number="2">adenography</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="texture">
+			<sg number="1">
+				<word number="1">texture</word>
+				<word number="2">surface texture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intertexture</word>
+				<word number="2">contexture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tissue</word>
+				<word number="2">grain</word>
+				<word number="3">web</word>
+				<word number="4">surface</word>
+			</sg>
+			<sg number="4">
+				<word number="1">warp and woof</word>
+				<word number="2">warp and weft</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tooth</word>
+				<word number="2" paraRef="roughness" headRef="267">nap</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="smoothness" headRef="266">flatness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fineness of grain</word>
+			</sg>
+			<sg number="8">
+				<word number="1">coarseness of grain</word>
+				<word number="2">dry goods</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="silk">
+			<sg number="1">
+				<word number="1">silk</word>
+				<word number="2">satin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">muslin</word>
+				<word number="2">burlap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="histology">
+			<sg number="1">
+				<word number="1">histology</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="structural">
+			<sg number="1">
+				<word number="1">structural</word>
+				<word number="2">organic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anatomic</word>
+				<word number="2">anatomical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="textural">
+			<sg number="1">
+				<word number="1">textural</word>
+				<word number="2">textile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fine grained</word>
+				<word number="2">coarse grained</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fine</word>
+				<word number="2">delicate</word>
+				<word number="3">subtile</word>
+				<word number="4">gossamery</word>
+				<word number="5">filmy</word>
+				<word number="6">silky</word>
+				<word number="7">satiny</word>
+				<word number="8" new="1">supple</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coarse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">homespun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rough">
+			<sg number="1">
+				<word number="1">rough</word>
+				<word number="2">gritty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smooth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="smooth as silk">
+			<sg number="1">
+				<word number="1">smooth as silk</word>
+				<word number="2">smooth as satin</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

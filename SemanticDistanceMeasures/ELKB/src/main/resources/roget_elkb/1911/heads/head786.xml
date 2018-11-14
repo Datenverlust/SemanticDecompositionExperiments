@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="786" name="Commission" origNum="#755." class="7" section="1" subSection="1" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="commission">
+			<sg number="1">
+				<word number="1">commission</word>
+				<word number="2">delegation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">consignment</word>
+				<word number="2">assignment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">procuration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deputation</word>
+				<word number="2">legation</word>
+				<word number="3">mission</word>
+				<word number="4">embassy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">agency</word>
+				<word number="2">agentship</word>
+			</sg>
+			<sg number="6">
+				<word number="1">power of attorney</word>
+			</sg>
+			<sg number="7">
+				<word number="1">clerkship</word>
+			</sg>
+			<sg number="8">
+				<word number="1">surrogacy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="errand">
+			<sg number="1">
+				<word number="1">errand</word>
+				<word number="2">charge</word>
+				<word number="3">brevet</word>
+				<word number="4">diploma</word>
+				<word number="5">exequatur</word>
+				<word number="6" paraRef="permission" headRef="791">permit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="appointment">
+			<sg number="1">
+				<word number="1">appointment</word>
+				<word number="2">nomination</word>
+				<word number="3">designation</word>
+				<word number="4">return</word>
+			</sg>
+			<sg number="2">
+				<word number="1">charter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ordination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">installation</word>
+				<word number="2">inauguration</word>
+				<word number="3">investiture</word>
+				<word number="4">swearing-in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">accession</word>
+				<word number="2">coronation</word>
+				<word number="3">enthronement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="vicegerency">
+			<sg number="1">
+				<word number="1">vicegerency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">regency</word>
+				<word number="2">regentship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="viceroy">
+			<sg number="1">
+				<word number="1" paraRef="viceroy" headRef="776">viceroy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="consignee" headRef="789">consignee</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deputy" headRef="790">deputy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="agent">
+			<sg number="1">
+				<word number="1">agent</word>
+				<word number="2">delegate</word>
+				<word number="3" paraRef="consignee" headRef="789">consignee</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="commission">
+			<sg number="1">
+				<word number="1">commission</word>
+				<word number="2">delegate</word>
+				<word number="3">depute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">consign</word>
+				<word number="2">assign</word>
+			</sg>
+			<sg number="3">
+				<word number="1">charge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intrust</word>
+				<word number="2">entrust</word>
+			</sg>
+			<sg number="5">
+				<word number="1">commit</word>
+				<word number="2">commit to the hands of</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="permit" headRef="791">authorize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="put in commission">
+			<sg number="1">
+				<word number="1">put in commission</word>
+				<word number="2">accredit</word>
+				<word number="3">engage</word>
+				<word number="4">hire</word>
+				<word number="5">bespeak</word>
+				<word number="6">appoint</word>
+				<word number="7">name</word>
+				<word number="8">nominate</word>
+				<word number="9">return</word>
+				<word number="10">ordain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">install</word>
+				<word number="2">induct</word>
+				<word number="3">inaugurate</word>
+				<word number="4">swear in</word>
+				<word number="5">invest</word>
+				<word number="6">crown</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enroll</word>
+				<word number="2">enlist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give power of attorney to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="employ">
+			<sg number="1">
+				<word number="1">employ</word>
+				<word number="2">empower</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set over</word>
+				<word number="2">place over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">send out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="be commissioned">
+			<sg number="1">
+				<word number="1">be commissioned</word>
+				<word number="2">be accredited</word>
+			</sg>
+			<sg number="2">
+				<word number="1">represent</word>
+				<word number="2">stand for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stand in the stead of</word>
+				<word number="2">stand in the place of</word>
+				<word number="3">stand in the shoes of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="commissioned">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">commissioned</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="per procurationem">
+			<sg number="1">
+				<word number="1">per procurationem</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

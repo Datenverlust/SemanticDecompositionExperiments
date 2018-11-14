@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="803" name="Security" origNum="#771." class="7" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="security">
+			<sg number="1">
+				<word number="1">security</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guaranty</word>
+				<word number="2">guarantee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gage</word>
+				<word number="2">warranty</word>
+				<word number="3">bond</word>
+				<word number="4">tie</word>
+				<word number="5">pledge</word>
+				<word number="6">plight</word>
+				<word number="7">mortgage</word>
+				<word number="8">collateral</word>
+				<word number="9">debenture</word>
+				<word number="10">hypothecation</word>
+				<word number="11">bill of sale</word>
+				<word number="12">lien</word>
+				<word number="13">pawn</word>
+				<word number="14">pignoration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">real security</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vadium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stake">
+			<sg number="1">
+				<word number="1">stake</word>
+				<word number="2">deposit</word>
+				<word number="3">earnest</word>
+				<word number="4">handsel</word>
+				<word number="5">caution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="promissory note">
+			<sg number="1">
+				<word number="1">promissory note</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bill</word>
+				<word number="2">bill of exchange</word>
+			</sg>
+			<sg number="3">
+				<word number="1">I.O.U</word>
+			</sg>
+			<sg number="4">
+				<word number="1">personal security</word>
+				<word number="2">covenant</word>
+				<word number="3">specialty</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="promise" headRef="799">parole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="acceptance">
+			<sg number="1">
+				<word number="1">acceptance</word>
+				<word number="2">indorsement</word>
+				<word number="3">signature</word>
+				<word number="4">execution</word>
+				<word number="5">stamp</word>
+				<word number="6">seal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sponsor">
+			<sg number="1">
+				<word number="1">sponsor</word>
+				<word number="2">cosponsor</word>
+				<word number="3">sponsion</word>
+				<word number="4">sponsorship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">surety</word>
+				<word number="2">bail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mainpernor</word>
+				<word number="2">hostage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">godchild</word>
+				<word number="2">godfather</word>
+				<word number="3">godmother</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="recognizance">
+			<sg number="1">
+				<word number="1">recognizance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deed of indemnity</word>
+				<word number="2">covenant of indemnity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="authentication">
+			<sg number="1">
+				<word number="1">authentication</word>
+				<word number="2">verification</word>
+				<word number="3">warrant</word>
+				<word number="4">certificate</word>
+				<word number="5">voucher</word>
+				<word number="6">docket</word>
+				<word number="7">doquet</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="record" headRef="577">record</word>
+			</sg>
+			<sg number="3">
+				<word number="1">probate</word>
+				<word number="2">attested copy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="receipt">
+			<sg number="1">
+				<word number="1">receipt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acquittance</word>
+				<word number="2">quittance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discharge</word>
+				<word number="2">release</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="muniment">
+			<sg number="1">
+				<word number="1">muniment</word>
+				<word number="2">title deed</word>
+				<word number="3">instrument</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deed</word>
+				<word number="2">deed poll</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assurance</word>
+				<word number="2">indenture</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="compact" headRef="801">charter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">charter poll</word>
+			</sg>
+			<sg number="6">
+				<word number="1">paper</word>
+				<word number="2">parchment</word>
+				<word number="3">settlement</word>
+				<word number="4">will</word>
+				<word number="5">testament</word>
+				<word number="6">last will and testament</word>
+				<word number="7">codicil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="give security">
+			<sg number="1">
+				<word number="1">give security</word>
+				<word number="2">give bail</word>
+				<word number="3">give substantial bail</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go bail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pawn</word>
+				<word number="2">impawn</word>
+				<word number="3">spout</word>
+				<word number="4">mortgage</word>
+				<word number="5">hypothecate</word>
+				<word number="6">impignorate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="guarantee">
+			<sg number="1">
+				<word number="1">guarantee</word>
+				<word number="2">warrant</word>
+				<word number="3">warrantee</word>
+				<word number="4">assure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accept</word>
+				<word number="2">indorse</word>
+				<word number="3">underwrite</word>
+				<word number="4">insure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cosign</word>
+				<word number="2">countersign</word>
+				<word number="3">sponsor</word>
+				<word number="4">cosponsor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="execute">
+			<sg number="1">
+				<word number="1">execute</word>
+				<word number="2">stamp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sign</word>
+				<word number="2" paraRef="evidence" headRef="490">seal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="let">
+			<sg number="1">
+				<word number="1">let</word>
+				<word number="2">sett</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grant a lease</word>
+				<word number="2">take a lease</word>
+				<word number="3">hold a lease</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold in pledge</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="lend on security" headRef="820">lend on security</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="bonis avibus">
+			<sg number="1">
+				<word number="1">bonis avibus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"gone where the woodbine twineth"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

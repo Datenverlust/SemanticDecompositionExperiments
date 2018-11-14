@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="405" name="Insipidity" origNum="#391." class="3" section="3" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="insipidity">
+			<sg number="1">
+				<word number="1">insipidity</word>
+				<word number="2">blandness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">tastelessness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be tasteless">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be tasteless</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="bland">
+			<sg number="1">
+				<word number="1">bland</word>
+				<word number="2" paraRef="taste" headRef="404">void of taste</word>
+			</sg>
+			<sg number="2">
+				<word number="1">insipid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tasteless</word>
+				<word number="2">gustless</word>
+				<word number="3">savorless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ingustible</word>
+				<word number="2">mawkish</word>
+				<word number="3">milk and water</word>
+				<word number="4">weak</word>
+				<word number="5">stale</word>
+				<word number="6">flat</word>
+				<word number="7">vapid</word>
+				<word number="8">fade</word>
+				<word number="9">wishy-washy</word>
+				<word number="10">mild</word>
+			</sg>
+			<sg number="5">
+				<word number="1">untasted</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

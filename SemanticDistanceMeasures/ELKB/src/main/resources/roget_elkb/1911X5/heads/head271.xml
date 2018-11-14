@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="271" name="Opening" origNum="#260." class="2" section="3" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="hole">
+			<sg number="1">
+				<word number="1">hole</word>
+				<word number="2">foramen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">puncture</word>
+				<word number="2">perforation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fontanel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">transforation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pinhole</word>
+				<word number="2">keyhole</word>
+				<word number="3">loophole</word>
+				<word number="4">porthole</word>
+				<word number="5">peephole</word>
+				<word number="6">mousehole</word>
+				<word number="7">pigeonhole</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eye of a needle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">eyelet</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="opening">
+			<sg number="1">
+				<word number="1">opening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aperture</word>
+				<word number="2">apertness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hiation</word>
+				<word number="2">yawning</word>
+				<word number="3">oscitancy</word>
+				<word number="4">dehiscence</word>
+				<word number="5">patefaction</word>
+				<word number="6">pandiculation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="interval" headRef="207">chasm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="embrasure">
+			<sg number="1">
+				<word number="1">embrasure</word>
+				<word number="2">window</word>
+				<word number="3">casement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abatjour</word>
+			</sg>
+			<sg number="3">
+				<word number="1">light</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sky light</word>
+				<word number="2">fan light</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lattice</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bay window</word>
+				<word number="2">bow window</word>
+			</sg>
+			<sg number="7">
+				<word number="1">oriel</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dormer</word>
+				<word number="2">lantern</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="outlet">
+			<sg number="1">
+				<word number="1">outlet</word>
+				<word number="2">inlet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vent</word>
+				<word number="2">vomitory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">embouchure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">orifice</word>
+				<word number="2">mouth</word>
+				<word number="3">sucker</word>
+				<word number="4">muzzle</word>
+				<word number="5">throat</word>
+				<word number="6">gullet</word>
+				<word number="7">weasand</word>
+				<word number="8">wizen</word>
+				<word number="9">nozzle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">placket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="portal">
+			<sg number="1">
+				<word number="1">portal</word>
+				<word number="2">porch</word>
+				<word number="3">gate</word>
+				<word number="4">ostiary</word>
+				<word number="5">postern</word>
+				<word number="6">wicket</word>
+				<word number="7">trapdoor</word>
+				<word number="8">hatch</word>
+				<word number="9">door</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arcade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cellarway</word>
+				<word number="2">driveway</word>
+				<word number="3">gateway</word>
+				<word number="4">doorway</word>
+				<word number="5">hatchway</word>
+				<word number="6">gangway</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lich gate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="way">
+			<sg number="1">
+				<word number="1">way</word>
+				<word number="2" paraRef="path" headRef="656">path</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thoroughfare</word>
+			</sg>
+			<sg number="3">
+				<word number="1">channel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">passage</word>
+				<word number="2">passageway</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tube</word>
+				<word number="2">pipe</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="water pipe" headRef="361">water pipe</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="air pipe" headRef="362">air pipe</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vessel</word>
+				<word number="2">tubule</word>
+				<word number="3">canal</word>
+				<word number="4">gut</word>
+				<word number="5">fistula</word>
+			</sg>
+			<sg number="9">
+				<word number="1">adjutage</word>
+				<word number="2">ajutage</word>
+			</sg>
+			<sg number="10">
+				<word number="1">ostium</word>
+			</sg>
+			<sg number="11">
+				<word number="1">smokestack</word>
+			</sg>
+			<sg number="12">
+				<word number="1">chimney</word>
+				<word number="2">flue</word>
+				<word number="3">tap</word>
+				<word number="4">funnel</word>
+				<word number="5">gully</word>
+				<word number="6">tunnel</word>
+				<word number="7">main</word>
+			</sg>
+			<sg number="13">
+				<word number="1">mine</word>
+				<word number="2">pit</word>
+				<word number="3">adit</word>
+				<word number="4">shaft</word>
+			</sg>
+			<sg number="14">
+				<word number="1">gallery</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">stacks</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="alley">
+			<sg number="1">
+				<word number="1">alley</word>
+				<word number="2">aisle</word>
+				<word number="3">glade</word>
+				<word number="4">vista</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="bore">
+			<sg number="1">
+				<word number="1">bore</word>
+				<word number="2">caliber</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blind orifice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fulgurite</word>
+				<word number="2">thundertube</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="porousness">
+			<sg number="1">
+				<word number="1">porousness</word>
+				<word number="2">porosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="sieve">
+			<sg number="1">
+				<word number="1">sieve</word>
+				<word number="2">cullender</word>
+				<word number="3">colander</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cribble</word>
+				<word number="2">riddle</word>
+				<word number="3">screen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">honeycomb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="apertion">
+			<sg number="1">
+				<word number="1">apertion</word>
+				<word number="2">perforation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">piercing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">terebration</word>
+				<word number="2">empalement</word>
+				<word number="3">pertusion</word>
+				<word number="4">puncture</word>
+				<word number="5">acupuncture</word>
+				<word number="6">penetration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="key">
+			<sg number="1">
+				<word number="1" paraRef="key" headRef="660">key</word>
+				<word number="2">opener</word>
+				<word number="3">master key</word>
+				<word number="4">password</word>
+				<word number="5">combination</word>
+				<word number="6">passe-partout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="lock">
+			<sg number="1">
+				<word number="1" new="1">lock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="slit">
+			<sg number="1">
+				<word number="1" new="1">slit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="open">
+			<sg number="1">
+				<word number="1">open</word>
+				<word number="2">ope</word>
+				<word number="3">gape</word>
+				<word number="4">yawn</word>
+				<word number="5">bilge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fly open</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="perforate">
+			<sg number="1">
+				<word number="1">perforate</word>
+				<word number="2">pierce</word>
+				<word number="3">empierce</word>
+				<word number="4">tap</word>
+				<word number="5">bore</word>
+				<word number="6">drill</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="scoop out" headRef="262">mine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tunnel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">transpierce</word>
+				<word number="2">transfix</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enfilade</word>
+				<word number="2">impale</word>
+				<word number="3">spike</word>
+				<word number="4">spear</word>
+				<word number="5">gore</word>
+				<word number="6">spit</word>
+				<word number="7">stab</word>
+				<word number="8">pink</word>
+				<word number="9">puncture</word>
+				<word number="10">lance</word>
+				<word number="11">stick</word>
+				<word number="12">prick</word>
+				<word number="13">riddle</word>
+				<word number="14">punch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stave in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cut a passage through">
+			<sg number="1">
+				<word number="1">cut a passage through</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make way for</word>
+				<word number="2">make room for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="uncover">
+			<sg number="1">
+				<word number="1">uncover</word>
+				<word number="2">unclose</word>
+				<word number="3">unrip</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay open</word>
+				<word number="2">cut open</word>
+				<word number="3">rip open</word>
+				<word number="4">throw open</word>
+				<word number="5">pop open</word>
+				<word number="6">blow open</word>
+				<word number="7">pry open</word>
+				<word number="8">tear open</word>
+				<word number="9">pull open</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="open">
+			<sg number="1">
+				<word number="1">open</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">perforated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perforate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wide open</word>
+				<word number="2">ajar</word>
+				<word number="3">unclosed</word>
+				<word number="4">unstopped</word>
+			</sg>
+			<sg number="5">
+				<word number="1">oscitant</word>
+				<word number="2">gaping</word>
+				<word number="3">yawning</word>
+			</sg>
+			<sg number="6">
+				<word number="1">patent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tubular">
+			<sg number="1">
+				<word number="1">tubular</word>
+				<word number="2">cannular</word>
+				<word number="3">fistulous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pervious</word>
+				<word number="2">permeable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">foraminous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vesicular</word>
+				<word number="2">vasicular</word>
+			</sg>
+			<sg number="5">
+				<word number="1">porous</word>
+				<word number="2">follicular</word>
+				<word number="3">cribriform</word>
+				<word number="4">honeycombed</word>
+				<word number="5">infundibular</word>
+				<word number="6">riddled</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tubulous</word>
+				<word number="2">tubulated</word>
+			</sg>
+			<sg number="7">
+				<word number="1">piped</word>
+				<word number="2">tubate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="opening">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">opening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aperient</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="open sesame">
+			<sg number="1">
+				<word number="1">open sesame!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

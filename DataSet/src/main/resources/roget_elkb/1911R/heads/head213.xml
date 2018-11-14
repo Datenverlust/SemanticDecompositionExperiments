@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="213" name="Layer" origNum="#204." class="2" section="2" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="layer">
+			<sg number="1">
+				<word number="1">layer</word>
+				<word number="2">stratum</word>
+				<word number="3">strata</word>
+				<word number="4">course</word>
+				<word number="5">bed</word>
+				<word number="6">zone</word>
+				<word number="7">substratum</word>
+				<word number="8">substrata</word>
+				<word number="9">floor</word>
+				<word number="10">flag</word>
+				<word number="11">stage</word>
+				<word number="12">story</word>
+				<word number="13">tier</word>
+				<word number="14">slab</word>
+				<word number="15">escarpment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">table</word>
+				<word number="2">tablet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dess</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flagstone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">board</word>
+				<word number="2">plank</word>
+			</sg>
+			<sg number="6">
+				<word number="1">trencher</word>
+				<word number="2">platter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plate">
+			<sg number="1">
+				<word number="1">plate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lamina</word>
+				<word number="2">lamella</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sheet</word>
+				<word number="2">foil</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wafer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scale</word>
+				<word number="2">flake</word>
+				<word number="3">peel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">coat</word>
+				<word number="2">pellicle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">membrane</word>
+				<word number="2">film</word>
+			</sg>
+			<sg number="8">
+				<word number="1">leaf</word>
+			</sg>
+			<sg number="9">
+				<word number="1">slice</word>
+				<word number="2">shive</word>
+				<word number="3">cut</word>
+				<word number="4">rasher</word>
+				<word number="5">shaving</word>
+				<word number="6" paraRef="covering" headRef="233">integument</word>
+			</sg>
+			<sg number="10">
+				<word number="1">eschar</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">chokepoint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stratification">
+			<sg number="1">
+				<word number="1">stratification</word>
+				<word number="2">scaliness</word>
+				<word number="3">nest of boxes</word>
+				<word number="4">coats of an onion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="monolayer">
+			<sg number="1">
+				<word number="1">monolayer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bilayer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trilayer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="slice">
+			<sg number="1">
+				<word number="1">slice</word>
+				<word number="2">shave</word>
+				<word number="3">pare</word>
+				<word number="4">peel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delaminate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plate</word>
+				<word number="2">coat</word>
+				<word number="3">veneer</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cover" headRef="233">cover</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lamellar">
+			<sg number="1">
+				<word number="1">lamellar</word>
+				<word number="2">lamellated</word>
+				<word number="3">lamelliform</word>
+				<word number="4">layered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laminated</word>
+				<word number="2">laminiferous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">micaceous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">schistose</word>
+				<word number="2">schistous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scaly</word>
+				<word number="2">filmy</word>
+				<word number="3">membranous</word>
+				<word number="4">pellicular</word>
+				<word number="5">flaky</word>
+				<word number="6">squamous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">foliated</word>
+				<word number="2">foliaceous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stratified</word>
+				<word number="2">stratiform</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tabular</word>
+				<word number="2">discoid</word>
+			</sg>
+			<sg number="9">
+				<word number="1">spathic</word>
+				<word number="2">spathose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trilamellar">
+			<sg number="1">
+				<word number="1">trilamellar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="graphitic">
+			<sg number="1">
+				<word number="1">graphitic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

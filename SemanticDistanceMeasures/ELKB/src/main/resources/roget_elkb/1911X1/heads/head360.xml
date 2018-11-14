@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="360" name="Wind" origNum="#349." class="3" section="2" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="wind">
+			<sg number="1">
+				<word number="1">wind</word>
+				<word number="2">draught</word>
+				<word number="3">flatus</word>
+				<word number="4">afflatus</word>
+				<word number="5">efflation</word>
+				<word number="6">eluvium</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air</word>
+			</sg>
+			<sg number="3">
+				<word number="1">breath</word>
+				<word number="2">breath of air</word>
+			</sg>
+			<sg number="4">
+				<word number="1">puff</word>
+				<word number="2">whiff</word>
+				<word number="3">zephyr</word>
+			</sg>
+			<sg number="5">
+				<word number="1">blow</word>
+				<word number="2">breeze</word>
+				<word number="3">drift</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aura</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stream</word>
+				<word number="2">current</word>
+				<word number="3">jet stream</word>
+			</sg>
+			<sg number="8">
+				<word number="1">undercurrent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gust">
+			<sg number="1">
+				<word number="1">gust</word>
+				<word number="2">blast</word>
+				<word number="3">squall</word>
+				<word number="4">gale</word>
+				<word number="5">half a gale</word>
+				<word number="6">storm</word>
+				<word number="7">tempest</word>
+				<word number="8">hurricane</word>
+				<word number="9">whirlwind</word>
+				<word number="10">tornado</word>
+				<word number="11">samiel</word>
+				<word number="12">cyclone</word>
+				<word number="13">anticyclone</word>
+				<word number="14">typhoon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">simoon</word>
+				<word number="2">simoom</word>
+			</sg>
+			<sg number="3">
+				<word number="1">harmattan</word>
+				<word number="2">monsoon</word>
+				<word number="3">trade wind</word>
+				<word number="4">sirocco</word>
+				<word number="5">mistral</word>
+				<word number="6">bise</word>
+				<word number="7">tramontane</word>
+				<word number="8">levanter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">capful of wind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fresh breeze</word>
+				<word number="2">stiff breeze</word>
+			</sg>
+			<sg number="6">
+				<word number="1">keen blast</word>
+			</sg>
+			<sg number="7">
+				<word number="1">blizzard</word>
+				<word number="2">barber</word>
+				<word number="3">candelia</word>
+				<word number="4">chinook</word>
+				<word number="5">foehn</word>
+				<word number="6">khamsin</word>
+				<word number="7">norther</word>
+				<word number="8">vendaval</word>
+				<word number="9">wuther</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">thunderstorm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="windiness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">windiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ventosity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rough weather</word>
+				<word number="2">dirty weather</word>
+				<word number="3">ugly weather</word>
+				<word number="4">stress of weather</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dirty sky</word>
+				<word number="2">mare's tail</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thick squall</word>
+				<word number="2">black squall</word>
+				<word number="3">white squall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="anemography">
+			<sg number="1">
+				<word number="1">anemography</word>
+				<word number="2">aerodynamics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wind gauge</word>
+				<word number="2">weathercock</word>
+				<word number="3">vane</word>
+				<word number="4">weather-vane</word>
+				<word number="5">wind sock</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anemometer</word>
+				<word number="2">anemoscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sufflation">
+			<sg number="1">
+				<word number="1">sufflation</word>
+				<word number="2">insufflation</word>
+				<word number="3">perflation</word>
+				<word number="4">inflation</word>
+				<word number="5">afflation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blowing</word>
+				<word number="2" paraRef="" posRef="v.">fanning</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ventilation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sneezing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">sneezing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sternutative</word>
+				<word number="2">sternutatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sternutation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hiccup</word>
+				<word number="2">hiccough</word>
+			</sg>
+			<sg number="5">
+				<word number="1">catching of the breath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="Eolus">
+			<sg number="1">
+				<word number="1">Eolus</word>
+				<word number="2">Boreas</word>
+				<word number="3">Zephyr</word>
+				<word number="4">cave of Eolus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="air pump">
+			<sg number="1">
+				<word number="1">air pump</word>
+				<word number="2">air blower</word>
+				<word number="3">lungs</word>
+				<word number="4">bellows</word>
+				<word number="5">blowpipe</word>
+				<word number="6">fan</word>
+				<word number="7">ventilator</word>
+				<word number="8">punkah</word>
+			</sg>
+			<sg number="2">
+				<word number="1">branchiae</word>
+				<word number="2">gills</word>
+				<word number="3">flabellum</word>
+				<word number="4">vertilabrum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="whiffle ball">
+			<sg number="1">
+				<word number="1">whiffle ball</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="blow">
+			<sg number="1">
+				<word number="1">blow</word>
+				<word number="2">waft</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blow hard</word>
+				<word number="2">blow great guns</word>
+				<word number="3" paraRef="" posRef="n.">blow a hurricane</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wuther</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stream</word>
+				<word number="2">issue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="respire">
+			<sg number="1">
+				<word number="1">respire</word>
+				<word number="2">breathe</word>
+				<word number="3">puff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whiff</word>
+				<word number="2">whiffle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gasp</word>
+				<word number="2">wheeze</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snuff</word>
+				<word number="2">snuffle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sniff</word>
+				<word number="2">sniffle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sneeze</word>
+				<word number="2">cough</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fan">
+			<sg number="1">
+				<word number="1">fan</word>
+				<word number="2">ventilate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inflate</word>
+				<word number="2">perflate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blow up</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="blowing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">blowing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">windy</word>
+				<word number="2">flatulent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">breezy</word>
+				<word number="2">gusty</word>
+				<word number="3">squally</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stormy</word>
+				<word number="2">tempestuous</word>
+				<word number="3">blustering</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="violent" headRef="180">boisterous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pulmonic">
+			<sg number="1">
+				<word number="1">pulmonic</word>
+				<word number="2">pulmonary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="lull'd by soft zephyrs">
+			<sg number="1">
+				<word number="1">"lull'd by soft zephyrs"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the storm is up and all is on the hazard"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"the winds were wither'd in the stagnant air"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"while mocking winds  are piping loud"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"winged with red lightning and tempestuous rage"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="684" name="Disease" origNum="#655." class="6" section="2" subSection="2" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disease">
+			<sg number="1">
+				<word number="1">disease</word>
+			</sg>
+			<sg number="2">
+				<word number="1">illness</word>
+				<word number="2" paraRef="" posRef="adj.">sickness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ailing</word>
+				<word number="2">"all the ills that flesh is heir to"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">morbidity</word>
+				<word number="2">morbosity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">infirmity</word>
+				<word number="2">ailment</word>
+				<word number="3">indisposition</word>
+			</sg>
+			<sg number="6">
+				<word number="1">complaint</word>
+				<word number="2">disorder</word>
+				<word number="3">malady</word>
+			</sg>
+			<sg number="7">
+				<word number="1">distemper</word>
+				<word number="2">distemperature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="visitation">
+			<sg number="1">
+				<word number="1">visitation</word>
+				<word number="2">attack</word>
+				<word number="3">seizure</word>
+				<word number="4">stroke</word>
+				<word number="5">fit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="delicacy">
+			<sg number="1">
+				<word number="1">delicacy</word>
+				<word number="2">loss of health</word>
+				<word number="3">invalidation</word>
+				<word number="4">cachexy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cachexia</word>
+				<word number="2">atrophy</word>
+				<word number="3">marasmus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">indigestion</word>
+				<word number="2">dyspepsia</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deterioration" headRef="688">decay</word>
+			</sg>
+			<sg number="5">
+				<word number="1">decline</word>
+				<word number="2">consumption</word>
+				<word number="3">palsy</word>
+				<word number="4">paralysis</word>
+				<word number="5">prostration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="taint">
+			<sg number="1">
+				<word number="1">taint</word>
+				<word number="2">pollution</word>
+				<word number="3">infection</word>
+				<word number="4">sepsis</word>
+				<word number="5">septicity</word>
+				<word number="6">infestation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">epidemic</word>
+				<word number="2">pandemic</word>
+				<word number="3">endemic</word>
+				<word number="4">epizootic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">murrain</word>
+				<word number="2">plague</word>
+				<word number="3">pestilence</word>
+				<word number="4">pox</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sore">
+			<sg number="1">
+				<word number="1">sore</word>
+				<word number="2">ulcer</word>
+				<word number="3">abscess</word>
+				<word number="4">fester</word>
+				<word number="5">boil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pimple</word>
+				<word number="2" paraRef="swelling" headRef="260">wen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">carbuncle</word>
+				<word number="2">gathering</word>
+				<word number="3">imposthume</word>
+				<word number="4">peccant humor</word>
+				<word number="5">issue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rot</word>
+				<word number="2">canker</word>
+				<word number="3">cold sore</word>
+				<word number="4">fever sore</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cancer</word>
+				<word number="2">carcinoma</word>
+				<word number="3">leukemia</word>
+				<word number="4">neoplastic disease</word>
+				<word number="5">malignancy</word>
+				<word number="6">tumor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">caries</word>
+				<word number="2">mortification</word>
+				<word number="3">corruption</word>
+				<word number="4">gangrene</word>
+				<word number="5">sphacelus</word>
+				<word number="6">sphacelation</word>
+				<word number="7">leprosy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">eruption</word>
+				<word number="2">rash</word>
+				<word number="3">breaking out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="fever">
+			<sg number="1">
+				<word number="1">fever</word>
+				<word number="2">temperature</word>
+				<word number="3">calenture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inflammation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="ague">
+			<sg number="1">
+				<word number="1">ague</word>
+				<word number="2">angina pectoris</word>
+				<word number="3">appendicitis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Asiatic cholera</word>
+				<word number="2">spasmodic cholera</word>
+			</sg>
+			<sg number="3">
+				<word number="1">biliary calculus</word>
+				<word number="2">kidney stone</word>
+				<word number="3">black death</word>
+				<word number="4">bubonic plague</word>
+				<word number="5">pneumonic plague</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blennorrhagia</word>
+				<word number="2">blennorrhoea</word>
+			</sg>
+			<sg number="5">
+				<word number="1">blood poisoning</word>
+				<word number="2">bloodstroke</word>
+				<word number="3">bloody flux</word>
+				<word number="4">brash</word>
+			</sg>
+			<sg number="6">
+				<word number="1">breakbone fever</word>
+				<word number="2">dengue fever</word>
+				<word number="3">malarial fever</word>
+				<word number="4">Q-fever</word>
+			</sg>
+			<sg number="7">
+				<word number="1">heart attack</word>
+				<word number="2">cardiac arrest</word>
+				<word number="3">cardiomyopathy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hardening of the arteries</word>
+				<word number="2">arteriosclerosis</word>
+				<word number="3">atherosclerosis</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bronchocele</word>
+				<word number="2">canker rash</word>
+				<word number="3">cardialgia</word>
+				<word number="4">carditis</word>
+				<word number="5">endocarditis</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cholera</word>
+				<word number="2">asphyxia</word>
+			</sg>
+			<sg number="11">
+				<word number="1">chlorosis</word>
+				<word number="2">chorea</word>
+				<word number="3">cynanche</word>
+				<word number="4">dartre</word>
+			</sg>
+			<sg number="12">
+				<word number="1">enanthem</word>
+				<word number="2">enanthema</word>
+			</sg>
+			<sg number="13">
+				<word number="1">erysipelas</word>
+			</sg>
+			<sg number="14">
+				<word number="1">exanthem</word>
+				<word number="2">exanthema</word>
+			</sg>
+			<sg number="15">
+				<word number="1">gallstone</word>
+				<word number="2">goiter</word>
+				<word number="3">gonorrhea</word>
+				<word number="4">green sickness</word>
+			</sg>
+			<sg number="16">
+				<word number="1">grip</word>
+				<word number="2">grippe</word>
+				<word number="3">influenza</word>
+				<word number="4">flu</word>
+			</sg>
+			<sg number="17">
+				<word number="1">hay fever</word>
+				<word number="2">heartburn</word>
+				<word number="3">heaves</word>
+				<word number="4">rupture</word>
+				<word number="5">hernia</word>
+				<word number="6">hemorrhoids</word>
+				<word number="7">piles</word>
+				<word number="8">herpes</word>
+				<word number="9">itch</word>
+				<word number="10">king's evil</word>
+				<word number="11">lockjaw</word>
+			</sg>
+			<sg number="18">
+				<word number="1">measles</word>
+				<word number="2">mumps</word>
+				<word number="3">polio</word>
+			</sg>
+			<sg number="19">
+				<word number="1">necrosis</word>
+				<word number="2">pertussis</word>
+				<word number="3">phthisis</word>
+				<word number="4">pneumonia</word>
+				<word number="5">psora</word>
+				<word number="6">pyaemia</word>
+				<word number="7">pyrosis</word>
+				<word number="8">quinsy</word>
+				<word number="9">rachitis</word>
+				<word number="10">ringworm</word>
+				<word number="11">rubeola</word>
+				<word number="12">St. Vitus's dance</word>
+				<word number="13">scabies</word>
+				<word number="14">scarlatina</word>
+				<word number="15">scarlet fever</word>
+				<word number="16">scrofula</word>
+				<word number="17">seasickness</word>
+				<word number="18">struma</word>
+				<word number="19">syntexis</word>
+				<word number="20">tetanus</word>
+				<word number="21">tetter</word>
+				<word number="22">tonsillitis</word>
+				<word number="23">tonsilitis</word>
+				<word number="24">tracheocele</word>
+				<word number="25">trachoma</word>
+				<word number="26">trismus</word>
+				<word number="27">varicella</word>
+				<word number="28">varicosis</word>
+				<word number="29">variola</word>
+				<word number="30">water qualm</word>
+				<word number="31">whooping cough</word>
+			</sg>
+			<sg number="20">
+				<word number="1">yellow fever</word>
+				<word number="2">yellow jack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="fatal disease">
+			<sg number="1">
+				<word number="1" paraRef="hopeless" headRef="898">fatal disease</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dangerous illness</word>
+				<word number="2">galloping consumption</word>
+				<word number="3">churchyard cough</word>
+			</sg>
+			<sg number="3">
+				<word number="1">general breaking up</word>
+				<word number="2">break up of the system</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="idiocy">
+			<sg number="1">
+				<word number="1" paraRef="idiocy" headRef="523">idiocy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insanity" headRef="527">insanity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="martyr to disease">
+			<sg number="1">
+				<word number="1">martyr to disease</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cripple</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"the halt the lame and the blind"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">valetudinary</word>
+				<word number="2">valetudinarian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">invalid</word>
+				<word number="2">patient</word>
+				<word number="3">case</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sickroom</word>
+				<word number="2">sick- chamber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="pathology">
+			<sg number="1">
+				<word number="1">pathology</word>
+				<word number="2">etiology</word>
+				<word number="3">nosology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="anthrax">
+			<sg number="1">
+				<word number="1">anthrax</word>
+				<word number="2">bighead</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blackleg</word>
+				<word number="2">blackquarter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cattle plague</word>
+				<word number="2">glanders</word>
+				<word number="3">mange</word>
+				<word number="4">scrapie</word>
+				<word number="5">milk sickness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heartworm</word>
+				<word number="2">feline leukemia</word>
+				<word number="3">roundworms</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quarter-evil</word>
+				<word number="2">quarter-ill</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rinderpest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="virus">
+			<sg number="1">
+				<word number="1">virus</word>
+				<word number="2">bacterium</word>
+				<word number="3">bacteria</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="DNA virus">
+			<sg number="1">
+				<word number="1">DNA virus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">RNA virus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="rhinovirus">
+			<sg number="1">
+				<word number="1">rhinovirus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rhabdovirus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">picornavirus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="herpesvirus">
+			<sg number="1">
+				<word number="1">herpesvirus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cytomegalovirus</word>
+				<word number="2">CMV</word>
+			</sg>
+			<sg number="3">
+				<word number="1">human immunodefficiency virus</word>
+				<word number="2">HIV</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be ill">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be ill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ail</word>
+				<word number="2">suffer</word>
+				<word number="3">labor under</word>
+				<word number="4">be affected with</word>
+				<word number="5">complain of</word>
+				<word number="6">have</word>
+			</sg>
+			<sg number="3">
+				<word number="1">droop</word>
+				<word number="2">flag</word>
+				<word number="3">languish</word>
+				<word number="4">halt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sicken</word>
+				<word number="2">peak</word>
+				<word number="3">pine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gasp</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep one's bed">
+			<sg number="1">
+				<word number="1">keep one's bed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="falsehood" headRef="570">feign sickness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lay by">
+			<sg number="1">
+				<word number="1">lay by</word>
+				<word number="2">lay up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take a disease</word>
+				<word number="2" paraRef="" posRef="n.">catch a disease</word>
+				<word number="3">catch an infection</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break out</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="diseased">
+			<sg number="1">
+				<word number="1">diseased</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">ailing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill</word>
+				<word number="2">ill of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">taken ill</word>
+				<word number="2">seized with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indisposed</word>
+				<word number="2">unwell</word>
+				<word number="3">sick</word>
+				<word number="4">squeamish</word>
+				<word number="5">poorly</word>
+				<word number="6">seedy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">affected with illness</word>
+				<word number="2">afflicted with illness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">laid up</word>
+				<word number="2">confined</word>
+				<word number="3">bedridden</word>
+				<word number="4">invalided</word>
+				<word number="5">in hospital</word>
+				<word number="6">on the sick list</word>
+			</sg>
+			<sg number="8">
+				<word number="1">out of health</word>
+				<word number="2">out of sorts</word>
+			</sg>
+			<sg number="9">
+				<word number="1">under the weather</word>
+			</sg>
+			<sg number="10">
+				<word number="1">valetudinary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unsound">
+			<sg number="1">
+				<word number="1">unsound</word>
+				<word number="2">unhealthy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sickly</word>
+				<word number="2">morbid</word>
+				<word number="3">morbose</word>
+				<word number="4">healthless</word>
+				<word number="5">infirm</word>
+				<word number="6">chlorotic</word>
+				<word number="7">unbraced</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drooping">
+			<sg number="1">
+				<word number="1">drooping</word>
+				<word number="2">flagging</word>
+				<word number="3">lame</word>
+				<word number="4">crippled</word>
+				<word number="5">halting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="morbid">
+			<sg number="1">
+				<word number="1">morbid</word>
+				<word number="2">tainted</word>
+				<word number="3">vitiated</word>
+				<word number="4">peccant</word>
+				<word number="5">contaminated</word>
+				<word number="6">poisoned</word>
+				<word number="7">tabid</word>
+				<word number="8">mangy</word>
+				<word number="9">leprous</word>
+				<word number="10">cankered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rotten</word>
+				<word number="2">rotten to the core</word>
+				<word number="3">rotten at the core</word>
+			</sg>
+			<sg number="3">
+				<word number="1">withered</word>
+				<word number="2">palsied</word>
+				<word number="3">paralytic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dyspeptic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">luetic</word>
+				<word number="2">pneumonic</word>
+				<word number="3">pulmonic</word>
+				<word number="4">phthisic</word>
+				<word number="5">rachitic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">syntectic</word>
+				<word number="2">syntectical</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tabetic</word>
+				<word number="2">varicose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="touched in the wind">
+			<sg number="1">
+				<word number="1">touched in the wind</word>
+				<word number="2">broken-winded</word>
+				<word number="3">spavined</word>
+				<word number="4">gasping</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="useless" headRef="674">hors de combat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="weakly">
+			<sg number="1">
+				<word number="1">weakly</word>
+				<word number="2" paraRef="weak" headRef="167">weakened</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decrepit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deteriorated" headRef="688">decayed</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hopeless" headRef="898">incurable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in declining health</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cranky</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in a bad way</word>
+				<word number="2">in danger</word>
+				<word number="3">prostrate</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="death" headRef="372">moribund</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="morbific">
+			<sg number="1">
+				<word number="1" paraRef="morbific" headRef="686">morbific</word>
+			</sg>
+			<sg number="2">
+				<word number="1">epidemic</word>
+				<word number="2">endemic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">zymotic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

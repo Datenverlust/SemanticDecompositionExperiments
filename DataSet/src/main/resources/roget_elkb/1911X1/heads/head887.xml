@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="887" name="Blemish" origNum="#848." class="8" section="2" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="blemish">
+			<sg number="1">
+				<word number="1">blemish</word>
+				<word number="2">disfigurement</word>
+				<word number="3">deformity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adactylism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flaw</word>
+				<word number="2" paraRef="imperfection" headRef="680">defect</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deterioration" headRef="688">injury</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spots on the sun!</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eyesore</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stain">
+			<sg number="1">
+				<word number="1">stain</word>
+				<word number="2">blot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spot</word>
+				<word number="2">spottiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">speck</word>
+				<word number="2">speckle</word>
+				<word number="3">blur</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tarnish">
+			<sg number="1">
+				<word number="1">tarnish</word>
+				<word number="2">smudge</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dirt" headRef="682">dirt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="freckle">
+			<sg number="1">
+				<word number="1">freckle</word>
+				<word number="2">mole</word>
+				<word number="3">macula</word>
+				<word number="4">patch</word>
+				<word number="5">blotch</word>
+				<word number="6">birthmark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blobber lip</word>
+				<word number="2">blubber lip</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blain</word>
+				<word number="2">maculation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scar</word>
+				<word number="2">wem</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pustule</word>
+			</sg>
+			<sg number="6">
+				<word number="1">whelk</word>
+			</sg>
+			<sg number="7">
+				<word number="1">excrescence</word>
+				<word number="2" paraRef="protuberance" headRef="260">pimple</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disfigure">
+			<sg number="1">
+				<word number="1" paraRef="injure" headRef="688">disfigure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speckle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pitted">
+			<sg number="1">
+				<word number="1">pitted</word>
+				<word number="2">freckled</word>
+				<word number="3">discolored</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imperfect" headRef="680">imperfect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blobber-lipped</word>
+				<word number="2">bloodshot</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deteriorated" headRef="688">injured</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

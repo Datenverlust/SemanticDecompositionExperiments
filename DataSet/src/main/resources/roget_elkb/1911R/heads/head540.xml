@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="540" name="Imagination" origNum="#515." class="4" section="7" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="imagination">
+			<sg number="1">
+				<word number="1">imagination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">originality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">invention</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fancy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inspiration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">verve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="warm imagination">
+			<sg number="1">
+				<word number="1">warm imagination</word>
+				<word number="2">heated imagination</word>
+				<word number="3">excited imagination</word>
+				<word number="4">sanguine imagination</word>
+				<word number="5">ardent imagination</word>
+				<word number="6">fiery imagination</word>
+				<word number="7">boiling imagination</word>
+				<word number="8">wild imagination</word>
+				<word number="9">bold imagination</word>
+				<word number="10">daring imagination</word>
+				<word number="11">playful imagination</word>
+				<word number="12">lively imagination</word>
+				<word number="13">fertile imagination</word>
+				<word number="14">fancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mind's eye">
+			<sg number="1">
+				<word number="1">"mind's eye"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"such stuff as dreams are made of"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ideality">
+			<sg number="1">
+				<word number="1">ideality</word>
+				<word number="2">idealism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">romanticism</word>
+				<word number="2">utopianism</word>
+				<word number="3">castle-building</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dreaming">
+			<sg number="1">
+				<word number="1">dreaming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">phrensy</word>
+				<word number="2">frenzy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ecstasy</word>
+				<word number="2">extasy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="delirium" headRef="527">calenture</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reverie</word>
+				<word number="2">trance</word>
+			</sg>
+			<sg number="6">
+				<word number="1">day dream</word>
+				<word number="2">golden dream</word>
+			</sg>
+			<sg number="7">
+				<word number="1">somnambulism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="conception">
+			<sg number="1">
+				<word number="1">conception</word>
+				<word number="2">Vorstellung</word>
+				<word number="3">excogitation</word>
+				<word number="4">"a fine frenzy"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cloudland</word>
+				<word number="2">dreamland</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flight of fancy</word>
+				<word number="2">fumes of fancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"thick coming fancies"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">creation of the brain</word>
+				<word number="2">coinage of the brain</word>
+			</sg>
+			<sg number="6">
+				<word number="1">imagery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="conceit">
+			<sg number="1">
+				<word number="1">conceit</word>
+				<word number="2">maggot</word>
+				<word number="3">figment</word>
+				<word number="4">myth</word>
+				<word number="5">dream</word>
+				<word number="6">vision</word>
+				<word number="7">shadow</word>
+				<word number="8">chimera</word>
+			</sg>
+			<sg number="2">
+				<word number="1">phantasm</word>
+				<word number="2">phantasy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fantasy</word>
+				<word number="2">fancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">whim</word>
+				<word number="2">whimsey</word>
+				<word number="3">whimsy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vagary</word>
+				<word number="2">rhapsody</word>
+				<word number="3">romance</word>
+				<word number="4">gest</word>
+				<word number="5">geste</word>
+				<word number="6">extravaganza</word>
+			</sg>
+			<sg number="6">
+				<word number="1">air drawn dagger</word>
+				<word number="2">bugbear</word>
+				<word number="3">nightmare</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="flying Dutchman">
+			<sg number="1">
+				<word number="1">flying Dutchman</word>
+				<word number="2">great sea serpent</word>
+				<word number="3">man in the moon</word>
+				<word number="4">castle in the air</word>
+				<word number="5">pipe dream</word>
+				<word number="6">pie-in-the-sky</word>
+				<word number="7">chateau en Espagne</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Utopia</word>
+				<word number="2">Atlantis</word>
+				<word number="3">happy valley</word>
+				<word number="4">millennium</word>
+				<word number="5">fairyland</word>
+			</sg>
+			<sg number="3">
+				<word number="1">land of Prester John</word>
+				<word number="2">kingdom of Micomicon</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="novel" headRef="620">work of fiction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Arabian nights</word>
+			</sg>
+			<sg number="6">
+				<word number="1">le pot au lait</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="hope" headRef="897">dream of Alnashar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="illusion">
+			<sg number="1">
+				<word number="1" paraRef="error" headRef="519">illusion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fallacies of vision" headRef="462">phantom</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ignis fatuus" headRef="441">Fata Morgana</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cloud" headRef="364">vapor</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exaggeration" headRef="575">stretch of the imagination</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mythogenesis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="idealist">
+			<sg number="1">
+				<word number="1">idealist</word>
+				<word number="2">romanticist</word>
+				<word number="3">visionary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mopus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">romancer</word>
+				<word number="2">dreamer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">somnambulist</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fanatic" headRef="528">rhapsodist</word>
+			</sg>
+			<sg number="6">
+				<word number="1">castle-buildier</word>
+				<word number="2">fanciful projector</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="imagine">
+			<sg number="1">
+				<word number="1">imagine</word>
+				<word number="2">fancy</word>
+				<word number="3">conceive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">idealize</word>
+				<word number="2">realize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dream</word>
+				<word number="2">dream of</word>
+				<word number="3">dream up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"give to airy nothing a local habitation and a name"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="create">
+			<sg number="1">
+				<word number="1">create</word>
+				<word number="2">originate</word>
+				<word number="3">devise</word>
+				<word number="4">invent</word>
+				<word number="5">coin</word>
+				<word number="6">fabricate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">improvise</word>
+				<word number="2">strike out something new</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="set one's wits to work">
+			<sg number="1">
+				<word number="1">set one's wits to work</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strain one's invention</word>
+				<word number="2">crack one's invention</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rack one's brains</word>
+				<word number="2">ransack one's brains</word>
+				<word number="3">cudgel one's brains</word>
+			</sg>
+			<sg number="4">
+				<word number="1">excogitate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">brainstorm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="give play">
+			<sg number="1">
+				<word number="1">give play</word>
+				<word number="2">give the reins</word>
+				<word number="3">give a loose to the imagination</word>
+				<word number="4">give fancy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indulge in reverie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="visualize">
+			<sg number="1">
+				<word number="1">visualize</word>
+				<word number="2">envision</word>
+				<word number="3">conjure up a vision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fancy oneself</word>
+				<word number="2">represent oneself</word>
+				<word number="3">picture</word>
+				<word number="4">picture-oneself</word>
+				<word number="5">figure to oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vorstellen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="float in the mind">
+			<sg number="1">
+				<word number="1">float in the mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="thought" headRef="471">suggest itself</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="imagined">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">imagined</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ben trovato</word>
+			</sg>
+			<sg number="3">
+				<word number="1">air drawn</word>
+				<word number="2">airbuilt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="imagining">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">imagining</word>
+				<word number="2">imaginative</word>
+			</sg>
+			<sg number="2">
+				<word number="1">original</word>
+				<word number="2">inventive</word>
+				<word number="3">creative</word>
+				<word number="4">fertile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="romantic">
+			<sg number="1">
+				<word number="1">romantic</word>
+				<word number="2">high flown</word>
+				<word number="3">flighty</word>
+				<word number="4">extravagant</word>
+				<word number="5">fanatic</word>
+				<word number="6">enthusiastic</word>
+				<word number="7">unrealistic</word>
+				<word number="8">Utopian</word>
+				<word number="9">Quixotic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ideal">
+			<sg number="1">
+				<word number="1">ideal</word>
+				<word number="2">unreal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the clouds</word>
+				<word number="2">in nubibus</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unsubstantial" headRef="4">unsubstantial</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="fallacious" headRef="519">illusory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fabulous">
+			<sg number="1">
+				<word number="1">fabulous</word>
+				<word number="2">legendary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mythical</word>
+				<word number="2">mythic</word>
+				<word number="3">mythological</word>
+				<word number="4" new="1">fewest</word>
+				<word number="5" new="1">interethnic</word>
+				<word number="6" new="1">powerlifting</word>
+				<word number="7" new="1">sialic</word>
+				<word number="8" new="1">fourth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chimerical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imaginary</word>
+				<word number="2">visionary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">notional</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fancy</word>
+				<word number="2">fanciful</word>
+				<word number="3">fantastic</word>
+				<word number="4">fantastical</word>
+				<word number="5" new="1">slum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">whimsical</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fairy</word>
+				<word number="2">fairy-like</word>
+			</sg>
+			<sg number="9">
+				<word number="1">gestic</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">infant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a change came o'er the spirit of my dream">
+			<sg number="1">
+				<word number="1">"a change came o'er the spirit of my dream"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aegri somnia vana</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dolphinum appingit sylvis in fluctibus aprum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"fancy light from fancy caught"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"imagination rules the world"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">l'imagination gallope</word>
+				<word number="2">le jugement ne va que le pas</word>
+			</sg>
+			<sg number="7">
+				<word number="1">musaeo contingens cuncta lepore</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tous songes sont mensonges</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Wahrheil und Dichtung</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

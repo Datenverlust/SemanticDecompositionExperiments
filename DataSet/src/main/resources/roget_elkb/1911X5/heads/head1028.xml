@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1028" name="Heterodoxy" origNum="#984." class="8" section="5" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="heterodoxy">
+			<sg number="1">
+				<word number="1">heterodoxy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="error" headRef="519">error</word>
+			</sg>
+			<sg number="3">
+				<word number="1">false doctrine</word>
+				<word number="2">heresy</word>
+				<word number="3">schism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">schismaticism</word>
+				<word number="2">schismaticalness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">recusancy</word>
+				<word number="2">backsliding</word>
+				<word number="3">apostasy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="irreligion" headRef="1033">atheism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bigotry">
+			<sg number="1">
+				<word number="1" paraRef="obstinacy" headRef="633">bigotry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fanaticism</word>
+				<word number="2">iconoclasm</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hyperorthodoxy</word>
+				<word number="2">precisianism</word>
+				<word number="3">bibliolatry</word>
+				<word number="4">sabbatarianism</word>
+				<word number="5">puritanism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anthropomorphism</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="idolatry" headRef="1035">idolatry</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="credulity" headRef="510">superstition</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="dissent" headRef="513">dissent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sectarism">
+			<sg number="1">
+				<word number="1">sectarism</word>
+				<word number="2">sectarianism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">noncomformity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">secularism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">syncretism</word>
+				<word number="2">religious sects</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="protestantism">
+			<sg number="1">
+				<word number="1">protestantism</word>
+				<word number="2">Arianism</word>
+				<word number="3">Adventism</word>
+				<word number="4">Jansenism</word>
+				<word number="5">Stundism</word>
+				<word number="6">Erastianism</word>
+				<word number="7">Calvinism</word>
+				<word number="8">quakerism</word>
+				<word number="9">methodism</word>
+				<word number="10">anabaptism</word>
+				<word number="11">Puseyism</word>
+				<word number="12">tractarianism</word>
+				<word number="13">ritualism</word>
+				<word number="14">Origenism</word>
+				<word number="15">Sabellianism</word>
+				<word number="16">Socinianism</word>
+				<word number="17">Deism</word>
+				<word number="18">Theism</word>
+				<word number="19">materialism</word>
+				<word number="20">positivism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="High Church">
+			<sg number="1">
+				<word number="1">High Church</word>
+				<word number="2">Low Church</word>
+				<word number="3">Broad Church</word>
+				<word number="4">Free Church</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ultramontanism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">papism</word>
+				<word number="2">papistry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">monkery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">papacy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Anglicanism</word>
+				<word number="2">Catholicism</word>
+				<word number="3">Romanism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">popery</word>
+				<word number="2">Scarlet Lady</word>
+				<word number="3">Church of Rome</word>
+				<word number="4">Greek Church</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="paganism">
+			<sg number="1">
+				<word number="1">paganism</word>
+				<word number="2">heathenism</word>
+				<word number="3">ethicism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mythology</word>
+			</sg>
+			<sg number="3">
+				<word number="1">polytheism</word>
+				<word number="2">ditheism</word>
+				<word number="3">tritheism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dualism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heathendom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="Judaism">
+			<sg number="1">
+				<word number="1">Judaism</word>
+				<word number="2">Gentilism</word>
+				<word number="3">Islamism</word>
+				<word number="4">Islam</word>
+				<word number="5">Mohammedanism</word>
+				<word number="6">Babism</word>
+				<word number="7">Sufiism</word>
+				<word number="8">Neoplatonism</word>
+				<word number="9">Turcism</word>
+				<word number="10">Brahminism</word>
+				<word number="11">Hinduism</word>
+				<word number="12">Buddhism</word>
+				<word number="13">Sabianism</word>
+				<word number="14">Gnosticism</word>
+				<word number="15">Hylotheism</word>
+				<word number="16">Mormonism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Christian Science</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="heretic">
+			<sg number="1">
+				<word number="1">heretic</word>
+				<word number="2">apostate</word>
+				<word number="3">antichrist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pagan</word>
+				<word number="2">heathen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">painim</word>
+				<word number="2">paynim</word>
+			</sg>
+			<sg number="4">
+				<word number="1">giaour</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gentile</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pantheist</word>
+				<word number="2">polytheist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">idolator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="schismatic">
+			<sg number="1">
+				<word number="1">schismatic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sectary</word>
+				<word number="2">sectarian</word>
+				<word number="3">sectarist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seceder</word>
+				<word number="2">separatist</word>
+				<word number="3">recusant</word>
+				<word number="4">dissenter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nonconformist</word>
+				<word number="2">nonjuror</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="bigot">
+			<sg number="1">
+				<word number="1" paraRef="obstinacy" headRef="633">bigot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fanatic</word>
+				<word number="2">abdal</word>
+				<word number="3">iconoclast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="latitudinarian">
+			<sg number="1">
+				<word number="1">latitudinarian</word>
+				<word number="2">Deist</word>
+				<word number="3">Theist</word>
+				<word number="4">Unitarian</word>
+			</sg>
+			<sg number="2">
+				<word number="1">positivist</word>
+				<word number="2">materialist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Homoiousian</word>
+				<word number="2">Homoousian</word>
+				<word number="3">limitarian</word>
+				<word number="4">theosophist</word>
+				<word number="5">ubiquitarian</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="skeptic" headRef="1033">skeptic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="Protestant">
+			<sg number="1">
+				<word number="1">Protestant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Huguenot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">orthodox dissenter</word>
+				<word number="2">Congregationalist</word>
+				<word number="3">Independent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Episcopalian</word>
+				<word number="2">Presbyterian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Lutheran</word>
+				<word number="2">Calvinist</word>
+				<word number="3">Methodist</word>
+				<word number="4">Wesleyan</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Ana</word>
+				<word number="2">Baptist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Mormon</word>
+				<word number="2">Latter-day Saint</word>
+				<word number="3">Irvingite</word>
+				<word number="4">Sandemanian</word>
+				<word number="5">Glassite</word>
+				<word number="6">Erastian</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Sublapsarian</word>
+				<word number="2">Supralapsarian</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Gentoo</word>
+				<word number="2">Antinomian</word>
+				<word number="3">Swedenborgian</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Adventist</word>
+				<word number="2">Bible Christian</word>
+				<word number="3">Bryanite</word>
+				<word number="4">Brownian</word>
+				<word number="5">Christian Scientist</word>
+				<word number="6">Dunker</word>
+				<word number="7">Ebionite</word>
+				<word number="8">Eusebian</word>
+			</sg>
+			<sg number="11">
+				<word number="1">Faith Curer</word>
+				<word number="2">Curist</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Familist</word>
+				<word number="2">Jovinianist</word>
+				<word number="3">Libadist</word>
+				<word number="4">Quaker</word>
+				<word number="5">Restitutionist</word>
+				<word number="6">Shaker</word>
+				<word number="7">Stundist</word>
+			</sg>
+			<sg number="13">
+				<word number="1">ultramontane</word>
+			</sg>
+			<sg number="14">
+				<word number="1">Anglican</word>
+				<word number="2">Oxford School</word>
+			</sg>
+			<sg number="15">
+				<word number="1">tractarian</word>
+				<word number="2">Puseyite</word>
+				<word number="3">ritualist</word>
+			</sg>
+			<sg number="16">
+				<word number="1">Puritan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="Catholic">
+			<sg number="1">
+				<word number="1">Catholic</word>
+				<word number="2">Roman</word>
+				<word number="3">Catholic</word>
+				<word number="4">Romanist</word>
+				<word number="5">papist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="Jew">
+			<sg number="1">
+				<word number="1">Jew</word>
+				<word number="2">Hebrew</word>
+				<word number="3">Rabbinist</word>
+				<word number="4">Rabbist</word>
+				<word number="5">Sadducee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Babist</word>
+				<word number="2">Motazilite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Mohammedan</word>
+				<word number="2">Mussulman</word>
+				<word number="3">Moslem</word>
+				<word number="4">Shiah</word>
+				<word number="5">Sunni</word>
+				<word number="6">Wahabi</word>
+				<word number="7">Osmanli</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="Brahmin">
+			<sg number="1">
+				<word number="1">Brahmin</word>
+				<word number="2">Brahman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Parsee</word>
+				<word number="2">Sufi</word>
+				<word number="3">Buddhist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Magi</word>
+				<word number="2">Gymnosophist</word>
+				<word number="3">fire worshiper</word>
+				<word number="4">Sabian</word>
+				<word number="5">Gnostic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="witchcraft">
+			<sg number="1">
+				<word number="1" new="1">witchcraft</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="heterodox">
+			<sg number="1">
+				<word number="1">heterodox</word>
+				<word number="2">heretical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unorthodox</word>
+				<word number="2">unscriptural</word>
+				<word number="3">uncanonical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antiscriptural</word>
+				<word number="2">apocryphal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unchristian</word>
+				<word number="2">antichristian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">schismatic</word>
+				<word number="2">recusant</word>
+				<word number="3">iconoclastic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sectarian</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dissenting</word>
+				<word number="2">dissident</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="lay" headRef="1041">secular</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">impious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pagan">
+			<sg number="1">
+				<word number="1">pagan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heathen</word>
+				<word number="2">heathenish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ethnic</word>
+				<word number="2">ethnical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gentile</word>
+				<word number="2">paynim</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pantheistic</word>
+				<word number="2">polytheistic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Judaical">
+			<sg number="1">
+				<word number="1">Judaical</word>
+				<word number="2">Mohammedan</word>
+				<word number="3">Brahminical</word>
+				<word number="4" paraRef="" posRef="n.">Buddhist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Romish</word>
+				<word number="2" paraRef="" posRef="n.">Protestant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bigoted">
+			<sg number="1">
+				<word number="1" paraRef="prejudiced" headRef="505">bigoted</word>
+				<word number="2" paraRef="obstinate" headRef="633">obstinate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="credulous" headRef="510">superstitious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fanatical</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="idolatrous" headRef="1035">idolatrous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="imaginative" headRef="540">visionary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="slave to no sect">
+			<sg number="1">
+				<word number="1">"slave to no sect"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">superstitione tollenda religio non tollitur</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

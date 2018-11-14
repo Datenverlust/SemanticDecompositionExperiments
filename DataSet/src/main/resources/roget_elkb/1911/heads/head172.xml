@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="172" name="Destroyer" origNum="#165." class="1" section="8" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="destroyer">
+			<sg number="1">
+				<word number="1" paraRef="destroy" headRef="169">destroyer</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bane" headRef="692">cankerworm</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="killer" headRef="373">assassin</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="punish" headRef="1015">executioner</word>
+			</sg>
+			<sg number="5">
+				<word number="1">biblioclast</word>
+				<word number="2">eidoloclast</word>
+				<word number="3">iconoclast</word>
+				<word number="4">idoloclast</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nihilist</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

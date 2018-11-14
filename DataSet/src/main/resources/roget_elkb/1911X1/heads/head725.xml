@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="725" name="Council" origNum="#696." class="6" section="3" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="council">
+			<sg number="1">
+				<word number="1">council</word>
+				<word number="2">committee</word>
+				<word number="3">subcommittee</word>
+				<word number="4">comitia</word>
+				<word number="5">court</word>
+				<word number="6">chamber</word>
+				<word number="7">cabinet</word>
+				<word number="8">board</word>
+				<word number="9">bench</word>
+				<word number="10">staff</word>
+				<word number="11" new="1">commission</word>
+				<word number="12" new="1">tribunal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="senate">
+			<sg number="1">
+				<word number="1">senate</word>
+				<word number="2">senatus</word>
+				<word number="3">parliament</word>
+				<word number="4">chamber of deputies</word>
+				<word number="5">directory</word>
+				<word number="6">reichsrath</word>
+				<word number="7">rigsdag</word>
+				<word number="8">cortes</word>
+				<word number="9">storthing</word>
+				<word number="10">witenagemote</word>
+				<word number="11">junta</word>
+				<word number="12">divan</word>
+				<word number="13">musnud</word>
+				<word number="14">sanhedrim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">classis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Amphictyonic council</word>
+			</sg>
+			<sg number="4">
+				<word number="1">duma</word>
+				<word number="2">house of representatives</word>
+			</sg>
+			<sg number="5">
+				<word number="1">legislative assembly</word>
+				<word number="2">legislative council</word>
+			</sg>
+			<sg number="6">
+				<word number="1">riksdag</word>
+				<word number="2">volksraad</word>
+				<word number="3">witan</word>
+				<word number="4">caput</word>
+				<word number="5">consistory</word>
+				<word number="6">chapter</word>
+				<word number="7">syndicate</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="tribunal" headRef="1009">court of appeal</word>
+			</sg>
+			<sg number="8">
+				<word number="1">board of control</word>
+				<word number="2">board of works</word>
+			</sg>
+			<sg number="9">
+				<word number="1">vestry</word>
+			</sg>
+			<sg number="10">
+				<word number="1">county council</word>
+				<word number="2">local board</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="audience chamber">
+			<sg number="1">
+				<word number="1">audience chamber</word>
+				<word number="2">council chamber</word>
+				<word number="3">state chamber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cabinet council">
+			<sg number="1">
+				<word number="1">cabinet council</word>
+				<word number="2">privy council</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cockpit</word>
+				<word number="2">convocation</word>
+				<word number="3">synod</word>
+				<word number="4">congress</word>
+				<word number="5">convention</word>
+				<word number="6">diet</word>
+				<word number="7">states-general</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="assembly">
+			<sg number="1">
+				<word number="1">assembly</word>
+				<word number="2">caucus</word>
+				<word number="3">conclave</word>
+				<word number="4">clique</word>
+				<word number="5">conventicle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">meeting</word>
+				<word number="2">sitting</word>
+				<word number="3">seance</word>
+				<word number="4">conference</word>
+				<word number="5">convention</word>
+				<word number="6">exhibition</word>
+				<word number="7">session</word>
+				<word number="8">palaver</word>
+				<word number="9">pourparler</word>
+				<word number="10">durbar</word>
+				<word number="11">house</word>
+				<word number="12" new="1">seminar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quorum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">council fire</word>
+				<word number="2">powwow</word>
+				<word number="3">primary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="meeting">
+			<sg number="1">
+				<word number="1">meeting</word>
+				<word number="2" paraRef="assemblage" headRef="76">assemblage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="member">
+			<sg number="1">
+				<word number="1">member</word>
+			</sg>
+			<sg number="2">
+				<word number="1">senator</word>
+			</sg>
+			<sg number="3">
+				<word number="1">member of parliament</word>
+				<word number="2">M.P</word>
+			</sg>
+			<sg number="4">
+				<word number="1">councilor</word>
+				<word number="2">representative of the people</word>
+			</sg>
+			<sg number="5">
+				<word number="1">assemblyman</word>
+				<word number="2">congressman</word>
+			</sg>
+			<sg number="6">
+				<word number="1">councilman</word>
+				<word number="2">councilwoman</word>
+				<word number="3">alderman</word>
+				<word number="4">freeholder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="forum">
+			<sg number="1">
+				<word number="1" new="1">forum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="legislature">
+			<sg number="1">
+				<word number="1" new="1">legislature</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="assemble">
+			<sg number="1">
+				<word number="1">assemble</word>
+				<word number="2">gather together</word>
+				<word number="3" paraRef="assemblage" headRef="76">meet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confer</word>
+				<word number="2">caucus</word>
+				<word number="3">hold council</word>
+			</sg>
+			<sg number="3">
+				<word number="1">huddle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="senatorial">
+			<sg number="1">
+				<word number="1">senatorial</word>
+				<word number="2">curule</word>
+			</sg>
+			<sg number="2">
+				<word number="1">congressional</word>
+				<word number="2">parliamentary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">legislative</word>
+				<word number="2">law-making</word>
+			</sg>
+			<sg number="4">
+				<word number="1">regulatory</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deliberative</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">gubernatorial</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

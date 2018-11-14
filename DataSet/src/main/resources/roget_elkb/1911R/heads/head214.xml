@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="214" name="Filament" origNum="#205." class="2" section="2" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="filament">
+			<sg number="1">
+				<word number="1">filament</word>
+				<word number="2">line</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fiber</word>
+				<word number="2">fibril</word>
+			</sg>
+			<sg number="3">
+				<word number="1">funicle</word>
+				<word number="2">vein</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hair</word>
+				<word number="2">capillament</word>
+				<word number="3">cilium</word>
+				<word number="4">cilia</word>
+				<word number="5">pilus</word>
+				<word number="6">pili</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tendril</word>
+				<word number="2">gossamer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hair stroke</word>
+			</sg>
+			<sg number="7">
+				<word number="1">veinlet</word>
+				<word number="2">venula</word>
+				<word number="3">venule</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wire">
+			<sg number="1">
+				<word number="1">wire</word>
+				<word number="2">string</word>
+				<word number="3">thread</word>
+				<word number="4">packthread</word>
+				<word number="5">cotton</word>
+				<word number="6">sewing silk</word>
+				<word number="7">twine</word>
+				<word number="8">twist</word>
+				<word number="9">whipcord</word>
+				<word number="10">tape</word>
+				<word number="11">ribbon</word>
+				<word number="12">cord</word>
+				<word number="13">rope</word>
+				<word number="14">yarn</word>
+				<word number="15">hemp</word>
+				<word number="16">oakum</word>
+				<word number="17">jute</word>
+				<word number="18" new="1">electrum</word>
+				<word number="19" new="1">showjumping</word>
+				<word number="20" new="1">prodigal</word>
+				<word number="21" new="1">hortensia</word>
+				<word number="22" new="1">studentteacher</word>
+				<word number="23" new="1">blend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="strip">
+			<sg number="1">
+				<word number="1">strip</word>
+				<word number="2">shred</word>
+				<word number="3">slip</word>
+				<word number="4">spill</word>
+				<word number="5">list</word>
+				<word number="6">band</word>
+				<word number="7">fillet</word>
+				<word number="8">fascia</word>
+				<word number="9">ribbon</word>
+				<word number="10">riband</word>
+				<word number="11">roll</word>
+				<word number="12">lath</word>
+				<word number="13">splinter</word>
+				<word number="14">shiver</word>
+				<word number="15">shaving</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="beard">
+			<sg number="1">
+				<word number="1" paraRef="roughness" headRef="267">beard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ramification</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="filamentous">
+			<sg number="1">
+				<word number="1">filamentous</word>
+				<word number="2">filamentiferous</word>
+				<word number="3">filaceous</word>
+				<word number="4">filiform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fibrous</word>
+				<word number="2">fibrillous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thread-like</word>
+				<word number="2">wiry</word>
+				<word number="3">stringy</word>
+				<word number="4">ropy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">capillary</word>
+				<word number="2">capilliform</word>
+			</sg>
+			<sg number="5">
+				<word number="1">funicular</word>
+				<word number="2">wire-drawn</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anguilliform</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flagelliform</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="rough" headRef="267">hairy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">taeniate</word>
+				<word number="2">taeniform</word>
+				<word number="3">taenioid</word>
+			</sg>
+			<sg number="10">
+				<word number="1">venose</word>
+				<word number="2">venous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

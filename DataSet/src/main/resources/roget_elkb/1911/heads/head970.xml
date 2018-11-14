@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="970" name="Respect" origNum="#928." class="8" section="4" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="respect">
+			<sg number="1">
+				<word number="1">respect</word>
+				<word number="2">regard</word>
+				<word number="3">consideration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="courtesy" headRef="933">courtesy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">attention</word>
+				<word number="2">deference</word>
+				<word number="3">reverence</word>
+				<word number="4">honor</word>
+				<word number="5">esteem</word>
+				<word number="6">estimation</word>
+				<word number="7">veneration</word>
+				<word number="8">admiration</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="approbation" headRef="973">approbation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="homage">
+			<sg number="1">
+				<word number="1">homage</word>
+				<word number="2">fealty</word>
+				<word number="3">obeisance</word>
+				<word number="4">genuflection</word>
+				<word number="5">kneeling prostration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="obsequiousness" headRef="925">obsequiousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">salaam</word>
+				<word number="2">kowtow</word>
+				<word number="3">bow</word>
+				<word number="4">presenting arms</word>
+				<word number="5">salute</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="respects">
+			<sg number="1">
+				<word number="1">respects</word>
+				<word number="2">regards</word>
+				<word number="3">duty</word>
+				<word number="4">devoirs</word>
+				<word number="5">egards</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="devotion">
+			<sg number="1">
+				<word number="1" paraRef="piety" headRef="1031">devotion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="respect">
+			<sg number="1">
+				<word number="1">respect</word>
+				<word number="2">regard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">revere</word>
+				<word number="2">reverence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold in reverence</word>
+				<word number="2">honor</word>
+				<word number="3">venerate</word>
+				<word number="4">hallow</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="approve" headRef="973">esteem</word>
+			</sg>
+			<sg number="5">
+				<word number="1">think much of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">entertain respect for</word>
+				<word number="2">bear respect for</word>
+			</sg>
+			<sg number="7">
+				<word number="1">look up to</word>
+				<word number="2">defer to</word>
+			</sg>
+			<sg number="8">
+				<word number="1">have a high opinion of</word>
+				<word number="2">hold a high opinion of</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pay attention</word>
+				<word number="2" paraRef="" posRef="n.">pay respect</word>
+			</sg>
+			<sg number="10">
+				<word number="1">do honor to</word>
+				<word number="2">render honor to</word>
+			</sg>
+			<sg number="11">
+				<word number="1">do the honors</word>
+				<word number="2">hail</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="show courtesy" headRef="933">show courtesy</word>
+			</sg>
+			<sg number="13">
+				<word number="1">salute</word>
+				<word number="2">present arms</word>
+			</sg>
+			<sg number="14">
+				<word number="1">do homage to</word>
+				<word number="2">pay homage to</word>
+			</sg>
+			<sg number="15">
+				<word number="1">pay tribute to</word>
+				<word number="2">kneel to</word>
+				<word number="3">bow to</word>
+				<word number="4">bend the knee to</word>
+			</sg>
+			<sg number="16">
+				<word number="1">fall down before</word>
+				<word number="2">prostrate oneself</word>
+				<word number="3">kiss the hem of one's garment</word>
+			</sg>
+			<sg number="17">
+				<word number="1" paraRef="worship" headRef="1034">worship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep one's distance">
+			<sg number="1">
+				<word number="1">keep one's distance</word>
+				<word number="2">make room</word>
+				<word number="3">observe due decorum</word>
+				<word number="4">stand upon ceremony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="command respect">
+			<sg number="1">
+				<word number="1">command respect</word>
+				<word number="2">inspire respect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">awe</word>
+				<word number="2">inspire awe</word>
+				<word number="3">impose</word>
+				<word number="4">overawe</word>
+				<word number="5">dazzle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="respecting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">respecting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">respectful</word>
+				<word number="2">deferential</word>
+				<word number="3">decorous</word>
+				<word number="4">reverential</word>
+				<word number="5">obsequious</word>
+				<word number="6">ceremonious</word>
+				<word number="7">bareheaded</word>
+				<word number="8">cap in hand</word>
+				<word number="9">on one's knees</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="servile" headRef="925">prostrate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="respected">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">respected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in high esteem</word>
+				<word number="2">in high estimation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">time-honored</word>
+				<word number="2">venerable</word>
+				<word number="3">emeritus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in deference to">
+			<sg number="1">
+				<word number="1">in deference to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with all respect</word>
+				<word number="2">with all due respect</word>
+				<word number="3">with due respect</word>
+				<word number="4">with the highest respect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with submission</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="saving your grace">
+			<sg number="1">
+				<word number="1">saving your grace</word>
+				<word number="2">saving your presence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">salva sit reverentia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pace tanti nominis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hail">
+			<sg number="1">
+				<word number="1">hail!</word>
+				<word number="2">all hail!</word>
+				<word number="3">esto perpetua!</word>
+				<word number="4">may your shadow never be less!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="and pluck up drowned honor by the locks">
+			<sg number="1">
+				<word number="1">"and pluck up drowned honor by the locks"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"his honor rooted in dishonor stood"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"honor pricks me on"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

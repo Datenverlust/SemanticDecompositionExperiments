@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="536" name="Omen" origNum="#512." class="4" section="6" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="omen">
+			<sg number="1">
+				<word number="1">omen</word>
+				<word number="2">portent</word>
+				<word number="3">presage</word>
+				<word number="4">prognostic</word>
+				<word number="5">augury</word>
+				<word number="6">auspice</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="indication" headRef="576">sign</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="precursor" headRef="68">harbinger</word>
+			</sg>
+			<sg number="4">
+				<word number="1">yule candle!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bird of ill omen">
+			<sg number="1">
+				<word number="1">bird of ill omen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">signs of the times</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gathering clouds</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="warning" headRef="697">warning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prefigurement">
+			<sg number="1">
+				<word number="1" paraRef="prefigurement" headRef="535">prefigurement</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ill-boding">
+			<sg number="1">
+				<word number="1">ill-boding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="auspicium melioris aevi">
+			<sg number="1">
+				<word number="1">auspicium melioris aevi</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

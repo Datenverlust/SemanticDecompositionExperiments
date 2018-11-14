@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="876" name="Rejoicing" origNum="#838." class="8" section="2" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rejoicing">
+			<sg number="1">
+				<word number="1">rejoicing</word>
+				<word number="2">exultation</word>
+				<word number="3">triumph</word>
+				<word number="4">jubilation</word>
+				<word number="5">heyday</word>
+				<word number="6">flush</word>
+				<word number="7">revelling</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="amusement" headRef="878">merrymaking</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="celebration" headRef="922">jubilee</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paean</word>
+				<word number="2" paraRef="thanksgiving" headRef="1034">Te Deum</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="congratulation" headRef="935">congratulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="smile">
+			<sg number="1">
+				<word number="1">smile</word>
+				<word number="2">simper</word>
+				<word number="3">smirk</word>
+				<word number="4">grin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">broad grin</word>
+				<word number="2">sardonic grin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="laughter">
+			<sg number="1">
+				<word number="1" paraRef="amusement" headRef="878">laughter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="risibility">
+			<sg number="1">
+				<word number="1">risibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="derision" headRef="895">derision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Momus">
+			<sg number="1">
+				<word number="1">Momus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Democritus the Abderite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rollicker</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="rejoice">
+			<sg number="1">
+				<word number="1">rejoice</word>
+				<word number="2">thank one's stars</word>
+				<word number="3">bless one's stars</word>
+			</sg>
+			<sg number="2">
+				<word number="1">congratulate oneself</word>
+				<word number="2">hug oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rub one's hands</word>
+				<word number="2">clap one's hands</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smack the lips</word>
+				<word number="2">fling up one's cap</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dance</word>
+				<word number="2">skip</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sing</word>
+				<word number="2">carol</word>
+				<word number="3">chirrup</word>
+				<word number="4">chirp</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hurrah</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cry for joy</word>
+				<word number="2">jump for joy</word>
+				<word number="3">leap with joy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="boast" headRef="923">exult</word>
+			</sg>
+			<sg number="10">
+				<word number="1">triumph</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="celebrate" headRef="922">hold jubilee</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="sport" headRef="878">make merry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="laugh">
+			<sg number="1">
+				<word number="1">laugh</word>
+				<word number="2" paraRef="amuse" headRef="878">raise laughter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rejoicing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">rejoicing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jubilant</word>
+				<word number="2">exultant</word>
+				<word number="3">triumphant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flushed</word>
+				<word number="2">elated</word>
+				<word number="3">pleased</word>
+				<word number="4">delighted</word>
+				<word number="5">tickled pink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="amused">
+			<sg number="1">
+				<word number="1" paraRef="amused" headRef="878">amused</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cheerful" headRef="874">cheerful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="laughable">
+			<sg number="1">
+				<word number="1" paraRef="ludicrous" headRef="892">laughable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hurrah">
+			<sg number="1">
+				<word number="1">hurrah!</word>
+				<word number="2">Huzza!</word>
+				<word number="3">aha!</word>
+				<word number="4">hail!</word>
+				<word number="5">tolderolloll!</word>
+				<word number="6">Heaven be praised!</word>
+				<word number="7">io triumphe!</word>
+				<word number="8">tant mieux!</word>
+				<word number="9">so much the better</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the heart leaping with joy">
+			<sg number="1">
+				<word number="1">the heart leaping with joy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ce n'est pas etre bien aise que de rire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"Laughter holding both his sides"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"le roi est mort</word>
+				<word number="2">vive le roi"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"with his eyes in flood with laughter"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

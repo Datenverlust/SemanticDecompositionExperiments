@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="508" name="Belief" origNum="#484." class="4" section="5" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="belief">
+			<sg number="1">
+				<word number="1">belief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">credence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">credit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assurance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">faith</word>
+				<word number="2">trust</word>
+				<word number="3">troth</word>
+				<word number="4">confidence</word>
+				<word number="5">presumption</word>
+				<word number="6" paraRef="hope" headRef="897">sanguine expectation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dependence on</word>
+				<word number="2">reliance on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="persuasion">
+			<sg number="1">
+				<word number="1">persuasion</word>
+				<word number="2">conviction</word>
+				<word number="3">convincement</word>
+				<word number="4">plerophory</word>
+				<word number="5">self- conviction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="certainty" headRef="497">certainty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">opinion</word>
+				<word number="2">mind</word>
+				<word number="3">view</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conception</word>
+				<word number="2">thinking</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="idea" headRef="473">impression</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="surmise" headRef="538">surmise</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="judgment" headRef="503">conclusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tenet">
+			<sg number="1">
+				<word number="1">tenet</word>
+				<word number="2">dogma</word>
+				<word number="3">principle</word>
+				<word number="4">way of thinking</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="assent" headRef="512">popular belief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="firm belief">
+			<sg number="1">
+				<word number="1">firm belief</word>
+				<word number="2">implicit belief</word>
+				<word number="3">settled belief</word>
+				<word number="4">fixed rooted deep-rooted belief</word>
+				<word number="5">staunch belief</word>
+				<word number="6">unshaken belief</word>
+				<word number="7">steadfast belief</word>
+				<word number="8">inveterate belief</word>
+				<word number="9">calm belief</word>
+				<word number="10">sober belief</word>
+				<word number="11">dispassionate belief</word>
+				<word number="12">impartial belief</word>
+				<word number="13">well-founded belief</word>
+				<word number="14">firm opinion</word>
+				<word number="15">implicit opinion</word>
+				<word number="16">settled opinion</word>
+				<word number="17">fixed rooted deep-rooted opinion</word>
+				<word number="18">staunch opinion</word>
+				<word number="19">unshaken opinion</word>
+				<word number="20">steadfast opinion</word>
+				<word number="21">inveterate opinion</word>
+				<word number="22">calm opinion</word>
+				<word number="23">sober opinion</word>
+				<word number="24">dispassionate opinion</word>
+				<word number="25">impartial opinion</word>
+				<word number="26">well-founded opinion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uberrima fides</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="system of opinions">
+			<sg number="1">
+				<word number="1">system of opinions</word>
+				<word number="2">school</word>
+				<word number="3">doctrine</word>
+				<word number="4">articles</word>
+				<word number="5">canons</word>
+			</sg>
+			<sg number="2">
+				<word number="1">article of faith</word>
+				<word number="2">declaration of faith</word>
+				<word number="3">profession of faith</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tenets</word>
+				<word number="2">credenda</word>
+				<word number="3">creed</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="orthodoxy" headRef="1027">thirty-nine articles</word>
+			</sg>
+			<sg number="5">
+				<word number="1">catechism</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="assent" headRef="512">assent</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="teaching" headRef="563">propaganda</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="credibility">
+			<sg number="1">
+				<word number="1" paraRef="probability" headRef="495">credibility</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="believe">
+			<sg number="1">
+				<word number="1">believe</word>
+				<word number="2">credit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give faith to</word>
+				<word number="2">give credit to</word>
+				<word number="3">credence to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">see</word>
+				<word number="2">realize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assume</word>
+				<word number="2">receive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">set down for</word>
+				<word number="2">take for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">have it</word>
+				<word number="2">take it</word>
+			</sg>
+			<sg number="7">
+				<word number="1">consider</word>
+				<word number="2">esteem</word>
+				<word number="3">presume</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="count upon">
+			<sg number="1">
+				<word number="1">count upon</word>
+				<word number="2">depend upon</word>
+				<word number="3">calculate upon</word>
+				<word number="4">pin one's faith upon</word>
+				<word number="5">reckon upon</word>
+				<word number="6">lean upon</word>
+				<word number="7">build upon</word>
+				<word number="8">rely upon</word>
+				<word number="9">rest upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay one's account for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make sure of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="make oneself easy about">
+			<sg number="1">
+				<word number="1">make oneself easy about</word>
+				<word number="2">on that score</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take on trust</word>
+				<word number="2">take on credit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take for granted</word>
+				<word number="2">take for gospel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">allow some weight to</word>
+				<word number="2">attach some weight to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="know">
+			<sg number="1">
+				<word number="1">know</word>
+				<word number="2">know for certain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have know</word>
+				<word number="2">make no doubt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">doubt not</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be</word>
+				<word number="2" paraRef="" posRef="adj.">rest assured</word>
+			</sg>
+			<sg number="5">
+				<word number="1">persuade oneself</word>
+				<word number="2">assure oneself</word>
+				<word number="3">satisfy oneself</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make up one's mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="give one credit for">
+			<sg number="1">
+				<word number="1">give one credit for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confide in</word>
+				<word number="2">believe in</word>
+				<word number="3">put one's trust in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">place in</word>
+				<word number="2">repose in</word>
+				<word number="3">implicit confidence in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take one's word for</word>
+				<word number="2">at one's word</word>
+			</sg>
+			<sg number="5">
+				<word number="1">place reliance on</word>
+				<word number="2">rely upon</word>
+				<word number="3">swear by</word>
+				<word number="4">regard to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="think">
+			<sg number="1">
+				<word number="1">think</word>
+				<word number="2">hold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take</word>
+				<word number="2">take it</word>
+			</sg>
+			<sg number="3">
+				<word number="1">opine</word>
+				<word number="2">be of opinion</word>
+				<word number="3">conceive</word>
+				<word number="4">trow</word>
+				<word number="5">ween</word>
+				<word number="6">fancy</word>
+				<word number="7">apprehend</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have it</word>
+				<word number="2">hold a belief</word>
+				<word number="3">possess</word>
+				<word number="4">entertain a belief</word>
+				<word number="5">adopt a belief</word>
+				<word number="6">imbibe a belief</word>
+				<word number="7">embrace a belief</word>
+				<word number="8">get hold of a belief</word>
+				<word number="9">hazard</word>
+				<word number="10">foster</word>
+				<word number="11">nurture a belief</word>
+				<word number="12">cherish  a belief</word>
+				<word number="13">have an opinion</word>
+				<word number="14">hold an opinion</word>
+				<word number="15">possess</word>
+				<word number="16">entertain an opinion</word>
+				<word number="17">adopt an opinion</word>
+				<word number="18">imbibe an opinion</word>
+				<word number="19">embrace an opinion</word>
+				<word number="20">get hold of an opinion</word>
+				<word number="21">hazard an opinion</word>
+				<word number="22">foster an opinion</word>
+				<word number="23">nurture an opinion</word>
+				<word number="24" paraRef="" posRef="n.">cherish  an opinion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="view as">
+			<sg number="1">
+				<word number="1">view as</word>
+				<word number="2">consider as</word>
+				<word number="3">take as</word>
+				<word number="4">hold as</word>
+				<word number="5">conceive as</word>
+				<word number="6">regard as</word>
+				<word number="7">esteem as</word>
+				<word number="8">deem as</word>
+				<word number="9">look upon as</word>
+				<word number="10">account as</word>
+				<word number="11">set down as</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="surmise" headRef="538">surmise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="get it into one's head">
+			<sg number="1">
+				<word number="1">get it into one's head</word>
+				<word number="2">take it into one's head</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come round to an opinion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="credulity" headRef="510">swallow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="cause to be believed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">cause to be believed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">satisfy</word>
+				<word number="2">persuade</word>
+				<word number="3">have the ear of</word>
+				<word number="4">gain the confidence of</word>
+				<word number="5">assure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">convince</word>
+				<word number="2">convict!</word>
+				<word number="3">convert</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wean</word>
+				<word number="2">bring round</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bring over</word>
+				<word number="2">win over</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="teach" headRef="563">indoctrinate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cram down the throat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">produce conviction</word>
+				<word number="2">carry conviction</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bring home to</word>
+				<word number="2">drive home to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="go down">
+			<sg number="1">
+				<word number="1">go down</word>
+				<word number="2">find credence</word>
+				<word number="3">pass current</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">be received</word>
+				<word number="2" paraRef="" posRef="adj.">be current</word>
+			</sg>
+			<sg number="3">
+				<word number="1">possess</word>
+				<word number="2">take hold of</word>
+				<word number="3">take possession of the mind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="believing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">believing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">certain</word>
+				<word number="2">sure</word>
+				<word number="3">assured</word>
+				<word number="4">positive</word>
+				<word number="5">cocksure</word>
+				<word number="6">satisfied</word>
+				<word number="7">confident</word>
+				<word number="8">unhesitating</word>
+				<word number="9">convinced</word>
+				<word number="10">secure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="under the impression">
+			<sg number="1">
+				<word number="1">under the impression</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impressed with</word>
+				<word number="2">imbued with</word>
+				<word number="3">penetrated with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="confiding">
+			<sg number="1">
+				<word number="1">confiding</word>
+				<word number="2">suspectless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsuspecting</word>
+				<word number="2">unsuspicious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">void of suspicion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="credulous" headRef="510">credulous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wedded to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="believed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">believed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accredited</word>
+				<word number="2">putative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unsuspected</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="worthy of">
+			<sg number="1">
+				<word number="1">worthy of</word>
+				<word number="2">deserving of</word>
+				<word number="3">commanding belief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">credible</word>
+				<word number="2">reliable</word>
+				<word number="3">trustworthy</word>
+				<word number="4">to be depended on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">satisfactory</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="probably" headRef="495">probably</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fiducial</word>
+				<word number="2">fiduciary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">persuasive</word>
+				<word number="2">impressive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="relating to belief">
+			<sg number="1">
+				<word number="1">relating to belief</word>
+				<word number="2">doctrinal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in the opinion of">
+			<sg number="1">
+				<word number="1">in the opinion of</word>
+				<word number="2">in the eyes of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">me judice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meseems</word>
+				<word number="2">methinks</word>
+			</sg>
+			<sg number="4">
+				<word number="1">to the best of one's belief</word>
+			</sg>
+			<sg number="5">
+				<word number="1">I dare say</word>
+				<word number="2">I doubt not</word>
+				<word number="3">I have no doubt</word>
+				<word number="4">I am sure</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="certainty" headRef="497">sure enough</word>
+			</sg>
+			<sg number="7">
+				<word number="1">depend upon</word>
+				<word number="2">rely upon it</word>
+			</sg>
+			<sg number="8">
+				<word number="1">be assured</word>
+				<word number="2">rest assured</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="affirmation" headRef="561">I'll warrant you</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="experto crede">
+			<sg number="1">
+				<word number="1">experto crede</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fata viam invenient</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Justitiae soror incorrupta Fides</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"live to explain thy doctrine by thy life"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"stands not within the prospect of belief"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tarde quae credita laedunt credimus</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vide et crede</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

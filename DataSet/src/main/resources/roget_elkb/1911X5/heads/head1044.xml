@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1044" name="Temple" origNum="#1000." class="8" section="5" subSection="5" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="place of worship">
+			<sg number="1">
+				<word number="1">place of worship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">house of God</word>
+				<word number="2">house of prayer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="temple">
+			<sg number="1">
+				<word number="1">temple</word>
+				<word number="2">cathedral</word>
+				<word number="3">minster</word>
+				<word number="4">church</word>
+				<word number="5">kirk</word>
+				<word number="6">chapel</word>
+				<word number="7">meetinghouse</word>
+				<word number="8">bethel</word>
+				<word number="9">tabernacle</word>
+				<word number="10">conventicle</word>
+				<word number="11">basilica</word>
+				<word number="12">fane</word>
+				<word number="13">holy place</word>
+				<word number="14">chantry</word>
+				<word number="15">oratory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="synagogue">
+			<sg number="1">
+				<word number="1">synagogue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mosque</word>
+			</sg>
+			<sg number="3">
+				<word number="1">marabout</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pantheon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pagoda</word>
+			</sg>
+			<sg number="6">
+				<word number="1">joss house</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dogobah</word>
+				<word number="2">tope</word>
+			</sg>
+			<sg number="8">
+				<word number="1">kiosk</word>
+			</sg>
+			<sg number="9">
+				<word number="1">kiack</word>
+				<word number="2">masjid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="parsonage">
+			<sg number="1">
+				<word number="1">parsonage</word>
+				<word number="2">rectory</word>
+				<word number="3">vicarage</word>
+				<word number="4">manse</word>
+				<word number="5">deanery</word>
+				<word number="6">glebe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Vatican</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bishop's palace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Lambeth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="altar">
+			<sg number="1">
+				<word number="1">altar</word>
+				<word number="2">shrine</word>
+				<word number="3">sanctuary</word>
+				<word number="4">Holy of Holies</word>
+				<word number="5">sanctum sanctorum</word>
+				<word number="6">sacristy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sacrarium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">communion table</word>
+				<word number="2">holy table</word>
+				<word number="3">Lord's table</word>
+			</sg>
+			<sg number="4">
+				<word number="1">table of the Lord</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pyx</word>
+			</sg>
+			<sg number="6">
+				<word number="1">baptistery</word>
+				<word number="2">font</word>
+			</sg>
+			<sg number="7">
+				<word number="1">piscina</word>
+				<word number="2">stoup</word>
+			</sg>
+			<sg number="8">
+				<word number="1">aumbry</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sedile</word>
+			</sg>
+			<sg number="10">
+				<word number="1">reredos</word>
+			</sg>
+			<sg number="11">
+				<word number="1">rood loft</word>
+				<word number="2">rood screen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="chancel">
+			<sg number="1">
+				<word number="1">chancel</word>
+				<word number="2">quire</word>
+				<word number="3">choir</word>
+				<word number="4">nave</word>
+				<word number="5">aisle</word>
+				<word number="6">transept</word>
+				<word number="7">vestry</word>
+				<word number="8">crypt</word>
+				<word number="9">golgotha</word>
+				<word number="10">calvary</word>
+				<word number="11">Easter sepulcher</word>
+				<word number="12" new="1">clerestory</word>
+				<word number="13" new="1">porch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stall</word>
+				<word number="2">pew</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pulpit</word>
+				<word number="2">ambo</word>
+				<word number="3">lectern</word>
+				<word number="4">reading desk</word>
+				<word number="5">confessional</word>
+				<word number="6">prothesis</word>
+				<word number="7">credence</word>
+				<word number="8">baldachin</word>
+				<word number="9">baldacchino</word>
+			</sg>
+			<sg number="4">
+				<word number="1">apse</word>
+				<word number="2">belfry</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chapter house</word>
+			</sg>
+			<sg number="6">
+				<word number="1">presbytery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">anxious-bench</word>
+				<word number="2">anxious-seat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">diaconicum</word>
+				<word number="2">jube</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mourner's bench</word>
+				<word number="2">mourner's seat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cloisters">
+			<sg number="1">
+				<word number="1">cloisters</word>
+				<word number="2">churchyard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="monastery">
+			<sg number="1">
+				<word number="1">monastery</word>
+				<word number="2">priory</word>
+				<word number="3">abbey</word>
+				<word number="4">friary</word>
+				<word number="5">convent</word>
+				<word number="6">nunnery</word>
+				<word number="7">cloister</word>
+				<word number="8" new="1">hermitage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="claustral">
+			<sg number="1">
+				<word number="1">claustral</word>
+				<word number="2">cloistered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">monastic</word>
+				<word number="2">monasterial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conventual</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ne vile fano">
+			<sg number="1">
+				<word number="1">ne vile fano</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"there's nothing ill can dwell in such a temple"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

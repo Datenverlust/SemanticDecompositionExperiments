@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="398" name="Refrigeration" origNum="#385." class="3" section="3" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="refrigeration">
+			<sg number="1">
+				<word number="1">refrigeration</word>
+				<word number="2">infrigidation</word>
+				<word number="3">reduction of temperature</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">cooling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">congelation</word>
+				<word number="2">conglaciation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ice" headRef="396">ice</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="density" headRef="332">solidification</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="refrigerator" headRef="400">ice box</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="extincteur">
+			<sg number="1">
+				<word number="1">extincteur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fire annihilator</word>
+			</sg>
+			<sg number="3">
+				<word number="1">amianth</word>
+				<word number="2">amianthus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">earth-flax</word>
+				<word number="2">mountain-flax</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flexible asbestos</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fireman</word>
+				<word number="2" paraRef="incombustibility" headRef="402">fire brigade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="incombustibility">
+			<sg number="1">
+				<word number="1">incombustibility</word>
+				<word number="2" paraRef="" posRef="adj.">incombustibleness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="air conditioning">
+			<sg number="1">
+				<word number="1">air conditioning</word>
+				<word number="2">central air conditioning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air conditioner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fan</word>
+				<word number="2">attic fan</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dehumidifier</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cool">
+			<sg number="1">
+				<word number="1">cool</word>
+				<word number="2">fan</word>
+				<word number="3">refrigerate</word>
+				<word number="4">refresh</word>
+				<word number="5">ice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">congeal</word>
+				<word number="2">freeze</word>
+				<word number="3">glaciate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">benumb</word>
+				<word number="2">starve</word>
+				<word number="3">pinch</word>
+				<word number="4">chill</word>
+				<word number="5">petrify</word>
+				<word number="6">chill to the marrow</word>
+				<word number="7">regelate</word>
+				<word number="8">nip</word>
+				<word number="9">cut</word>
+				<word number="10">pierce</word>
+				<word number="11">bite</word>
+				<word number="12">make one's teeth chatter</word>
+				<word number="13">damp</word>
+				<word number="14">slack quench</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put out</word>
+				<word number="2">stamp out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">extinguish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">go out</word>
+				<word number="2" paraRef="incombustibility" headRef="402">burn out</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cooled">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">cooled</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frozen out</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">cooling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">frigorific</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

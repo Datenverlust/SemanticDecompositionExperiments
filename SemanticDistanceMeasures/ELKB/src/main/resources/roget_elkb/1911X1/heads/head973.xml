@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="973" name="Approbation" origNum="#931." class="8" section="4" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="approbation">
+			<sg number="1">
+				<word number="1">approbation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">approval</word>
+				<word number="2">approvement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sanction</word>
+				<word number="2">advocacy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nod of approbation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">esteem</word>
+				<word number="2">estimation</word>
+				<word number="3">good opinion</word>
+				<word number="4">golden opinions</word>
+				<word number="5">admiration</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="love" headRef="936">love</word>
+			</sg>
+			<sg number="7">
+				<word number="1">appreciation</word>
+				<word number="2">regard</word>
+				<word number="3">account</word>
+				<word number="4">popularity</word>
+				<word number="5">credit</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="repute" headRef="912">repute</word>
+			</sg>
+			<sg number="9">
+				<word number="1">best seller</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="commendation">
+			<sg number="1">
+				<word number="1">commendation</word>
+				<word number="2">praise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laud</word>
+				<word number="2">laudation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">good word</word>
+			</sg>
+			<sg number="4">
+				<word number="1">meed of praise</word>
+				<word number="2">tribute of praise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">encomium</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eulogy</word>
+				<word number="2">eulogium</word>
+			</sg>
+			<sg number="7">
+				<word number="1">eloge</word>
+				<word number="2">panegyric</word>
+			</sg>
+			<sg number="8">
+				<word number="1">homage</word>
+				<word number="2">hero worship</word>
+			</sg>
+			<sg number="9">
+				<word number="1">benediction</word>
+				<word number="2">blessing</word>
+				<word number="3">benison</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="applause">
+			<sg number="1">
+				<word number="1">applause</word>
+				<word number="2">plaudit</word>
+				<word number="3">clap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clapping</word>
+				<word number="2">clapping of hands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acclaim</word>
+				<word number="2">acclamation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cheer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">paean</word>
+				<word number="2">hosannah</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shout of applause</word>
+				<word number="2">peal of applause</word>
+				<word number="3">chorus of applause</word>
+				<word number="4">chorus of praise</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Prytaneum</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ovation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="accolade">
+			<sg number="1">
+				<word number="1" new="1">accolade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="adulation">
+			<sg number="1">
+				<word number="1" new="1">adulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="compliment">
+			<sg number="1">
+				<word number="1" new="1">compliment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="recognition">
+			<sg number="1">
+				<word number="1" new="1">recognition</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="approve">
+			<sg number="1">
+				<word number="1">approve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">approbate</word>
+				<word number="2">think good</word>
+				<word number="3">think much of</word>
+				<word number="4">think well of</word>
+				<word number="5">think highly of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">esteem</word>
+				<word number="2">value</word>
+				<word number="3">prize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set great store by</word>
+				<word number="2">set great store on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="do justice to">
+			<sg number="1">
+				<word number="1">do justice to</word>
+				<word number="2">appreciate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">honor</word>
+				<word number="2">hold in esteem</word>
+				<word number="3">look up to</word>
+				<word number="4">admire</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="like" headRef="936">like</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be in favor of</word>
+				<word number="2">wish Godspeed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hail</word>
+				<word number="2">hail with satisfaction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stand up for">
+			<sg number="1">
+				<word number="1">stand up for</word>
+				<word number="2">stick up for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uphold</word>
+				<word number="2">hold up</word>
+				<word number="3">countenance</word>
+				<word number="4">sanction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clap on the back</word>
+				<word number="2">pat on the back</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep in countenance</word>
+				<word number="2">indorse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give credit</word>
+				<word number="2">recommend</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mark with a white mark</word>
+				<word number="2">mark with a stone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="commend">
+			<sg number="1">
+				<word number="1">commend</word>
+				<word number="2">belaud</word>
+				<word number="3">praise</word>
+				<word number="4">laud</word>
+				<word number="5">compliment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay a tribute</word>
+				<word number="2">bepraise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clap the hands</word>
+			</sg>
+			<sg number="4">
+				<word number="1">applaud</word>
+				<word number="2">cheer</word>
+				<word number="3">acclamate</word>
+				<word number="4">encore</word>
+			</sg>
+			<sg number="5">
+				<word number="1">panegyrize</word>
+				<word number="2">eulogize</word>
+				<word number="3">cry up</word>
+				<word number="4">proner</word>
+				<word number="5">puff</word>
+			</sg>
+			<sg number="6">
+				<word number="1">extol</word>
+				<word number="2">extol to the skies</word>
+			</sg>
+			<sg number="7">
+				<word number="1">magnify</word>
+				<word number="2">glorify</word>
+				<word number="3">exalt</word>
+				<word number="4">swell</word>
+				<word number="5">make much of</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="flatter" headRef="975">flatter</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bless</word>
+				<word number="2">give a blessing to</word>
+			</sg>
+			<sg number="10">
+				<word number="1">have a good word for</word>
+				<word number="2">say a good word for</word>
+			</sg>
+			<sg number="11">
+				<word number="1">speak well of</word>
+				<word number="2">speak highly of</word>
+				<word number="3">speak in high terms of</word>
+			</sg>
+			<sg number="12">
+				<word number="1">sing the praises of</word>
+				<word number="2">sound the praises of</word>
+				<word number="3">chaunt the praises of</word>
+			</sg>
+			<sg number="13">
+				<word number="1">resound the praises of</word>
+			</sg>
+			<sg number="14">
+				<word number="1">sing praises to</word>
+			</sg>
+			<sg number="15">
+				<word number="1">cheer to the echo</word>
+				<word number="2">applaud to the echo</word>
+				<word number="3">applaud to the very echo</word>
+				<word number="4">cheer to the very echo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="redound to the honor">
+			<sg number="1">
+				<word number="1">redound to the honor</word>
+				<word number="2">redound to the praise</word>
+				<word number="3">redound to the credit of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do credit to</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">deserve praise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">recommend itself</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pass muster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="be praised">
+			<sg number="1">
+				<word number="1">be praised</word>
+			</sg>
+			<sg number="2">
+				<word number="1">receive honorable mention</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be in favor with</word>
+				<word number="2">be in high favor with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ring with the praises of</word>
+				<word number="2">win golden opinions</word>
+				<word number="3">gain credit</word>
+				<word number="4">find favor with</word>
+				<word number="5">stand well in the opinion of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">laudari a laudato viro</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="approving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">approving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in favor of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lost in admiration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="commendatory">
+			<sg number="1">
+				<word number="1">commendatory</word>
+				<word number="2">complimentary</word>
+				<word number="3">benedictory</word>
+				<word number="4">laudatory</word>
+				<word number="5">panegyrical</word>
+				<word number="6">eulogistic</word>
+				<word number="7">encomiastic</word>
+				<word number="8">lavish of praise</word>
+				<word number="9">uncritical</word>
+				<word number="10" new="1">prefatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="approved">
+			<sg number="1">
+				<word number="1">approved</word>
+				<word number="2" paraRef="" posRef="v.">praised</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncensured</word>
+				<word number="2">unimpeached</word>
+			</sg>
+			<sg number="3">
+				<word number="1">popular</word>
+				<word number="2">in good odor</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="respected" headRef="970">in high esteem</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in favor</word>
+				<word number="2">in high favor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deserving of praise">
+			<sg number="1">
+				<word number="1">deserving of praise</word>
+				<word number="2" paraRef="" posRef="n.">worthy of praise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">praiseworthy</word>
+				<word number="2">commendable</word>
+				<word number="3">of estimation</word>
+				<word number="4" new="1">exemplary</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="good" headRef="677">good</word>
+			</sg>
+			<sg number="4">
+				<word number="1">meritorious</word>
+				<word number="2">estimable</word>
+				<word number="3">creditable</word>
+				<word number="4">plausible</word>
+				<word number="5">unimpeachable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">beyond all praise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with credit">
+			<sg number="1">
+				<word number="1">with credit</word>
+				<word number="2">to admiration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="well" headRef="647">well</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with three times three</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hear hear">
+			<sg number="1">
+				<word number="1">hear hear!</word>
+				<word number="2">bully for you!</word>
+				<word number="3">* well done!</word>
+				<word number="4">bravo!</word>
+				<word number="5">bravissimo!</word>
+				<word number="6">euge!</word>
+				<word number="7">macte virtute!</word>
+				<word number="8">so far so good</word>
+				<word number="9">that's right</word>
+				<word number="10">quite right</word>
+			</sg>
+			<sg number="2">
+				<word number="1">optime!</word>
+				<word number="2">one cheer more</word>
+			</sg>
+			<sg number="3">
+				<word number="1">may your shadow never be less!</word>
+				<word number="2">esto perpetua!</word>
+				<word number="3">long life to!</word>
+				<word number="4">viva!</word>
+				<word number="5">enviva!</word>
+				<word number="6">Godspeed!</word>
+				<word number="7">valete et plaudite!</word>
+				<word number="8">encore!</word>
+				<word number="9">bis!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="probatum est">
+			<sg number="1">
+				<word number="1">probatum est</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tacent satis laudant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"servant of God</word>
+				<word number="2">well done!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

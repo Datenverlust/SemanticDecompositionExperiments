@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="332" name="Density" origNum="#321." class="3" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="density">
+			<sg number="1">
+				<word number="1">density</word>
+				<word number="2">solidity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">solidness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impenetrability</word>
+				<word number="2">impermeability</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incompressibility</word>
+			</sg>
+			<sg number="5">
+				<word number="1">imporosity</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="coherence" headRef="49">cohesion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">constipation</word>
+				<word number="2">consistence</word>
+				<word number="3">spissitude|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="specific gravity">
+			<sg number="1">
+				<word number="1">specific gravity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hydrometer</word>
+				<word number="2">areometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="condensation">
+			<sg number="1">
+				<word number="1">condensation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caseation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solidation</word>
+				<word number="2">solidification</word>
+			</sg>
+			<sg number="4">
+				<word number="1">consolidation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">concretion</word>
+				<word number="2">coagulation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="harden" headRef="334">petrification</word>
+			</sg>
+			<sg number="7">
+				<word number="1">crystallization</word>
+				<word number="2">precipitation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">deposit</word>
+				<word number="2">precipitate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">inspissation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">gelation</word>
+				<word number="2" paraRef="" posRef="v.">thickening</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="indivisibility">
+			<sg number="1">
+				<word number="1">indivisibility</word>
+				<word number="2">indiscerptibility</word>
+				<word number="3">insolubility</word>
+				<word number="4">indissolvableness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="solid body">
+			<sg number="1">
+				<word number="1">solid body</word>
+				<word number="2">mass</word>
+				<word number="3">block</word>
+				<word number="4">knot</word>
+				<word number="5">lump</word>
+			</sg>
+			<sg number="2">
+				<word number="1">concretion</word>
+				<word number="2">concrete</word>
+				<word number="3">conglomerate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cake</word>
+				<word number="2">clot</word>
+				<word number="3">stone</word>
+				<word number="4">curd</word>
+				<word number="5">coagulum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bone</word>
+				<word number="2">gristle</word>
+				<word number="3">cartilage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">casein</word>
+				<word number="2">crassamentum</word>
+			</sg>
+			<sg number="6">
+				<word number="1">legumin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="superdense matter">
+			<sg number="1">
+				<word number="1">superdense matter</word>
+				<word number="2">condensed states of matter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dwarf star</word>
+				<word number="2">neutron star</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be dense">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be dense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">become solid</word>
+				<word number="2" paraRef="" posRef="adj.">render solid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solidify</word>
+				<word number="2">solidate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">concrete</word>
+				<word number="2">set</word>
+				<word number="3">take a set</word>
+				<word number="4">consolidate</word>
+				<word number="5">congeal</word>
+				<word number="6">coagulate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">curd</word>
+				<word number="2">curdle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lopper</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fix</word>
+				<word number="2">clot</word>
+				<word number="3">cake</word>
+				<word number="4">candy</word>
+				<word number="5">precipitate</word>
+				<word number="6">deposit</word>
+				<word number="7">cohere</word>
+				<word number="8">crystallize</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="harden" headRef="334">petrify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="condense">
+			<sg number="1">
+				<word number="1">condense</word>
+				<word number="2">thicken</word>
+				<word number="3">gel</word>
+				<word number="4">inspissate</word>
+				<word number="5">incrassate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">compress</word>
+				<word number="2">squeeze</word>
+				<word number="3">ram down</word>
+				<word number="4">constipate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dense">
+			<sg number="1">
+				<word number="1">dense</word>
+				<word number="2">solid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">solidified</word>
+			</sg>
+			<sg number="3">
+				<word number="1">caseous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pukka</word>
+			</sg>
+			<sg number="5">
+				<word number="1">coherent</word>
+				<word number="2" paraRef="cohesive" headRef="49">cohesive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">compact</word>
+				<word number="2">close</word>
+				<word number="3">serried</word>
+				<word number="4">thickset</word>
+			</sg>
+			<sg number="7">
+				<word number="1">substantial</word>
+				<word number="2">massive</word>
+				<word number="3">lumpish</word>
+			</sg>
+			<sg number="8">
+				<word number="1">impenetrable</word>
+				<word number="2">impermeable</word>
+				<word number="3">nonporous</word>
+				<word number="4">imporous</word>
+			</sg>
+			<sg number="9">
+				<word number="1">incompressible</word>
+			</sg>
+			<sg number="10">
+				<word number="1">constipated</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="hard" headRef="334">concrete</word>
+			</sg>
+			<sg number="12">
+				<word number="1">knotted</word>
+				<word number="2">knotty</word>
+			</sg>
+			<sg number="13">
+				<word number="1">gnarled</word>
+			</sg>
+			<sg number="14">
+				<word number="1">crystalline</word>
+				<word number="2">crystallizable</word>
+			</sg>
+			<sg number="15">
+				<word number="1">thick</word>
+				<word number="2">grumous</word>
+				<word number="3">stuffy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="undissolved">
+			<sg number="1">
+				<word number="1">undissolved</word>
+				<word number="2">unmelted</word>
+				<word number="3">unliquefied</word>
+				<word number="4">unthawed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="indivisible">
+			<sg number="1">
+				<word number="1">indivisible</word>
+				<word number="2">indiscerptible</word>
+				<word number="3">infrangible</word>
+				<word number="4">indissolvable</word>
+				<word number="5">indissoluble</word>
+				<word number="6">insoluble</word>
+				<word number="7">infusible</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="326" name="Agitation" origNum="#315." class="2" section="4" subSection="4" headGroup="21">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="agitation">
+			<sg number="1">
+				<word number="1">agitation</word>
+				<word number="2">stir</word>
+				<word number="3">tremor</word>
+				<word number="4">shake</word>
+				<word number="5">ripple</word>
+				<word number="6">jog</word>
+				<word number="7">jolt</word>
+				<word number="8">jar</word>
+				<word number="9">jerk</word>
+				<word number="10">shock</word>
+				<word number="11">succussion</word>
+				<word number="12">trepidation</word>
+				<word number="13">quiver</word>
+				<word number="14">quaver</word>
+				<word number="15">dance</word>
+				<word number="16">irregular motion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jactitation</word>
+				<word number="2">quassation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">shuffling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">twitter</word>
+				<word number="2">flicker</word>
+				<word number="3">flutter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="turbulence">
+			<sg number="1">
+				<word number="1">turbulence</word>
+				<word number="2">perturbation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commotion</word>
+				<word number="2">turmoil</word>
+				<word number="3">disquiet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tumult</word>
+				<word number="2">tumultuation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hubbub</word>
+				<word number="2">rout</word>
+				<word number="3">bustle</word>
+				<word number="4">fuss</word>
+				<word number="5">racket</word>
+				<word number="6">subsultus</word>
+				<word number="7">staggers</word>
+				<word number="8">megrims</word>
+				<word number="9">epilepsy</word>
+				<word number="10">fits</word>
+			</sg>
+			<sg number="5">
+				<word number="1">carphology</word>
+				<word number="2">chorea</word>
+				<word number="3">floccillation</word>
+				<word number="4">the jerks</word>
+				<word number="5">St. Vitus's dance</word>
+				<word number="6">tilmus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="spasm">
+			<sg number="1">
+				<word number="1">spasm</word>
+				<word number="2">throe</word>
+				<word number="3">throb</word>
+				<word number="4">palpitation</word>
+				<word number="5">convulsion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="disturbance">
+			<sg number="1">
+				<word number="1">disturbance</word>
+				<word number="2" paraRef="disorder" headRef="62">chaos</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="changeableness" headRef="156">restlessness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ferment">
+			<sg number="1">
+				<word number="1">ferment</word>
+				<word number="2">fermentation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ebullition</word>
+				<word number="2">effervescence</word>
+				<word number="3">hurly-burly</word>
+				<word number="4">cahotage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tempest</word>
+				<word number="2">storm</word>
+				<word number="3">ground swell</word>
+				<word number="4">heavy sea</word>
+				<word number="5">whirlpool</word>
+				<word number="6" paraRef="vortex" headRef="323">vortex</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wind" headRef="360">whirlwind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be agitated">
+			<sg number="1">
+				<word number="1">be agitated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shake</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tremble</word>
+				<word number="2">tremble like an aspen leaf</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quiver</word>
+				<word number="2">quaver</word>
+				<word number="3">quake</word>
+				<word number="4">shiver</word>
+				<word number="5">twitter</word>
+				<word number="6">twire</word>
+				<word number="7">writhe</word>
+				<word number="8">toss</word>
+				<word number="9">shuffle</word>
+				<word number="10">tumble</word>
+				<word number="11">stagger</word>
+				<word number="12">bob</word>
+				<word number="13">reel</word>
+				<word number="14">sway</word>
+				<word number="15">wag</word>
+				<word number="16">waggle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wriggle</word>
+				<word number="2">wriggle like an eel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dance</word>
+				<word number="2">stumble</word>
+				<word number="3">shamble</word>
+				<word number="4">flounder</word>
+				<word number="5">totter</word>
+				<word number="6">flounce</word>
+				<word number="7">flop</word>
+				<word number="8">curvet</word>
+				<word number="9">prance</word>
+				<word number="10">cavort</word>
+			</sg>
+			<sg number="7">
+				<word number="1">squirm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="throb">
+			<sg number="1">
+				<word number="1">throb</word>
+				<word number="2">pulsate</word>
+				<word number="3">beat</word>
+				<word number="4">palpitate</word>
+				<word number="5">go pitapat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flutter</word>
+				<word number="2">flitter</word>
+				<word number="3">flicker</word>
+				<word number="4">bicker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bustle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ferment">
+			<sg number="1">
+				<word number="1">ferment</word>
+				<word number="2">effervesce</word>
+				<word number="3">foam</word>
+			</sg>
+			<sg number="2">
+				<word number="1">boil</word>
+				<word number="2">boil over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bubble up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">simmer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="toss about">
+			<sg number="1">
+				<word number="1">toss about</word>
+				<word number="2">jump about</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jump like a parched pea</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shake like an aspen leaf</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shake to its center</word>
+				<word number="2">shake to its foundations</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be the sport of the winds and waves</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reel to and fro like a drunken man</word>
+			</sg>
+			<sg number="7">
+				<word number="1">move from post to pillar and from pillar to post</word>
+				<word number="2">drive from post to pillar and from pillar to post</word>
+				<word number="3">keep between hawk and buzzard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="agitate">
+			<sg number="1">
+				<word number="1">agitate</word>
+				<word number="2">shake</word>
+				<word number="3">convulse</word>
+				<word number="4">toss</word>
+				<word number="5">tumble</word>
+				<word number="6">bandy</word>
+				<word number="7">wield</word>
+				<word number="8">brandish</word>
+				<word number="9">flap</word>
+				<word number="10">flourish</word>
+				<word number="11">whisk</word>
+				<word number="12">jerk</word>
+				<word number="13">hitch</word>
+				<word number="14">jolt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jog</word>
+				<word number="2">joggle</word>
+				<word number="3">jostle</word>
+				<word number="4">buffet</word>
+				<word number="5">hustle</word>
+				<word number="6">disturb</word>
+				<word number="7">stir</word>
+				<word number="8">shake up</word>
+				<word number="9">churn</word>
+				<word number="10">jounce</word>
+				<word number="11">wallop</word>
+				<word number="12">whip</word>
+				<word number="13">vellicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="shaking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">shaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agitated</word>
+				<word number="2">tremulous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">desultory</word>
+				<word number="2">subsultory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">saltatoric</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quasative</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shambling</word>
+			</sg>
+			<sg number="7">
+				<word number="1">giddy-paced</word>
+				<word number="2">saltatory</word>
+				<word number="3">convulsive</word>
+				<word number="4">unquiet</word>
+				<word number="5">restless</word>
+				<word number="6">all of a twitter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by fits and starts">
+			<sg number="1">
+				<word number="1">by fits and starts</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">subsultorily|</word>
+			</sg>
+			<sg number="3">
+				<word number="1">per saltum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hop skip and jump</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in convulsions</word>
+				<word number="2">in fits</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="tempete dans un verre d'eau">
+			<sg number="1">
+				<word number="1">tempete dans un verre d'eau</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="335" name="Softness" origNum="#324." class="3" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="softness">
+			<sg number="1">
+				<word number="1">softness</word>
+				<word number="2" paraRef="" posRef="adj.">pliableness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flexibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pliancy</word>
+				<word number="2">pliability</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sequacity</word>
+				<word number="2">malleability</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ductility</word>
+				<word number="2">tractility</word>
+			</sg>
+			<sg number="6">
+				<word number="1">extendibility</word>
+				<word number="2">extensibility</word>
+			</sg>
+			<sg number="7">
+				<word number="1">plasticity</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inelasticity</word>
+				<word number="2">flaccidity</word>
+				<word number="3">laxity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="penetrability">
+			<sg number="1">
+				<word number="1">penetrability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="clay">
+			<sg number="1">
+				<word number="1">clay</word>
+				<word number="2">wax</word>
+				<word number="3">butter</word>
+				<word number="4">dough</word>
+				<word number="5">pudding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alumina</word>
+				<word number="2">argil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cushion</word>
+				<word number="2">pillow</word>
+				<word number="3">feather bed</word>
+				<word number="4">down</word>
+				<word number="5">padding</word>
+				<word number="6">wadding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">foam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mollification">
+			<sg number="1">
+				<word number="1">mollification</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">softening</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render -soft">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render -soft</word>
+			</sg>
+			<sg number="2">
+				<word number="1">soften</word>
+				<word number="2">mollify</word>
+				<word number="3">mellow</word>
+				<word number="4">relax</word>
+				<word number="5">temper</word>
+				<word number="6" new="1">loosen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mash</word>
+				<word number="2">knead</word>
+				<word number="3">squash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bend">
+			<sg number="1">
+				<word number="1">bend</word>
+				<word number="2">yield</word>
+				<word number="3">relent</word>
+				<word number="4">relax</word>
+				<word number="5">give</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="plasticize'">
+			<sg number="1">
+				<word number="1">plasticize'</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="soft">
+			<sg number="1">
+				<word number="1">soft</word>
+				<word number="2">tender</word>
+				<word number="3">supple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pliant</word>
+				<word number="2">pliable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flexible</word>
+				<word number="2">flexile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lithe</word>
+				<word number="2">lithesome</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lissom</word>
+				<word number="2">limber</word>
+				<word number="3">plastic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ductile</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tractile</word>
+				<word number="2">tractable</word>
+			</sg>
+			<sg number="8">
+				<word number="1">malleable</word>
+				<word number="2">extensile</word>
+				<word number="3">sequacious</word>
+				<word number="4">inelastic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">aluminous</word>
+			</sg>
+			<sg number="10">
+				<word number="1">remollient</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">brittle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="yielding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">yielding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flabby</word>
+				<word number="2">limp</word>
+				<word number="3">flimsy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="doughy">
+			<sg number="1">
+				<word number="1">doughy</word>
+				<word number="2">spongy</word>
+				<word number="3">penetrable</word>
+				<word number="4">foamy</word>
+				<word number="5">cushiony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="flaccid">
+			<sg number="1">
+				<word number="1">flaccid</word>
+				<word number="2">flocculent</word>
+				<word number="3">downy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">edematous</word>
+				<word number="2">oedematous</word>
+				<word number="3">medullary</word>
+				<word number="4">argillaceous</word>
+				<word number="5">mellow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="soft as butter">
+			<sg number="1">
+				<word number="1">soft as butter</word>
+				<word number="2">soft as down</word>
+				<word number="3">soft as silk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">yielding as wax</word>
+				<word number="2">tender as chicken</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

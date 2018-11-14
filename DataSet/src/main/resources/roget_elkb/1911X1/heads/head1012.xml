@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1012" name="Lawsuit" origNum="#969." class="8" section="4" subSection="5" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lawsuit">
+			<sg number="1">
+				<word number="1">lawsuit</word>
+				<word number="2">suit</word>
+				<word number="3">action</word>
+				<word number="4">cause</word>
+			</sg>
+			<sg number="2">
+				<word number="1">litigation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suit in law</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="dispute" headRef="742">dispute</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">complaint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="citation">
+			<sg number="1">
+				<word number="1">citation</word>
+				<word number="2">arraignment</word>
+				<word number="3">prosecution</word>
+				<word number="4">impeachment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="accusation" headRef="980">accusation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">presentment</word>
+				<word number="2">true bill</word>
+				<word number="3">indictment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="apprehension">
+			<sg number="1">
+				<word number="1">apprehension</word>
+				<word number="2">arrest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">committal</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="restraint" headRef="782">imprisonment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="writ">
+			<sg number="1">
+				<word number="1">writ</word>
+				<word number="2">summons</word>
+				<word number="3">subpoena</word>
+				<word number="4">latitat</word>
+				<word number="5">nisi prius</word>
+			</sg>
+			<sg number="2">
+				<word number="1">venire</word>
+				<word number="2">venire facias      pleadings</word>
+			</sg>
+			<sg number="3">
+				<word number="1">declaration</word>
+				<word number="2">bill</word>
+				<word number="3">claim</word>
+			</sg>
+			<sg number="4">
+				<word number="1">proces verbal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bill of right</word>
+				<word number="2">information</word>
+				<word number="3">corpus delicti</word>
+			</sg>
+			<sg number="6">
+				<word number="1">affidavit</word>
+				<word number="2">state of facts</word>
+			</sg>
+			<sg number="7">
+				<word number="1">answer</word>
+				<word number="2">reply</word>
+				<word number="3">replication</word>
+				<word number="4">plea</word>
+				<word number="5">demurrer</word>
+				<word number="6">rebutter</word>
+				<word number="7">rejoinder</word>
+			</sg>
+			<sg number="8">
+				<word number="1">surrebutter</word>
+				<word number="2">surrejoinder</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">pleading</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="suitor">
+			<sg number="1">
+				<word number="1">suitor</word>
+				<word number="2">party to a suit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plaintiff</word>
+				<word number="2">defendant</word>
+				<word number="3" paraRef="litigant" headRef="980">litigant</word>
+				<word number="4" new="1">petitioner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="hearing">
+			<sg number="1">
+				<word number="1">hearing</word>
+				<word number="2">trial</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="judgment" headRef="503">verdict</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appeal</word>
+				<word number="2">appeal motion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">writ of error</word>
+			</sg>
+			<sg number="5">
+				<word number="1">certiorari</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="case">
+			<sg number="1">
+				<word number="1">case</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decision</word>
+				<word number="2">precedent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decided case</word>
+				<word number="2">reports (legal reference works)</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="conviction">
+			<sg number="1">
+				<word number="1" new="1">conviction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="filing">
+			<sg number="1">
+				<word number="1" new="1">filing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="petition">
+			<sg number="1">
+				<word number="1" new="1">petition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="proceedings">
+			<sg number="1">
+				<word number="1" new="1">proceedings</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="go to law">
+			<sg number="1">
+				<word number="1">go to law</word>
+				<word number="2">appeal to the law</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring to justice</word>
+				<word number="2">bring to trial</word>
+				<word number="3">bring to the bar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put on trial</word>
+				<word number="2">pull up</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="accuse" headRef="980">accuse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prefer a claim</word>
+				<word number="2" paraRef="" posRef="n.">file a claim</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take the law of</word>
+				<word number="2">inform against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="serve with a writ">
+			<sg number="1">
+				<word number="1">serve with a writ</word>
+				<word number="2">cite</word>
+				<word number="3">apprehend</word>
+				<word number="4">arraign</word>
+				<word number="5">sue</word>
+				<word number="6">prosecute</word>
+				<word number="7">bring an action against</word>
+				<word number="8">indict</word>
+				<word number="9">impeach</word>
+				<word number="10">attach</word>
+				<word number="11">distrain</word>
+				<word number="12">commit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arrest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">summon</word>
+				<word number="2">summons</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="restrain" headRef="782">give in charge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="empanel a jury">
+			<sg number="1">
+				<word number="1">empanel a jury</word>
+				<word number="2">implead</word>
+				<word number="3">join issue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">close the pleadings</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set down for hearing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="try">
+			<sg number="1">
+				<word number="1">try</word>
+				<word number="2">hear a cause</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sit in judgment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="adjudicate" headRef="503">adjudicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="litigious">
+			<sg number="1">
+				<word number="1" paraRef="quarrelsome" headRef="742">litigious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">qui tam</word>
+			</sg>
+			<sg number="3">
+				<word number="1">coram judice</word>
+				<word number="2">sub judice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="pendente lite">
+			<sg number="1">
+				<word number="1">pendente lite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="adhuc sub judice lis est">
+			<sg number="1">
+				<word number="1">adhuc sub judice lis est</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accedas ad curiam</word>
+			</sg>
+			<sg number="3">
+				<word number="1">transeat in exemplum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

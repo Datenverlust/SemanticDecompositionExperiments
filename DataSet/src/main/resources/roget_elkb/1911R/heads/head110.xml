@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="110" name="Infinity" origNum="#105." class="1" section="5" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="infinity">
+			<sg number="1">
+				<word number="1">infinity</word>
+				<word number="2">infinitude</word>
+				<word number="3" paraRef="" posRef="adj.">infiniteness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="perpetuity" headRef="118">perpetuity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">boundlessness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be infinite">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be infinite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">know no limits</word>
+				<word number="2">have no limits</word>
+				<word number="3">know no bounds</word>
+				<word number="4">have no bounds</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go on for ever</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="infinite">
+			<sg number="1">
+				<word number="1">infinite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immense</word>
+			</sg>
+			<sg number="3">
+				<word number="1">numberless</word>
+				<word number="2">countless</word>
+				<word number="3">sumless</word>
+				<word number="4">measureless</word>
+				<word number="5" new="1">prophylactic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">innumerable</word>
+				<word number="2">immeasurable</word>
+				<word number="3">incalculable</word>
+				<word number="4">illimitable</word>
+				<word number="5">inexhaustible</word>
+				<word number="6">interminable</word>
+				<word number="7">unfathomable</word>
+				<word number="8">unapproachable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exhaustless</word>
+				<word number="2">indefinite</word>
+			</sg>
+			<sg number="6">
+				<word number="1">without number</word>
+				<word number="2">without measure</word>
+				<word number="3">without limit</word>
+				<word number="4">without end</word>
+			</sg>
+			<sg number="7">
+				<word number="1">incomprehensible</word>
+			</sg>
+			<sg number="8">
+				<word number="1">limitless</word>
+				<word number="2">endless</word>
+				<word number="3">boundless</word>
+				<word number="4">termless</word>
+				<word number="5" new="1">metrically</word>
+				<word number="6" new="1">homogenous</word>
+				<word number="7" new="1">tarmacked</word>
+				<word number="8" new="1">histological</word>
+				<word number="9" new="1">reported</word>
+			</sg>
+			<sg number="9">
+				<word number="1">untold</word>
+				<word number="2">unnumbered</word>
+				<word number="3">unmeasured</word>
+				<word number="4">unbounded</word>
+				<word number="5">unlimited</word>
+			</sg>
+			<sg number="10">
+				<word number="1">illimited</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="perpetual" headRef="118">perpetual</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">accrediting</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">successively</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">friendless</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">rgional</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="infinitely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">infinitely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ad infinitum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="as boundless as the sea">
+			<sg number="1">
+				<word number="1">"as boundless as the sea"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

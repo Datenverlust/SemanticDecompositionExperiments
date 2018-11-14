@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="776" name="Master" origNum="#745." class="7" section="1" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="master">
+			<sg number="1">
+				<word number="1">master</word>
+				<word number="2">padrone</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lord</word>
+				<word number="2">lord paramount</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commander</word>
+				<word number="2">commandant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">captain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chief</word>
+				<word number="2">chieftain</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sirdar</word>
+				<word number="2">sachem</word>
+				<word number="3">sheik</word>
+				<word number="4">head</word>
+				<word number="5">senior</word>
+				<word number="6">governor</word>
+				<word number="7">ruler</word>
+				<word number="8">dictator</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="director" headRef="723">leader</word>
+			</sg>
+			<sg number="8">
+				<word number="1">boss</word>
+				<word number="2">cockarouse</word>
+				<word number="3">sagamore</word>
+				<word number="4">werowance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lord of the ascendant">
+			<sg number="1">
+				<word number="1">lord of the ascendant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cock of the walk</word>
+				<word number="2">cock of the roost</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gray mare</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mistress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="potentate">
+			<sg number="1">
+				<word number="1">potentate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">liege</word>
+				<word number="2">liege lord</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suzerain</word>
+				<word number="2">sovereign</word>
+				<word number="3">monarch</word>
+				<word number="4">autocrat</word>
+				<word number="5">despot</word>
+				<word number="6">tyrant</word>
+				<word number="7">oligarch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="crowned head">
+			<sg number="1">
+				<word number="1">crowned head</word>
+				<word number="2">emperor</word>
+				<word number="3">king</word>
+				<word number="4">anointed king</word>
+				<word number="5">majesty</word>
+				<word number="6">imperator</word>
+				<word number="7">protector</word>
+				<word number="8">president</word>
+				<word number="9">stadholder</word>
+				<word number="10">judge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ceasar">
+			<sg number="1">
+				<word number="1">ceasar</word>
+				<word number="2">kaiser</word>
+				<word number="3">czar</word>
+				<word number="4">tsar</word>
+				<word number="5">sultan</word>
+				<word number="6">soldan</word>
+				<word number="7">grand Turk</word>
+				<word number="8">caliph</word>
+				<word number="9">imaum</word>
+				<word number="10">shah</word>
+				<word number="11">padishah</word>
+				<word number="12">sophi</word>
+				<word number="13">mogul</word>
+				<word number="14">great mogul</word>
+				<word number="15">khan</word>
+				<word number="16">lama</word>
+				<word number="17">tycoon</word>
+				<word number="18">mikado</word>
+				<word number="19">tenno</word>
+				<word number="20">inca</word>
+				<word number="21">cazique</word>
+			</sg>
+			<sg number="2">
+				<word number="1">voivode</word>
+			</sg>
+			<sg number="3">
+				<word number="1">landamman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seyyid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Abuna</word>
+				<word number="2">cacique</word>
+				<word number="3">czarowitz</word>
+				<word number="4">grand seignior</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="prince">
+			<sg number="1">
+				<word number="1">prince</word>
+				<word number="2" paraRef="nobility" headRef="914">duke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archduke</word>
+				<word number="2">doge</word>
+				<word number="3">elector</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seignior</word>
+			</sg>
+			<sg number="4">
+				<word number="1">marland</word>
+				<word number="2">margrave</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rajah</word>
+				<word number="2">emir</word>
+				<word number="3">wali</word>
+				<word number="4">sheik nizam</word>
+				<word number="5">nawab</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="empress">
+			<sg number="1">
+				<word number="1">empress</word>
+				<word number="2">queen</word>
+				<word number="3">sultana</word>
+				<word number="4">czarina</word>
+				<word number="5">princess</word>
+				<word number="6">infanta</word>
+				<word number="7">duchess</word>
+				<word number="8">margravine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">czarevna</word>
+				<word number="2">czarita</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maharani</word>
+				<word number="2">rani</word>
+				<word number="3">rectrix</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="regent">
+			<sg number="1">
+				<word number="1">regent</word>
+				<word number="2">viceroy</word>
+				<word number="3">exarch</word>
+				<word number="4">palatine</word>
+				<word number="5">khedive</word>
+				<word number="6">hospodar</word>
+				<word number="7">beglerbeg</word>
+				<word number="8">three-tailed bashaw</word>
+				<word number="9">pasha</word>
+				<word number="10">bashaw</word>
+				<word number="11">bey</word>
+				<word number="12">beg</word>
+				<word number="13">dey</word>
+				<word number="14">scherif</word>
+				<word number="15">tetrarch</word>
+				<word number="16">satrap</word>
+				<word number="17">mandarin</word>
+				<word number="18">subahdar</word>
+				<word number="19">nabob</word>
+				<word number="20">maharajah</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burgrave</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="proprietor" headRef="812">laird</word>
+			</sg>
+			<sg number="4">
+				<word number="1">collector</word>
+				<word number="2">commissioner</word>
+				<word number="3">deputy commissioner</word>
+				<word number="4">woon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="the authorities">
+			<sg number="1">
+				<word number="1">the authorities</word>
+				<word number="2">the powers that be</word>
+				<word number="3">the government</word>
+			</sg>
+			<sg number="2">
+				<word number="1">staff</word>
+				<word number="2">etat major</word>
+				<word number="3">aga</word>
+				<word number="4">official</word>
+				<word number="5">man in office</word>
+				<word number="6">person in authority</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sircar</word>
+				<word number="2">sirkar</word>
+				<word number="3">Sublime Porte</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="marshal">
+			<sg number="1">
+				<word number="1">marshal</word>
+				<word number="2">field marshal</word>
+				<word number="3">marechal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">general</word>
+				<word number="2">generalissimo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commander in chief</word>
+				<word number="2">seraskier</word>
+				<word number="3">hetman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lieutenant general</word>
+				<word number="2">major general</word>
+			</sg>
+			<sg number="5">
+				<word number="1">colonel</word>
+				<word number="2">lieutenant colonel</word>
+				<word number="3">major</word>
+				<word number="4">captain</word>
+				<word number="5">centurion</word>
+				<word number="6">skipper</word>
+				<word number="7">lieutenant</word>
+				<word number="8">first lieutenant</word>
+				<word number="9">second lieutenant</word>
+				<word number="10">sublieutenant</word>
+				<word number="11">officer</word>
+				<word number="12">staff officer</word>
+				<word number="13">aide-de-camp</word>
+				<word number="14">brigadier</word>
+				<word number="15">brigade major</word>
+				<word number="16">adjutant</word>
+				<word number="17">jemidar</word>
+				<word number="18">ensign</word>
+				<word number="19">cornet</word>
+				<word number="20">cadet</word>
+				<word number="21">subaltern</word>
+				<word number="22">noncommissioned officer</word>
+				<word number="23">warrant officer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sergeant</word>
+				<word number="2">sergeant major</word>
+			</sg>
+			<sg number="7">
+				<word number="1">color sergeant</word>
+			</sg>
+			<sg number="8">
+				<word number="1">corporal</word>
+				<word number="2">corporal major</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lance corporal</word>
+				<word number="2">acting corporal</word>
+			</sg>
+			<sg number="10">
+				<word number="1">drum major</word>
+			</sg>
+			<sg number="11">
+				<word number="1">captain general</word>
+				<word number="2">dizdar</word>
+				<word number="3">knight marshal</word>
+				<word number="4">naik</word>
+				<word number="5">pendragon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="mayor">
+			<sg number="1">
+				<word number="1">mayor</word>
+				<word number="2">mayoralty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prefect</word>
+				<word number="2">chancellor</word>
+				<word number="3">archon</word>
+				<word number="4">provost</word>
+				<word number="5">magistrate</word>
+				<word number="6">syndic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alcalde</word>
+				<word number="2">alcaid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">burgomaster</word>
+				<word number="2">corregidor</word>
+				<word number="3">seneschal</word>
+				<word number="4">alderman</word>
+				<word number="5">councilman</word>
+				<word number="6">committeeman</word>
+				<word number="7">councilwoman</word>
+				<word number="8">warden</word>
+				<word number="9">constable</word>
+				<word number="10">portreeve</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lord mayor</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="executive" headRef="1008">officer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dewan</word>
+				<word number="2">fonctionnaire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="admiral">
+			<sg number="1">
+				<word number="1">admiral</word>
+				<word number="2">admiralty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rear admiral</word>
+				<word number="2">vice admiral</word>
+				<word number="3">port admiral</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commodore</word>
+				<word number="2">captain</word>
+				<word number="3">commander</word>
+				<word number="4">lieutenant</word>
+				<word number="5">ensign</word>
+				<word number="6">skipper</word>
+				<word number="7">mate</word>
+				<word number="8">master</word>
+				<word number="9">officer of the day</word>
+				<word number="10">OD</word>
+			</sg>
+			<sg number="4">
+				<word number="1">navarch</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="da locum melioribus">
+			<sg number="1">
+				<word number="1">da locum melioribus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">der Furst ist der erste Diener seines Staats</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"lord of thy presence and no land beside"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

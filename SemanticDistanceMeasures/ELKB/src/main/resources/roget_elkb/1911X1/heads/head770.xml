@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="770" name="Severity" origNum="#739." class="7" section="1" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="severity">
+			<sg number="1">
+				<word number="1">severity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strictness</word>
+				<word number="2" paraRef="" posRef="adj.">harshness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rigor</word>
+				<word number="2">stringency</word>
+				<word number="3">austerity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pitilessness" headRef="955">inclemency</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="arrogance" headRef="924">arrogance</word>
+			</sg>
+			<sg number="6">
+				<word number="1">precisianism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="arbitrary power">
+			<sg number="1">
+				<word number="1">arbitrary power</word>
+			</sg>
+			<sg number="2">
+				<word number="1">absolutism</word>
+				<word number="2">despotism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dictatorship</word>
+				<word number="2">autocracy</word>
+				<word number="3">tyranny</word>
+				<word number="4">domineering</word>
+				<word number="5">oppression</word>
+				<word number="6" new="1">theocracy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assumption</word>
+				<word number="2">usurpation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inquisition</word>
+				<word number="2">reign of terror</word>
+				<word number="3">martial law</word>
+			</sg>
+			<sg number="6">
+				<word number="1">iron heel</word>
+				<word number="2">iron rule</word>
+				<word number="3">iron hand</word>
+				<word number="4">iron sway</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tight grasp</word>
+			</sg>
+			<sg number="8">
+				<word number="1">brute force</word>
+				<word number="2">brute strength</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="coercion" headRef="775">coercion</word>
+			</sg>
+			<sg number="10">
+				<word number="1">strong hand</word>
+				<word number="2">tight hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hard lines">
+			<sg number="1">
+				<word number="1">hard lines</word>
+				<word number="2">hard measure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tender mercies</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sharp practice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pipe-clay</word>
+				<word number="2">officialism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tyrant">
+			<sg number="1">
+				<word number="1">tyrant</word>
+				<word number="2">disciplinarian</word>
+				<word number="3">precisian</word>
+				<word number="4">martinet</word>
+				<word number="5">stickler</word>
+				<word number="6">bashaw</word>
+				<word number="7">despot</word>
+				<word number="8">hard master</word>
+				<word number="9">Draco</word>
+				<word number="10">oppressor</word>
+				<word number="11">inquisitor</word>
+				<word number="12">extortioner</word>
+				<word number="13">harpy</word>
+				<word number="14">vulture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accipitres</word>
+				<word number="2">birds of prey</word>
+				<word number="3">raptorials</word>
+				<word number="4">raptors</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -severe">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -severe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="assume">
+			<sg number="1">
+				<word number="1">assume</word>
+				<word number="2">usurp</word>
+				<word number="3">arrogate</word>
+				<word number="4">take liberties</word>
+			</sg>
+			<sg number="2">
+				<word number="1">domineer</word>
+				<word number="2" paraRef="bully" headRef="924">bully</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tyrannize</word>
+				<word number="2">inflict</word>
+				<word number="3">wreak</word>
+				<word number="4">stretch a point</word>
+				<word number="5">put on the screw</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be hard upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bear a heavy hand on</word>
+				<word number="2">lay a heavy hand on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be down upon</word>
+				<word number="2">come down upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ill treat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">deal hardly with</word>
+				<word number="2">deal hard measure to</word>
+			</sg>
+			<sg number="9">
+				<word number="1">rule with a rod of iron</word>
+				<word number="2">chastise with scorpions</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dye with blood</word>
+			</sg>
+			<sg number="11">
+				<word number="1">oppress</word>
+				<word number="2">override</word>
+			</sg>
+			<sg number="12">
+				<word number="1">trample under foot</word>
+			</sg>
+			<sg number="13">
+				<word number="1">tread under foot</word>
+				<word number="2">tread upon</word>
+				<word number="3">trample upon</word>
+				<word number="4">tread down upon</word>
+				<word number="5">trample down upon</word>
+			</sg>
+			<sg number="14">
+				<word number="1">crush under an iron heel</word>
+				<word number="2">ride roughshod over</word>
+			</sg>
+			<sg number="15">
+				<word number="1">rivet the yoke</word>
+			</sg>
+			<sg number="16">
+				<word number="1">hold a tight hand</word>
+				<word number="2">keep a tight hand</word>
+			</sg>
+			<sg number="17">
+				<word number="1">force down the throat</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="coerce" headRef="775">coerce</word>
+			</sg>
+			<sg number="19">
+				<word number="1" paraRef="pitiless" headRef="955">give no quarter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="severe">
+			<sg number="1">
+				<word number="1">severe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strict</word>
+				<word number="2">hard</word>
+				<word number="3">harsh</word>
+				<word number="4">dour</word>
+				<word number="5">rigid</word>
+				<word number="6">stiff</word>
+				<word number="7">stern</word>
+				<word number="8">rigorous</word>
+				<word number="9">uncompromising</word>
+				<word number="10">exacting</word>
+				<word number="11">exigent</word>
+				<word number="12">exigeant</word>
+				<word number="13">inexorable</word>
+				<word number="14">inflexible</word>
+				<word number="15">obdurate</word>
+				<word number="16">austere</word>
+				<word number="17">hard-headed</word>
+				<word number="18">hard-nosed</word>
+				<word number="19">hard-shell</word>
+				<word number="20">relentless</word>
+				<word number="21">Spartan</word>
+				<word number="22">Draconian</word>
+				<word number="23">stringent</word>
+				<word number="24">strait-laced</word>
+				<word number="25">searching</word>
+				<word number="26">unsparing</word>
+				<word number="27">iron- handed</word>
+				<word number="28">peremptory</word>
+				<word number="29">absolute</word>
+				<word number="30">positive</word>
+				<word number="31">arbitrary</word>
+				<word number="32">imperative</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="coercive" headRef="775">coercive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tyrannical</word>
+				<word number="2">extortionate</word>
+				<word number="3">grinding</word>
+				<word number="4">withering</word>
+				<word number="5">oppressive</word>
+				<word number="6">inquisitorial</word>
+				<word number="7" new="1">corrupt</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="ruthless" headRef="955">inclement</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="malevolent" headRef="947">cruel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">haughty</word>
+				<word number="2" paraRef="arrogant" headRef="924">arrogant</word>
+				<word number="3" new="1">overbearing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">precisian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="severely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">severely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with a high hand</word>
+				<word number="2">with a strong hand</word>
+				<word number="3">with a tight hand</word>
+				<word number="4">with a heavy hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="at the point of the sword">
+			<sg number="1">
+				<word number="1">at the point of the sword</word>
+				<word number="2">at the point of the bayonet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Delirant reges plectuntur Achivi">
+			<sg number="1">
+				<word number="1">Delirant reges plectuntur Achivi</word>
+			</sg>
+			<sg number="2">
+				<word number="1">manu forti</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ogni debole ha sempre il suo tiranno</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

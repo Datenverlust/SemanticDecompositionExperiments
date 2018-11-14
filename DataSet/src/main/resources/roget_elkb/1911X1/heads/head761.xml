@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="761" name="Failure" origNum="#732." class="6" section="5" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="failure">
+			<sg number="1">
+				<word number="1">failure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nonsuccess</word>
+				<word number="2">nonfulfillment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dead failure</word>
+				<word number="2">successlessness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abortion</word>
+				<word number="2">miscarriage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="brutum fulmen" headRef="165">brutum fulmen</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="inutility" headRef="674">labor in vain</word>
+			</sg>
+			<sg number="7">
+				<word number="1">no go</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inefficacy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="adj.">inefficaciousness</word>
+			</sg>
+			<sg number="10">
+				<word number="1">vain attempt</word>
+				<word number="2">ineffectual attempt</word>
+				<word number="3">abortive attempt</word>
+				<word number="4">abortive efforts</word>
+			</sg>
+			<sg number="11">
+				<word number="1">flash in the pan</word>
+				<word number="2">"lame and impotent conclusion"</word>
+			</sg>
+			<sg number="12">
+				<word number="1">frustration</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="disappointment" headRef="533">slip 'twixt cup and lip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="blunder">
+			<sg number="1">
+				<word number="1" paraRef="mistake" headRef="519">blunder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fault</word>
+				<word number="2">omission</word>
+				<word number="3">miss</word>
+				<word number="4">oversight</word>
+				<word number="5">slip</word>
+				<word number="6">trip</word>
+				<word number="7">stumble</word>
+				<word number="8">claudication</word>
+				<word number="9">footfall</word>
+			</sg>
+			<sg number="3">
+				<word number="1">false step</word>
+				<word number="2">wrong step</word>
+			</sg>
+			<sg number="4">
+				<word number="1">faux pas</word>
+				<word number="2">titubation</word>
+				<word number="3">bévue</word>
+				<word number="4">faute</word>
+				<word number="5">lurch</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="want of skill" headRef="728">botchery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">scrape</word>
+				<word number="2">mess</word>
+				<word number="3">fiasco</word>
+				<word number="4">breakdown</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flunk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mishap">
+			<sg number="1">
+				<word number="1" paraRef="misfortune" headRef="764">mishap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">split</word>
+				<word number="2">collapse</word>
+				<word number="3">smash</word>
+				<word number="4">blow</word>
+				<word number="5">explosion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="repulse">
+			<sg number="1">
+				<word number="1">repulse</word>
+				<word number="2">rebuff</word>
+				<word number="3">defeat</word>
+				<word number="4">rout</word>
+				<word number="5">overthrow</word>
+				<word number="6">discomfiture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beating</word>
+				<word number="2">drubbing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quietus</word>
+				<word number="2">nonsuit</word>
+				<word number="3">subjugation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">checkmate</word>
+				<word number="2">stalemate</word>
+				<word number="3">fool's mate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fall">
+			<sg number="1">
+				<word number="1">fall</word>
+				<word number="2">downfall</word>
+				<word number="3">ruin</word>
+				<word number="4">perdition</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destruction" headRef="169">wreck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deathblow</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="nonpayment" headRef="843">bankruptcy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="losing game">
+			<sg number="1">
+				<word number="1">losing game</word>
+				<word number="2">affaire flambée</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="victim">
+			<sg number="1">
+				<word number="1">victim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bankrupt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flunker</word>
+				<word number="2">flunky</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fail">
+			<sg number="1">
+				<word number="1">fail</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be unsuccessful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="succeed" headRef="760">not succeed</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">make vain efforts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">do in vain</word>
+				<word number="2">labor in vain</word>
+				<word number="3">toil in vain</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flunk</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lose one's labor</word>
+				<word number="2">take nothing by one's motion</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bring to naught</word>
+				<word number="2">make nothing of</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="impossible" headRef="494">wash a blackamoor white</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="useless" headRef="674">roll the stones of Sisyphus</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="not complete" headRef="759">do by halves</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="recede" headRef="298">lose ground</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="fall short of" headRef="315">fall short of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="miss">
+			<sg number="1">
+				<word number="1">miss</word>
+				<word number="2">miss one's aim</word>
+				<word number="3">miss the mark</word>
+				<word number="4">miss one's footing</word>
+				<word number="5">miss stays</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slip</word>
+				<word number="2">trip</word>
+				<word number="3">stumble</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">make a slip</word>
+				<word number="2" paraRef="blunder" headRef="519">blunder</word>
+				<word number="3">make a mess of</word>
+				<word number="4">make a botch of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bitch it</word>
+				<word number="2">miscarry</word>
+				<word number="3">abort</word>
+				<word number="4">go up like a rocket and come down like the stick</word>
+				<word number="5">come down in flames</word>
+				<word number="6">get shot down</word>
+				<word number="7">reckon without one's host</word>
+			</sg>
+			<sg number="5">
+				<word number="1">get the wrong pig by the tail</word>
+				<word number="2" paraRef="blunder" headRef="728">get the wrong sow by the ear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="limp">
+			<sg number="1">
+				<word number="1">limp</word>
+				<word number="2">halt</word>
+				<word number="3">hobble</word>
+				<word number="4">titubate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall</word>
+				<word number="2">tumble</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lose one's balance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fall to the ground</word>
+				<word number="2">fall between two stools</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flounder</word>
+				<word number="2">falter</word>
+				<word number="3">stick in the mud</word>
+				<word number="4">run aground</word>
+				<word number="5">split upon a rock</word>
+			</sg>
+			<sg number="6">
+				<word number="1">beat one's head against a stone wall</word>
+				<word number="2">run one's head against a stone wall</word>
+				<word number="3">knock one's head against a stone wall</word>
+				<word number="4">dash one's head against a stone wall</word>
+			</sg>
+			<sg number="7">
+				<word number="1">break one's back</word>
+			</sg>
+			<sg number="8">
+				<word number="1">break down</word>
+				<word number="2">sink</word>
+				<word number="3">drown</word>
+				<word number="4">founder</word>
+				<word number="5">have the ground cut from under one</word>
+			</sg>
+			<sg number="9">
+				<word number="1">get into trouble</word>
+				<word number="2">get into a mess</word>
+				<word number="3">get into a scrape</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="adversity" headRef="764">come to grief</word>
+			</sg>
+			<sg number="11">
+				<word number="1">go to the wall</word>
+				<word number="2">go to the dogs</word>
+				<word number="3">go to pot</word>
+			</sg>
+			<sg number="12">
+				<word number="1">lick the dust</word>
+				<word number="2">bite the dust</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="defeat" headRef="760">be defeated</word>
+			</sg>
+			<sg number="14">
+				<word number="1">have the worst of it</word>
+				<word number="2">lose the day</word>
+				<word number="3">come off second best</word>
+				<word number="4">lose</word>
+			</sg>
+			<sg number="15">
+				<word number="1">fall a prey to</word>
+			</sg>
+			<sg number="16">
+				<word number="1" paraRef="submit" headRef="754">succumb</word>
+			</sg>
+			<sg number="17">
+				<word number="1">not have a leg to stand on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="come to nothing">
+			<sg number="1">
+				<word number="1">come to nothing</word>
+				<word number="2">end in smoke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flat out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall to the ground</word>
+				<word number="2">fall through</word>
+				<word number="3">fall dead</word>
+				<word number="4">fall stillborn</word>
+				<word number="5">fall flat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">slip through one's fingers</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hang fire</word>
+				<word number="2">miss fire</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flash in the pan</word>
+				<word number="2">collapse</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="descent" headRef="317">topple down</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="destruction" headRef="169">go to wrack and ruin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="go amiss">
+			<sg number="1">
+				<word number="1">go amiss</word>
+				<word number="2">go wrong</word>
+				<word number="3">go cross</word>
+				<word number="4">go hard with</word>
+				<word number="5">go on a wrong tack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go on ill</word>
+				<word number="2">come off ill</word>
+				<word number="3">turn out ill</word>
+				<word number="4">work ill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take a wrong term</word>
+				<word number="2">take an ugly term</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take an ugly turn</word>
+				<word number="2">take a turn for the worse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="be all over with">
+			<sg number="1">
+				<word number="1">be all over with</word>
+				<word number="2">be all up with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">explode</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disappoint" headRef="533">dash one's hopes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">defeat the purpose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sow the wind and reap the whirlwind</word>
+				<word number="2">jump out of the frying pan into the fire</word>
+				<word number="3">go from the frying pan into the fire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unsuccessful">
+			<sg number="1">
+				<word number="1">unsuccessful</word>
+				<word number="2">successless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">failing</word>
+				<word number="2" paraRef="" posRef="v.">tripping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">at fault</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unfortunate" headRef="764">unfortunate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="abortive">
+			<sg number="1">
+				<word number="1">abortive</word>
+				<word number="2">addle</word>
+				<word number="3">stillborn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fruitless</word>
+				<word number="2">bootless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ineffectual</word>
+				<word number="2">ineffective</word>
+				<word number="3">inconsequential</word>
+				<word number="4">trifling</word>
+				<word number="5">nugatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="impotent" headRef="165">inefficient</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="insufficient" headRef="669">insufficient</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="useless" headRef="674">unavailing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">of no effect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aground">
+			<sg number="1">
+				<word number="1">aground</word>
+				<word number="2">grounded</word>
+				<word number="3">swamped</word>
+				<word number="4">stranded</word>
+				<word number="5">cast away</word>
+				<word number="6">wrecked</word>
+				<word number="7">foundered</word>
+				<word number="8">capsized</word>
+				<word number="9">shipwrecked</word>
+				<word number="10">nonsuited</word>
+			</sg>
+			<sg number="2">
+				<word number="1">foiled</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="defeat" headRef="760">defeated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">struck down</word>
+				<word number="2">borne down</word>
+				<word number="3">broken down</word>
+			</sg>
+			<sg number="5">
+				<word number="1">downtrodden</word>
+			</sg>
+			<sg number="6">
+				<word number="1">overborne</word>
+				<word number="2">overwhelmed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">all up with</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ploughed</word>
+				<word number="2">plowed</word>
+				<word number="3">plucked</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lost">
+			<sg number="1">
+				<word number="1">lost</word>
+				<word number="2">undone</word>
+				<word number="3">ruined</word>
+				<word number="4">broken</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="not paying" headRef="843">bankrupt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">played out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">done up</word>
+				<word number="2">done for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dead beat</word>
+				<word number="2">ruined root and branch</word>
+				<word number="3">flambe</word>
+				<word number="4">knocked on the head</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="destroyed" headRef="169">destroyed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="frustrated">
+			<sg number="1">
+				<word number="1">frustrated</word>
+				<word number="2">crossed</word>
+				<word number="3">unhinged</word>
+				<word number="4">disconcerted dashed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thrown off one's balance</word>
+				<word number="2">thrown on one's back</word>
+				<word number="3">thrown on one's beam ends</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unhorsed</word>
+				<word number="2">in a sorry plight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hard hit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="stultified">
+			<sg number="1">
+				<word number="1">stultified</word>
+				<word number="2">befooled</word>
+				<word number="3">dished</word>
+				<word number="4">hoist on one's own petard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">victimized</word>
+				<word number="2">sacrificed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="wide of the mark">
+			<sg number="1">
+				<word number="1" paraRef="error" headRef="519">wide of the mark</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inexpectation" headRef="532">out of one's reckoning</word>
+			</sg>
+			<sg number="3">
+				<word number="1">left in the lurch</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wasted" headRef="667">thrown away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unattained</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="uncompleted" headRef="759">uncompleted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="unsuccessfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">unsuccessfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to little or no purpose</word>
+				<word number="2">in vain</word>
+				<word number="3">re infecta</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the bubble has burst">
+			<sg number="1">
+				<word number="1">the bubble has burst</word>
+				<word number="2">"the jig is up"</word>
+				<word number="3">"the game is up"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">all is lost</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the devil to pay</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disappointment" headRef="533">parturiunt montes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dies infaustus</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tout est perdu hors l'honneur</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

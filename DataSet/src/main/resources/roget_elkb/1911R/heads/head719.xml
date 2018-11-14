@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="719" name="Agent" origNum="#690." class="6" section="3" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="doer">
+			<sg number="1">
+				<word number="1">doer</word>
+				<word number="2">actor</word>
+				<word number="3">agent</word>
+				<word number="4">performer</word>
+				<word number="5">perpetrator</word>
+				<word number="6">operator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">executor</word>
+				<word number="2">executrix</word>
+			</sg>
+			<sg number="3">
+				<word number="1">practitioner</word>
+				<word number="2">worker</word>
+				<word number="3">stager</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bee">
+			<sg number="1">
+				<word number="1">bee</word>
+				<word number="2">ant</word>
+				<word number="3">working bee</word>
+				<word number="4">termite</word>
+				<word number="5">white ant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laboring oar</word>
+				<word number="2">servant of all work</word>
+				<word number="3">factotum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="workman">
+			<sg number="1">
+				<word number="1">workman</word>
+				<word number="2">artisan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">craftsman</word>
+				<word number="2">handicraftsman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mechanic</word>
+				<word number="2">operative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">working man</word>
+			</sg>
+			<sg number="5">
+				<word number="1">laboring man</word>
+			</sg>
+			<sg number="6">
+				<word number="1">demiurgus</word>
+				<word number="2">hewers of wood and drawers of water</word>
+				<word number="3">laborer</word>
+				<word number="4">navvy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hand</word>
+				<word number="2">man</word>
+				<word number="3">day laborer</word>
+				<word number="4">journeyman</word>
+				<word number="5">charwoman</word>
+				<word number="6">hack</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="tool" headRef="662">mere tool</word>
+			</sg>
+			<sg number="9">
+				<word number="1">beast of burden</word>
+				<word number="2">drudge</word>
+				<word number="3">fag</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lumper</word>
+				<word number="2">roustabout</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">curvature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="maker">
+			<sg number="1">
+				<word number="1">maker</word>
+				<word number="2">artificer</word>
+				<word number="3">artist</word>
+				<word number="4">wright</word>
+				<word number="5">manufacturer</word>
+				<word number="6">architect</word>
+				<word number="7">builder</word>
+				<word number="8">mason</word>
+				<word number="9">bricklayer</word>
+				<word number="10">smith</word>
+				<word number="11">forger</word>
+				<word number="12">Vulcan</word>
+				<word number="13" new="1">levying</word>
+				<word number="14" new="1">saffron</word>
+			</sg>
+			<sg number="2">
+				<word number="1">carpenter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ganger</word>
+				<word number="2">platelayer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blacksmith</word>
+				<word number="2">locksmith</word>
+				<word number="3">sailmaker</word>
+				<word number="4">wheelwright</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">tea</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">illegalism</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">knave</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ashfall</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">gastrula</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">veering</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">backhoe</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">marjoram</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="machinist">
+			<sg number="1">
+				<word number="1">machinist</word>
+				<word number="2">mechanician</word>
+				<word number="3">engineer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sempstress">
+			<sg number="1">
+				<word number="1">sempstress</word>
+				<word number="2">semstress</word>
+				<word number="3">seamstress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">needlewoman</word>
+				<word number="2">workwoman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tailor</word>
+				<word number="2">cordwainer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="minister">
+			<sg number="1">
+				<word number="1" paraRef="instrument" headRef="660">minister</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="servant" headRef="777">servant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="commissioner" headRef="789">representative</word>
+				<word number="2" paraRef="deputy" headRef="790">deputy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="coworker">
+			<sg number="1">
+				<word number="1">coworker</word>
+				<word number="2">party to</word>
+				<word number="3">participator in</word>
+				<word number="4">particeps criminis</word>
+				<word number="5">dramatis personae</word>
+			</sg>
+			<sg number="2">
+				<word number="1">personnel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="crescent">
+			<sg number="1">
+				<word number="1" new="1">crescent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="explicitness">
+			<sg number="1">
+				<word number="1" new="1">explicitness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="quorum pars magna fui">
+			<sg number="1">
+				<word number="1">quorum pars magna fui</word>
+			</sg>
+			<sg number="2">
+				<word number="1">faber est quisque fortunae suae</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

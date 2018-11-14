@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="868" name="Painfulness" origNum="#830." class="8" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="painfulness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">painfulness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cause of pain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">source of pain</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trouble</word>
+				<word number="2" paraRef="pain" headRef="866">care</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trial</word>
+			</sg>
+			<sg number="6">
+				<word number="1">affliction</word>
+				<word number="2">infliction</word>
+			</sg>
+			<sg number="7">
+				<word number="1">blow</word>
+				<word number="2">stroke</word>
+				<word number="3">burden</word>
+				<word number="4">load</word>
+				<word number="5">curse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bitter pill</word>
+				<word number="2">bitter draught</word>
+			</sg>
+			<sg number="9">
+				<word number="1">waters of bitterness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="annoyance">
+			<sg number="1">
+				<word number="1">annoyance</word>
+				<word number="2">grievance</word>
+				<word number="3">nuisance</word>
+				<word number="4">vexation</word>
+				<word number="5">mortification</word>
+				<word number="6">sickener</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bore</word>
+				<word number="2">bother</word>
+				<word number="3">pother</word>
+				<word number="4">hot water</word>
+				<word number="5">"sea of troubles"</word>
+				<word number="6">hornet's nest</word>
+				<word number="7">plague</word>
+				<word number="8">pest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cancer">
+			<sg number="1">
+				<word number="1">cancer</word>
+				<word number="2">ulcer</word>
+				<word number="3">sting</word>
+				<word number="4">thorn</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bane" headRef="692">canker</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="evil doer" headRef="953">scorpion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="arms" headRef="756">dagger</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="instrument of punishment" headRef="1018">scourge</word>
+			</sg>
+			<sg number="6">
+				<word number="1">carking care</word>
+				<word number="2">canker worm of care</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mishap">
+			<sg number="1">
+				<word number="1">mishap</word>
+				<word number="2" paraRef="adversity" headRef="764">misfortune</word>
+			</sg>
+			<sg number="2">
+				<word number="1">desagrement</word>
+				<word number="2">esclandre</word>
+				<word number="3">rub</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="source of irritation">
+			<sg number="1">
+				<word number="1">source of irritation</word>
+				<word number="2">source of annoyance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wound</word>
+				<word number="2">open sore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sore subject</word>
+				<word number="2">skeleton in the closet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thorn in the flesh</word>
+				<word number="2">thorn in one's side</word>
+			</sg>
+			<sg number="5">
+				<word number="1">where the shoe pinches</word>
+				<word number="2">gall and wormwood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sorry sight">
+			<sg number="1">
+				<word number="1">sorry sight</word>
+				<word number="2">heavy news</word>
+				<word number="3">provocation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="affront" headRef="971">affront</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"head and front of one's offending"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="infestation">
+			<sg number="1">
+				<word number="1">infestation</word>
+				<word number="2">molestation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="malevolence" headRef="947">malignity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cause pain">
+			<sg number="1">
+				<word number="1">cause pain</word>
+				<word number="2">occasion pain</word>
+				<word number="3">give pain</word>
+				<word number="4">bring pain</word>
+				<word number="5">induce pain</word>
+				<word number="6">produce pain</word>
+				<word number="7">create pain</word>
+				<word number="8" paraRef="inflict pain" headRef="868">inflict pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pain</word>
+				<word number="2">hurt</word>
+				<word number="3">wound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pinch">
+			<sg number="1">
+				<word number="1">pinch</word>
+				<word number="2">prick</word>
+				<word number="3" paraRef="physical pain" headRef="391">gripe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pierce</word>
+				<word number="2">lancinate</word>
+				<word number="3">cut</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hurt the feelings">
+			<sg number="1">
+				<word number="1">hurt the feelings</word>
+				<word number="2">wound the feelings</word>
+				<word number="3">grate upon the feelings</word>
+				<word number="4">grate upon the nerves</word>
+				<word number="5">jar upon the feelings</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wring the heart</word>
+				<word number="2">pierce the heart</word>
+				<word number="3">lacerate the heart</word>
+				<word number="4">break the heart</word>
+				<word number="5">rend the heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make the heart bleed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tear the heart strings</word>
+				<word number="2">rend the heart strings</word>
+			</sg>
+			<sg number="5">
+				<word number="1">draw tears from the eyes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sadden">
+			<sg number="1">
+				<word number="1">sadden</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unhappy" headRef="866">make unhappy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plunge into sorrow</word>
+				<word number="2">grieve</word>
+				<word number="3">fash</word>
+				<word number="4">afflict</word>
+				<word number="5">distress</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cut up</word>
+				<word number="2">cut to the heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="displease">
+			<sg number="1">
+				<word number="1">displease</word>
+				<word number="2">annoy</word>
+				<word number="3">incommode</word>
+				<word number="4">discompose</word>
+				<word number="5">trouble</word>
+				<word number="6">disquiet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">faze</word>
+				<word number="2">feaze</word>
+				<word number="3">feeze (US)</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disturb</word>
+				<word number="2">cross</word>
+				<word number="3">perplex</word>
+				<word number="4">molest</word>
+				<word number="5">tease</word>
+				<word number="6">tire</word>
+				<word number="7">irk</word>
+				<word number="8">vex</word>
+				<word number="9">mortify</word>
+				<word number="10">wherret</word>
+				<word number="11">worry</word>
+				<word number="12">plague</word>
+				<word number="13">bother</word>
+				<word number="14">pester</word>
+				<word number="15">bore</word>
+				<word number="16">pother</word>
+				<word number="17">harass</word>
+				<word number="18">harry</word>
+				<word number="19">badger</word>
+				<word number="20">heckle</word>
+				<word number="21">bait</word>
+				<word number="22">beset</word>
+				<word number="23">infest</word>
+				<word number="24">persecute</word>
+				<word number="25">importune</word>
+				<word number="26" new="1">wrack</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">scandalize</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="2">dissatisfy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="3">discontent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="wring">
+			<sg number="1">
+				<word number="1">wring</word>
+				<word number="2">harrow</word>
+				<word number="3">torment</word>
+				<word number="4">torture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bullyrag</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put to the rack</word>
+				<word number="2">put to the question</word>
+			</sg>
+			<sg number="4">
+				<word number="1">break on the wheel</word>
+				<word number="2">rack</word>
+				<word number="3">scarify</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cruciate</word>
+				<word number="2">crucify</word>
+			</sg>
+			<sg number="6">
+				<word number="1">convulse</word>
+				<word number="2">agonize</word>
+			</sg>
+			<sg number="7">
+				<word number="1">barb the dart</word>
+			</sg>
+			<sg number="8">
+				<word number="1">plant a dagger in the breast</word>
+				<word number="2">plant a thorn in one's side</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="irritate">
+			<sg number="1">
+				<word number="1">irritate</word>
+				<word number="2">provoke</word>
+				<word number="3">sting</word>
+				<word number="4">nettle</word>
+				<word number="5">try the patience</word>
+				<word number="6">pique</word>
+				<word number="7">fret</word>
+				<word number="8">rile</word>
+				<word number="9">tweak the nose</word>
+				<word number="10">chafe</word>
+				<word number="11">gall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sting to the quick</word>
+				<word number="2">wound to the quick</word>
+				<word number="3">cut to the quick</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aggrieve</word>
+				<word number="2">affront</word>
+				<word number="3">enchafe</word>
+				<word number="4">enrage</word>
+				<word number="5">ruffle</word>
+				<word number="6">sour the temper</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="resentment" headRef="939">give offense</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">infuriate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">incense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="maltreat">
+			<sg number="1">
+				<word number="1">maltreat</word>
+				<word number="2">bite</word>
+				<word number="3">snap at</word>
+				<word number="4">assail</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="punish" headRef="1015">smite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="sicken">
+			<sg number="1">
+				<word number="1">sicken</word>
+				<word number="2">disgust</word>
+				<word number="3">revolt</word>
+				<word number="4">nauseate</word>
+				<word number="5">disenchant</word>
+				<word number="6">repel</word>
+				<word number="7">offend</word>
+				<word number="8">shock</word>
+				<word number="9">stink in the nostrils</word>
+				<word number="10" new="1">anger</word>
+				<word number="11" new="1">humiliate</word>
+				<word number="12" new="1">outrage</word>
+				<word number="13" new="2">alienate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go against the stomach</word>
+				<word number="2">turn the stomach</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make one sick</word>
+				<word number="2">set the teeth on edge</word>
+				<word number="3">go against the grain</word>
+				<word number="4">grate on the ear</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stick in one's throat</word>
+				<word number="2">stick in one's gizzard</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rankle</word>
+				<word number="2">gnaw</word>
+				<word number="3">corrode</word>
+				<word number="4">horrify</word>
+				<word number="5">appal</word>
+				<word number="6">appall</word>
+				<word number="7">freeze the blood</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make the flesh creep</word>
+				<word number="2">make the hair stand on end</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make the blood curdle</word>
+				<word number="2">make the blood run cold</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make one shudder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="haunt the memory">
+			<sg number="1">
+				<word number="1">haunt the memory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weigh on the heart</word>
+				<word number="2">prey on the heart</word>
+				<word number="3">weigh on the mind</word>
+				<word number="4">prey on the mind</word>
+				<word number="5">weigh on the spirits</word>
+				<word number="6">prey on the spirits</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bring one's gray hairs with sorrow to the grave</word>
+			</sg>
+			<sg number="4">
+				<word number="1">add a nail to one's coffin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="brutalize">
+			<sg number="1">
+				<word number="1" new="1">brutalize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="depress">
+			<sg number="1">
+				<word number="1" new="1">depress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="abuse">
+			<sg number="1">
+				<word number="1" new="2">abuse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="addict">
+			<sg number="1">
+				<word number="1" new="3">addict</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="antagonize">
+			<sg number="1">
+				<word number="1" new="3">antagonize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="disillusion">
+			<sg number="1">
+				<word number="1" new="3">disillusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="insult">
+			<sg number="1">
+				<word number="1" new="3">insult</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="embitter">
+			<sg number="1">
+				<word number="1" new="4">embitter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="taunt">
+			<sg number="1">
+				<word number="1" new="4">taunt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="berate">
+			<sg number="1">
+				<word number="1" new="5">berate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="goad">
+			<sg number="1">
+				<word number="1" new="5">goad</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="causing pain">
+			<sg number="1">
+				<word number="1">causing pain</word>
+				<word number="2" paraRef="" posRef="v.">hurting</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bad" headRef="678">hurtful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">painful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dolorific</word>
+				<word number="2">dolorous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unpleasant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unpleasing</word>
+				<word number="2">displeasing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">disagreeable</word>
+				<word number="2">unpalatable</word>
+				<word number="3">bitter</word>
+				<word number="4">distasteful</word>
+			</sg>
+			<sg number="8">
+				<word number="1">uninviting</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unwelcome</word>
+			</sg>
+			<sg number="10">
+				<word number="1">undesirable</word>
+				<word number="2">undesired</word>
+			</sg>
+			<sg number="11">
+				<word number="1">obnoxious</word>
+			</sg>
+			<sg number="12">
+				<word number="1">unacceptable</word>
+				<word number="2">unpopular</word>
+				<word number="3">thankless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unsatisfactory">
+			<sg number="1">
+				<word number="1">unsatisfactory</word>
+				<word number="2">untoward</word>
+				<word number="3">unlucky</word>
+				<word number="4">uncomfortable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="distressing">
+			<sg number="1">
+				<word number="1">distressing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">afflicting</word>
+				<word number="2">afflictive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">joyless</word>
+				<word number="2">cheerless</word>
+				<word number="3">comfortless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dismal</word>
+				<word number="2">disheartening</word>
+			</sg>
+			<sg number="5">
+				<word number="1">depressing</word>
+				<word number="2">depressive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dreary</word>
+				<word number="2">melancholy</word>
+				<word number="3">grievous</word>
+				<word number="4">piteous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">woeful</word>
+				<word number="2">rueful</word>
+				<word number="3">mournful</word>
+				<word number="4">deplorable</word>
+				<word number="5">pitiable</word>
+				<word number="6">lamentable</word>
+				<word number="7" new="1">abominable</word>
+				<word number="8" new="1">discreditable</word>
+				<word number="9" new="4">regrettable</word>
+				<word number="10" new="5">shortsighted</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sad</word>
+				<word number="2">affecting</word>
+				<word number="3">touching</word>
+				<word number="4">pathetic</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">bleak</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">gloomy</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">miserable</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">troubling</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">wretched</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="2">hopeless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="irritating">
+			<sg number="1">
+				<word number="1">irritating</word>
+				<word number="2">provoking</word>
+				<word number="3">stinging</word>
+				<word number="4">annoying</word>
+				<word number="5">aggravating</word>
+				<word number="6">mortifying</word>
+				<word number="7">galling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unaccommodating</word>
+				<word number="2">invidious</word>
+				<word number="3">vexatious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">troublesome</word>
+				<word number="2">tiresome</word>
+				<word number="3">irksome</word>
+				<word number="4">wearisome</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plaguing</word>
+				<word number="2">plaguy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">awkward</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="importunate">
+			<sg number="1">
+				<word number="1">importunate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">teasing</word>
+				<word number="2">pestering</word>
+				<word number="3">bothering</word>
+				<word number="4">harassing</word>
+				<word number="5">worrying</word>
+				<word number="6">tormenting</word>
+				<word number="7">carking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="intolerable">
+			<sg number="1">
+				<word number="1">intolerable</word>
+				<word number="2">insufferable</word>
+				<word number="3">insupportable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbearable</word>
+				<word number="2">unendurable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">past bearing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not to be borne</word>
+				<word number="2">not to be endured</word>
+			</sg>
+			<sg number="5">
+				<word number="1">more than flesh and blood can bear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">enough to drive one mad</word>
+				<word number="2">enough to provoke a saint</word>
+				<word number="3">enough to make a parson swear</word>
+				<word number="4">enough to gag a maggot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="shocking">
+			<sg number="1">
+				<word number="1">shocking</word>
+				<word number="2">terrific</word>
+				<word number="3">grim</word>
+				<word number="4">appalling</word>
+				<word number="5">crushing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dreadful</word>
+				<word number="2">fearful</word>
+				<word number="3">frightful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thrilling</word>
+				<word number="2">tremendous</word>
+				<word number="3">dire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heart-breaking</word>
+				<word number="2">heart-rending</word>
+				<word number="3">heart-wounding</word>
+				<word number="4">heart-corroding</word>
+				<word number="5">heart-sickening</word>
+			</sg>
+			<sg number="5">
+				<word number="1">harrowing</word>
+				<word number="2">rending</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="odious">
+			<sg number="1">
+				<word number="1">odious</word>
+				<word number="2">hateful</word>
+				<word number="3">execrable</word>
+				<word number="4">repulsive</word>
+				<word number="5">repellent</word>
+				<word number="6">abhorrent</word>
+				<word number="7" new="3">detestable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horrid</word>
+				<word number="2">horrible</word>
+				<word number="3">horrific</word>
+				<word number="4">horrifying</word>
+				<word number="5" new="1">gruesome</word>
+				<word number="6" new="1">traumatic</word>
+				<word number="7" new="2">gory</word>
+				<word number="8" new="2">grisly</word>
+				<word number="9" new="2">heinous</word>
+				<word number="10" new="3">bloody</word>
+				<word number="11" new="3">ignominious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">offensive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="nauseous">
+			<sg number="1">
+				<word number="1">nauseous</word>
+				<word number="2">nauseating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disgusting</word>
+				<word number="2">sickening</word>
+				<word number="3">revolting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nasty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">loathsome</word>
+				<word number="2">loathful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fulsome</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="bad" headRef="678">vile</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="hideous" headRef="884">hideous</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ugly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="sharp">
+			<sg number="1">
+				<word number="1">sharp</word>
+				<word number="2">acute</word>
+				<word number="3">sore</word>
+				<word number="4">severe</word>
+				<word number="5">grave</word>
+				<word number="6">hard</word>
+				<word number="7">harsh</word>
+				<word number="8">cruel</word>
+				<word number="9">biting</word>
+				<word number="10">caustic</word>
+				<word number="11" new="2">brutal</word>
+				<word number="12" new="4">violent</word>
+				<word number="13" new="5">fierce</word>
+				<word number="14" new="5">infamous</word>
+				<word number="15" new="5">savage</word>
+				<word number="16" new="5">spiteful</word>
+				<word number="17" new="5">vicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cutting</word>
+				<word number="2">corroding</word>
+				<word number="3">consuming</word>
+				<word number="4">racking</word>
+				<word number="5">excruciating</word>
+				<word number="6">searching</word>
+				<word number="7">grinding</word>
+				<word number="8">grating</word>
+				<word number="9">agonizing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">envenomed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catheretic</word>
+				<word number="2">pyrotic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="ruinous">
+			<sg number="1">
+				<word number="1">ruinous</word>
+				<word number="2">disastrous</word>
+				<word number="3">calamitous</word>
+				<word number="4">tragical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">desolating</word>
+				<word number="2">withering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">burdensome</word>
+				<word number="2">onerous</word>
+				<word number="3">oppressive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cumbrous</word>
+				<word number="2">cumbersome</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="bad">
+			<sg number="1">
+				<word number="1" new="1">bad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="tragic">
+			<sg number="1">
+				<word number="1" new="1">tragic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="humiliating">
+			<sg number="1">
+				<word number="1" new="2">humiliating</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="unattractive">
+			<sg number="1">
+				<word number="1" new="2">unattractive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="embarrassing">
+			<sg number="1">
+				<word number="1" new="3">embarrassing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="shameful">
+			<sg number="1">
+				<word number="1" new="3">shameful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="dishonorable">
+			<sg number="1">
+				<word number="1" new="4">dishonorable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="sordid">
+			<sg number="1">
+				<word number="1" new="4">sordid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="untimely">
+			<sg number="1">
+				<word number="1" new="4">untimely</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="dastardly">
+			<sg number="1">
+				<word number="1" new="5">dastardly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="disgraceful">
+			<sg number="1">
+				<word number="1" new="5">disgraceful</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="painfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">painfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pain" headRef="866">with pain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deuced</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hinc illae lachrymae">
+			<sg number="1">
+				<word number="1">hinc illae lachrymae!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="surgit amari aliquid">
+			<sg number="1">
+				<word number="1">surgit amari aliquid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the place being too hot to hold one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the iron entering into the soul</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"he jests at scars that never felt a wound"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"I must be cruel only to be kind"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"what deep wounds ever closed without a scar?"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

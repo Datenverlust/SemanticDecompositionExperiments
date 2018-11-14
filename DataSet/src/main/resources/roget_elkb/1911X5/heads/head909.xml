@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="909" name="Wonder" origNum="#870." class="8" section="2" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="wonder">
+			<sg number="1">
+				<word number="1">wonder</word>
+				<word number="2">marvel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">astonishment</word>
+				<word number="2">amazement</word>
+				<word number="3">wonderment</word>
+				<word number="4">bewilderment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">amazedness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">admiration</word>
+				<word number="2">awe</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stupor</word>
+				<word number="2">stupefaction</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stound</word>
+				<word number="2">fascination</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sensation</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="inexpectation" headRef="532">surprise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="note of admiration">
+			<sg number="1">
+				<word number="1">note of admiration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sorcery" headRef="1036">thaumaturgy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="wonder">
+			<sg number="1">
+				<word number="1">wonder</word>
+				<word number="2">marvel</word>
+				<word number="3">admire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be surprised</word>
+			</sg>
+			<sg number="3">
+				<word number="1">start</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stare</word>
+			</sg>
+			<sg number="5">
+				<word number="1">open one's eyes</word>
+				<word number="2">rub one's eyes</word>
+				<word number="3">turn up one's eyes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gloar</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gape</word>
+				<word number="2">open one's mouth</word>
+				<word number="3">hold one's breath</word>
+			</sg>
+			<sg number="8">
+				<word number="1">look aghast</word>
+				<word number="2">stand aghast</word>
+				<word number="3">stand agog</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="disappointment" headRef="533">look blank</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tombe des nues</word>
+			</sg>
+			<sg number="11">
+				<word number="1">not believe one's eyes</word>
+				<word number="2">not believe one's ears</word>
+				<word number="3">not believe one's senses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not be able to account for">
+			<sg number="1">
+				<word number="1" paraRef="unintelligible" headRef="544">not be able to account for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not know whether one stands on one's head or one's heels</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="surprise">
+			<sg number="1">
+				<word number="1">surprise</word>
+				<word number="2">astonish</word>
+				<word number="3">amaze</word>
+				<word number="4">astound</word>
+				<word number="5" new="1">intrigue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dumfound</word>
+				<word number="2">dumfounder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">startle</word>
+				<word number="2">dazzle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">daze</word>
+			</sg>
+			<sg number="5">
+				<word number="1">strike</word>
+				<word number="2">strike with wonder</word>
+				<word number="3">strike with awe</word>
+			</sg>
+			<sg number="6">
+				<word number="1">electrify</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stun</word>
+				<word number="2">stupefy</word>
+				<word number="3">petrify</word>
+				<word number="4">confound</word>
+				<word number="5">bewilder</word>
+				<word number="6">flabbergast</word>
+				<word number="7">stagger</word>
+				<word number="8">throw on one's beam ends</word>
+				<word number="9">fascinate</word>
+				<word number="10">turn the head</word>
+				<word number="11">take away one's breath</word>
+				<word number="12">strike dumb</word>
+				<word number="13" new="1">transfix</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make one's hair stand on end</word>
+				<word number="2">make one's tongue cleave to the roof of one's mouth</word>
+			</sg>
+			<sg number="9">
+				<word number="1">make one stare</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="take by surprise">
+			<sg number="1">
+				<word number="1" paraRef="be unexpected" headRef="532">take by surprise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="be wonderful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be wonderful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beggar description</word>
+				<word number="2">beggar the imagination</word>
+				<word number="3">baffle description</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stagger belief</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="surprised">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">surprised</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aghast</word>
+				<word number="2">all agog</word>
+				<word number="3">breathless</word>
+				<word number="4">agape</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open- mouthed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">awestruck</word>
+				<word number="2">thunderstruck</word>
+				<word number="3">moonstruck</word>
+				<word number="4">planet-struck</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spellbound</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lost in amazement</word>
+				<word number="2">lost in wonder</word>
+				<word number="3">lost in astonishment</word>
+			</sg>
+			<sg number="7">
+				<word number="1">struck all of a heap</word>
+				<word number="2">unable to believe one's senses</word>
+				<word number="3">like a duck ion thunder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wonderful">
+			<sg number="1">
+				<word number="1">wonderful</word>
+				<word number="2">wondrous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">surprising</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unexpected" headRef="532">unexpected</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unheard of</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inexplicable" headRef="544">mysterious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">miraculous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="indescribable">
+			<sg number="1">
+				<word number="1">indescribable</word>
+				<word number="2">inexpressible</word>
+				<word number="3">inaffable</word>
+				<word number="4" new="1">ineffable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unutterable</word>
+				<word number="2">unspeakable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="monstrous">
+			<sg number="1">
+				<word number="1">monstrous</word>
+				<word number="2">prodigious</word>
+				<word number="3">stupendous</word>
+				<word number="4">marvelous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inconceivable</word>
+				<word number="2">incredible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inimaginable</word>
+				<word number="2">unimaginable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="uncommon" headRef="87">strange</word>
+			</sg>
+			<sg number="5">
+				<word number="1">passing strange</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="striking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">striking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overwhelming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wonder-working</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="wonderfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">wonderfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fearfully</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for a wonder</word>
+				<word number="2">in the name of wonder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strange to say</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mirabile dictu</word>
+				<word number="2">mirabile visu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">to one's great surprise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="with wonder">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">with wonder</word>
+				<word number="2">with gaping mouth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with open eyes</word>
+				<word number="2">with  upturned eyes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="lo">
+			<sg number="1">
+				<word number="1">lo</word>
+				<word number="2">lo and behold!</word>
+				<word number="3">O!</word>
+				<word number="4">heyday!</word>
+				<word number="5">halloo!</word>
+				<word number="6">what!</word>
+				<word number="7">indeed!</word>
+				<word number="8">really!</word>
+				<word number="9">surely!</word>
+				<word number="10">humph!</word>
+				<word number="11">hem!</word>
+				<word number="12">good lack</word>
+				<word number="13">good  heavens</word>
+				<word number="14">good  gracious!</word>
+				<word number="15">Ye gods!</word>
+				<word number="16">good Lord!</word>
+				<word number="17">good  grief!</word>
+				<word number="18">Holy cow!</word>
+				<word number="19">My word!</word>
+				<word number="20">Holy shit!</word>
+				<word number="21">gad so!</word>
+				<word number="22">welladay!</word>
+				<word number="23">dear me!</word>
+				<word number="24">only think!</word>
+				<word number="25">lackadaisy!</word>
+				<word number="26">my stars</word>
+				<word number="27">my goodness!</word>
+				<word number="28">gracious goodness!</word>
+				<word number="29">goodness gracious!</word>
+				<word number="30">mercy on us!</word>
+				<word number="31">heavens and earth!</word>
+				<word number="32">God bless me!</word>
+				<word number="33">bless us</word>
+				<word number="34">bless my heart!</word>
+				<word number="35">odzookens!</word>
+				<word number="36">O gemini!</word>
+				<word number="37">adzooks!</word>
+				<word number="38">hoity-toity!</word>
+				<word number="39">strong!</word>
+				<word number="40">Heaven save the mark</word>
+				<word number="41">bless the mark!</word>
+				<word number="42">can such things be!</word>
+				<word number="43">zounds!</word>
+				<word number="44">'sdeath!</word>
+				<word number="45">what on earth</word>
+				<word number="46">what in the world!</word>
+				<word number="47" paraRef="inexpectation" headRef="532">who would have thought it!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">you don't say so!</word>
+				<word number="2">You're kidding!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="No kidding? what do you say to that">
+			<sg number="1">
+				<word number="1">No kidding? what do you say to that!</word>
+				<word number="2">nous verrons!</word>
+				<word number="3">how now!</word>
+				<word number="4">where am I?</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="vox faucibus haesit">
+			<sg number="1">
+				<word number="1">vox faucibus haesit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">one's hair standing on end</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

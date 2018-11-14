@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="164" name="Power" origNum="#157." class="1" section="8" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="power">
+			<sg number="1">
+				<word number="1">power</word>
+			</sg>
+			<sg number="2">
+				<word number="1">potency</word>
+				<word number="2">potentiality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jiva</word>
+			</sg>
+			<sg number="4">
+				<word number="1">puissance</word>
+				<word number="2">might</word>
+				<word number="3">force</word>
+				<word number="4" paraRef="energy" headRef="178">energy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dint</word>
+			</sg>
+			<sg number="6">
+				<word number="1">right hand</word>
+				<word number="2">right arm</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ascendency</word>
+				<word number="2">sway</word>
+				<word number="3">control</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prepotency</word>
+				<word number="2">prepollence</word>
+			</sg>
+			<sg number="9">
+				<word number="1">almightiness</word>
+				<word number="2">omnipotence</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="authority" headRef="766">authority</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="strength" headRef="166">strength</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ability">
+			<sg number="1">
+				<word number="1">ability</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">ableness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">competency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">efficacy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">efficiency</word>
+				<word number="2">productivity</word>
+				<word number="3" paraRef="skill" headRef="727">expertise</word>
+			</sg>
+			<sg number="6">
+				<word number="1">validity</word>
+				<word number="2">cogency</word>
+			</sg>
+			<sg number="7">
+				<word number="1">enablement</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vantage ground</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="influence" headRef="182">influence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pressure">
+			<sg number="1">
+				<word number="1">pressure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conductivity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elasticity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gravity</word>
+				<word number="2">electricity</word>
+				<word number="3">magnetism</word>
+				<word number="4">galvanism</word>
+				<word number="5">voltaic electricity</word>
+				<word number="6">voltaism</word>
+				<word number="7">electromagnetism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">atomic power</word>
+				<word number="2">nuclear power</word>
+				<word number="3">thermonuclear power</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fuel cell</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hydraulic power</word>
+				<word number="2">water power</word>
+				<word number="3">hydroelectric power</word>
+			</sg>
+			<sg number="8">
+				<word number="1">solar power</word>
+				<word number="2">solar energy</word>
+				<word number="3">solar panels</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tidal power</word>
+			</sg>
+			<sg number="10">
+				<word number="1">wind power</word>
+			</sg>
+			<sg number="11">
+				<word number="1">attraction</word>
+			</sg>
+			<sg number="12">
+				<word number="1">vis inertiae</word>
+				<word number="2">vis mortua</word>
+				<word number="3">vis viva</word>
+			</sg>
+			<sg number="13">
+				<word number="1">potential energy</word>
+				<word number="2">dynamic energy</word>
+			</sg>
+			<sg number="14">
+				<word number="1">dynamic friction</word>
+				<word number="2">dynamic suction</word>
+			</sg>
+			<sg number="15">
+				<word number="1">live circuit</word>
+				<word number="2">live rail</word>
+				<word number="3">live wire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="capability">
+			<sg number="1">
+				<word number="1">capability</word>
+				<word number="2">capacity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quid valeant humeri quid ferre recusent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">faculty</word>
+				<word number="2">quality</word>
+				<word number="3">attribute</word>
+				<word number="4">endowment</word>
+				<word number="5">virtue</word>
+				<word number="6">gift</word>
+				<word number="7">property</word>
+				<word number="8">qualification</word>
+				<word number="9">susceptibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="potential">
+			<sg number="1">
+				<word number="1" new="1">potential</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be powerful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be powerful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">gain power</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="belong to">
+			<sg number="1">
+				<word number="1">belong to</word>
+				<word number="2">pertain to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lie in one's power</word>
+				<word number="2">be in one's power</word>
+			</sg>
+			<sg number="3">
+				<word number="1">can</word>
+				<word number="2">be able</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="give power">
+			<sg number="1">
+				<word number="1">give power</word>
+				<word number="2">confer power</word>
+				<word number="3" paraRef="" posRef="n.">exercise power</word>
+			</sg>
+			<sg number="2">
+				<word number="1">empower</word>
+				<word number="2">enable</word>
+				<word number="3">invest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">indue</word>
+				<word number="2">endue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">endow</word>
+				<word number="2">arm</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="strengthen" headRef="166">strengthen</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="compel" headRef="775">compel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="powerful">
+			<sg number="1">
+				<word number="1">powerful</word>
+				<word number="2">puissant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">potential</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capable</word>
+				<word number="2">able</word>
+			</sg>
+			<sg number="4">
+				<word number="1">equal to</word>
+				<word number="2">up to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cogent</word>
+				<word number="2">valid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">efficient</word>
+				<word number="2">productive</word>
+			</sg>
+			<sg number="7">
+				<word number="1">effective</word>
+				<word number="2">effectual</word>
+				<word number="3">efficacious</word>
+				<word number="4">adequate</word>
+				<word number="5">competent</word>
+			</sg>
+			<sg number="8">
+				<word number="1">multipotent</word>
+				<word number="2">plenipotent</word>
+				<word number="3">omnipotent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">almighty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="forcible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">forcible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="influential" headRef="182">influential</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="productive" headRef="175">productive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="powerfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">powerfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by virtue of</word>
+				<word number="2">by dint of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a toute force">
+			<sg number="1">
+				<word number="1">a toute force</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eripuit coelo fulmen sceptrumque tyrannis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fortis cadere cedere non potest</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

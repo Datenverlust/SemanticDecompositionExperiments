@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="809" name="Possession" origNum="#777." class="7" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="possession">
+			<sg number="1">
+				<word number="1">possession</word>
+				<word number="2">seizin</word>
+				<word number="3">seisin</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ownership" headRef="813">ownership</word>
+			</sg>
+			<sg number="3">
+				<word number="1">occupancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hold</word>
+				<word number="2">holding</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tenure</word>
+				<word number="2">tenancy</word>
+				<word number="3">feodality</word>
+				<word number="4">dependency</word>
+			</sg>
+			<sg number="6">
+				<word number="1">villenage</word>
+				<word number="2">villeinage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">socage</word>
+				<word number="2">chivalry</word>
+				<word number="3">knight service</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exclusive possession">
+			<sg number="1">
+				<word number="1">exclusive possession</word>
+				<word number="2">impropriation</word>
+				<word number="3">monopoly</word>
+				<word number="4" paraRef="retention" headRef="814">retention</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prepossession</word>
+				<word number="2">preoccupancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nine points of the law</word>
+			</sg>
+			<sg number="4">
+				<word number="1">corner</word>
+				<word number="2">usucaption</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="future possession">
+			<sg number="1">
+				<word number="1">future possession</word>
+				<word number="2">heritage</word>
+				<word number="3">inheritance</word>
+				<word number="4">heirship</word>
+				<word number="5">reversion</word>
+				<word number="6">fee</word>
+				<word number="7">seigniority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">primogeniture</word>
+				<word number="2">ultimogeniture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="futures contract[right of future possession">
+			<sg number="1">
+				<word number="1">futures contract[right of future possession</word>
+			</sg>
+			<sg number="2">
+				<word number="1">financial instruments]</word>
+				<word number="2">warrant</word>
+				<word number="3">put</word>
+				<word number="4">call</word>
+				<word number="5">option</word>
+			</sg>
+			<sg number="3">
+				<word number="1">right of first refusal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bird in hand">
+			<sg number="1">
+				<word number="1">bird in hand</word>
+				<word number="2">uti possidetis</word>
+				<word number="3">chose in possession</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="possess">
+			<sg number="1">
+				<word number="1">possess</word>
+				<word number="2">have</word>
+				<word number="3">hold</word>
+				<word number="4">occupy</word>
+				<word number="5">enjoy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be possessed of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">have in hand</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="own" headRef="813">own</word>
+			</sg>
+			<sg number="5">
+				<word number="1">command</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inherit">
+			<sg number="1">
+				<word number="1">inherit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come to</word>
+				<word number="2">come in for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="engross">
+			<sg number="1">
+				<word number="1">engross</word>
+				<word number="2">monopolize</word>
+				<word number="3">forestall</word>
+				<word number="4">regrate</word>
+				<word number="5">impropriate</word>
+				<word number="6">have all to oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corner</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="retain" headRef="814">have a firmhold of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="acquire" headRef="807">get into one's hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="belong to">
+			<sg number="1">
+				<word number="1">belong to</word>
+				<word number="2">appertain to</word>
+				<word number="3">pertain to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be in one's possession</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vest in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="possessing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">possessing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">worth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">possessed of</word>
+				<word number="2">seized of</word>
+				<word number="3">master of</word>
+				<word number="4">in possession of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">usucapient</word>
+			</sg>
+			<sg number="5">
+				<word number="1">endowed with</word>
+				<word number="2">blest with</word>
+				<word number="3">instinct with</word>
+				<word number="4">fraught with</word>
+				<word number="5">laden with</word>
+				<word number="6">charged with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="possessed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">possessed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on hand</word>
+				<word number="2">by one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in hand</word>
+				<word number="2">in store</word>
+				<word number="3">in stock</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in one's hands</word>
+				<word number="2">in one's grasp</word>
+				<word number="3">in one's possession</word>
+			</sg>
+			<sg number="5">
+				<word number="1">at one's command</word>
+				<word number="2">at one's disposal</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="property" headRef="813">one's own</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unsold">
+			<sg number="1">
+				<word number="1">unsold</word>
+				<word number="2">unshared</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="entbehre gern was du nicht hast">
+			<sg number="1">
+				<word number="1">entbehre gern was du nicht hast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">meum et tuum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tuum est</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

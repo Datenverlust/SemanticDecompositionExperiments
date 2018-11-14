@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="878" name="Amusement" origNum="#840." class="8" section="2" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="amusement">
+			<sg number="1">
+				<word number="1">amusement</word>
+				<word number="2">entertainment</word>
+				<word number="3">recreation</word>
+				<word number="4">fun</word>
+				<word number="5">game</word>
+				<word number="6">fun and games</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diversion</word>
+				<word number="2">divertissement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reaction</word>
+				<word number="2">solace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pastime</word>
+				<word number="2">passetemps</word>
+				<word number="3">sport</word>
+			</sg>
+			<sg number="5">
+				<word number="1">labor of love</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="pleasure" headRef="865">pleasure</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">hobby</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="relaxation">
+			<sg number="1">
+				<word number="1">relaxation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="leisure" headRef="714">leisure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fun">
+			<sg number="1">
+				<word number="1">fun</word>
+				<word number="2">frolic</word>
+				<word number="3">merriment</word>
+				<word number="4">jollity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">joviality</word>
+				<word number="2">jovialness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heyday</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="laughter" headRef="876">laughter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jocosity</word>
+				<word number="2">jocoseness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drollery</word>
+				<word number="2">buffoonery</word>
+				<word number="3">tomfoolery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mummery</word>
+				<word number="2">pleasantry</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="wit" headRef="880">wit</word>
+			</sg>
+			<sg number="9">
+				<word number="1">quip</word>
+				<word number="2">quirk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="giggle">
+			<sg number="1">
+				<word number="1">giggle</word>
+				<word number="2">titter</word>
+				<word number="3">snigger</word>
+				<word number="4">snicker</word>
+				<word number="5">crow</word>
+				<word number="6">cheer</word>
+				<word number="7">chuckle</word>
+				<word number="8">shout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horse laugh</word>
+				<word number="2">belly laugh</word>
+				<word number="3">hearty laugh</word>
+			</sg>
+			<sg number="3">
+				<word number="1">guffaw</word>
+			</sg>
+			<sg number="4">
+				<word number="1">burst of laughter</word>
+				<word number="2">fit of laughter</word>
+				<word number="3">shout of laughter</word>
+				<word number="4">roar of laughter</word>
+				<word number="5">peal of laughter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cachinnation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Kentish fire</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tiger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="play">
+			<sg number="1">
+				<word number="1">play</word>
+			</sg>
+			<sg number="2">
+				<word number="1">game</word>
+				<word number="2">game at romps</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gambol</word>
+				<word number="2">romp</word>
+				<word number="3">prank</word>
+				<word number="4">antic</word>
+				<word number="5">rig</word>
+				<word number="6">lark</word>
+				<word number="7">spree</word>
+				<word number="8">skylarking</word>
+				<word number="9">vagary</word>
+				<word number="10">monkey trick</word>
+				<word number="11">gambade</word>
+				<word number="12">fredaine</word>
+				<word number="13">escapade</word>
+				<word number="14">echappee</word>
+				<word number="15">bout</word>
+				<word number="16">espieglerie</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ridicule" headRef="895">practical joke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dance">
+			<sg number="1">
+				<word number="1">dance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hop</word>
+				<word number="2">reel</word>
+				<word number="3">rigadoon</word>
+				<word number="4">saraband</word>
+				<word number="5">hornpipe</word>
+				<word number="6">bolero</word>
+				<word number="7">ballroom dance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">minuet</word>
+				<word number="2">waltz</word>
+				<word number="3">polka</word>
+				<word number="4">fox trot</word>
+				<word number="5">tango</word>
+				<word number="6">samba</word>
+				<word number="7">rhumba</word>
+				<word number="8">twist</word>
+				<word number="9">stroll</word>
+				<word number="10">hustle</word>
+				<word number="11">cha-cha</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fandango</word>
+				<word number="2">cancan</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bayadere</word>
+			</sg>
+			<sg number="6">
+				<word number="1">breakdown</word>
+				<word number="2">cake-walk</word>
+				<word number="3">cornwallis</word>
+				<word number="4">break dancing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nautch-girl</word>
+			</sg>
+			<sg number="8">
+				<word number="1">shindig*</word>
+			</sg>
+			<sg number="9">
+				<word number="1">skirtdance</word>
+				<word number="2">stag dance</word>
+				<word number="3">Virginia reel</word>
+				<word number="4">square dance</word>
+			</sg>
+			<sg number="10">
+				<word number="1">galop</word>
+				<word number="2">galopade</word>
+			</sg>
+			<sg number="11">
+				<word number="1">jig</word>
+				<word number="2">Irish jig</word>
+				<word number="3">fling</word>
+				<word number="4">strathspey</word>
+			</sg>
+			<sg number="12">
+				<word number="1">allemande</word>
+			</sg>
+			<sg number="13">
+				<word number="1">gavot</word>
+				<word number="2">gavotte</word>
+				<word number="3">tarantella</word>
+			</sg>
+			<sg number="14">
+				<word number="1">mazurka</word>
+				<word number="2">morisco</word>
+				<word number="3">morris dance</word>
+			</sg>
+			<sg number="15">
+				<word number="1">quadrille</word>
+			</sg>
+			<sg number="16">
+				<word number="1">country dance</word>
+				<word number="2">folk dance</word>
+			</sg>
+			<sg number="17">
+				<word number="1">cotillon</word>
+				<word number="2">Sir Roger de Coverley</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="drama" headRef="625">ballet</word>
+			</sg>
+			<sg number="19">
+				<word number="1">ball</word>
+			</sg>
+			<sg number="20">
+				<word number="1">bal</word>
+				<word number="2">bal masque</word>
+				<word number="3">bal costume</word>
+			</sg>
+			<sg number="21">
+				<word number="1">masquerade</word>
+			</sg>
+			<sg number="22">
+				<word number="1">Terpsichore</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">tap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="festivity">
+			<sg number="1">
+				<word number="1">festivity</word>
+				<word number="2">merrymaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="social gathering" headRef="931">party</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blowout</word>
+				<word number="2">hullabaloo</word>
+				<word number="3">hoedown</word>
+				<word number="4">bat*</word>
+				<word number="5">bum*</word>
+				<word number="6">bust*</word>
+				<word number="7">clambake</word>
+				<word number="8">donation party</word>
+				<word number="9">fish fry</word>
+				<word number="10">jamboree*</word>
+				<word number="11">kantikoy</word>
+				<word number="12">nautch</word>
+				<word number="13">randy</word>
+				<word number="14">squantum</word>
+				<word number="15">tear *</word>
+				<word number="16">Turnerfest</word>
+				<word number="17">yule log</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fete</word>
+				<word number="2">festival</word>
+				<word number="3">gala</word>
+				<word number="4">ridotto</word>
+			</sg>
+			<sg number="5">
+				<word number="1">revels</word>
+				<word number="2">revelry</word>
+				<word number="3">reveling</word>
+			</sg>
+			<sg number="6">
+				<word number="1">carnival</word>
+				<word number="2">brawl</word>
+				<word number="3">saturnalia</word>
+				<word number="4">high jinks</word>
+			</sg>
+			<sg number="7">
+				<word number="1">feast</word>
+				<word number="2" paraRef="food" headRef="309">banquet</word>
+			</sg>
+			<sg number="8">
+				<word number="1">regale</word>
+				<word number="2">symposium</word>
+				<word number="3">wassail</word>
+			</sg>
+			<sg number="9">
+				<word number="1">carouse</word>
+				<word number="2">carousal</word>
+			</sg>
+			<sg number="10">
+				<word number="1">jollification</word>
+				<word number="2">junket</word>
+				<word number="3">wake</word>
+				<word number="4">Irish wake</word>
+				<word number="5">picnic</word>
+				<word number="6">fete champetre</word>
+				<word number="7">regatta</word>
+				<word number="8">field day</word>
+			</sg>
+			<sg number="11">
+				<word number="1">treat</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">celebration</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">extravaganza</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">reunions</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">ceremony</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">commemoration</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="2">dinner</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="2">occasions</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="2">pageant</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="2">parade</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="2">procession</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="3">ceremonial</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="3">convocation</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="3">fair</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="3">gathering</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="3">occasion</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="3">outing</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="3">salute</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="3">vigil</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="3">wedding</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="4">auction</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="4">circuses</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="4">concert</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="4">funeral</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="4">reunion</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="5">inauguration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="round of pleasures">
+			<sg number="1">
+				<word number="1">round of pleasures</word>
+				<word number="2">dissipation</word>
+				<word number="3">a short life and a merry one</word>
+				<word number="4">racketing</word>
+				<word number="5">holiday making</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="rejoicing">
+			<sg number="1">
+				<word number="1" paraRef="rejoicing" headRef="876">rejoicing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="celebration" headRef="922">jubilee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="bonfire">
+			<sg number="1">
+				<word number="1">bonfire</word>
+				<word number="2">fireworks</word>
+				<word number="3">feu-de-joie</word>
+				<word number="4">firecracker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="holiday">
+			<sg number="1">
+				<word number="1">holiday</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gala day</word>
+				<word number="2">red letter day</word>
+				<word number="3">play day</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high days and holidays</word>
+			</sg>
+			<sg number="4">
+				<word number="1">high holiday</word>
+				<word number="2">Bank holiday</word>
+			</sg>
+			<sg number="5">
+				<word number="1">May day</word>
+				<word number="2">Derby day</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Saint Monday</word>
+				<word number="2">Easter Monday</word>
+				<word number="3">Whit Monday</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Bairam</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wayz-goos</word>
+				<word number="2">bean feast</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Arbor Day</word>
+				<word number="2">Declaration Day</word>
+				<word number="3">Independence Day</word>
+				<word number="4">Labor Day</word>
+				<word number="5">Memorial Day</word>
+				<word number="6">Thanksgiving Day</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Mardi gras,mi-careme</word>
+				<word number="2">feria</word>
+				<word number="3">fiesta</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="place of amusement">
+			<sg number="1">
+				<word number="1">place of amusement</word>
+				<word number="2">theater</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hall</word>
+				<word number="2">concert room</word>
+				<word number="3">ballroom</word>
+				<word number="4">assemblyroom</word>
+			</sg>
+			<sg number="3">
+				<word number="1">music hall</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="4">theatre</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="5">cinema</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="5">playhouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="park">
+			<sg number="1">
+				<word number="1">park</word>
+				<word number="2">plaisance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">national park</word>
+				<word number="2">national forest</word>
+				<word number="3">state park</word>
+				<word number="4">county park</word>
+				<word number="5">city park</word>
+				<word number="6">vest-pocket park</word>
+				<word number="7" paraRef="public" headRef="767">public park</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arbor</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="horticulture" headRef="383">garden</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pleasure ground</word>
+				<word number="2">playground</word>
+				<word number="3">cricketground</word>
+				<word number="4">croquet ground</word>
+				<word number="5">archery ground</word>
+				<word number="6">hunting ground</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tennis court</word>
+				<word number="2">racket court</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bowling alley</word>
+				<word number="2">green alley</word>
+			</sg>
+			<sg number="8">
+				<word number="1">croquet lawn</word>
+				<word number="2">rink</word>
+				<word number="3">glaciarum</word>
+				<word number="4">skating rink</word>
+			</sg>
+			<sg number="9">
+				<word number="1">roundabout</word>
+				<word number="2">merry-go-round</word>
+			</sg>
+			<sg number="10">
+				<word number="1">swing</word>
+			</sg>
+			<sg number="11">
+				<word number="1">montagne Russe</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">aviary</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">field</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">pavilion</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">aquarium</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">zoo</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="3">arboretum</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="3">museum</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="5">menagerie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="game of chance">
+			<sg number="1">
+				<word number="1">game of chance</word>
+				<word number="2">game of skill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="athletic sports">
+			<sg number="1">
+				<word number="1">athletic sports</word>
+				<word number="2">gymnastics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archery</word>
+				<word number="2">rifle shooting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tournament</word>
+				<word number="2" paraRef="contention" headRef="749">pugilism</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sport" headRef="651">sports</word>
+			</sg>
+			<sg number="5">
+				<word number="1">horse racing</word>
+				<word number="2">the turf</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="aquatics" headRef="278">aquatics</word>
+			</sg>
+			<sg number="7">
+				<word number="1">skating</word>
+				<word number="2">sliding</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cricket</word>
+				<word number="2">tennis</word>
+				<word number="3">lawn tennis</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hockey</word>
+				<word number="2">football</word>
+				<word number="3">baseball</word>
+				<word number="4">soccer</word>
+				<word number="5">ice hockey</word>
+				<word number="6">basketball</word>
+				<word number="7" new="1">athletics</word>
+				<word number="8" new="1">boxing</word>
+				<word number="9" new="1">league</word>
+				<word number="10" new="1">squash</word>
+				<word number="11" new="1">wrestling</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rackets</word>
+				<word number="2">fives</word>
+				<word number="3">trap bat and ball</word>
+				<word number="4">battledore and shuttlecock</word>
+				<word number="5">la grace</word>
+			</sg>
+			<sg number="11">
+				<word number="1">pall-mall</word>
+				<word number="2">tipcat</word>
+				<word number="3">croquet</word>
+				<word number="4">golf</word>
+				<word number="5">curling</word>
+				<word number="6">pallone</word>
+				<word number="7">polo</word>
+				<word number="8">water polo</word>
+			</sg>
+			<sg number="12">
+				<word number="1">tent pegging</word>
+			</sg>
+			<sg number="13">
+				<word number="1">tilting at the ring</word>
+				<word number="2">quintain</word>
+			</sg>
+			<sg number="14">
+				<word number="1">greasy pole</word>
+			</sg>
+			<sg number="15">
+				<word number="1">quoits</word>
+				<word number="2">horseshoes</word>
+				<word number="3">discus</word>
+			</sg>
+			<sg number="16">
+				<word number="1">rounders</word>
+				<word number="2">lacrosse</word>
+			</sg>
+			<sg number="17">
+				<word number="1">tobogganing</word>
+				<word number="2">water polo</word>
+			</sg>
+			<sg number="18">
+				<word number="1">knurr and spell</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">bowling</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">equestrian</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">fencing</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">mens</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">racing</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">rowing</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">shooting</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">skiing</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">swimming</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="2">cycling</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="2">diving</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="2">jumping</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="2">lifting</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="2">riding</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="2">sailing</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="2">sculling</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="2">surfing</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="3">angling</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="3">bathing</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="3">flying</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="3">jogging</word>
+			</sg>
+			<sg number="40">
+				<word number="1" new="3">mountaineering</word>
+			</sg>
+			<sg number="41">
+				<word number="1" new="3">parachuting</word>
+			</sg>
+			<sg number="42">
+				<word number="1" new="3">yachting</word>
+			</sg>
+			<sg number="43">
+				<word number="1" new="4">bicycling</word>
+			</sg>
+			<sg number="44">
+				<word number="1" new="4">boating</word>
+			</sg>
+			<sg number="45">
+				<word number="1" new="4">motorcycling</word>
+			</sg>
+			<sg number="46">
+				<word number="1" new="4">ski</word>
+			</sg>
+			<sg number="47">
+				<word number="1" new="4">wading</word>
+			</sg>
+			<sg number="48">
+				<word number="1" new="4">walking</word>
+			</sg>
+			<sg number="49">
+				<word number="1" new="5">barbecuing</word>
+			</sg>
+			<sg number="50">
+				<word number="1" new="5">camping</word>
+			</sg>
+			<sg number="51">
+				<word number="1" new="5">hiking</word>
+			</sg>
+			<sg number="52">
+				<word number="1" new="5">sledding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="leapfrog">
+			<sg number="1">
+				<word number="1">leapfrog</word>
+				<word number="2">hop skip and jump</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mother may I</word>
+			</sg>
+			<sg number="3">
+				<word number="1">French and English</word>
+				<word number="2">tug of war</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blindman's bluff</word>
+				<word number="2">hunt the slopper</word>
+				<word number="3">hide and seek</word>
+				<word number="4">kiss in the ring</word>
+			</sg>
+			<sg number="5">
+				<word number="1">snapdragon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cross questions and crooked answers</word>
+			</sg>
+			<sg number="7">
+				<word number="1">crisscross</word>
+				<word number="2">hopscotch</word>
+			</sg>
+			<sg number="8">
+				<word number="1">jacks</word>
+				<word number="2">jackstones</word>
+				<word number="3">marbles</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mumblety-peg</word>
+				<word number="2">mumble-the-peg</word>
+				<word number="3">pushball</word>
+				<word number="4">shinney</word>
+				<word number="5">shinny</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="billiards">
+			<sg number="1">
+				<word number="1">billiards</word>
+				<word number="2">pool</word>
+				<word number="3">pingpong</word>
+				<word number="4">pyramids</word>
+				<word number="5">bagatelle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bowls</word>
+				<word number="2">skittles</word>
+				<word number="3">ninepins</word>
+				<word number="4">kain</word>
+				<word number="5">American bowls</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tenpins</word>
+				<word number="2">tivoli</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="cards">
+			<sg number="1">
+				<word number="1">cards</word>
+				<word number="2">card games</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whist</word>
+				<word number="2">rubber</word>
+			</sg>
+			<sg number="3">
+				<word number="1">round game</word>
+			</sg>
+			<sg number="4">
+				<word number="1">loo</word>
+				<word number="2">cribbage</word>
+				<word number="3">besique</word>
+				<word number="4">euchre</word>
+				<word number="5">drole</word>
+				<word number="6">ecarte</word>
+				<word number="7">picquet</word>
+				<word number="8">allfours</word>
+				<word number="9">quadrille</word>
+				<word number="10">omber</word>
+				<word number="11">reverse</word>
+				<word number="12">Pope Joan</word>
+				<word number="13">commit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">boston</word>
+				<word number="2">boaston</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blackjack</word>
+				<word number="2">twenty-one</word>
+				<word number="3">vingtun</word>
+			</sg>
+			<sg number="7">
+				<word number="1">quinze</word>
+				<word number="2">thirty-one</word>
+				<word number="3">put</word>
+				<word number="4">speculation</word>
+				<word number="5">connections</word>
+				<word number="6">brag</word>
+				<word number="7">cassino</word>
+				<word number="8">lottery</word>
+				<word number="9">commerce</word>
+				<word number="10">snip-snap-snoren</word>
+				<word number="11">lift smoke</word>
+				<word number="12">blind hookey</word>
+				<word number="13">Polish bank</word>
+				<word number="14">Earl of Coventry</word>
+				<word number="15">Napoleon</word>
+				<word number="16">patience</word>
+				<word number="17">pairs</word>
+			</sg>
+			<sg number="8">
+				<word number="1">banker</word>
+			</sg>
+			<sg number="9">
+				<word number="1">blind poker</word>
+				<word number="2">draw poker</word>
+				<word number="3">straight poker</word>
+				<word number="4">stud poker</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bluff</word>
+				<word number="2">bridge</word>
+				<word number="3">bridge whist</word>
+			</sg>
+			<sg number="11">
+				<word number="1">lotto</word>
+				<word number="2">monte</word>
+				<word number="3">three-card monte</word>
+				<word number="4">nap</word>
+				<word number="5">penny-ante</word>
+				<word number="6">poker</word>
+				<word number="7">reversis</word>
+				<word number="8">squeezers</word>
+				<word number="9">old maid</word>
+				<word number="10">fright</word>
+				<word number="11">beggar-my-neighbor</word>
+			</sg>
+			<sg number="12">
+				<word number="1">baccarat</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">crap</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">roulette</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="ace">
+			<sg number="1">
+				<word number="1">ace</word>
+				<word number="2">king</word>
+				<word number="3">queen</word>
+				<word number="4">knave</word>
+				<word number="5">jack</word>
+				<word number="6">ten</word>
+				<word number="7">nine</word>
+				<word number="8">eight</word>
+				<word number="9">seven</word>
+				<word number="10">six</word>
+				<word number="11">five</word>
+				<word number="12">four</word>
+				<word number="13">trey</word>
+				<word number="14">deuce</word>
+			</sg>
+			<sg number="2">
+				<word number="1">joker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trump</word>
+				<word number="2">wild card</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="spades">
+			<sg number="1">
+				<word number="1">spades</word>
+				<word number="2">hearts</word>
+				<word number="3">clubs</word>
+				<word number="4">diamonds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">major suit</word>
+				<word number="2">minor suit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="bower">
+			<sg number="1">
+				<word number="1">bower</word>
+			</sg>
+			<sg number="2">
+				<word number="1">right bower</word>
+				<word number="2">left bower</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dummy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jackpot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deck</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="pair">
+			<sg number="1">
+				<word number="1">pair</word>
+				<word number="2">two pair</word>
+				<word number="3">three of a kind</word>
+				<word number="4">straight</word>
+				<word number="5">flush</word>
+				<word number="6">full-house</word>
+				<word number="7">four of a kind</word>
+				<word number="8">royal flush</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misere</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="chess">
+			<sg number="1">
+				<word number="1">chess</word>
+				<word number="2">draughts</word>
+				<word number="3">checkers</word>
+				<word number="4">checquers</word>
+				<word number="5">backgammon</word>
+				<word number="6">dominos</word>
+				<word number="7">merelles</word>
+				<word number="8">nine men's morris</word>
+				<word number="9">go bang</word>
+				<word number="10">solitaire</word>
+				<word number="11" new="1">dominoes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">game of fox and goose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monopoly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">loto</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="scrabble">
+			<sg number="1">
+				<word number="1">scrabble</word>
+				<word number="2">scribbage</word>
+				<word number="3">boggle</word>
+				<word number="4">crossword puzzle</word>
+				<word number="5">hangman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="morra">
+			<sg number="1">
+				<word number="1">morra</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="chance" headRef="650">gambling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="toy">
+			<sg number="1">
+				<word number="1">toy</word>
+				<word number="2">plaything</word>
+				<word number="3">bauble</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="puppet" headRef="580">doll</word>
+			</sg>
+			<sg number="3">
+				<word number="1">teetotum</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="trifle" headRef="672">knickknack</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="show" headRef="467">magic lantern</word>
+			</sg>
+			<sg number="6">
+				<word number="1">peep show</word>
+				<word number="2">puppet show</word>
+				<word number="3">raree show</word>
+				<word number="4">gallanty show</word>
+			</sg>
+			<sg number="7">
+				<word number="1">toy shop</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"quips and cranks and wanton wiles</word>
+				<word number="2">nods and becks and wreathed smiles"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="entertainer">
+			<sg number="1">
+				<word number="1">entertainer</word>
+				<word number="2">showman</word>
+				<word number="3">showgirl</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dancer</word>
+				<word number="2">tap dancer</word>
+				<word number="3">song-and-dance man</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vaudeville act</word>
+			</sg>
+			<sg number="4">
+				<word number="1">singer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="musician" headRef="434">musician</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">comedian</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">performer</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="2">actor</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="2">artiste</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="2">celebrity</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">clown</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="3">chef</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="3">juggler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="sportsman">
+			<sg number="1">
+				<word number="1">sportsman</word>
+				<word number="2">gamester</word>
+				<word number="3">reveler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">master of ceremonies</word>
+				<word number="2">master of revels</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pompom girl</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arbiter elegantiarum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arbiter bibendi</word>
+				<word number="2">archer</word>
+				<word number="3">fan</word>
+				<word number="4">toxophilite</word>
+				<word number="5">turfman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="alley">
+			<sg number="1">
+				<word number="1" new="1">alley</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="bowl">
+			<sg number="1">
+				<word number="1" new="1">bowl</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="carrom">
+			<sg number="1">
+				<word number="1" new="1">carrom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="firework">
+			<sg number="1">
+				<word number="1" new="1">firework</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="matches">
+			<sg number="1">
+				<word number="1" new="1">matches</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="team">
+			<sg number="1">
+				<word number="1" new="1">team</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="thrill">
+			<sg number="1">
+				<word number="1" new="1">thrill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="troupe">
+			<sg number="1">
+				<word number="1" new="1">troupe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="carom">
+			<sg number="1">
+				<word number="1" new="2">carom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="38" name="contest">
+			<sg number="1">
+				<word number="1" new="2">contest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="39" name="dice">
+			<sg number="1">
+				<word number="1" new="2">dice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="40" name="franchise">
+			<sg number="1">
+				<word number="1" new="2">franchise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="41" name="anniversary">
+			<sg number="1">
+				<word number="1" new="3">anniversary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="42" name="event">
+			<sg number="1">
+				<word number="1" new="3">event</word>
+			</sg>
+		</paragraph>
+		<paragraph number="43" name="mime">
+			<sg number="1">
+				<word number="1" new="3">mime</word>
+			</sg>
+		</paragraph>
+		<paragraph number="44" name="birthday">
+			<sg number="1">
+				<word number="1" new="4">birthday</word>
+			</sg>
+		</paragraph>
+		<paragraph number="45" name="competition">
+			<sg number="1">
+				<word number="1" new="4">competition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="46" name="gallery">
+			<sg number="1">
+				<word number="1" new="4">gallery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="47" name="championship">
+			<sg number="1">
+				<word number="1" new="5">championship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="48" name="circus">
+			<sg number="1">
+				<word number="1" new="5">circus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="49" name="club">
+			<sg number="1">
+				<word number="1" new="5">club</word>
+			</sg>
+		</paragraph>
+		<paragraph number="50" name="coronation">
+			<sg number="1">
+				<word number="1" new="5">coronation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="51" name="cup">
+			<sg number="1">
+				<word number="1" new="5">cup</word>
+			</sg>
+		</paragraph>
+		<paragraph number="52" name="tour">
+			<sg number="1">
+				<word number="1" new="5">tour</word>
+			</sg>
+		</paragraph>
+		<paragraph number="53" name="venue">
+			<sg number="1">
+				<word number="1" new="5">venue</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="amuse">
+			<sg number="1">
+				<word number="1">amuse</word>
+				<word number="2">entertain</word>
+				<word number="3">divert</word>
+				<word number="4">enliven</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tickle the fancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">titillate</word>
+				<word number="2">raise a smile</word>
+				<word number="3">put in good humor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cause laughter</word>
+				<word number="2">create laughter</word>
+				<word number="3">occasion laughter</word>
+				<word number="4">raise laughter</word>
+				<word number="5">excite laughter</word>
+				<word number="6">produce laughter</word>
+				<word number="7">convulse with laughter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">set the table in a roar</word>
+				<word number="2">be the death of one</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recreate">
+			<sg number="1">
+				<word number="1">recreate</word>
+				<word number="2">solace</word>
+				<word number="3">cheer</word>
+				<word number="4">rejoice</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="please" headRef="867">please</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">treat</word>
+				<word number="2">regale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="amuse oneself">
+			<sg number="1">
+				<word number="1">amuse oneself</word>
+				<word number="2">game</word>
+			</sg>
+			<sg number="2">
+				<word number="1">play a game</word>
+				<word number="2">play pranks</word>
+				<word number="3">play tricks</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sport</word>
+				<word number="2">disport</word>
+				<word number="3">toy</word>
+				<word number="4">wanton</word>
+				<word number="5">revel</word>
+				<word number="6">junket</word>
+				<word number="7">feast</word>
+				<word number="8">carouse</word>
+				<word number="9">banquet</word>
+				<word number="10">make merry</word>
+				<word number="11">drown care</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drive dull care away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">frolic</word>
+				<word number="2">gambol</word>
+				<word number="3">frisk</word>
+				<word number="4">romp</word>
+			</sg>
+			<sg number="6">
+				<word number="1">caper</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="leap" headRef="320">dance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">keep up the ball</word>
+			</sg>
+			<sg number="9">
+				<word number="1">run a rig</word>
+				<word number="2">sow one's wild oats</word>
+				<word number="3">have one's fling</word>
+				<word number="4">take one's pleasure</word>
+			</sg>
+			<sg number="10">
+				<word number="1">paint the town red*</word>
+			</sg>
+			<sg number="11">
+				<word number="1">see life</word>
+			</sg>
+			<sg number="12">
+				<word number="1">desipere in loco</word>
+				<word number="2">play the fool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="make holiday">
+			<sg number="1">
+				<word number="1">make holiday</word>
+				<word number="2">keep holiday</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go a Maying</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="while away the time">
+			<sg number="1">
+				<word number="1">while away the time</word>
+				<word number="2">beguile the time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kill time</word>
+				<word number="2">dally</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="smile">
+			<sg number="1">
+				<word number="1">smile</word>
+				<word number="2">simper</word>
+				<word number="3">smirk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grin</word>
+				<word number="2">grin like a Cheshire cat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mock</word>
+				<word number="2">laugh in one's sleeve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">laugh</word>
+				<word number="2">laugh outright</word>
+			</sg>
+			<sg number="5">
+				<word number="1">giggle</word>
+				<word number="2">titter</word>
+				<word number="3">snigger</word>
+				<word number="4">crow</word>
+				<word number="5">snicker</word>
+				<word number="6">chuckle</word>
+				<word number="7">cackle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">burst out</word>
+				<word number="2">burst into a fit of laughter</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shout</word>
+				<word number="2">split</word>
+				<word number="3">roar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="shake one's sides">
+			<sg number="1">
+				<word number="1">shake one's sides</word>
+				<word number="2">split one's sides</word>
+				<word number="3">hold both one's sides</word>
+			</sg>
+			<sg number="2">
+				<word number="1">roar with laughter</word>
+				<word number="2">die with laughter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="amusing">
+			<sg number="1">
+				<word number="1">amusing</word>
+				<word number="2">entertaining</word>
+				<word number="3" paraRef="" posRef="v.">diverting</word>
+				<word number="4" new="1">delightful</word>
+				<word number="5" new="3">ingenious</word>
+				<word number="6" new="4">inventive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recreational</word>
+				<word number="2">recreative</word>
+				<word number="3">lusory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="pleasing" headRef="867">pleasant</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ludicrous" headRef="892">laughable</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="witty" headRef="880">witty</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fun</word>
+				<word number="2">festive</word>
+				<word number="3">festal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">jovial</word>
+				<word number="2">jolly</word>
+				<word number="3">jocund</word>
+				<word number="4">roguish</word>
+				<word number="5">rompish</word>
+			</sg>
+			<sg number="8">
+				<word number="1">playful</word>
+				<word number="2">playful as a kitten</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sportive</word>
+				<word number="2">ludibrious|</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">humorous</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">irreverent</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">lively</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">merry</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">provocative</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">charming</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">imaginative</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="2">joyful</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="2">spirited</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="2">vivacious</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="2">whimsical</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="3">articulate</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="3">cheerful</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="3">clever</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="3">cute</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="3">energetic</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="3">lovely</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="3">sexy</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="4">adventurous</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="4">bubbly</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="4">cheery</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="4">easygoing</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="4">erudite</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="4">exuberant</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="4">gorgeous</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="4">intelligent</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="4">outgoing</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="4">perceptive</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="4">seductive</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="4">sensual</word>
+			</sg>
+			<sg number="40">
+				<word number="1" new="4">sly</word>
+			</sg>
+			<sg number="41">
+				<word number="1" new="4">smart</word>
+			</sg>
+			<sg number="42">
+				<word number="1" new="4">urbane</word>
+			</sg>
+			<sg number="43">
+				<word number="1" new="4">vigorous</word>
+			</sg>
+			<sg number="44">
+				<word number="1" new="5">audacious</word>
+			</sg>
+			<sg number="45">
+				<word number="1" new="5">chipper</word>
+			</sg>
+			<sg number="46">
+				<word number="1" new="5">creative</word>
+			</sg>
+			<sg number="47">
+				<word number="1" new="5">daring</word>
+			</sg>
+			<sg number="48">
+				<word number="1" new="5">deft</word>
+			</sg>
+			<sg number="49">
+				<word number="1" new="5">genial</word>
+			</sg>
+			<sg number="50">
+				<word number="1" new="5">handsome</word>
+			</sg>
+			<sg number="51">
+				<word number="1" new="5">inquisitive</word>
+			</sg>
+			<sg number="52">
+				<word number="1" new="5">precocious</word>
+			</sg>
+			<sg number="53">
+				<word number="1" new="5">sultry</word>
+			</sg>
+			<sg number="54">
+				<word number="1" new="5">talkative</word>
+			</sg>
+			<sg number="55">
+				<word number="1" new="5">thoughtful</word>
+			</sg>
+			<sg number="56">
+				<word number="1" new="5">unconventional</word>
+			</sg>
+			<sg number="57">
+				<word number="1" new="5">wry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="funny">
+			<sg number="1">
+				<word number="1">funny</word>
+			</sg>
+			<sg number="2">
+				<word number="1">very funny</word>
+				<word number="2">hilarious</word>
+				<word number="3">uproarious</word>
+				<word number="4">side-splitting</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">comical</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">unfunny</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="2">comic</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">silly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="amused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">amused</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"pleased with a rattle</word>
+				<word number="2">tickled with a straw"</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">laughing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">risible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ready to burst</word>
+				<word number="2">ready to split</word>
+				<word number="3">ready to die with laughter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">convulsed with laughter</word>
+				<word number="2">rolling in the aisles</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on the light fantastic toe">
+			<sg number="1">
+				<word number="1">"on the light fantastic toe"</word>
+				<word number="2">at play</word>
+				<word number="3">in sport</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="vive la bagatelle">
+			<sg number="1">
+				<word number="1">vive la bagatelle!</word>
+				<word number="2">vogue la galere!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="deus nobis haec otia fecit">
+			<sg number="1">
+				<word number="1">deus nobis haec otia fecit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dum vivimus vivamus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dulce est desipere in loco</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"(every room) hath blazed with lights and brayed with minstrelsy"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">misce stullitiam consiliis brevem</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

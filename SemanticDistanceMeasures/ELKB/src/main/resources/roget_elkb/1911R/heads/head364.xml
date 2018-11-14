@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="364" name="Bubble" origNum="#353." class="3" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bubble">
+			<sg number="1">
+				<word number="1">bubble</word>
+				<word number="2">foam</word>
+				<word number="3">froth</word>
+				<word number="4">head</word>
+				<word number="5">spume</word>
+				<word number="6">lather</word>
+				<word number="7">suds</word>
+				<word number="8">spray</word>
+				<word number="9">surf</word>
+				<word number="10">yeast</word>
+				<word number="11">barm</word>
+				<word number="12">spindrift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cloud">
+			<sg number="1">
+				<word number="1">cloud</word>
+				<word number="2">vapor</word>
+				<word number="3">fog</word>
+				<word number="4">mist</word>
+				<word number="5">haze</word>
+				<word number="6">steam</word>
+				<word number="7">geyser</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scud</word>
+				<word number="2">messenger</word>
+				<word number="3">rack</word>
+				<word number="4">nimbus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cumulus</word>
+				<word number="2">woolpack</word>
+				<word number="3">cirrus</word>
+				<word number="4">stratus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cirrostratus</word>
+				<word number="2">cumulostratus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cirrocumulus</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mackerel sky</word>
+				<word number="2">mare's tale</word>
+				<word number="3">dirty sky</word>
+			</sg>
+			<sg number="7">
+				<word number="1">curl cloud</word>
+			</sg>
+			<sg number="8">
+				<word number="1">frost smoke</word>
+			</sg>
+			<sg number="9">
+				<word number="1">thunderhead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nephelognosy">
+			<sg number="1">
+				<word number="1">nephelognosy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nephograph</word>
+				<word number="2">nephology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="effervescence">
+			<sg number="1">
+				<word number="1">effervescence</word>
+				<word number="2">fermentation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">bubbling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="nebula">
+			<sg number="1">
+				<word number="1">nebula</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="opacity" headRef="444">cloudliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dimness" headRef="440">nebulosity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="bubble">
+			<sg number="1">
+				<word number="1">bubble</word>
+				<word number="2">boil</word>
+				<word number="3">foam</word>
+				<word number="4">froth</word>
+				<word number="5">mantle</word>
+				<word number="6">sparkle</word>
+				<word number="7">guggle</word>
+				<word number="8">gurgle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">effervesce</word>
+				<word number="2">ferment</word>
+				<word number="3">fizzle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="bubbling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">bubbling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frothy</word>
+				<word number="2">nappy</word>
+				<word number="3">effervescent</word>
+				<word number="4">sparkling</word>
+				<word number="5">mousseux</word>
+				<word number="6">up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cloudy">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">cloudy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thunderheaded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vaporous</word>
+				<word number="2">nebulous</word>
+				<word number="3">overcast</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the lowring element scowls o'er the darkened landscip">
+			<sg number="1">
+				<word number="1">"the lowring element scowls o'er the darkened landscip"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

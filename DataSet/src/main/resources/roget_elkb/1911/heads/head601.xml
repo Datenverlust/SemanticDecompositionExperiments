@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="601" name="Feebleness" origNum="#575." class="5" section="3" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="feebleness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">feebleness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="feeble">
+			<sg number="1">
+				<word number="1">feeble</word>
+				<word number="2">bald</word>
+				<word number="3">tame</word>
+				<word number="4">meager</word>
+				<word number="5">jejune</word>
+				<word number="6">vapid</word>
+				<word number="7">bland</word>
+				<word number="8">trashy</word>
+				<word number="9">lukewarm</word>
+				<word number="10">cold</word>
+				<word number="11">frigid</word>
+				<word number="12">poor</word>
+				<word number="13">dull</word>
+				<word number="14">dry</word>
+				<word number="15">languid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">colorless</word>
+				<word number="2">enervated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proposing</word>
+				<word number="2">prosy</word>
+				<word number="3">prosaic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unvaried</word>
+				<word number="2">monotonous</word>
+				<word number="3">weak</word>
+				<word number="4">washy</word>
+				<word number="5">wishy-washy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sketchy</word>
+				<word number="2">slight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="careless">
+			<sg number="1">
+				<word number="1">careless</word>
+				<word number="2">slovenly</word>
+				<word number="3">loose</word>
+				<word number="4" paraRef="negligent" headRef="480">lax</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slipshod</word>
+				<word number="2">slipslop</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inexact</word>
+			</sg>
+			<sg number="4">
+				<word number="1">puerile</word>
+				<word number="2">childish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flatulent</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="diffuse" headRef="599">rambling</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="313" name="Passage" origNum="#302." class="2" section="4" subSection="4" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="passage">
+			<sg number="1">
+				<word number="1">passage</word>
+				<word number="2">transmission</word>
+			</sg>
+			<sg number="2">
+				<word number="1">permeation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">penetration</word>
+				<word number="2">interpenetration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">transudation</word>
+				<word number="2">infiltration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">endosmose exosmose</word>
+			</sg>
+			<sg number="6">
+				<word number="1">endosmosis</word>
+			</sg>
+			<sg number="7">
+				<word number="1">intercurrence</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ingress" headRef="305">ingress</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="egress" headRef="306">egress</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="path" headRef="656">path</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="conduit" headRef="361">conduit</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="opening" headRef="271">opening</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="journey" headRef="277">journey</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="voyage" headRef="278">voyage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pass">
+			<sg number="1">
+				<word number="1">pass</word>
+				<word number="2">pass through</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="hole" headRef="271">perforate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">penetrate</word>
+				<word number="2">permeate</word>
+				<word number="3">thread</word>
+				<word number="4">thrid</word>
+				<word number="5">enfilade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go through</word>
+				<word number="2">go across</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go over</word>
+				<word number="2">pass over</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cut across</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ford</word>
+				<word number="2">cross</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pass and repass</word>
+				<word number="2">work</word>
+			</sg>
+			<sg number="9">
+				<word number="1">make one's way</word>
+				<word number="2">thread one's way</word>
+				<word number="3">worm one's way</word>
+				<word number="4">force  one's way</word>
+			</sg>
+			<sg number="10">
+				<word number="1">make a passage form a passage</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cut one's way through</word>
+			</sg>
+			<sg number="12">
+				<word number="1">find its way</word>
+				<word number="2">find its vent</word>
+			</sg>
+			<sg number="13">
+				<word number="1">transmit</word>
+				<word number="2">make way</word>
+				<word number="3">clear the course</word>
+			</sg>
+			<sg number="14">
+				<word number="1">traverse</word>
+				<word number="2">go over the ground</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="passing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">passing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intercurrent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">endosmosmic</word>
+				<word number="2">endosmotic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="en passant">
+			<sg number="1">
+				<word number="1" paraRef="transit" headRef="281">en passant</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

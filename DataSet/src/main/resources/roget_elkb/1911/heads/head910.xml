@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="910" name="Expectance" origNum="#871." class="8" section="2" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="expectance">
+			<sg number="1">
+				<word number="1" paraRef="expectation" headRef="531">expectance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="example">
+			<sg number="1">
+				<word number="1">example</word>
+				<word number="2" paraRef="conformity" headRef="86">instance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="normality">
+			<sg number="1">
+				<word number="1" paraRef="habit" headRef="641">normality</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="expect">
+			<sg number="1">
+				<word number="1" paraRef="expect" headRef="531">expect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not be surprised</word>
+				<word number="2" paraRef="wonder" headRef="909">not wonder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nil admirari</word>
+				<word number="2">make nothing of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="expecting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">expecting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unamazed</word>
+				<word number="2">astonished at nothing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="weary" headRef="879">blase</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">expected</word>
+			</sg>
+			<sg number="5">
+				<word number="1">foreseen</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unsurprising</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="common">
+			<sg number="1">
+				<word number="1">common</word>
+				<word number="2">ordinary</word>
+				<word number="3">normal</word>
+				<word number="4">typical</word>
+				<word number="5" paraRef="habitual" headRef="641">usual</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="naturally">
+			<sg number="1">
+				<word number="1">naturally</word>
+				<word number="2">as a matter of course</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="no wonder">
+			<sg number="1">
+				<word number="1">no wonder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of course</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

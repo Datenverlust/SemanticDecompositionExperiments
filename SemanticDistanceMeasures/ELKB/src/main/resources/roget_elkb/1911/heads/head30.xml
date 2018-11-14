@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="30" name="Inequality" origNum="#28." class="1" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inequality">
+			<sg number="1">
+				<word number="1">inequality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disparity</word>
+				<word number="2">imparity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">odds</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="difference" headRef="15">difference</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unevenness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">inclination of the balance</word>
+				<word number="2">partiality</word>
+				<word number="3">bias</word>
+				<word number="4">weight</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shortcoming</word>
+			</sg>
+			<sg number="8">
+				<word number="1">casting weight</word>
+				<word number="2">make- weight</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="superiority" headRef="35">superiority</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="inferiority" headRef="36">inferiority</word>
+			</sg>
+			<sg number="11">
+				<word number="1">inequation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be unequal">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be unequal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">countervail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have the advantage</word>
+				<word number="2">give the advantage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turn the scale</word>
+			</sg>
+			<sg number="5">
+				<word number="1">kick the beam</word>
+			</sg>
+			<sg number="6">
+				<word number="1">topple</word>
+				<word number="2">topple over</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="overmatch" headRef="35">overmatch</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="not come up to" headRef="36">not come up to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unequal">
+			<sg number="1">
+				<word number="1">unequal</word>
+				<word number="2">uneven</word>
+				<word number="3">disparate</word>
+				<word number="4">partial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbalanced</word>
+				<word number="2">overbalanced</word>
+			</sg>
+			<sg number="3">
+				<word number="1">top-heavy</word>
+				<word number="2">lopsided</word>
+				<word number="3">biased</word>
+				<word number="4">skewed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disquiparant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="haud passibus aequis">
+			<sg number="1">
+				<word number="1">haud passibus aequis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

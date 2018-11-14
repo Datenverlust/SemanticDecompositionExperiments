@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="411" name="Unsavoriness" origNum="#395." class="3" section="3" subSection="2" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unsavoriness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">unsavoriness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amaritude</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acrimony</word>
+				<word number="2" paraRef="bitterness" headRef="408">acridity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sour" headRef="413">roughness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">acerbity</word>
+				<word number="2">austerity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gall and wormwood</word>
+				<word number="2">rue</word>
+				<word number="3">quassia</word>
+				<word number="4">aloes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">marah</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sickener</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be unpalatable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be unpalatable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sicken</word>
+				<word number="2">disgust</word>
+				<word number="3">nauseate</word>
+				<word number="4">pall</word>
+				<word number="5">turn the stomach</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unsavory">
+			<sg number="1">
+				<word number="1">unsavory</word>
+				<word number="2">unpalatable</word>
+				<word number="3">unsweetened</word>
+				<word number="4">unsweet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-flavored</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bitter</word>
+				<word number="2">bitter as gall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acrid</word>
+				<word number="2">acrimonious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rough</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="offensive">
+			<sg number="1">
+				<word number="1">offensive</word>
+				<word number="2">repulsive</word>
+				<word number="3">nasty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">sickening</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nauseous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">loathsome</word>
+				<word number="2">fulsome</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unpleasant" headRef="868">unpleasant</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

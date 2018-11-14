@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="844" name="Expenditure" origNum="#809." class="7" section="4" subSection="4" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="expenditure">
+			<sg number="1">
+				<word number="1">expenditure</word>
+				<word number="2">money going out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out goings</word>
+				<word number="2">out lay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">expenses</word>
+				<word number="2">disbursement</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="price" headRef="847">prime cost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">circulation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run upon a bank</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="payment">
+			<sg number="1">
+				<word number="1" paraRef="payment" headRef="842">payment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="remuneration" headRef="1016">pay</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bribe" headRef="1016">bribe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fee</word>
+				<word number="2">footing</word>
+				<word number="3">garnish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">subsidy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tribute</word>
+			</sg>
+			<sg number="7">
+				<word number="1">contingent</word>
+				<word number="2">quota</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="donation" headRef="817">donation</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">este</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">buttonquail</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">pronephros</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">sporophyte</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pay in advance">
+			<sg number="1">
+				<word number="1">pay in advance</word>
+				<word number="2">earnest</word>
+				<word number="3">handsel</word>
+				<word number="4">deposit</word>
+				<word number="5">installment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="investment">
+			<sg number="1">
+				<word number="1">investment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="purchase" headRef="828">purchase</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="plat">
+			<sg number="1">
+				<word number="1" new="1">plat</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="expend">
+			<sg number="1">
+				<word number="1">expend</word>
+				<word number="2">spend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run through</word>
+				<word number="2">get through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pay</word>
+				<word number="2">disburse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ante</word>
+				<word number="2">ante up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pony up*</word>
+			</sg>
+			<sg number="6">
+				<word number="1">open the purse strings</word>
+				<word number="2">loose the purse strings</word>
+				<word number="3">untie the purse strings</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay out</word>
+				<word number="2">shell out*</word>
+				<word number="3">fork out*</word>
+				<word number="4">fork over</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bleed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">make up a sum</word>
+				<word number="2">invest</word>
+				<word number="3">sink money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="run up debts">
+			<sg number="1">
+				<word number="1">run up debts</word>
+				<word number="2" paraRef="debt" headRef="841">run up bills</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fee">
+			<sg number="1">
+				<word number="1" paraRef="reward" headRef="1016">fee</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pay" headRef="842">pay one's way</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="give" headRef="817">subscribe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subsidize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="expending">
+			<sg number="1">
+				<word number="1">expending</word>
+				<word number="2" paraRef="" posRef="v.">expended</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sumptuary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="vectigalia nervos esse reipublicae">
+			<sg number="1">
+				<word number="1">vectigalia nervos esse reipublicae</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="765" name="Mediocrity" origNum="#736." class="6" section="5" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="moderate circumstances">
+			<sg number="1">
+				<word number="1">moderate circumstances</word>
+				<word number="2">average circumstances</word>
+			</sg>
+			<sg number="2">
+				<word number="1">respectability</word>
+			</sg>
+			<sg number="3">
+				<word number="1">middle classes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mediocrity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="mid-course" headRef="657">golden mean</word>
+				<word number="2" paraRef="moderation" headRef="181">moderation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="jog on">
+			<sg number="1">
+				<word number="1">jog on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go fairly</word>
+				<word number="2">go quietly</word>
+				<word number="3">go peaceably</word>
+				<word number="4">go tolerably</word>
+				<word number="5">go respectably</word>
+				<word number="6">get on fairly</word>
+				<word number="7">get on quietly</word>
+				<word number="8">get on peaceably</word>
+				<word number="9">get on tolerably</word>
+				<word number="10">get on respectably</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

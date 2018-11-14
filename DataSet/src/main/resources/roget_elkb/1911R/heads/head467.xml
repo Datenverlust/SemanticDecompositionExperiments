@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="467" name="Appearance" origNum="#448." class="3" section="3" subSection="2" headGroup="38">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="appearance">
+			<sg number="1">
+				<word number="1">appearance</word>
+				<word number="2">phenomenon</word>
+				<word number="3">sight</word>
+				<word number="4">spectacle</word>
+				<word number="5">show</word>
+				<word number="6">premonstration</word>
+				<word number="7">scene</word>
+				<word number="8">species</word>
+				<word number="9">view</word>
+				<word number="10">coup d'oeil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lookout</word>
+				<word number="2">outlook</word>
+				<word number="3">prospect</word>
+				<word number="4">vista</word>
+				<word number="5">perspective</word>
+				<word number="6">bird's-eye view</word>
+				<word number="7">scenery</word>
+				<word number="8">landscape</word>
+				<word number="9">picture</word>
+				<word number="10">tableau</word>
+			</sg>
+			<sg number="3">
+				<word number="1">display</word>
+				<word number="2">exposure</word>
+				<word number="3">mise en scene</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rising of the curtain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="phantasm">
+			<sg number="1">
+				<word number="1">phantasm</word>
+				<word number="2" paraRef="fallacies of vision" headRef="462">phantom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pageant">
+			<sg number="1">
+				<word number="1">pageant</word>
+				<word number="2">spectacle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peep-show</word>
+				<word number="2">raree-show</word>
+				<word number="3">gallanty-show</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ombres chinoises</word>
+			</sg>
+			<sg number="4">
+				<word number="1">magic lantern</word>
+				<word number="2">phantasmagoria</word>
+				<word number="3">dissolving views</word>
+			</sg>
+			<sg number="5">
+				<word number="1">biograph</word>
+				<word number="2">cinematograph</word>
+				<word number="3">moving pictures</word>
+			</sg>
+			<sg number="6">
+				<word number="1">panorama</word>
+				<word number="2">diorama</word>
+				<word number="3">cosmorama</word>
+				<word number="4">georama</word>
+			</sg>
+			<sg number="7">
+				<word number="1">coup de theatre</word>
+				<word number="2">jeu de theatre</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ostentation" headRef="921">pageantry</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="indication" headRef="576">insignia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="aspect">
+			<sg number="1">
+				<word number="1">aspect</word>
+				<word number="2">angle</word>
+				<word number="3">phase</word>
+				<word number="4">phasis</word>
+				<word number="5">seeming</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="form" headRef="250">shape</word>
+			</sg>
+			<sg number="3">
+				<word number="1">guise</word>
+				<word number="2">look</word>
+				<word number="3">complexion</word>
+				<word number="4">color</word>
+				<word number="5">image</word>
+				<word number="6">mien</word>
+				<word number="7">air</word>
+				<word number="8">cast</word>
+				<word number="9">carriage</word>
+				<word number="10">port</word>
+				<word number="11">demeanor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">presence</word>
+				<word number="2">expression</word>
+				<word number="3">first blush</word>
+				<word number="4">face of the thing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">point of view</word>
+				<word number="2">light</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">sprayer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="lineament feature trait lines">
+			<sg number="1">
+				<word number="1">lineament feature trait lines</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outline</word>
+				<word number="2">outside</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contour</word>
+				<word number="2">face</word>
+				<word number="3">countenance</word>
+				<word number="4">physiognomy</word>
+				<word number="5">visage</word>
+				<word number="6">phiz</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="cast of countenance">
+			<sg number="1">
+				<word number="1">cast of countenance</word>
+				<word number="2">profile</word>
+				<word number="3">tournure</word>
+				<word number="4">cut of one's jib</word>
+				<word number="5">metoposcopy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="outside" headRef="230">outside</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="appear">
+			<sg number="1">
+				<word number="1">appear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be visible</word>
+				<word number="2" paraRef="be become visible" headRef="465">become visible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seem</word>
+				<word number="2">look</word>
+				<word number="3">show</word>
+			</sg>
+			<sg number="4">
+				<word number="1">present the appearance of</word>
+				<word number="2">wear the appearance of</word>
+				<word number="3">carry the appearance of</word>
+				<word number="4">have the appearance of</word>
+				<word number="5">bear the appearance of</word>
+				<word number="6">exhibit the appearance of</word>
+				<word number="7">take the appearance of</word>
+				<word number="8">take on the appearance of</word>
+				<word number="9">assume the appearance</word>
+				<word number="10">present the semblance of</word>
+				<word number="11">wear the semblance of</word>
+				<word number="12">carry the semblance of</word>
+				<word number="13">have the semblance of</word>
+				<word number="14">bear the semblance of</word>
+				<word number="15">exhibit the semblance of</word>
+				<word number="16">take the semblance of</word>
+				<word number="17">take on the semblance of</word>
+				<word number="18">assume the semblance of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">look like</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cut a figure</word>
+				<word number="2">figure</word>
+			</sg>
+			<sg number="7">
+				<word number="1">present to the view</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="make manifest" headRef="550">show</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="apparent">
+			<sg number="1">
+				<word number="1">apparent</word>
+				<word number="2">seeming</word>
+				<word number="3">ostensible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on view</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="apparently">
+			<sg number="1">
+				<word number="1">apparently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to all seeming</word>
+				<word number="2">to all appearance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ostensibly</word>
+				<word number="2">seemingly</word>
+				<word number="3">as it seems</word>
+				<word number="4">on the face of it</word>
+				<word number="5">prima facie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at the first blush</word>
+				<word number="2">at first sight</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the eyes of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">to the eye</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="editio princeps">
+			<sg number="1">
+				<word number="1">editio princeps</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

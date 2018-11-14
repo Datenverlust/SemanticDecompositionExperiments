@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="993" name="Impenitence" origNum="#951." class="8" section="4" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impenitence">
+			<sg number="1">
+				<word number="1">impenitence</word>
+				<word number="2">irrepentance</word>
+				<word number="3">recusance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lack of contrition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hardness of heart">
+			<sg number="1">
+				<word number="1">hardness of heart</word>
+				<word number="2">seared conscience</word>
+				<word number="3">induration</word>
+				<word number="4">obduracy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be impenitent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be impenitent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">steel the heart</word>
+				<word number="2">harden the heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">die game</word>
+				<word number="2">die and make no sign</word>
+				<word number="3">die unshriven</word>
+				<word number="4">die without benefit of clergy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="impenitent">
+			<sg number="1">
+				<word number="1">impenitent</word>
+				<word number="2">uncontrite</word>
+				<word number="3">obdurate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard</word>
+				<word number="2">hardened</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seared</word>
+				<word number="2">recusant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unrepentant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">relentless</word>
+				<word number="2">remorseless</word>
+				<word number="3">graceless</word>
+				<word number="4">shriftless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lost">
+			<sg number="1">
+				<word number="1">lost</word>
+				<word number="2">incorrigible</word>
+				<word number="3">irreclaimable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unreconstructed">
+			<sg number="1">
+				<word number="1">unreconstructed</word>
+				<word number="2">unregenerate</word>
+				<word number="3">unreformed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unrepented</word>
+				<word number="2">unreclaimed</word>
+				<word number="3">unatoned</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

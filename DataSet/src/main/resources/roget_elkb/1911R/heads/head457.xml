@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="457" name="Blueness" origNum="#438." class="3" section="3" subSection="2" headGroup="33">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="blue">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">blue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">garter-blue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">watchet|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ultramarine">
+			<sg number="1">
+				<word number="1">ultramarine</word>
+				<word number="2">smalt</word>
+				<word number="3">cobalt</word>
+				<word number="4">cyanogen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Prussian blue</word>
+				<word number="2">syenite blue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bice</word>
+				<word number="2">indigo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">zaffer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lapis lazuli">
+			<sg number="1">
+				<word number="1">lapis lazuli</word>
+				<word number="2">sapphire</word>
+				<word number="3">turquoise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indicolite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="blueness">
+			<sg number="1">
+				<word number="1">blueness</word>
+				<word number="2">bluishness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bloom</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="blue">
+			<sg number="1">
+				<word number="1">blue</word>
+				<word number="2">azure</word>
+				<word number="3">cerulean</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sky-blue</word>
+				<word number="2">sky-colored</word>
+				<word number="3">sky-dyed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cerulescent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">powder blue</word>
+				<word number="2">bluish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">atmospheric</word>
+				<word number="2">retiring</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cold</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

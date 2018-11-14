@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="628" name="Willingness" origNum="#602." class="6" section="1" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="willingness">
+			<sg number="1">
+				<word number="1">willingness</word>
+				<word number="2" paraRef="" posRef="adj.">voluntariness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">willing mind</word>
+				<word number="2">heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disposition">
+			<sg number="1">
+				<word number="1">disposition</word>
+				<word number="2">inclination</word>
+				<word number="3">leaning</word>
+				<word number="4">animus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frame of mind</word>
+				<word number="2">humor</word>
+				<word number="3">mood</word>
+				<word number="4">vein</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="natural turn of mind" headRef="858">bent</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="desire" headRef="904">penchant</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="aptitude" headRef="727">aptitude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="docility">
+			<sg number="1">
+				<word number="1">docility</word>
+				<word number="2">docibleness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">persuasibleness</word>
+				<word number="2">persuasibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="softness" headRef="335">pliability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="geniality">
+			<sg number="1">
+				<word number="1">geniality</word>
+				<word number="2">cordiality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">goodwill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alacrity</word>
+				<word number="2">readiness</word>
+				<word number="3">earnestness</word>
+				<word number="4">forwardness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="desire" headRef="904">eagerness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="assent">
+			<sg number="1">
+				<word number="1" paraRef="assent" headRef="512">assent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="compliance" headRef="793">compliance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="will" headRef="626">pleasure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gratuitous service</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="labor of love">
+			<sg number="1">
+				<word number="1">labor of love</word>
+			</sg>
+			<sg number="2">
+				<word number="1">volunteer</word>
+				<word number="2">volunteering</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be willing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be willing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incline</word>
+				<word number="2">lean to</word>
+				<word number="3">mind</word>
+				<word number="4">propend</word>
+			</sg>
+			<sg number="3">
+				<word number="1">had as lief</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lend a willing ear</word>
+				<word number="2">give a willing ear</word>
+				<word number="3">turn a willing ear</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have a half a mind to</word>
+				<word number="2">have a great mind to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hold to</word>
+				<word number="2">cling to</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="desire" headRef="904">desire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="see fit">
+			<sg number="1">
+				<word number="1">see fit</word>
+				<word number="2">think good</word>
+				<word number="3">think proper</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="assent" headRef="512">acquiesce</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="comply with" headRef="793">comply with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="swallow the bait">
+			<sg number="1">
+				<word number="1">swallow the bait</word>
+				<word number="2">nibble at the bait</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gorge the hook</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have no scruple of</word>
+				<word number="2">make no scruple of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make no bones of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jump at</word>
+				<word number="2">catch at</word>
+			</sg>
+			<sg number="6">
+				<word number="1">meet halfway</word>
+			</sg>
+			<sg number="7">
+				<word number="1">volunteer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="willing">
+			<sg number="1">
+				<word number="1">willing</word>
+				<word number="2">minded</word>
+				<word number="3">fain</word>
+				<word number="4">disposed</word>
+				<word number="5">inclined</word>
+				<word number="6">favorable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">favorably- minded</word>
+				<word number="2">favorably inclined</word>
+				<word number="3">favorably disposed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nothing loth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the vein</word>
+				<word number="2">in the mood</word>
+				<word number="3">in the humor</word>
+				<word number="4">in the mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ready">
+			<sg number="1">
+				<word number="1">ready</word>
+				<word number="2">forward</word>
+				<word number="3">earnest</word>
+				<word number="4">eager</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="desirous" headRef="904">bent upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">predisposed</word>
+				<word number="2">propense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="docile">
+			<sg number="1">
+				<word number="1">docile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">persuadable</word>
+				<word number="2">persuasible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suasible</word>
+				<word number="2">easily persuaded</word>
+				<word number="3">facile</word>
+				<word number="4">easy-going</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pliant" headRef="335">tractable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">genial</word>
+				<word number="2">gracious</word>
+				<word number="3">cordial</word>
+				<word number="4">cheering</word>
+				<word number="5">hearty</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="assenting" headRef="512">content</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="voluntary">
+			<sg number="1">
+				<word number="1">voluntary</word>
+				<word number="2">gratuitous</word>
+				<word number="3">spontaneous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ask" headRef="796">unasked</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="free" headRef="779">unforced</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="willingly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">willingly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fain</word>
+				<word number="2">freely</word>
+				<word number="3">as lief</word>
+				<word number="4">heart and soul</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with pleasure</word>
+				<word number="2">with all one's heart</word>
+				<word number="3">with open arms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">with good will</word>
+				<word number="2">with right will</word>
+			</sg>
+			<sg number="5">
+				<word number="1">de bonne volonte</word>
+				<word number="2">ex animo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">con amore</word>
+				<word number="2">heart in hand</word>
+				<word number="3">nothing loth</word>
+				<word number="4">without reluctance</word>
+				<word number="5">of one's own accord</word>
+				<word number="6">graciously</word>
+				<word number="7">with a good grace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="a la bonne heure">
+			<sg number="1">
+				<word number="1">a la bonne heure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by all means</word>
+				<word number="2">by all manner of means</word>
+			</sg>
+			<sg number="3">
+				<word number="1">to one's heart's content</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="assent" headRef="512">yes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

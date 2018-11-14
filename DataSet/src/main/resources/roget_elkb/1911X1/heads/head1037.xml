@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1037" name="Spell" origNum="#993." class="8" section="5" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="spell">
+			<sg number="1">
+				<word number="1">spell</word>
+				<word number="2">charm</word>
+				<word number="3">incantation</word>
+				<word number="4">exorcism</word>
+				<word number="5">weird</word>
+				<word number="6">cabala</word>
+				<word number="7">exsufflation</word>
+				<word number="8">cantrap</word>
+				<word number="9">runes</word>
+				<word number="10">abracadabra</word>
+				<word number="11">open sesame</word>
+				<word number="12">countercharm</word>
+				<word number="13">Ephesian letters</word>
+				<word number="14">bell book and candle</word>
+				<word number="15">Mumbo Jumbo</word>
+				<word number="16">evil eye</word>
+				<word number="17">fee-faw-fum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="talisman">
+			<sg number="1">
+				<word number="1">talisman</word>
+				<word number="2">amulet</word>
+				<word number="3">periapt</word>
+				<word number="4">telesm</word>
+				<word number="5">phylactery</word>
+				<word number="6">philter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fetich</word>
+				<word number="2">fetish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">agnus Dei</word>
+			</sg>
+			<sg number="4">
+				<word number="1">furcula</word>
+				<word number="2">madstone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mascot</word>
+				<word number="2">mascotte</word>
+			</sg>
+			<sg number="6">
+				<word number="1">merrythought</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Om</word>
+				<word number="2">Aum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scarab</word>
+				<word number="2">scarabaeus</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sudarium</word>
+				<word number="2">triskelion</word>
+				<word number="3">veronica</word>
+				<word number="4">wishbone</word>
+			</sg>
+			<sg number="10">
+				<word number="1">swastika</word>
+				<word number="2">fylfot</word>
+				<word number="3">gammadion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wand">
+			<sg number="1">
+				<word number="1">wand</word>
+				<word number="2">caduceus</word>
+				<word number="3">rod</word>
+				<word number="4">divining rod</word>
+				<word number="5">lamp of Aladdin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wishing-cap</word>
+				<word number="2">Fortunatus's cap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="potion">
+			<sg number="1">
+				<word number="1" new="1">potion</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

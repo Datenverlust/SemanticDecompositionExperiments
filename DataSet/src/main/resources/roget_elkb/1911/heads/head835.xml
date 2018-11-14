@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="835" name="Money" origNum="#800." class="7" section="4" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="money">
+			<sg number="1">
+				<word number="1">money</word>
+				<word number="2">legal tender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">money matters</word>
+				<word number="2">money market</word>
+			</sg>
+			<sg number="3">
+				<word number="1">finance</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="accounts" headRef="846">accounts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">funds</word>
+				<word number="2">treasure</word>
+			</sg>
+			<sg number="6">
+				<word number="1">capital</word>
+				<word number="2">stock</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="property" headRef="813">assets</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="wealth" headRef="838">wealth</word>
+			</sg>
+			<sg number="9">
+				<word number="1">supplies</word>
+				<word number="2">ways and means</word>
+				<word number="3">wherewithal</word>
+				<word number="4">sinews of war</word>
+				<word number="5">almighty dollar</word>
+				<word number="6">needful</word>
+				<word number="7">cash</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mammon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dough">
+			<sg number="1">
+				<word number="1">dough</word>
+				<word number="2">cabbage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="money-like instruments">
+			<sg number="1">
+				<word number="1">money-like instruments</word>
+				<word number="2">M1</word>
+				<word number="3">M2</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sum">
+			<sg number="1">
+				<word number="1">sum</word>
+				<word number="2">amount</word>
+			</sg>
+			<sg number="2">
+				<word number="1">balance</word>
+				<word number="2">balance sheet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sum total</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="receipt" headRef="845">proceeds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="currency">
+			<sg number="1">
+				<word number="1">currency</word>
+				<word number="2">circulating medium</word>
+				<word number="3">specie</word>
+				<word number="4">coin</word>
+				<word number="5">piece</word>
+				<word number="6">hard cash</word>
+				<word number="7">cold cash</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dollar</word>
+				<word number="2">sterling coin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pounds shillings and pence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Ls.d</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pocket</word>
+				<word number="2">breeches pocket</word>
+				<word number="3">purse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">money in hand</word>
+				<word number="2">cash at hand</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ready money</word>
+				<word number="2">ready cash</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slug</word>
+				<word number="2">wad*  wad of bills</word>
+				<word number="3">wad of money</word>
+				<word number="4">thick wad of bills</word>
+				<word number="5">roll of dough</word>
+			</sg>
+			<sg number="9">
+				<word number="1">rhino!</word>
+				<word number="2">blunt!</word>
+				<word number="3">dust!</word>
+				<word number="4">mopus!</word>
+				<word number="5">tin!</word>
+				<word number="6">salt!</word>
+				<word number="7">chink!</word>
+			</sg>
+			<sg number="10">
+				<word number="1">argent comptant</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bottom dollar</word>
+				<word number="2">buzzard dollar!</word>
+			</sg>
+			<sg number="12">
+				<word number="1">checks</word>
+				<word number="2">dibs*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="double eagle">
+			<sg number="1">
+				<word number="1">double eagle</word>
+				<word number="2">eagle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Federal currency</word>
+				<word number="2">fractional currency</word>
+				<word number="3">postal currency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Federal Reserve Note</word>
+				<word number="2">United States Note</word>
+				<word number="3">silver certificate</word>
+				<word number="4">gold certificate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">long bit</word>
+				<word number="2">short bit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">moss</word>
+				<word number="2">nickel</word>
+				<word number="3">pile*</word>
+				<word number="4">pin money</word>
+				<word number="5">quarter</word>
+				<word number="6">red cent</word>
+				<word number="7">roanoke</word>
+				<word number="8">rock*</word>
+			</sg>
+			<sg number="6">
+				<word number="1">seawan</word>
+				<word number="2">seawant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">thousand dollars</word>
+				<word number="2">grand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="[types of paper currency">
+			<sg number="1">
+				<word number="1">single</word>
+				<word number="2">one-dollar bill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">two-dollar bill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">five-dollar bill</word>
+				<word number="2">fiver</word>
+				<word number="3">fin</word>
+				<word number="4">Lincoln</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ten-dollar bill</word>
+				<word number="2">sawbuck</word>
+			</sg>
+			<sg number="5">
+				<word number="1">twenty-dollar bill</word>
+				<word number="2">Jackson</word>
+				<word number="3">double sawbuck</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fifty-dollar bill</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hundred-dollar bill</word>
+				<word number="2">C-note</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="[types of U">
+			<sg number="1">
+				<word number="1">penny</word>
+				<word number="2">cent</word>
+				<word number="3">Lincoln cent</word>
+				<word number="4">indian head penny</word>
+				<word number="5">copper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">two-cent piece  three-cent piece</word>
+				<word number="2">half-dime</word>
+				<word number="3">nickel</word>
+				<word number="4">buffalo nickel</word>
+				<word number="5">V nickel</word>
+				<word number="6">dime</word>
+				<word number="7">disme!</word>
+				<word number="8">mercury dime</word>
+				<word number="9">quarter</word>
+				<word number="10">two bits</word>
+				<word number="11">half dollar</word>
+				<word number="12">dollar</word>
+				<word number="13">silver dollar</word>
+				<word number="14">Eisenhower dollar</word>
+				<word number="15">Susan B  Anthony dollar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="precious metals">
+			<sg number="1">
+				<word number="1">precious metals</word>
+				<word number="2">gold</word>
+				<word number="3">silver</word>
+				<word number="4">copper</word>
+				<word number="5">bullion</word>
+				<word number="6">ingot</word>
+				<word number="7">nugget</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="petty cash">
+			<sg number="1">
+				<word number="1">petty cash</word>
+				<word number="2">pocket money</word>
+				<word number="3">change</word>
+				<word number="4">small change</word>
+				<word number="5">small coin</word>
+				<word number="6">doit</word>
+				<word number="7">stiver</word>
+				<word number="8">rap</word>
+				<word number="9">mite</word>
+				<word number="10">farthing</word>
+				<word number="11">sou</word>
+				<word number="12">penny</word>
+				<word number="13">shilling</word>
+				<word number="14">tester</word>
+				<word number="15">groat</word>
+				<word number="16">guinea</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rouleau</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wampum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good sum</word>
+				<word number="2">round sum</word>
+				<word number="3">lump sum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">power of money</word>
+				<word number="2">plum</word>
+				<word number="3">lac of rupees</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="major coin">
+			<sg number="1">
+				<word number="1">major coin</word>
+				<word number="2">crown</word>
+			</sg>
+			<sg number="2">
+				<word number="1">minor coin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="monetarist">
+			<sg number="1">
+				<word number="1">monetarist</word>
+				<word number="2">monetary theory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="numismatics">
+			<sg number="1">
+				<word number="1">numismatics</word>
+				<word number="2">chrysology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="numismatist">
+			<sg number="1">
+				<word number="1">numismatist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="paper money">
+			<sg number="1">
+				<word number="1">paper money</word>
+				<word number="2">greenback</word>
+			</sg>
+			<sg number="2">
+				<word number="1">major denomination</word>
+				<word number="2">minor denomination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">money order</word>
+				<word number="2">postal money order</word>
+				<word number="3">Post Office order</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bank note</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bond</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bill</word>
+				<word number="2">bill of exchange</word>
+			</sg>
+			<sg number="7">
+				<word number="1">order</word>
+				<word number="2">warrant</word>
+				<word number="3">coupon</word>
+				<word number="4">debenture</word>
+				<word number="5">exchequer bill</word>
+				<word number="6">assignat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">blueback</word>
+				<word number="2">hundi</word>
+				<word number="3">shinplaster*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="note">
+			<sg number="1">
+				<word number="1">note</word>
+				<word number="2">note of hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">promissory note</word>
+				<word number="2">I O U</word>
+			</sg>
+			<sg number="3">
+				<word number="1">draft</word>
+				<word number="2">check</word>
+				<word number="3">cheque</word>
+				<word number="4">back-dated check</word>
+			</sg>
+			<sg number="4">
+				<word number="1">negotiable order of withdrawal</word>
+				<word number="2">NOW</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="remittance">
+			<sg number="1">
+				<word number="1" paraRef="payment" headRef="842">remittance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="credit" headRef="840">credit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="liability" headRef="841">liability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="drawer">
+			<sg number="1">
+				<word number="1">drawer</word>
+				<word number="2">drawee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obligor</word>
+				<word number="2">obligee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">moneyer</word>
+				<word number="2">coiner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="false money">
+			<sg number="1">
+				<word number="1">false money</word>
+				<word number="2">bad money</word>
+			</sg>
+			<sg number="2">
+				<word number="1">base coin</word>
+				<word number="2">flash note</word>
+				<word number="3">slip</word>
+				<word number="4">kite*</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fancy stocks</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Bank of Elegance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="argumentum ad crumenam">
+			<sg number="1">
+				<word number="1">argumentum ad crumenam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="letter of credit">
+			<sg number="1">
+				<word number="1">letter of credit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="circulation">
+			<sg number="1">
+				<word number="1">circulation</word>
+				<word number="2">multiplier effect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="inflation">
+			<sg number="1">
+				<word number="1">inflation</word>
+				<word number="2">double-digit inflation</word>
+				<word number="3">hyperinflation</word>
+				<word number="4">erosion of the currency</word>
+				<word number="5">debasement of the currency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deflation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stagflation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="exchange rate">
+			<sg number="1">
+				<word number="1">exchange rate</word>
+				<word number="2">rate of exchange</word>
+				<word number="3">floating exchange rates</word>
+				<word number="4">fixed rates</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="currency counter">
+			<sg number="1">
+				<word number="1">currency counter</word>
+				<word number="2">currency exchange</word>
+				<word number="3">bureau de change</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="gold-backed currency">
+			<sg number="1">
+				<word number="1">gold-backed currency</word>
+				<word number="2">gold standard</word>
+				<word number="3">silver standard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="bank account">
+			<sg number="1">
+				<word number="1">bank account</word>
+				<word number="2">savings account</word>
+				<word number="3">checking account</word>
+				<word number="4">money market account</word>
+				<word number="5">NOW account</word>
+				<word number="6">time deposit</word>
+				<word number="7">deposit</word>
+				<word number="8">demand deposit</word>
+				<word number="9">super NOW account</word>
+			</sg>
+			<sg number="2">
+				<word number="1">certificate of deposit</word>
+				<word number="2">CD</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="$">
+			<sg number="1">
+				<word number="1">$</word>
+				<word number="2">U.S. $</word>
+				<word number="3">A$</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="[authorities controlling currency">
+			<sg number="1">
+				<word number="1">Federal Reserve Bank</word>
+				<word number="2">central bank</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Federal Reserve Board</word>
+				<word number="2">board of governors of the Federal Reserve</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Treasury Department</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Secret Service</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="mint">
+			<sg number="1">
+				<word number="1">mint</word>
+				<word number="2">bureau of engraving</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="seigniorage">
+			<sg number="1">
+				<word number="1">seigniorage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="counterfeit">
+			<sg number="1">
+				<word number="1">counterfeit</word>
+				<word number="2">funny money</word>
+				<word number="3" paraRef="falsehood" headRef="571">bogus money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="interest">
+			<sg number="1">
+				<word number="1">interest</word>
+				<word number="2">interest rate</word>
+				<word number="3">discount rate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="amount to">
+			<sg number="1">
+				<word number="1">amount to</word>
+				<word number="2">come to</word>
+				<word number="3">mount up to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">touch the pocket</word>
+			</sg>
+			<sg number="3">
+				<word number="1">draw</word>
+				<word number="2">draw upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="security" headRef="803">indorse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">issue</word>
+				<word number="2">utter</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="discount" headRef="850">discount</word>
+			</sg>
+			<sg number="7">
+				<word number="1">back</word>
+			</sg>
+			<sg number="8">
+				<word number="1">demonetize</word>
+				<word number="2">remonetize</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fiscalize</word>
+				<word number="2">monetize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="circulate">
+			<sg number="1">
+				<word number="1">circulate</word>
+				<word number="2">be in circulation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be out of circulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mint">
+			<sg number="1">
+				<word number="1">mint</word>
+				<word number="2">coin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">print</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="inflate">
+			<sg number="1">
+				<word number="1">inflate</word>
+				<word number="2">deflate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">debase</word>
+			</sg>
+			<sg number="3">
+				<word number="1">devalue</word>
+				<word number="2">revalue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="circulate">
+			<sg number="1">
+				<word number="1">circulate</word>
+				<word number="2">put in circulation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">withdraw from circulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="exchange currencies">
+			<sg number="1">
+				<word number="1">exchange currencies</word>
+				<word number="2">change money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="charge interest">
+			<sg number="1">
+				<word number="1">charge interest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay interest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lose interest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="monetary">
+			<sg number="1">
+				<word number="1">monetary</word>
+				<word number="2">pecuniary</word>
+				<word number="3">crumenal</word>
+				<word number="4">fiscal</word>
+				<word number="5">financial</word>
+				<word number="6">sumptuary</word>
+				<word number="7">numismatic</word>
+				<word number="8">numismatical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sterling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nummary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="barbarus ipse placet dummodo sit dives">
+			<sg number="1">
+				<word number="1">barbarus ipse placet dummodo sit dives</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"but the jingling of the guinea helps the hurt that honor feels"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Gelt regiert die Welt</word>
+				<word number="2">money makes the world go round</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nervos belli pecuniam infinitam</word>
+			</sg>
+			<sg number="5">
+				<word number="1">redet Geld so schweigt die Welt</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"money is the mother's milk of politics"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">money is the root of all evil</word>
+			</sg>
+			<sg number="8">
+				<word number="1">money isn't everything</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"as phony as a three-dollar bill"</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"don't take any wooden nickels"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

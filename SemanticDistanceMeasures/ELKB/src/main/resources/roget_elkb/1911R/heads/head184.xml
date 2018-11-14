@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="184" name="Tendency" origNum="#176." class="1" section="8" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="tendency">
+			<sg number="1">
+				<word number="1">tendency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aptness</word>
+				<word number="2">aptitude</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proneness</word>
+				<word number="2">proclivity</word>
+				<word number="3">bent</word>
+				<word number="4">turn</word>
+				<word number="5">tone</word>
+				<word number="6">bias</word>
+				<word number="7">set</word>
+				<word number="8">leaning to</word>
+				<word number="9">predisposition</word>
+				<word number="10">inclination</word>
+				<word number="11">propensity</word>
+				<word number="12">susceptibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conatus</word>
+				<word number="2">nisus</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="liability" headRef="185">liability</word>
+			</sg>
+			<sg number="6">
+				<word number="1">quality</word>
+				<word number="2">nature</word>
+				<word number="3">temperament</word>
+			</sg>
+			<sg number="7">
+				<word number="1">idiocrasy</word>
+				<word number="2">idiosyncrasy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cast</word>
+				<word number="2">vein</word>
+				<word number="3">grain</word>
+			</sg>
+			<sg number="9">
+				<word number="1">humor</word>
+				<word number="2">mood</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="direction" headRef="289">drift</word>
+			</sg>
+			<sg number="11">
+				<word number="1">conduciveness</word>
+				<word number="2">conducement</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="utility" headRef="673">applicability</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="instrumentality" headRef="660">subservience</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">drumline</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">advertorials</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="tend">
+			<sg number="1">
+				<word number="1">tend</word>
+				<word number="2">contribute</word>
+				<word number="3">conduce</word>
+				<word number="4">lead</word>
+				<word number="5">dispose</word>
+				<word number="6">incline</word>
+				<word number="7">verge</word>
+				<word number="8">bend to</word>
+				<word number="9">trend</word>
+				<word number="10">affect</word>
+				<word number="11">carry</word>
+				<word number="12">redound to</word>
+				<word number="13">bid fair to</word>
+				<word number="14">gravitate towards</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="aid" headRef="736">promote</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="tending">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">tending</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conducive</word>
+				<word number="2">working towards</word>
+				<word number="3">in a fair way to</word>
+				<word number="4">calculated to</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="liable" headRef="185">liable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="instrumental" headRef="660">subservient</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="useful" headRef="673">useful</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="help" headRef="736">subsidiary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="for">
+			<sg number="1">
+				<word number="1">for</word>
+				<word number="2">whither</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

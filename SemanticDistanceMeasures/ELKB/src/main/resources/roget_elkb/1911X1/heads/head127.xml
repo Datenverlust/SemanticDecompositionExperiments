@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="127" name="Futurity" origNum="#121." class="1" section="6" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="futurity">
+			<sg number="1">
+				<word number="1">futurity</word>
+				<word number="2">futurition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">future</word>
+				<word number="2">hereafter</word>
+				<word number="3">time to come</word>
+			</sg>
+			<sg number="3">
+				<word number="1">approaching time</word>
+				<word number="2">coming time</word>
+				<word number="3">subsequent time</word>
+				<word number="4">after time</word>
+				<word number="5">approaching age</word>
+				<word number="6">coming age</word>
+				<word number="7">subsequent age</word>
+				<word number="8">after age</word>
+				<word number="9">approaching days</word>
+				<word number="10">coming days</word>
+				<word number="11">subsequent days</word>
+				<word number="12">after days</word>
+				<word number="13">approaching hours</word>
+				<word number="14">coming hours</word>
+				<word number="15">subsequent hours</word>
+				<word number="16">after hours</word>
+				<word number="17">approaching ages</word>
+				<word number="18">coming ages</word>
+				<word number="19">subsequent ages</word>
+				<word number="20">after ages</word>
+				<word number="21">approaching life</word>
+				<word number="22">coming life</word>
+				<word number="23">subsequent life</word>
+				<word number="24">after life</word>
+				<word number="25">approaching years</word>
+				<word number="26">coming years</word>
+				<word number="27">subsequent years</word>
+				<word number="28">after years</word>
+			</sg>
+			<sg number="4">
+				<word number="1">morrow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">millennium</word>
+				<word number="2">doomsday</word>
+				<word number="3">day of judgment</word>
+				<word number="4">crack of doom</word>
+				<word number="5">remote future</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="approach of time advent">
+			<sg number="1">
+				<word number="1">approach of time advent</word>
+				<word number="2">time drawing on</word>
+				<word number="3">womb of time</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destiny" headRef="159">destiny</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eventuality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="heritage">
+			<sg number="1">
+				<word number="1">heritage</word>
+				<word number="2">heirs posterity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="prospect">
+			<sg number="1">
+				<word number="1" paraRef="expectation" headRef="531">prospect</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="foresight" headRef="534">foresight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="look forwards">
+			<sg number="1">
+				<word number="1">look forwards</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expect" headRef="531">anticipate</word>
+				<word number="2" paraRef="foresee" headRef="534">foresee</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be early" headRef="138">forestall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="come on">
+			<sg number="1">
+				<word number="1">come on</word>
+				<word number="2">draw on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">draw near</word>
+			</sg>
+			<sg number="3">
+				<word number="1">approach</word>
+				<word number="2">await</word>
+				<word number="3">threaten</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="destined" headRef="159">impend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="future">
+			<sg number="1">
+				<word number="1">future</word>
+				<word number="2">to come</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="impending" headRef="159">coming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">next</word>
+				<word number="2">near</word>
+			</sg>
+			<sg number="4">
+				<word number="1">close at hand</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eventual</word>
+				<word number="2">ulterior</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="expectation" headRef="531">in prospect</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="prospectively">
+			<sg number="1">
+				<word number="1">prospectively</word>
+				<word number="2">hereafter</word>
+				<word number="3">in future</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kal</word>
+				<word number="2">tomorrow</word>
+				<word number="3">the day after tomorrow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in course of time</word>
+				<word number="2">in process of time</word>
+				<word number="3">in the fullness of time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eventually</word>
+				<word number="2">ultimately</word>
+				<word number="3">sooner or later</word>
+			</sg>
+			<sg number="5">
+				<word number="1">proximo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">paulo post futurum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in after time</word>
+			</sg>
+			<sg number="8">
+				<word number="1">one of these days</word>
+			</sg>
+			<sg number="9">
+				<word number="1">after a time</word>
+				<word number="2">after a while</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="from this time">
+			<sg number="1">
+				<word number="1">from this time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">henceforth</word>
+				<word number="2">henceforwards</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thenceforth</word>
+				<word number="2">thenceforward</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whereupon</word>
+				<word number="2">upon which</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="soon">
+			<sg number="1">
+				<word number="1" paraRef="early" headRef="138">soon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the eve of</word>
+				<word number="2">on the point of</word>
+				<word number="3">on the brink of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">about to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">close upon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="quid sit futurum cras fuge quaerere">
+			<sg number="1">
+				<word number="1">quid sit futurum cras fuge quaerere</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

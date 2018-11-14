@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="341" name="Pulverulence" origNum="#330." class="3" section="2" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="powderiness[State of powder">
+			<sg number="1">
+				<word number="1">powderiness</word>
+				<word number="2">pulverulence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">sandiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">efflorescence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">friability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="powder">
+			<sg number="1">
+				<word number="1">powder</word>
+				<word number="2">dust</word>
+				<word number="3">sand</word>
+				<word number="4">shingle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sawdust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">meal</word>
+				<word number="2">bran</word>
+				<word number="3">flour</word>
+				<word number="4">farina</word>
+				<word number="5">rice</word>
+				<word number="6">paddy</word>
+				<word number="7">spore</word>
+				<word number="8">sporule</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crumb</word>
+				<word number="2">seed</word>
+				<word number="3">grain</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="smallness" headRef="34">particle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">limature</word>
+				<word number="2">filings</word>
+				<word number="3">debris</word>
+				<word number="4">detritus</word>
+				<word number="5">tailings</word>
+				<word number="6">talus slope</word>
+				<word number="7">scobs</word>
+				<word number="8">magistery</word>
+				<word number="9">fine powder</word>
+			</sg>
+			<sg number="8">
+				<word number="1">flocculi</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">ash</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">bubble</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">soot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="smoke">
+			<sg number="1">
+				<word number="1">smoke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cloud of dust</word>
+				<word number="2">cloud of sand</word>
+				<word number="3">cloud of smoke</word>
+			</sg>
+			<sg number="3">
+				<word number="1">puff of smoke</word>
+				<word number="2">volume of smoke</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sand storm</word>
+				<word number="2">dust storm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pulverization">
+			<sg number="1">
+				<word number="1">pulverization</word>
+				<word number="2">comminution</word>
+				<word number="3">attenuation</word>
+				<word number="4">granulation</word>
+				<word number="5">disintegration</word>
+				<word number="6">subaction</word>
+				<word number="7">contusion</word>
+				<word number="8">trituration</word>
+				<word number="9">levigation</word>
+				<word number="10">abrasion</word>
+				<word number="11">detrition</word>
+				<word number="12">multure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">limitation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tripsis</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">filing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="mill">
+			<sg number="1">
+				<word number="1">mill</word>
+				<word number="2">arrastra</word>
+				<word number="3">gristmill</word>
+				<word number="4">grater</word>
+				<word number="5">rasp</word>
+				<word number="6">file</word>
+				<word number="7">mortar and pestle</word>
+				<word number="8">nutmeg grater</word>
+				<word number="9">teeth</word>
+				<word number="10">grinder</word>
+				<word number="11">grindstone</word>
+				<word number="12">kern</word>
+				<word number="13">quern</word>
+				<word number="14">koniology</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="come to dust">
+			<sg number="1">
+				<word number="1">come to dust</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be disintegrated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reduce to powder">
+			<sg number="1">
+				<word number="1">reduce to powder</word>
+				<word number="2">grind to powder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pulverize</word>
+				<word number="2">comminute</word>
+				<word number="3">granulate</word>
+				<word number="4">triturate</word>
+				<word number="5">levigate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scrape</word>
+				<word number="2">file</word>
+				<word number="3">abrade</word>
+				<word number="4">rub down</word>
+				<word number="5">grind</word>
+				<word number="6">grate</word>
+				<word number="7">rasp</word>
+				<word number="8">pound</word>
+				<word number="9">bray</word>
+				<word number="10">bruise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contuse</word>
+				<word number="2">contund</word>
+			</sg>
+			<sg number="5">
+				<word number="1">beat</word>
+				<word number="2">crush</word>
+				<word number="3">cranch</word>
+				<word number="4">craunch</word>
+				<word number="5">crunch</word>
+				<word number="6">scranch</word>
+				<word number="7">crumble</word>
+				<word number="8">disintegrate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="attenuate" headRef="204">attenuate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="powdery">
+			<sg number="1">
+				<word number="1">powdery</word>
+				<word number="2">pulverulent</word>
+				<word number="3">granular</word>
+				<word number="4">mealy</word>
+				<word number="5">floury</word>
+				<word number="6">farinaceous</word>
+				<word number="7">branny</word>
+				<word number="8">furfuraceous</word>
+				<word number="9">flocculent</word>
+				<word number="10">dusty</word>
+				<word number="11">sandy</word>
+				<word number="12">sabulous</word>
+				<word number="13">psammous</word>
+				<word number="14" new="1">chalky</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arenose</word>
+				<word number="2">arenarious</word>
+				<word number="3">arenaceous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gritty</word>
+				<word number="2">efflorescent</word>
+				<word number="3">impalpable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lentiginous</word>
+				<word number="2">lepidote</word>
+				<word number="3">sabuline</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sporaceous</word>
+				<word number="2">sporous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pulverizable">
+			<sg number="1">
+				<word number="1">pulverizable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">friable</word>
+				<word number="2">crumbly</word>
+				<word number="3">shivery</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">pulverized</word>
+			</sg>
+			<sg number="4">
+				<word number="1">attrite</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in pieces</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

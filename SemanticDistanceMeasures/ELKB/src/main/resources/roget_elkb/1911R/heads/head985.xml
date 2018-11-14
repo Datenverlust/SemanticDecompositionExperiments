@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="985" name="Selfishness" origNum="#943." class="8" section="4" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="selfishness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">selfishness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self-love</word>
+				<word number="2">self- indulgence</word>
+				<word number="3">self-worship</word>
+				<word number="4">self-interest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">egotism</word>
+				<word number="2">egoism</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vanity" headRef="919">amour propre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nepotism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="worldliness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">worldliness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">world wisdom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="illiberality">
+			<sg number="1">
+				<word number="1">illiberality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">meanness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="time-pleaser">
+			<sg number="1">
+				<word number="1">time-pleaser</word>
+				<word number="2">time-server</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tuft-hunter</word>
+				<word number="2">fortune-hunter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jobber</word>
+				<word number="2">worldling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">egotist</word>
+				<word number="2">egoist</word>
+				<word number="3">monopolist</word>
+				<word number="4">nepotist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dog in the manger</word>
+				<word number="2">charity that begins at home</word>
+			</sg>
+			<sg number="6">
+				<word number="1">canis in praesepi</word>
+				<word number="2">"foes to nobleness"</word>
+				<word number="3">temporizer</word>
+				<word number="4">trimmer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be selfish">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be selfish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">please oneself</word>
+				<word number="2">indulge oneself</word>
+				<word number="3">coddle oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">consult one's own wishes</word>
+				<word number="2">consult one's own pleasure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">look after one's own interest</word>
+			</sg>
+			<sg number="5">
+				<word number="1">feather one's nest</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take care of number one</word>
+				<word number="2">have an eye to the main chance</word>
+				<word number="3">know on which side one's bread is buttered</word>
+			</sg>
+			<sg number="7">
+				<word number="1">give an inch and take an ell</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="selfish">
+			<sg number="1">
+				<word number="1">selfish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self-seeking</word>
+				<word number="2">self-indulgent</word>
+				<word number="3">self-interested</word>
+				<word number="4">self- centered</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wrapped up in self</word>
+				<word number="2">wrapt up in self</word>
+				<word number="3">centered in self</word>
+			</sg>
+			<sg number="4">
+				<word number="1">egotistic</word>
+				<word number="2">egotistical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">egoistical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="illiberal">
+			<sg number="1">
+				<word number="1">illiberal</word>
+				<word number="2">mean</word>
+				<word number="3">ungenerous</word>
+				<word number="4">narrow-minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mercenary</word>
+				<word number="2">venal</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="covetous" headRef="857">covetous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unspiritual">
+			<sg number="1">
+				<word number="1">unspiritual</word>
+				<word number="2">earthly</word>
+				<word number="3">earthly-minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mundane</word>
+			</sg>
+			<sg number="3">
+				<word number="1">worldly</word>
+				<word number="2">worldly- minded</word>
+			</sg>
+			<sg number="4">
+				<word number="1">worldly-wise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">timeserving</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="interested">
+			<sg number="1">
+				<word number="1">interested</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alieni appetens sui profusus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ungenerously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">ungenerously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to gain some private ends</word>
+				<word number="2">from interested motives</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="apres nous le deluge">
+			<sg number="1">
+				<word number="1">apres nous le deluge</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

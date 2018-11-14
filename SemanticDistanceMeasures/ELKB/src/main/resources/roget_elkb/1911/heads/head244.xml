@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="244" name="Front" origNum="#234." class="2" section="2" subSection="3" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="front">
+			<sg number="1">
+				<word number="1">front</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fore</word>
+				<word number="2">forepart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">foreground</word>
+			</sg>
+			<sg number="4">
+				<word number="1">face</word>
+				<word number="2">disk</word>
+				<word number="3">disc</word>
+				<word number="4">frontage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">facade</word>
+				<word number="2">proscenium</word>
+				<word number="3">facia</word>
+				<word number="4">frontispiece</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anteriority</word>
+			</sg>
+			<sg number="7">
+				<word number="1">obverse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fore rank">
+			<sg number="1">
+				<word number="1">fore rank</word>
+				<word number="2">front rank</word>
+			</sg>
+			<sg number="2">
+				<word number="1">van</word>
+				<word number="2">vanguard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">advanced guard</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outpost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">first line</word>
+			</sg>
+			<sg number="6">
+				<word number="1">scout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="brow">
+			<sg number="1">
+				<word number="1">brow</word>
+				<word number="2">forehead</word>
+				<word number="3">visage</word>
+				<word number="4">physiognomy</word>
+				<word number="5">phiz</word>
+				<word number="6">countenance</word>
+				<word number="7">mut*</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rostrum</word>
+				<word number="2">beak</word>
+				<word number="3">bow</word>
+				<word number="4">stem</word>
+				<word number="5">prow</word>
+				<word number="6">prore</word>
+				<word number="7">jib</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pioneer">
+			<sg number="1">
+				<word number="1" paraRef="precursor" headRef="68">pioneer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metoposcopy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in front">
+			<sg number="1">
+				<word number="1">be in front</word>
+				<word number="2" paraRef="" posRef="adj.">stand in front</word>
+			</sg>
+			<sg number="2">
+				<word number="1">front</word>
+				<word number="2">face</word>
+				<word number="3">confront</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bend forwards</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come to the front</word>
+				<word number="2">come to the fore</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fore">
+			<sg number="1">
+				<word number="1">fore</word>
+				<word number="2">anterior</word>
+				<word number="3">front</word>
+				<word number="4">frontal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="before">
+			<sg number="1">
+				<word number="1">before</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in front</word>
+				<word number="2">in the van</word>
+				<word number="3">in advance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ahead</word>
+				<word number="2">right ahead</word>
+			</sg>
+			<sg number="4">
+				<word number="1">forehead</word>
+				<word number="2">foremost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the foreground</word>
+				<word number="2">in the lee of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">before one's face</word>
+				<word number="2">before one's eyes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">face to face</word>
+				<word number="2">vis-a-vis</word>
+			</sg>
+			<sg number="8">
+				<word number="1">front a front</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="formosa muta commendatio est">
+			<sg number="1">
+				<word number="1">formosa muta commendatio est</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frons est animi janua</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"Human face divine"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imago animi vultus est indices oculi</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"sea of upturned faces"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

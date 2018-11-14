@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="992" name="Penitence" origNum="#950." class="8" section="4" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="penitence">
+			<sg number="1">
+				<word number="1">penitence</word>
+				<word number="2">contrition</word>
+				<word number="3">compunction</word>
+				<word number="4">repentance</word>
+				<word number="5">remorse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="regret" headRef="871">regret</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="self-reproach">
+			<sg number="1">
+				<word number="1">self-reproach</word>
+				<word number="2">self-reproof</word>
+				<word number="3">self-accusation</word>
+				<word number="4">self-condemnation</word>
+				<word number="5">self- humiliation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stings of conscience</word>
+				<word number="2">pangs of conscience</word>
+				<word number="3">qualms of conscience</word>
+				<word number="4">prickings of conscience</word>
+				<word number="5">twinge of conscience</word>
+				<word number="6">twitch of conscience</word>
+				<word number="7">touch of conscience</word>
+				<word number="8">voice of conscience</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compunctious visitings of nature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="acknowledgment">
+			<sg number="1">
+				<word number="1">acknowledgment</word>
+				<word number="2" paraRef="disclosure" headRef="555">confession</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="apology" headRef="994">apology</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="recantation" headRef="634">recantation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="penance" headRef="994">penance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">resipiscence!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="awakened conscience">
+			<sg number="1">
+				<word number="1">awakened conscience</word>
+				<word number="2">deathbed repentance</word>
+				<word number="3">locus paenitentiae</word>
+				<word number="4">stool of repentance</word>
+				<word number="5">cuttystool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="penitent">
+			<sg number="1">
+				<word number="1">penitent</word>
+				<word number="2">repentant</word>
+				<word number="3">Magdalen</word>
+				<word number="4">prodigal son</word>
+				<word number="5">"a sadder and a wiser man"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="repent">
+			<sg number="1">
+				<word number="1">repent</word>
+				<word number="2">be sorry for</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be penitent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rue</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="regret" headRef="871">regret</word>
+			</sg>
+			<sg number="5">
+				<word number="1">think better of</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="recant" headRef="634">recant</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="submit" headRef="754">knock under</word>
+			</sg>
+			<sg number="8">
+				<word number="1">plead guilty</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sing miserere</word>
+				<word number="2">sing de profundis</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cry peccavi</word>
+			</sg>
+			<sg number="11">
+				<word number="1">own oneself in the wrong</word>
+			</sg>
+			<sg number="12">
+				<word number="1">acknowledge</word>
+				<word number="2" paraRef="disclose" headRef="555">confess</word>
+			</sg>
+			<sg number="13">
+				<word number="1">humble oneself</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="apologize" headRef="994">beg pardon</word>
+			</sg>
+			<sg number="15">
+				<word number="1">turn over a new leaf</word>
+				<word number="2">put on the new man</word>
+				<word number="3">turn from sin</word>
+			</sg>
+			<sg number="16">
+				<word number="1">reclaim</word>
+			</sg>
+			<sg number="17">
+				<word number="1" paraRef="do penance" headRef="994">repent in sackcloth and ashes</word>
+			</sg>
+			<sg number="18">
+				<word number="1">learn by experience</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="penitent">
+			<sg number="1">
+				<word number="1">penitent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">repenting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repentant</word>
+				<word number="2">contrite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conscience- smitten</word>
+				<word number="2">conscience-stricken</word>
+			</sg>
+			<sg number="5">
+				<word number="1">self-accusing</word>
+				<word number="2">self-convicted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="penitential">
+			<sg number="1">
+				<word number="1">penitential</word>
+				<word number="2">penitentiary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reclaimed</word>
+				<word number="2">reborn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not hardened</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unhardened</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="mea culpa">
+			<sg number="1">
+				<word number="1">mea culpa</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="peccavi">
+			<sg number="1">
+				<word number="1">peccavi</word>
+			</sg>
+			<sg number="2">
+				<word number="1">erubuit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">salva res est</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Tu l'as voulu</word>
+				<word number="2">Georges Dandin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"and wet his grave with my repentant tears"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

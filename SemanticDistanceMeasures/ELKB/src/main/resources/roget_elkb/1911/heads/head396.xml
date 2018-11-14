@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="396" name="Cold" origNum="#383." class="3" section="3" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="cold">
+			<sg number="1">
+				<word number="1">cold</word>
+				<word number="2" paraRef="" posRef="adj.">coldness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frigidity</word>
+				<word number="2">inclemency</word>
+				<word number="3">fresco</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="winter">
+			<sg number="1">
+				<word number="1">winter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depth of winter</word>
+				<word number="2">hard winter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Siberia</word>
+				<word number="2">Nova Zembla</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wind-chill factor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ice">
+			<sg number="1">
+				<word number="1">ice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snow</word>
+				<word number="2">snowflake</word>
+				<word number="3">snow crystal</word>
+				<word number="4">snow drift</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sleet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hail</word>
+				<word number="2">hailstone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rime</word>
+				<word number="2">frost</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hoar frost</word>
+				<word number="2">white frost</word>
+				<word number="3">hard frost</word>
+				<word number="4">sharp frost</word>
+			</sg>
+			<sg number="7">
+				<word number="1">barf</word>
+			</sg>
+			<sg number="8">
+				<word number="1">glaze</word>
+				<word number="2">lolly</word>
+			</sg>
+			<sg number="9">
+				<word number="1">icicle</word>
+				<word number="2">thick-ribbed ice</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fall of snow</word>
+				<word number="2">heavy fall</word>
+			</sg>
+			<sg number="11">
+				<word number="1">iceberg</word>
+				<word number="2">icefloe</word>
+			</sg>
+			<sg number="12">
+				<word number="1">floe berg</word>
+			</sg>
+			<sg number="13">
+				<word number="1">glacier</word>
+			</sg>
+			<sg number="14">
+				<word number="1">nevée</word>
+				<word number="2">serac</word>
+			</sg>
+			<sg number="15">
+				<word number="1">pruina</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="freezing mixture">
+			<sg number="1">
+				<word number="1">freezing mixture</word>
+				<word number="2">dry ice</word>
+				<word number="3">liquid nitrogen</word>
+				<word number="4">liquid helium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="chilliness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">chilliness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chill</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">shivering</word>
+			</sg>
+			<sg number="4">
+				<word number="1">goose skin</word>
+				<word number="2">horripilation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rigor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chattering of teeth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">numbness</word>
+				<word number="2">frostbite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be cold">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be cold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shiver</word>
+				<word number="2">starve</word>
+				<word number="3">quake</word>
+				<word number="4">shake</word>
+				<word number="5">tremble</word>
+				<word number="6">shudder</word>
+				<word number="7">didder</word>
+				<word number="8">quiver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">freeze</word>
+				<word number="2">freeze to death</word>
+				<word number="3">perish with cold</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chill">
+			<sg number="1">
+				<word number="1">chill</word>
+				<word number="2" paraRef="cool" headRef="398">freeze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horripilate</word>
+				<word number="2">make the skin crawl</word>
+				<word number="3">give one goose flesh</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cold">
+			<sg number="1">
+				<word number="1">cold</word>
+				<word number="2">cool</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chill</word>
+				<word number="2">chilly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">icy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gelid</word>
+				<word number="2">frigid</word>
+				<word number="3">algid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fresh</word>
+				<word number="2">keen</word>
+				<word number="3">bleak</word>
+				<word number="4">raw</word>
+				<word number="5">inclement</word>
+				<word number="6">bitter</word>
+				<word number="7">biting</word>
+				<word number="8">niveous</word>
+				<word number="9">cutting</word>
+				<word number="10">nipping</word>
+				<word number="11">piercing</word>
+				<word number="12">pinching</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clay-cold</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="cool" headRef="398">starved</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chilled to the bone</word>
+				<word number="2" paraRef="" posRef="v.">shivering</word>
+			</sg>
+			<sg number="9">
+				<word number="1">aguish</word>
+				<word number="2">transi de froid</word>
+			</sg>
+			<sg number="10">
+				<word number="1">frostbitten</word>
+				<word number="2">frost-bound</word>
+				<word number="3">frost-nipped</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cold as a stone">
+			<sg number="1">
+				<word number="1">cold as a stone</word>
+				<word number="2">cold as marble</word>
+				<word number="3">cold as lead</word>
+				<word number="4">cold as iron</word>
+				<word number="5">cold as a frog</word>
+				<word number="6">cold as  charity</word>
+				<word number="7">cold as Christmas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cool as a cucumber</word>
+				<word number="2">cool as custard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="icy">
+			<sg number="1">
+				<word number="1">icy</word>
+				<word number="2">glacial</word>
+				<word number="3">frosty</word>
+				<word number="4">freezing</word>
+				<word number="5">pruinose</word>
+				<word number="6">wintry</word>
+				<word number="7">brumal</word>
+				<word number="8">hibernal</word>
+				<word number="9">boreal</word>
+				<word number="10">arctic</word>
+				<word number="11">Siberian</word>
+				<word number="12">hyemal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hyperborean</word>
+				<word number="2">hyperboreal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">icebound</word>
+			</sg>
+			<sg number="4">
+				<word number="1">frozen out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unwarmed">
+			<sg number="1">
+				<word number="1">unwarmed</word>
+				<word number="2">unthawed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lukewarm</word>
+				<word number="2">tepid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">isocheimal</word>
+				<word number="2">isocheimenal</word>
+				<word number="3">isocheimic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="frozen">
+			<sg number="1">
+				<word number="1">frozen</word>
+				<word number="2">numb</word>
+				<word number="3">frost-bitten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="coldly">
+			<sg number="1">
+				<word number="1">coldly</word>
+				<word number="2" paraRef="" posRef="adj.">bitterly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pierre fendre</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

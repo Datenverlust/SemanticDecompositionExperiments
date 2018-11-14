@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="181" name="Moderation" origNum="#174." class="1" section="8" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="moderation">
+			<sg number="1">
+				<word number="1">moderation</word>
+				<word number="2" paraRef="lenity" headRef="771">lenity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">temperateness</word>
+				<word number="2" paraRef="" posRef="adj.">gentleness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sobriety</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quiet</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inexcitability" headRef="864">mental calmness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="moderating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">moderating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anaphrodisia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">relaxation</word>
+				<word number="2">remission</word>
+				<word number="3">mitigation</word>
+				<word number="4">tranquilization</word>
+				<word number="5">assuagement</word>
+				<word number="6">contemporation</word>
+				<word number="7">pacification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="measure">
+			<sg number="1">
+				<word number="1">measure</word>
+				<word number="2">juste milieu</word>
+				<word number="3">golden mean</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="moderator">
+			<sg number="1">
+				<word number="1">moderator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lullaby</word>
+				<word number="2">sedative</word>
+				<word number="3">lenitive</word>
+				<word number="4">demulcent</word>
+				<word number="5">antispasmodic</word>
+				<word number="6">carminative</word>
+				<word number="7">laudanum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rose water</word>
+				<word number="2">balm</word>
+				<word number="3">poppy</word>
+				<word number="4">opiate</word>
+				<word number="5">anodyne</word>
+				<word number="6">milk</word>
+				<word number="7">opium</word>
+				<word number="8">"poppy or mandragora"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wet blanket</word>
+			</sg>
+			<sg number="5">
+				<word number="1">palliative</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -moderate">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -moderate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep within bounds</word>
+				<word number="2">keep within compass</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sober down</word>
+				<word number="2">settle down</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep the peace</word>
+				<word number="2">remit</word>
+				<word number="3">relent</word>
+				<word number="4">take in sail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="moderate">
+			<sg number="1">
+				<word number="1">moderate</word>
+				<word number="2">soften</word>
+				<word number="3">mitigate</word>
+				<word number="4">temper</word>
+				<word number="5">accoy</word>
+				<word number="6" new="1">slight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attemper</word>
+				<word number="2">contemper</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mollify</word>
+				<word number="2">lenify</word>
+				<word number="3">dulcify</word>
+				<word number="4">dull</word>
+				<word number="5">take off the edge</word>
+				<word number="6">blunt</word>
+				<word number="7">obtund</word>
+				<word number="8">sheathe</word>
+				<word number="9">subdue</word>
+				<word number="10">chasten</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sober down</word>
+				<word number="2">tone down</word>
+				<word number="3">smooth down</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="weaken" headRef="167">weaken</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="decrease" headRef="38">lessen</word>
+			</sg>
+			<sg number="7">
+				<word number="1">check palliate</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ameliorate</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">ease</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">obviate</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">counteract</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">rectify</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="2">redress</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="2">remedy</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="3">counterbalance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tranquilize">
+			<sg number="1">
+				<word number="1">tranquilize</word>
+				<word number="2">pacify</word>
+				<word number="3">assuage</word>
+				<word number="4">appease</word>
+				<word number="5">swag</word>
+				<word number="6">lull</word>
+				<word number="7">soothe</word>
+				<word number="8">compose</word>
+				<word number="9">still</word>
+				<word number="10">calm</word>
+				<word number="11">calm down</word>
+				<word number="12">cool</word>
+				<word number="13">quiet</word>
+				<word number="14">hush</word>
+				<word number="15">quell</word>
+				<word number="16">sober</word>
+				<word number="17">pacify</word>
+				<word number="18">tame</word>
+				<word number="19">damp</word>
+				<word number="20">lay</word>
+				<word number="21">allay</word>
+				<word number="22">rebate</word>
+				<word number="23">slacken</word>
+				<word number="24">smooth</word>
+				<word number="25">alleviate</word>
+				<word number="26">rock to sleep</word>
+				<word number="27">deaden</word>
+				<word number="28">smooth</word>
+				<word number="29">throw cold water on</word>
+				<word number="30">throw a wet blanket over</word>
+				<word number="31">turn off</word>
+				<word number="32" new="1">dispel</word>
+				<word number="33" new="1">numb</word>
+				<word number="34" new="1">placate</word>
+				<word number="35" new="1">subjugate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slake</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="restrain" headRef="782">curb</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="subjugate" headRef="780">tame</word>
+			</sg>
+			<sg number="5">
+				<word number="1">smooth over</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pour oil on the waves</word>
+				<word number="2">pour oil on the troubled waters</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pour balm into</word>
+				<word number="2">mattre de l'eau dans son vin</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">combat</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="2">eradicate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="go out like a lamb">
+			<sg number="1">
+				<word number="1">go out like a lamb</word>
+				<word number="2">"roar you as gently as any sucking dove,"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="moderate">
+			<sg number="1">
+				<word number="1">moderate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lenient" headRef="771">lenient</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gentle</word>
+				<word number="2">mild</word>
+				<word number="3">mellow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cool</word>
+				<word number="2">sober</word>
+				<word number="3">temperate</word>
+				<word number="4">reasonable</word>
+				<word number="5">measured</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">tempered</word>
+			</sg>
+			<sg number="6">
+				<word number="1">calm</word>
+				<word number="2">unruffled</word>
+				<word number="3">quiet</word>
+				<word number="4">tranquil</word>
+				<word number="5">still</word>
+				<word number="6" new="1">placid</word>
+				<word number="7" new="1">serene</word>
+				<word number="8" new="1">silent</word>
+				<word number="9" new="2">relaxed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">slow</word>
+				<word number="2">smooth</word>
+				<word number="3">untroubled</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tame</word>
+			</sg>
+			<sg number="9">
+				<word number="1">peaceful</word>
+				<word number="2">peaceable</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pacific</word>
+				<word number="2">halcyon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unexciting">
+			<sg number="1">
+				<word number="1">unexciting</word>
+				<word number="2">unirritating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">soft</word>
+				<word number="2">bland</word>
+				<word number="3">oily</word>
+				<word number="4">demulcent</word>
+				<word number="5">lenitive</word>
+				<word number="6">anodyne</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hypnotic" headRef="712">hypnotic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sedative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">antiorgastic</word>
+				<word number="2">anaphrodisiac</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mild as mother's milk">
+			<sg number="1">
+				<word number="1">mild as mother's milk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">milk and water</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="moderately">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">moderately</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gingerly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">piano</word>
+			</sg>
+			<sg number="4">
+				<word number="1">under easy sail</word>
+				<word number="2">at half speed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">within bounds</word>
+				<word number="2">within compass</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in reason</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="est modue in rebus">
+			<sg number="1">
+				<word number="1">est modue in rebus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pour oil on troubled waters</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

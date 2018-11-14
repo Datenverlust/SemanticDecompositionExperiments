@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1034" name="Worship" origNum="#990." class="8" section="5" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="worship">
+			<sg number="1">
+				<word number="1">worship</word>
+				<word number="2">adoration</word>
+				<word number="3">devotion</word>
+				<word number="4">aspiration</word>
+				<word number="5">homage</word>
+				<word number="6">service</word>
+				<word number="7">humiliation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kneeling</word>
+				<word number="2">genuflection</word>
+				<word number="3">prostration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prayer">
+			<sg number="1">
+				<word number="1">prayer</word>
+				<word number="2">invocation</word>
+				<word number="3">supplication</word>
+				<word number="4">rogation</word>
+				<word number="5">intercession</word>
+				<word number="6">orison</word>
+				<word number="7">holy breathing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="request" headRef="796">petition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">collect</word>
+				<word number="2">litany</word>
+				<word number="3">Lord's prayer</word>
+				<word number="4">paternoster</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beadroll</word>
+			</sg>
+			<sg number="5">
+				<word number="1">latria</word>
+				<word number="2">dulia</word>
+				<word number="3">hyperdulia</word>
+				<word number="4">vigils</word>
+			</sg>
+			<sg number="6">
+				<word number="1">revival</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cult</word>
+			</sg>
+			<sg number="8">
+				<word number="1">anxious meeting</word>
+				<word number="2">camp meeting</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ebenezer</word>
+				<word number="2">virginal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="thanksgiving">
+			<sg number="1">
+				<word number="1">thanksgiving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">giving thanks</word>
+				<word number="2">returning thanks</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grace</word>
+				<word number="2">praise</word>
+				<word number="3">glorification</word>
+				<word number="4">benediction</word>
+				<word number="5">doxology</word>
+				<word number="6">hosanna</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hallelujah</word>
+				<word number="2">allelujah</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Te Deum</word>
+				<word number="2">non nobis Domine</word>
+				<word number="3">nunc dimittis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">paean</word>
+			</sg>
+			<sg number="7">
+				<word number="1">benschen</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Ave Maria</word>
+				<word number="2">O Salutaris</word>
+				<word number="3">Sanctus</word>
+				<word number="4">The Annunciation</word>
+				<word number="5">Tersanctus</word>
+				<word number="6">Trisagion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="psalm">
+			<sg number="1">
+				<word number="1">psalm</word>
+				<word number="2">psalmody</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hymn</word>
+				<word number="2">plain song</word>
+				<word number="3">chant</word>
+				<word number="4">chaunt</word>
+				<word number="5">response</word>
+				<word number="6">anthem</word>
+				<word number="7">motet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antiphon</word>
+				<word number="2">antiphony</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">canticle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">recitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="oblation">
+			<sg number="1">
+				<word number="1">oblation</word>
+				<word number="2">sacrifice</word>
+				<word number="3">incense</word>
+				<word number="4">libation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burnt offering</word>
+				<word number="2">heave offering</word>
+				<word number="3">votive offering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">offertory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="discipline">
+			<sg number="1">
+				<word number="1">discipline</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self-discipline</word>
+				<word number="2">self-examination</word>
+				<word number="3">self-denial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fasting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="divine service">
+			<sg number="1">
+				<word number="1">divine service</word>
+				<word number="2">office</word>
+				<word number="3">duty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exercises</word>
+			</sg>
+			<sg number="3">
+				<word number="1">morning prayer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mass</word>
+				<word number="2">matins</word>
+				<word number="3">evensong</word>
+				<word number="4">vespers</word>
+			</sg>
+			<sg number="5">
+				<word number="1">undernsong</word>
+				<word number="2">tierce</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="rite" headRef="1042">holyday</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="worshipper">
+			<sg number="1">
+				<word number="1">worshipper</word>
+				<word number="2">congregation</word>
+				<word number="3">communicant</word>
+				<word number="4">celebrant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="incantation">
+			<sg number="1">
+				<word number="1" new="1">incantation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="lamentation">
+			<sg number="1">
+				<word number="1" new="1">lamentation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="worship">
+			<sg number="1">
+				<word number="1">worship</word>
+				<word number="2">lift up the heart</word>
+				<word number="3">aspire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="revere" headRef="970">revere</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adore</word>
+				<word number="2">do service</word>
+				<word number="3">pay homage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">humble oneself</word>
+				<word number="2">kneel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bow the knee</word>
+				<word number="2">bend the knee</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fall down</word>
+				<word number="2">fall on one's knees</word>
+			</sg>
+			<sg number="7">
+				<word number="1">prostrate oneself</word>
+				<word number="2">bow down and worship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pray">
+			<sg number="1">
+				<word number="1">pray</word>
+				<word number="2">invoke</word>
+				<word number="3">supplicate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put up</word>
+				<word number="2">offer up prayers</word>
+				<word number="3">offer petitions</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ask" headRef="796">beseech</word>
+			</sg>
+			<sg number="4">
+				<word number="1">say one's prayers</word>
+				<word number="2">tell one's beads</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="return thanks">
+			<sg number="1">
+				<word number="1">return thanks</word>
+				<word number="2">give thanks</word>
+			</sg>
+			<sg number="2">
+				<word number="1">say grace</word>
+				<word number="2">bless</word>
+				<word number="3">praise</word>
+				<word number="4">laud</word>
+				<word number="5">glorify</word>
+				<word number="6">magnify</word>
+				<word number="7">sing praises</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give benediction</word>
+				<word number="2">lead the choir</word>
+				<word number="3">intone</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deacon</word>
+				<word number="2">deacon off      propitiate</word>
+				<word number="3">offer sacrifice</word>
+				<word number="4">fast</word>
+				<word number="5">deny oneself</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vow</word>
+				<word number="2">offer vows</word>
+				<word number="3">give alms</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="work out one's salvation">
+			<sg number="1">
+				<word number="1">work out one's salvation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go to church</word>
+			</sg>
+			<sg number="3">
+				<word number="1">attend service</word>
+				<word number="2">attend mass</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="rite" headRef="1042">communicate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="curse">
+			<sg number="1">
+				<word number="1" new="1">curse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="worshipping">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">worshipping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">devout</word>
+				<word number="2">devotional</word>
+				<word number="3">reverent</word>
+				<word number="4">pure</word>
+				<word number="5">solemn</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="heartfelt" headRef="859">fervid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hallelujah">
+			<sg number="1">
+				<word number="1">hallelujah</word>
+				<word number="2">allelujah!</word>
+				<word number="3">hosanna!</word>
+				<word number="4">glory be to God!</word>
+				<word number="5">O Lord!</word>
+				<word number="6">pray God that!</word>
+				<word number="7">God grant</word>
+				<word number="8">God bless</word>
+				<word number="9">God save</word>
+				<word number="10">God forbid!</word>
+				<word number="11">sursum corda</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="making their lives a prayer">
+			<sg number="1">
+				<word number="1">"making their lives a prayer"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ora et labora</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"prayers ardent open heaven"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

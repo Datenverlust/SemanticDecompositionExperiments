@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="717" name="Fatigue" origNum="#688." class="6" section="3" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fatigue">
+			<sg number="1">
+				<word number="1">fatigue</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="weariness" headRef="879">weariness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yawning</word>
+				<word number="2" paraRef="drowsiness" headRef="712">drowsiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lassitude</word>
+				<word number="2">tiredness</word>
+				<word number="3">fatigation</word>
+				<word number="4">exhaustion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sweat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dyspnoea</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="anhelation">
+			<sg number="1">
+				<word number="1">anhelation</word>
+				<word number="2">shortness of breath</word>
+			</sg>
+			<sg number="2">
+				<word number="1">faintness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">collapse</word>
+				<word number="2">prostration</word>
+				<word number="3">swoon</word>
+				<word number="4">fainting</word>
+				<word number="5">deliquium</word>
+				<word number="6">syncope</word>
+				<word number="7">lipothymy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">goneness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be fatigued">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be fatigued</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sleepy" headRef="712">yawn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">droop</word>
+				<word number="2">sink</word>
+				<word number="3">flag</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lose breath</word>
+				<word number="2">lose wind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gasp</word>
+				<word number="2">pant</word>
+				<word number="3">puff</word>
+				<word number="4">blow</word>
+				<word number="5">drop</word>
+				<word number="6">swoon</word>
+				<word number="7">faint</word>
+				<word number="8">succumb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fatigue">
+			<sg number="1">
+				<word number="1">fatigue</word>
+				<word number="2">tire</word>
+				<word number="3">weary</word>
+				<word number="4">irk</word>
+				<word number="5">flag</word>
+				<word number="6">jade</word>
+				<word number="7">harass</word>
+				<word number="8">exhaust</word>
+				<word number="9">knock up</word>
+				<word number="10">wear out</word>
+				<word number="11">prostrate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tax">
+			<sg number="1">
+				<word number="1">tax</word>
+				<word number="2">task</word>
+				<word number="3">strain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overtask</word>
+				<word number="2">overwork</word>
+				<word number="3">overburden</word>
+				<word number="4">overtax</word>
+				<word number="5">overstrain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fatigued">
+			<sg number="1">
+				<word number="1">fatigued</word>
+				<word number="2" paraRef="" posRef="v.">tired</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="weary" headRef="879">weary</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="drowsy" headRef="712">drowsy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">drooping</word>
+			</sg>
+			<sg number="5">
+				<word number="1">haggard</word>
+			</sg>
+			<sg number="6">
+				<word number="1">toilworn</word>
+				<word number="2">wayworn</word>
+			</sg>
+			<sg number="7">
+				<word number="1">footsore</word>
+				<word number="2">surbated</word>
+				<word number="3">weather- beaten</word>
+			</sg>
+			<sg number="8">
+				<word number="1">faint</word>
+			</sg>
+			<sg number="9">
+				<word number="1">done up</word>
+				<word number="2">used up</word>
+				<word number="3">knocked up</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bushed *</word>
+			</sg>
+			<sg number="11">
+				<word number="1">exhausted</word>
+				<word number="2">prostrate</word>
+				<word number="3">spent</word>
+			</sg>
+			<sg number="12">
+				<word number="1">overtired</word>
+				<word number="2">overspent</word>
+				<word number="3">overfatigued</word>
+			</sg>
+			<sg number="13">
+				<word number="1">unrefreshed</word>
+				<word number="2">unrestored</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="worn">
+			<sg number="1">
+				<word number="1">worn</word>
+				<word number="2">worn out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">battered</word>
+				<word number="2">shattered</word>
+				<word number="3">pulled down</word>
+				<word number="4">seedy</word>
+				<word number="5">altered</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="breathless">
+			<sg number="1">
+				<word number="1">breathless</word>
+				<word number="2">windless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">short of breath</word>
+				<word number="2">out of breath</word>
+				<word number="3">short of wind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blown</word>
+				<word number="2">puffing and blowing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">short-breathed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">anhelose</word>
+			</sg>
+			<sg number="6">
+				<word number="1">broken winded</word>
+				<word number="2">short-winded</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dyspnaeal</word>
+				<word number="2">dyspnaeic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ready to drop">
+			<sg number="1">
+				<word number="1">ready to drop</word>
+				<word number="2">all in</word>
+				<word number="3">more dead than alive</word>
+				<word number="4">dog-weary</word>
+				<word number="5">walked off one's legs</word>
+				<word number="6">tired to death</word>
+				<word number="7">on one's last legs</word>
+				<word number="8">played out</word>
+				<word number="9">hors de combat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fatiguing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">fatiguing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tiresome</word>
+				<word number="2">irksome</word>
+				<word number="3">wearisome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">weary</word>
+				<word number="2">trying</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="520" name="Maxim" origNum="#496." class="4" section="5" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="maxim">
+			<sg number="1">
+				<word number="1">maxim</word>
+				<word number="2">aphorism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">apothegm</word>
+				<word number="2">apophthegm</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dictum</word>
+				<word number="2">saying</word>
+				<word number="3">adage</word>
+				<word number="4">saw</word>
+				<word number="5">proverb</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sentence</word>
+				<word number="2">mot</word>
+				<word number="3">motto</word>
+				<word number="4">word</word>
+				<word number="5">byword</word>
+				<word number="6">moral</word>
+				<word number="7">phylactery</word>
+				<word number="8">protasis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="axiom">
+			<sg number="1">
+				<word number="1">axiom</word>
+				<word number="2">theorem</word>
+				<word number="3">scholium</word>
+				<word number="4">truism</word>
+				<word number="5">postulate</word>
+				<word number="6" new="1">lemma</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="first principles">
+			<sg number="1">
+				<word number="1">first principles</word>
+				<word number="2">a priori fact</word>
+				<word number="3" paraRef="supposition" headRef="538">assumption</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="reflection">
+			<sg number="1">
+				<word number="1" paraRef="idea" headRef="473">reflection</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="judgment" headRef="503">conclusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="precept" headRef="726">golden rule</word>
+			</sg>
+			<sg number="4">
+				<word number="1">principle</word>
+				<word number="2">principia</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="belief" headRef="508">profession of faith</word>
+			</sg>
+			<sg number="6">
+				<word number="1">settled principle</word>
+				<word number="2">accepted principle</word>
+				<word number="3">formula</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="accepted fact">
+			<sg number="1">
+				<word number="1">accepted fact</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="received truth">
+			<sg number="1">
+				<word number="1">received truth</word>
+				<word number="2">wise maxim</word>
+				<word number="3">sage maxim</word>
+				<word number="4">received maxim</word>
+				<word number="5">admitted maxim</word>
+				<word number="6">recognized maxim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">true saying</word>
+				<word number="2">common saying</word>
+				<word number="3">hackneyed saying</word>
+				<word number="4">trite saying</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="proposition">
+			<sg number="1">
+				<word number="1" new="1">proposition</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="aphoristic">
+			<sg number="1">
+				<word number="1">aphoristic</word>
+				<word number="2">proverbial</word>
+				<word number="3">phylacteric</word>
+			</sg>
+			<sg number="2">
+				<word number="1">axiomatic</word>
+				<word number="2">gnomic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="as the saying goes">
+			<sg number="1">
+				<word number="1">as the saying goes</word>
+				<word number="2">as the saying is</word>
+				<word number="3">as they say</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

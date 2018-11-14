@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="393" name="Sensations of Touch" origNum="#380." class="3" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="itching">
+			<sg number="1">
+				<word number="1">itching</word>
+				<word number="2" paraRef="" posRef="v.">pruritis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">titillation</word>
+				<word number="2">formication</word>
+				<word number="3">aura</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stereognosis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="itch">
+			<sg number="1">
+				<word number="1">itch</word>
+				<word number="2">tingle</word>
+				<word number="3">creep</word>
+				<word number="4">thrill</word>
+				<word number="5">sting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prick</word>
+				<word number="2">prickle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tickle</word>
+				<word number="2">titillate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="itching">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">itching</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stereognostic</word>
+				<word number="2">titillative</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

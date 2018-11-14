@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="672" name="Unimportance" origNum="#643." class="6" section="2" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unimportance">
+			<sg number="1">
+				<word number="1">unimportance</word>
+				<word number="2">insignificance</word>
+				<word number="3">nothingness</word>
+				<word number="4">immateriality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="triviality">
+			<sg number="1">
+				<word number="1">triviality</word>
+				<word number="2">levity</word>
+				<word number="3">frivolity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">paltriness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">poverty</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="smallness" headRef="34">smallness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="uselessness" headRef="674">vanity</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="indifference" headRef="905">matter of indifference</word>
+			</sg>
+			<sg number="7">
+				<word number="1">no object</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nothing">
+			<sg number="1">
+				<word number="1">nothing</word>
+				<word number="2">nothing to signify,</word>
+				<word number="3">nothing worth speaking of</word>
+				<word number="4">nothing particular</word>
+				<word number="5">nothing to boast of</word>
+				<word number="6">nothing to speak of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">small matter</word>
+				<word number="2">no great matter</word>
+				<word number="3" paraRef="" posRef="adj.">trifling matter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mere joke</word>
+				<word number="2">mere nothing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hardly anything</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scarcely anything</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nonentity</word>
+				<word number="2">small beer</word>
+				<word number="3">cipher</word>
+			</sg>
+			<sg number="7">
+				<word number="1">no great shakes</word>
+				<word number="2">peu de chose</word>
+			</sg>
+			<sg number="8">
+				<word number="1">child's play</word>
+				<word number="2">kinderspiel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="toy">
+			<sg number="1">
+				<word number="1">toy</word>
+				<word number="2">plaything</word>
+				<word number="3">popgun</word>
+				<word number="4">paper pellet</word>
+				<word number="5">gimcrack</word>
+				<word number="6">gewgaw</word>
+				<word number="7">bauble</word>
+				<word number="8">trinket</word>
+				<word number="9">bagatelle</word>
+				<word number="10">Rickshaw</word>
+				<word number="11">knickknack</word>
+				<word number="12">whim-wham</word>
+				<word number="13">trifle</word>
+				<word number="14">"trifles light as air"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">yankee notions</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="trumpery">
+			<sg number="1">
+				<word number="1">trumpery</word>
+				<word number="2">trash</word>
+				<word number="3">rubbish</word>
+				<word number="4">stuff</word>
+				<word number="5">fatras</word>
+				<word number="6">frippery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"leather or prunello"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chaff</word>
+				<word number="2">drug</word>
+				<word number="3">froth bubble smoke</word>
+				<word number="4">cobweb</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weed</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inutility" headRef="674">refuse</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="dirt" headRef="682">scum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="joke">
+			<sg number="1">
+				<word number="1">joke</word>
+				<word number="2">jest</word>
+				<word number="3">snap of the fingers</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unmeaning" headRef="542">fudge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fiddlestick</word>
+				<word number="2">fiddlestick end</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pack of nonsense</word>
+				<word number="2">mere farce</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="straw">
+			<sg number="1">
+				<word number="1">straw</word>
+				<word number="2">pin</word>
+				<word number="3">fig</word>
+				<word number="4">button</word>
+				<word number="5">rush</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bulrush</word>
+				<word number="2">feather</word>
+				<word number="3">halfpenny</word>
+				<word number="4">farthing</word>
+				<word number="5">brass farthing</word>
+				<word number="6">doit</word>
+				<word number="7">peppercorn</word>
+				<word number="8">jot</word>
+				<word number="9">rap</word>
+				<word number="10">pinch of snuff</word>
+				<word number="11">old son</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cent</word>
+				<word number="2">mill</word>
+				<word number="3">picayune</word>
+				<word number="4">pistareen</word>
+				<word number="5">red cent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="minutiae">
+			<sg number="1">
+				<word number="1">minutiae</word>
+				<word number="2">details</word>
+				<word number="3">minor details</word>
+				<word number="4">small fry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dust in the balance</word>
+				<word number="2">feather in the scale</word>
+				<word number="3">drop in the ocean</word>
+				<word number="4">flea-bite</word>
+				<word number="5">molehill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="nine days' wonder">
+			<sg number="1">
+				<word number="1">nine days' wonder</word>
+				<word number="2">ridiculus mus</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="impotence" headRef="165">flash in the pan</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="overestimation" headRef="506">much ado about nothing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be unimportant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be unimportant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="matter" headRef="671">not matter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go for nothing</word>
+				<word number="2">matter nothing</word>
+				<word number="3">signify nothing</word>
+				<word number="4">matter little</word>
+				<word number="5">matter little or nothing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">not matter a straw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="make light of">
+			<sg number="1">
+				<word number="1" paraRef="underestimate" headRef="507">make light of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="overestimate" headRef="506">catch at straws</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unimportant">
+			<sg number="1">
+				<word number="1">unimportant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of little account</word>
+				<word number="2">of small account</word>
+				<word number="3">of no account</word>
+				<word number="4">of little importance</word>
+				<word number="5" paraRef="importance" headRef="671">of no importance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immaterial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unessential</word>
+				<word number="2">nonessential</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indifferent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="subordinate">
+			<sg number="1">
+				<word number="1" paraRef="inferior" headRef="36">subordinate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="average" headRef="31">mediocre</word>
+			</sg>
+			<sg number="3">
+				<word number="1">passable</word>
+				<word number="2">fair</word>
+				<word number="3">respectable</word>
+				<word number="4">tolerable</word>
+				<word number="5">commonplace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uneventful</word>
+				<word number="2">mere</word>
+				<word number="3">common</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="habitual" headRef="641">ordinary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">inconsiderable</word>
+				<word number="2">so-so</word>
+				<word number="3">insignificant</word>
+				<word number="4">inappreciable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="trifling">
+			<sg number="1">
+				<word number="1">trifling</word>
+				<word number="2">trivial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slight</word>
+				<word number="2">slender</word>
+				<word number="3">light</word>
+				<word number="4">flimsy</word>
+				<word number="5">frothy</word>
+				<word number="6">idle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="foolish" headRef="523">puerile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">airy</word>
+				<word number="2">shallow</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="weak" headRef="167">weak</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="powerless" headRef="165">powerless</word>
+			</sg>
+			<sg number="7">
+				<word number="1">frivolous</word>
+				<word number="2">petty</word>
+				<word number="3">niggling</word>
+			</sg>
+			<sg number="8">
+				<word number="1">piddling</word>
+				<word number="2">peddling</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fribble</word>
+				<word number="2">inane</word>
+				<word number="3">ridiculous</word>
+				<word number="4">farcical</word>
+			</sg>
+			<sg number="10">
+				<word number="1">finical</word>
+				<word number="2">finikin</word>
+			</sg>
+			<sg number="11">
+				<word number="1">fiddle-faddle</word>
+				<word number="2">fingle- fangle</word>
+				<word number="3">namby-pamby</word>
+				<word number="4">wishy-washy</word>
+				<word number="5">milk and water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="poor">
+			<sg number="1">
+				<word number="1">poor</word>
+				<word number="2">paltry</word>
+				<word number="3">pitiful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contempt" headRef="972">contemptible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sorry</word>
+				<word number="2">mean</word>
+				<word number="3">meager</word>
+				<word number="4">shabby</word>
+				<word number="5">miserable</word>
+				<word number="6">wretched</word>
+				<word number="7">vile</word>
+				<word number="8">scrubby</word>
+				<word number="9">scrannel</word>
+				<word number="10">weedy</word>
+				<word number="11">niggardly</word>
+				<word number="12">scurvy</word>
+				<word number="13">putid</word>
+				<word number="14">beggarly</word>
+				<word number="15">worthless</word>
+				<word number="16">twopennyhalfpenny</word>
+				<word number="17">cheap</word>
+				<word number="18">trashy</word>
+				<word number="19">catchpenny</word>
+				<word number="20">gimcrack</word>
+				<word number="21">trumpery</word>
+				<word number="22" new="1">pitiable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">one-horse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="not worth the pains">
+			<sg number="1">
+				<word number="1">not worth the pains</word>
+				<word number="2">not worth while</word>
+				<word number="3">not worth mentioning</word>
+				<word number="4">not worth speaking of</word>
+				<word number="5">not worth a thought</word>
+				<word number="6">not worth a curse</word>
+				<word number="7" paraRef="" posRef="n.">not worth a straw</word>
+			</sg>
+			<sg number="2">
+				<word number="1">1 beneath notice</word>
+				<word number="2">unworthy of  notice</word>
+				<word number="3">beneath regard</word>
+				<word number="4">unworthy of  regard</word>
+				<word number="5">beneath consideration</word>
+				<word number="6">unworthy of consideration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">de lana caprina</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="useless" headRef="674">vain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="inconsequential">
+			<sg number="1">
+				<word number="1" new="1">inconsequential</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="slightly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">slightly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rather</word>
+				<word number="2">somewhat</word>
+				<word number="3">pretty well</word>
+				<word number="4">tolerably</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="for aught one cares">
+			<sg number="1">
+				<word number="1">for aught one cares</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="no matter">
+			<sg number="1">
+				<word number="1">no matter!</word>
+				<word number="2">pish!</word>
+				<word number="3">tush!</word>
+				<word number="4">tut!</word>
+				<word number="5">pshaw!</word>
+				<word number="6">pugh!</word>
+				<word number="7">pooh</word>
+				<word number="8">pooh-pooh!</word>
+				<word number="9">fudge!</word>
+				<word number="10">bosh!</word>
+				<word number="11">humbug!</word>
+				<word number="12">fiddlestick</word>
+				<word number="13">fiddlestick end!</word>
+				<word number="14">fiddlededee!</word>
+				<word number="15">never mind!</word>
+				<word number="16">n'importe!</word>
+				<word number="17">what signifies it</word>
+				<word number="18">what boots it</word>
+				<word number="19">what of it</word>
+				<word number="20">what of that</word>
+				<word number="21">what matter</word>
+				<word number="22">what's the odds</word>
+				<word number="23">a fig for' stuff and nonsense</word>
+				<word number="24">stuff!</word>
+				<word number="25">nonsense!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="magno conatu magnas nugas">
+			<sg number="1">
+				<word number="1">magno conatu magnas nugas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">le jeu ne vaut pas la chandelle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">it matters not</word>
+				<word number="2">it does not signify</word>
+			</sg>
+			<sg number="4">
+				<word number="1">it is of no consequence</word>
+				<word number="2">it is of no importance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">elephantus non capit murem</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tempete dans un verre d'eau</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

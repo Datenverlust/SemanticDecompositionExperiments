@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="570" name="Falsehood" origNum="#544." class="5" section="2" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="falsehood">
+			<sg number="1">
+				<word number="1">falsehood</word>
+				<word number="2">falseness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">falsity</word>
+				<word number="2">falsification</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deception" headRef="571">deception</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="untruth" headRef="572">untruth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">guile</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="lying" headRef="570">lying</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="untruth" headRef="572">untruth</word>
+			</sg>
+			<sg number="8">
+				<word number="1">guile</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">lying</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mendacity</word>
+				<word number="2">perjury</word>
+				<word number="3">false swearing</word>
+			</sg>
+			<sg number="11">
+				<word number="1">forgery</word>
+				<word number="2">invention</word>
+				<word number="3">fabrication</word>
+			</sg>
+			<sg number="12">
+				<word number="1">subreption</word>
+			</sg>
+			<sg number="13">
+				<word number="1">covin</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">plum</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">trompo</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">waggoner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="perversion of truth">
+			<sg number="1">
+				<word number="1">perversion of truth</word>
+				<word number="2">suppression of truth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suppressio veri</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perversion</word>
+				<word number="2">distortion</word>
+				<word number="3">false coloring</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="exaggeration" headRef="575">exaggeration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prevarication</word>
+				<word number="2">equivocation</word>
+				<word number="3">shuffling</word>
+				<word number="4">fencing</word>
+				<word number="5">evasion</word>
+				<word number="6">fraud</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="lie" headRef="572">suggestio falsi</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="concealment" headRef="554">mystification</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="imitation" headRef="20">simulation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dissimulation</word>
+				<word number="2">dissembling</word>
+			</sg>
+			<sg number="10">
+				<word number="1">deceit</word>
+			</sg>
+			<sg number="11">
+				<word number="1">blague</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sham">
+			<sg number="1">
+				<word number="1">sham</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pretense</word>
+				<word number="2">pretending</word>
+				<word number="3">malingering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lip homage">
+			<sg number="1">
+				<word number="1">lip homage</word>
+				<word number="2">lip service</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mouth honor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hollowness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mere show</word>
+				<word number="2">mere outside</word>
+			</sg>
+			<sg number="5">
+				<word number="1">duplicity</word>
+				<word number="2">double dealing</word>
+				<word number="3">insincerity</word>
+				<word number="4">hypocrisy</word>
+				<word number="5">cant</word>
+				<word number="6">humbug</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jesuitism</word>
+				<word number="2">jesuitry</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pharisaism</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Machiavelism</word>
+				<word number="2">"organized hypocrisy"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">crocodile tears</word>
+				<word number="2">mealy-mouthedness</word>
+				<word number="3">quackery</word>
+			</sg>
+			<sg number="10">
+				<word number="1">charlatanism</word>
+				<word number="2">charlatanry</word>
+			</sg>
+			<sg number="11">
+				<word number="1">gammon</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bun-kum</word>
+				<word number="2">bumcombe</word>
+				<word number="3">flam</word>
+			</sg>
+			<sg number="13">
+				<word number="1">bam*</word>
+				<word number="2">flimflam</word>
+				<word number="3">cajolery</word>
+				<word number="4">flattery</word>
+			</sg>
+			<sg number="14">
+				<word number="1">Judas kiss</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="bad faith" headRef="982">perfidy</word>
+			</sg>
+			<sg number="16">
+				<word number="1">il volto sciolto i pensieri stretti</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unfairness">
+			<sg number="1">
+				<word number="1" paraRef="dishonesty" headRef="982">unfairness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cunning" headRef="731">artfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="error" headRef="519">misstatement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="toffee">
+			<sg number="1">
+				<word number="1" new="1">toffee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="escapist">
+			<sg number="1">
+				<word number="1" new="1">escapist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be false">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be false</word>
+				<word number="2" paraRef="liar" headRef="574">be a liar</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adv.">speak falsely</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lie" headRef="572">tell a lie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lie</word>
+				<word number="2">fib</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lie like a trooper</word>
+			</sg>
+			<sg number="6">
+				<word number="1">swear false</word>
+				<word number="2">forswear</word>
+				<word number="3">perjure oneself</word>
+				<word number="4">bear false witness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="misstate">
+			<sg number="1">
+				<word number="1">misstate</word>
+				<word number="2">misquote</word>
+				<word number="3">miscite</word>
+				<word number="4">misreport</word>
+				<word number="5">misrepresent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belie</word>
+				<word number="2">falsify</word>
+				<word number="3">pervert</word>
+				<word number="4">distort</word>
+				<word number="5" new="1">rabbit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="misinterpret" headRef="548">put a false construction upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prevaricate">
+			<sg number="1">
+				<word number="1">prevaricate</word>
+				<word number="2">equivocate</word>
+				<word number="3">quibble</word>
+			</sg>
+			<sg number="2">
+				<word number="1">palter</word>
+				<word number="2">palter to the understanding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repondre en Normand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trim</word>
+				<word number="2">shuffle</word>
+				<word number="3">fence</word>
+				<word number="4">mince the truth</word>
+				<word number="5">beat about the bush</word>
+				<word number="6">blow hot and cold</word>
+				<word number="7">play fast and loose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="garble">
+			<sg number="1">
+				<word number="1">garble</word>
+				<word number="2">gloss over</word>
+				<word number="3">disguise</word>
+				<word number="4">give a color to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give a gloss</word>
+				<word number="2">put a gloss</word>
+				<word number="3">put false coloring upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">color</word>
+				<word number="2">varnish</word>
+				<word number="3">cook</word>
+				<word number="4">dress up</word>
+				<word number="5">embroider</word>
+			</sg>
+			<sg number="4">
+				<word number="1">varnish right and puzzle wrong</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exaggerate" headRef="575">exaggerate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blague</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="invent">
+			<sg number="1">
+				<word number="1">invent</word>
+				<word number="2">fabricate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trump up</word>
+				<word number="2">get up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">force</word>
+				<word number="2">fake</word>
+				<word number="3">hatch</word>
+				<word number="4">concoct</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="imagine" headRef="540">romance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cry "wolf!"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dissemble">
+			<sg number="1">
+				<word number="1">dissemble</word>
+				<word number="2">dissimulate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feign</word>
+				<word number="2">assume</word>
+				<word number="3">put on</word>
+				<word number="4">pretend</word>
+				<word number="5">make believe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">play possum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">play false</word>
+				<word number="2">play a double game</word>
+			</sg>
+			<sg number="5">
+				<word number="1">coquet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">act a part</word>
+				<word number="2">play a part</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="affect" headRef="894">affect</word>
+			</sg>
+			<sg number="8">
+				<word number="1">simulate</word>
+				<word number="2">pass off for</word>
+			</sg>
+			<sg number="9">
+				<word number="1">counterfeit</word>
+				<word number="2">sham</word>
+				<word number="3">make a show of</word>
+			</sg>
+			<sg number="10">
+				<word number="1">malinger</word>
+			</sg>
+			<sg number="11">
+				<word number="1">say the grapes are sour</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cant">
+			<sg number="1">
+				<word number="1">cant</word>
+				<word number="2">play the hypocrite</word>
+				<word number="3">sham Abraham</word>
+				<word number="4">faire pattes de velours</word>
+				<word number="5">put on the mask</word>
+				<word number="6">clean the outside of the platter</word>
+				<word number="7">lie like a conjuror</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hand out false colors</word>
+				<word number="2">hold out false colors</word>
+				<word number="3">sail under false colors</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"commend the poisoned chalice to the lips"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ambiguas in vulgum spargere voces</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deceive" headRef="571">deceive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="inforce">
+			<sg number="1">
+				<word number="1" new="1">inforce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="false">
+			<sg number="1">
+				<word number="1">false</word>
+				<word number="2">deceitful</word>
+				<word number="3">mendacious</word>
+				<word number="4">unveracious</word>
+				<word number="5">fraudulent</word>
+				<word number="6">dishonest</word>
+				<word number="7">faithless</word>
+				<word number="8">truthless</word>
+				<word number="9">trothless</word>
+				<word number="10" new="1">untidy</word>
+				<word number="11" new="1">antebellum</word>
+				<word number="12" new="1">quadrupedal</word>
+				<word number="13" new="1">rust</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfair</word>
+				<word number="2">uncandid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hollow-hearted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">evasive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">uningenuous</word>
+				<word number="2">disingenuous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hollow</word>
+				<word number="2">sincere</word>
+				<word number="3">Parthis mendacior</word>
+			</sg>
+			<sg number="7">
+				<word number="1">forsworn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="artificial">
+			<sg number="1">
+				<word number="1">artificial</word>
+				<word number="2">contrived</word>
+			</sg>
+			<sg number="2">
+				<word number="1">canting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hypocritical</word>
+				<word number="2">jesuitical</word>
+				<word number="3">pharisaical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tartuffish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Machiavelian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">double</word>
+				<word number="2">double tongued</word>
+				<word number="3">double faced</word>
+				<word number="4">double handed</word>
+				<word number="5">double minded</word>
+				<word number="6">double hearted</word>
+				<word number="7">double dealing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Janus faced</word>
+			</sg>
+			<sg number="8">
+				<word number="1">smooth- faced</word>
+				<word number="2">smooth spoken</word>
+				<word number="3">smooth tongued</word>
+			</sg>
+			<sg number="9">
+				<word number="1">plausible</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mealy-mouthed</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="affected" headRef="894">affected</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="collusive">
+			<sg number="1">
+				<word number="1">collusive</word>
+				<word number="2">collusory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cunning" headRef="731">artful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="perfidious" headRef="982">perfidious</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deceptive" headRef="571">spurious</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="untrue" headRef="572">untrue</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">falsified</word>
+			</sg>
+			<sg number="7">
+				<word number="1">covinous</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">tops</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="falsely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">falsely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a la tartufe</word>
+				<word number="2">with a double tongue</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cunning" headRef="731">silly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="blandae mendacia lingua">
+			<sg number="1">
+				<word number="1">blandae mendacia lingua</word>
+			</sg>
+			<sg number="2">
+				<word number="1">falsus in uno falsus in omnibus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"I give him joy that's awkward at a lie"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">la mentira tiene las piernas cortas</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"O what a goodly outside falsehood hath"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

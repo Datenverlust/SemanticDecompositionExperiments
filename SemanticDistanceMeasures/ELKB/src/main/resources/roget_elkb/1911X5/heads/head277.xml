@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="277" name="Journey" origNum="#266." class="2" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="travel">
+			<sg number="1">
+				<word number="1">travel</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">traveling</word>
+				<word number="2">campaigning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="journey">
+			<sg number="1">
+				<word number="1">journey</word>
+				<word number="2">excursion</word>
+				<word number="3">expedition</word>
+				<word number="4">tour</word>
+				<word number="5">trip</word>
+				<word number="6">grand tour</word>
+				<word number="7">circuit</word>
+				<word number="8">peregrination</word>
+				<word number="9">discursion</word>
+				<word number="10">ramble</word>
+				<word number="11">pilgrimage</word>
+				<word number="12">hajj</word>
+				<word number="13">trek</word>
+				<word number="14">course</word>
+				<word number="15">ambulation</word>
+				<word number="16">march</word>
+				<word number="17">walk</word>
+				<word number="18">promenade</word>
+				<word number="19">constitutional</word>
+				<word number="20">stroll</word>
+				<word number="21">saunter</word>
+				<word number="22">tramp</word>
+				<word number="23">jog trot</word>
+				<word number="24">turn</word>
+				<word number="25">stalk</word>
+				<word number="26">perambulation</word>
+				<word number="27" new="1">voyage</word>
+				<word number="28" new="2">cruise</word>
+				<word number="29" new="2">visit</word>
+				<word number="30" new="3">vacation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">noctambulation</word>
+				<word number="2">noctambulism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">somnambulism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outing</word>
+				<word number="2">ride</word>
+				<word number="3">drive</word>
+				<word number="4">airing</word>
+				<word number="5">jaunt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="equitation">
+			<sg number="1">
+				<word number="1">equitation</word>
+				<word number="2">horsemanship</word>
+				<word number="3">riding</word>
+				<word number="4">manege</word>
+				<word number="5">ride and tie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">basophobia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="roving">
+			<sg number="1">
+				<word number="1">roving</word>
+				<word number="2">vagrancy</word>
+				<word number="3">pererration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">marching and countermarching</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nomadism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vagabondism</word>
+				<word number="2">vagabondage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hoboism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gadding</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flit</word>
+				<word number="2">flitting</word>
+				<word number="3">migration</word>
+			</sg>
+			<sg number="8">
+				<word number="1">emigration</word>
+				<word number="2">immigration</word>
+				<word number="3">demigration</word>
+				<word number="4">intermigration</word>
+			</sg>
+			<sg number="9">
+				<word number="1">wanderlust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="plan">
+			<sg number="1">
+				<word number="1">plan</word>
+				<word number="2">itinerary</word>
+				<word number="3">guide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">handbook</word>
+				<word number="2">guidebook</word>
+				<word number="3">road book</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Baedeker</word>
+				<word number="2">Bradshaw</word>
+				<word number="3">Murray</word>
+			</sg>
+			<sg number="4">
+				<word number="1">map</word>
+				<word number="2">road map</word>
+				<word number="3">transportation guide</word>
+				<word number="4">subway map</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="procession">
+			<sg number="1">
+				<word number="1">procession</word>
+				<word number="2">cavalcade</word>
+				<word number="3">caravan</word>
+				<word number="4">file</word>
+				<word number="5">cortege</word>
+				<word number="6">column</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="vehicle">
+			<sg number="1">
+				<word number="1" paraRef="vehicle" headRef="283">vehicle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">automobile</word>
+				<word number="2">train</word>
+				<word number="3">bus</word>
+				<word number="4">airplane</word>
+				<word number="5">plane</word>
+				<word number="6">autobus</word>
+				<word number="7">omnibus</word>
+				<word number="8">subway</word>
+				<word number="9">motorbike</word>
+				<word number="10">dirt bike</word>
+				<word number="11">off-road vehicle</word>
+				<word number="12">van</word>
+				<word number="13">minivan</word>
+				<word number="14">motor scooter</word>
+				<word number="15">trolley</word>
+				<word number="16">locomotive</word>
+				<word number="17" new="1">car</word>
+				<word number="18" new="1">tram</word>
+				<word number="19" new="2">bicycle</word>
+				<word number="20" new="2">carriage</word>
+				<word number="21" new="2">jeep</word>
+				<word number="22" new="2">motorcycle</word>
+				<word number="23" new="2">prototype</word>
+				<word number="24" new="2">rail</word>
+				<word number="25" new="2">tramway</word>
+				<word number="26" new="2">truck</word>
+				<word number="27" new="3">ambulance</word>
+				<word number="28" new="3">auto</word>
+				<word number="29" new="3">bike</word>
+				<word number="30" new="3">buggy</word>
+				<word number="31" new="3">cart</word>
+				<word number="32" new="3">dodge</word>
+				<word number="33" new="3">engine</word>
+				<word number="34" new="3">express</word>
+				<word number="35" new="3">ferry</word>
+				<word number="36" new="3">lorry</word>
+				<word number="37" new="3">moped</word>
+				<word number="38" new="3">railway</word>
+				<word number="39" new="3">sled</word>
+				<word number="40" new="3">tractor</word>
+				<word number="41" new="3">trailer</word>
+				<word number="42" new="3">transit</word>
+				<word number="43" new="3">wagon</word>
+				<word number="44" new="4">chariot</word>
+				<word number="45" new="4">hearse</word>
+				<word number="46" new="4">horseback</word>
+				<word number="47" new="4">limousine</word>
+				<word number="48" new="4">scooter</word>
+				<word number="49" new="4">sleigh</word>
+				<word number="50" new="4">tandem</word>
+				<word number="51" new="4">transporter</word>
+				<word number="52" new="4">tricycle</word>
+				<word number="53" new="4">waggon</word>
+				<word number="54" new="5">hauler</word>
+				<word number="55" new="5">mower</word>
+			</sg>
+			<sg number="3">
+				<word number="1">legs</word>
+				<word number="2">feet</word>
+				<word number="3">pegs</word>
+				<word number="4">pins</word>
+				<word number="5">trotters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="traveler">
+			<sg number="1">
+				<word number="1" paraRef="traveler" headRef="279">traveler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="depot [U">
+			<sg number="1">
+				<word number="1">depot</word>
+				<word number="2">railway station</word>
+				<word number="3">station</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="travel">
+			<sg number="1">
+				<word number="1">travel</word>
+				<word number="2">journey</word>
+				<word number="3">course</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take a journey</word>
+				<word number="2">go a journey</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take a walk</word>
+				<word number="2" paraRef="" posRef="n.">go out for walk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have a run</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take the air</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="flit">
+			<sg number="1">
+				<word number="1">flit</word>
+				<word number="2">take wing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">migrate</word>
+				<word number="2">emigrate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trek</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rove</word>
+				<word number="2">prowl</word>
+				<word number="3">roam</word>
+				<word number="4">range</word>
+				<word number="5">patrol</word>
+				<word number="6">pace up and down</word>
+				<word number="7">traverse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scour the country</word>
+				<word number="2">traverse the country</word>
+			</sg>
+			<sg number="6">
+				<word number="1">peragrate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">circumambulate</word>
+				<word number="2">perambulate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">nomadize</word>
+				<word number="2">wander</word>
+				<word number="3">ramble</word>
+				<word number="4">stroll</word>
+				<word number="5">saunter</word>
+				<word number="6">hover</word>
+				<word number="7">go one's rounds</word>
+				<word number="8">straggle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">gad</word>
+				<word number="2">gad about</word>
+			</sg>
+			<sg number="10">
+				<word number="1">expatiate</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">lurk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="walk">
+			<sg number="1">
+				<word number="1">walk</word>
+				<word number="2">march</word>
+				<word number="3">step</word>
+				<word number="4">tread</word>
+				<word number="5">pace</word>
+				<word number="6">plod</word>
+				<word number="7">wend</word>
+				<word number="8">go by shank's mare</word>
+			</sg>
+			<sg number="2">
+				<word number="1">promenade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trudge</word>
+				<word number="2">tramp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stalk</word>
+				<word number="2">stride</word>
+				<word number="3">straddle</word>
+				<word number="4">strut</word>
+				<word number="5">foot it</word>
+				<word number="6">hoof it</word>
+				<word number="7">stump</word>
+				<word number="8">bundle</word>
+				<word number="9">bowl along</word>
+				<word number="10">toddle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">paddle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tread a path</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="take horse">
+			<sg number="1">
+				<word number="1">take horse</word>
+				<word number="2">ride</word>
+				<word number="3">drive</word>
+				<word number="4">trot</word>
+				<word number="5">amble</word>
+				<word number="6">canter</word>
+				<word number="7">prance</word>
+				<word number="8">fisk</word>
+				<word number="9">frisk</word>
+				<word number="10">caracoler</word>
+				<word number="11">caracole</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="move quickly" headRef="285">gallop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="embark">
+			<sg number="1">
+				<word number="1">embark</word>
+				<word number="2">board</word>
+				<word number="3">set out</word>
+				<word number="4">hit the road</word>
+				<word number="5">get going</word>
+				<word number="6">get underway</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="peg on">
+			<sg number="1">
+				<word number="1">peg on</word>
+				<word number="2">jog on</word>
+				<word number="3">wag on</word>
+				<word number="4">shuffle on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stir one's stumps</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bend one's steps</word>
+				<word number="2">bend one's course</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make one's way</word>
+				<word number="2">find one's way</word>
+				<word number="3">wend one's way</word>
+				<word number="4">pick one's way</word>
+				<word number="5">pick one's way</word>
+				<word number="6">thread one's way</word>
+				<word number="7">plow one's way</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slide</word>
+				<word number="2">glide</word>
+				<word number="3">coast</word>
+				<word number="4">skim</word>
+				<word number="5">skate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">march in procession</word>
+				<word number="2">file on</word>
+				<word number="3">defile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="go to">
+			<sg number="1">
+				<word number="1">go to</word>
+				<word number="2">repair to</word>
+				<word number="3">resort to</word>
+				<word number="4">hie to</word>
+				<word number="5">betake oneself to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="traveling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">traveling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ambulatory</word>
+				<word number="2">itinerant</word>
+				<word number="3">peripatetic</word>
+				<word number="4">roving</word>
+				<word number="5">rambling</word>
+				<word number="6">gadding</word>
+				<word number="7">discursive</word>
+				<word number="8">vagrant</word>
+				<word number="9">migratory</word>
+				<word number="10">monadic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">circumforanean</word>
+				<word number="2">circumforaneous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">noctivagrant</word>
+				<word number="2">mundivagrant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">locomotive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wayfaring">
+			<sg number="1">
+				<word number="1">wayfaring</word>
+				<word number="2">wayworn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">travel-stained</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on foot">
+			<sg number="1">
+				<word number="1">on foot</word>
+				<word number="2">on horseback</word>
+				<word number="3">on Shanks's mare</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by the Marrowbone stage</word>
+				<word number="2" paraRef="in transitu" headRef="281">in transitu</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="en route for" headRef="293">en route</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="come along">
+			<sg number="1">
+				<word number="1">come along!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

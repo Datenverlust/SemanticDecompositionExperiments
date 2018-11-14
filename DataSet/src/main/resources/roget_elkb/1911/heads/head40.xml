@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="40" name="Nonaddition" origNum="#38." class="1" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="subtraction">
+			<sg number="1">
+				<word number="1">subtraction</word>
+				<word number="2">subduction!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deduction</word>
+				<word number="2">retrenchment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">removal</word>
+				<word number="2">withdrawal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ablation</word>
+				<word number="2">sublation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="taking" headRef="822">abstraction</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">garbling</word>
+				<word number="2">detruncation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">amputation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">abscission</word>
+				<word number="2">excision</word>
+				<word number="3">recision</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="curtailment" headRef="210">curtailment</word>
+			</sg>
+			<sg number="10">
+				<word number="1">minuend</word>
+				<word number="2">subtrahend</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="decrease" headRef="38">decrease</word>
+			</sg>
+			<sg number="12">
+				<word number="1">abrasion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="subduct">
+			<sg number="1">
+				<word number="1">subduct</word>
+				<word number="2">subtract</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deduct</word>
+				<word number="2">deduce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bate</word>
+				<word number="2">retrench</word>
+			</sg>
+			<sg number="4">
+				<word number="1">remove</word>
+				<word number="2">withdraw</word>
+				<word number="3">take from</word>
+				<word number="4">take away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">detract</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="garble">
+			<sg number="1">
+				<word number="1">garble</word>
+				<word number="2">mutilate</word>
+				<word number="3">amputate</word>
+				<word number="4">detruncate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cut off</word>
+				<word number="2">cut away</word>
+				<word number="3">cut out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abscind</word>
+				<word number="2">excise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pare</word>
+				<word number="2">thin</word>
+				<word number="3">prune</word>
+				<word number="4">decimate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abrade</word>
+				<word number="2">scrape</word>
+				<word number="3">file</word>
+			</sg>
+			<sg number="6">
+				<word number="1">geld</word>
+				<word number="2">castrate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">eliminate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="diminish">
+			<sg number="1">
+				<word number="1" paraRef="diminish" headRef="38">diminish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="shorten" headRef="210">curtail</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="take" headRef="822">deprive of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weaken</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="subtracted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">subtracted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subtractive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in deduction">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in deduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">less</word>
+			</sg>
+			<sg number="3">
+				<word number="1">short of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minus</word>
+				<word number="2">without</word>
+				<word number="3">except</word>
+				<word number="4">except for</word>
+				<word number="5">excepting</word>
+				<word number="6">with the exception of</word>
+				<word number="7">barring</word>
+				<word number="8">save</word>
+				<word number="9">exclusive of</word>
+				<word number="10">save and except</word>
+				<word number="11">with a reservation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not counting</word>
+				<word number="2">if one doesn't count</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

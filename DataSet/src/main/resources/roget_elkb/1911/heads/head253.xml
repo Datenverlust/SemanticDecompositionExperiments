@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="253" name="Distortion" origNum="#243." class="2" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="distortion">
+			<sg number="1">
+				<word number="1">distortion</word>
+				<word number="2">detortion</word>
+				<word number="3">contortion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">twist</word>
+				<word number="2" paraRef="obliquity" headRef="227">crookedness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grimace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deformity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">malformation</word>
+				<word number="2">malconformation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">harelip</word>
+			</sg>
+			<sg number="7">
+				<word number="1">monstrosity</word>
+				<word number="2">misproportion</word>
+				<word number="3">want of symmetry</word>
+				<word number="4">anamorphosis</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ugliness" headRef="884">ugliness</word>
+			</sg>
+			<sg number="9">
+				<word number="1">talipes</word>
+			</sg>
+			<sg number="10">
+				<word number="1">teratology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="asymmetry">
+			<sg number="1">
+				<word number="1">asymmetry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">irregularity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="distort">
+			<sg number="1">
+				<word number="1">distort</word>
+				<word number="2">contort</word>
+				<word number="3">twist</word>
+				<word number="4">warp</word>
+				<word number="5">wrest</word>
+				<word number="6">writhe</word>
+				<word number="7">make faces</word>
+				<word number="8">deform</word>
+				<word number="9">misshape</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="distorted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">distorted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out of shape</word>
+				<word number="2">irregular</word>
+				<word number="3">asymmetric</word>
+				<word number="4">unsymmetric</word>
+				<word number="5">awry</word>
+				<word number="6">wry</word>
+				<word number="7">askew</word>
+				<word number="8">crooked</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not true</word>
+				<word number="2">not straight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on one side</word>
+				<word number="2">crump</word>
+				<word number="3">deformed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">harelipped</word>
+			</sg>
+			<sg number="6">
+				<word number="1">misshapen</word>
+				<word number="2">misbegotten</word>
+			</sg>
+			<sg number="7">
+				<word number="1">misproportioned</word>
+				<word number="2">ill proportioned</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ill-made</word>
+			</sg>
+			<sg number="9">
+				<word number="1">grotesque</word>
+				<word number="2">monstrous</word>
+				<word number="3">crooked as a ram's horn</word>
+			</sg>
+			<sg number="10">
+				<word number="1">camel backed</word>
+				<word number="2">hump backed</word>
+				<word number="3">hunch backed</word>
+				<word number="4">bunch backed</word>
+				<word number="5">crook backed</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bandy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bandy legged</word>
+				<word number="2">bow legged</word>
+			</sg>
+			<sg number="13">
+				<word number="1">bow kneed</word>
+				<word number="2">knock kneed</word>
+			</sg>
+			<sg number="14">
+				<word number="1">splay footed</word>
+				<word number="2">club footed</word>
+			</sg>
+			<sg number="15">
+				<word number="1">round shouldered</word>
+			</sg>
+			<sg number="16">
+				<word number="1">snub nosed</word>
+			</sg>
+			<sg number="17">
+				<word number="1">curtailed of one's fair proportions</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="short" headRef="210">stumpy</word>
+			</sg>
+			<sg number="19">
+				<word number="1" paraRef="thin" headRef="212">gaunt</word>
+			</sg>
+			<sg number="20">
+				<word number="1" paraRef="bloated" headRef="203">bloated</word>
+			</sg>
+			<sg number="21">
+				<word number="1">scalene</word>
+			</sg>
+			<sg number="22">
+				<word number="1">simous</word>
+			</sg>
+			<sg number="23">
+				<word number="1">taliped</word>
+				<word number="2">talipedic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="all manner of ways">
+			<sg number="1">
+				<word number="1">all manner of ways</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="crooked as a Virginia fence [U">
+			<sg number="1">
+				<word number="1">crooked as a Virginia fence</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

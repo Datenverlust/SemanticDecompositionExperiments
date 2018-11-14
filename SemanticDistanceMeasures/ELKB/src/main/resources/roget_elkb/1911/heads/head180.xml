@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="180" name="Violence" origNum="#173." class="1" section="8" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="violence">
+			<sg number="1">
+				<word number="1">violence</word>
+				<word number="2">inclemency</word>
+				<word number="3">vehemence</word>
+				<word number="4">might</word>
+				<word number="5">impetuosity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">boisterousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">effervescence</word>
+				<word number="2">ebullition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turbulence</word>
+				<word number="2">bluster</word>
+			</sg>
+			<sg number="5">
+				<word number="1">uproar</word>
+				<word number="2">callithump</word>
+				<word number="3">riot</word>
+				<word number="4">row</word>
+				<word number="5">rumpus</word>
+				<word number="6">le diable a quatre</word>
+				<word number="7">devil to pay</word>
+				<word number="8">all the fat in the fire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="severity">
+			<sg number="1">
+				<word number="1" paraRef="severity" headRef="770">severity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ferocity</word>
+				<word number="2">rage</word>
+				<word number="3">fury</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exacerbation</word>
+				<word number="2">exasperation</word>
+				<word number="3">malignity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fit</word>
+				<word number="2">paroxysm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">orgasm</word>
+				<word number="2">climax</word>
+				<word number="3">aphrodisia</word>
+			</sg>
+			<sg number="6">
+				<word number="1">force</word>
+				<word number="2">brute force</word>
+			</sg>
+			<sg number="7">
+				<word number="1">outrage</word>
+			</sg>
+			<sg number="8">
+				<word number="1">coup de main</word>
+			</sg>
+			<sg number="9">
+				<word number="1">strain</word>
+				<word number="2">shock</word>
+				<word number="3">shog</word>
+			</sg>
+			<sg number="10">
+				<word number="1">spasm</word>
+				<word number="2">convulsion</word>
+				<word number="3">throe</word>
+			</sg>
+			<sg number="11">
+				<word number="1">hysterics</word>
+				<word number="2" paraRef="state of excitability" headRef="863">passion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="outbreak">
+			<sg number="1">
+				<word number="1">outbreak</word>
+				<word number="2">outburst</word>
+			</sg>
+			<sg number="2">
+				<word number="1">debacle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">burst</word>
+				<word number="2">bounce</word>
+				<word number="3">dissilience</word>
+				<word number="4">discharge</word>
+				<word number="5">volley</word>
+				<word number="6">explosion</word>
+				<word number="7">blow up</word>
+				<word number="8">blast</word>
+				<word number="9">detonation</word>
+				<word number="10">rush</word>
+				<word number="11">eruption</word>
+				<word number="12">displosion</word>
+				<word number="13">torrent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="turmoil">
+			<sg number="1">
+				<word number="1" paraRef="disorder" headRef="62">turmoil</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="agitation" headRef="326">ferment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">storm</word>
+				<word number="2">tempest</word>
+				<word number="3">rough weather</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wind" headRef="360">squall</word>
+			</sg>
+			<sg number="5">
+				<word number="1">earthquake</word>
+				<word number="2">volcano</word>
+				<word number="3">thunderstorm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="berserk">
+			<sg number="1">
+				<word number="1">berserk</word>
+				<word number="2">berserker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fury</word>
+				<word number="2">dragon</word>
+				<word number="3">demon</word>
+				<word number="4">tiger</word>
+				<word number="5">beldame</word>
+				<word number="6">Tisiphone</word>
+				<word number="7">Megaera</word>
+				<word number="8">Alecto</word>
+				<word number="9">madcap</word>
+				<word number="10">wild beast</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="blusterer" headRef="926">fire eater</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be violent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be violent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run high</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ferment</word>
+				<word number="2">effervesce</word>
+			</sg>
+			<sg number="4">
+				<word number="1">romp</word>
+				<word number="2">rampage</word>
+				<word number="3">go on a rampage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">run wild</word>
+				<word number="2">run amuck</word>
+				<word number="3">run riot</word>
+			</sg>
+			<sg number="6">
+				<word number="1">break the peace</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rush</word>
+				<word number="2">tear</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rush headlong</word>
+				<word number="2">rush foremost</word>
+			</sg>
+			<sg number="9">
+				<word number="1">raise a storm</word>
+				<word number="2">make a riot</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rough house*</word>
+			</sg>
+			<sg number="11">
+				<word number="1">riot</word>
+				<word number="2">storm</word>
+			</sg>
+			<sg number="12">
+				<word number="1">wreak</word>
+				<word number="2">bear down</word>
+				<word number="3">ride roughshod</word>
+				<word number="4">out Herod</word>
+				<word number="5">Herod</word>
+			</sg>
+			<sg number="13">
+				<word number="1">spread like wildfire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="explode">
+			<sg number="1">
+				<word number="1">explode</word>
+				<word number="2">make a row</word>
+				<word number="3">kick up a row</word>
+			</sg>
+			<sg number="2">
+				<word number="1">boil</word>
+				<word number="2">boil over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fume</word>
+				<word number="2">foam</word>
+				<word number="3">come on like a lion</word>
+				<word number="4">bluster</word>
+				<word number="5">rage</word>
+				<word number="6">roar</word>
+				<word number="7">fly off the handle</word>
+				<word number="8">go bananas</word>
+				<word number="9">go ape</word>
+				<word number="10">blow one's top</word>
+				<word number="11">blow one's cool</word>
+				<word number="12">flip one's lid</word>
+				<word number="13">hit the ceiling</word>
+				<word number="14">hit the roof</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="anger" headRef="939">fly into a rage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="break out">
+			<sg number="1">
+				<word number="1">break out</word>
+				<word number="2">fly out</word>
+				<word number="3">burst out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bounce</word>
+				<word number="2">explode</word>
+				<word number="3">go off</word>
+				<word number="4">displode</word>
+				<word number="5">fly</word>
+				<word number="6">detonate</word>
+				<word number="7">thunder</word>
+				<word number="8">blow up</word>
+				<word number="9">crump</word>
+				<word number="10">flash</word>
+				<word number="11">flare</word>
+				<word number="12">burst</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shock</word>
+				<word number="2">strain</word>
+			</sg>
+			<sg number="4">
+				<word number="1">break open</word>
+				<word number="2">force open</word>
+				<word number="3">prize open</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="render violent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render violent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharpen</word>
+				<word number="2">stir up</word>
+				<word number="3">quicken</word>
+				<word number="4">excite</word>
+				<word number="5">incite</word>
+				<word number="6">annoy</word>
+				<word number="7">urge</word>
+				<word number="8">lash</word>
+				<word number="9">stimulate</word>
+				<word number="10">turn on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">irritate</word>
+				<word number="2">inflame</word>
+				<word number="3">kindle</word>
+				<word number="4">suscitate</word>
+				<word number="5">foment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accelerate</word>
+				<word number="2">aggravate</word>
+				<word number="3">exasperate</word>
+				<word number="4">exacerbate</word>
+				<word number="5">convulse</word>
+				<word number="6">infuriate</word>
+				<word number="7">madden</word>
+				<word number="8">lash into fury</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fan the flame</word>
+			</sg>
+			<sg number="6">
+				<word number="1">add fuel to the flame</word>
+				<word number="2">pour oil on the fire</word>
+				<word number="3">oleum addere camino</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="explode">
+			<sg number="1">
+				<word number="1">explode</word>
+			</sg>
+			<sg number="2">
+				<word number="1">let fly</word>
+				<word number="2">fly off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discharge</word>
+				<word number="2">detonate</word>
+				<word number="3">set off</word>
+				<word number="4">detonize</word>
+				<word number="5">fulminate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="violent">
+			<sg number="1">
+				<word number="1">violent</word>
+				<word number="2">vehement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">warm</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acute</word>
+				<word number="2">sharp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rough</word>
+				<word number="2">rude</word>
+				<word number="3">ungentle</word>
+				<word number="4">bluff</word>
+				<word number="5">boisterous</word>
+				<word number="6">wild</word>
+			</sg>
+			<sg number="5">
+				<word number="1">brusque</word>
+				<word number="2">abrupt</word>
+				<word number="3">waspish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">impetuous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rampant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="turbulent">
+			<sg number="1">
+				<word number="1">turbulent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disorderly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blustering</word>
+				<word number="2" paraRef="" posRef="v.">raging</word>
+			</sg>
+			<sg number="4">
+				<word number="1">troublous</word>
+				<word number="2">riotous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tumultuary</word>
+				<word number="2">tumultuous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">obstreperous</word>
+				<word number="2">uproarious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">extravagant</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unmitigated</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ravening</word>
+				<word number="2">inextinguishable</word>
+				<word number="3">tameless</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="insane" headRef="527">frenzied</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="desperate">
+			<sg number="1">
+				<word number="1" paraRef="rash" headRef="902">desperate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infuriate</word>
+				<word number="2">furious</word>
+				<word number="3">outrageous</word>
+				<word number="4">frantic</word>
+				<word number="5">hysteric</word>
+				<word number="6">in hysterics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fiery">
+			<sg number="1">
+				<word number="1">fiery</word>
+				<word number="2">flaming</word>
+				<word number="3">scorching</word>
+				<word number="4">hot</word>
+				<word number="5">red-hot</word>
+				<word number="6">ebullient</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="savage">
+			<sg number="1">
+				<word number="1">savage</word>
+				<word number="2">fierce</word>
+				<word number="3">ferocious</word>
+				<word number="4">fierce as a tiger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="excited">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">excited</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unquelled</word>
+				<word number="2">unquenched</word>
+				<word number="3">unextinguished</word>
+				<word number="4">unrepressed</word>
+				<word number="5">unbridled</word>
+				<word number="6">unruly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">headstrong</word>
+				<word number="2">ungovernable</word>
+				<word number="3">unappeasable</word>
+				<word number="4">immitigable</word>
+				<word number="5">unmitigable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uncontrollable</word>
+				<word number="2">incontrollable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">insuppressible</word>
+				<word number="2">irrepressible</word>
+			</sg>
+			<sg number="6">
+				<word number="1">orgastic</word>
+				<word number="2">orgasmatic</word>
+				<word number="3">orgasmic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="spasmodic">
+			<sg number="1">
+				<word number="1">spasmodic</word>
+				<word number="2">convulsive</word>
+				<word number="3">explosive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">detonating</word>
+			</sg>
+			<sg number="3">
+				<word number="1">volcanic</word>
+				<word number="2">meteoric</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wind" headRef="360">stormy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="violently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">violently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by storm</word>
+				<word number="2">by force</word>
+				<word number="3">by main force</word>
+			</sg>
+			<sg number="4">
+				<word number="1">with might and main</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tooth and nail</word>
+				<word number="2">vi et armis</word>
+				<word number="3">at the point of the sword</word>
+				<word number="4">at the point of the bayonet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at one fell swoop</word>
+			</sg>
+			<sg number="7">
+				<word number="1">with a high hand</word>
+				<word number="2">through thick and thin</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in desperation</word>
+				<word number="2">with a vengeance</word>
+			</sg>
+			<sg number="9">
+				<word number="1">a outrance</word>
+				<word number="2">a toute outrance</word>
+			</sg>
+			<sg number="10">
+				<word number="1">headlong</word>
+				<word number="2">head foremost</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="furor arma ministrat">
+			<sg number="1">
+				<word number="1">furor arma ministrat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"blown with restless violence round about the pendent world"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

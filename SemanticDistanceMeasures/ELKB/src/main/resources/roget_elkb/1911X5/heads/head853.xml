@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="853" name="Liberality" origNum="#816." class="7" section="4" subSection="4" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="liberality">
+			<sg number="1">
+				<word number="1">liberality</word>
+				<word number="2">generosity</word>
+				<word number="3">munificence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bounty</word>
+				<word number="2">bounteousness</word>
+				<word number="3">bountifulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hospitality</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="beneficence" headRef="946">charity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be liberal">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be liberal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spend freely</word>
+				<word number="2">bleed freely</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shower down upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disburse" headRef="844">open one's purse strings</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spare no expense</word>
+				<word number="2">give carte blanche</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="liberal">
+			<sg number="1">
+				<word number="1">liberal</word>
+				<word number="2">free</word>
+				<word number="3">generous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="beneficent" headRef="946">charitable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hospitable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bountiful</word>
+				<word number="2">bounteous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">handsome</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unsparing</word>
+				<word number="2">ungrudging</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unselfish</word>
+			</sg>
+			<sg number="8">
+				<word number="1">open handed</word>
+				<word number="2">free handed</word>
+				<word number="3">full handed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">open hearted</word>
+				<word number="2">large hearted</word>
+				<word number="3">free hearted</word>
+			</sg>
+			<sg number="10">
+				<word number="1">munificent</word>
+				<word number="2">princely</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="overpaid">
+			<sg number="1">
+				<word number="1">overpaid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="handsome is that handsome does">
+			<sg number="1">
+				<word number="1">"handsome is that handsome does"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

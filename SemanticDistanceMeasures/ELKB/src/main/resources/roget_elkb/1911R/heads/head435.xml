@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="435" name="Musical Instruments" origNum="#417." class="3" section="3" subSection="2" headGroup="25">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="musical instruments">
+			<sg number="1">
+				<word number="1">musical instruments</word>
+			</sg>
+			<sg number="2">
+				<word number="1">band</word>
+			</sg>
+			<sg number="3">
+				<word number="1">string- band</word>
+				<word number="2">brass-band</word>
+			</sg>
+			<sg number="4">
+				<word number="1">orchestra</word>
+			</sg>
+			<sg number="5">
+				<word number="1">orchestrina</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="monochord">
+			<sg number="1">
+				<word number="1">monochord</word>
+				<word number="2">polychord</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harp</word>
+				<word number="2">lyre</word>
+				<word number="3">lute</word>
+				<word number="4">archlute</word>
+				<word number="5" new="1">geophysicist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mandola</word>
+				<word number="2">mandolin</word>
+				<word number="3">mandoline</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guitar</word>
+			</sg>
+			<sg number="5">
+				<word number="1">zither</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cither</word>
+				<word number="2">cithern</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gittern</word>
+				<word number="2">rebeck</word>
+				<word number="3">bandurria</word>
+				<word number="4">bandura</word>
+				<word number="5">banjo</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bina</word>
+				<word number="2">vina</word>
+			</sg>
+			<sg number="9">
+				<word number="1">xanorphica</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">cartilage</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">rawness</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">supercluster</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">comburendo</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">cubeb</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">limitanei</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">crispness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="viol">
+			<sg number="1">
+				<word number="1">viol</word>
+				<word number="2">violin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fiddle</word>
+				<word number="2">kit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">viola</word>
+				<word number="2">viola d'amore</word>
+				<word number="3">viola di gamba</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenor</word>
+				<word number="2">cremona</word>
+				<word number="3">violoncello</word>
+				<word number="4">bass</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bass viol</word>
+				<word number="2">base viol</word>
+			</sg>
+			<sg number="6">
+				<word number="1">theorbo</word>
+				<word number="2">double base</word>
+				<word number="3">contrabasso</word>
+				<word number="4">violone</word>
+				<word number="5">*psaltery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bow</word>
+				<word number="2">fiddlestick</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">mode</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">sedum</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">torching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="piano">
+			<sg number="1">
+				<word number="1">piano</word>
+				<word number="2">pianoforte</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harpsichord</word>
+				<word number="2">clavichord</word>
+				<word number="3">clarichord</word>
+				<word number="4">manichord</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clavier</word>
+				<word number="2">spinet</word>
+				<word number="3">virginals</word>
+				<word number="4">dulcimer</word>
+				<word number="5">hurdy-gurdy</word>
+				<word number="6">vielle</word>
+				<word number="7">pianino</word>
+				<word number="8">Eolian harp</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">buoyancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="organ">
+			<sg number="1">
+				<word number="1">organ</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harmonium</word>
+				<word number="2">harmoniphon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">American organ</word>
+				<word number="2">barrel organ</word>
+				<word number="3">hand organ</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accordion</word>
+				<word number="2">seraphina</word>
+				<word number="3">concertina</word>
+			</sg>
+			<sg number="5">
+				<word number="1">humming top</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="flute">
+			<sg number="1">
+				<word number="1">flute</word>
+				<word number="2">fife</word>
+				<word number="3">piccolo</word>
+				<word number="4">flageolet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clarinet</word>
+				<word number="2">claronet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">basset horn</word>
+				<word number="2">corno di bassetto</word>
+				<word number="3">oboe</word>
+				<word number="4">hautboy</word>
+				<word number="5">cor Anglais</word>
+				<word number="6">corno Inglese</word>
+				<word number="7">bassoon</word>
+				<word number="8">double bassoon</word>
+				<word number="9">contrafagotto</word>
+				<word number="10">serpent</word>
+				<word number="11">bass clarinet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bagpipes</word>
+				<word number="2">union pipes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">musette</word>
+				<word number="2">ocarina</word>
+				<word number="3">Pandean pipes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reed instrument</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sirene</word>
+				<word number="2">pipe</word>
+				<word number="3">pitch-pipe</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sourdet</word>
+			</sg>
+			<sg number="9">
+				<word number="1">whistle</word>
+				<word number="2">catcall</word>
+			</sg>
+			<sg number="10">
+				<word number="1">doodlesack</word>
+				<word number="2">harmoniphone</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">feminism</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">lysosomes</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">dait</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">misattribution</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">acetazolamide</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">relevance</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">astra</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">bud</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">flume</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">borstal</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">paleoanthropologist</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">primitivist</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">dello</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">suspicion</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">tergites</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">icecap</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">polyuria</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">biomechanics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="horn">
+			<sg number="1">
+				<word number="1">horn</word>
+				<word number="2">bugle</word>
+				<word number="3">cornet</word>
+				<word number="4">cornet-a-pistons</word>
+				<word number="5">cornopean</word>
+				<word number="6">clarion</word>
+				<word number="7">trumpet</word>
+				<word number="8">trombone</word>
+				<word number="9">ophicleide</word>
+				<word number="10" new="1">consonant</word>
+				<word number="11" new="1">ombudsman</word>
+				<word number="12" new="1">lambchop</word>
+				<word number="13" new="1">idiolect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">French horn</word>
+				<word number="2">saxophone</word>
+				<word number="3">sax</word>
+				<word number="4">buglehorn</word>
+				<word number="5">saxhorn</word>
+				<word number="6">flugelhorn</word>
+				<word number="7">althorn</word>
+				<word number="8">helicanhorn</word>
+				<word number="9">posthorn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sackbut</word>
+				<word number="2">euphonium</word>
+				<word number="3">bombardon tuba</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">tinctoria</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">antipyretic</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">plowing</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">briarwood</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">exurban</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">assault</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">marz</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">scourge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="cymbal">
+			<sg number="1">
+				<word number="1">cymbal</word>
+				<word number="2">bell</word>
+				<word number="3">gong</word>
+				<word number="4" new="1">miser</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tambour!</word>
+				<word number="2">tambourine</word>
+				<word number="3">tamborine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drum</word>
+				<word number="2">tom-tom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tabor</word>
+				<word number="2">tabret</word>
+				<word number="3">tabourine</word>
+				<word number="4">taborin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">side drum</word>
+				<word number="2">kettle drum</word>
+			</sg>
+			<sg number="6">
+				<word number="1">timpani</word>
+				<word number="2">tympani</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tymbal</word>
+				<word number="2">timbrel</word>
+				<word number="3">castanet</word>
+				<word number="4">bones</word>
+			</sg>
+			<sg number="8">
+				<word number="1">musical glasses</word>
+				<word number="2">musical stones</word>
+			</sg>
+			<sg number="9">
+				<word number="1">harmonica</word>
+				<word number="2">sounding-board</word>
+				<word number="3">rattle</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tam-tam</word>
+				<word number="2">zambomba</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">dagesh</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">xenotransplantation</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">grin</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">arbitrage</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">insulin</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">publica</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">anesthetic</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">crake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="reed">
+			<sg number="1">
+				<word number="1">reed</word>
+				<word number="2">tuning fork</word>
+				<word number="3">triangle</word>
+				<word number="4">Jew's harp</word>
+				<word number="5">musical box</word>
+				<word number="6">harmonicon</word>
+				<word number="7">xylophone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="sordine">
+			<sg number="1">
+				<word number="1">sordine</word>
+				<word number="2">sordet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sourdine</word>
+				<word number="2">sourdet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mute</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="blueline">
+			<sg number="1">
+				<word number="1" new="1">blueline</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="cynicism">
+			<sg number="1">
+				<word number="1" new="1">cynicism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="clopidogrel">
+			<sg number="1">
+				<word number="1" new="1">clopidogrel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="grandfather">
+			<sg number="1">
+				<word number="1" new="1">grandfather</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="basho">
+			<sg number="1">
+				<word number="1" new="1">basho</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="semi">
+			<sg number="1">
+				<word number="1" new="1">semi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="nonparticipation">
+			<sg number="1">
+				<word number="1" new="1">nonparticipation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="darkest">
+			<sg number="1">
+				<word number="1" new="1">darkest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="kazoku">
+			<sg number="1">
+				<word number="1" new="1">kazoku</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="bad">
+			<sg number="1">
+				<word number="1" new="1">bad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="polytomy">
+			<sg number="1">
+				<word number="1" new="1">polytomy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="otolith">
+			<sg number="1">
+				<word number="1" new="1">otolith</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="largest">
+			<sg number="1">
+				<word number="1" new="1">largest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="regress">
+			<sg number="1">
+				<word number="1" new="1">regress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="aerie">
+			<sg number="1">
+				<word number="1" new="1">aerie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="newspaper">
+			<sg number="1">
+				<word number="1" new="1">newspaper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="activites">
+			<sg number="1">
+				<word number="1" new="1">activites</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="genu">
+			<sg number="1">
+				<word number="1" new="1">genu</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="oculist">
+			<sg number="1">
+				<word number="1" new="1">oculist</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="760" name="Success" origNum="#731." class="6" section="5" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="success">
+			<sg number="1">
+				<word number="1">success</word>
+				<word number="2">successfulness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="progress" headRef="293">advance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trump card">
+			<sg number="1">
+				<word number="1">trump card</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hit</word>
+				<word number="2">stroke</word>
+				<word number="3">score</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lucky hit</word>
+				<word number="2">fortunate hit</word>
+				<word number="3">good hit</word>
+				<word number="4">good stroke</word>
+			</sg>
+			<sg number="4">
+				<word number="1">direct hit</word>
+				<word number="2">bull's eye</word>
+			</sg>
+			<sg number="5">
+				<word number="1">goal</word>
+				<word number="2">point</word>
+				<word number="3">touchdown</word>
+			</sg>
+			<sg number="6">
+				<word number="1">home run</word>
+				<word number="2">homer</word>
+				<word number="3">hole-in-one</word>
+				<word number="4">grand slam</word>
+			</sg>
+			<sg number="7">
+				<word number="1">killing</word>
+				<word number="2">windfall bold stroke</word>
+				<word number="3">master stroke</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ten strike</word>
+			</sg>
+			<sg number="9">
+				<word number="1">coup de maitre</word>
+				<word number="2">checkmate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">half the battle</word>
+				<word number="2">prize</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="acquisition" headRef="807">profit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="continued success">
+			<sg number="1">
+				<word number="1">continued success</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="prosperity" headRef="763">good fortune</word>
+			</sg>
+			<sg number="3">
+				<word number="1">time well spent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="advantage over">
+			<sg number="1">
+				<word number="1">advantage over</word>
+			</sg>
+			<sg number="2">
+				<word number="1">upper hand</word>
+				<word number="2">whip hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ascendancy</word>
+				<word number="2">mastery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">expugnation</word>
+				<word number="2">conquest</word>
+				<word number="3">victory</word>
+				<word number="4">subdual</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="subjection" headRef="780">subjugation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="triumph">
+			<sg number="1">
+				<word number="1" paraRef="exultation" headRef="923">triumph</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="skill" headRef="727">proficiency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="conqueror">
+			<sg number="1">
+				<word number="1">conqueror</word>
+				<word number="2">victor</word>
+				<word number="3">winner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">master of the situation</word>
+				<word number="2">master of the position</word>
+				<word number="3">top of the heap</word>
+				<word number="4">king of the hill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">achiever</word>
+				<word number="2">success</word>
+				<word number="3">success story</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="handymen">
+			<sg number="1">
+				<word number="1" new="1">handymen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="succeed">
+			<sg number="1">
+				<word number="1">succeed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be successful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gain one's end</word>
+				<word number="2">gain one's ends</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crown with success</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gain a point">
+			<sg number="1">
+				<word number="1">gain a point</word>
+				<word number="2">attain a point</word>
+				<word number="3">carry a point</word>
+				<word number="4">secure a point</word>
+				<word number="5">win a point</word>
+				<word number="6">win an object</word>
+			</sg>
+			<sg number="2">
+				<word number="1">get there *</word>
+			</sg>
+			<sg number="3">
+				<word number="1">manage to</word>
+				<word number="2">contrive to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="complete" headRef="758">accomplish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">do wonders</word>
+				<word number="2">work wonders</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make a go of it</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="come off well">
+			<sg number="1">
+				<word number="1">come off well</word>
+				<word number="2">come off successful</word>
+				<word number="3">come off with flying colors</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make short work of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take by storm</word>
+				<word number="2">carry by storm</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bear away the bell</word>
+			</sg>
+			<sg number="5">
+				<word number="1">win one's wings</word>
+				<word number="2">win one's spurs</word>
+				<word number="3">win the battle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">win the day</word>
+				<word number="2">carry the day</word>
+				<word number="3">gain the day</word>
+				<word number="4">gain the prize</word>
+				<word number="5">gain the palm</word>
+			</sg>
+			<sg number="7">
+				<word number="1">have the best of it</word>
+				<word number="2">have it all one's own way</word>
+				<word number="3">have the game in one's owns hands</word>
+				<word number="4">have the ball at one's feet</word>
+				<word number="5">have one on the hop</word>
+			</sg>
+			<sg number="8">
+				<word number="1">walk over the course</word>
+			</sg>
+			<sg number="9">
+				<word number="1">carry all before one</word>
+				<word number="2">remain in possession of the field</word>
+			</sg>
+			<sg number="10">
+				<word number="1">score a success</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="speed">
+			<sg number="1">
+				<word number="1">speed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="advance" headRef="293">make progress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">win one's way</word>
+				<word number="2">make one's way</word>
+				<word number="3">work one's way</word>
+				<word number="4">find one's way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strive to some purpose</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="prosper" headRef="763">prosper</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drive a roaring trade</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="acquire" headRef="807">make profit</word>
+			</sg>
+			<sg number="8">
+				<word number="1">reap the fruits</word>
+				<word number="2">gather the fruits</word>
+				<word number="3">reap the benefit of</word>
+				<word number="4">reap the harvest</word>
+			</sg>
+			<sg number="9">
+				<word number="1">strike oil *</word>
+				<word number="2">gain a windfall</word>
+			</sg>
+			<sg number="10">
+				<word number="1">make one's fortune</word>
+				<word number="2">get in the harvest</word>
+				<word number="3">turn to good account</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="use" headRef="706">turn to account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="triumph">
+			<sg number="1">
+				<word number="1">triumph</word>
+				<word number="2">be triumphant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gain a victory</word>
+				<word number="2">obtain a victory</word>
+				<word number="3">gain an advantage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chain victory to one's car</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nail a coonskin to the wall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="surmount a difficulty">
+			<sg number="1">
+				<word number="1">surmount a difficulty</word>
+				<word number="2">overcome a difficulty</word>
+				<word number="3">get over a difficulty</word>
+				<word number="4" paraRef="obstacle" headRef="735">get over an obstacle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">se tirer d'affaire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make head against</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stem the torrent</word>
+				<word number="2">stem the tide</word>
+				<word number="3">stem the current</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weather the storm</word>
+				<word number="2">weather a point</word>
+			</sg>
+			<sg number="6">
+				<word number="1">turn a corner</word>
+				<word number="2">keep one's head above water</word>
+				<word number="3">tide over</word>
+			</sg>
+			<sg number="7">
+				<word number="1">master</word>
+			</sg>
+			<sg number="8">
+				<word number="1">get the better of</word>
+				<word number="2">have the better of</word>
+				<word number="3">gain the better of</word>
+				<word number="4">gain the best of</word>
+				<word number="5">gain the upper hand</word>
+				<word number="6">gain the ascendancy</word>
+				<word number="7">gain the whip hand</word>
+				<word number="8">gain the start of</word>
+			</sg>
+			<sg number="9">
+				<word number="1">distance</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="superiority" headRef="35">surpass</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="defeat">
+			<sg number="1">
+				<word number="1">defeat</word>
+				<word number="2">conquer</word>
+				<word number="3">vanquish</word>
+				<word number="4">discomfit</word>
+				<word number="5" new="1">reimburse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">euchre</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overcome</word>
+				<word number="2">overthrow</word>
+				<word number="3">overpower</word>
+				<word number="4">overmaster</word>
+				<word number="5">overmatch</word>
+				<word number="6">overset</word>
+				<word number="7">override</word>
+				<word number="8">overreach</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outwit</word>
+				<word number="2">outdo</word>
+				<word number="3">outflank</word>
+				<word number="4">outmaneuver</word>
+				<word number="5">outgeneral</word>
+				<word number="6">outvote</word>
+				<word number="7" new="1">hospitalize</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take the wind out of one's adversary's sails</word>
+			</sg>
+			<sg number="6">
+				<word number="1">beat</word>
+				<word number="2">beat hollow</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rout</word>
+				<word number="2">lick</word>
+				<word number="3">drub</word>
+				<word number="4">floor</word>
+				<word number="5">worst</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put down</word>
+				<word number="2">put to flight</word>
+				<word number="3">put to the rout</word>
+				<word number="4">put hors de combat</word>
+				<word number="5">put out of court</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">coproduce</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">riddle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="silence">
+			<sg number="1">
+				<word number="1">silence</word>
+				<word number="2">quell</word>
+				<word number="3">nonsuit</word>
+				<word number="4">checkmate</word>
+				<word number="5">upset</word>
+				<word number="6">confound</word>
+				<word number="7">nonplus</word>
+				<word number="8">stalemate</word>
+				<word number="9">trump</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="hinder" headRef="735">baffle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">circumvent</word>
+				<word number="2">elude</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trip up</word>
+				<word number="2">trip up the heels of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">drive into a corner</word>
+				<word number="2">drive to the wall</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run hard</word>
+				<word number="2">put one's nose out of joint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="settle">
+			<sg number="1">
+				<word number="1">settle</word>
+				<word number="2">do for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break the neck of</word>
+				<word number="2">break the back of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capsize</word>
+				<word number="2">sink</word>
+				<word number="3">shipwreck</word>
+				<word number="4">drown</word>
+				<word number="5">swamp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subdue</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="subject" headRef="780">subjugate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reduce</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make the enemy bite the dust</word>
+			</sg>
+			<sg number="8">
+				<word number="1">victimize</word>
+				<word number="2">roll in the dust</word>
+				<word number="3">trample under foot</word>
+				<word number="4">put an extinguisher upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="answer">
+			<sg number="1">
+				<word number="1">answer</word>
+				<word number="2">answer the purpose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">avail</word>
+				<word number="2">prevail</word>
+				<word number="3">take effect</word>
+				<word number="4">do</word>
+				<word number="5">turn out well</word>
+				<word number="6">work well</word>
+				<word number="7">take</word>
+				<word number="8">tell</word>
+				<word number="9">bear fruit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hit it</word>
+				<word number="2">hit the mark</word>
+				<word number="3">hit the right nail on the head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nick it</word>
+			</sg>
+			<sg number="5">
+				<word number="1">turn up trumps</word>
+				<word number="2">make a hit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">find one's account in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="succeeding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">succeeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">successful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="prosperous" headRef="763">prosperous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">triumphant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flushed with success</word>
+				<word number="2">crowned with success</word>
+			</sg>
+			<sg number="6">
+				<word number="1">victorious</word>
+				<word number="2">on top</word>
+			</sg>
+			<sg number="7">
+				<word number="1">set up</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in the ascendant</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">unbeaten</word>
+			</sg>
+			<sg number="10">
+				<word number="1">well-spent</word>
+			</sg>
+			<sg number="11">
+				<word number="1">felicitous</word>
+				<word number="2">effective</word>
+				<word number="3">in full swing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="successfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">successfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1">well flying colors</word>
+				<word number="2">in triumph</word>
+				<word number="3">swimmingly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a merveille</word>
+				<word number="2">beyond all hope</word>
+			</sg>
+			<sg number="4">
+				<word number="1">to some purpose</word>
+				<word number="2">to good purpose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">to one's heart's content</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="veni vidi vici">
+			<sg number="1">
+				<word number="1">veni vidi vici</word>
+				<word number="2">the day being one's own</word>
+				<word number="3">one's star in the ascendant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">omne tulit punctum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bis vincit qui se vincit in victoria">
+			<sg number="1">
+				<word number="1">bis vincit qui se vincit in victoria</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cede repugnanti cedendo victor abibis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chacun est l'artisan de sa fortune</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dies faustus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">l'art de vaincre est celui de mepriser la mort</word>
+			</sg>
+			<sg number="6">
+				<word number="1">omnia vincit amor</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"peace hath her victories no less renowned than war"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"the race by vigor not by vaunts is won"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">vincit qui patitur</word>
+			</sg>
+			<sg number="10">
+				<word number="1">vincit qui se vincit</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"The race is not always to the swift</word>
+				<word number="2">nor the battle to the strong</word>
+				<word number="3">but that's the way to bet"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

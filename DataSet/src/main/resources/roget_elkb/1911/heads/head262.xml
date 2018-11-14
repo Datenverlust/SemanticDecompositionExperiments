@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="262" name="Concavity" origNum="#252." class="2" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="concavity">
+			<sg number="1">
+				<word number="1">concavity</word>
+				<word number="2">depression</word>
+				<word number="3">dip</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hollow</word>
+				<word number="2">hollowness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">indentation</word>
+				<word number="2">intaglio</word>
+				<word number="3">cavity</word>
+				<word number="4">dent</word>
+				<word number="5">dint</word>
+				<word number="6">dimple</word>
+				<word number="7">follicle</word>
+				<word number="8">pit</word>
+				<word number="9">sinus</word>
+				<word number="10">alveolus</word>
+				<word number="11">lacuna</word>
+			</sg>
+			<sg number="4">
+				<word number="1">excavation</word>
+				<word number="2">strip mine</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="furrow" headRef="270">trough</word>
+			</sg>
+			<sg number="6">
+				<word number="1">honeycomb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cup">
+			<sg number="1">
+				<word number="1">cup</word>
+				<word number="2">basin</word>
+				<word number="3">crater</word>
+				<word number="4">punch bowl</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="receptacle" headRef="200">cell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">socket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="valley">
+			<sg number="1">
+				<word number="1">valley</word>
+				<word number="2">vale</word>
+				<word number="3">dale</word>
+				<word number="4">dell</word>
+				<word number="5">dingle</word>
+				<word number="6">combe</word>
+				<word number="7">bottom</word>
+				<word number="8">slade</word>
+				<word number="9">strath</word>
+				<word number="10">glade</word>
+				<word number="11">grove</word>
+				<word number="12">glen</word>
+				<word number="13">cave</word>
+				<word number="14">cavern</word>
+				<word number="15">cove</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grot</word>
+				<word number="2">grotto</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alcove</word>
+				<word number="2">cul-de-sac</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="gully" headRef="207">gully</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="curve" headRef="255">arch</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="arm of the sea" headRef="354">bay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="excavator">
+			<sg number="1">
+				<word number="1">excavator</word>
+				<word number="2">sapper</word>
+				<word number="3">miner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="honeycomb">
+			<sg number="1">
+				<word number="1" paraRef="sponge" headRef="263">honeycomb</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be concave">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be concave</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retire</word>
+				<word number="2">cave in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render concave">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render concave</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depress</word>
+				<word number="2">hollow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scoop</word>
+				<word number="2">scoop out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gouge</word>
+				<word number="2">gouge out</word>
+				<word number="3">dig</word>
+				<word number="4">delve</word>
+				<word number="5">excavate</word>
+				<word number="6">dent</word>
+				<word number="7">dint</word>
+				<word number="8">mine</word>
+				<word number="9">sap</word>
+				<word number="10">undermine</word>
+				<word number="11">burrow</word>
+				<word number="12">tunnel</word>
+				<word number="13">stave in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="depressed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">depressed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alveolate</word>
+				<word number="2">calathiform</word>
+				<word number="3">cup-shaped</word>
+				<word number="4">dishing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">favaginous</word>
+				<word number="2">faveolate</word>
+				<word number="3">favose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scyphiform</word>
+				<word number="2">scyphose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">concave</word>
+				<word number="2">hollow</word>
+				<word number="3">stove in</word>
+			</sg>
+			<sg number="6">
+				<word number="1">retiring</word>
+			</sg>
+			<sg number="7">
+				<word number="1">retreating</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cavernous</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="hole" headRef="271">porous</word>
+			</sg>
+			<sg number="10">
+				<word number="1">infundibul</word>
+				<word number="2">infundibular</word>
+				<word number="3">infundibuliform</word>
+			</sg>
+			<sg number="11">
+				<word number="1">funnel shaped</word>
+				<word number="2">bell shaped</word>
+			</sg>
+			<sg number="12">
+				<word number="1">campaniform</word>
+				<word number="2">capsular</word>
+			</sg>
+			<sg number="13">
+				<word number="1">vaulted</word>
+				<word number="2">arched</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

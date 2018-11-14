@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="645" name="Dissuasion" origNum="#616." class="6" section="1" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dissuasion">
+			<sg number="1">
+				<word number="1">dissuasion</word>
+				<word number="2">dehortation</word>
+				<word number="3">expostulation</word>
+				<word number="4">remonstrance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="deprecation" headRef="797">deprecation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="discouragement">
+			<sg number="1">
+				<word number="1">discouragement</word>
+				<word number="2">damper</word>
+				<word number="3">wet blanket</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disillusionment</word>
+				<word number="2">disenchantment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cohibition">
+			<sg number="1">
+				<word number="1" paraRef="restraint" headRef="782">cohibition</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="means of restraint" headRef="783">curb</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hindrance" headRef="735">check</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="reluctance">
+			<sg number="1">
+				<word number="1" paraRef="unwillingness" headRef="629">reluctance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contraindication</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="dissuade">
+			<sg number="1">
+				<word number="1">dissuade</word>
+				<word number="2">dehort</word>
+				<word number="3">cry out against</word>
+				<word number="4">remonstrate</word>
+				<word number="5">expostulate</word>
+				<word number="6">warn</word>
+				<word number="7">contraindicate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disincline">
+			<sg number="1">
+				<word number="1">disincline</word>
+				<word number="2">indispose</word>
+				<word number="3">shake</word>
+				<word number="4">stagger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dispirit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discourage</word>
+				<word number="2">dishearten</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">repress</word>
+				<word number="2">hold back</word>
+				<word number="3" paraRef="restrain" headRef="782">keep back</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="averse" headRef="629">render averse</word>
+			</sg>
+			<sg number="7">
+				<word number="1">repel</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="deviation" headRef="290">turn aside</word>
+			</sg>
+			<sg number="9">
+				<word number="1">wean from</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="hinder" headRef="735">act as a drag</word>
+			</sg>
+			<sg number="11">
+				<word number="1">throw cold water on</word>
+				<word number="2">damp</word>
+				<word number="3">cool</word>
+				<word number="4">chill</word>
+				<word number="5">blunt</word>
+				<word number="6">calm</word>
+				<word number="7">quiet</word>
+				<word number="8">quench</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="deprecate" headRef="797">deprecate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="disenchant">
+			<sg number="1">
+				<word number="1">disenchant</word>
+				<word number="2">disillusion</word>
+				<word number="3">deflate</word>
+				<word number="4">take down a peg</word>
+				<word number="5">pop one's balloon</word>
+				<word number="6">prick one's balloon</word>
+				<word number="7">burst one's bubble</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="correction" headRef="553">disabuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dissuading">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">dissuading</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissuasive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dehortatory</word>
+				<word number="2">expostulatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">monitive</word>
+				<word number="2">monitory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dissuaded">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">dissuaded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">admonitory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="induce" headRef="643">uninduced</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="obstinate" headRef="633">unpersuadable</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unwilling" headRef="629">averse</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="dislike" headRef="906">repugnant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="repressed">
+			<sg number="1">
+				<word number="1">repressed</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

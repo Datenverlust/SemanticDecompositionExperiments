@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1021" name="Satan" origNum="#978." class="8" section="5" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="Satan">
+			<sg number="1">
+				<word number="1">Satan</word>
+				<word number="2">the Devil</word>
+				<word number="3">Lucifer</word>
+				<word number="4">Mephistopheles</word>
+				<word number="5">Ahriman</word>
+				<word number="6">Belial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Samael</word>
+				<word number="2">Zamiel</word>
+				<word number="3">Beelzebub</word>
+				<word number="4">the Prince of the Devils</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="the tempter">
+			<sg number="1">
+				<word number="1">the tempter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the evil one</word>
+				<word number="2">the evil spirit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the Adversary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the archenemy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the author of evil</word>
+				<word number="2">the wicked one</word>
+				<word number="3">the old Serpent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">the Prince of darkness</word>
+				<word number="2">the Prince of this world</word>
+				<word number="3">the Prince of the power of the air</word>
+			</sg>
+			<sg number="7">
+				<word number="1">the foul fiend</word>
+				<word number="2">the arch fiend</word>
+			</sg>
+			<sg number="8">
+				<word number="1">the devil incarnate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">the  common enemy</word>
+				<word number="2">the angel of the bottomless pit</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Abaddon</word>
+				<word number="2">Apollyon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fallen angels">
+			<sg number="1">
+				<word number="1">fallen angels</word>
+				<word number="2">unclean spirits</word>
+				<word number="3">devils</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the rulers</word>
+				<word number="2">the powers of darkness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inhabitants of Pandemonium</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="demon" headRef="1023">demon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="diabolism">
+			<sg number="1">
+				<word number="1">diabolism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">devilism</word>
+				<word number="2">devilship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diabolology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">satanism</word>
+				<word number="2">devil worship</word>
+			</sg>
+			<sg number="5">
+				<word number="1">manicheism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">the cloven foot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="satanic">
+			<sg number="1">
+				<word number="1">satanic</word>
+				<word number="2">diabolic</word>
+				<word number="3">devilish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infernal</word>
+				<word number="2">hellborn</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

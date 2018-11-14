@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="882" name="Humorist" origNum="#844." class="8" section="2" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="humorist">
+			<sg number="1">
+				<word number="1">humorist</word>
+				<word number="2">wag</word>
+				<word number="3">wit</word>
+				<word number="4">reparteeist</word>
+				<word number="5">epigrammatist</word>
+				<word number="6">punster</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bel esprit</word>
+				<word number="2">life of the party</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wit-snapper</word>
+				<word number="2">wit- cracker</word>
+				<word number="3">wit-worm</word>
+			</sg>
+			<sg number="4">
+				<word number="1">joker</word>
+				<word number="2">jester</word>
+				<word number="3">Joe Miller!</word>
+				<word number="4">drole de corps</word>
+				<word number="5">gaillard</word>
+				<word number="6">spark</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bon diable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">practical joker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="buffoon">
+			<sg number="1">
+				<word number="1">buffoon</word>
+				<word number="2">farceur</word>
+				<word number="3">merry-andrew</word>
+				<word number="4">mime</word>
+				<word number="5">tumbler</word>
+				<word number="6">acrobat</word>
+				<word number="7">mountebank</word>
+				<word number="8">charlatan</word>
+				<word number="9">posturemaster</word>
+				<word number="10">harlequin</word>
+				<word number="11">punch</word>
+				<word number="12">pulcinella</word>
+				<word number="13">scaramouch</word>
+				<word number="14">clown</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wearer of the cap and bells</word>
+				<word number="2">wearer of the motley</word>
+			</sg>
+			<sg number="3">
+				<word number="1">motley fool</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pantaloon</word>
+				<word number="2">gypsy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jack-pudding</word>
+				<word number="2">jack in the green</word>
+				<word number="3">jack a dandy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wiseacre</word>
+				<word number="2">wise guy</word>
+				<word number="3">smartass</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="fool" headRef="525">fool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="zany">
+			<sg number="1">
+				<word number="1">zany</word>
+				<word number="2">madcap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pickle-herring</word>
+				<word number="2">witling</word>
+				<word number="3">caricaturist</word>
+				<word number="4">grimacier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">persifleur</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="196" name="Absence" origNum="#187." class="2" section="1" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="absence">
+			<sg number="1">
+				<word number="1">absence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inexistence" headRef="2">inexistence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nonresidence</word>
+				<word number="2">absenteeism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nonattendance</word>
+				<word number="2">alibi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="emptiness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">emptiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">void</word>
+				<word number="2">vacuum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vacuity</word>
+				<word number="2">vacancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tabula rasa</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exemption</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="interval" headRef="207">hiatus</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lipotype!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="truant">
+			<sg number="1">
+				<word number="1">truant</word>
+				<word number="2">absentee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="nobody">
+			<sg number="1">
+				<word number="1">nobody</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nobody present</word>
+				<word number="2">nobody on earth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not a soul</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ame qui vive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be absent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be absent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep away</word>
+				<word number="2">keep out of the way</word>
+			</sg>
+			<sg number="3">
+				<word number="1">play truant</word>
+				<word number="2">absent oneself</word>
+				<word number="3">stay away</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep aloof</word>
+				<word number="2">hold aloof</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="withdraw">
+			<sg number="1">
+				<word number="1">withdraw</word>
+				<word number="2">make oneself scarce</word>
+				<word number="3">vacate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="go away" headRef="304">go away</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="absent">
+			<sg number="1">
+				<word number="1">absent</word>
+				<word number="2">not present</word>
+				<word number="3">away</word>
+				<word number="4">nonresident</word>
+				<word number="5">gone</word>
+				<word number="6">from home</word>
+			</sg>
+			<sg number="2">
+				<word number="1">missing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lost</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wanting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">omitted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nowhere to be found</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="inexistence" headRef="2">inexistence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="empty">
+			<sg number="1">
+				<word number="1">empty</word>
+				<word number="2">void</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vacant</word>
+				<word number="2">vacuous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">untenanted</word>
+				<word number="2">unoccupied</word>
+				<word number="3">uninhabited</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenantless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">barren</word>
+				<word number="2">sterile</word>
+			</sg>
+			<sg number="6">
+				<word number="1">desert</word>
+				<word number="2">deserted</word>
+			</sg>
+			<sg number="7">
+				<word number="1">devoid</word>
+			</sg>
+			<sg number="8">
+				<word number="1">uninhabitable</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">hydrous</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">exogenously</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="without">
+			<sg number="1">
+				<word number="1">without</word>
+				<word number="2">minus</word>
+				<word number="3">nowhere</word>
+			</sg>
+			<sg number="2">
+				<word number="1">elsewhere</word>
+			</sg>
+			<sg number="3">
+				<word number="1">neither here nor there</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in default of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sans</word>
+			</sg>
+			<sg number="6">
+				<word number="1">behind one's back</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the bird has flown">
+			<sg number="1">
+				<word number="1">the bird has flown</word>
+				<word number="2">non est inventus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="absence makes the heart grow fonder">
+			<sg number="1">
+				<word number="1">"absence makes the heart grow fonder"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"absent in body but present in spirit"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">absento nemo ne nocuisse velit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"Achilles absent was Achilles still"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aux absents les os</word>
+			</sg>
+			<sg number="6">
+				<word number="1">briller par son absence</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"conspicuous by his absence"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"in the hope to meet shortly again and make our absence sweet"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

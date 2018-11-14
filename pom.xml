@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>NaturalSemanticMetalanguage</artifactId>
+        <groupId>de.dailab.NSM</groupId>
+        <version>0.2-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+
+    <groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>
+    <artifactId>Experiments</artifactId>
+
+    <modules>
+        <module>SentenceSenseDisambiguation</module>
+        <module>SentenceSemanticSimilarityMeasure</module>
+        <module>SemanticDistanceMeasures</module>
+        <module>ParameterLearner</module>
+        <module>WordSenseDisambiguation</module>
+        <module>Reasoning</module>
+        <module>TopicSimilarityDocumentRetrieval</module>
+        <module>AbductiveReasoning</module>
+        <module>AiChallenge</module>
+    </modules>
+
+
+
+
+</project>

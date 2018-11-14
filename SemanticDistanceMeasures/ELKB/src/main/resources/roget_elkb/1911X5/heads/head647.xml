@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="647" name="Good" origNum="#618." class="6" section="1" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="good">
+			<sg number="1">
+				<word number="1">good</word>
+				<word number="2">benefit</word>
+				<word number="3">advantage</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="improvement" headRef="687">improvement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">greatest good</word>
+				<word number="2">supreme good</word>
+			</sg>
+			<sg number="4">
+				<word number="1">interest</word>
+				<word number="2">service</word>
+				<word number="3">behoof</word>
+				<word number="4">behalf</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">main chance</word>
+				<word number="2">summum bonum</word>
+				<word number="3">common weal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"consummation devoutly to be wished"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gain</word>
+				<word number="2">boot</word>
+			</sg>
+			<sg number="9">
+				<word number="1">profit</word>
+				<word number="2">harvest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="boon">
+			<sg number="1">
+				<word number="1" paraRef="gift" headRef="817">boon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good turn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blessing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">world of good</word>
+			</sg>
+			<sg number="5">
+				<word number="1">piece of good luck</word>
+				<word number="2">piece of good fortune</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nuts</word>
+				<word number="2">prize</word>
+				<word number="3">windfall</word>
+				<word number="4">godsend</word>
+				<word number="5">waif</word>
+				<word number="6">treasure-trove</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="good fortune">
+			<sg number="1">
+				<word number="1" paraRef="prosperity" headRef="763">good fortune</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="happiness" headRef="865">happiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="goodness">
+			<sg number="1">
+				<word number="1" paraRef="goodness" headRef="677">goodness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="utility" headRef="673">utility</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="remedy" headRef="691">remedy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pleasure giving" headRef="867">pleasure giving</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="commendable">
+			<sg number="1">
+				<word number="1" paraRef="commendable" headRef="973">commendable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="useful" headRef="673">useful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="beneficial" headRef="677">good</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="well">
+			<sg number="1">
+				<word number="1">well</word>
+				<word number="2">aright</word>
+				<word number="3">satisfactorily</word>
+				<word number="4">favorably</word>
+				<word number="5">not amis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">all for the best</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">to one's advantage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in one's favor</word>
+				<word number="2" paraRef="" posRef="n.">in one's interest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="so far so good">
+			<sg number="1">
+				<word number="1">so far so good</word>
+			</sg>
+			<sg number="2">
+				<word number="1">magnum bonum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

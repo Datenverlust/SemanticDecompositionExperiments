@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="187" name="Counteraction" origNum="#179." class="1" section="8" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="counteraction">
+			<sg number="1">
+				<word number="1">counteraction</word>
+				<word number="2">opposition</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contrariety" headRef="14">contrariety</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antagonism</word>
+				<word number="2">polarity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">clashing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">collision</word>
+				<word number="2">interference</word>
+				<word number="3">inhibition</word>
+				<word number="4">resistance</word>
+				<word number="5">renitency</word>
+				<word number="6">friction</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reaction</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="recoil" headRef="288">retroaction</word>
+			</sg>
+			<sg number="8">
+				<word number="1">counterblast</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="compensation" headRef="32">neutralization</word>
+			</sg>
+			<sg number="10">
+				<word number="1">vis inertiae</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="hindrance" headRef="735">check</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="voluntary opposition">
+			<sg number="1">
+				<word number="1" paraRef="opposition" headRef="737">voluntary opposition</word>
+				<word number="2" paraRef="resistance" headRef="748">voluntary resistance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restraint" headRef="782">repression</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="opposites">
+			<sg number="1">
+				<word number="1">opposites</word>
+				<word number="2">action and reaction</word>
+				<word number="3">yang and yin</word>
+				<word number="4" paraRef="contrariety" headRef="14">yang-yin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="counteract">
+			<sg number="1">
+				<word number="1">counteract</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run counter</word>
+				<word number="2">clash</word>
+				<word number="3">cross</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interfere with</word>
+				<word number="2">conflict with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contravene</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jostle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">go against</word>
+				<word number="2">run against</word>
+				<word number="3">beat against</word>
+				<word number="4">militate against</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stultify</word>
+			</sg>
+			<sg number="8">
+				<word number="1">antagonize</word>
+				<word number="2">block</word>
+				<word number="3" paraRef="oppose" headRef="737">oppose</word>
+			</sg>
+			<sg number="9">
+				<word number="1">traverse</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="resist" headRef="748">withstand</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="hinder" headRef="735">hinder</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="restrain" headRef="782">repress</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="recoil" headRef="288">react</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="undo">
+			<sg number="1">
+				<word number="1">undo</word>
+				<word number="2">neutralize</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="compensate" headRef="32">counterpoise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overpoise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="counteracting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">counteracting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">antagonistic</word>
+				<word number="2">conflicting</word>
+				<word number="3">retroactive</word>
+				<word number="4">renitent</word>
+				<word number="5">reactionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contrary" headRef="14">contrary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="although">
+			<sg number="1">
+				<word number="1" paraRef="although" headRef="32">although</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="in spite" headRef="737">in spite of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">against</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="for every action there is a reaction">
+			<sg number="1">
+				<word number="1">"for every action there is a reaction</word>
+				<word number="2">equal in force and opposite in direction"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

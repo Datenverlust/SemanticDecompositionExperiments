@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="65" name="Derangement" origNum="#61." class="1" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="derangement">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">derangement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disorder" headRef="62">disorder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evection</word>
+				<word number="2">discomposure</word>
+				<word number="3">disturbance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disorganization</word>
+				<word number="2">deorganization</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dislocation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perturbation</word>
+				<word number="2">interruption</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">shuffling</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="inversion" headRef="228">inversion</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="fold" headRef="269">corrugation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">involvement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="interchange">
+			<sg number="1">
+				<word number="1" paraRef="interchange" headRef="155">interchange</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="derange">
+			<sg number="1">
+				<word number="1">derange</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disarrange</word>
+				<word number="2">misarrange</word>
+			</sg>
+			<sg number="3">
+				<word number="1">displace</word>
+				<word number="2">misplace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mislay</word>
+				<word number="2">discompose</word>
+				<word number="3">disorder</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deorganize</word>
+				<word number="2">discombobulate</word>
+				<word number="3">disorganize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">embroil</word>
+				<word number="2">unsettle</word>
+				<word number="3">disturb</word>
+				<word number="4">confuse</word>
+				<word number="5">trouble</word>
+				<word number="6">perturb</word>
+				<word number="7">jumble</word>
+				<word number="8">tumble</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shuffle</word>
+				<word number="2">randomize</word>
+			</sg>
+			<sg number="8">
+				<word number="1">huddle</word>
+				<word number="2">muddle</word>
+				<word number="3">toss</word>
+				<word number="4">hustle</word>
+				<word number="5">fumble</word>
+				<word number="6">riot</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bring into disorder</word>
+				<word number="2">put into disorder</word>
+				<word number="3" paraRef="disorder" headRef="62">throw into disorder</word>
+			</sg>
+			<sg number="10">
+				<word number="1">muss</word>
+			</sg>
+			<sg number="11">
+				<word number="1">break the ranks</word>
+				<word number="2">disconcert</word>
+				<word number="3">convulse</word>
+			</sg>
+			<sg number="12">
+				<word number="1">break in upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unhinge">
+			<sg number="1">
+				<word number="1">unhinge</word>
+				<word number="2">dislocate</word>
+				<word number="3">put out of joint</word>
+				<word number="4">throw out of gear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="turn topsy-turvy">
+			<sg number="1">
+				<word number="1" paraRef="invert" headRef="228">turn topsy-turvy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bedevil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">complicate</word>
+				<word number="2">involve</word>
+				<word number="3">perplex</word>
+				<word number="4">confound</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imbrangle</word>
+				<word number="2">embrangle</word>
+				<word number="3">tangle</word>
+				<word number="4">entangle</word>
+				<word number="5">ravel</word>
+				<word number="6">tousle</word>
+				<word number="7">towzle</word>
+				<word number="8">dishevel</word>
+				<word number="9">ruffle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fold" headRef="269">rumple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="litter">
+			<sg number="1">
+				<word number="1">litter</word>
+				<word number="2">scatter</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mix" headRef="44">mix</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="rearrange">
+			<sg number="1">
+				<word number="1" paraRef="rearrange" headRef="155">rearrange</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="deranged">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">deranged</word>
+			</sg>
+			<sg number="2">
+				<word number="1">syncretic</word>
+				<word number="2">syncretistic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mussy</word>
+				<word number="2">messy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flaky</word>
+			</sg>
+			<sg number="5">
+				<word number="1">random</word>
+				<word number="2">unordered</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

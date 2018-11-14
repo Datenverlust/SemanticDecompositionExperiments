@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="795" name="Refusal" origNum="#764." class="7" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="refusal">
+			<sg number="1">
+				<word number="1">refusal</word>
+				<word number="2">rejection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">noncompliance</word>
+				<word number="2">incompliance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">denial</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">declining</word>
+			</sg>
+			<sg number="5">
+				<word number="1">declension</word>
+			</sg>
+			<sg number="6">
+				<word number="1">declinature</word>
+			</sg>
+			<sg number="7">
+				<word number="1">peremptory refusal</word>
+				<word number="2">flat refusal</word>
+				<word number="3">point blank refusal</word>
+			</sg>
+			<sg number="8">
+				<word number="1">repulse</word>
+				<word number="2">rebuff</word>
+			</sg>
+			<sg number="9">
+				<word number="1">discountenance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recusancy">
+			<sg number="1">
+				<word number="1">recusancy</word>
+				<word number="2">abnegation</word>
+				<word number="3">protest</word>
+				<word number="4">disclaimer</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dissent" headRef="513">dissent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="revocation" headRef="787">revocation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="refuse">
+			<sg number="1">
+				<word number="1">refuse</word>
+				<word number="2">reject</word>
+				<word number="3">deny</word>
+				<word number="4">decline</word>
+				<word number="5">turn down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nill</word>
+				<word number="2">negative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">refuse one's assent</word>
+				<word number="2">withhold one's assent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shake the head</word>
+			</sg>
+			<sg number="5">
+				<word number="1">close the hand</word>
+				<word number="2">close the purse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grudge</word>
+				<word number="2">begrudge</word>
+				<word number="3">be slow to</word>
+				<word number="4">hang fire</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pass</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be deaf to">
+			<sg number="1">
+				<word number="1">be deaf to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dismiss</word>
+				<word number="2">turn a deaf ear to</word>
+				<word number="3">turn one's back upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set one's face against</word>
+				<word number="2">discountenance</word>
+				<word number="3">not hear of</word>
+				<word number="4">have nothing to do with</word>
+				<word number="5">wash one's hands of</word>
+				<word number="6">stand aloof</word>
+				<word number="7">forswear</word>
+				<word number="8">set aside</word>
+				<word number="9">cast behind one</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="obstinacy" headRef="633">not yield an inch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="resist">
+			<sg number="1">
+				<word number="1">resist</word>
+				<word number="2">cross</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="grant" headRef="793">not grant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repel</word>
+				<word number="2">repulse</word>
+				<word number="3">shut the door in one's face</word>
+				<word number="4">slam the door in one's face</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rebuff</word>
+			</sg>
+			<sg number="5">
+				<word number="1">send back</word>
+				<word number="2">send to the right about</word>
+				<word number="3">send away with a flea in the ear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deny oneself</word>
+				<word number="2">not be at home to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">discard</word>
+				<word number="2" paraRef="repudiate" headRef="638">spurn</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="revoke" headRef="787">rescind</word>
+			</sg>
+			<sg number="9">
+				<word number="1">disclaim</word>
+				<word number="2">protest</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="dissent" headRef="513">dissent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="refusing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">refusing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">restive</word>
+				<word number="2">restiff</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recusant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uncomplying</word>
+				<word number="2">unconsenting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not willing to hear of</word>
+				<word number="2">deaf to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="refused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">refused</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ungranted</word>
+				<word number="2">out of the question</word>
+				<word number="3">not to be thought of</word>
+				<word number="4">impossible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="no">
+			<sg number="1">
+				<word number="1" paraRef="no" headRef="562">no</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on no account</word>
+				<word number="2">not for the world</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no thank you</word>
+				<word number="2">thanks but no thanks</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non possumus">
+			<sg number="1">
+				<word number="1">non possumus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">your humble servant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bien oblige</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not on your life</word>
+			</sg>
+			<sg number="5">
+				<word number="1">no way</word>
+			</sg>
+			<sg number="6">
+				<word number="1">not even if you beg on your knees</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

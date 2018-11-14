@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="249" name="Sinistrality" origNum="#239." class="2" section="2" subSection="3" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sinistrality">
+			<sg number="1">
+				<word number="1">sinistrality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">left</word>
+				<word number="2">left hand</word>
+				<word number="3">a gauche</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sinister</word>
+				<word number="2">nearside</word>
+				<word number="3">larboard</word>
+				<word number="4">port</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="left-handed">
+			<sg number="1">
+				<word number="1">left-handed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sinister</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sinistral</word>
+				<word number="2">sinistrorsal</word>
+				<word number="3">sinistrorse</word>
+				<word number="4">sinistrous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="7" type="PREF.">
+		<paragraph number="1" name="laevo-">
+			<sg number="1">
+				<word number="1">laevo-</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="sinistrally">
+			<sg number="1">
+				<word number="1">sinistrally</word>
+				<word number="2">sinistrously</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

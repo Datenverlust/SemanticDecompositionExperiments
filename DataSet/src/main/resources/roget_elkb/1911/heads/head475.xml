@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="475" name="Curiosity" origNum="#455." class="4" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="interest">
+			<sg number="1">
+				<word number="1">interest</word>
+				<word number="2">thirst for knowledge</word>
+				<word number="3">thirst for truth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curiosity</word>
+				<word number="2">curiousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inquiring mind</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inquisitiveness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="omnivorous intellect">
+			<sg number="1">
+				<word number="1">omnivorous intellect</word>
+				<word number="2">devouring mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inquirer">
+			<sg number="1">
+				<word number="1">inquirer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sightseer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quidnunc</word>
+				<word number="2">newsmonger</word>
+				<word number="3">Paul Pry</word>
+				<word number="4">eavesdropper</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="news" headRef="558">gossip</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rubberneck</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intellectual</word>
+			</sg>
+			<sg number="7">
+				<word number="1">seeker</word>
+				<word number="2">seeker after truth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be curious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be curious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take an interest in</word>
+				<word number="2">stare</word>
+				<word number="3">gape</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prick up the ears</word>
+				<word number="2">see sights</word>
+				<word number="3">lionize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pry</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nose</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rubberneck*</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="curious">
+			<sg number="1">
+				<word number="1">curious</word>
+				<word number="2">inquisitive</word>
+				<word number="3">burning with curiosity</word>
+				<word number="4">overcurious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inquiry" headRef="481">inquiring</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prying</word>
+				<word number="2">snoopy</word>
+				<word number="3">nosy</word>
+				<word number="4">peering</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prurient</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inquisitorial</word>
+				<word number="2">inquisitory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">curious as a cat</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="expectant" headRef="531">agape</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="what's the matter? what next? consumed with curiosity">
+			<sg number="1">
+				<word number="1">what's the matter? what next? consumed with curiosity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curiosity killed the cat</word>
+				<word number="2">satisfaction brought it back</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="curiouser and curiouser">
+			<sg number="1">
+				<word number="1">"curiouser and curiouser"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

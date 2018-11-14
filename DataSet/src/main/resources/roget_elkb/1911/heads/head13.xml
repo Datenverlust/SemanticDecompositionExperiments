@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="13" name="Identity" origNum="#13." class="1" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="identity">
+			<sg number="1">
+				<word number="1">identity</word>
+				<word number="2">sameness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coincidence</word>
+				<word number="2">coalescence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">convertibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="equality" headRef="29">equality</word>
+			</sg>
+			<sg number="5">
+				<word number="1">selfness</word>
+				<word number="2">self</word>
+				<word number="3">oneself</word>
+			</sg>
+			<sg number="6">
+				<word number="1">identification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="monotony">
+			<sg number="1">
+				<word number="1">monotony</word>
+				<word number="2" paraRef="repetition" headRef="109">tautology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="facsimile">
+			<sg number="1">
+				<word number="1" paraRef="copy" headRef="23">facsimile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homoousia</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="similar" headRef="18">alter ego</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="exactness" headRef="518">ipsissima verba</word>
+			</sg>
+			<sg number="5">
+				<word number="1">same</word>
+			</sg>
+			<sg number="6">
+				<word number="1">self</word>
+				<word number="2">very</word>
+				<word number="3">one and the same</word>
+			</sg>
+			<sg number="7">
+				<word number="1">very thing</word>
+				<word number="2">actual thing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">real McCoy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">no other</word>
+			</sg>
+			<sg number="10">
+				<word number="1">one and only</word>
+			</sg>
+			<sg number="11">
+				<word number="1">in the flesh</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be identical">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be identical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coincide</word>
+				<word number="2">coalesce</word>
+				<word number="3">merge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="treat as the same">
+			<sg number="1">
+				<word number="1">treat as the same</word>
+				<word number="2">render the same</word>
+				<word number="3">identical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">identify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recognize the identity of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="identical">
+			<sg number="1">
+				<word number="1">identical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self</word>
+				<word number="2">ilk</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">the same</word>
+				<word number="2">one and the same</word>
+				<word number="3">homoousian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coincide">
+			<sg number="1">
+				<word number="1">coincide</word>
+				<word number="2">coalescent</word>
+				<word number="3">coalescing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indistinguishable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="equal" headRef="29">equivalent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tweedle dee and tweedle dum</word>
+			</sg>
+			<sg number="6">
+				<word number="1">much the same</word>
+				<word number="2">of a muchness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unaltered</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="identically">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">identically</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on all fours</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

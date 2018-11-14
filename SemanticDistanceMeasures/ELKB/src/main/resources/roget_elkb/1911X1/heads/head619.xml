@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="619" name="Book" origNum="#593." class="5" section="3" subSection="2" headGroup="22">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="book">
+			<sg number="1">
+				<word number="1">book</word>
+				<word number="2">booklet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">writing</word>
+				<word number="2">work</word>
+				<word number="3">volume</word>
+				<word number="4">tome</word>
+				<word number="5">opuscule</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tract</word>
+				<word number="2">tractate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">livret</word>
+			</sg>
+			<sg number="5">
+				<word number="1">brochure</word>
+				<word number="2">libretto</word>
+				<word number="3">handbook</word>
+				<word number="4">codex</word>
+				<word number="5">manual</word>
+				<word number="6">pamphlet</word>
+				<word number="7">enchiridion</word>
+				<word number="8">circular</word>
+				<word number="9">publication</word>
+				<word number="10" new="1">checklist</word>
+				<word number="11" new="1">guide</word>
+				<word number="12" new="1">guidebook</word>
+				<word number="13" new="1">yearbook</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chap book</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="part">
+			<sg number="1">
+				<word number="1">part</word>
+				<word number="2">issue</word>
+				<word number="3">number livraison</word>
+			</sg>
+			<sg number="2">
+				<word number="1">album</word>
+				<word number="2">portfolio</word>
+			</sg>
+			<sg number="3">
+				<word number="1">periodical</word>
+				<word number="2">serial</word>
+				<word number="3">magazine</word>
+				<word number="4">ephemeris</word>
+				<word number="5">annual</word>
+				<word number="6">journal</word>
+				<word number="7" new="1">monthly</word>
+				<word number="8" new="1">newspaper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="paper">
+			<sg number="1">
+				<word number="1">paper</word>
+				<word number="2">bill</word>
+				<word number="3">sheet</word>
+				<word number="4">broadsheet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leaf</word>
+				<word number="2">leaflet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fly leaf</word>
+				<word number="2">page</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quire</word>
+				<word number="2">ream       chapter</word>
+				<word number="3">section</word>
+				<word number="4">head</word>
+				<word number="5">article</word>
+				<word number="6">paragraph</word>
+				<word number="7">passage</word>
+				<word number="8">clause</word>
+			</sg>
+			<sg number="5">
+				<word number="1">endpapers</word>
+				<word number="2">frontispiece</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cover</word>
+				<word number="2">binding</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">chapter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="folio">
+			<sg number="1">
+				<word number="1">folio</word>
+				<word number="2">quarto</word>
+				<word number="3">octavo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">duodecimo</word>
+				<word number="2">sextodecimo</word>
+				<word number="3">octodecimo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="encyclopedia">
+			<sg number="1">
+				<word number="1">encyclopedia</word>
+			</sg>
+			<sg number="2">
+				<word number="1">encompilation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="library">
+			<sg number="1">
+				<word number="1">library</word>
+				<word number="2">bibliotheca</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="press">
+			<sg number="1">
+				<word number="1" paraRef="publication" headRef="557">press</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="definitive work">
+			<sg number="1">
+				<word number="1">definitive work</word>
+				<word number="2">treatise</word>
+				<word number="3" paraRef="dissertation" headRef="621">comprehensive treatise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="writer">
+			<sg number="1">
+				<word number="1">writer</word>
+				<word number="2">author</word>
+				<word number="3">litterateur</word>
+				<word number="4">essayist</word>
+				<word number="5">journalism</word>
+				<word number="6" new="1">journalist</word>
+				<word number="7" new="1">novelist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pen</word>
+				<word number="2">scribbler</word>
+				<word number="3">the scribbling race</word>
+			</sg>
+			<sg number="3">
+				<word number="1">literary hack</word>
+				<word number="2">Grub-street writer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">writer for the press</word>
+				<word number="2">gentleman of the press</word>
+				<word number="3">representative of the press</word>
+			</sg>
+			<sg number="5">
+				<word number="1">adjective jerker</word>
+				<word number="2">diaskeaust</word>
+				<word number="3">ghost</word>
+				<word number="4">hack writer</word>
+				<word number="5">ink slinger</word>
+			</sg>
+			<sg number="6">
+				<word number="1">publicist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reporter</word>
+				<word number="2">penny a liner</word>
+			</sg>
+			<sg number="8">
+				<word number="1">editor</word>
+				<word number="2">subeditor</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="playwright" headRef="625">playwright</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="poet" headRef="623">poet</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">contributor</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">creator</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">dramatist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="bookseller">
+			<sg number="1">
+				<word number="1">bookseller</word>
+				<word number="2">publisher</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bibliopole</word>
+				<word number="2">bibliopolist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">librarian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bookstore</word>
+				<word number="2">bookshop</word>
+				<word number="3">bookseller's shop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="knowledge of books">
+			<sg number="1">
+				<word number="1">knowledge of books</word>
+				<word number="2">bibliography</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="knowledge" headRef="514">book learning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="broadside">
+			<sg number="1">
+				<word number="1" new="1">broadside</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="compendium">
+			<sg number="1">
+				<word number="1" new="1">compendium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="daily">
+			<sg number="1">
+				<word number="1" new="1">daily</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="dissertation">
+			<sg number="1">
+				<word number="1" new="1">dissertation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="essay">
+			<sg number="1">
+				<word number="1" new="1">essay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="monograph">
+			<sg number="1">
+				<word number="1" new="1">monograph</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="review">
+			<sg number="1">
+				<word number="1" new="1">review</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="textbook">
+			<sg number="1">
+				<word number="1" new="1">textbook</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="among the giant fossils of my past [E">
+			<sg number="1">
+				<word number="1">"among the giant fossils of my past"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">craignez tout d'un auteur en courroux</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"for authors nobler palms remain"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"I lived to write and wrote to live"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"look in thy heart and write"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"there is no Past so long as Books shall live"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the public mind is the creation of the Master-Writers"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"volumes that I prize above my dukedom"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

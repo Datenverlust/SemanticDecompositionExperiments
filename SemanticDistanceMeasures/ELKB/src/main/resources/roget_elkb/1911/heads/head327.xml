@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="327" name="Materiality" origNum="#316." class="3" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="materiality">
+			<sg number="1">
+				<word number="1">materiality</word>
+				<word number="2">materialness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corporeity</word>
+				<word number="2">corporality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">substantiality</word>
+				<word number="2">substantialness</word>
+				<word number="3">flesh and blood</word>
+				<word number="4">plenum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">physical condition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="matter">
+			<sg number="1">
+				<word number="1">matter</word>
+				<word number="2">body</word>
+				<word number="3">substance</word>
+				<word number="4">brute matter</word>
+				<word number="5">stuff</word>
+				<word number="6">element</word>
+				<word number="7">principle</word>
+				<word number="8">parenchyma</word>
+				<word number="9">material</word>
+				<word number="10">substratum</word>
+				<word number="11">hyle</word>
+				<word number="12">corpus</word>
+				<word number="13">pabulum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frame</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="object">
+			<sg number="1">
+				<word number="1">object</word>
+				<word number="2">article</word>
+				<word number="3">thing</word>
+				<word number="4">something</word>
+			</sg>
+			<sg number="2">
+				<word number="1">still life</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stocks and stones</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="materials" headRef="664">materials</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="physics">
+			<sg number="1">
+				<word number="1">physics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">somatology</word>
+				<word number="2">somatics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">natural philosophy</word>
+				<word number="2">experimental philosophy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">physicism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">physical science</word>
+				<word number="2">philosophie positive</word>
+				<word number="3">materialism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">materialist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">physicist</word>
+			</sg>
+			<sg number="8">
+				<word number="1">somatism</word>
+				<word number="2">somatist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="material">
+			<sg number="1">
+				<word number="1">material</word>
+				<word number="2">bodily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corporeal</word>
+				<word number="2">corporal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">physical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">somatic</word>
+				<word number="2">somatoscopic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sensible</word>
+				<word number="2">tangible</word>
+				<word number="3">ponderable</word>
+				<word number="4">palpable</word>
+				<word number="5">substantial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="objective">
+			<sg number="1">
+				<word number="1">objective</word>
+				<word number="2">impersonal</word>
+				<word number="3">nonsubjective</word>
+				<word number="4">neuter</word>
+				<word number="5">unspiritual</word>
+				<word number="6">materialistic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

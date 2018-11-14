@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="308" name="Ejection" origNum="#297." class="2" section="4" subSection="4" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ejection">
+			<sg number="1">
+				<word number="1">ejection</word>
+				<word number="2">emission</word>
+				<word number="3">effusion</word>
+				<word number="4">rejection</word>
+				<word number="5">expulsion</word>
+				<word number="6">exportation</word>
+				<word number="7">eviction</word>
+				<word number="8">extrusion</word>
+				<word number="9">trajection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discharge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="emesis">
+			<sg number="1">
+				<word number="1">emesis</word>
+				<word number="2">vomiting</word>
+				<word number="3">vomition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="egestion">
+			<sg number="1">
+				<word number="1">egestion</word>
+				<word number="2">evacuation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ructation</word>
+				<word number="2">eructation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bloodletting</word>
+				<word number="2">venesection</word>
+				<word number="3">phlebotomy</word>
+				<word number="4">paracentesis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">expuition</word>
+				<word number="2">exspuition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tapping</word>
+				<word number="2">drainage</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clearance</word>
+				<word number="2">clearage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deportation">
+			<sg number="1">
+				<word number="1">deportation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="punishment" headRef="1015">banishment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rouge's march</word>
+			</sg>
+			<sg number="4">
+				<word number="1">relegation</word>
+				<word number="2">extradition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dislodgment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bouncer [U">
+			<sg number="1">
+				<word number="1">bouncer</word>
+				<word number="2">chucker-out*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="vomit">
+			<sg number="1">
+				<word number="1">vomit</word>
+				<word number="2">vomitus</word>
+				<word number="3">puke</word>
+				<word number="4">barf</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="give exit">
+			<sg number="1">
+				<word number="1">give exit</word>
+				<word number="2">give vent to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">let out</word>
+				<word number="2">give out</word>
+				<word number="3">pour out</word>
+				<word number="4">squeeze out</word>
+				<word number="5">send out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dispatch</word>
+				<word number="2">despatch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exhale</word>
+				<word number="2">excern</word>
+				<word number="3">excrete</word>
+				<word number="4" new="1">din</word>
+			</sg>
+			<sg number="5">
+				<word number="1">embogue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">secrete</word>
+				<word number="2">secern</word>
+			</sg>
+			<sg number="7">
+				<word number="1">extravasate</word>
+				<word number="2">shed</word>
+				<word number="3">void</word>
+				<word number="4">evacuation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">emit</word>
+			</sg>
+			<sg number="9">
+				<word number="1">open the sluices</word>
+				<word number="2">open the floodgates</word>
+			</sg>
+			<sg number="10">
+				<word number="1">turn on the tap</word>
+			</sg>
+			<sg number="11">
+				<word number="1">extrude</word>
+				<word number="2">detrude</word>
+			</sg>
+			<sg number="12">
+				<word number="1">effuse</word>
+				<word number="2">spend</word>
+				<word number="3">expend</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pour forth</word>
+			</sg>
+			<sg number="14">
+				<word number="1">squirt</word>
+				<word number="2">spirt</word>
+				<word number="3">spurt</word>
+				<word number="4">spill</word>
+				<word number="5">slop</word>
+				<word number="6" new="1">insinuate</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="exude" headRef="306">perspire</word>
+			</sg>
+			<sg number="16">
+				<word number="1">breathe</word>
+				<word number="2" paraRef="wind" headRef="360">blow</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">fate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tap">
+			<sg number="1">
+				<word number="1">tap</word>
+				<word number="2">draw off</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bale out</word>
+				<word number="2">lade out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">let blood</word>
+				<word number="2">broach</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="eject">
+			<sg number="1">
+				<word number="1">eject</word>
+				<word number="2">reject</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expel</word>
+				<word number="2">discard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cut</word>
+				<word number="2">send to coventry</word>
+				<word number="3">boycott</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chasser</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="punish" headRef="1015">banish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bounce *</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fire *</word>
+				<word number="2">fire out *</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="throw" headRef="295">throw</word>
+				<word number="2">throw up</word>
+				<word number="3">throw off</word>
+				<word number="4">throw away</word>
+				<word number="5">throw aside</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="push" headRef="287">push</word>
+				<word number="2">throw off</word>
+				<word number="3">throw away</word>
+				<word number="4">throw aside</word>
+			</sg>
+			<sg number="10">
+				<word number="1">shovel out</word>
+				<word number="2">shovel away</word>
+				<word number="3">sweep out</word>
+				<word number="4">sweep away</word>
+			</sg>
+			<sg number="11">
+				<word number="1">brush off</word>
+				<word number="2">brush away</word>
+				<word number="3">whisk off</word>
+				<word number="4">whisk away</word>
+				<word number="5">turn off</word>
+				<word number="6">turn away</word>
+				<word number="7">send off</word>
+				<word number="8">send away</word>
+			</sg>
+			<sg number="12">
+				<word number="1">discharge</word>
+			</sg>
+			<sg number="13">
+				<word number="1">send adrift</word>
+				<word number="2">turn adrift</word>
+				<word number="3">cast adrift</word>
+			</sg>
+			<sg number="14">
+				<word number="1">turn out</word>
+				<word number="2">bundle out</word>
+			</sg>
+			<sg number="15">
+				<word number="1">throw overboard</word>
+			</sg>
+			<sg number="16">
+				<word number="1">give the sack to</word>
+			</sg>
+			<sg number="17">
+				<word number="1">send packing</word>
+				<word number="2">send about one's business</word>
+				<word number="3">send to the right about</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="abrogate" headRef="787">strike off the roll</word>
+			</sg>
+			<sg number="19">
+				<word number="1">turn out neck and heels</word>
+				<word number="2">turn out head and shoulders</word>
+				<word number="3">turn out neck and crop</word>
+			</sg>
+			<sg number="20">
+				<word number="1">pack off</word>
+			</sg>
+			<sg number="21">
+				<word number="1">send away with a flea in the ear</word>
+			</sg>
+			<sg number="22">
+				<word number="1">send to Jericho</word>
+			</sg>
+			<sg number="23">
+				<word number="1">bow out</word>
+				<word number="2">show the door to</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">curtain</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">rerun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="turn out of doors">
+			<sg number="1">
+				<word number="1">turn out of doors</word>
+				<word number="2">turn out of house and home</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evict</word>
+				<word number="2">oust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unhouse</word>
+				<word number="2">unkennel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dislodge</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unpeople</word>
+				<word number="2">dispeople</word>
+			</sg>
+			<sg number="6">
+				<word number="1">depopulate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">relegate</word>
+				<word number="2">deport</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="empty">
+			<sg number="1">
+				<word number="1">empty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drain to the dregs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sweep off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clear off</word>
+				<word number="2">clear out</word>
+				<word number="3">clear away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suck</word>
+				<word number="2">draw off</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clean out</word>
+				<word number="2">make a clean sweep of</word>
+				<word number="3">clear decks</word>
+				<word number="4">purge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="embowel">
+			<sg number="1">
+				<word number="1">embowel</word>
+				<word number="2">disbowel</word>
+				<word number="3">disembowel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eviscerate</word>
+				<word number="2">gut</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unearth</word>
+				<word number="2">root out</word>
+				<word number="3">root up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">averuncate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weed out</word>
+				<word number="2">get out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eliminate</word>
+				<word number="2">get rid of</word>
+				<word number="3">do away with</word>
+				<word number="4">shake off</word>
+			</sg>
+			<sg number="7">
+				<word number="1">exenterate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="vomit">
+			<sg number="1">
+				<word number="1">vomit</word>
+				<word number="2">throw up</word>
+				<word number="3">regurgitate</word>
+				<word number="4">spew</word>
+				<word number="5">puke</word>
+				<word number="6">keck</word>
+				<word number="7">retch</word>
+				<word number="8">heave</word>
+				<word number="9">upchuck</word>
+				<word number="10">chuck up</word>
+				<word number="11">barf</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belch out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cast up</word>
+				<word number="2">bring up</word>
+				<word number="3">be sick</word>
+				<word number="4">get sick</word>
+				<word number="5">worship the porcelain god</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="disgorge">
+			<sg number="1">
+				<word number="1">disgorge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expectorate</word>
+				<word number="2">clear the throat</word>
+				<word number="3">hawk</word>
+				<word number="4">spit</word>
+				<word number="5">sputter</word>
+				<word number="6">splutter</word>
+				<word number="7">slobber</word>
+				<word number="8">drivel</word>
+				<word number="9">slaver</word>
+				<word number="10">slabber</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eructate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="unpack">
+			<sg number="1">
+				<word number="1">unpack</word>
+				<word number="2">unlade</word>
+				<word number="3">unload</word>
+				<word number="4">unship</word>
+				<word number="5">offload</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break bulk</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dump</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="be let out">
+			<sg number="1">
+				<word number="1">be let out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="spew forth">
+			<sg number="1">
+				<word number="1">spew forth</word>
+				<word number="2">erupt</word>
+				<word number="3" paraRef="emerge" headRef="306">ooze</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="repine">
+			<sg number="1">
+				<word number="1" new="1">repine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="victimise">
+			<sg number="1">
+				<word number="1" new="1">victimise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="emitting">
+			<sg number="1">
+				<word number="1">emitting</word>
+				<word number="2" paraRef="" posRef="v.">emitted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="begone">
+			<sg number="1">
+				<word number="1">begone!</word>
+				<word number="2">get you gone!</word>
+				<word number="3">get away</word>
+				<word number="4">go away</word>
+				<word number="5">get along</word>
+				<word number="6">go along</word>
+				<word number="7">get along with you</word>
+				<word number="8">go along with you!</word>
+				<word number="9">go your way!</word>
+				<word number="10">away with!</word>
+				<word number="11">off with you!</word>
+				<word number="12">get the hell out of here!</word>
+				<word number="13">go about your business!</word>
+				<word number="14">be off!</word>
+				<word number="15">avaunt!</word>
+				<word number="16">aroynt!</word>
+				<word number="17">allez-vous-en!</word>
+				<word number="18">jao!</word>
+				<word number="19">va-t'en!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

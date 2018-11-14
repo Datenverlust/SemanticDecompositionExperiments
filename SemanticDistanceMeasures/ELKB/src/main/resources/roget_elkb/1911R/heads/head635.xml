@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="635" name="Caprice" origNum="#608." class="6" section="1" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="caprice">
+			<sg number="1">
+				<word number="1">caprice</word>
+				<word number="2">fancy</word>
+				<word number="3">humor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whim</word>
+				<word number="2">whimsy</word>
+				<word number="3">whimsey</word>
+				<word number="4">whimwham</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crotchet</word>
+				<word number="2">capriccio</word>
+				<word number="3">quirk</word>
+				<word number="4">freak</word>
+				<word number="5">maggot</word>
+				<word number="6">fad</word>
+				<word number="7">vagary</word>
+				<word number="8">prank</word>
+				<word number="9">fit</word>
+				<word number="10">flimflam</word>
+				<word number="11">escapade</word>
+				<word number="12">boutade</word>
+				<word number="13">wild-goose chase</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">capriciousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">kink</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be capricious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be capricious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a maggot in the brain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take it into one's head</word>
+				<word number="2">strain at a gnat and swallow a camel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blow hot and cold</word>
+			</sg>
+			<sg number="5">
+				<word number="1">play fast and loose</word>
+				<word number="2">play fantastic tricks</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tourner casaque</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="capricious">
+			<sg number="1">
+				<word number="1">capricious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">erratic</word>
+				<word number="2">eccentric</word>
+				<word number="3">fitful</word>
+				<word number="4">hysterical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">full of whims</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maggoty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inconsistent</word>
+				<word number="2">fanciful</word>
+				<word number="3">fantastic</word>
+				<word number="4">whimsical</word>
+				<word number="5">crotchety</word>
+				<word number="6">kinky</word>
+				<word number="7">particular</word>
+				<word number="8">humorsome</word>
+				<word number="9">freakish</word>
+				<word number="10">skittish</word>
+				<word number="11">wanton</word>
+				<word number="12">wayward</word>
+			</sg>
+			<sg number="6">
+				<word number="1">contrary</word>
+			</sg>
+			<sg number="7">
+				<word number="1">captious</word>
+			</sg>
+			<sg number="8">
+				<word number="1">arbitrary</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="unconformable" headRef="87">unconformable</word>
+			</sg>
+			<sg number="10">
+				<word number="1">penny wise and pound foolish</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="irresolute" headRef="632">fickle</word>
+			</sg>
+			<sg number="12">
+				<word number="1">frivolous</word>
+				<word number="2">sleeveless</word>
+				<word number="3">giddy</word>
+				<word number="4">volatile</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by fits and starts">
+			<sg number="1">
+				<word number="1">by fits and starts</word>
+				<word number="2">without rhyme or reason</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nil fuit unquain sic inipar sibi">
+			<sg number="1">
+				<word number="1">nil fuit unquain sic inipar sibi</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the deuce is in him</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

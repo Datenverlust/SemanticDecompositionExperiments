@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="831" name="Merchandise" origNum="#798." class="7" section="4" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="merchandise">
+			<sg number="1">
+				<word number="1">merchandise</word>
+				<word number="2">ware</word>
+				<word number="3">commodity</word>
+				<word number="4">effects</word>
+				<word number="5">goods</word>
+				<word number="6">article</word>
+				<word number="7">stock</word>
+				<word number="8">product</word>
+				<word number="9">produce</word>
+				<word number="10">staple commodity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="store" headRef="665">stock in trade</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contents" headRef="199">cargo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

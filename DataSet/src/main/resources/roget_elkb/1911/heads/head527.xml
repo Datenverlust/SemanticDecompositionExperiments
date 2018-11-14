@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="527" name="Insanity" origNum="#503." class="4" section="5" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disordered reason">
+			<sg number="1">
+				<word number="1">disordered reason</word>
+				<word number="2">disordered intellect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diseased mind</word>
+				<word number="2">unsound mind</word>
+				<word number="3">abnormal mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">derangement</word>
+				<word number="2">unsoundness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">psychosis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">neurosis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cognitive disorder</word>
+			</sg>
+			<sg number="7">
+				<word number="1">affective disorder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="insanity">
+			<sg number="1">
+				<word number="1">insanity</word>
+				<word number="2">lunacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">madness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mania</word>
+				<word number="2">rabies</word>
+				<word number="3">furor</word>
+				<word number="4">mental alienation</word>
+				<word number="5">aberration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paranoia</word>
+				<word number="2">schizophrenia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dementation</word>
+				<word number="2">dementia</word>
+				<word number="3">demency</word>
+			</sg>
+			<sg number="6">
+				<word number="1">phrenitis</word>
+				<word number="2">phrensy</word>
+				<word number="3">frenzy</word>
+				<word number="4">raving</word>
+				<word number="5">incoherence</word>
+				<word number="6">wandering</word>
+				<word number="7">delirium</word>
+				<word number="8">calenture of the brain</word>
+			</sg>
+			<sg number="7">
+				<word number="1">delusion</word>
+				<word number="2">hallucination</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lycanthropy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">brain storm!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vertigo">
+			<sg number="1">
+				<word number="1">vertigo</word>
+				<word number="2">dizziness</word>
+				<word number="3">swimming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sunstroke</word>
+				<word number="2">coup de soleil</word>
+				<word number="3">siriasis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fanaticism">
+			<sg number="1">
+				<word number="1">fanaticism</word>
+				<word number="2">infatuation</word>
+				<word number="3">craze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oddity</word>
+				<word number="2">eccentricity</word>
+				<word number="3">twist</word>
+				<word number="4" paraRef="caprice" headRef="635">monomania</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kleptodipsomania</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="low spirits" headRef="875">hypochondriasis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">melancholia</word>
+				<word number="2">depression</word>
+				<word number="3">clinical depression</word>
+				<word number="4">severe depression</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hysteria</word>
+			</sg>
+			<sg number="7">
+				<word number="1">amentia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="screw loose">
+			<sg number="1">
+				<word number="1">screw loose</word>
+				<word number="2">tile loose</word>
+				<word number="3">slate loose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bee in one's bonnet</word>
+				<word number="2">rats in the upper story</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dotage">
+			<sg number="1">
+				<word number="1" paraRef="imbecility" headRef="523">dotage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be insane">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be insane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="become insane">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">become insane</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lose one's senses</word>
+				<word number="2">lose one's reason</word>
+				<word number="3">lose one's faculties</word>
+				<word number="4">lose one's wits</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go mad</word>
+				<word number="2">run mad</word>
+				<word number="3">lose one's marbles</word>
+				<word number="4">go crazy</word>
+				<word number="5">go bonkers</word>
+				<word number="6">flip one's wig</word>
+				<word number="7">flip one's lid</word>
+				<word number="8">flip out</word>
+				<word number="9">flip one's bush</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rave">
+			<sg number="1">
+				<word number="1">rave</word>
+				<word number="2">dote</word>
+				<word number="3">ramble</word>
+				<word number="4">wander</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be imbecile" headRef="523">drivel</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">have a screw loose</word>
+				<word number="2">have a devil</word>
+			</sg>
+			<sg number="4">
+				<word number="1">avoir le diable au corps</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="be uncertain" headRef="498">lose one's head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="render mad">
+			<sg number="1">
+				<word number="1">render mad</word>
+				<word number="2" paraRef="" posRef="adj.">drive mad</word>
+			</sg>
+			<sg number="2">
+				<word number="1">madden</word>
+				<word number="2">dementate</word>
+				<word number="3">addle the wits</word>
+				<word number="4">addle the brain</word>
+				<word number="5">derange the head</word>
+				<word number="6">infatuate</word>
+				<word number="7">befool</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turn the brain</word>
+				<word number="2">turn one's head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drive one nuts</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="insane">
+			<sg number="1">
+				<word number="1">insane</word>
+				<word number="2">mad</word>
+				<word number="3">lunatic</word>
+				<word number="4">loony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crazy</word>
+				<word number="2">crazed</word>
+				<word number="3">aliene</word>
+				<word number="4">non compos mentis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not right</word>
+				<word number="2">cracked</word>
+				<word number="3">touched</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bereft of reason</word>
+			</sg>
+			<sg number="5">
+				<word number="1">all possessed</word>
+				<word number="2">unhinged</word>
+				<word number="3">unsettled in one's mind</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insensate</word>
+				<word number="2">reasonless</word>
+				<word number="3">beside oneself</word>
+				<word number="4">demented</word>
+				<word number="5">daft</word>
+			</sg>
+			<sg number="7">
+				<word number="1">phrenzied</word>
+				<word number="2">frenzied</word>
+				<word number="3">frenetic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">possessed</word>
+				<word number="2">possessed with a devil</word>
+			</sg>
+			<sg number="9">
+				<word number="1">deranged</word>
+				<word number="2">maddened</word>
+				<word number="3">moonstruck</word>
+			</sg>
+			<sg number="10">
+				<word number="1">shatterpated</word>
+			</sg>
+			<sg number="11">
+				<word number="1">mad-brained</word>
+				<word number="2">scatter brained</word>
+				<word number="3">shatter brained</word>
+				<word number="4">crackbrained</word>
+			</sg>
+			<sg number="12">
+				<word number="1">touched</word>
+				<word number="2">tetched</word>
+			</sg>
+			<sg number="13">
+				<word number="1">off one's head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="maniacal">
+			<sg number="1">
+				<word number="1">maniacal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delirious</word>
+				<word number="2">lightheaded</word>
+				<word number="3">incoherent</word>
+				<word number="4">rambling</word>
+				<word number="5">doting</word>
+				<word number="6">wandering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frantic</word>
+				<word number="2">raving</word>
+				<word number="3">stark staring mad</word>
+				<word number="4">stark raving mad</word>
+				<word number="5">wild-eyed</word>
+				<word number="6">berserk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">delusional</word>
+				<word number="2">hallucinatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="corybantic">
+			<sg number="1">
+				<word number="1">corybantic</word>
+				<word number="2">dithyrambic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rabid</word>
+				<word number="2">giddy</word>
+				<word number="3">vertiginous</word>
+				<word number="4">wild</word>
+			</sg>
+			<sg number="3">
+				<word number="1">haggard</word>
+				<word number="2">mazed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flighty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">distracted</word>
+				<word number="2">distraught</word>
+			</sg>
+			<sg number="6">
+				<word number="1">depressed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">agitated</word>
+				<word number="2">hyped up</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="uncertain" headRef="498">bewildered</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mad as a March hare">
+			<sg number="1">
+				<word number="1">mad as a March hare</word>
+				<word number="2">mad as a hatter</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">of unsound mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">touched in one's head</word>
+				<word number="2">wrong in one's head</word>
+				<word number="3">not right in one's head</word>
+				<word number="4">not in one's right mind</word>
+				<word number="5">not right in one's wits</word>
+				<word number="6">upper story</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of one's mind</word>
+				<word number="2">out of one's wits</word>
+				<word number="3">out of one's skull</word>
+				<word number="4">far gone</word>
+				<word number="5">out of one's senses</word>
+				<word number="6">out of one's wits</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not in one's right mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fanatical">
+			<sg number="1">
+				<word number="1">fanatical</word>
+				<word number="2">infatuated</word>
+				<word number="3">odd</word>
+				<word number="4">eccentric</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hypped</word>
+				<word number="2">hyppish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spaced out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="imbecile">
+			<sg number="1">
+				<word number="1">imbecile</word>
+				<word number="2" paraRef="silly" headRef="523">silly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="like one possessed">
+			<sg number="1">
+				<word number="1">like one possessed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the mind having lost its balance">
+			<sg number="1">
+				<word number="1">the mind having lost its balance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the reason under a cloud</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tet exaltee</word>
+				<word number="2">tet montee</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ira furor brevis est</word>
+			</sg>
+			<sg number="5">
+				<word number="1">omnes stultos insanire</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

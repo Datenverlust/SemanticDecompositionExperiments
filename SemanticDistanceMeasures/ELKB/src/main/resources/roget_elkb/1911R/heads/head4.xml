@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="4" name="Unsubstantiality" origNum="#4." class="1" section="1" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unsubstantiality">
+			<sg number="1">
+				<word number="1">unsubstantiality</word>
+				<word number="2">insubstantiality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nothingness</word>
+				<word number="2">nihility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no degree</word>
+				<word number="2">no part</word>
+				<word number="3">no quantity</word>
+				<word number="4">no thing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nothing">
+			<sg number="1">
+				<word number="1">nothing</word>
+				<word number="2">naught</word>
+				<word number="3">nil</word>
+				<word number="4">nullity</word>
+				<word number="5">zero</word>
+				<word number="6">cipher</word>
+				<word number="7">no one</word>
+				<word number="8">nobody</word>
+			</sg>
+			<sg number="2">
+				<word number="1">never a one</word>
+				<word number="2">ne'er a one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no such thing</word>
+				<word number="2">none in the world</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nothing whatever</word>
+				<word number="2">nothing at all</word>
+				<word number="3">nothing on earth</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="smallness" headRef="34">not a particle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">all talk</word>
+				<word number="2">moonshine</word>
+				<word number="3">stuff and nonsense</word>
+			</sg>
+			<sg number="7">
+				<word number="1">matter of no importance</word>
+				<word number="2">matter of no consequence</word>
+				<word number="3">thing of naught</word>
+				<word number="4">man of straw</word>
+				<word number="5">John Doe and Richard Roe</word>
+				<word number="6">faggot voter</word>
+			</sg>
+			<sg number="8">
+				<word number="1">nominis umbra</word>
+				<word number="2">nonentity</word>
+			</sg>
+			<sg number="9">
+				<word number="1">flash in the pan</word>
+				<word number="2">vox et praeterea nihil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shadow">
+			<sg number="1">
+				<word number="1">shadow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="deceptio visus" headRef="462">phantom</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="imagination" headRef="540">dream</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="luminary" headRef="441">ignis fatuus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"such stuff as dreams are made of"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">air</word>
+				<word number="2">thin air</word>
+				<word number="3">vapor</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="bubble" headRef="364">bubble</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"baseless fabric of a vision"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mockery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hollowness">
+			<sg number="1">
+				<word number="1">hollowness</word>
+				<word number="2">blank</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="absence" headRef="196">void</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="inanity">
+			<sg number="1">
+				<word number="1">inanity</word>
+				<word number="2">fool's paradise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="vanish">
+			<sg number="1">
+				<word number="1">vanish</word>
+				<word number="2">evaporate</word>
+				<word number="3">fade</word>
+				<word number="4">dissolve</word>
+				<word number="5">melt away</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disappear" headRef="468">disappear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unsubstantial">
+			<sg number="1">
+				<word number="1">unsubstantial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">baseless</word>
+				<word number="2">groundless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ungrounded</word>
+			</sg>
+			<sg number="4">
+				<word number="1">without foundation</word>
+				<word number="2">having no foundation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="visionary">
+			<sg number="1">
+				<word number="1" paraRef="imaginary" headRef="540">visionary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="immaterial" headRef="328">immaterial</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="spectral" headRef="1023">spectral</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dreamy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shadowy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ethereal</word>
+				<word number="2">airy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cloud built</word>
+				<word number="2">cloud formed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gossamery</word>
+				<word number="2">illusory</word>
+				<word number="3">insubstantial</word>
+				<word number="4">unreal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vacant">
+			<sg number="1">
+				<word number="1">vacant</word>
+				<word number="2">vacuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="empty" headRef="196">empty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eviscerated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blank</word>
+				<word number="2">hollow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nominal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">null</word>
+			</sg>
+			<sg number="7">
+				<word number="1">inane</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="there's nothing in it">
+			<sg number="1">
+				<word number="1">there's nothing in it</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"an ocean of dreams without a sound"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

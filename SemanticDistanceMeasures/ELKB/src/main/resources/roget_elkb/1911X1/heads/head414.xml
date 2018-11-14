@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="414" name="Odor" origNum="#398." class="3" section="3" subSection="2" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="odor">
+			<sg number="1">
+				<word number="1">odor</word>
+				<word number="2">smell</word>
+				<word number="3">odorament</word>
+				<word number="4">scent</word>
+				<word number="5">effluvium</word>
+				<word number="6" new="1">aftertaste</word>
+				<word number="7" new="1">aroma</word>
+				<word number="8" new="1">flavor</word>
+				<word number="9" new="1">stench</word>
+				<word number="10" new="1">taste</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emanation</word>
+				<word number="2">exhalation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fume</word>
+				<word number="2">essence</word>
+				<word number="3">trail</word>
+				<word number="4">nidor</word>
+				<word number="5">redolence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sense of smell">
+			<sg number="1">
+				<word number="1">sense of smell</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">act of smelling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">olfaction</word>
+				<word number="2">olfactories</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fragrance">
+			<sg number="1">
+				<word number="1" paraRef="fragrance" headRef="416">fragrance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="odorant">
+			<sg number="1">
+				<word number="1">odorant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bloodhound">
+			<sg number="1">
+				<word number="1">bloodhound</word>
+				<word number="2">hound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="spoor">
+			<sg number="1">
+				<word number="1">spoor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have an odor">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">have an odor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smell</word>
+				<word number="2">smell of</word>
+				<word number="3">smell strong of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exhale</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">give out a smell</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reek</word>
+				<word number="2">reek of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">scent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="smell">
+			<sg number="1">
+				<word number="1">smell</word>
+				<word number="2">scent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snuff</word>
+				<word number="2">snuff up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sniff</word>
+				<word number="2">nose</word>
+				<word number="3">inhale</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="odorous">
+			<sg number="1">
+				<word number="1">odorous</word>
+				<word number="2">odoriferous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smelling</word>
+				<word number="2">reeking</word>
+				<word number="3">foul-smelling</word>
+				<word number="4">strong- scented</word>
+			</sg>
+			<sg number="3">
+				<word number="1">redolent</word>
+				<word number="2">graveolent</word>
+				<word number="3">nidorous</word>
+				<word number="4">pungent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">putrid</word>
+				<word number="2">foul</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="olfactory">
+			<sg number="1">
+				<word number="1">olfactory</word>
+				<word number="2">quick-scented</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

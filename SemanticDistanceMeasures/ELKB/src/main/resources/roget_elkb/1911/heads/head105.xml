@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="105" name="Fraction" origNum="#100a." class="1" section="5" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fraction">
+			<sg number="1">
+				<word number="1">fraction</word>
+				<word number="2">fractional part</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="part" headRef="54">part</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fractional">
+			<sg number="1">
+				<word number="1">fractional</word>
+				<word number="2">fragmentary</word>
+				<word number="3">inconsiderable</word>
+				<word number="4">negligible</word>
+				<word number="5">infinitesimal</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="574" name="Deceiver" origNum="#548." class="5" section="2" subSection="1" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deceiver">
+			<sg number="1">
+				<word number="1" paraRef="deceive" headRef="571">deceiver</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissembler</word>
+				<word number="2">hypocrite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sophist</word>
+				<word number="2">Pharisee</word>
+				<word number="3">Jesuit</word>
+				<word number="4">Mawworm</word>
+				<word number="5">Pecksniff</word>
+				<word number="6">Joseph Surface</word>
+				<word number="7">Tartufe</word>
+				<word number="8">Janus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">serpent</word>
+				<word number="2">snake in the grass</word>
+				<word number="3">cockatrice</word>
+				<word number="4">Judas</word>
+				<word number="5">wolf in sheep's clothing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jilt</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shuffler!</word>
+				<word number="2">stool pigeon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="liar">
+			<sg number="1">
+				<word number="1" paraRef="lie" headRef="570">liar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">story-teller</word>
+				<word number="2">perjurer</word>
+				<word number="3">false witness</word>
+				<word number="4">menteur a triple etage</word>
+				<word number="5">Scapin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bunko steerer*</word>
+				<word number="2">carpetbagger*</word>
+				<word number="3">capper*</word>
+				<word number="4">faker</word>
+				<word number="5">fraud</word>
+				<word number="6">four flusher*</word>
+				<word number="7">horse coper</word>
+				<word number="8">ringer*</word>
+				<word number="9">spieler</word>
+				<word number="10">straw bidder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="imposter">
+			<sg number="1">
+				<word number="1">imposter</word>
+				<word number="2">pretender</word>
+				<word number="3">soi-disant</word>
+				<word number="4">humbug</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adventurer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Cagliostro</word>
+				<word number="2">Fernam Mendez Pinto</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="bungler" headRef="730">ass in lion's skin</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="stage player" headRef="625">actor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="quack">
+			<sg number="1">
+				<word number="1">quack</word>
+				<word number="2">charlatan</word>
+				<word number="3">mountebank</word>
+				<word number="4">saltimbanco</word>
+				<word number="5">saltimbanque</word>
+				<word number="6">empiric</word>
+				<word number="7">quacksalver</word>
+				<word number="8">medicaster</word>
+				<word number="9">Rosicrucian</word>
+				<word number="10">gypsy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">man of straw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="conjuror">
+			<sg number="1">
+				<word number="1">conjuror</word>
+				<word number="2">juggler</word>
+				<word number="3">trickster</word>
+				<word number="4">prestidigitator</word>
+				<word number="5">jockey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crimp</word>
+				<word number="2">decoy</word>
+				<word number="3">decoy  duck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rogue</word>
+				<word number="2">knave</word>
+				<word number="3">cheat</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="thief" headRef="825">swindler</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jobber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rascal">
+			<sg number="1">
+				<word number="1" new="1">rascal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="saint abroad and a devil at home">
+			<sg number="1">
+				<word number="1">"saint abroad and a devil at home"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

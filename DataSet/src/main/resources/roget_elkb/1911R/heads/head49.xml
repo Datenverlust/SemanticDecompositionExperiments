@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="49" name="Coherence" origNum="#46." class="1" section="3" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="coherence">
+			<sg number="1">
+				<word number="1">coherence</word>
+				<word number="2">adherence</word>
+				<word number="3">adhesion</word>
+				<word number="4">adhesiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">concretion</word>
+				<word number="2">accretion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conglutination</word>
+				<word number="2">agglutination</word>
+				<word number="3">agglomeration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aggregation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">consolidation</word>
+				<word number="2">set</word>
+				<word number="3">cementation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sticking</word>
+				<word number="2" paraRef="" posRef="v.">soldering</word>
+			</sg>
+			<sg number="7">
+				<word number="1">connection</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dependence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tenacity">
+			<sg number="1">
+				<word number="1">tenacity</word>
+				<word number="2">toughness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="stickiness" headRef="363">stickiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inseparability</word>
+				<word number="2">inseparableness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bur</word>
+				<word number="2">remora</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="conglomerate">
+			<sg number="1">
+				<word number="1">conglomerate</word>
+				<word number="2" paraRef="density" headRef="332">concrete</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cohere">
+			<sg number="1">
+				<word number="1">cohere</word>
+				<word number="2">adhere</word>
+				<word number="3">stick</word>
+				<word number="4">cling</word>
+				<word number="5">cleave</word>
+				<word number="6">hold</word>
+				<word number="7">take hold of</word>
+				<word number="8">hold fast</word>
+				<word number="9">close with</word>
+				<word number="10">clasp</word>
+				<word number="11">hug</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grow together</word>
+				<word number="2">hang together</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="join" headRef="46">twine round</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stick like a leech">
+			<sg number="1">
+				<word number="1">stick like a leech</word>
+				<word number="2">stick like wax</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stick close</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cling like ivy</word>
+				<word number="2">cling like a bur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">adhere like a remora</word>
+				<word number="2">adhere like Dejanira's shirt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="glue">
+			<sg number="1">
+				<word number="1">glue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agglutinate</word>
+				<word number="2">conglutinate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cement</word>
+				<word number="2">lute</word>
+				<word number="3">paste</word>
+				<word number="4">gum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">solder</word>
+				<word number="2">weld</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cake</word>
+				<word number="2" paraRef="solidify" headRef="332">consolidate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">agglomerate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cohesive">
+			<sg number="1">
+				<word number="1">cohesive</word>
+				<word number="2">adhesive</word>
+				<word number="3">adhering</word>
+				<word number="4" paraRef="" posRef="v.">cohering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tenacious</word>
+				<word number="2">tough</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sticky" headRef="363">sticky</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="united">
+			<sg number="1">
+				<word number="1">united</word>
+				<word number="2">unseparated</word>
+				<word number="3">unsessile</word>
+				<word number="4">inseparable</word>
+				<word number="5">inextricable</word>
+				<word number="6">infrangible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dense" headRef="332">compact</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

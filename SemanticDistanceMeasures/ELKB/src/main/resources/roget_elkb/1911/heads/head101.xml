@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="101" name="Quadrisection" origNum="#97." class="1" section="5" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="quadrisection">
+			<sg number="1">
+				<word number="1">quadrisection</word>
+				<word number="2">quadripartition</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">quartering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fourth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quarter</word>
+				<word number="2">quartern</word>
+			</sg>
+			<sg number="6">
+				<word number="1">farthing (i.e. fourthing)</word>
+			</sg>
+			<sg number="7">
+				<word number="1">quadrant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="quarter">
+			<sg number="1">
+				<word number="1">quarter</word>
+				<word number="2">divide into four parts</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="quartered">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">quartered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quadrifid</word>
+				<word number="2">quadripartite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rectangular">
+			<sg number="1">
+				<word number="1">rectangular</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

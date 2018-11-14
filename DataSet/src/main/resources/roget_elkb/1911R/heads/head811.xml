@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="811" name="Participation" origNum="#778." class="7" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="participation">
+			<sg number="1">
+				<word number="1">participation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cotenancy</word>
+				<word number="2">joint tenancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">occupancy in common</word>
+				<word number="2">possession in common</word>
+				<word number="3">tenancy in common</word>
+			</sg>
+			<sg number="4">
+				<word number="1">joint stock</word>
+				<word number="2">common stock</word>
+			</sg>
+			<sg number="5">
+				<word number="1">co-partnership</word>
+				<word number="2">partnership</word>
+			</sg>
+			<sg number="6">
+				<word number="1">communion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">community of possessions</word>
+				<word number="2">community of goods</word>
+			</sg>
+			<sg number="8">
+				<word number="1">communism</word>
+				<word number="2">socialism</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="cooperation" headRef="738">cooperation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="snacks">
+			<sg number="1">
+				<word number="1">snacks</word>
+				<word number="2">coportion</word>
+				<word number="3">picnic</word>
+				<word number="4">hotchpot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">co-heirship</word>
+				<word number="2">co- parceny</word>
+				<word number="3">co-parcenary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gavelkind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="participator">
+			<sg number="1">
+				<word number="1">participator</word>
+				<word number="2">sharer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">co-partner</word>
+				<word number="2">partner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shareholder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">co-tenant</word>
+				<word number="2">joint tenant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tenants in common</word>
+			</sg>
+			<sg number="6">
+				<word number="1">co-heir</word>
+				<word number="2">co-parcener</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="communist">
+			<sg number="1">
+				<word number="1">communist</word>
+				<word number="2">socialist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="participate">
+			<sg number="1">
+				<word number="1">participate</word>
+				<word number="2">partake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">share</word>
+				<word number="2">share in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come in for a share</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go shares</word>
+				<word number="2">go snacks</word>
+				<word number="3">go halves</word>
+			</sg>
+			<sg number="5">
+				<word number="1">share and share alike</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have in common">
+			<sg number="1">
+				<word number="1">have in common</word>
+				<word number="2">possess in common</word>
+				<word number="3">be seized in common</word>
+				<word number="4">have as joint tenants</word>
+				<word number="5">possess as joint tenants</word>
+				<word number="6" paraRef="" posRef="n.">be seized as joint tenants</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="join in">
+			<sg number="1">
+				<word number="1">join in</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cooperate" headRef="738">have a hand in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="partaking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">partaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">communistic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="share and share alike">
+			<sg number="1">
+				<word number="1">share and share alike</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

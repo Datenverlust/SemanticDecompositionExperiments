@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="200" name="Receptacle" origNum="#191." class="2" section="1" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="receptacle">
+			<sg number="1">
+				<word number="1">receptacle</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inclosure" headRef="242">inclosure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recipient</word>
+				<word number="2">receiver</word>
+				<word number="3">reservatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="compartment">
+			<sg number="1">
+				<word number="1">compartment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cell</word>
+				<word number="2">cellule</word>
+			</sg>
+			<sg number="3">
+				<word number="1">follicle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hole</word>
+				<word number="2">corner</word>
+				<word number="3">niche</word>
+				<word number="4">recess</word>
+				<word number="5">nook</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crypt</word>
+				<word number="2">stall</word>
+				<word number="3">pigeonhole</word>
+				<word number="4">cove</word>
+				<word number="5">oriel</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="concavity" headRef="262">cave</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="capsule">
+			<sg number="1">
+				<word number="1">capsule</word>
+				<word number="2">vesicle</word>
+				<word number="3">cyst</word>
+				<word number="4">pod</word>
+				<word number="5">calyx</word>
+				<word number="6">cancelli</word>
+				<word number="7">utricle</word>
+				<word number="8">bladder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pericarp</word>
+				<word number="2">udder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="stomach">
+			<sg number="1">
+				<word number="1">stomach</word>
+				<word number="2">paunch</word>
+				<word number="3">venter</word>
+				<word number="4">ventricle</word>
+				<word number="5">crop</word>
+				<word number="6">craw</word>
+				<word number="7">maw</word>
+				<word number="8">gizzard</word>
+				<word number="9">breadbasket</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mouth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pocket">
+			<sg number="1">
+				<word number="1">pocket</word>
+				<word number="2">pouch</word>
+				<word number="3">fob</word>
+				<word number="4">sheath</word>
+				<word number="5">scabbard</word>
+				<word number="6">socket</word>
+				<word number="7">bag</word>
+				<word number="8">sac</word>
+				<word number="9">sack</word>
+				<word number="10">saccule</word>
+				<word number="11">wallet</word>
+				<word number="12">cardcase</word>
+				<word number="13">scrip</word>
+				<word number="14">poke</word>
+				<word number="15">knit</word>
+				<word number="16">knapsack</word>
+				<word number="17">haversack</word>
+				<word number="18">sachel</word>
+				<word number="19">satchel</word>
+				<word number="20">reticule</word>
+				<word number="21">budget</word>
+				<word number="22">net</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ditty bag</word>
+				<word number="2">ditty box</word>
+			</sg>
+			<sg number="3">
+				<word number="1">housewife</word>
+				<word number="2">hussif</word>
+			</sg>
+			<sg number="4">
+				<word number="1">saddlebags</word>
+			</sg>
+			<sg number="5">
+				<word number="1">portfolio</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="magazine" headRef="665">quiver</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="chest">
+			<sg number="1">
+				<word number="1">chest</word>
+				<word number="2">box</word>
+				<word number="3">coffer</word>
+				<word number="4">caddy</word>
+				<word number="5">case</word>
+				<word number="6">casket</word>
+				<word number="7">pyx</word>
+				<word number="8">pix</word>
+				<word number="9">caisson</word>
+				<word number="10">desk</word>
+				<word number="11">bureau</word>
+				<word number="12">reliquary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trunk</word>
+				<word number="2">portmanteau</word>
+				<word number="3">band-box</word>
+				<word number="4">valise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grip</word>
+				<word number="2">grip sack</word>
+			</sg>
+			<sg number="4">
+				<word number="1">skippet</word>
+				<word number="2">vasculum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">boot</word>
+				<word number="2">imperial</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vache</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cage</word>
+				<word number="2">manger</word>
+				<word number="3">rack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="vessel">
+			<sg number="1">
+				<word number="1">vessel</word>
+				<word number="2">vase</word>
+				<word number="3">bushel</word>
+				<word number="4">barrel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">canister</word>
+				<word number="2">jar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pottle</word>
+				<word number="2">basket</word>
+				<word number="3">pannier</word>
+				<word number="4">buck-basket</word>
+				<word number="5">hopper</word>
+				<word number="6">maund</word>
+				<word number="7">creel</word>
+				<word number="8">cran</word>
+				<word number="9">crate</word>
+				<word number="10">cradle</word>
+				<word number="11">bassinet</word>
+				<word number="12">wisket</word>
+				<word number="13">whisket</word>
+				<word number="14">jardiniere</word>
+				<word number="15">corbeille</word>
+				<word number="16">hamper</word>
+				<word number="17">dosser</word>
+				<word number="18">dorser</word>
+				<word number="19">tray</word>
+				<word number="20">hod</word>
+				<word number="21">scuttle</word>
+				<word number="22">utensil</word>
+				<word number="23" new="1">clopidogrel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">brazier</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cuspidor</word>
+				<word number="2">spittoon</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">agreed</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">agglutinin</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ceramicist</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">marginatus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="cistern">
+			<sg number="1">
+				<word number="1" paraRef="store" headRef="665">cistern</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vat</word>
+				<word number="2">caldron</word>
+				<word number="3">barrel</word>
+				<word number="4">cask</word>
+				<word number="5">drum</word>
+				<word number="6">puncheon</word>
+				<word number="7">keg</word>
+				<word number="8">rundlet</word>
+				<word number="9">tun</word>
+				<word number="10">butt</word>
+				<word number="11">cag</word>
+				<word number="12">firkin</word>
+				<word number="13">kilderkin</word>
+				<word number="14">carboy</word>
+				<word number="15">amphora</word>
+				<word number="16">bottle</word>
+				<word number="17">jar</word>
+				<word number="18">decanter</word>
+				<word number="19">ewer</word>
+				<word number="20">cruse</word>
+				<word number="21">caraffe</word>
+				<word number="22">crock</word>
+				<word number="23">kit</word>
+				<word number="24">canteen</word>
+				<word number="25">flagon</word>
+				<word number="26" new="1">runestone</word>
+				<word number="27" new="1">fabs</word>
+				<word number="28" new="1">kame</word>
+				<word number="29" new="1">dredger</word>
+				<word number="30" new="1">holt</word>
+				<word number="31" new="1">cowlick</word>
+				<word number="32" new="1">morality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">demijohn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flask</word>
+				<word number="2">flasket</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stoup</word>
+				<word number="2">noggin</word>
+				<word number="3">vial</word>
+				<word number="4">phial</word>
+				<word number="5">cruet</word>
+				<word number="6">caster</word>
+			</sg>
+			<sg number="6">
+				<word number="1">urn</word>
+				<word number="2">epergne</word>
+				<word number="3">salver</word>
+				<word number="4">patella</word>
+				<word number="5">tazza</word>
+				<word number="6">patera</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pig gin</word>
+				<word number="2">big gin</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tyg</word>
+				<word number="2">nipperkin</word>
+				<word number="3">pocket pistol</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tub</word>
+				<word number="2">bucket</word>
+				<word number="3">pail</word>
+				<word number="4">skeel</word>
+				<word number="5">pot</word>
+				<word number="6">tankard</word>
+				<word number="7">jug</word>
+				<word number="8">pitcher</word>
+				<word number="9">mug</word>
+				<word number="10">pipkin</word>
+				<word number="11" new="1">feuilleton</word>
+			</sg>
+			<sg number="10">
+				<word number="1">galipot</word>
+				<word number="2">gallipot</word>
+			</sg>
+			<sg number="11">
+				<word number="1">matrass</word>
+				<word number="2">receiver</word>
+				<word number="3">retort</word>
+				<word number="4">alembic</word>
+				<word number="5">bolthead</word>
+				<word number="6">capsule</word>
+				<word number="7">can</word>
+				<word number="8">kettle</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bowl</word>
+				<word number="2">basin</word>
+				<word number="3">jorum</word>
+				<word number="4">punch bowl</word>
+				<word number="5">cup</word>
+				<word number="6">goblet</word>
+				<word number="7">chalice</word>
+				<word number="8">tumbler</word>
+				<word number="9">glass</word>
+				<word number="10">rummer</word>
+				<word number="11">horn</word>
+				<word number="12">saucepan</word>
+				<word number="13">skillet</word>
+				<word number="14">posnet</word>
+				<word number="15">tureen</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">salbutamol</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">vanguard</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">walking</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">waddle</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">khaki</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">misinterpretation</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">salutation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="beaker">
+			<sg number="1">
+				<word number="1">beaker</word>
+				<word number="2">flask</word>
+				<word number="3">Erlenmeyer flask</word>
+				<word number="4">Florence flask</word>
+				<word number="5">round-bottom flask</word>
+				<word number="6">graduated cylinder</word>
+				<word number="7">test tube</word>
+				<word number="8">culture tube</word>
+				<word number="9">pipette</word>
+				<word number="10">Pasteur pipette</word>
+				<word number="11">disposable pipette</word>
+				<word number="12">syringe</word>
+				<word number="13">vial</word>
+				<word number="14">carboy</word>
+				<word number="15">vacuum flask</word>
+				<word number="16">Petri dish</word>
+				<word number="17">microtiter tray</word>
+				<word number="18">centrifuge tube</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="bail">
+			<sg number="1">
+				<word number="1">bail</word>
+				<word number="2">beaker</word>
+				<word number="3">billy</word>
+				<word number="4">canakin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catch basin</word>
+				<word number="2">catch drain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chatti</word>
+				<word number="2">lota</word>
+				<word number="3">mussuk</word>
+				<word number="4">schooner</word>
+				<word number="5">spider</word>
+				<word number="6">terrine</word>
+				<word number="7">toby</word>
+				<word number="8">urceus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="plate">
+			<sg number="1">
+				<word number="1">plate</word>
+				<word number="2">platter</word>
+				<word number="3">dish</word>
+				<word number="4">trencher</word>
+				<word number="5">calabash</word>
+				<word number="6">porringer</word>
+				<word number="7">potager</word>
+				<word number="8">saucer</word>
+				<word number="9">pan</word>
+				<word number="10">crucible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glassware</word>
+				<word number="2">tableware</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vitrics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="compote">
+			<sg number="1">
+				<word number="1">compote</word>
+				<word number="2">gravy boat</word>
+				<word number="3">creamer</word>
+				<word number="4">sugar bowl</word>
+				<word number="5">butter dish</word>
+				<word number="6">mug</word>
+				<word number="7">pitcher</word>
+				<word number="8">punch bowl</word>
+				<word number="9">chafing dish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="shovel">
+			<sg number="1">
+				<word number="1">shovel</word>
+				<word number="2">trowel</word>
+				<word number="3">spoon</word>
+				<word number="4">spatula</word>
+				<word number="5">ladle</word>
+				<word number="6">dipper</word>
+				<word number="7">tablespoon</word>
+				<word number="8">watch glass</word>
+				<word number="9">thimble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="closet">
+			<sg number="1">
+				<word number="1">closet</word>
+				<word number="2">commode</word>
+				<word number="3">cupboard</word>
+				<word number="4">cellaret</word>
+				<word number="5">chiffonniere</word>
+				<word number="6">locker</word>
+				<word number="7">bin</word>
+				<word number="8">bunker</word>
+				<word number="9">buffet</word>
+				<word number="10">press</word>
+				<word number="11">clothespress</word>
+				<word number="12">safe</word>
+				<word number="13">sideboard</word>
+				<word number="14">drawer</word>
+				<word number="15">chest of drawers</word>
+				<word number="16">chest on chest</word>
+				<word number="17">highboy</word>
+				<word number="18">lowboy</word>
+				<word number="19">till</word>
+				<word number="20">scrutoire</word>
+				<word number="21">secretary</word>
+				<word number="22">secretaire</word>
+				<word number="23">davenport</word>
+				<word number="24">bookcase</word>
+				<word number="25">cabinet</word>
+				<word number="26">canterbury</word>
+				<word number="27" new="1">wellknown</word>
+				<word number="28" new="1">circumlocution</word>
+				<word number="29" new="1">shebeen</word>
+				<word number="30" new="1">excision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">escritoire</word>
+				<word number="2">etagere</word>
+				<word number="3">vargueno</word>
+				<word number="4">vitrine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="chamber">
+			<sg number="1">
+				<word number="1">chamber</word>
+				<word number="2">apartment</word>
+				<word number="3">room</word>
+				<word number="4">cabin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">office</word>
+				<word number="2">court</word>
+				<word number="3">hall</word>
+				<word number="4">atrium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suite of rooms</word>
+				<word number="2">apartment</word>
+				<word number="3">flat</word>
+				<word number="4">story</word>
+			</sg>
+			<sg number="4">
+				<word number="1">saloon</word>
+				<word number="2">salon</word>
+				<word number="3">parlor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">by-room</word>
+				<word number="2">cubicle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">presence chamber</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sitting room</word>
+				<word number="2">best room</word>
+				<word number="3">keeping room</word>
+				<word number="4">drawing room</word>
+				<word number="5">reception room</word>
+				<word number="6">state room</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gallery</word>
+				<word number="2">cabinet</word>
+				<word number="3">closet</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pew</word>
+				<word number="2">box</word>
+			</sg>
+			<sg number="10">
+				<word number="1">boudoir</word>
+			</sg>
+			<sg number="11">
+				<word number="1">adytum</word>
+				<word number="2">sanctum</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bedroom</word>
+				<word number="2">dormitory</word>
+			</sg>
+			<sg number="13">
+				<word number="1">refectory</word>
+				<word number="2">dining room</word>
+				<word number="3">salle-a-manger</word>
+			</sg>
+			<sg number="14">
+				<word number="1">nursery</word>
+				<word number="2">schoolroom</word>
+			</sg>
+			<sg number="15">
+				<word number="1">library</word>
+				<word number="2">study</word>
+			</sg>
+			<sg number="16">
+				<word number="1">studio</word>
+			</sg>
+			<sg number="17">
+				<word number="1">billiard room</word>
+				<word number="2">smoking room</word>
+			</sg>
+			<sg number="18">
+				<word number="1">den</word>
+			</sg>
+			<sg number="19">
+				<word number="1">stateroom</word>
+				<word number="2">tablinum</word>
+				<word number="3">tenement</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">businesswomen</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">ultrafilter</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">womb</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">colonoscopy</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">pra</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="bath room">
+			<sg number="1">
+				<word number="1">bath room</word>
+				<word number="2">bathroom</word>
+				<word number="3">toilet</word>
+				<word number="4">lavatory</word>
+				<word number="5">powder room</word>
+				<word number="6" new="1">tsuki</word>
+			</sg>
+			<sg number="2">
+				<word number="1">john</word>
+				<word number="2">jakes</word>
+				<word number="3">necessary</word>
+				<word number="4">loo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">men's room</word>
+				<word number="2">ladies' room</word>
+				<word number="3">rest room</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="uncleanness" headRef="682">fixtures</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="attic">
+			<sg number="1">
+				<word number="1">attic</word>
+				<word number="2">loft</word>
+				<word number="3">garret</word>
+				<word number="4">cockloft</word>
+				<word number="5">clerestory</word>
+				<word number="6" new="1">perles</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cellar</word>
+				<word number="2">vault</word>
+				<word number="3">hold</word>
+				<word number="4">cockpit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cubbyhole</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cook house</word>
+			</sg>
+			<sg number="5">
+				<word number="1">entre-sol</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mezzanine floor</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ground floor</word>
+				<word number="2">rez-de-chaussee</word>
+			</sg>
+			<sg number="8">
+				<word number="1">basement</word>
+				<word number="2">kitchen</word>
+				<word number="3">pantry</word>
+				<word number="4">bawarchi-khana</word>
+				<word number="5">scullery</word>
+				<word number="6">offices</word>
+				<word number="7" new="1">gillnets</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="depository" headRef="665">storeroom</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lumber room</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dairy</word>
+				<word number="2">laundry</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">bowhead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="coach house">
+			<sg number="1">
+				<word number="1">coach house</word>
+			</sg>
+			<sg number="2">
+				<word number="1">garage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hangar</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outhouse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">penthouse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lean-to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="portico">
+			<sg number="1">
+				<word number="1">portico</word>
+				<word number="2">porch</word>
+				<word number="3">stoop</word>
+				<word number="4">stope</word>
+				<word number="5">veranda</word>
+				<word number="6">patio</word>
+				<word number="7">lanai</word>
+				<word number="8">terrace</word>
+				<word number="9">deck</word>
+				<word number="10" new="1">vos</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lobby</word>
+				<word number="2">court</word>
+				<word number="3">courtyard</word>
+				<word number="4">hall</word>
+				<word number="5">vestibule</word>
+				<word number="6">corridor</word>
+				<word number="7">passage</word>
+				<word number="8">breezeway</word>
+				<word number="9" new="1">burying</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ante room</word>
+				<word number="2">ante chamber</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lounge</word>
+			</sg>
+			<sg number="5">
+				<word number="1">piazza</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">laminar</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">photochemistry</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">exarch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="conservatory">
+			<sg number="1">
+				<word number="1">conservatory</word>
+				<word number="2">greenhouse</word>
+				<word number="3">bower</word>
+				<word number="4">arbor</word>
+				<word number="5">summerhouse</word>
+				<word number="6">alcove</word>
+				<word number="7">grotto</word>
+				<word number="8">hermitage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="lodging">
+			<sg number="1">
+				<word number="1" paraRef="abode" headRef="198">lodging</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="support" headRef="224">bed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="vehicle" headRef="283">carriage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="clausus">
+			<sg number="1">
+				<word number="1" new="1">clausus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="cow">
+			<sg number="1">
+				<word number="1" new="1">cow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="glucosamine">
+			<sg number="1">
+				<word number="1" new="1">glucosamine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="gambier">
+			<sg number="1">
+				<word number="1" new="1">gambier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="bathysphere">
+			<sg number="1">
+				<word number="1" new="1">bathysphere</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="tangent">
+			<sg number="1">
+				<word number="1" new="1">tangent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="chowder">
+			<sg number="1">
+				<word number="1" new="1">chowder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="moa">
+			<sg number="1">
+				<word number="1" new="1">moa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="wavefront">
+			<sg number="1">
+				<word number="1" new="1">wavefront</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="secunda">
+			<sg number="1">
+				<word number="1" new="1">secunda</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="cinder">
+			<sg number="1">
+				<word number="1" new="1">cinder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="leukotrienes">
+			<sg number="1">
+				<word number="1" new="1">leukotrienes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="taiga">
+			<sg number="1">
+				<word number="1" new="1">taiga</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="characterises">
+			<sg number="1">
+				<word number="1" new="1">characterises</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="hajji">
+			<sg number="1">
+				<word number="1" new="1">hajji</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="reality">
+			<sg number="1">
+				<word number="1" new="1">reality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="38" name="assistantship">
+			<sg number="1">
+				<word number="1" new="1">assistantship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="39" name="hindneck">
+			<sg number="1">
+				<word number="1" new="1">hindneck</word>
+			</sg>
+		</paragraph>
+		<paragraph number="40" name="missioner">
+			<sg number="1">
+				<word number="1" new="1">missioner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="41" name="subpage">
+			<sg number="1">
+				<word number="1" new="1">subpage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="42" name="flak">
+			<sg number="1">
+				<word number="1" new="1">flak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="43" name="dentaries">
+			<sg number="1">
+				<word number="1" new="1">dentaries</word>
+			</sg>
+		</paragraph>
+		<paragraph number="44" name="conservativism">
+			<sg number="1">
+				<word number="1" new="1">conservativism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="45" name="dean">
+			<sg number="1">
+				<word number="1" new="1">dean</word>
+			</sg>
+		</paragraph>
+		<paragraph number="46" name="ambulance">
+			<sg number="1">
+				<word number="1" new="1">ambulance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="47" name="patriotism">
+			<sg number="1">
+				<word number="1" new="1">patriotism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="48" name="oscillator">
+			<sg number="1">
+				<word number="1" new="1">oscillator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="49" name="reassignment">
+			<sg number="1">
+				<word number="1" new="1">reassignment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="capsular">
+			<sg number="1">
+				<word number="1">capsular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saccular</word>
+				<word number="2">sacculated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recipient</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ventricular</word>
+				<word number="2">cystic</word>
+				<word number="3">vascular</word>
+				<word number="4">vesicular</word>
+				<word number="5">cellular</word>
+				<word number="6">camerated</word>
+				<word number="7">locular</word>
+				<word number="8">multilocular</word>
+				<word number="9">polygastric</word>
+			</sg>
+			<sg number="5">
+				<word number="1">marsupial</word>
+			</sg>
+			<sg number="6">
+				<word number="1">siliquose</word>
+				<word number="2">siliquous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

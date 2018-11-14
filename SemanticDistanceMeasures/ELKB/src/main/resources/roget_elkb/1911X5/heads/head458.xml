@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="458" name="Orange" origNum="#439." class="3" section="3" subSection="2" headGroup="33">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="orange">
+			<sg number="1">
+				<word number="1">orange</word>
+				<word number="2">red and yellow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gold</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flame color</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ocher">
+			<sg number="1">
+				<word number="1">ocher</word>
+				<word number="2">Mars'orange</word>
+				<word number="3">cadmium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cardinal bird">
+			<sg number="1">
+				<word number="1">cardinal bird</word>
+				<word number="2">cardinal flower</word>
+				<word number="3">cardinal grosbeak</word>
+				<word number="4">cardinal lobelia</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="gild">
+			<sg number="1">
+				<word number="1">gild</word>
+				<word number="2">warm</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="orange">
+			<sg number="1">
+				<word number="1">orange</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ochreous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">orange-colored</word>
+				<word number="2">gold-colored</word>
+				<word number="3">flame-colored</word>
+				<word number="4">copper-colored</word>
+				<word number="5">brass-colored</word>
+				<word number="6">apricot-colored</word>
+			</sg>
+			<sg number="4">
+				<word number="1">warm</word>
+				<word number="2">hot</word>
+				<word number="3">glowing</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

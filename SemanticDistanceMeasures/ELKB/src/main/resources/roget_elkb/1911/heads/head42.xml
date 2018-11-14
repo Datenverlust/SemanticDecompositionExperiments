@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="42" name="Remainder" origNum="#40." class="1" section="3" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="remainder">
+			<sg number="1">
+				<word number="1">remainder</word>
+				<word number="2">residue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">remains</word>
+				<word number="2">remanent</word>
+				<word number="3">remnant</word>
+				<word number="4">rest</word>
+				<word number="5">relic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leavings</word>
+				<word number="2">heeltap</word>
+				<word number="3">odds and ends</word>
+				<word number="4">cheesepairings</word>
+				<word number="5">candle ends</word>
+				<word number="6">orts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">residuum</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="dirt" headRef="682">dregs</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="useless" headRef="674">refuse</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stubble</word>
+				<word number="2">result</word>
+				<word number="3">educt</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fag-end</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ruins</word>
+				<word number="2">wreck</word>
+				<word number="3">skeleton</word>
+				<word number="4">stump</word>
+			</sg>
+			<sg number="10">
+				<word number="1">alluvium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="surplus">
+			<sg number="1">
+				<word number="1">surplus</word>
+				<word number="2">overplus</word>
+				<word number="3">excess</word>
+			</sg>
+			<sg number="2">
+				<word number="1">balance</word>
+				<word number="2">complement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">superplus</word>
+				<word number="2">surplusage</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="redundancy" headRef="670">superfluity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">survival</word>
+				<word number="2">survivance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="remain">
+			<sg number="1">
+				<word number="1">remain</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be left</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exceed</word>
+				<word number="2">survive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">leave</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="remaining">
+			<sg number="1">
+				<word number="1">remaining</word>
+				<word number="2">left</word>
+			</sg>
+			<sg number="2">
+				<word number="1">left behind  left over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">residual</word>
+				<word number="2">residuary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">over</word>
+				<word number="2">odd</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unconsumed</word>
+				<word number="2">sedimentary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">surviving</word>
+			</sg>
+			<sg number="7">
+				<word number="1">net</word>
+			</sg>
+			<sg number="8">
+				<word number="1">exceeding</word>
+				<word number="2">over and above</word>
+			</sg>
+			<sg number="9">
+				<word number="1">outlying</word>
+				<word number="2">outstanding</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="cast off" headRef="815">cast off</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="redundant" headRef="670">superfluous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

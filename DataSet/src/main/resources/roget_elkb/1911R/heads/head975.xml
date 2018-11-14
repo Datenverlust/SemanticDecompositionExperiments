@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="975" name="Flattery" origNum="#933." class="8" section="4" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="flattery">
+			<sg number="1">
+				<word number="1">flattery</word>
+				<word number="2">adulation</word>
+				<word number="3">gloze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blandishment</word>
+				<word number="2">blandiloquence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cajolery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fawning</word>
+				<word number="2" paraRef="" posRef="v.">wheedling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">captation</word>
+				<word number="2">coquetry</word>
+				<word number="3">obsequiousness</word>
+				<word number="4">sycophancy</word>
+				<word number="5">flunkeyism</word>
+				<word number="6">toadeating</word>
+				<word number="7">tuft-hunting</word>
+			</sg>
+			<sg number="6">
+				<word number="1">snobbishness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="incense">
+			<sg number="1">
+				<word number="1">incense</word>
+				<word number="2">honeyed words</word>
+				<word number="3">flummery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bunkum</word>
+				<word number="2">buncombe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blarney</word>
+				<word number="2">placebo</word>
+				<word number="3">butter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">soft soap</word>
+				<word number="2">soft sawder</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rose water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="voice of the charmer">
+			<sg number="1">
+				<word number="1">voice of the charmer</word>
+				<word number="2">mouth honor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lip homage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">euphemism</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">unctuousness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="flatter">
+			<sg number="1">
+				<word number="1">flatter</word>
+				<word number="2">praise to the skies</word>
+				<word number="3">puff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wheedle</word>
+				<word number="2">cajole</word>
+				<word number="3">glaver</word>
+				<word number="4">coax</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fawn upon</word>
+				<word number="2">faun upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">humor</word>
+				<word number="2">gloze</word>
+				<word number="3">soothe</word>
+				<word number="4">pet</word>
+				<word number="5">coquet</word>
+				<word number="6">slaver</word>
+				<word number="7">butter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jolly</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bespatter</word>
+				<word number="2">beslubber</word>
+				<word number="3">beplaster</word>
+				<word number="4">beslaver</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay it on thick</word>
+				<word number="2">overpraise</word>
+			</sg>
+			<sg number="8">
+				<word number="1">earwig</word>
+				<word number="2">cog</word>
+				<word number="3">collogue</word>
+			</sg>
+			<sg number="9">
+				<word number="1">truckle to</word>
+				<word number="2">pander to</word>
+				<word number="3">pandar to</word>
+				<word number="4">suck up to</word>
+				<word number="5">kiss the ass of</word>
+				<word number="6">pay court to</word>
+			</sg>
+			<sg number="10">
+				<word number="1">court</word>
+			</sg>
+			<sg number="11">
+				<word number="1">creep into the good graces of</word>
+				<word number="2">curry favor with</word>
+				<word number="3">hang on the sleeve of</word>
+			</sg>
+			<sg number="12">
+				<word number="1">fool to the top of one's bent</word>
+			</sg>
+			<sg number="13">
+				<word number="1">lick the dust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lay the flattering unction to one's soul">
+			<sg number="1">
+				<word number="1">lay the flattering unction to one's soul</word>
+				<word number="2">gild the pill</word>
+				<word number="3">make things pleasant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="overestimate">
+			<sg number="1">
+				<word number="1" paraRef="overestimate" headRef="506">overestimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exaggerate" headRef="575">exaggerate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="flattering">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">flattering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adulatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mealy-mouthed</word>
+				<word number="2">honey-mouthed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">honeyed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">smooth</word>
+				<word number="2">smooth-tongued</word>
+			</sg>
+			<sg number="6">
+				<word number="1">soapy</word>
+				<word number="2">oily</word>
+				<word number="3">unctuous</word>
+				<word number="4">blandiloquent</word>
+				<word number="5">specious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fine-spoken</word>
+				<word number="2">fair spoken</word>
+			</sg>
+			<sg number="8">
+				<word number="1">plausible</word>
+				<word number="2">servile</word>
+				<word number="3">sycophantic</word>
+				<word number="4">fulsome</word>
+			</sg>
+			<sg number="9">
+				<word number="1">courtierly</word>
+				<word number="2">courtier-like</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ad captandum">
+			<sg number="1">
+				<word number="1">ad captandum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

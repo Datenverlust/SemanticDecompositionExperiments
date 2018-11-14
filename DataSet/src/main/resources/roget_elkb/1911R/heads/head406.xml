@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="406" name="Pungency" origNum="#392." class="3" section="3" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pungency">
+			<sg number="1">
+				<word number="1">pungency</word>
+				<word number="2">piquance</word>
+				<word number="3">piquancy</word>
+				<word number="4">poignancy haut- gout</word>
+				<word number="5">strong taste</word>
+				<word number="6">twang</word>
+				<word number="7">race</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sharpness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">sharpness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acrimony</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sour" headRef="413">roughness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unsavoriness" headRef="411">unsavoriness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mustard">
+			<sg number="1">
+				<word number="1">mustard</word>
+				<word number="2">cayenne</word>
+				<word number="3">caviare</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="condiment" headRef="409">seasoning</word>
+			</sg>
+			<sg number="3">
+				<word number="1">niter</word>
+				<word number="2">saltpeter</word>
+				<word number="3" paraRef="saltiness" headRef="407">brine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">carbonate of ammonia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sal ammoniac</word>
+				<word number="2">sal volatile</word>
+				<word number="3">smelling salts</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="acridity" headRef="418">hartshorn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dram">
+			<sg number="1">
+				<word number="1">dram</word>
+				<word number="2">cordial</word>
+				<word number="3">nip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="nicotine">
+			<sg number="1">
+				<word number="1">nicotine</word>
+				<word number="2">tobacco</word>
+				<word number="3">snuff</word>
+				<word number="4">quid</word>
+				<word number="5">smoke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">segar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cigar</word>
+				<word number="2">cigarette</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fragrant weed</word>
+				<word number="2">Indian weed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Cavendish</word>
+				<word number="2">fid</word>
+				<word number="3">negro head</word>
+				<word number="4">old soldier</word>
+				<word number="5">rappee</word>
+				<word number="6">stogy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be pungent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be pungent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bite the tongue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render pungent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render pungent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">season</word>
+				<word number="2">spice</word>
+				<word number="3">salt</word>
+				<word number="4">pepper</word>
+				<word number="5">pickle</word>
+				<word number="6">brine</word>
+				<word number="7">devil</word>
+				<word number="8" new="1">trickle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="smoke">
+			<sg number="1">
+				<word number="1">smoke</word>
+				<word number="2">chew</word>
+				<word number="3">take snuff</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pungent">
+			<sg number="1">
+				<word number="1">pungent</word>
+				<word number="2">strong</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high-flavored</word>
+				<word number="2">full-flavored</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high-tasted</word>
+				<word number="2">high- seasoned</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gamy</word>
+				<word number="2">sharp</word>
+				<word number="3">stinging</word>
+				<word number="4">rough</word>
+				<word number="5">piquant</word>
+				<word number="6">racy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">biting</word>
+				<word number="2">mordant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spicy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">seasoned</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hot</word>
+				<word number="2">hot as pepper</word>
+			</sg>
+			<sg number="9">
+				<word number="1">peppery</word>
+				<word number="2">vellicating</word>
+				<word number="3">escharotic</word>
+				<word number="4">meracious</word>
+			</sg>
+			<sg number="10">
+				<word number="1">acrid</word>
+				<word number="2">acrimonious</word>
+				<word number="3">bitter</word>
+				<word number="4" new="1">bookended</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="sour" headRef="413">rough</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="unsavory" headRef="411">unsavory</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">superscripted</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">burned</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">orally</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">unflappable</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">vehement</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">dermatologic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

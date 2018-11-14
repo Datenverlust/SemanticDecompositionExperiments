@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="704" name="Essay" origNum="#675." class="6" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="essay">
+			<sg number="1">
+				<word number="1">essay</word>
+				<word number="2">trial</word>
+				<word number="3">endeavor</word>
+				<word number="4">attempt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aim</word>
+				<word number="2">struggle</word>
+				<word number="3">venture</word>
+				<word number="4">adventure</word>
+				<word number="5">speculation</word>
+				<word number="6">coup d'essai</word>
+				<word number="7">debut</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="experiment" headRef="483">probation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="try">
+			<sg number="1">
+				<word number="1">try</word>
+				<word number="2">essay</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="experiment" headRef="483">experiment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">endeavor</word>
+				<word number="2">strive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tempt</word>
+				<word number="2">attempt</word>
+				<word number="3">make an attempt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">venture</word>
+				<word number="2">adventure</word>
+				<word number="3">speculate</word>
+				<word number="4">take one's chance</word>
+				<word number="5">tempt fortune</word>
+			</sg>
+			<sg number="6">
+				<word number="1">try one's fortune</word>
+				<word number="2">try one's luck</word>
+				<word number="3">try one's hand</word>
+			</sg>
+			<sg number="7">
+				<word number="1">use one's endeavor</word>
+			</sg>
+			<sg number="8">
+				<word number="1">feel one's way</word>
+				<word number="2">grope one's way</word>
+				<word number="3">pick one's way</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="try hard">
+			<sg number="1">
+				<word number="1">try hard</word>
+				<word number="2">push</word>
+				<word number="3">make a bold push</word>
+				<word number="4">use one's best endeavor</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exertion" headRef="715">do one's best</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="essaying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">essaying</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="experimental" headRef="483">experimental</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tentative</word>
+				<word number="2">empirical</word>
+				<word number="3">probationary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="experimentally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">experimentally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on trial</word>
+				<word number="2">at a venture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by rule of thumb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="if one may be so bold">
+			<sg number="1">
+				<word number="1">if one may be so bold</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="aut non tentaris aut perfice">
+			<sg number="1">
+				<word number="1">aut non tentaris aut perfice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chi non s'arrischia non guadagna</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

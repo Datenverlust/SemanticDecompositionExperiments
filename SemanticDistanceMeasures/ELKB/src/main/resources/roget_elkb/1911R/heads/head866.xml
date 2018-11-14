@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="866" name="Pain" origNum="#828." class="8" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="mental suffering">
+			<sg number="1">
+				<word number="1">mental suffering</word>
+				<word number="2">pain</word>
+				<word number="3">dolor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suffering</word>
+				<word number="2">sufferance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ache</word>
+				<word number="2" paraRef="physical pain" headRef="391">smart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">passion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="displeasure">
+			<sg number="1">
+				<word number="1">displeasure</word>
+				<word number="2">dissatisfaction</word>
+				<word number="3">discomfort</word>
+				<word number="4">discomposure</word>
+				<word number="5">disquiet</word>
+				<word number="6" new="1">rainout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">malaise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inquietude</word>
+				<word number="2">uneasiness</word>
+				<word number="3">vexation of spirit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">taking</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="discontent" headRef="870">discontent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dejection">
+			<sg number="1">
+				<word number="1" paraRef="dejection" headRef="875">dejection</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="weariness" headRef="879">weariness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anhedonia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="annoyance">
+			<sg number="1">
+				<word number="1">annoyance</word>
+				<word number="2">irritation</word>
+				<word number="3">worry</word>
+				<word number="4">infliction</word>
+				<word number="5">visitation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plague</word>
+				<word number="2">bore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bother</word>
+				<word number="2">botheration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stew</word>
+				<word number="2">vexation</word>
+				<word number="3">mortification</word>
+				<word number="4">chagrin</word>
+				<word number="5">esclandre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mauvais quart d'heur</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="care">
+			<sg number="1">
+				<word number="1">care</word>
+				<word number="2">anxiety</word>
+				<word number="3">solicitude</word>
+				<word number="4">trouble</word>
+				<word number="5">trial</word>
+				<word number="6">ordeal</word>
+				<word number="7">fiery ordeal</word>
+				<word number="8">shock</word>
+				<word number="9">blow</word>
+				<word number="10">cark</word>
+				<word number="11">dole</word>
+				<word number="12">fret</word>
+				<word number="13">burden</word>
+				<word number="14">load</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="concern">
+			<sg number="1">
+				<word number="1">concern</word>
+				<word number="2">grief</word>
+				<word number="3">sorrow</word>
+				<word number="4">distress</word>
+				<word number="5">affliction</word>
+				<word number="6">woe</word>
+				<word number="7">bitterness</word>
+				<word number="8">heartache</word>
+			</sg>
+			<sg number="2">
+				<word number="1">carking cares</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heavy heart</word>
+				<word number="2">aching heart</word>
+				<word number="3">bleeding heart</word>
+				<word number="4">broken heart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heavy affliction</word>
+				<word number="2">gnawing grief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="unhappiness">
+			<sg number="1">
+				<word number="1">unhappiness</word>
+				<word number="2">infelicity</word>
+				<word number="3">misery</word>
+				<word number="4">tribulation</word>
+				<word number="5">wretchedness</word>
+				<word number="6">desolation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="despair" headRef="898">despair</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extremity</word>
+				<word number="2">prostration</word>
+				<word number="3">depth of misery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="nightmare">
+			<sg number="1">
+				<word number="1">nightmare</word>
+				<word number="2">ephialtes</word>
+				<word number="3">incubus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="pang">
+			<sg number="1">
+				<word number="1">pang</word>
+				<word number="2">anguish</word>
+				<word number="3">agony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">torture</word>
+				<word number="2">torment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hell" headRef="1025">purgatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="hell upon earth">
+			<sg number="1">
+				<word number="1">hell upon earth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">iron age</word>
+				<word number="2">reign of terror</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="adversity" headRef="764">slough of despond</word>
+			</sg>
+			<sg number="4">
+				<word number="1">peck of troubles</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="evil" headRef="648">"ills that flesh is heir to"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">miseries of human life</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"unkindest cut of all"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="sufferer">
+			<sg number="1">
+				<word number="1">sufferer</word>
+				<word number="2">victim</word>
+				<word number="3">prey</word>
+				<word number="4">martyr</word>
+				<word number="5">object of compassion</word>
+				<word number="6">wretch</word>
+				<word number="7">shorn lamb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="escalator">
+			<sg number="1">
+				<word number="1" new="1">escalator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="nagara">
+			<sg number="1">
+				<word number="1" new="1">nagara</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="cheerio">
+			<sg number="1">
+				<word number="1" new="1">cheerio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="dudgeon">
+			<sg number="1">
+				<word number="1" new="1">dudgeon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="badugi">
+			<sg number="1">
+				<word number="1" new="1">badugi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="contagion">
+			<sg number="1">
+				<word number="1" new="1">contagion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="template">
+			<sg number="1">
+				<word number="1" new="1">template</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="ide">
+			<sg number="1">
+				<word number="1" new="1">ide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="cornerman">
+			<sg number="1">
+				<word number="1" new="1">cornerman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="sitdown">
+			<sg number="1">
+				<word number="1" new="1">sitdown</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="claustrophobia">
+			<sg number="1">
+				<word number="1" new="1">claustrophobia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="leah">
+			<sg number="1">
+				<word number="1" new="1">leah</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="feel pain">
+			<sg number="1">
+				<word number="1">feel pain</word>
+				<word number="2">suffer pain</word>
+				<word number="3">experience pain</word>
+				<word number="4">undergo pain</word>
+				<word number="5">bear pain</word>
+				<word number="6" paraRef="" posRef="n.">endure pain</word>
+				<word number="7">smart</word>
+				<word number="8" paraRef="physical pain" headRef="391">ache</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suffer</word>
+				<word number="2">bleed</word>
+				<word number="3">ail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be the victim of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="labor under afflictions">
+			<sg number="1">
+				<word number="1">labor under afflictions</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bear the cross</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quaff the bitter cup</word>
+				<word number="2">have a bad time of it</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="adversity" headRef="764">fall on evil days</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go hard with</word>
+				<word number="2">come to grief</word>
+				<word number="3">fall a sacrifice to</word>
+				<word number="4">drain the cup of misery to the dregs</word>
+				<word number="5">"sup full of horrors"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sit on thorns">
+			<sg number="1">
+				<word number="1">sit on thorns</word>
+				<word number="2">be on pins and needles</word>
+				<word number="3">wince</word>
+				<word number="4">fret</word>
+				<word number="5">chafe</word>
+				<word number="6">worry oneself</word>
+				<word number="7">be in a taking</word>
+				<word number="8">fret and fume</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take on</word>
+				<word number="2">take to heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="grieve">
+			<sg number="1">
+				<word number="1">grieve</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lament" headRef="877">mourn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yearn</word>
+				<word number="2">repine</word>
+				<word number="3">pine</word>
+				<word number="4">droop</word>
+				<word number="5">languish</word>
+				<word number="6">sink</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give way</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="despair" headRef="898">despair</word>
+			</sg>
+			<sg number="6">
+				<word number="1">break one's heart</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="inflict pain" headRef="868">weigh upon the heart</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in pain">
+			<sg number="1">
+				<word number="1">in pain</word>
+				<word number="2">in a state of pain</word>
+				<word number="3" paraRef="" posRef="n.">full of pain</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">suffering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pained</word>
+				<word number="2">afflicted</word>
+				<word number="3">worried</word>
+				<word number="4" paraRef="displease" headRef="868">displeased</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aching</word>
+				<word number="2">griped</word>
+				<word number="3" paraRef="physical pain" headRef="391">sore</word>
+			</sg>
+			<sg number="5">
+				<word number="1">on the rack</word>
+				<word number="2">in limbo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">between hawk and buzzard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="uncomfortable">
+			<sg number="1">
+				<word number="1">uncomfortable</word>
+				<word number="2">uneasy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill at ease</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in a taking</word>
+				<word number="2">in a way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disturbed</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="discontented" headRef="870">discontented</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="out of humor" headRef="941">out of humor</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="weary" headRef="879">weary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="heavy laden">
+			<sg number="1">
+				<word number="1">heavy laden</word>
+				<word number="2">stricken</word>
+				<word number="3">crushed</word>
+				<word number="4">a prey to</word>
+				<word number="5">victimized</word>
+				<word number="6">ill-used</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unfortunate">
+			<sg number="1">
+				<word number="1" paraRef="hapless" headRef="764">unfortunate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to be pitied</word>
+				<word number="2">doomed</word>
+				<word number="3">devoted</word>
+				<word number="4">accursed</word>
+				<word number="5">undone</word>
+				<word number="6">lost</word>
+				<word number="7">stranded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fey</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unhappy">
+			<sg number="1">
+				<word number="1">unhappy</word>
+				<word number="2">infelicitous</word>
+				<word number="3">poor</word>
+				<word number="4">wretched</word>
+				<word number="5">miserable</word>
+				<word number="6">woe-begone</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be dejected" headRef="875">cheerless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">careworn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="concerned">
+			<sg number="1">
+				<word number="1">concerned</word>
+				<word number="2">sorry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sorrowing</word>
+				<word number="2">sorrowful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cut up</word>
+				<word number="2">chagrined</word>
+				<word number="3">horrified</word>
+				<word number="4">horror-stricken</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in grief</word>
+				<word number="2">plunged in grief</word>
+				<word number="3" paraRef="" posRef="n.">a prey to grief</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="lamenting" headRef="877">in tears</word>
+			</sg>
+			<sg number="6">
+				<word number="1">steeped to the lips in misery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">heart-stricken</word>
+				<word number="2">heart-broken</word>
+				<word number="3">heart-scalded</word>
+			</sg>
+			<sg number="8">
+				<word number="1">broken-hearted</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="in despair" headRef="898">in despair</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the iron entered into our soul">
+			<sg number="1">
+				<word number="1">"the iron entered into our soul"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">haeret lateri lethalis arundo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one's heart bleeding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"down</word>
+				<word number="2">thou climbing sorrow"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"mirth cannot move a soul in agony"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nessun maggior dolere che ricordarsi del tempo felice nella miseria</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"sorrow's crown of sorrow is remembering happier things"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"the Niobe of Nations"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

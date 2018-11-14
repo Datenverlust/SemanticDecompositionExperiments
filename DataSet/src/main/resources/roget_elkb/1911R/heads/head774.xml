@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="774" name="Obedience" origNum="#743." class="7" section="1" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="obedience">
+			<sg number="1">
+				<word number="1">obedience</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="observance" headRef="804">observance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compliance</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="submission" headRef="754">submission</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="subjection" headRef="780">subjection</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nonresistance</word>
+			</sg>
+			<sg number="7">
+				<word number="1">passiveness</word>
+				<word number="2">resignation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="allegiance">
+			<sg number="1">
+				<word number="1">allegiance</word>
+				<word number="2">loyalty</word>
+				<word number="3">fealty</word>
+				<word number="4">homage</word>
+				<word number="5">deference</word>
+				<word number="6">devotion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">constancy</word>
+				<word number="2">fidelity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">expatriation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="submissness">
+			<sg number="1">
+				<word number="1">submissness</word>
+				<word number="2">submissiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="softness" headRef="335">ductility</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="servility" headRef="925">obsequiousness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -obedient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -obedient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obey</word>
+				<word number="2">bear obedience to</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="submit" headRef="754">submit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">comply</word>
+				<word number="2">answer the helm</word>
+				<word number="3">come at one's call</word>
+			</sg>
+			<sg number="5">
+				<word number="1">do one's bidding</word>
+				<word number="2">do what one is told</word>
+				<word number="3">do suit and service</word>
+			</sg>
+			<sg number="6">
+				<word number="1">attend to orders</word>
+				<word number="2">serve faithfully</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="follow the lead of">
+			<sg number="1">
+				<word number="1">follow the lead of</word>
+				<word number="2">follow to the world's end</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="serve" headRef="777">serve</word>
+			</sg>
+			<sg number="3">
+				<word number="1">play second fiddle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="obedient">
+			<sg number="1">
+				<word number="1">obedient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">complying</word>
+				<word number="2">compliant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">loyal</word>
+				<word number="2">faithful</word>
+				<word number="3">devoted</word>
+				<word number="4" new="1">unverifiable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at one's call</word>
+				<word number="2">at one's command</word>
+				<word number="3">at one's orders</word>
+				<word number="4">at one's beck and call</word>
+			</sg>
+			<sg number="5">
+				<word number="1">under beck and call</word>
+				<word number="2">under control</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="restrainable">
+			<sg number="1">
+				<word number="1">restrainable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resigned</word>
+				<word number="2">passive</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="submissive" headRef="754">submissive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">henpecked</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="soft" headRef="335">pliant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unresisted">
+			<sg number="1">
+				<word number="1">unresisted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="obediently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">obediently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in compliance with</word>
+				<word number="2">in obedience to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="to hear is to obey">
+			<sg number="1">
+				<word number="1">to hear is to obey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as you please</word>
+				<word number="2">if you please</word>
+			</sg>
+			<sg number="3">
+				<word number="1">your wish is my command</word>
+			</sg>
+			<sg number="4">
+				<word number="1">as you wish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">no sooner said than done</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

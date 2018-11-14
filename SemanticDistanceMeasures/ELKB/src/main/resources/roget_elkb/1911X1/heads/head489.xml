@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="489" name="Measurement" origNum="#466." class="4" section="2" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="measurement">
+			<sg number="1">
+				<word number="1">measurement</word>
+				<word number="2">admeasurement</word>
+				<word number="3">mensuration</word>
+				<word number="4">survey</word>
+				<word number="5">valuation</word>
+				<word number="6">appraisement</word>
+				<word number="7">assessment</word>
+				<word number="8">assize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">estimate</word>
+				<word number="2">estimation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dead reckoning</word>
+				<word number="2" paraRef="numeration" headRef="89">reckoning</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">gauging</word>
+			</sg>
+			<sg number="5">
+				<word number="1">horse power</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="metrology">
+			<sg number="1">
+				<word number="1">metrology</word>
+				<word number="2">weights and measures</word>
+				<word number="3">compound arithmetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="measure">
+			<sg number="1">
+				<word number="1">measure</word>
+				<word number="2">yard measure</word>
+				<word number="3">standard</word>
+				<word number="4">rule</word>
+				<word number="5">foot rule</word>
+				<word number="6">compass</word>
+				<word number="7">calipers</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gage</word>
+				<word number="2">gauge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meter</word>
+				<word number="2">line</word>
+				<word number="3">rod</word>
+				<word number="4">check</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dividers</word>
+			</sg>
+			<sg number="5">
+				<word number="1">velo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="flood mark">
+			<sg number="1">
+				<word number="1">flood mark</word>
+				<word number="2">high water mark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Plimsoll line</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="index" headRef="576">index</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="scale">
+			<sg number="1">
+				<word number="1">scale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">graduation</word>
+				<word number="2">graduated scale</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nonius</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="minute" headRef="202">vernier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="bathometer">
+			<sg number="1">
+				<word number="1">bathometer</word>
+				<word number="2">galvanometer</word>
+				<word number="3">heliometer</word>
+				<word number="4">interferometer</word>
+				<word number="5">odometer</word>
+				<word number="6">ombrometer</word>
+				<word number="7">pantometer</word>
+				<word number="8">pluviometer</word>
+				<word number="9">pneumatometer</word>
+				<word number="10">pneumometer</word>
+				<word number="11">radiometer</word>
+				<word number="12">refractometer</word>
+				<word number="13">respirometer</word>
+				<word number="14">rheometer</word>
+				<word number="15">spirometer</word>
+				<word number="16">telemeter</word>
+				<word number="17">udometer</word>
+				<word number="18">vacuometer</word>
+				<word number="19">variometer</word>
+				<word number="20">viameter</word>
+				<word number="21">thermometer</word>
+				<word number="22" paraRef="heat" headRef="395">thermistor</word>
+				<word number="23" paraRef="air" headRef="349">barometer</word>
+				<word number="24" paraRef="wind" headRef="360">anemometer</word>
+				<word number="25">dynamometer</word>
+				<word number="26" paraRef="angle" headRef="254">goniometer</word>
+				<word number="27" new="1">hydrometer</word>
+				<word number="28" new="1">hygrometer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">meter</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="limit" headRef="243">landmark</word>
+			</sg>
+			<sg number="4">
+				<word number="1">balance</word>
+				<word number="2" paraRef="weight" headRef="330">scale</word>
+			</sg>
+			<sg number="5">
+				<word number="1">marigraph</word>
+				<word number="2">pneumatograph</word>
+				<word number="3">stethograph</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rain gauge</word>
+				<word number="2">rain gage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">voltmeter (volts)</word>
+				<word number="2">ammeter (amps)</word>
+			</sg>
+			<sg number="8">
+				<word number="1">spectrophotometer (light absorbance)</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mass spectrophotometer(molecular mass)</word>
+			</sg>
+			<sg number="10">
+				<word number="1">geiger counter</word>
+				<word number="2">scintillation counter(radioactivity)</word>
+			</sg>
+			<sg number="11">
+				<word number="1">pycnometer (liquid density)</word>
+			</sg>
+			<sg number="12">
+				<word number="1">graduated cylinder</word>
+				<word number="2">volumetric flask (volume)</word>
+			</sg>
+			<sg number="13">
+				<word number="1">radar gun (velocity)</word>
+			</sg>
+			<sg number="14">
+				<word number="1">radar (distance)</word>
+			</sg>
+			<sg number="15">
+				<word number="1">side-looking radar (shape or topography)</word>
+			</sg>
+			<sg number="16">
+				<word number="1">sonar (depth in water)</word>
+			</sg>
+			<sg number="17">
+				<word number="1">light meter (light intensity)</word>
+			</sg>
+			<sg number="18">
+				<word number="1">clock</word>
+				<word number="2">watch</word>
+				<word number="3">stopwatch</word>
+				<word number="4">chronometer (time)</word>
+			</sg>
+			<sg number="19">
+				<word number="1">anemometer (wind velocity)</word>
+			</sg>
+			<sg number="20">
+				<word number="1">densitometer (color intensity)</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">chronometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="measurability">
+			<sg number="1">
+				<word number="1">measurability</word>
+				<word number="2">computability</word>
+				<word number="3">determinability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="coordinates">
+			<sg number="1">
+				<word number="1">coordinates</word>
+				<word number="2">ordinate and abscissa</word>
+				<word number="3">polar coordinates</word>
+				<word number="4">latitude and longitude</word>
+				<word number="5">declination and right ascension</word>
+				<word number="6">altitude and azimuth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="geometry">
+			<sg number="1">
+				<word number="1">geometry</word>
+				<word number="2">stereometry</word>
+				<word number="3">hypsometry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">surveying</word>
+				<word number="2">land surveying</word>
+			</sg>
+			<sg number="4">
+				<word number="1">geodesy</word>
+				<word number="2">geodetics</word>
+				<word number="3">geodesia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">orthometry</word>
+				<word number="2">altimetry</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cadastre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="astrolabe">
+			<sg number="1">
+				<word number="1">astrolabe</word>
+				<word number="2">armillary sphere</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="land surveyor">
+			<sg number="1">
+				<word number="1">land surveyor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">geometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="sextant">
+			<sg number="1">
+				<word number="1" new="1">sextant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="measure">
+			<sg number="1">
+				<word number="1">measure</word>
+				<word number="2">mete</word>
+			</sg>
+			<sg number="2">
+				<word number="1">determine</word>
+				<word number="2">assay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evaluate</word>
+				<word number="2">value</word>
+				<word number="3">assess</word>
+				<word number="4">rate</word>
+				<word number="5">appraise</word>
+				<word number="6">estimate</word>
+				<word number="7">form an estimate</word>
+				<word number="8">set a value on</word>
+				<word number="9" new="1">analyze</word>
+				<word number="10" new="1">ascertain</word>
+				<word number="11" new="1">judge</word>
+				<word number="12" new="1">quantify</word>
+				<word number="13" new="1">test</word>
+			</sg>
+			<sg number="4">
+				<word number="1">appreciate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">standardize</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">calculate</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">predict</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="span">
+			<sg number="1">
+				<word number="1">span</word>
+				<word number="2">pace step</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">apply the compass</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gauge</word>
+				<word number="2">plumb</word>
+				<word number="3">probe</word>
+				<word number="4">sound</word>
+				<word number="5">fathom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heave the log</word>
+				<word number="2">heave the lead</word>
+			</sg>
+			<sg number="5">
+				<word number="1">survey</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="weigh">
+			<sg number="1">
+				<word number="1">weigh</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="take an average">
+			<sg number="1">
+				<word number="1" paraRef="average" headRef="31">take an average</word>
+			</sg>
+			<sg number="2">
+				<word number="1">graduate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="measuring">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">measuring</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metric</word>
+				<word number="2">metrical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">measurable</word>
+				<word number="2">perceptible</word>
+				<word number="3">noticeable</word>
+				<word number="4">detectable</word>
+				<word number="5">appreciable</word>
+				<word number="6">ponderable</word>
+				<word number="7">determinable</word>
+				<word number="8">fathomable</word>
+				<word number="9" new="1">audible</word>
+				<word number="10" new="1">discernible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">geodetical</word>
+				<word number="2">topographic</word>
+				<word number="3">topographical</word>
+				<word number="4">cartographic</word>
+				<word number="5">cartographical</word>
+				<word number="6" new="1">cadastral</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

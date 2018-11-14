@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="453" name="Redness" origNum="#434." class="3" section="3" subSection="2" headGroup="33">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="red">
+			<sg number="1">
+				<word number="1">red</word>
+				<word number="2">scarlet</word>
+				<word number="3">vermilion</word>
+				<word number="4">carmine</word>
+				<word number="5">crimson</word>
+				<word number="6">pink</word>
+				<word number="7">lake</word>
+				<word number="8">maroon</word>
+				<word number="9">carnation</word>
+				<word number="10">couleur de rose</word>
+				<word number="11">rose du Barry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">magenta</word>
+				<word number="2">damask</word>
+				<word number="3">purple</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flesh color</word>
+				<word number="2">flesh tint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">color</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fresh color</word>
+				<word number="2">high color</word>
+			</sg>
+			<sg number="6">
+				<word number="1">warmth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gules</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ruby">
+			<sg number="1">
+				<word number="1">ruby</word>
+				<word number="2">carbuncle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rust</word>
+				<word number="2">iron mold</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cinnabar">
+			<sg number="1">
+				<word number="1">cinnabar</word>
+				<word number="2">cochineal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fuchsine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ruddle</word>
+				<word number="2">madder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Indian red</word>
+				<word number="2">light red</word>
+				<word number="3">Venetian red</word>
+			</sg>
+			<sg number="5">
+				<word number="1">red ink</word>
+				<word number="2">annotto</word>
+			</sg>
+			<sg number="6">
+				<word number="1">annatto</word>
+				<word number="2">realgar</word>
+				<word number="3">minium</word>
+				<word number="4">red lead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="redness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">redness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rubescence</word>
+				<word number="2">rubicundity</word>
+				<word number="3">rubification</word>
+			</sg>
+			<sg number="3">
+				<word number="1">erubescence</word>
+				<word number="2">blush</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be red">
+			<sg number="1">
+				<word number="1">be red</word>
+				<word number="2" paraRef="" posRef="adj.">become red</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blush</word>
+				<word number="2">flush</word>
+				<word number="3">color up</word>
+				<word number="4">mantle</word>
+				<word number="5">redden</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render red">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render red</word>
+			</sg>
+			<sg number="2">
+				<word number="1">redden</word>
+				<word number="2">rouge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rubify</word>
+				<word number="2">rubricate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incarnadine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ruddle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="red">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">red</word>
+				<word number="2">reddish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rufous</word>
+				<word number="2">ruddy</word>
+				<word number="3">florid</word>
+				<word number="4">incarnadine</word>
+				<word number="5">sanguine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rosy</word>
+				<word number="2">roseate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blowzy</word>
+				<word number="2">blowed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">burnt</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rubicund</word>
+				<word number="2">rubiform</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lurid</word>
+				<word number="2">stammell blood red</word>
+			</sg>
+			<sg number="8">
+				<word number="1">russet buff</word>
+				<word number="2">murrey</word>
+				<word number="3">carroty</word>
+				<word number="4">sorrel</word>
+				<word number="5">lateritious</word>
+			</sg>
+			<sg number="9">
+				<word number="1">rubineous</word>
+				<word number="2">rubricate</word>
+				<word number="3">rubricose</word>
+				<word number="4">rufulous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rose-colored">
+			<sg number="1">
+				<word number="1">rose-colored</word>
+				<word number="2">ruby-colored</word>
+				<word number="3">cherry-colored</word>
+				<word number="4">claret-colored</word>
+				<word number="5">flame- colored</word>
+				<word number="6">flesh-colored</word>
+				<word number="7">peach-colored</word>
+				<word number="8">salmon-colored</word>
+				<word number="9">brick-colored</word>
+				<word number="10">brick-colored</word>
+				<word number="11">dust-colored</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="blushing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">blushing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">erubescent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">reddened</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="red as fire">
+			<sg number="1">
+				<word number="1">red as fire</word>
+				<word number="2">red as blood</word>
+				<word number="3">red as scarlet</word>
+				<word number="4">red as a turkey cock</word>
+				<word number="5">red as a lobster</word>
+			</sg>
+			<sg number="2">
+				<word number="1">warm</word>
+				<word number="2">hot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">foxy</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

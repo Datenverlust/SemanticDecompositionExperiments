@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="141" name="Occasion" origNum="#134." class="1" section="6" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">timeliness</word>
+				<word number="2">occasion</word>
+				<word number="3">opportunity</word>
+				<word number="4">opening</word>
+				<word number="5">room</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="eventuality" headRef="158">event</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suitable season</word>
+				<word number="2">proper season</word>
+				<word number="3">suitable time</word>
+				<word number="4">proper time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">high time</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">opportuneness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tempestivity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="crisis">
+			<sg number="1">
+				<word number="1">crisis</word>
+				<word number="2">turn</word>
+				<word number="3">juncture</word>
+				<word number="4">conjuncture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crisis</word>
+				<word number="2">turning point</word>
+				<word number="3">given time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nick of time">
+			<sg number="1">
+				<word number="1">nick of time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">golden opportunity</word>
+				<word number="2">well timed opportunity</word>
+				<word number="3">fine opportunity</word>
+				<word number="4">favorable opportunity</word>
+				<word number="5">opening</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clear stage</word>
+				<word number="2">fair field</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mollia tempora</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fata Morgana</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="leisure" headRef="714">spare time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="seize">
+			<sg number="1">
+				<word number="1" paraRef="take" headRef="822">seize</word>
+				<word number="2" paraRef="use" headRef="706">use</word>
+				<word number="3" paraRef="give" headRef="817">give</word>
+				<word number="4">use an occasion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">improve the occasion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="suit the occasion">
+			<sg number="1">
+				<word number="1" paraRef="be expedient" headRef="675">suit the occasion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="seize the occasion">
+			<sg number="1">
+				<word number="1">seize the occasion</word>
+				<word number="2">strike while the iron is hot</word>
+				<word number="3">battre le fer sur l'enclume</word>
+				<word number="4">make hay while the sun shines</word>
+				<word number="5">seize the present hour</word>
+				<word number="6">take time by the forelock</word>
+				<word number="7">prendre la balle au bond</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="opportune">
+			<sg number="1">
+				<word number="1">opportune</word>
+				<word number="2">timely</word>
+				<word number="3">well-timed</word>
+				<word number="4">timeful</word>
+				<word number="5">seasonable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="providential">
+			<sg number="1">
+				<word number="1">providential</word>
+				<word number="2">lucky</word>
+				<word number="3">fortunate</word>
+				<word number="4">happy</word>
+				<word number="5">favorable</word>
+				<word number="6">propitious</word>
+				<word number="7">auspicious</word>
+				<word number="8">critical</word>
+				<word number="9" new="1">fortuitous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="suitable" headRef="25">suitable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obiter dicta</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="opportunely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">opportunely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in proper course</word>
+				<word number="2">in due course</word>
+				<word number="3">in proper season</word>
+				<word number="4">in due season</word>
+				<word number="5">in proper time</word>
+				<word number="6">in due time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for the nonce</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the nick of time</word>
+				<word number="2">in the fullness of time</word>
+			</sg>
+			<sg number="5">
+				<word number="1">all in good time</word>
+			</sg>
+			<sg number="6">
+				<word number="1">just in time</word>
+				<word number="2">at the eleventh hour</word>
+				<word number="3">now or never</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="by the way">
+			<sg number="1">
+				<word number="1">by the way</word>
+				<word number="2">by the by</word>
+			</sg>
+			<sg number="2">
+				<word number="1">en passant</word>
+				<word number="2">a propos</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pro re nata</word>
+				<word number="2">pro hac vice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">par parenthese</word>
+				<word number="2">parenthetically</word>
+				<word number="3">by way of parenthesis</word>
+				<word number="4">incidentally</word>
+			</sg>
+			<sg number="5">
+				<word number="1">while speaking of</word>
+				<word number="2">while on the subject</word>
+			</sg>
+			<sg number="6">
+				<word number="1">extempore</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on the spur of the moment</word>
+				<word number="2">on the spur of the occasion</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="early" headRef="138">on the spot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="carpe diem">
+			<sg number="1">
+				<word number="1">carpe diem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">occasionem cognosce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one's hour is come</word>
+				<word number="2">the time is up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">that reminds me</word>
+				<word number="2">now that you mention it</word>
+				<word number="3">come to think of it</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bien perdu bien connu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">e sempre l'ora</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ex quovis ligno non fit Mercurius</word>
+			</sg>
+			<sg number="8">
+				<word number="1">nosce tempus</word>
+			</sg>
+			<sg number="9">
+				<word number="1">nunc aut nunquam</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

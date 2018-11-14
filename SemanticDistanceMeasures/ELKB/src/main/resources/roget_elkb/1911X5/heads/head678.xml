@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="678" name="Badness" origNum="#649." class="6" section="2" subSection="2" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="hurtfulness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">hurtfulness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">virulence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="evil doer">
+			<sg number="1">
+				<word number="1" paraRef="evil doer" headRef="953">evil doer</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bane" headRef="692">bane</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="insalubrity" headRef="686">plague spot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">evil star</word>
+				<word number="2">ill wind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hoodoo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Jonah</word>
+			</sg>
+			<sg number="7">
+				<word number="1">snake in the grass</word>
+				<word number="2">skeleton in the closet</word>
+			</sg>
+			<sg number="8">
+				<word number="1">amari aliquid</word>
+				<word number="2">thorn in the side</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="malignity">
+			<sg number="1">
+				<word number="1">malignity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="malevolence" headRef="947">malevolence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tender mercies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ill-treatment">
+			<sg number="1">
+				<word number="1">ill-treatment</word>
+				<word number="2">annoyance</word>
+				<word number="3">molestation</word>
+				<word number="4">abuse</word>
+				<word number="5">oppression</word>
+				<word number="6">persecution</word>
+				<word number="7">outrage</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="misusage" headRef="708">misusage</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="damage" headRef="688">injury</word>
+			</sg>
+			<sg number="4">
+				<word number="1">knockout drops</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="badness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">badness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peccancy</word>
+				<word number="2">abomination</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="painfulness" headRef="868">painfulness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disease" headRef="684">pestilence</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="guilt" headRef="989">guilt</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="depravity" headRef="987">depravity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be hurtful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be hurtful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cause evil</word>
+				<word number="2">produce evil</word>
+				<word number="3">inflict evil</word>
+				<word number="4">work evil</word>
+				<word number="5" paraRef="evil" headRef="648">do evil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">damnify</word>
+				<word number="2">endamage</word>
+				<word number="3">hurt</word>
+				<word number="4">harm</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="damage" headRef="688">injure</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="pain" headRef="868">pain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wrong">
+			<sg number="1">
+				<word number="1">wrong</word>
+				<word number="2">aggrieve</word>
+				<word number="3">oppress</word>
+				<word number="4">persecute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trample upon</word>
+				<word number="2">tread upon</word>
+				<word number="3">bear hard upon</word>
+				<word number="4">put upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overburden</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weigh down</word>
+				<word number="2">weigh heavy on</word>
+			</sg>
+			<sg number="5">
+				<word number="1">victimize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run down</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="molest" headRef="868">molest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="maltreat">
+			<sg number="1">
+				<word number="1">maltreat</word>
+				<word number="2">abuse</word>
+				<word number="3" new="1">brutalize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-use</word>
+				<word number="2">ill-treat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">buffet</word>
+				<word number="2">bruise</word>
+				<word number="3">scratch</word>
+				<word number="4">maul</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="scourge" headRef="1015">smite</word>
+			</sg>
+			<sg number="5">
+				<word number="1">do violence</word>
+				<word number="2">do harm</word>
+				<word number="3">do a mischief</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stab</word>
+				<word number="2">pierce</word>
+				<word number="3">outrage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="do mischief">
+			<sg number="1">
+				<word number="1">do mischief</word>
+				<word number="2">make mischief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring into trouble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="destroy">
+			<sg number="1">
+				<word number="1" paraRef="destroy" headRef="169">destroy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="hurtful">
+			<sg number="1">
+				<word number="1">hurtful</word>
+				<word number="2">harmful</word>
+				<word number="3">scathful</word>
+				<word number="4">baneful</word>
+				<word number="5">baleful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">injurious</word>
+				<word number="2">deleterious</word>
+				<word number="3">detrimental</word>
+				<word number="4">noxious</word>
+				<word number="5">pernicious</word>
+				<word number="6">mischievous</word>
+				<word number="7">full of mischief</word>
+				<word number="8">mischief-making</word>
+				<word number="9">malefic</word>
+				<word number="10">malignant</word>
+				<word number="11">nocuous</word>
+				<word number="12">noisome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prejudicial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disserviceable</word>
+				<word number="2">disadvantageous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wide-wasting</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">undesirable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unlucky">
+			<sg number="1">
+				<word number="1">unlucky</word>
+				<word number="2">sinister</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obnoxious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">untoward</word>
+				<word number="2">disastrous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="oppressive">
+			<sg number="1">
+				<word number="1">oppressive</word>
+				<word number="2">burdensome</word>
+				<word number="3">onerous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="malevolent" headRef="947">malign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="corrupting">
+			<sg number="1">
+				<word number="1" paraRef="corrupt" headRef="688">corrupting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">virulent</word>
+				<word number="2">venomous</word>
+				<word number="3">envenomed</word>
+				<word number="4">corrosive</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="morbific" headRef="686">poisonous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="killing" headRef="373">deadly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="destroying" headRef="169">destructive</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="inauspicious" headRef="898">inauspicious</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">dangerous</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">devastating</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">toxic</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="2">hazardous</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">lethal</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="3">volatile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bad">
+			<sg number="1">
+				<word number="1">bad</word>
+				<word number="2">ill</word>
+				<word number="3">arrant</word>
+				<word number="4">as bad as bad can be</word>
+				<word number="5">dreadful</word>
+				<word number="6" new="1">awful</word>
+				<word number="7" new="2">terrible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horrid</word>
+				<word number="2">horrible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rank</word>
+				<word number="2">peccant</word>
+				<word number="3">foul</word>
+				<word number="4">fulsome</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rotten</word>
+				<word number="2">rotten at the core</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">pathetic</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="3">appalling</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="3">grave</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="vile">
+			<sg number="1">
+				<word number="1">vile</word>
+				<word number="2">base</word>
+				<word number="3">villainous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="paltry" headRef="672">mean</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deteriorated" headRef="688">injured</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unsatisfactory</word>
+				<word number="2">exceptionable</word>
+				<word number="3">indifferent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="imperfect" headRef="680">below par</word>
+			</sg>
+			<sg number="6">
+				<word number="1">illcontrived</word>
+				<word number="2">ill-conditioned</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wretched</word>
+				<word number="2">sad</word>
+				<word number="3">grievous</word>
+				<word number="4">deplorable</word>
+				<word number="5">lamentable</word>
+				<word number="6" new="1">discreditable</word>
+				<word number="7" new="1">miserable</word>
+				<word number="8" new="2">regrettable</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pitiful</word>
+				<word number="2">pitiable</word>
+				<word number="3" paraRef="painful" headRef="868">woeful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="evil">
+			<sg number="1">
+				<word number="1">evil</word>
+				<word number="2">wrong</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="depraved" headRef="987">depraved</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shocking</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disapprove" headRef="974">reprehensible</word>
+				<word number="2">hateful as a toad</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abominable</word>
+				<word number="2">detestable</word>
+				<word number="3">execrable</word>
+				<word number="4">cursed</word>
+				<word number="5">accursed</word>
+				<word number="6">confounded</word>
+			</sg>
+			<sg number="6">
+				<word number="1">damned</word>
+				<word number="2">damnable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">infernal</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="malevolent" headRef="947">diabolic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="unadvisable">
+			<sg number="1">
+				<word number="1" paraRef="inexpedient" headRef="676">unadvisable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="useless" headRef="674">unprofitable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unskillful" headRef="728">incompetent</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hopeless" headRef="898">irremediable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="blameworthy">
+			<sg number="1">
+				<word number="1" new="1">blameworthy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="diabolical">
+			<sg number="1">
+				<word number="1" new="1">diabolical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="malevolent">
+			<sg number="1">
+				<word number="1" new="1">malevolent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="unfortunate">
+			<sg number="1">
+				<word number="1" new="1">unfortunate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="wicked">
+			<sg number="1">
+				<word number="1" new="1">wicked</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="badly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">badly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wrong</word>
+				<word number="2">ill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">to one's cost</word>
+			</sg>
+			<sg number="4">
+				<word number="1">where the shoe pinches</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="bad is the best">
+			<sg number="1">
+				<word number="1">bad is the best</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the worst come to the worst</word>
+			</sg>
+			<sg number="3">
+				<word number="1">herba mala presto cresco</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"wrongs unredressed or insults unavenged"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

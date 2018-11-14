@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="35" name="Superiority" origNum="#33." class="1" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="superiority">
+			<sg number="1">
+				<word number="1">superiority</word>
+				<word number="2">majority</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="greatness" headRef="33">greatness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">advantage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pull</word>
+			</sg>
+			<sg number="5">
+				<word number="1">preponderance</word>
+				<word number="2">preponderation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vantage ground</word>
+				<word number="2">prevalence</word>
+				<word number="3">partiality</word>
+			</sg>
+			<sg number="7">
+				<word number="1">personal superiority</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="rank" headRef="914">nobility</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Triton among the minnows</word>
+				<word number="2">primus inter pares</word>
+				<word number="3">nulli secundus</word>
+				<word number="4">captain</word>
+			</sg>
+			<sg number="10">
+				<word number="1">crackajack *</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="supremacy">
+			<sg number="1">
+				<word number="1">supremacy</word>
+				<word number="2">preeminence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lead</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maximum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">record</word>
+			</sg>
+			<sg number="5">
+				<word number="1">climax</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="summit" headRef="219">culmination</word>
+			</sg>
+			<sg number="7">
+				<word number="1">transcendence</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ne plus ultra</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lion's share</word>
+				<word number="2">Benjamin's mess</word>
+			</sg>
+			<sg number="10">
+				<word number="1">excess</word>
+				<word number="2" paraRef="remainder" headRef="42">surplus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be superior">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be superior</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exceed</word>
+				<word number="2">excel</word>
+				<word number="3">transcend</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outdo</word>
+				<word number="2">outbalance</word>
+				<word number="3">outweigh</word>
+				<word number="4">outrank</word>
+				<word number="5">outrival</word>
+				<word number="6">out-Herod</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass</word>
+				<word number="2">surpass</word>
+				<word number="3">get ahead of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">over-top</word>
+				<word number="2">override</word>
+				<word number="3">overpass</word>
+				<word number="4">overbalance</word>
+				<word number="5">overweigh</word>
+				<word number="6">overmatch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">top</word>
+				<word number="2">o'ertop</word>
+				<word number="3">cap</word>
+				<word number="4">beat</word>
+				<word number="5">cut out</word>
+			</sg>
+			<sg number="7">
+				<word number="1">beat hollow</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="outstrip" headRef="314">outstrip</word>
+			</sg>
+			<sg number="9">
+				<word number="1">eclipse</word>
+				<word number="2">throw into the shade</word>
+				<word number="3">take the shine out of</word>
+				<word number="4">outshine</word>
+				<word number="5">put one's nose out of joint</word>
+			</sg>
+			<sg number="10">
+				<word number="1">have the upper hand</word>
+				<word number="2">have the whip hand of</word>
+				<word number="3">have the advantage</word>
+			</sg>
+			<sg number="11">
+				<word number="1">turn the scale</word>
+				<word number="2">kick the beam</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="importance" headRef="671">play first fiddle</word>
+			</sg>
+			<sg number="13">
+				<word number="1">preponderate</word>
+				<word number="2">predominate</word>
+				<word number="3">prevail</word>
+			</sg>
+			<sg number="14">
+				<word number="1">precede</word>
+				<word number="2">take precedence</word>
+				<word number="3">come first</word>
+			</sg>
+			<sg number="15">
+				<word number="1">come to a  head</word>
+				<word number="2">culminate</word>
+			</sg>
+			<sg number="16">
+				<word number="1">beat all others</word>
+				<word number="2">beat the palm</word>
+			</sg>
+			<sg number="17">
+				<word number="1">break the record</word>
+			</sg>
+			<sg number="18">
+				<word number="1">take the cake</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">snowmobile</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">keel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="become larger">
+			<sg number="1">
+				<word number="1">become larger</word>
+				<word number="2" paraRef="increase" headRef="37">render larger</word>
+				<word number="3" paraRef="expand" headRef="203">expand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="superior">
+			<sg number="1">
+				<word number="1">superior</word>
+				<word number="2">greater</word>
+				<word number="3">major</word>
+				<word number="4">higher</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">exceeding</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="great" headRef="33">great</word>
+			</sg>
+			<sg number="4">
+				<word number="1">distinguished</word>
+				<word number="2">ultra</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vaulting</word>
+			</sg>
+			<sg number="6">
+				<word number="1">more than a match for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="supreme">
+			<sg number="1">
+				<word number="1">supreme</word>
+				<word number="2">greatest</word>
+				<word number="3">utmost</word>
+				<word number="4">paramount</word>
+				<word number="5">preeminent</word>
+				<word number="6">foremost</word>
+				<word number="7">crowning</word>
+				<word number="8" new="1">immobilized</word>
+				<word number="9" new="1">excellently</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="important" headRef="671">first-rate</word>
+				<word number="2" paraRef="excellent" headRef="677">excellent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unrivaled peerless</word>
+				<word number="2">matchless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">none such</word>
+				<word number="2">second to none</word>
+				<word number="3">sans pareil</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unparagoned</word>
+				<word number="2">unparalleled</word>
+				<word number="3">unequalled</word>
+				<word number="4">unapproached</word>
+				<word number="5">unsurpassed</word>
+				<word number="6" new="1">ungrounded</word>
+				<word number="7" new="1">erotic</word>
+				<word number="8" new="1">earnestly</word>
+			</sg>
+			<sg number="6">
+				<word number="1">superlative</word>
+				<word number="2">inimitable facile princeps</word>
+				<word number="3">incomparable</word>
+				<word number="4">sovereign</word>
+				<word number="5">without parallel</word>
+				<word number="6">nulli secundus</word>
+				<word number="7">ne plus ultra</word>
+			</sg>
+			<sg number="7">
+				<word number="1">beyond compare</word>
+				<word number="2">beyond comparison</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="top most" headRef="219">culminating</word>
+			</sg>
+			<sg number="9">
+				<word number="1">transcendent</word>
+				<word number="2">transcendental</word>
+			</sg>
+			<sg number="10">
+				<word number="1">plus royaliste que le Roi</word>
+				<word number="2">more catholic than the Pope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="increased">
+			<sg number="1">
+				<word number="1" paraRef="increased" headRef="37">increased</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expanded" headRef="203">enlarged</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="beyond">
+			<sg number="1">
+				<word number="1">beyond</word>
+				<word number="2">more</word>
+				<word number="3">over</word>
+			</sg>
+			<sg number="2">
+				<word number="1">over the mark</word>
+				<word number="2">above the mark</word>
+			</sg>
+			<sg number="3">
+				<word number="1">above par</word>
+			</sg>
+			<sg number="4">
+				<word number="1">upwards of</word>
+				<word number="2">in advance of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">over and above</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at the top of the scale</word>
+				<word number="2">at its height</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="eminently">
+			<sg number="1">
+				<word number="1">eminently</word>
+				<word number="2">egregiously</word>
+				<word number="3">preeminently</word>
+				<word number="4">surpassing</word>
+				<word number="5">prominently</word>
+				<word number="6">superlatively</word>
+				<word number="7">supremely</word>
+				<word number="8">above all</word>
+				<word number="9">of all things</word>
+				<word number="10">the most</word>
+				<word number="11">to crown all</word>
+				<word number="12">par excellence</word>
+				<word number="13">principally</word>
+				<word number="14">especially</word>
+				<word number="15">particularly</word>
+				<word number="16">peculiarly</word>
+				<word number="17">a fortiori</word>
+				<word number="18">even</word>
+				<word number="19">yea</word>
+				<word number="20">still more</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="I shall not look upon his like again">
+			<sg number="1">
+				<word number="1">"I shall not look upon his like again"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deos fortioribus addesse</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

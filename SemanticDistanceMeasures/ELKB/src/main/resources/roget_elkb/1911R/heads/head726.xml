@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="726" name="Precept" origNum="#697." class="6" section="3" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="precept">
+			<sg number="1">
+				<word number="1">precept</word>
+				<word number="2">direction</word>
+				<word number="3">instruction</word>
+				<word number="4">charge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prescript</word>
+				<word number="2">prescription</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recipe</word>
+				<word number="2">receipt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">golden rule</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="maxim" headRef="520">maxim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rule">
+			<sg number="1">
+				<word number="1">rule</word>
+				<word number="2">canon</word>
+				<word number="3">law</word>
+				<word number="4">code</word>
+				<word number="5">corpus juris</word>
+				<word number="6">lex scripta</word>
+				<word number="7">act</word>
+				<word number="8">statute</word>
+				<word number="9">rubric</word>
+				<word number="10">stage direction</word>
+				<word number="11">regulation</word>
+				<word number="12" new="1">plata</word>
+				<word number="13" new="1">armatus</word>
+				<word number="14" new="1">dolour</word>
+				<word number="15" new="1">tails</word>
+				<word number="16" new="1">brazilwood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">form</word>
+				<word number="2">formula</word>
+				<word number="3">formulary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">technicality</word>
+			</sg>
+			<sg number="4">
+				<word number="1">canon law</word>
+			</sg>
+			<sg number="5">
+				<word number="1">norm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="order">
+			<sg number="1">
+				<word number="1" paraRef="command" headRef="772">order</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

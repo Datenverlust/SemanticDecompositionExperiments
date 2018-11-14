@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="836" name="Treasurer" origNum="#801." class="7" section="4" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="treasurer">
+			<sg number="1">
+				<word number="1">treasurer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bursar</word>
+				<word number="2">bursary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">purser</word>
+				<word number="2">purse bearer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cash keeper</word>
+				<word number="2">banker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">depositary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">questor</word>
+				<word number="2">receiver</word>
+				<word number="3">steward</word>
+				<word number="4">trustee</word>
+				<word number="5">accountant</word>
+				<word number="6">Accountant General</word>
+				<word number="7">almoner</word>
+				<word number="8">liquidator</word>
+				<word number="9">paymaster</word>
+				<word number="10">cashier</word>
+				<word number="11">teller</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cambist</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="merchant" headRef="830">money changer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="financier">
+			<sg number="1">
+				<word number="1">financier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Secretary of the Treasury">
+			<sg number="1">
+				<word number="1">Secretary of the Treasury</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Chancellor of the Exchequer</word>
+				<word number="2">minister of finance</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

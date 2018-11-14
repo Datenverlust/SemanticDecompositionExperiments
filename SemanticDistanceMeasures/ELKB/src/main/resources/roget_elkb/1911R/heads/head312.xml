@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="312" name="Extraction" origNum="#301." class="2" section="4" subSection="4" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="extraction">
+			<sg number="1">
+				<word number="1">extraction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">extracting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">removal</word>
+				<word number="2">elimination</word>
+				<word number="3">extrication</word>
+				<word number="4">eradication</word>
+				<word number="5">evolution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="evulsion">
+			<sg number="1">
+				<word number="1">evulsion</word>
+				<word number="2">avulsion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wrench</word>
+			</sg>
+			<sg number="3">
+				<word number="1">expression</word>
+				<word number="2">squeezing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extirpation</word>
+				<word number="2">extermination</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="ejection" headRef="308">ejection</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="egress" headRef="306">export</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="extractor">
+			<sg number="1">
+				<word number="1">extractor</word>
+				<word number="2">corkscrew</word>
+				<word number="3">forceps</word>
+				<word number="4">pliers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="extract">
+			<sg number="1">
+				<word number="1">extract</word>
+				<word number="2">draw</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take out</word>
+				<word number="2">draw out</word>
+				<word number="3">pull out</word>
+				<word number="4">tear out</word>
+				<word number="5">pluck out</word>
+				<word number="6">pick out</word>
+				<word number="7">get out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wring from</word>
+				<word number="2">wrench</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extort</word>
+			</sg>
+			<sg number="5">
+				<word number="1">root up</word>
+				<word number="2">weed up</word>
+				<word number="3">grub up</word>
+				<word number="4">rake up</word>
+				<word number="5">root out</word>
+				<word number="6">weed out</word>
+				<word number="7">grub out</word>
+				<word number="8">rake out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eradicate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pull up by the roots</word>
+				<word number="2">pluck up by the roots</word>
+			</sg>
+			<sg number="8">
+				<word number="1">averruncate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unroot</word>
+			</sg>
+			<sg number="10">
+				<word number="1">uproot</word>
+				<word number="2">pull up</word>
+				<word number="3">extirpate</word>
+				<word number="4">dredge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="remove">
+			<sg number="1">
+				<word number="1">remove</word>
+			</sg>
+			<sg number="2">
+				<word number="1">educe</word>
+				<word number="2">elicit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evolve</word>
+				<word number="2">extricate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="eject" headRef="308">eliminate</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="eviscerate" headRef="308">eviscerate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="express">
+			<sg number="1">
+				<word number="1">express</word>
+				<word number="2">squeeze out</word>
+				<word number="3">press out</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="extracted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">extracted</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

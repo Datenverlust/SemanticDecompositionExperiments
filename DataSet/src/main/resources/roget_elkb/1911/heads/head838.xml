@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="838" name="Wealth" origNum="#803." class="7" section="4" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="wealth">
+			<sg number="1">
+				<word number="1">wealth</word>
+				<word number="2">riches</word>
+				<word number="3">fortune</word>
+				<word number="4">handsome fortune</word>
+				<word number="5">opulence</word>
+				<word number="6">affluence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good circumstances</word>
+				<word number="2">easy circumstances</word>
+			</sg>
+			<sg number="3">
+				<word number="1">independence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sufficiency" headRef="668">competence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solvency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="provision">
+			<sg number="1">
+				<word number="1">provision</word>
+				<word number="2">livelihood</word>
+				<word number="3">maintenance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alimony</word>
+				<word number="2">dowry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">means</word>
+				<word number="2">resources</word>
+				<word number="3">substance</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="property" headRef="813">property</word>
+			</sg>
+			<sg number="5">
+				<word number="1">command of money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="income">
+			<sg number="1">
+				<word number="1" paraRef="income" headRef="845">income</word>
+			</sg>
+			<sg number="2">
+				<word number="1">capital</word>
+				<word number="2">money</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="treasure" headRef="835">round sum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mint of money</word>
+				<word number="2">mine of wealth</word>
+				<word number="3">El Dorado</word>
+				<word number="4">bonanza</word>
+				<word number="5">Pacatolus</word>
+				<word number="6">Golconda</word>
+				<word number="7">Potosi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="long purse">
+			<sg number="1">
+				<word number="1">long purse</word>
+				<word number="2">full purse</word>
+				<word number="3">well lined purse</word>
+				<word number="4">heavy purse</word>
+				<word number="5">deep pockets</word>
+			</sg>
+			<sg number="2">
+				<word number="1">purse of Fortunatus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">embarras de richesses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pelf">
+			<sg number="1">
+				<word number="1">pelf</word>
+				<word number="2">Mammon</word>
+				<word number="3">lucre</word>
+				<word number="4">filthy lucre</word>
+			</sg>
+			<sg number="2">
+				<word number="1">loaves and fishes!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rich man">
+			<sg number="1">
+				<word number="1">rich man</word>
+				<word number="2">moneyed man</word>
+				<word number="3">warm man</word>
+			</sg>
+			<sg number="2">
+				<word number="1">man of substance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capitalist</word>
+				<word number="2">millionaire</word>
+				<word number="3">tippybob*</word>
+				<word number="4">Nabob</word>
+				<word number="5">Croesus</word>
+				<word number="6">idas</word>
+				<word number="7">Plutus</word>
+				<word number="8">Dives</word>
+				<word number="9">Timon of Athens</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Timocracy</word>
+				<word number="2">Plutocracy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Danae</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be rich">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be rich</word>
+			</sg>
+			<sg number="2">
+				<word number="1">roll in wealth</word>
+				<word number="2">roll in riches</word>
+				<word number="3">wallow in wealth</word>
+				<word number="4">wallow in riches</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="afford">
+			<sg number="1">
+				<word number="1">afford</word>
+				<word number="2">well afford</word>
+			</sg>
+			<sg number="2">
+				<word number="1">command money</word>
+				<word number="2">command a sum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make both ends meet</word>
+				<word number="2">hold one's head above water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="become rich">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">become rich</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strike it rich</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come into a sum of money</word>
+				<word number="2">receive a windfall</word>
+				<word number="3">receive an inheritance</word>
+				<word number="4">hit the jackpot</word>
+				<word number="5">win the lottery</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="treasury" headRef="837">fill one's pocket</word>
+			</sg>
+			<sg number="5">
+				<word number="1">feather one's nest</word>
+				<word number="2">make a fortune</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="acquire" headRef="807">make money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="enrich">
+			<sg number="1">
+				<word number="1">enrich</word>
+				<word number="2">imburse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="worship the golden calf">
+			<sg number="1">
+				<word number="1">worship the golden calf</word>
+				<word number="2">worship Mammon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="wealthy">
+			<sg number="1">
+				<word number="1">wealthy</word>
+				<word number="2">rich</word>
+				<word number="3">affluent</word>
+				<word number="4">opulent</word>
+				<word number="5">moneyed</word>
+				<word number="6">monied</word>
+				<word number="7">worth much</word>
+			</sg>
+			<sg number="2">
+				<word number="1">well to do</word>
+				<word number="2">well off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">warm</word>
+			</sg>
+			<sg number="4">
+				<word number="1">comfortable</word>
+				<word number="2">well</word>
+				<word number="3">well provided for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="made of money">
+			<sg number="1">
+				<word number="1">made of money</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rich as Croesus</word>
+				<word number="2">filthy rich</word>
+				<word number="3">rich as a Jew!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rolling in riches</word>
+				<word number="2">rolling in wealth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="flush">
+			<sg number="1">
+				<word number="1">flush</word>
+				<word number="2">flush of cash</word>
+				<word number="3">flush of money</word>
+				<word number="4">flush of tin*</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in funds</word>
+				<word number="2">in cash</word>
+				<word number="3">in full feather</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solvent</word>
+				<word number="2">pecunious</word>
+				<word number="3">out of debt</word>
+				<word number="4">in the black</word>
+				<word number="5">all straight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's ship coming in">
+			<sg number="1">
+				<word number="1">one's ship coming in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="amour fait beaucoup mais argent fait tout">
+			<sg number="1">
+				<word number="1">amour fait beaucoup mais argent fait tout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aurea rumpunt tecta quietem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">magna servitus ist magna fortuna</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"mammon</word>
+				<word number="2">the least erected spirit that fell from Heaven"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">opum furiata cupido</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vera prosperita e non aver necessita</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wie gewonnen so zerronnen</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

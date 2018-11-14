@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="429" name="Cry" origNum="#411." class="3" section="3" subSection="2" headGroup="23">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="cry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">cry</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="voice" headRef="606">voice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hubbub</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="animal sounds" headRef="430">bark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vociferation">
+			<sg number="1">
+				<word number="1">vociferation</word>
+				<word number="2">outcry</word>
+				<word number="3">hullabaloo</word>
+				<word number="4">chorus</word>
+				<word number="5">clamor</word>
+				<word number="6">hue and cry</word>
+				<word number="7">plaint</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lungs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stentor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cry">
+			<sg number="1">
+				<word number="1">cry</word>
+				<word number="2">roar</word>
+				<word number="3">shout</word>
+				<word number="4">bawl</word>
+				<word number="5">brawl</word>
+				<word number="6">halloo</word>
+				<word number="7">halloa</word>
+				<word number="8">hoop</word>
+				<word number="9">whoop</word>
+				<word number="10">yell</word>
+				<word number="11">bellow</word>
+				<word number="12">howl</word>
+				<word number="13">scream</word>
+				<word number="14">screech</word>
+				<word number="15">screak</word>
+				<word number="16">shriek</word>
+				<word number="17">shrill</word>
+				<word number="18">squeak</word>
+				<word number="19">squeal</word>
+				<word number="20">squall</word>
+				<word number="21">whine</word>
+				<word number="22">pule</word>
+				<word number="23">pipe</word>
+				<word number="24">yaup</word>
+				<word number="25" new="1">overcharge</word>
+				<word number="26" new="1">amalgamate</word>
+				<word number="27" new="1">rave</word>
+				<word number="28" new="1">aspirate</word>
+				<word number="29" new="1">polychrome</word>
+				<word number="30" new="1">userfy</word>
+				<word number="31" new="1">brainstorm</word>
+				<word number="32" new="1">avoid</word>
+				<word number="33" new="1">station</word>
+				<word number="34" new="1">remap</word>
+				<word number="35" new="1">brown</word>
+				<word number="36" new="1">unclasp</word>
+				<word number="37" new="1">renounce</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cheer">
+			<sg number="1">
+				<word number="1">cheer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hoot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grumble</word>
+				<word number="2">moan</word>
+				<word number="3">groan</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">enthrall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="snore">
+			<sg number="1">
+				<word number="1">snore</word>
+				<word number="2">snort</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="animal sounds" headRef="430">grunt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="vociferate">
+			<sg number="1">
+				<word number="1">vociferate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">raise up the voice</word>
+				<word number="2">lift up the voice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">call out</word>
+				<word number="2">sing out</word>
+				<word number="3">cry out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exclaim</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rend the air</word>
+			</sg>
+			<sg number="6">
+				<word number="1">thunder at the top of one's voice</word>
+				<word number="2">shout at the top of one's voice</word>
+				<word number="3">shout at the pitch of one's breath</word>
+				<word number="4">thunder at the pitch of one's breath</word>
+			</sg>
+			<sg number="7">
+				<word number="1">s'égosiller</word>
+			</sg>
+			<sg number="8">
+				<word number="1">strain the throat</word>
+				<word number="2">strain the voice</word>
+				<word number="3">strain the lungs</word>
+			</sg>
+			<sg number="9">
+				<word number="1">give a cry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="interoperate">
+			<sg number="1">
+				<word number="1" new="1">interoperate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="crying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">crying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clamant</word>
+				<word number="2">clamorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vociferous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="loud" headRef="421">stentorian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">open-mouthed</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="190" name="Region" origNum="#181." class="2" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="region">
+			<sg number="1">
+				<word number="1">region</word>
+				<word number="2">sphere</word>
+				<word number="3">ground</word>
+				<word number="4">soil</word>
+				<word number="5">area</word>
+				<word number="6">field</word>
+				<word number="7">realm</word>
+				<word number="8">hemisphere</word>
+				<word number="9">quarter</word>
+				<word number="10">district</word>
+				<word number="11">beat</word>
+				<word number="12">orb</word>
+				<word number="13">circuit</word>
+				<word number="14">circle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reservation</word>
+				<word number="2" paraRef="limit" headRef="243">pale</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compartment</word>
+				<word number="2">department</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clearing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="political divisions">
+			<sg number="1">
+				<word number="1" paraRef="property" headRef="813">political divisions</word>
+				<word number="2" paraRef="government" headRef="767">Government</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="arena">
+			<sg number="1">
+				<word number="1">arena</word>
+				<word number="2">precincts</word>
+				<word number="3">enceinte</word>
+				<word number="4">walk</word>
+				<word number="5">march</word>
+			</sg>
+			<sg number="2">
+				<word number="1">patch</word>
+				<word number="2">plot</word>
+				<word number="3">parcel</word>
+				<word number="4">inclosure</word>
+				<word number="5">close</word>
+				<word number="6">field</word>
+				<word number="7">court</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enclave</word>
+				<word number="2">reserve</word>
+				<word number="3">preserve</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="abode" headRef="198">street</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="clime">
+			<sg number="1">
+				<word number="1">clime</word>
+				<word number="2">climate</word>
+				<word number="3">zone</word>
+				<word number="4">meridian</word>
+				<word number="5">latitude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="biosphere">
+			<sg number="1">
+				<word number="1">biosphere</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lithosphere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="territorial">
+			<sg number="1">
+				<word number="1">territorial</word>
+				<word number="2">local</word>
+				<word number="3">parochial</word>
+				<word number="4">provincial</word>
+				<word number="5">regional</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

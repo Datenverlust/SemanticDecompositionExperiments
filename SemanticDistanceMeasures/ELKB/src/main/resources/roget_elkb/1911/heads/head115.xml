@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="115" name="Course" origNum="#109." class="1" section="6" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="corridors of time">
+			<sg number="1">
+				<word number="1">corridors of time</word>
+				<word number="2">sweep of time</word>
+				<word number="3">vesta of time</word>
+				<word number="4">course of time</word>
+				<word number="5">progress of time</word>
+				<word number="6">process of time</word>
+				<word number="7">succession of time</word>
+				<word number="8">lapse of time</word>
+				<word number="9">flow of time</word>
+				<word number="10">flux of time</word>
+				<word number="11">stream of time</word>
+				<word number="12">tract of time</word>
+				<word number="13">current of time</word>
+				<word number="14">tide of time</word>
+				<word number="15">march of time</word>
+				<word number="16">step of time</word>
+				<word number="17">flight of time</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="duration" headRef="111">duration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aorist">
+			<sg number="1">
+				<word number="1">aorist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="elapse">
+			<sg number="1">
+				<word number="1">elapse</word>
+				<word number="2">lapse</word>
+				<word number="3">flow</word>
+				<word number="4">run</word>
+				<word number="5">proceed</word>
+				<word number="6">advance</word>
+				<word number="7">pass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">roll on</word>
+				<word number="2">wear on</word>
+				<word number="3">press on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flit</word>
+				<word number="2">fly</word>
+				<word number="3">slip</word>
+				<word number="4">slide</word>
+				<word number="5">glide</word>
+			</sg>
+			<sg number="4">
+				<word number="1">run its course</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="run out">
+			<sg number="1">
+				<word number="1">run out</word>
+				<word number="2">expire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go by</word>
+				<word number="2">pass by</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be past" headRef="128">be past</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="elapsing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">elapsing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aoristic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">progressive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in due time">
+			<sg number="1">
+				<word number="1">in due time</word>
+				<word number="2">in due  season</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in in due course</word>
+				<word number="2">in due process</word>
+				<word number="3">in the fullness of time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="labitur et labetur">
+			<sg number="1">
+				<word number="1">labitur et labetur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">truditur dies die</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fugaces labuntur anni</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

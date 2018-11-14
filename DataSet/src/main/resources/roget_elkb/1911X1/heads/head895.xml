@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="895" name="Ridicule" origNum="#856." class="8" section="2" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ridicule">
+			<sg number="1">
+				<word number="1">ridicule</word>
+				<word number="2">derision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sardonic smile</word>
+				<word number="2">sardonic grin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">irrision</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disrespect" headRef="971">scoffing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mockery</word>
+				<word number="2">quiz!</word>
+				<word number="3">banter</word>
+				<word number="4">irony</word>
+				<word number="5">persiflage</word>
+				<word number="6">raillery</word>
+				<word number="7">chaff</word>
+				<word number="8">badinage</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">quizzing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">asteism</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">sarcasm</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">taunting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="squib">
+			<sg number="1">
+				<word number="1">squib</word>
+				<word number="2">satire</word>
+				<word number="3">skit</word>
+				<word number="4">quip</word>
+				<word number="5">quib</word>
+				<word number="6">grin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="parody">
+			<sg number="1">
+				<word number="1">parody</word>
+				<word number="2">burlesque</word>
+				<word number="3">travesty</word>
+				<word number="4">travestie</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="drama" headRef="625">farce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">caricature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="buffoonery">
+			<sg number="1">
+				<word number="1" paraRef="fun" headRef="878">buffoonery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">practical joke</word>
+			</sg>
+			<sg number="3">
+				<word number="1">horseplay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="scorn">
+			<sg number="1">
+				<word number="1">scorn</word>
+				<word number="2" paraRef="contempt" headRef="972">contempt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="skepticism">
+			<sg number="1">
+				<word number="1" new="1">skepticism</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="ridicule">
+			<sg number="1">
+				<word number="1">ridicule</word>
+				<word number="2">deride</word>
+				<word number="3">mock</word>
+				<word number="4">taunt</word>
+				<word number="5" new="1">berate</word>
+				<word number="6" new="1">poke</word>
+				<word number="7" new="1">scorn</word>
+				<word number="8" new="1">vilify</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snigger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">laugh in one's sleeve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tease</word>
+				<word number="2">badinage</word>
+				<word number="3">banter</word>
+				<word number="4">rally</word>
+				<word number="5">chaff</word>
+				<word number="6">joke</word>
+				<word number="7">twit</word>
+				<word number="8">quiz</word>
+				<word number="9">roast</word>
+			</sg>
+			<sg number="5">
+				<word number="1">haze</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tehee</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fleer</word>
+			</sg>
+			<sg number="8">
+				<word number="1">show up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="[i">
+			<sg number="1">
+				<word number="1">play upon</word>
+				<word number="2">play tricks upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fool to the top of one's bent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">laugh at</word>
+				<word number="2">grin at</word>
+				<word number="3">smile at</word>
+			</sg>
+			<sg number="4">
+				<word number="1">poke fun at</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="satirize">
+			<sg number="1">
+				<word number="1">satirize</word>
+				<word number="2">parody</word>
+				<word number="3">caricature</word>
+				<word number="4">burlesque</word>
+				<word number="5">travesty</word>
+				<word number="6" new="1">lampoon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="turn into ridicule">
+			<sg number="1">
+				<word number="1">turn into ridicule</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make merry with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make fun of</word>
+				<word number="2">make game of</word>
+				<word number="3">make a fool of</word>
+				<word number="4">make an April fool of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rally</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="disrespect" headRef="971">scoff</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="raise a laugh">
+			<sg number="1">
+				<word number="1" paraRef="amuse" headRef="878">raise a laugh</word>
+			</sg>
+			<sg number="2">
+				<word number="1">play the fool</word>
+				<word number="2">make a fool of oneself</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="derisory">
+			<sg number="1">
+				<word number="1">derisory</word>
+				<word number="2">derisive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mock</word>
+				<word number="2">mocking</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sarcastic</word>
+				<word number="2">ironic</word>
+				<word number="3">ironical</word>
+				<word number="4">quizzical</word>
+				<word number="5">burlesque</word>
+				<word number="6">Hudibrastic</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disrespectful" headRef="971">scurrilous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in ridicule">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in ridicule</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

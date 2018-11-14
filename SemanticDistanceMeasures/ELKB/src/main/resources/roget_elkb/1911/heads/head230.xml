@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="230" name="Exteriority" origNum="#220." class="2" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="exteriority">
+			<sg number="1">
+				<word number="1">exteriority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outside</word>
+				<word number="2">exterior</word>
+			</sg>
+			<sg number="3">
+				<word number="1">surface</word>
+				<word number="2">superficies</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="covering" headRef="233">skin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">superstratum</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disk</word>
+				<word number="2">disc</word>
+			</sg>
+			<sg number="7">
+				<word number="1">face</word>
+				<word number="2">facet</word>
+			</sg>
+			<sg number="8">
+				<word number="1">extrados</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="excentricity">
+			<sg number="1">
+				<word number="1">excentricity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eccentricity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="circumjacence" headRef="237">circumjacence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be exterior">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be exterior</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lie around" headRef="237">lie around</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="place exteriorly">
+			<sg number="1">
+				<word number="1">place exteriorly</word>
+				<word number="2">place outwardly</word>
+				<word number="3">place outside</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put out</word>
+				<word number="2">turn out</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="exterior">
+			<sg number="1">
+				<word number="1">exterior</word>
+				<word number="2">external</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outer most</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outward</word>
+				<word number="2">outlying</word>
+				<word number="3">outside</word>
+				<word number="4">outdoor</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="round about" headRef="237">round about</word>
+			</sg>
+			<sg number="5">
+				<word number="1">extramural</word>
+			</sg>
+			<sg number="6">
+				<word number="1">extralimitary</word>
+				<word number="2">extramundane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="superficial">
+			<sg number="1">
+				<word number="1">superficial</word>
+				<word number="2">skin-deep</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frontal</word>
+				<word number="2">discoid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="extraregarding">
+			<sg number="1">
+				<word number="1">extraregarding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">excentric</word>
+				<word number="2">eccentric</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outstanding</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="extrinsic" headRef="6">extrinsic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ecdemic</word>
+				<word number="2">exomorphic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="externally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">externally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out</word>
+				<word number="2">with out</word>
+				<word number="3">over</word>
+				<word number="4">outwards</word>
+				<word number="5">ab extra</word>
+				<word number="6">out of doors</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extra muros</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in the open air">
+			<sg number="1">
+				<word number="1">in the open air</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sub Jove</word>
+				<word number="2">sub dio</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a la belle etoile</word>
+				<word number="2">al fresco</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="751" name="Warfare" origNum="#722." class="6" section="4" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="warfare">
+			<sg number="1">
+				<word number="1">warfare</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">fighting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hostilities</word>
+			</sg>
+			<sg number="4">
+				<word number="1">war</word>
+				<word number="2">arms</word>
+				<word number="3">the sword</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Mars</word>
+				<word number="2">Bellona</word>
+				<word number="3">grim visaged war</word>
+				<word number="4">horrida bella</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bloodshed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="appeal to arms">
+			<sg number="1">
+				<word number="1">appeal to arms</word>
+				<word number="2">appeal to the sword</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ordeal of battle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wager of battle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ultima ratio regum</word>
+				<word number="2">arbitrament of the sword</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="battle array">
+			<sg number="1">
+				<word number="1">battle array</word>
+				<word number="2">campaign</word>
+				<word number="3">crusade</word>
+				<word number="4">expedition</word>
+				<word number="5">operations</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mobilization</word>
+			</sg>
+			<sg number="3">
+				<word number="1">state of siege</word>
+			</sg>
+			<sg number="4">
+				<word number="1">battlefield</word>
+				<word number="2" paraRef="arena" headRef="757">theater of operations</word>
+			</sg>
+			<sg number="5">
+				<word number="1">warpath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="art of war">
+			<sg number="1">
+				<word number="1">art of war</word>
+				<word number="2">tactics</word>
+				<word number="3">strategy</word>
+				<word number="4">castrametation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">generalship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">soldiership</word>
+			</sg>
+			<sg number="4">
+				<word number="1">logistics</word>
+			</sg>
+			<sg number="5">
+				<word number="1">military evolutions</word>
+				<word number="2">ballistics</word>
+				<word number="3">gunnery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chivalry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="gunpowder">
+			<sg number="1">
+				<word number="1">gunpowder</word>
+				<word number="2">shot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="battle">
+			<sg number="1">
+				<word number="1">battle</word>
+				<word number="2" paraRef="contention" headRef="749">tug of war</word>
+			</sg>
+			<sg number="2">
+				<word number="1">service</word>
+				<word number="2">campaigning</word>
+				<word number="3">active service</word>
+				<word number="4">tented field</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kriegspiel</word>
+				<word number="2">Kriegsspiel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fire cross</word>
+				<word number="2">trumpet</word>
+				<word number="3">clarion</word>
+				<word number="4">bugle</word>
+				<word number="5">pibroch</word>
+				<word number="6">slogan</word>
+			</sg>
+			<sg number="5">
+				<word number="1">war-cry</word>
+				<word number="2">war-whoop</word>
+			</sg>
+			<sg number="6">
+				<word number="1">battle cry</word>
+				<word number="2">beat of drum</word>
+				<word number="3">rappel</word>
+				<word number="4">tom-tom</word>
+			</sg>
+			<sg number="7">
+				<word number="1">calumet of war</word>
+			</sg>
+			<sg number="8">
+				<word number="1">word of command</word>
+			</sg>
+			<sg number="9">
+				<word number="1">password</word>
+				<word number="2">watchword</word>
+			</sg>
+			<sg number="10">
+				<word number="1">passage d-armes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="war to the death">
+			<sg number="1">
+				<word number="1">war to the death</word>
+				<word number="2">war to the knife</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guerre a mort</word>
+				<word number="2">guerre a outrance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open war</word>
+				<word number="2">internecine war</word>
+				<word number="3">civil war</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="combat">
+			<sg number="1">
+				<word number="1" new="1">combat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="fight">
+			<sg number="1">
+				<word number="1" new="2">fight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="arm">
+			<sg number="1">
+				<word number="1">arm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">raise troops</word>
+				<word number="2">mobilize troops</word>
+			</sg>
+			<sg number="3">
+				<word number="1">raise up in arms</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="take up the cudgels" headRef="749">take up the cudgels</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take up arms</word>
+				<word number="2">fly to arms</word>
+				<word number="3">appeal to arms</word>
+				<word number="4">fly to the sword</word>
+			</sg>
+			<sg number="6">
+				<word number="1">draw the sword</word>
+				<word number="2">unsheathe the sword</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dig up the hatchet</word>
+				<word number="2">dig up the tomahawk</word>
+			</sg>
+			<sg number="8">
+				<word number="1">go to war</word>
+				<word number="2">wage war</word>
+				<word number="3">'let slip the dogs of war'</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cry havoc</word>
+			</sg>
+			<sg number="10">
+				<word number="1">kindle the torch of war</word>
+				<word number="2">light the torch of war</word>
+			</sg>
+			<sg number="11">
+				<word number="1">raise one's banner</word>
+				<word number="2">raise the fire cross</word>
+			</sg>
+			<sg number="12">
+				<word number="1">hoist the black flag</word>
+			</sg>
+			<sg number="13">
+				<word number="1">throw away</word>
+				<word number="2">fling away the scabbard</word>
+			</sg>
+			<sg number="14">
+				<word number="1">enroll</word>
+				<word number="2">enlist</word>
+			</sg>
+			<sg number="15">
+				<word number="1">take the field</word>
+			</sg>
+			<sg number="16">
+				<word number="1">take the law into one's own hands</word>
+			</sg>
+			<sg number="17">
+				<word number="1">do battle</word>
+				<word number="2">give battle</word>
+				<word number="3">join battle</word>
+				<word number="4">engage in battle</word>
+				<word number="5">go to battle</word>
+			</sg>
+			<sg number="18">
+				<word number="1">flesh one's sword</word>
+			</sg>
+			<sg number="19">
+				<word number="1">set to</word>
+				<word number="2">fall to</word>
+				<word number="3">engage</word>
+				<word number="4">measure swords with</word>
+				<word number="5">draw the trigger</word>
+				<word number="6">cross swords</word>
+			</sg>
+			<sg number="20">
+				<word number="1">come to blows</word>
+				<word number="2">come to close quarters</word>
+			</sg>
+			<sg number="21">
+				<word number="1">fight</word>
+			</sg>
+			<sg number="22">
+				<word number="1">combat</word>
+			</sg>
+			<sg number="23">
+				<word number="1" paraRef="contend" headRef="749">contend</word>
+			</sg>
+			<sg number="24">
+				<word number="1">battle with</word>
+				<word number="2">break a lance with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="raise the jolly roger">
+			<sg number="1">
+				<word number="1">raise the jolly roger</word>
+				<word number="2">run up the jolly roger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="serve">
+			<sg number="1">
+				<word number="1">serve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">see service</word>
+				<word number="2">be on service</word>
+				<word number="3">be on active service</word>
+			</sg>
+			<sg number="3">
+				<word number="1">campaign</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wield the sword</word>
+				<word number="2">shoulder a musket</word>
+				<word number="3">smell powder</word>
+				<word number="4">be under fire</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spill blood</word>
+				<word number="2">imbrue the hands in blood</word>
+			</sg>
+			<sg number="6">
+				<word number="1">on the warpath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="carry on war">
+			<sg number="1">
+				<word number="1">carry on war</word>
+				<word number="2">carry on hostilities</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep the field</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fight the good fight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fight it out</word>
+				<word number="2">fight like devils</word>
+				<word number="3">fight one's way</word>
+				<word number="4">fight hand to hand</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sell one's life dearly</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pay the ferryman's fee</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="contending">
+			<sg number="1">
+				<word number="1">contending</word>
+				<word number="2" paraRef="contentious" headRef="749">contentious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">armed</word>
+				<word number="2">armed to the teeth</word>
+				<word number="3">armed cap-a-pie</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sword in hand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in arms</word>
+				<word number="2">under arms</word>
+				<word number="3">up in arms</word>
+			</sg>
+			<sg number="5">
+				<word number="1">at war with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bristling with arms</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in battle array</word>
+				<word number="2">in open arms</word>
+				<word number="3">in the field</word>
+			</sg>
+			<sg number="8">
+				<word number="1">embattled</word>
+			</sg>
+			<sg number="9">
+				<word number="1">battled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unpacific">
+			<sg number="1">
+				<word number="1">unpacific</word>
+				<word number="2">unpeaceful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belligerent</word>
+				<word number="2">combative</word>
+				<word number="3">armigerous</word>
+				<word number="4">bellicose</word>
+				<word number="5">martial</word>
+				<word number="6">warlike</word>
+			</sg>
+			<sg number="3">
+				<word number="1">military</word>
+				<word number="2">militant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">soldier- like</word>
+				<word number="2">soldierly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="chivalrous">
+			<sg number="1">
+				<word number="1">chivalrous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strategical</word>
+				<word number="2">internecine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="flagrante bello">
+			<sg number="1">
+				<word number="1">flagrante bello</word>
+				<word number="2">in the thick of the fray</word>
+				<word number="3">in the cannon's mouth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at the sword's point</word>
+				<word number="2">at the point of the bayonet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="vae victis">
+			<sg number="1">
+				<word number="1">vae victis!</word>
+				<word number="2">to arms!</word>
+				<word number="3">to your tents O Israel!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the battle rages">
+			<sg number="1">
+				<word number="1">the battle rages</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a la guerre comme a la guerre</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bis peccare in bello non licet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jus gladii</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"my voice is still for war"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"'tis well that war is so terrible</word>
+				<word number="2">otherwise we might grow fond of it"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"my sentence is for open war"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"pride</word>
+				<word number="2">pomp</word>
+				<word number="3">and circumstance of glorious war"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"the cannons have their bowels full of wrath"</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"the cannons . . .spit forth their iron indignation"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"the fire-eyed maid of smoky war"</word>
+			</sg>
+			<sg number="12">
+				<word number="1">silent leges inter arma</word>
+			</sg>
+			<sg number="13">
+				<word number="1">si vis pacem para bellum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

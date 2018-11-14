@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="978" name="Detractor" origNum="#936." class="8" section="4" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="detractor">
+			<sg number="1">
+				<word number="1">detractor</word>
+				<word number="2">reprover</word>
+			</sg>
+			<sg number="2">
+				<word number="1">censor</word>
+				<word number="2">censurer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cynic</word>
+				<word number="2">critic</word>
+				<word number="3">caviler</word>
+				<word number="4">carper</word>
+				<word number="5">word-catcher</word>
+				<word number="6">frondeur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barracker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="defamer">
+			<sg number="1">
+				<word number="1">defamer</word>
+				<word number="2">backbiter</word>
+				<word number="3">slanderer</word>
+				<word number="4">Sir Benjamin Backbite</word>
+				<word number="5">lampooner</word>
+				<word number="6">satirist</word>
+				<word number="7">traducer</word>
+				<word number="8">libeler</word>
+				<word number="9">calumniator</word>
+				<word number="10">dawplucker</word>
+				<word number="11">Thersites</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Zoilus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">good-natured friend</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reviler</word>
+				<word number="2">vituperator</word>
+				<word number="3">castigator</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="shrew" headRef="940">shrew</word>
+			</sg>
+			<sg number="6">
+				<word number="1">muckraker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="disapprover">
+			<sg number="1">
+				<word number="1">disapprover</word>
+				<word number="2">laudator temporis acti</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="black-mouthed">
+			<sg number="1">
+				<word number="1">black-mouthed</word>
+				<word number="2" paraRef="abusive" headRef="976">abusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

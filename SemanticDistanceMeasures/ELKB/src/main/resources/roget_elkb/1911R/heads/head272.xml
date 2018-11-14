@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="272" name="Closure" origNum="#261." class="2" section="3" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="closure">
+			<sg number="1">
+				<word number="1">closure</word>
+				<word number="2">occlusion</word>
+				<word number="3">blockade</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">shutting up</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hindrance" headRef="735">obstruction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">embolus</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="contraction" headRef="204">contraction</word>
+			</sg>
+			<sg number="6">
+				<word number="1">infarction</word>
+			</sg>
+			<sg number="7">
+				<word number="1">constipation</word>
+				<word number="2">obstipation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">blind alley</word>
+				<word number="2">blind corner</word>
+			</sg>
+			<sg number="9">
+				<word number="1">keddah</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cul-de-sac</word>
+				<word number="2">caecum</word>
+			</sg>
+			<sg number="11">
+				<word number="1">imperforation</word>
+				<word number="2" paraRef="" posRef="adj.">imperviousness</word>
+			</sg>
+			<sg number="12">
+				<word number="1">impermeability</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="stopper" headRef="274">stopper</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="close">
+			<sg number="1">
+				<word number="1">close</word>
+				<word number="2">occlude</word>
+				<word number="3">plug</word>
+			</sg>
+			<sg number="2">
+				<word number="1">block up</word>
+				<word number="2">stop up</word>
+				<word number="3">fill up</word>
+				<word number="4">bung up</word>
+				<word number="5">cork up</word>
+				<word number="6">button up</word>
+				<word number="7">stuff up</word>
+				<word number="8">shut up</word>
+				<word number="9">dam up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blockade</word>
+				<word number="2" paraRef="hinder" headRef="735">obstruct</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bar</word>
+				<word number="2">bolt</word>
+				<word number="3">stop</word>
+				<word number="4">seal</word>
+				<word number="5">plumb</word>
+			</sg>
+			<sg number="5">
+				<word number="1">choke</word>
+				<word number="2">throttle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ram down</word>
+				<word number="2">dam</word>
+				<word number="3">cram</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trap</word>
+				<word number="2">clinch</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put to the door</word>
+				<word number="2">shut the door</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="closed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">closed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shut</word>
+				<word number="2">operculated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unopened</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unpierced">
+			<sg number="1">
+				<word number="1">unpierced</word>
+				<word number="2">imporous</word>
+				<word number="3">caecal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">closable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imperforate</word>
+				<word number="2">impervious</word>
+				<word number="3">impermeable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">impenetrable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">impassable</word>
+				<word number="2">unpassable|2</word>
+			</sg>
+			<sg number="6">
+				<word number="1">invious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pathless</word>
+				<word number="2">wayless</word>
+			</sg>
+			<sg number="8">
+				<word number="1">untrodden</word>
+				<word number="2">untrod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unventilated">
+			<sg number="1">
+				<word number="1">unventilated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air tight</word>
+				<word number="2">water tight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hermetically sealed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tight</word>
+				<word number="2">snug</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="810" name="Exemption" origNum="#777a." class="7" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="exemption">
+			<sg number="1">
+				<word number="1">exemption</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="absence" headRef="196">absence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exception</word>
+				<word number="2">immunity</word>
+				<word number="3">privilege</word>
+				<word number="4">release</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not have">
+			<sg number="1">
+				<word number="1" paraRef="have" headRef="809">not have</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be without</word>
+			</sg>
+			<sg number="3">
+				<word number="1">excuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="exempt from">
+			<sg number="1">
+				<word number="1">exempt from</word>
+				<word number="2">devoid of</word>
+				<word number="3">without</word>
+				<word number="4">unpossessed of</word>
+				<word number="5">unblest with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immune from</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not having">
+			<sg number="1">
+				<word number="1" paraRef="have" headRef="809">not having</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unpossessed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="vacant" headRef="196">untenanted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">without an owner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unobtained">
+			<sg number="1">
+				<word number="1">unobtained</word>
+				<word number="2">unacquired</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

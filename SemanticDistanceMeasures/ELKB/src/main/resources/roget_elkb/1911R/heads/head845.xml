@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="845" name="Receipt" origNum="#810." class="7" section="4" subSection="4" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="receipt">
+			<sg number="1">
+				<word number="1">receipt</word>
+				<word number="2">value received</word>
+				<word number="3">money coming in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">income</word>
+				<word number="2">incomings</word>
+				<word number="3">innings</word>
+				<word number="4">revenue</word>
+				<word number="5">return</word>
+				<word number="6">proceeds</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gross receipts</word>
+				<word number="2">net profit</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="gain" headRef="807">earnings</word>
+			</sg>
+			<sg number="5">
+				<word number="1">accepta</word>
+				<word number="2">avails</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">alter</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">pietists</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">subprefecture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rent">
+			<sg number="1">
+				<word number="1">rent</word>
+				<word number="2">rent roll</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rental</word>
+				<word number="2">rentage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rack-rent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="premium">
+			<sg number="1">
+				<word number="1">premium</word>
+				<word number="2">bonus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sweepstakes</word>
+				<word number="2">tontine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pension">
+			<sg number="1">
+				<word number="1">pension</word>
+				<word number="2">annuity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="property" headRef="813">jointure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alimony</word>
+				<word number="2">palimony</word>
+				<word number="3">pittance</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="remuneration" headRef="1016">emolument</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="receive">
+			<sg number="1">
+				<word number="1" paraRef="receive" headRef="818">receive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take money</word>
+			</sg>
+			<sg number="3">
+				<word number="1">draw from</word>
+				<word number="2">derive from</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="acquire" headRef="807">acquire</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="take" headRef="822">take</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bring in">
+			<sg number="1">
+				<word number="1">bring in</word>
+				<word number="2">yield</word>
+				<word number="3">afford</word>
+				<word number="4">pay</word>
+				<word number="5">return</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be received" headRef="818">accrue</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="receiving">
+			<sg number="1">
+				<word number="1">receiving</word>
+				<word number="2" paraRef="" posRef="v.">received</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="gainful" headRef="807">profitable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

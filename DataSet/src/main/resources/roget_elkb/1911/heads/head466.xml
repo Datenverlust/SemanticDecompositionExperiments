@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="466" name="Invisibility" origNum="#447." class="3" section="3" subSection="2" headGroup="37">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="invisibility">
+			<sg number="1">
+				<word number="1">invisibility</word>
+				<word number="2">invisibleness</word>
+				<word number="3">nonappearance</word>
+				<word number="4">imperceptibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">indistinctness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mystery</word>
+				<word number="2">delitescence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="concealment">
+			<sg number="1">
+				<word number="1" paraRef="concealment" headRef="554">concealment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="latency" headRef="551">latency</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be invisible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be invisible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="hide" headRef="554">be hidden</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hidden" headRef="554">lurk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">escape notice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render invisible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render invisible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="conceal" headRef="554">conceal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put out of sight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="not see">
+			<sg number="1">
+				<word number="1" paraRef="be blind" headRef="461">not see</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lose sight of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="invisible">
+			<sg number="1">
+				<word number="1">invisible</word>
+				<word number="2">imperceptible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undiscernible</word>
+				<word number="2">indiscernible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unapparent</word>
+				<word number="2">non-apparent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of sight</word>
+				<word number="2">not in sight</word>
+			</sg>
+			<sg number="5">
+				<word number="1">a perte de vue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">behind the scenes</word>
+				<word number="2">behind the curtain</word>
+			</sg>
+			<sg number="7">
+				<word number="1">viewless</word>
+				<word number="2">sightless</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inconspicuous</word>
+				<word number="2">unconspicuous</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="see" headRef="460">unseen</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="latent" headRef="551">covert</word>
+			</sg>
+			<sg number="11">
+				<word number="1">eclipsed</word>
+				<word number="2">under an eclipse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dim">
+			<sg number="1">
+				<word number="1" paraRef="faint" headRef="440">dim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mysterious</word>
+				<word number="2">dark</word>
+				<word number="3">obscure</word>
+				<word number="4">confused</word>
+			</sg>
+			<sg number="3">
+				<word number="1">indistinct</word>
+				<word number="2">indistinguishable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shadowy</word>
+				<word number="2">indefinite</word>
+				<word number="3">undefined</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ill-defined</word>
+				<word number="2">ill-marked</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blurred</word>
+				<word number="2">fuzzy</word>
+				<word number="3">out of focus</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="opaque" headRef="444">misty</word>
+			</sg>
+			<sg number="8">
+				<word number="1">delitescent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hidden">
+			<sg number="1">
+				<word number="1">hidden</word>
+				<word number="2">obscured</word>
+				<word number="3">covered</word>
+				<word number="4" paraRef="concealed" headRef="554">veiled</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="full many a flower is born to blush unseen">
+			<sg number="1">
+				<word number="1">"full many a flower is born to blush unseen"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

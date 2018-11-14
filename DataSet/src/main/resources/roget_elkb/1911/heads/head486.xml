@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="486" name="Discrimination" origNum="#465." class="4" section="2" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discrimination">
+			<sg number="1">
+				<word number="1">discrimination</word>
+				<word number="2">distinction</word>
+				<word number="3">differentiation</word>
+				<word number="4">diagnosis</word>
+				<word number="5">diorism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nice perception</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perception of difference</word>
+				<word number="2">appreciation of difference</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="estimation" headRef="489">estimation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nicety</word>
+				<word number="2">refinement</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="taste" headRef="889">taste</word>
+			</sg>
+			<sg number="7">
+				<word number="1">critique</word>
+				<word number="2">judgment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tact</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="intelligence" headRef="522">discernment</word>
+			</sg>
+			<sg number="10">
+				<word number="1">acuteness</word>
+				<word number="2">penetration</word>
+			</sg>
+			<sg number="11">
+				<word number="1">nuances</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dope*">
+			<sg number="1">
+				<word number="1">dope*</word>
+				<word number="2">past performances</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="discriminate">
+			<sg number="1">
+				<word number="1">discriminate</word>
+				<word number="2">distinguish</word>
+				<word number="3">severalize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recognize</word>
+				<word number="2">match</word>
+				<word number="3">identify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">separate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">draw the line</word>
+				<word number="2">sift</word>
+			</sg>
+			<sg number="5">
+				<word number="1">separate the chaff from the wheat</word>
+				<word number="2">winnow the chaff from the wheat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">separate the men from the boys</word>
+			</sg>
+			<sg number="7">
+				<word number="1">split hairs</word>
+				<word number="2">draw a  fine line</word>
+				<word number="3">nitpick</word>
+				<word number="4">quibble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="estimate">
+			<sg number="1">
+				<word number="1" paraRef="measure" headRef="489">estimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">know which is which</word>
+				<word number="2">know what is what</word>
+				<word number="3">know "a hawk from a handsaw"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="take into account">
+			<sg number="1">
+				<word number="1">take into account</word>
+				<word number="2">take into consideration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give due weight to</word>
+				<word number="2">allow due weight to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">weigh carefully</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discriminating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">discriminating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dioristic</word>
+				<word number="2">discriminative</word>
+				<word number="3">distinctive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="il y a fagots et fagots">
+			<sg number="1">
+				<word number="1">il y a fagots et fagots</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rem acu tetigisti</word>
+			</sg>
+			<sg number="3">
+				<word number="1">la critique est aisee et l'art est difficile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">miles apart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">a distinction without a difference</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

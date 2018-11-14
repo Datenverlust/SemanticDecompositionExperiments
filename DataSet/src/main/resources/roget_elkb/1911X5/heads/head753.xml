@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="753" name="Mediation" origNum="#724." class="6" section="4" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="mediation">
+			<sg number="1">
+				<word number="1">mediation</word>
+				<word number="2">mediatorship</word>
+				<word number="3">mediatization</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intervention</word>
+				<word number="2">interposition</word>
+				<word number="3">interference</word>
+				<word number="4">intermeddling</word>
+				<word number="5">intercession</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arbitration</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="flag of truce" headRef="752">flag of truce</word>
+			</sg>
+			<sg number="5">
+				<word number="1">good offices</word>
+				<word number="2">peace offering</word>
+			</sg>
+			<sg number="6">
+				<word number="1">parley</word>
+				<word number="2">negotiation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">diplomatics</word>
+				<word number="2">diplomacy</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="compromise" headRef="806">compromise</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">conciliation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mediator">
+			<sg number="1">
+				<word number="1">mediator</word>
+				<word number="2">arbitrator</word>
+				<word number="3">intercessor</word>
+				<word number="4">peacemaker</word>
+				<word number="5">makepeace</word>
+				<word number="6">negotiator</word>
+				<word number="7">go-between</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="consignee" headRef="789">diplomatist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">moderator</word>
+			</sg>
+			<sg number="4">
+				<word number="1">propitiator</word>
+			</sg>
+			<sg number="5">
+				<word number="1">umpire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="mediate">
+			<sg number="1">
+				<word number="1">mediate</word>
+				<word number="2">mediatize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intercede</word>
+				<word number="2">interpose</word>
+				<word number="3">interfere</word>
+				<word number="4">intervene</word>
+			</sg>
+			<sg number="3">
+				<word number="1">step in</word>
+				<word number="2">negotiate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">meet halfway</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arbitrate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">magnas componere lites</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bargain">
+			<sg number="1">
+				<word number="1" paraRef="bargain" headRef="827">bargain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="mediatory">
+			<sg number="1">
+				<word number="1">mediatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="493" name="Possibility" origNum="#470." class="4" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="possibility">
+			<sg number="1">
+				<word number="1">possibility</word>
+				<word number="2">potentiality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">what may be</word>
+				<word number="2" paraRef="" posRef="adj.">what is possible</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agreement" headRef="25">compatibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="practicability">
+			<sg number="1">
+				<word number="1">practicability</word>
+				<word number="2">feasibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">practicableness</word>
+				<word number="2" paraRef="chance" headRef="163">chance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be possible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be possible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand a chance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">admit of</word>
+				<word number="2">bear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render possible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render possible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put in the way of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="possible">
+			<sg number="1">
+				<word number="1">possible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the cards</word>
+				<word number="2">on the dice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in posse</word>
+				<word number="2">within the bounds of possibility</word>
+				<word number="3">conceivable</word>
+				<word number="4">credible</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="compatible" headRef="25">compatible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">likely</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="practicable">
+			<sg number="1">
+				<word number="1">practicable</word>
+				<word number="2">feasible</word>
+				<word number="3">performable</word>
+				<word number="4">achievable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">within reach</word>
+				<word number="2">within measurable distance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accessible</word>
+				<word number="2">superable</word>
+				<word number="3">surmountable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">attainable</word>
+				<word number="2">obtainable</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="doubtful" headRef="498">contingent</word>
+				<word number="2" paraRef="effect" headRef="161">effect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="barely possible">
+			<sg number="1">
+				<word number="1">barely possible</word>
+				<word number="2">marginally possible</word>
+				<word number="3">just possible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">possible but improbably</word>
+				<word number="2" paraRef="improbable" headRef="496">improbable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">theoretically possible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="possibly">
+			<sg number="1">
+				<word number="1">possibly</word>
+				<word number="2">by possibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perhaps</word>
+				<word number="2">perchance</word>
+				<word number="3">peradventure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maybe</word>
+				<word number="2">may be</word>
+				<word number="3">haply</word>
+				<word number="4">mayhap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="if possible">
+			<sg number="1">
+				<word number="1">if possible</word>
+				<word number="2">wind and weather permitting</word>
+				<word number="3">God willing</word>
+				<word number="4">Deo volente</word>
+				<word number="5">D. V</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as luck may have it</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="misericordia Domini inter pontem et fontent">
+			<sg number="1">
+				<word number="1">misericordia Domini inter pontem et fontent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the glories of the Possible are ours"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anything is possible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in theory possible</word>
+				<word number="2">but in practise unlikely</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

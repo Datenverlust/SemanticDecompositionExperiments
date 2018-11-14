@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="772" name="Command" origNum="#741." class="7" section="1" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="command">
+			<sg number="1">
+				<word number="1">command</word>
+				<word number="2">order</word>
+				<word number="3">ordinance</word>
+				<word number="4">act</word>
+				<word number="5">fiat</word>
+				<word number="6">hukm</word>
+				<word number="7">bidding</word>
+				<word number="8">dictum</word>
+				<word number="9">hest</word>
+				<word number="10">behest</word>
+				<word number="11">call</word>
+				<word number="12">beck</word>
+				<word number="13">nod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="despatch">
+			<sg number="1">
+				<word number="1">despatch</word>
+				<word number="2">dispatch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">message</word>
+				<word number="2">direction</word>
+				<word number="3">injunction</word>
+				<word number="4">charge</word>
+				<word number="5">instructions</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appointment</word>
+				<word number="2">fixture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="demand">
+			<sg number="1">
+				<word number="1">demand</word>
+				<word number="2">exaction</word>
+				<word number="3">imposition</word>
+				<word number="4">requisition</word>
+				<word number="5">claim</word>
+				<word number="6">reclamation</word>
+				<word number="7">revendication</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="terms" headRef="802">ultimatum</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="request" headRef="796">request</word>
+			</sg>
+			<sg number="4">
+				<word number="1">requirement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dictation">
+			<sg number="1">
+				<word number="1">dictation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dictate</word>
+				<word number="2">mandate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">caveat</word>
+				<word number="2">decree</word>
+				<word number="3">senatus consultum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">precept</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prescript</word>
+				<word number="2">rescript</word>
+			</sg>
+			<sg number="6">
+				<word number="1">writ</word>
+				<word number="2">ordination</word>
+				<word number="3">bull</word>
+				<word number="4">ex cathedra pronouncement</word>
+				<word number="5">edict</word>
+				<word number="6">decretal</word>
+				<word number="7">dispensation</word>
+				<word number="8">prescription</word>
+				<word number="9">brevet</word>
+				<word number="10">placit</word>
+				<word number="11">ukase</word>
+				<word number="12">ukaz</word>
+				<word number="13">firman</word>
+				<word number="14">hatti-sherif</word>
+				<word number="15">warrant</word>
+				<word number="16">passport</word>
+				<word number="17">mittimus</word>
+				<word number="18">mandamus</word>
+				<word number="19">summons</word>
+				<word number="20">subpoena</word>
+				<word number="21">nisi prius</word>
+				<word number="22">interpellation</word>
+				<word number="23">citation</word>
+				<word number="24" new="1">goaltenders</word>
+				<word number="25" new="1">larkspur</word>
+				<word number="26" new="1">enema</word>
+				<word number="27" new="1">evangelicalism</word>
+				<word number="28" new="1">optometrist</word>
+				<word number="29" new="1">costume</word>
+				<word number="30" new="1">silverback</word>
+			</sg>
+			<sg number="7">
+				<word number="1">word</word>
+				<word number="2">word of command</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mot d'ordre</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bugle call</word>
+				<word number="2">trumpet call</word>
+			</sg>
+			<sg number="10">
+				<word number="1">beat of drum</word>
+				<word number="2">tattoo</word>
+			</sg>
+			<sg number="11">
+				<word number="1">order of the day</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="law" headRef="1006">enactment</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="choice" headRef="636">plebiscite</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">dominio</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="command">
+			<sg number="1">
+				<word number="1">command</word>
+				<word number="2">order</word>
+				<word number="3">decree</word>
+				<word number="4">enact</word>
+				<word number="5">ordain</word>
+				<word number="6">dictate</word>
+				<word number="7">direct</word>
+				<word number="8">give orders</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prescribe">
+			<sg number="1">
+				<word number="1">prescribe</word>
+				<word number="2">set</word>
+				<word number="3">appoint</word>
+				<word number="4">mark out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set a task</word>
+				<word number="2">prescribe a task</word>
+				<word number="3">impose a task</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set to work</word>
+				<word number="2">put in requisition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bid">
+			<sg number="1">
+				<word number="1">bid</word>
+				<word number="2">enjoin</word>
+				<word number="3">charge</word>
+				<word number="4">call upon</word>
+				<word number="5">instruct</word>
+			</sg>
+			<sg number="2">
+				<word number="1">require at the hands of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exact</word>
+				<word number="2">impose</word>
+				<word number="3">tax</word>
+				<word number="4">task</word>
+				<word number="5" new="1">desalinate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">demand</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="compel" headRef="775">insist on</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">seine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="claim">
+			<sg number="1">
+				<word number="1">claim</word>
+				<word number="2">lay claim to</word>
+				<word number="3">revendicate</word>
+				<word number="4">reclaim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cite">
+			<sg number="1">
+				<word number="1">cite</word>
+				<word number="2">summon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">call for</word>
+				<word number="2">send for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subpoena</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beckon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="issue a command">
+			<sg number="1">
+				<word number="1">issue a command</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make a requisition</word>
+				<word number="2">issue a requisition</word>
+				<word number="3">promulgate a requisition</word>
+				<word number="4">make a decree</word>
+				<word number="5">issue a decree</word>
+				<word number="6">promulgate a decree</word>
+				<word number="7">make an order</word>
+				<word number="8">issue an order</word>
+				<word number="9" paraRef="" posRef="n.">promulgate an order</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give the word of command</word>
+				<word number="2">give the word</word>
+				<word number="3">give the signal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">call to order</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give the law</word>
+				<word number="2">lay down the law</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="authority" headRef="766">assume the command</word>
+			</sg>
+			<sg number="7">
+				<word number="1">remand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="be -ordered">
+			<sg number="1">
+				<word number="1">be -ordered</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">receive an order</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="commanding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">commanding</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="authoritative" headRef="767">authoritative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decretory</word>
+				<word number="2">decretive</word>
+				<word number="3">decretal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">callable</word>
+				<word number="2">jussive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in a commanding tone">
+			<sg number="1">
+				<word number="1">in a commanding tone</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by a stroke of the pen</word>
+				<word number="2">by a dash of the pen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by order</word>
+				<word number="2">at beat of drum</word>
+				<word number="3">on the first summons</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the decree is gone forth">
+			<sg number="1">
+				<word number="1">the decree is gone forth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sic volo sic jubeo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">le Roi le veut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">boutez en avant</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

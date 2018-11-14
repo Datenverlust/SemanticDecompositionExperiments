@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="729" name="Proficient" origNum="#700." class="6" section="3" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="proficient">
+			<sg number="1">
+				<word number="1">proficient</word>
+				<word number="2">expert</word>
+				<word number="3">adept</word>
+				<word number="4">dab</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dabster</word>
+				<word number="2">crackerjack</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="scholar" headRef="516">connoisseur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">master</word>
+				<word number="2">master hand</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prima donna</word>
+				<word number="2">first fiddle</word>
+				<word number="3">top gun</word>
+				<word number="4">chef de cuisine</word>
+				<word number="5">top sawyer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">protagonist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">past master</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mahatma</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="picked man">
+			<sg number="1">
+				<word number="1">picked man</word>
+			</sg>
+			<sg number="2">
+				<word number="1">medallist</word>
+				<word number="2">prizeman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="veteran">
+			<sg number="1">
+				<word number="1">veteran</word>
+			</sg>
+			<sg number="2">
+				<word number="1">old stager</word>
+				<word number="2">old campaigner</word>
+				<word number="3">old soldier</word>
+				<word number="4">old file</word>
+				<word number="5">old hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">man of business</word>
+				<word number="2">man of the world</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="nice hand">
+			<sg number="1">
+				<word number="1">nice hand</word>
+				<word number="2">good hand</word>
+				<word number="3">clean hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">practiced hand</word>
+				<word number="2">experienced eye</word>
+				<word number="3">experienced hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">marksman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good shot</word>
+				<word number="2">dead shot</word>
+				<word number="3">crack shot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ropedancer</word>
+				<word number="2">funambulist</word>
+				<word number="3">acrobat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cunning man</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="deceiver" headRef="574">conjuror</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="wizard" headRef="1038">wizard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="genius">
+			<sg number="1">
+				<word number="1">genius</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mastermind</word>
+				<word number="2">master head</word>
+				<word number="3">master spirit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="cunning blade">
+			<sg number="1">
+				<word number="1">cunning blade</word>
+				<word number="2">sharp blade</word>
+				<word number="3">sharp fellow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jobber</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="thief" headRef="825">cracksman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">politician</word>
+				<word number="2">tactician</word>
+				<word number="3">strategist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="pantologist">
+			<sg number="1">
+				<word number="1">pantologist</word>
+				<word number="2">admirable Crichton</word>
+				<word number="3">Jack of all trades</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prodigy of learning</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

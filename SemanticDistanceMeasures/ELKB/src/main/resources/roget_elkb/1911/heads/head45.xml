@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="45" name="Simpleness" origNum="#42." class="1" section="3" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="simpleness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">simpleness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">purity</word>
+				<word number="2">homogeneity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="elimination">
+			<sg number="1">
+				<word number="1">elimination</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">sifting</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cleanness" headRef="681">purification</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render simple">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render simple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">simplify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sift">
+			<sg number="1">
+				<word number="1">sift</word>
+				<word number="2">winnow</word>
+				<word number="3">bolt</word>
+				<word number="4">eliminate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exclude</word>
+				<word number="2">get rid of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clear</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="clean" headRef="681">purify</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="disjoin" headRef="47">disentangle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="simple">
+			<sg number="1">
+				<word number="1">simple</word>
+				<word number="2">uniform</word>
+				<word number="3">of a piece</word>
+				<word number="4">homogeneous</word>
+				<word number="5">single</word>
+				<word number="6">pure</word>
+				<word number="7">sheer</word>
+				<word number="8">neat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unmixed">
+			<sg number="1">
+				<word number="1">unmixed</word>
+				<word number="2">unmingled</word>
+				<word number="3">unblended</word>
+				<word number="4">uncombined</word>
+				<word number="5">uncompounded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">elementary</word>
+				<word number="2">undecomposed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unadulterated</word>
+				<word number="2">unsophisticated</word>
+				<word number="3">unalloyed</word>
+				<word number="4">untinged</word>
+				<word number="5">unfortified</word>
+				<word number="6">pur et simple</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incomplex</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="free from">
+			<sg number="1">
+				<word number="1">free from</word>
+				<word number="2">exempt from</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exclusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="simple">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">simple</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

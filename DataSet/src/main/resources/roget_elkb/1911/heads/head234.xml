@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="234" name="Lining" origNum="#224." class="2" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lining">
+			<sg number="1">
+				<word number="1">lining</word>
+				<word number="2">inner coating</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="covering" headRef="233">coating</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stalactite</word>
+				<word number="2">stalagmite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="filling">
+			<sg number="1">
+				<word number="1">filling</word>
+				<word number="2">stuffing</word>
+				<word number="3">wadding</word>
+				<word number="4">padding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wainscot">
+			<sg number="1">
+				<word number="1">wainscot</word>
+				<word number="2">parietes</word>
+				<word number="3">wall</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="line">
+			<sg number="1">
+				<word number="1">line</word>
+				<word number="2">stuff</word>
+				<word number="3">incrust</word>
+				<word number="4">wad</word>
+				<word number="5">pad</word>
+				<word number="6">fill</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lined">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lined</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

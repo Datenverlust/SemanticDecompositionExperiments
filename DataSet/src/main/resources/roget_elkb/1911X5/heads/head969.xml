@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="969" name="Exemption" origNum="#927a." class="8" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="exemption">
+			<sg number="1">
+				<word number="1">exemption</word>
+				<word number="2">freedom</word>
+				<word number="3">irresponsibility</word>
+				<word number="4">immunity</word>
+				<word number="5">liberty</word>
+				<word number="6">license</word>
+				<word number="7">release</word>
+				<word number="8">exoneration</word>
+				<word number="9">excuse</word>
+				<word number="10">dispensation</word>
+				<word number="11">absolution</word>
+				<word number="12">franchise</word>
+				<word number="13">renunciation</word>
+				<word number="14">discharge</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exculpation" headRef="1013">exculpation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be exempt">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be exempt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exempt">
+			<sg number="1">
+				<word number="1">exempt</word>
+				<word number="2">release</word>
+				<word number="3">acquit</word>
+				<word number="4">discharge</word>
+				<word number="5">quitclaim</word>
+				<word number="6">remise</word>
+				<word number="7">remit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">free</word>
+				<word number="2">set at liberty</word>
+				<word number="3">let off</word>
+				<word number="4">pass over</word>
+				<word number="5">spare</word>
+				<word number="6">excuse</word>
+				<word number="7">dispense with</word>
+				<word number="8">give dispensation</word>
+				<word number="9">license</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stretch a point</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="forgive" headRef="959">absolve</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exculpate" headRef="1013">exonerate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">save the necessity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="exempt">
+			<sg number="1">
+				<word number="1">exempt</word>
+				<word number="2">free</word>
+				<word number="3">immune</word>
+				<word number="4">at liberty</word>
+				<word number="5">scot-free</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">released</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unbound</word>
+				<word number="2">unencumbered</word>
+			</sg>
+			<sg number="4">
+				<word number="1">irresponsible</word>
+				<word number="2">unaccountable</word>
+				<word number="3">not answerable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">excusable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="bonis nocet quisquis pepercerit malis">
+			<sg number="1">
+				<word number="1">bonis nocet quisquis pepercerit malis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

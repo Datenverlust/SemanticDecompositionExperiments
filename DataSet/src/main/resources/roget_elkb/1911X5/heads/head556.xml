@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="556" name="Ambush " origNum="#530." class="5" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="camouflage">
+			<sg number="1">
+				<word number="1">camouflage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">concealment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mimicry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hiding place</word>
+			</sg>
+			<sg number="5">
+				<word number="1">secret place</word>
+				<word number="2">secret drawer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">recess</word>
+				<word number="2">hold</word>
+				<word number="3">holes and corners</word>
+			</sg>
+			<sg number="7">
+				<word number="1">closet</word>
+				<word number="2">crypt</word>
+				<word number="3">adytum</word>
+				<word number="4">abditory</word>
+				<word number="5">oubliette</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hider</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ambush">
+			<sg number="1">
+				<word number="1">ambush</word>
+				<word number="2">ambuscade</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stalking horse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lurking hole</word>
+				<word number="2">lurking place</word>
+			</sg>
+			<sg number="4">
+				<word number="1">secret path</word>
+				<word number="2">back stairs</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="refuge" headRef="695">retreat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="screen">
+			<sg number="1">
+				<word number="1">screen</word>
+				<word number="2">cover</word>
+				<word number="3">shade</word>
+				<word number="4">blinker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">veil</word>
+				<word number="2">curtain</word>
+				<word number="3">blind</word>
+				<word number="4">cloak</word>
+				<word number="5">cloud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mask">
+			<sg number="1">
+				<word number="1">mask</word>
+				<word number="2">visor</word>
+				<word number="3">vizor</word>
+				<word number="4">disguise</word>
+				<word number="5">masquerade dress</word>
+				<word number="6">domino</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pitfall">
+			<sg number="1">
+				<word number="1" paraRef="source of danger" headRef="696">pitfall</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="snare" headRef="571">trap</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="blend in">
+			<sg number="1">
+				<word number="1">blend in</word>
+				<word number="2">blend into the background</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lie in ambush">
+			<sg number="1">
+				<word number="1" paraRef="hide oneself" headRef="554">lie in ambush</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lie in wait for</word>
+				<word number="2">lurk</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deceive" headRef="571">set a trap for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ambuscade</word>
+				<word number="2">ambush</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="camouflage">
+			<sg number="1">
+				<word number="1">camouflage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="camouflaged">
+			<sg number="1">
+				<word number="1">camouflaged</word>
+				<word number="2">hidden</word>
+				<word number="3">concealed</word>
+				<word number="4" new="1">disguised</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="aux aguets">
+			<sg number="1">
+				<word number="1">aux aguets</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

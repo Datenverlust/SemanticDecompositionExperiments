@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="67" name="Sequence" origNum="#63." class="1" section="4" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sequence">
+			<sg number="1">
+				<word number="1">sequence</word>
+				<word number="2">coming after</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="following" headRef="292">going after</word>
+			</sg>
+			<sg number="3">
+				<word number="1">consecution</word>
+				<word number="2">succession</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="posteriority" headRef="123">posteriority</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="continuation">
+			<sg number="1">
+				<word number="1">continuation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">order of succession</word>
+			</sg>
+			<sg number="3">
+				<word number="1">successiveness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paracme</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="secondariness">
+			<sg number="1">
+				<word number="1">secondariness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inferiority" headRef="36">subordinancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="afterbirth">
+			<sg number="1">
+				<word number="1">afterbirth</word>
+				<word number="2">afterburden</word>
+			</sg>
+			<sg number="2">
+				<word number="1">placenta</word>
+				<word number="2">secundines</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="succeed">
+			<sg number="1">
+				<word number="1">succeed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come after</word>
+				<word number="2">come on</word>
+				<word number="3">come  next</word>
+			</sg>
+			<sg number="3">
+				<word number="1">follow</word>
+				<word number="2">ensue</word>
+				<word number="3">step into the shoes of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alternate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="place after">
+			<sg number="1">
+				<word number="1">place after</word>
+				<word number="2">suffix</word>
+				<word number="3">append</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="succeeding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">succeeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sequent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subsequent</word>
+				<word number="2">consequent</word>
+				<word number="3">sequacious</word>
+				<word number="4">proximate</word>
+				<word number="5">next</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="continuity" headRef="73">consecutive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">alternate</word>
+				<word number="2">amoebean</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="latter">
+			<sg number="1">
+				<word number="1">latter</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="posterior" headRef="123">posterior</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="after">
+			<sg number="1">
+				<word number="1">after</word>
+				<word number="2">subsequently</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="rear" headRef="245">behind</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="412" name="Sweetness" origNum="#396." class="3" section="3" subSection="2" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sweetness">
+			<sg number="1">
+				<word number="1">sweetness</word>
+				<word number="2">dulcitude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sugar">
+			<sg number="1">
+				<word number="1">sugar</word>
+				<word number="2">syrup</word>
+				<word number="3">treacle</word>
+				<word number="4">molasses</word>
+				<word number="5">honey</word>
+				<word number="6">manna</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confection</word>
+				<word number="2">confectionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sweets</word>
+				<word number="2">grocery</word>
+				<word number="3">conserve</word>
+				<word number="4">preserve</word>
+				<word number="5">confiture</word>
+				<word number="6">jam</word>
+				<word number="7">julep</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sugar-candy</word>
+				<word number="2">sugar-plum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">licorice</word>
+				<word number="2">marmalade</word>
+				<word number="3">plum</word>
+				<word number="4">lollipop</word>
+				<word number="5">bonbon</word>
+				<word number="6">jujube</word>
+				<word number="7">comfit</word>
+				<word number="8">sweetmeat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">apple butter</word>
+				<word number="2">caramel</word>
+				<word number="3">damson</word>
+				<word number="4">glucose</word>
+			</sg>
+			<sg number="7">
+				<word number="1">maple sirup</word>
+				<word number="2">maple syrup</word>
+				<word number="3">maple sugar</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mithai</word>
+				<word number="2">sorghum</word>
+				<word number="3">taffy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">jelly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nectar">
+			<sg number="1">
+				<word number="1">nectar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hydromel</word>
+				<word number="2">mead</word>
+				<word number="3">meade</word>
+				<word number="4">metheglin</word>
+				<word number="5">honeysuckle</word>
+				<word number="6">liqueur</word>
+				<word number="7">sweet wine</word>
+				<word number="8">aperitif</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sugar cane">
+			<sg number="1">
+				<word number="1">sugar cane</word>
+				<word number="2">sugar beets</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="desert">
+			<sg number="1">
+				<word number="1">desert</word>
+				<word number="2">pastry</word>
+				<word number="3">pie</word>
+				<word number="4">cake</word>
+				<word number="5">candy</word>
+				<word number="6">ice cream</word>
+				<word number="7">tart</word>
+				<word number="8">puff</word>
+				<word number="9" paraRef="food" headRef="309">pudding</word>
+				<word number="10" new="1">cookie</word>
+				<word number="11" new="1">dessert</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dulcification|">
+			<sg number="1">
+				<word number="1">dulcification</word>
+				<word number="2">dulcoration|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="sweetener">
+			<sg number="1">
+				<word number="1">sweetener</word>
+				<word number="2">corn syrup</word>
+				<word number="3">cane sugar</word>
+				<word number="4">refined sugar</word>
+				<word number="5">beet sugar</word>
+				<word number="6">dextrose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">artificial sweetener</word>
+				<word number="2">saccharin</word>
+				<word number="3">cyclamate</word>
+				<word number="4">aspartame</word>
+				<word number="5">Sweet'N Low</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be sweet">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be sweet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render sweet">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render sweet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sweeten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">edulcorate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dulcorate</word>
+				<word number="2">dulcify</word>
+			</sg>
+			<sg number="5">
+				<word number="1">candy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mull</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sweet">
+			<sg number="1">
+				<word number="1">sweet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saccharine</word>
+				<word number="2">sacchariferous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dulcet</word>
+				<word number="2">candied</word>
+				<word number="3">honied</word>
+				<word number="4">luscious</word>
+				<word number="5">lush</word>
+				<word number="6">nectarious</word>
+				<word number="7">melliferous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">sweetened</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sweet as a nut">
+			<sg number="1">
+				<word number="1">sweet as a nut</word>
+				<word number="2">sweet as sugar</word>
+				<word number="3">sweet as honey</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sickly sweet">
+			<sg number="1">
+				<word number="1">sickly sweet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="eau sucrée">
+			<sg number="1">
+				<word number="1">eau sucrée</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"sweets to the sweet"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

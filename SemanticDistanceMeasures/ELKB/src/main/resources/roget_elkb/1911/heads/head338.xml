@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="338" name="Tenacity" origNum="#327." class="3" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">tenacity</word>
+				<word number="2">toughness</word>
+				<word number="3">strength</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="coherence" headRef="49">cohesion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grip</word>
+				<word number="2">grasp</word>
+				<word number="3" paraRef="coherence" headRef="49">stickiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sequacity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="obstinacy" headRef="633">stubbornness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">glue</word>
+				<word number="2">cement</word>
+				<word number="3">glutinousness</word>
+				<word number="4">sequaciousness</word>
+				<word number="5" paraRef="semiliquidity" headRef="363">viscidity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="leather">
+			<sg number="1">
+				<word number="1">leather</word>
+			</sg>
+			<sg number="2">
+				<word number="1">white leather</word>
+				<word number="2">whitleather</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gristle</word>
+				<word number="2">cartilage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unbreakability">
+			<sg number="1">
+				<word number="1">unbreakability</word>
+				<word number="2">tensile strength</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be tenacious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be tenacious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resist fracture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="grip">
+			<sg number="1">
+				<word number="1">grip</word>
+				<word number="2">grasp</word>
+				<word number="3" paraRef="coherence" headRef="49">stick</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="tenacious">
+			<sg number="1">
+				<word number="1">tenacious</word>
+				<word number="2">tough</word>
+				<word number="3">strong</word>
+				<word number="4">resisting</word>
+				<word number="5">sequacious</word>
+				<word number="6">stringy</word>
+				<word number="7">gristly cartilaginous</word>
+				<word number="8">leathery</word>
+				<word number="9">coriaceous</word>
+				<word number="10">tough as whitleather</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="obstinate" headRef="633">stubborn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unbreakable">
+			<sg number="1">
+				<word number="1">unbreakable</word>
+				<word number="2">indivisible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">atomic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

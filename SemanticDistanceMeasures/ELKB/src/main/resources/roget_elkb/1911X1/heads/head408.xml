@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="408" name="Bitterness" origNum="#392b." class="3" section="3" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bitterness">
+			<sg number="1">
+				<word number="1">bitterness</word>
+				<word number="2">acridness</word>
+				<word number="3">acridity</word>
+				<word number="4">acrimony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caustic</word>
+				<word number="2">alkali</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acerbity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gall</word>
+				<word number="2">wormwood</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bitters</word>
+				<word number="2">astringent bitters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Angostura aromatic bitters">
+			<sg number="1">
+				<word number="1">Angostura aromatic bitters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sourness">
+			<sg number="1">
+				<word number="1" paraRef="sourness" headRef="413">sourness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pungency" headRef="406">pungency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="alkaloids">
+			<sg number="1">
+				<word number="1">alkaloids</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turmeric</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="bitter">
+			<sg number="1">
+				<word number="1">bitter</word>
+				<word number="2">bitterish</word>
+				<word number="3">acrid</word>
+				<word number="4">acerb</word>
+				<word number="5">acerbic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="bitter as gall">
+			<sg number="1">
+				<word number="1">bitter as gall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bitter pill to take</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sugar coating on a bitter pill</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

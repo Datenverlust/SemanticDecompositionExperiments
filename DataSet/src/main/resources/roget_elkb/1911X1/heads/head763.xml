@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="763" name="Prosperity" origNum="#734." class="6" section="5" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prosperity">
+			<sg number="1">
+				<word number="1">prosperity</word>
+				<word number="2">welfare</word>
+				<word number="3">well-being</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wealth" headRef="838">affluence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="success" headRef="760">success</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thrift</word>
+				<word number="2">roaring trade</word>
+			</sg>
+			<sg number="5">
+				<word number="1">good fortune</word>
+				<word number="2">smiles of fortune</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blessings</word>
+				<word number="2">godsend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="luck">
+			<sg number="1">
+				<word number="1">luck</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good luck</word>
+				<word number="2">run of luck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sunshine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fair weather</word>
+				<word number="2">fair wind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">palmy days</word>
+				<word number="2">bright days</word>
+				<word number="3">halcyon days</word>
+			</sg>
+			<sg number="6">
+				<word number="1">piping times</word>
+				<word number="2">tide</word>
+				<word number="3">flood</word>
+				<word number="4">high tide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Saturnia regna">
+			<sg number="1">
+				<word number="1">Saturnia regna</word>
+				<word number="2">Saturnian age</word>
+			</sg>
+			<sg number="2">
+				<word number="1">golden time</word>
+				<word number="2">golden age</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bed of roses</word>
+				<word number="2">fat city</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fat of the land</word>
+				<word number="2">milk and honey</word>
+				<word number="3">loaves and fishes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="made man">
+			<sg number="1">
+				<word number="1">made man</word>
+				<word number="2">lucky dog</word>
+				<word number="3">enfant gate</word>
+				<word number="4">spoiled child of fortune</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="upstart">
+			<sg number="1">
+				<word number="1">upstart</word>
+				<word number="2">parvenu</word>
+				<word number="3">skipjack</word>
+				<word number="4">mushroom</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="prosper">
+			<sg number="1">
+				<word number="1">prosper</word>
+				<word number="2">thrive</word>
+				<word number="3">flourish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be prosperous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drive a roaring trade</word>
+				<word number="2">do a booming business</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go on well</word>
+				<word number="2">go on smoothly</word>
+				<word number="3">go on swimmingly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sail before the wind</word>
+				<word number="2">swim with the tide</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run smooth</word>
+				<word number="2">run smoothly</word>
+				<word number="3">run on all fours</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rise in the world">
+			<sg number="1">
+				<word number="1">rise in the world</word>
+				<word number="2">get on in the world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">work one's way</word>
+				<word number="2">make one's way</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lift one's head</word>
+				<word number="2">raise one's head</word>
+				<word number="3">make one's fortune</word>
+				<word number="4">feather one's nest</word>
+				<word number="5">make one's pile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="flower">
+			<sg number="1">
+				<word number="1">flower</word>
+				<word number="2">blow</word>
+				<word number="3">blossom</word>
+				<word number="4">bloom</word>
+				<word number="5">fructify</word>
+				<word number="6">bear fruit</word>
+				<word number="7">fatten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="keep oneself afloat">
+			<sg number="1">
+				<word number="1">keep oneself afloat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep one's head above water</word>
+				<word number="2">hold one's head above water</word>
+			</sg>
+			<sg number="3">
+				<word number="1">land on one's feet</word>
+				<word number="2">light on one's  feet</word>
+				<word number="3">light on one's legs</word>
+				<word number="4">fall on one's legs</word>
+				<word number="5">fall on one's feet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drop into a good thing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bear a charmed life</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bask in the sunshine</word>
+			</sg>
+			<sg number="7">
+				<word number="1">have a good time of it</word>
+				<word number="2">have a fine time of it</word>
+			</sg>
+			<sg number="8">
+				<word number="1">have a run  of luck</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="n.">have the good fortune</word>
+			</sg>
+			<sg number="10">
+				<word number="1">take a favorable turn</word>
+			</sg>
+			<sg number="11">
+				<word number="1">live on the fat of the land</word>
+				<word number="2">live off the fat of the land</word>
+				<word number="3">live in clover</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="prosperous">
+			<sg number="1">
+				<word number="1">prosperous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">thriving</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in a fair way</word>
+				<word number="2">buoyant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">well off</word>
+				<word number="2">well to do</word>
+				<word number="3">well to do in the world</word>
+			</sg>
+			<sg number="5">
+				<word number="1">set up</word>
+				<word number="2">at one's ease</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="rich" headRef="838">rich</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in good case</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in full</word>
+				<word number="2">in high feather</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fortunate</word>
+				<word number="2">lucky</word>
+				<word number="3">in luck</word>
+			</sg>
+			<sg number="10">
+				<word number="1">born with a silver spoon in one's mouth</word>
+				<word number="2">born under a lucky star</word>
+			</sg>
+			<sg number="11">
+				<word number="1">on the sunny side of the hedge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="auspicious">
+			<sg number="1">
+				<word number="1">auspicious</word>
+				<word number="2">propitious</word>
+				<word number="3">providential</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="palmy">
+			<sg number="1">
+				<word number="1">palmy</word>
+				<word number="2">halcyon</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="agreeable" headRef="867">agreeable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">couleur de rose</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="prosperously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">prosperously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">swimmingly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">as good luck would have it</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beyond all hope</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's star in the ascendant">
+			<sg number="1">
+				<word number="1">one's star in the ascendant</word>
+				<word number="2">all for the best</word>
+				<word number="3">one's course runs smooth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chacun est l'artisan de sa fortune">
+			<sg number="1">
+				<word number="1">chacun est l'artisan de sa fortune</word>
+			</sg>
+			<sg number="2">
+				<word number="1">donec eris felix multos numerabis amicos</word>
+			</sg>
+			<sg number="3">
+				<word number="1">felicitas multos habet amicos</word>
+			</sg>
+			<sg number="4">
+				<word number="1">felix se nescit amari</word>
+			</sg>
+			<sg number="5">
+				<word number="1">'good luck go with thee'</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nulli est homini perpetuum bonum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

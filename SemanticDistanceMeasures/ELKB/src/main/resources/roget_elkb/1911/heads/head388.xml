@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="388" name="Physical Sensibility" origNum="#375." class="3" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sensibility">
+			<sg number="1">
+				<word number="1">sensibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">sensitiveness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">physical sensibility</word>
+				<word number="2">feeling</word>
+				<word number="3">impressibility</word>
+				<word number="4">perceptivity</word>
+				<word number="5">aesthetics</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="moral sensibility" headRef="860">moral sensibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sensation">
+			<sg number="1">
+				<word number="1">sensation</word>
+				<word number="2">impression</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="knowledge" headRef="514">consciousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="external senses">
+			<sg number="1">
+				<word number="1">external senses</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be sensible of">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be sensible of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feel</word>
+				<word number="2">perceive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render sensible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render sensible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharpen</word>
+				<word number="2">cultivate</word>
+				<word number="3">tutor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cause sensation">
+			<sg number="1">
+				<word number="1">cause sensation</word>
+				<word number="2">impress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">excite an impression</word>
+				<word number="2">produce an impression</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sensible">
+			<sg number="1">
+				<word number="1">sensible</word>
+				<word number="2">sensitive</word>
+				<word number="3">sensuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aesthetic</word>
+				<word number="2">perceptive</word>
+				<word number="3">sentient</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be aware" headRef="514">conscious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acute">
+			<sg number="1">
+				<word number="1">acute</word>
+				<word number="2">sharp</word>
+				<word number="3">keen</word>
+				<word number="4">vivid</word>
+				<word number="5">lively</word>
+				<word number="6">impressive</word>
+				<word number="7">thin-skinned</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to the quick">
+			<sg number="1">
+				<word number="1">to the quick</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the touch'd needle trembles to the pole">
+			<sg number="1">
+				<word number="1">"the touch'd needle trembles to the pole"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

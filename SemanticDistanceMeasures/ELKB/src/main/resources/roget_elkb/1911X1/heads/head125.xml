@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="125" name="Different time" origNum="#119." class="1" section="6" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="different time">
+			<sg number="1">
+				<word number="1">different time</word>
+				<word number="2">other time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aorist">
+			<sg number="1">
+				<word number="1">aorist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="aoristic">
+			<sg number="1">
+				<word number="1">aoristic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indefinite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at that time">
+			<sg number="1">
+				<word number="1">at that time</word>
+				<word number="2">at which time</word>
+				<word number="3">at that moment</word>
+				<word number="4">at that instant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">then</word>
+				<word number="2">on that occasion</word>
+				<word number="3">upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not now</word>
+				<word number="2">some other time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="when">
+			<sg number="1">
+				<word number="1">when</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whenever</word>
+				<word number="2">whensoever</word>
+			</sg>
+			<sg number="3">
+				<word number="1">upon which</word>
+				<word number="2">on which occasion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at another</word>
+				<word number="2">at a different</word>
+				<word number="3">at some other</word>
+				<word number="4">at any time</word>
+			</sg>
+			<sg number="5">
+				<word number="1">at various times</word>
+			</sg>
+			<sg number="6">
+				<word number="1">some one of these days</word>
+				<word number="2">one of these days</word>
+				<word number="3">one fine morning</word>
+			</sg>
+			<sg number="7">
+				<word number="1">eventually</word>
+				<word number="2">some day</word>
+				<word number="3">by and by</word>
+				<word number="4">sooner or later</word>
+			</sg>
+			<sg number="8">
+				<word number="1">some time or other</word>
+			</sg>
+			<sg number="9">
+				<word number="1">once upon a time</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

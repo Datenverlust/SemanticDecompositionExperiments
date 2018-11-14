@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="621" name="Dissertation" origNum="#595." class="5" section="3" subSection="2" headGroup="24">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dissertation">
+			<sg number="1">
+				<word number="1">dissertation</word>
+				<word number="2">treatise</word>
+				<word number="3">essay</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thesis</word>
+				<word number="2">theme</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monograph</word>
+				<word number="2">tract</word>
+				<word number="3">tractate</word>
+				<word number="4">tractation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discourse</word>
+				<word number="2">memoir</word>
+				<word number="3">disquisition</word>
+				<word number="4">lecture</word>
+				<word number="5">sermon</word>
+				<word number="6">homily</word>
+				<word number="7">pandect</word>
+				<word number="8" new="1">oration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">excursus</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">polemic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="commentary">
+			<sg number="1">
+				<word number="1">commentary</word>
+				<word number="2">review</word>
+				<word number="3">critique</word>
+				<word number="4">criticism</word>
+				<word number="5">article</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leader</word>
+				<word number="2">leading article</word>
+			</sg>
+			<sg number="3">
+				<word number="1">editorial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">running commentary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="investigation">
+			<sg number="1">
+				<word number="1" paraRef="inquiry" headRef="481">investigation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="consideration" headRef="471">study</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="reasoning" headRef="499">discussion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="explanation" headRef="547">exposition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="commentator">
+			<sg number="1">
+				<word number="1">commentator</word>
+				<word number="2">critic</word>
+				<word number="3">essayist</word>
+				<word number="4">pamphleteer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="interview">
+			<sg number="1">
+				<word number="1" new="1">interview</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="expound upon a subject">
+			<sg number="1">
+				<word number="1">expound upon a subject</word>
+				<word number="2">dissert upon a subject</word>
+				<word number="3">descant upon a subject</word>
+				<word number="4">write upon a subject</word>
+				<word number="5">touch upon a subject</word>
+			</sg>
+			<sg number="2">
+				<word number="1">treat a subject</word>
+				<word number="2">treat a subject thoroughly</word>
+				<word number="3">treat of a subject</word>
+				<word number="4">take up a subject</word>
+				<word number="5">ventilate a subject</word>
+				<word number="6">discuss a subject</word>
+				<word number="7">deal with a subject</word>
+				<word number="8">go into a subject</word>
+				<word number="9">go into a subject at length</word>
+				<word number="10">canvass a subject</word>
+				<word number="11">handle a subject</word>
+				<word number="12">do justice to a subject</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hold forth">
+			<sg number="1">
+				<word number="1">hold forth</word>
+				<word number="2">discourse</word>
+				<word number="3">delve into</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discursive">
+			<sg number="1">
+				<word number="1">discursive</word>
+				<word number="2">discoursive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disquisitionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">expository</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

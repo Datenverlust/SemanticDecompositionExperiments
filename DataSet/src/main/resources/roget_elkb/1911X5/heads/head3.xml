@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="3" name="Substantiality" origNum="#3." class="1" section="1" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="substantiality">
+			<sg number="1">
+				<word number="1">substantiality</word>
+				<word number="2">hypostasis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">person</word>
+				<word number="2">being</word>
+				<word number="3">thing</word>
+				<word number="4">object</word>
+				<word number="5">article</word>
+				<word number="6">item</word>
+			</sg>
+			<sg number="3">
+				<word number="1">something</word>
+				<word number="2">a being</word>
+				<word number="3">an existence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">creature</word>
+				<word number="2">body</word>
+				<word number="3">substance</word>
+				<word number="4">flesh and blood</word>
+				<word number="5">stuff</word>
+				<word number="6">substratum</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="matter" headRef="327">matter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">corporeity</word>
+				<word number="2">element</word>
+				<word number="3">essential nature</word>
+				<word number="4">groundwork</word>
+				<word number="5">materiality</word>
+				<word number="6">substantialness</word>
+				<word number="7">vital part</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Totality of existences">
+			<sg number="1">
+				<word number="1">Totality of existences</word>
+				<word number="2" paraRef="world" headRef="329">world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plenum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="substantive">
+			<sg number="1">
+				<word number="1">substantive</word>
+				<word number="2">substantial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hypostatic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">personal</word>
+				<word number="2">bodily</word>
+				<word number="3" paraRef="material" headRef="327">tangible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">corporeal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="substantially">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">substantially</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bodily</word>
+				<word number="2">essentially</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="381" name="Botany" origNum="#369." class="3" section="3" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="botany">
+			<sg number="1">
+				<word number="1">botany</word>
+			</sg>
+			<sg number="2">
+				<word number="1">physiological botany</word>
+				<word number="2">structural botany</word>
+				<word number="3">systematic botany</word>
+			</sg>
+			<sg number="3">
+				<word number="1">phytography</word>
+				<word number="2">phytology</word>
+				<word number="3">phytotomy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vegetable physiology</word>
+				<word number="2">herborization</word>
+				<word number="3">dendrology</word>
+				<word number="4">mycology</word>
+				<word number="5">fungology</word>
+				<word number="6">algology</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flora</word>
+				<word number="2">romona</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="garden" headRef="383">botanic garden</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hortus siccus</word>
+				<word number="2">herbarium</word>
+				<word number="3">herbal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="botanist">
+			<sg number="1">
+				<word number="1">botanist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">herbist</word>
+				<word number="2">herbarist</word>
+				<word number="3">herbalist</word>
+				<word number="4">herborist</word>
+				<word number="5">herbarian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="botanize">
+			<sg number="1">
+				<word number="1">botanize</word>
+				<word number="2">herborize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="botanical">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">botanical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">botanic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

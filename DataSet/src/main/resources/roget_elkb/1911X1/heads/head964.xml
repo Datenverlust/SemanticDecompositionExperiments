@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="964" name="Wrong" origNum="#923." class="8" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="wrong">
+			<sg number="1">
+				<word number="1">wrong</word>
+			</sg>
+			<sg number="2">
+				<word number="1">what ought not to be</word>
+				<word number="2">what should not be</word>
+			</sg>
+			<sg number="3">
+				<word number="1">malum in se</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unreasonableness</word>
+				<word number="2">grievance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shame</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="injustice">
+			<sg number="1">
+				<word number="1">injustice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tort</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">unfairness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">iniquity</word>
+				<word number="2">foul play</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="partiality">
+			<sg number="1">
+				<word number="1">partiality</word>
+				<word number="2">leaning</word>
+				<word number="3">bias</word>
+			</sg>
+			<sg number="2">
+				<word number="1">favor</word>
+				<word number="2">favoritism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nepotism</word>
+				<word number="2">party spirit</word>
+				<word number="3">partisanship</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bigotry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="undueness">
+			<sg number="1">
+				<word number="1" paraRef="undueness" headRef="966">undueness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vice" headRef="987">wrongdoing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unlawfulness" headRef="1007">unlawfulness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="robbing Peter to pay Paul">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">robbing Peter to pay Paul</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the wolf and the lamb</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="vice" headRef="987">vice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="a custom more honored in the breach than the observance">
+			<sg number="1">
+				<word number="1">"a custom more honored in the breach than the observance"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be wrong">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be wrong</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cry to heaven for vengeance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="do wrong">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">do wrong</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be inequitable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">favor</word>
+				<word number="2">lean towards</word>
+			</sg>
+			<sg number="4">
+				<word number="1">encroach upon</word>
+				<word number="2">impose upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reap where one has not sown</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give an inch and take an ell</word>
+				<word number="2">give an inch and take an mile</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rob Peter to pay Paul</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="wrong">
+			<sg number="1">
+				<word number="1">wrong</word>
+				<word number="2">wrongful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bad</word>
+				<word number="2">too bad</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unjust</word>
+				<word number="2">unfair</word>
+				<word number="3" new="1">unwise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inequitable</word>
+				<word number="2">unequitable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unequal</word>
+				<word number="2">partial</word>
+				<word number="3">one-sided</word>
+			</sg>
+			<sg number="6">
+				<word number="1">injurious</word>
+				<word number="2">tortious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="objectionable">
+			<sg number="1">
+				<word number="1">objectionable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unreasonable</word>
+				<word number="2">unallowable</word>
+				<word number="3">unwarrantable</word>
+				<word number="4">unjustifiable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">improper</word>
+				<word number="2">unfit</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unjustified" headRef="966">unjustified</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="illegal" headRef="1007">illegal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">iniquitous</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="immoral" headRef="987">immoral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in the wrong">
+			<sg number="1">
+				<word number="1">in the wrong</word>
+				<word number="2">in the wrong box</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="wrongly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">wrongly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="it will not do">
+			<sg number="1">
+				<word number="1">it will not do</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

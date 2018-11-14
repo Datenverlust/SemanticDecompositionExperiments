@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="690" name="Relapse" origNum="#661." class="6" section="2" subSection="2" headGroup="19">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="relapse">
+			<sg number="1">
+				<word number="1">relapse</word>
+				<word number="2">lapse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">falling back</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="retrogression" headRef="294">retrogradation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deterioration" headRef="688">deterioration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="[Return to">
+			<sg number="1">
+				<word number="1">backsliding</word>
+				<word number="2">recidivation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recidivism</word>
+				<word number="2">recidivity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recrudescence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="relapse">
+			<sg number="1">
+				<word number="1">relapse</word>
+				<word number="2">lapse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall back</word>
+				<word number="2">slide back</word>
+				<word number="3">sink back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">return</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="retrograde" headRef="294">retrograde</word>
+			</sg>
+			<sg number="5">
+				<word number="1">recidivate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="fall off" headRef="688">fall off again</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

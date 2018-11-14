@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="333" name="Rarity" origNum="#322." class="3" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rarity">
+			<sg number="1">
+				<word number="1">rarity</word>
+				<word number="2">tenuity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="solidity" headRef="332">absence of solidity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subtility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subtilty</word>
+				<word number="2">subtlety</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sponginess</word>
+				<word number="2">compressibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rarefaction">
+			<sg number="1">
+				<word number="1">rarefaction</word>
+				<word number="2">expansion</word>
+				<word number="3">dilatation</word>
+				<word number="4">inflation</word>
+				<word number="5">subtilization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vaporization">
+			<sg number="1">
+				<word number="1">vaporization</word>
+				<word number="2">evaporation</word>
+				<word number="3">diffusion</word>
+				<word number="4">gassification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ether">
+			<sg number="1">
+				<word number="1" paraRef="gas" headRef="345">ether</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="rarefy">
+			<sg number="1">
+				<word number="1">rarefy</word>
+				<word number="2">expand</word>
+				<word number="3">dilate</word>
+				<word number="4">subtilize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rare">
+			<sg number="1">
+				<word number="1">rare</word>
+				<word number="2">subtile</word>
+				<word number="3">thin</word>
+				<word number="4">fine</word>
+				<word number="5">tenuous</word>
+				<word number="6">compressible</word>
+				<word number="7">flimsy</word>
+				<word number="8">slight</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="light" headRef="331">light</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cavernous</word>
+				<word number="2" paraRef="hollow" headRef="262">spongy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rarefied">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">rarefied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsubstantial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uncompact</word>
+				<word number="2">incompressed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rarefiable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

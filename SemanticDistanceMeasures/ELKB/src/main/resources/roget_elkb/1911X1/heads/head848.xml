@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="848" name="Value " origNum="#812a." class="7" section="4" subSection="4" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">worth</word>
+				<word number="2">rate</word>
+				<word number="3">value</word>
+				<word number="4">intrinsic value</word>
+				<word number="5">quality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">par value</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="valuation">
+			<sg number="1">
+				<word number="1">valuation</word>
+				<word number="2">appraisal</word>
+				<word number="3">assessment</word>
+				<word number="4">appraisement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="price current">
+			<sg number="1">
+				<word number="1">price current</word>
+				<word number="2">market price</word>
+				<word number="3">quotation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fair price</word>
+				<word number="2">going price</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">what it will fetch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">what the market will bear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="money's worth">
+			<sg number="1">
+				<word number="1">money's worth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">penny worth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cost">
+			<sg number="1">
+				<word number="1" paraRef="price" headRef="847">cost</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="value">
+			<sg number="1">
+				<word number="1">value</word>
+				<word number="2">esteem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">appreciate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="appraise">
+			<sg number="1">
+				<word number="1">appraise</word>
+				<word number="2">evaluate</word>
+				<word number="3">assess</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="valuable">
+			<sg number="1">
+				<word number="1">valuable</word>
+				<word number="2">estimable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">worthwhile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">worthy</word>
+				<word number="2">full of worth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="precious">
+			<sg number="1">
+				<word number="1" paraRef="expensive" headRef="851">precious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="worth the price">
+			<sg number="1">
+				<word number="1">worth the price</word>
+			</sg>
+			<sg number="2">
+				<word number="1">worth a king's ransom</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accountants who know the price of everything and the value of nothing</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

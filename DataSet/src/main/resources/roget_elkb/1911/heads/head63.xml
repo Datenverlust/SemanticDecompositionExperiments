@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="63" name="Complexity" origNum="#59a." class="1" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="complexity">
+			<sg number="1">
+				<word number="1">complexity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">complexness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">complexus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">complication</word>
+				<word number="2">implication</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intricacy</word>
+				<word number="2">intrication</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perplexity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">network</word>
+				<word number="2">labyrinth</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wilderness</word>
+				<word number="2">jungle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">involution</word>
+				<word number="2">raveling</word>
+				<word number="3">entanglement</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="convolution" headRef="258">coil</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sleave</word>
+				<word number="2">tangled skein</word>
+				<word number="3">knot</word>
+				<word number="4">Gordian knot</word>
+				<word number="5">wheels within wheels</word>
+			</sg>
+			<sg number="12">
+				<word number="1">kink</word>
+				<word number="2">gnarl</word>
+				<word number="3">knarl</word>
+			</sg>
+			<sg number="13">
+				<word number="1">webwork</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="difficulty">
+			<sg number="1">
+				<word number="1" paraRef="difficulty" headRef="733">difficulty</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="complexify">
+			<sg number="1">
+				<word number="1">complexify</word>
+				<word number="2">complicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="gnarled">
+			<sg number="1">
+				<word number="1">gnarled</word>
+				<word number="2">knarled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="complex">
+			<sg number="1">
+				<word number="1">complex</word>
+				<word number="2">complexed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intricate</word>
+				<word number="2">complicated</word>
+				<word number="3">perplexed</word>
+				<word number="4">involved</word>
+				<word number="5">raveled</word>
+				<word number="6">entangled</word>
+				<word number="7">knotted</word>
+				<word number="8">tangled</word>
+				<word number="9">inextricable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">irreducible</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

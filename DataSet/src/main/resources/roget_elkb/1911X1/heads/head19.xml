@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="19" name="Dissimilarity" origNum="#18." class="1" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dissimilarity">
+			<sg number="1">
+				<word number="1">dissimilarity</word>
+				<word number="2">dissimilaritude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unlikeness</word>
+				<word number="2">diversity</word>
+				<word number="3">disparity</word>
+				<word number="4">dissemblance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">divergence</word>
+				<word number="2">variation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="difference" headRef="15">difference</word>
+			</sg>
+			<sg number="5">
+				<word number="1">novelty</word>
+				<word number="2">originality</word>
+			</sg>
+			<sg number="6">
+				<word number="1">creativeness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">oogamy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be unlike">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be unlike</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="differ" headRef="15">vary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear no resemblance to</word>
+				<word number="2">differ toto coelo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render unlike">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render unlike</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="diversify" headRef="147">vary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dissimilar">
+			<sg number="1">
+				<word number="1">dissimilar</word>
+				<word number="2">unlike</word>
+				<word number="3">disparate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">divergent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="class" headRef="79">of a different kind</word>
+				<word number="2">unique</word>
+			</sg>
+			<sg number="4">
+				<word number="1">new</word>
+				<word number="2">novel</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unprecedented" headRef="87">unprecedented</word>
+			</sg>
+			<sg number="6">
+				<word number="1">original</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nothing of the kind">
+			<sg number="1">
+				<word number="1">nothing of the kind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no such thing</word>
+				<word number="2">quite another thing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">far from it</word>
+				<word number="2">cast in a different mold</word>
+				<word number="3">tertium quid</word>
+				<word number="4">as like a dock as a daisy</word>
+				<word number="5">"very like a whale"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">as different as chalk from cheese</word>
+				<word number="2">as different as Macedon and Monmouth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lucus a non lucendo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="diversified">
+			<sg number="1">
+				<word number="1" paraRef="diversified" headRef="17">diversified</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="otherwise">
+			<sg number="1">
+				<word number="1">otherwise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="diis aliter visum">
+			<sg number="1">
+				<word number="1">diis aliter visum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"no more like my father than I to Hercules"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

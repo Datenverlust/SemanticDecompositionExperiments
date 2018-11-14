@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="420" name="Silence" origNum="#403." class="3" section="3" subSection="2" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="silence">
+			<sg number="1">
+				<word number="1">silence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="quiet" headRef="276">stillness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peace</word>
+				<word number="2">hush</word>
+				<word number="3">lull</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="mute" headRef="607">muteness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solemn silence</word>
+				<word number="2">awful silence</word>
+				<word number="3">dead silence</word>
+				<word number="4">deathlike silence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be silent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be silent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="not speak" headRef="611">hold one's tongue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render silent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render silent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">silence</word>
+				<word number="2">still</word>
+				<word number="3">hush</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stifle</word>
+				<word number="2">muffle</word>
+				<word number="3">stop</word>
+			</sg>
+			<sg number="4">
+				<word number="1">muzzle</word>
+				<word number="2" paraRef="render mute" headRef="607">put to silence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="silent">
+			<sg number="1">
+				<word number="1">silent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">still</word>
+				<word number="2">stilly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noiseless</word>
+				<word number="2">soundless</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">hushed</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="mute" headRef="607">mute</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="soft">
+			<sg number="1">
+				<word number="1">soft</word>
+				<word number="2">solemn</word>
+				<word number="3">awful</word>
+				<word number="4">deathlike</word>
+				<word number="5">silent as the grave</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="faint" headRef="422">inaudible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="silently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">silently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sub silentio</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hush">
+			<sg number="1">
+				<word number="1">hush!</word>
+				<word number="2">silence!</word>
+				<word number="3">soft!</word>
+				<word number="4">whist!</word>
+				<word number="5">tush!</word>
+				<word number="6">chut!</word>
+				<word number="7">tut!</word>
+				<word number="8">pax!</word>
+				<word number="9">be quiet!</word>
+				<word number="10">be silent!</word>
+				<word number="11">be still!</word>
+				<word number="12">shut up!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chup!</word>
+				<word number="2">chup rao!</word>
+				<word number="3">tace!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one might hear a feather drop">
+			<sg number="1">
+				<word number="1">one might hear a feather drop</word>
+				<word number="2">one might hear a pin drop</word>
+				<word number="3">so quiet you could hear a pin drop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grosse Seelen dulden still</word>
+			</sg>
+			<sg number="3">
+				<word number="1">le silence est la vertu de ceux qui ne sont pas sages</word>
+			</sg>
+			<sg number="4">
+				<word number="1">le silence est le parti le plus sar de celui se défie de soi-meme</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"silence more musical than any song"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tacent satis laudant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">better to be silent and thought a fool than to speak up and remove all doubt</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="445" name="Turbidity" origNum="#426a." class="3" section="3" subSection="2" headGroup="30">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="turbidity">
+			<sg number="1">
+				<word number="1">turbidity</word>
+				<word number="2">cloudiness</word>
+				<word number="3">fog</word>
+				<word number="4">haze</word>
+				<word number="5">muddiness</word>
+				<word number="6">haziness</word>
+				<word number="7">obscurity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nephelometer">
+			<sg number="1">
+				<word number="1">nephelometer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="turbid">
+			<sg number="1">
+				<word number="1">turbid</word>
+				<word number="2">thick</word>
+				<word number="3">muddy</word>
+				<word number="4">obfuscated</word>
+				<word number="5">fuliginous</word>
+				<word number="6">hazy</word>
+				<word number="7">misty</word>
+				<word number="8">foggy</word>
+				<word number="9">vaporous</word>
+				<word number="10">nubiferous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cloud" headRef="364">cloudy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="smoky">
+			<sg number="1">
+				<word number="1">smoky</word>
+				<word number="2">fumid</word>
+				<word number="3">murky</word>
+				<word number="4">dirty</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

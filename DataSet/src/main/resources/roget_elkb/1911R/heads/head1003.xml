@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1003" name="Purity" origNum="#960." class="8" section="4" subSection="4" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="purity">
+			<sg number="1">
+				<word number="1">purity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decency</word>
+				<word number="2">decorum</word>
+				<word number="3">delicacy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">continence</word>
+				<word number="2">chastity</word>
+				<word number="3">honesty</word>
+				<word number="4">virtue</word>
+				<word number="5">modesty</word>
+				<word number="6">shame</word>
+				<word number="7" new="1">aerogels</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pudicity</word>
+				<word number="2">pucelage</word>
+				<word number="3">virginity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vestal">
+			<sg number="1">
+				<word number="1">vestal</word>
+				<word number="2">virgin</word>
+				<word number="3">Joseph</word>
+				<word number="4">Hippolytus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Lucretia</word>
+				<word number="2">Diana</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prude</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pure">
+			<sg number="1">
+				<word number="1">pure</word>
+				<word number="2">undefiled</word>
+				<word number="3">modest</word>
+				<word number="4">delicate</word>
+				<word number="5">decent</word>
+				<word number="6">decorous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">virginibus puerisque</word>
+			</sg>
+			<sg number="3">
+				<word number="1">simon-pure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chaste</word>
+				<word number="2">continent</word>
+				<word number="3">virtuous</word>
+				<word number="4">honest</word>
+				<word number="5">Platonic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="virgin">
+			<sg number="1">
+				<word number="1">virgin</word>
+				<word number="2">unsullied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cherry</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="as chaste as unsunn'd snow">
+			<sg number="1">
+				<word number="1">"as chaste as unsunn'd snow"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"a soul as white as heaven"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"'tis Chastity</word>
+				<word number="2">my brother</word>
+				<word number="3">Chastity"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"to the pure all things are pure"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="934" name="Discourtesy" origNum="#895." class="8" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discourtesy">
+			<sg number="1">
+				<word number="1">discourtesy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill breeding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill manners</word>
+				<word number="2">bad manners</word>
+				<word number="3">ungainly manners</word>
+			</sg>
+			<sg number="4">
+				<word number="1">insuavity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">uncourteousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rusticity</word>
+				<word number="2">inurbanity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">illiberality</word>
+				<word number="2">incivility displacency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disrespect">
+			<sg number="1">
+				<word number="1" paraRef="disrespect" headRef="971">disrespect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">procacity</word>
+				<word number="2">impudence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">barbarism</word>
+				<word number="2">barbarity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">misbehavior</word>
+				<word number="2">brutality</word>
+				<word number="3">blackguardism</word>
+				<word number="4">conduct unbecoming a gentleman</word>
+				<word number="5">grossiereté</word>
+				<word number="6">brusquerie</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="vulgarity" headRef="890">vulgarity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="churlishness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">churlishness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spinosity</word>
+				<word number="2">perversity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sullenness" headRef="941">moroseness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">austerity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">moodishness</word>
+				<word number="2" paraRef="captious" headRef="940">captiousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cynicism</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="adj.">tartness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">acrimony</word>
+				<word number="2">acerbity</word>
+				<word number="3">virulence</word>
+				<word number="4">asperity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="scowl">
+			<sg number="1">
+				<word number="1">scowl</word>
+				<word number="2">black looks</word>
+				<word number="3">frown</word>
+			</sg>
+			<sg number="2">
+				<word number="1">short answer</word>
+				<word number="2">rebuff</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard words</word>
+				<word number="2">contumely</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unparliamentary language</word>
+				<word number="2">personality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bear">
+			<sg number="1">
+				<word number="1">bear</word>
+				<word number="2">bruin</word>
+				<word number="3">brute</word>
+				<word number="4">blackguard</word>
+				<word number="5">beast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unlicked cub</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frump</word>
+				<word number="2">crosspatch</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="saucebox" headRef="926">saucebox</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crooked stick</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grizzly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -rude">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -rude</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insult" headRef="971">insult</word>
+			</sg>
+			<sg number="3">
+				<word number="1">treat with discourtesy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take a name in vain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make bold with</word>
+				<word number="2">make free with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take a liberty</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stare out of countenance</word>
+				<word number="2">ogle</word>
+				<word number="3">point at</word>
+				<word number="4">put to the blush</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cut">
+			<sg number="1">
+				<word number="1">cut</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn one's back upon</word>
+				<word number="2">turn on one's heel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give the cold shoulder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep at a distance</word>
+				<word number="2">keep at arm's length</word>
+			</sg>
+			<sg number="5">
+				<word number="1">look cool upon</word>
+				<word number="2">look coldly upon</word>
+				<word number="3">look black upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">show the door to</word>
+				<word number="2">send away with a flea1in the ear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lose one's temper">
+			<sg number="1">
+				<word number="1" paraRef="resentment" headRef="939">lose one's temper</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sulk" headRef="941">sulk</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frown</word>
+				<word number="2">scowl</word>
+				<word number="3">glower</word>
+				<word number="4">pout</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snap</word>
+				<word number="2">snarl</word>
+				<word number="3">growl</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="render rude">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render rude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brutalize</word>
+				<word number="2">brutify</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discourteous">
+			<sg number="1">
+				<word number="1">discourteous</word>
+				<word number="2">uncourteous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncourtly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill-bred</word>
+				<word number="2">ill- mannered</word>
+				<word number="3">ill-behaved</word>
+				<word number="4">ill-conditioned</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unbred</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unmannerly</word>
+				<word number="2">unmannered</word>
+			</sg>
+			<sg number="6">
+				<word number="1">impolite</word>
+				<word number="2">unpolite</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unpolished</word>
+				<word number="2">uncivilized</word>
+				<word number="3">ungenteel</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ungentleman- like</word>
+				<word number="2">ungentlemanly</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unladylike</word>
+			</sg>
+			<sg number="10">
+				<word number="1">blackguard</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="vulgarity" headRef="890">vulgar</word>
+			</sg>
+			<sg number="12">
+				<word number="1">dedecorous</word>
+			</sg>
+			<sg number="13">
+				<word number="1">foul-mouthed foul-spoken</word>
+			</sg>
+			<sg number="14">
+				<word number="1">abusive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="uncivil">
+			<sg number="1">
+				<word number="1">uncivil</word>
+				<word number="2">ungracious</word>
+				<word number="3">unceremonious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cool</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pert</word>
+				<word number="2">forward</word>
+				<word number="3">obtrusive</word>
+				<word number="4">impudent</word>
+				<word number="5">rude</word>
+				<word number="6">saucy</word>
+				<word number="7">precocious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="repulsive">
+			<sg number="1">
+				<word number="1">repulsive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncomplaisant</word>
+				<word number="2">unaccommodating</word>
+				<word number="3">unneighborly</word>
+				<word number="4">ungallant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inaffable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ungentle</word>
+				<word number="2">ungainly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rough</word>
+				<word number="2">rugged</word>
+				<word number="3">bluff</word>
+				<word number="4">blunt</word>
+				<word number="5">gruff</word>
+			</sg>
+			<sg number="6">
+				<word number="1">churlish</word>
+				<word number="2">boorish</word>
+				<word number="3">bearish</word>
+			</sg>
+			<sg number="7">
+				<word number="1">brutal</word>
+				<word number="2">brusque</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stern</word>
+				<word number="2">harsh</word>
+				<word number="3">austere</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cavalier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="taint">
+			<sg number="1">
+				<word number="1">taint</word>
+				<word number="2">sour</word>
+				<word number="3">crabbed</word>
+				<word number="4">sharp</word>
+				<word number="5">short</word>
+				<word number="6">trenchant</word>
+				<word number="7">sarcastic</word>
+				<word number="8">biting</word>
+				<word number="9">doggish</word>
+				<word number="10">caustic</word>
+				<word number="11">virulent</word>
+				<word number="12">bitter</word>
+				<word number="13">acrimonious</word>
+				<word number="14">venomous</word>
+				<word number="15">contumelious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">snarling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">surly</word>
+				<word number="2">surly as a bear</word>
+			</sg>
+			<sg number="4">
+				<word number="1">perverse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grim</word>
+				<word number="2" paraRef="sullen" headRef="941">sullen</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="irascible" headRef="940">peevish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="untactful">
+			<sg number="1">
+				<word number="1">untactful</word>
+				<word number="2">impolitic</word>
+				<word number="3">undiplomatic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="artless" headRef="732">artless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="symmetric">
+			<sg number="1">
+				<word number="1" new="1">symmetric</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="revealed">
+			<sg number="1">
+				<word number="1" new="1">revealed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="dereferenced">
+			<sg number="1">
+				<word number="1" new="1">dereferenced</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="flatbed">
+			<sg number="1">
+				<word number="1" new="1">flatbed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="discourteously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">discourteously</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">with discourtesy</word>
+				<word number="2">with a bad grace</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

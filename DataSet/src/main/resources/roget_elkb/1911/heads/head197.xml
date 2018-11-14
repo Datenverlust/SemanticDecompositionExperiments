@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="197" name="Inhabitant" origNum="#188." class="2" section="1" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inhabitant">
+			<sg number="1">
+				<word number="1">inhabitant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resident</word>
+				<word number="2">residentiary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dweller</word>
+				<word number="2">indweller</word>
+			</sg>
+			<sg number="4">
+				<word number="1">addressee</word>
+			</sg>
+			<sg number="5">
+				<word number="1">occupier</word>
+				<word number="2">occupant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">householder</word>
+				<word number="2">lodger</word>
+				<word number="3">inmate</word>
+				<word number="4">tenant</word>
+				<word number="5">incumbent</word>
+				<word number="6">sojourner</word>
+				<word number="7">locum tenens</word>
+				<word number="8">commorant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">settler</word>
+				<word number="2">squatter</word>
+				<word number="3">backwoodsman</word>
+				<word number="4">colonist</word>
+			</sg>
+			<sg number="8">
+				<word number="1">islander</word>
+			</sg>
+			<sg number="9">
+				<word number="1">denizen</word>
+				<word number="2">citizen</word>
+			</sg>
+			<sg number="10">
+				<word number="1">burgher</word>
+				<word number="2">oppidan</word>
+				<word number="3">cockney</word>
+				<word number="4">cit</word>
+				<word number="5">townsman</word>
+				<word number="6">burgess</word>
+			</sg>
+			<sg number="11">
+				<word number="1">villager</word>
+			</sg>
+			<sg number="12">
+				<word number="1">cottager</word>
+				<word number="2">cottier</word>
+				<word number="3">cotter</word>
+			</sg>
+			<sg number="13">
+				<word number="1">compatriot</word>
+			</sg>
+			<sg number="14">
+				<word number="1">backsettler</word>
+				<word number="2">boarder</word>
+			</sg>
+			<sg number="15">
+				<word number="1">hotel keeper</word>
+				<word number="2">innkeeper</word>
+			</sg>
+			<sg number="16">
+				<word number="1">habitant</word>
+			</sg>
+			<sg number="17">
+				<word number="1">paying guest</word>
+			</sg>
+			<sg number="18">
+				<word number="1">planter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="native">
+			<sg number="1">
+				<word number="1">native</word>
+				<word number="2">indigene</word>
+				<word number="3">aborigines</word>
+				<word number="4">autochthones</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Englishman</word>
+				<word number="2">John Bull</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="stranger" headRef="60">newcomer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aboriginal">
+			<sg number="1">
+				<word number="1">aboriginal</word>
+				<word number="2">American</word>
+				<word number="3">Caledonian</word>
+				<word number="4">Cambrian</word>
+				<word number="5">Canadian</word>
+				<word number="6">Canuck*</word>
+				<word number="7">downeaster</word>
+				<word number="8">Scot</word>
+				<word number="9">Scotchman</word>
+				<word number="10">Hibernian</word>
+				<word number="11">Irishman</word>
+				<word number="12">Welshman</word>
+				<word number="13">Uncle Sam</word>
+				<word number="14">Yankee</word>
+				<word number="15">Brother Jonathan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="garrison">
+			<sg number="1">
+				<word number="1">garrison</word>
+				<word number="2">crew</word>
+			</sg>
+			<sg number="2">
+				<word number="1">population</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="mankind" headRef="384">people</word>
+			</sg>
+			<sg number="4">
+				<word number="1">colony</word>
+				<word number="2">settlement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">household</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mir</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="inhabit">
+			<sg number="1">
+				<word number="1" paraRef="be present" headRef="195">inhabit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="locate oneself" headRef="193">endenizen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="indigenous">
+			<sg number="1">
+				<word number="1">indigenous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">native</word>
+				<word number="2">natal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">autochthonal</word>
+				<word number="2">autochthonous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">British</word>
+			</sg>
+			<sg number="5">
+				<word number="1">English</word>
+			</sg>
+			<sg number="6">
+				<word number="1">American</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Canadian</word>
+				<word number="2">Irish</word>
+				<word number="3">Scotch</word>
+				<word number="4">Scottish</word>
+				<word number="5">Welsh</word>
+			</sg>
+			<sg number="8">
+				<word number="1">domestic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">domiciliated</word>
+				<word number="2">domiciled</word>
+			</sg>
+			<sg number="10">
+				<word number="1">naturalized</word>
+				<word number="2">vernacular</word>
+				<word number="3">domesticated</word>
+			</sg>
+			<sg number="11">
+				<word number="1">domiciliary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in the occupation of">
+			<sg number="1">
+				<word number="1">in the occupation of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">garrisoned by</word>
+				<word number="2">occupied by</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

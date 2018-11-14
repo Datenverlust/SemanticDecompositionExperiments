@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="273" name="Perforator" origNum="#262." class="2" section="3" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="perforator">
+			<sg number="1">
+				<word number="1">perforator</word>
+				<word number="2">piercer</word>
+				<word number="3">borer</word>
+				<word number="4">auger</word>
+				<word number="5">chisel</word>
+				<word number="6">gimlet</word>
+				<word number="7">stylet</word>
+				<word number="8">drill</word>
+				<word number="9">wimble</word>
+				<word number="10">awl</word>
+				<word number="11">bradawl</word>
+				<word number="12">scoop</word>
+				<word number="13">terrier</word>
+				<word number="14">corkscrew</word>
+				<word number="15">dibble</word>
+				<word number="16">trocar</word>
+				<word number="17">trepan</word>
+				<word number="18">probe</word>
+				<word number="19">bodkin</word>
+				<word number="20">needle</word>
+				<word number="21">stiletto</word>
+				<word number="22">rimer</word>
+				<word number="23">warder</word>
+				<word number="24">lancet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">punch</word>
+				<word number="2">puncheon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spikebit</word>
+				<word number="2">gouge</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="weapon" headRef="756">spear</word>
+			</sg>
+			<sg number="5">
+				<word number="1">puncher</word>
+			</sg>
+			<sg number="6">
+				<word number="1">punching machine</word>
+				<word number="2">punching press</word>
+			</sg>
+			<sg number="7">
+				<word number="1">punch pliers</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="700" name="Escape" origNum="#671." class="6" section="2" subSection="2" headGroup="25">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="escape">
+			<sg number="1">
+				<word number="1">escape</word>
+				<word number="2">scape</word>
+			</sg>
+			<sg number="2">
+				<word number="1">avolation</word>
+				<word number="2">elopement</word>
+				<word number="3">flight</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="avoidance" headRef="652">evasion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">retreat</word>
+			</sg>
+			<sg number="5">
+				<word number="1">narrow escape</word>
+				<word number="2">hairbreadth escape</word>
+			</sg>
+			<sg number="6">
+				<word number="1">close call</word>
+			</sg>
+			<sg number="7">
+				<word number="1">come off</word>
+				<word number="2">impunity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="loophole">
+			<sg number="1">
+				<word number="1" paraRef="opening" headRef="271">loophole</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="path" headRef="656">path</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="refuse" headRef="795">refuse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vent</word>
+				<word number="2">vent peg</word>
+			</sg>
+			<sg number="5">
+				<word number="1">safety valve</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drawbridge</word>
+				<word number="2">fire escape</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="reprieve">
+			<sg number="1">
+				<word number="1" paraRef="deliverance" headRef="701">reprieve</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="liberation" headRef="781">liberation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="refugee">
+			<sg number="1">
+				<word number="1" paraRef="fugitive" headRef="652">refugee</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="escape">
+			<sg number="1">
+				<word number="1">escape</word>
+				<word number="2">scape</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make one's escape</word>
+				<word number="2">effect one's escape</word>
+				<word number="3">make good one's escape</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break jail</word>
+			</sg>
+			<sg number="4">
+				<word number="1">get off</word>
+				<word number="2">get clear off</word>
+				<word number="3">get well out of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">echapper belle</word>
+				<word number="2">save one's bacon</word>
+				<word number="3">save one's skin</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="safe" headRef="693">weather the storm</word>
+			</sg>
+			<sg number="7">
+				<word number="1">escape scot-free</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="elude">
+			<sg number="1">
+				<word number="1" paraRef="avoid" headRef="652">elude</word>
+				<word number="2" paraRef="avoid" headRef="652">make off</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="go away" headRef="304">march off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give one the slip</word>
+			</sg>
+			<sg number="4">
+				<word number="1">slip through the hands</word>
+				<word number="2">slip through the fingers</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slip the collar</word>
+				<word number="2">wriggle out of prison</word>
+				<word number="3">break out</word>
+				<word number="4">break loose</word>
+				<word number="5">break loose from prison</word>
+			</sg>
+			<sg number="6">
+				<word number="1">break away</word>
+				<word number="2">slip away</word>
+				<word number="3">get away</word>
+			</sg>
+			<sg number="7">
+				<word number="1">find vent</word>
+				<word number="2">find  a hole to creep out of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="disappear">
+			<sg number="1">
+				<word number="1">disappear</word>
+				<word number="2">vanish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="escaping">
+			<sg number="1">
+				<word number="1">escaping</word>
+				<word number="2" paraRef="" posRef="v.">escaped</word>
+				<word number="3">fled</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the bird has flown the coop">
+			<sg number="1">
+				<word number="1">the bird has flown the coop</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

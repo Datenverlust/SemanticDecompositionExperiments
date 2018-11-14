@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="366" name="Unctuousness" origNum="#355." class="3" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unctuousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">unctuousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unctuosity</word>
+				<word number="2">lubricity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="oil" headRef="367">ointment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anointment</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="lubrication" headRef="343">lubrication</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="oil">
+			<sg number="1">
+				<word number="1" paraRef="lubricate" headRef="343">oil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unctuous">
+			<sg number="1">
+				<word number="1">unctuous</word>
+				<word number="2">oily</word>
+				<word number="3">oleaginous</word>
+				<word number="4">adipose</word>
+				<word number="5">sebaceous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unguinous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fat</word>
+				<word number="2">fatty</word>
+				<word number="3">greasy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">waxy</word>
+				<word number="2">butyraceous</word>
+				<word number="3">soapy</word>
+				<word number="4">saponaceous</word>
+				<word number="5">pinguid</word>
+				<word number="6">lardaceous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slippery</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

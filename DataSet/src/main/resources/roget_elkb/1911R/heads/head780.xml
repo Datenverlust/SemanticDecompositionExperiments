@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="780" name="Subjection" origNum="#749." class="7" section="1" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="subjection">
+			<sg number="1">
+				<word number="1">subjection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dependence</word>
+				<word number="2">dependency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subordination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thrall</word>
+				<word number="2">thralldom</word>
+				<word number="3">thraldom</word>
+				<word number="4">enthrallment</word>
+				<word number="5">subjugation</word>
+				<word number="6">bondage</word>
+				<word number="7">serfdom</word>
+			</sg>
+			<sg number="5">
+				<word number="1">feudalism</word>
+				<word number="2">feudality</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vassalage</word>
+				<word number="2">villenage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">slavery</word>
+				<word number="2">enslavement</word>
+				<word number="3">involuntary servitude</word>
+			</sg>
+			<sg number="8">
+				<word number="1">conquest</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">modification</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">narrowcast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="service">
+			<sg number="1">
+				<word number="1">service</word>
+			</sg>
+			<sg number="2">
+				<word number="1">servitude</word>
+				<word number="2">servitorship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tendence</word>
+				<word number="2">employ</word>
+				<word number="3">tutelage</word>
+				<word number="4">clientship</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="liability" headRef="185">liability</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="constraint" headRef="782">constraint</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="severity" headRef="770">oppression</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="means of restraint" headRef="783">yoke</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="submission" headRef="754">submission</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="obedience" headRef="774">obedience</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be subject">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be subject</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be at the mercy of</word>
+				<word number="2">lie at the mercy of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depend upon</word>
+				<word number="2">lean upon</word>
+				<word number="3">hang upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fall a prey to</word>
+				<word number="2">fall under</word>
+			</sg>
+			<sg number="5">
+				<word number="1">play second fiddle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be a mere machine">
+			<sg number="1">
+				<word number="1">be a mere machine</word>
+				<word number="2">be a puppet</word>
+				<word number="3">be a football</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not dare to say one's soul is his own</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drag a chain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="serve">
+			<sg number="1">
+				<word number="1" paraRef="serve" headRef="777">serve</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="obey" headRef="774">obey</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="submit" headRef="754">submit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="break in">
+			<sg number="1">
+				<word number="1">break in</word>
+				<word number="2">tame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subject</word>
+				<word number="2">subjugate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="master" headRef="760">master</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tread down</word>
+				<word number="2">tread under foot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weigh down</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drag at one's chariot wheels</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reduce to subjection</word>
+				<word number="2">reduce to slavery</word>
+			</sg>
+			<sg number="8">
+				<word number="1">enthrall</word>
+				<word number="2">inthrall</word>
+				<word number="3">bethrall</word>
+			</sg>
+			<sg number="9">
+				<word number="1">enslave</word>
+				<word number="2">lead captive</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="restrain" headRef="782">take into custody</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="rule" headRef="767">rule</word>
+			</sg>
+			<sg number="12">
+				<word number="1">drive into a corner</word>
+				<word number="2">hold at the sword's point</word>
+			</sg>
+			<sg number="13">
+				<word number="1">keep under</word>
+			</sg>
+			<sg number="14">
+				<word number="1">hold in bondage</word>
+				<word number="2">hold in leading strings</word>
+				<word number="3">hold in swaddling clothes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="subject">
+			<sg number="1">
+				<word number="1">subject</word>
+				<word number="2">dependent</word>
+				<word number="3">subordinate</word>
+				<word number="4" new="1">giant</word>
+				<word number="5" new="1">profound</word>
+				<word number="6" new="1">towering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feudal</word>
+				<word number="2">feudatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in subjection to</word>
+				<word number="2">under control</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in leading strings</word>
+				<word number="2">in harness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">subjected</word>
+				<word number="2" paraRef="" posRef="v.">enslaved</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="constrained" headRef="782">constrained</word>
+			</sg>
+			<sg number="7">
+				<word number="1">downtrodden</word>
+			</sg>
+			<sg number="8">
+				<word number="1">overborne</word>
+				<word number="2">overwhelmed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">under the lash</word>
+				<word number="2">on the hip</word>
+				<word number="3">led by the nose</word>
+				<word number="4">henpecked</word>
+			</sg>
+			<sg number="10">
+				<word number="1">the puppet of</word>
+				<word number="2">the sport of</word>
+				<word number="3">the plaything of</word>
+			</sg>
+			<sg number="11">
+				<word number="1">under one's orders</word>
+				<word number="2">under one's command</word>
+				<word number="3">under one's thumb</word>
+			</sg>
+			<sg number="12">
+				<word number="1">a slave to</word>
+			</sg>
+			<sg number="13">
+				<word number="1">at the mercy of</word>
+			</sg>
+			<sg number="14">
+				<word number="1">in the power of</word>
+				<word number="2">in the hands of</word>
+				<word number="3">in the clutches of</word>
+			</sg>
+			<sg number="15">
+				<word number="1">at the feet of</word>
+			</sg>
+			<sg number="16">
+				<word number="1" paraRef="obedient" headRef="774">at one's beck and call</word>
+			</sg>
+			<sg number="17">
+				<word number="1" paraRef="liable" headRef="185">liable</word>
+			</sg>
+			<sg number="18">
+				<word number="1">parasitical</word>
+			</sg>
+			<sg number="19">
+				<word number="1">stipendiary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under">
+			<sg number="1">
+				<word number="1">under</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="slaves - in a land of light and law">
+			<sg number="1">
+				<word number="1">"slaves - in a land of light and law"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

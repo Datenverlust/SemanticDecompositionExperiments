@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="456" name="Purple" origNum="#437." class="3" section="3" subSection="2" headGroup="33">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="purple">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">purple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blue and red</word>
+				<word number="2">bishop's purple</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aniline dyes</word>
+				<word number="2">gridelin</word>
+				<word number="3">amethyst</word>
+			</sg>
+			<sg number="4">
+				<word number="1">purpure</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heliotrope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lividness">
+			<sg number="1">
+				<word number="1">lividness</word>
+				<word number="2">lividity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="empurple">
+			<sg number="1">
+				<word number="1">empurple</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="purple">
+			<sg number="1">
+				<word number="1">purple</word>
+				<word number="2">violet</word>
+				<word number="3">ultraviolet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plum-colored</word>
+				<word number="2">lavender</word>
+				<word number="3">lilac</word>
+				<word number="4">puce</word>
+				<word number="5">mauve</word>
+				<word number="6" new="1">sibylline</word>
+				<word number="7" new="1">due</word>
+			</sg>
+			<sg number="3">
+				<word number="1">livid</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

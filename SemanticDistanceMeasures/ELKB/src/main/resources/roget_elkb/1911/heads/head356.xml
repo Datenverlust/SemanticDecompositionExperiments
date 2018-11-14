@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="356" name="Marsh" origNum="#345." class="3" section="2" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="marsh">
+			<sg number="1">
+				<word number="1">marsh</word>
+				<word number="2">swamp</word>
+				<word number="3">morass</word>
+				<word number="4">marish</word>
+				<word number="5">moss</word>
+				<word number="6">fen</word>
+				<word number="7">bog</word>
+				<word number="8">quagmire</word>
+				<word number="9">slough</word>
+				<word number="10">sump</word>
+				<word number="11">wash</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mud</word>
+				<word number="2">squash</word>
+				<word number="3">slush</word>
+			</sg>
+			<sg number="3">
+				<word number="1">baygall</word>
+				<word number="2">cienaga</word>
+				<word number="3">jhil</word>
+				<word number="4">vlei</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="marsh">
+			<sg number="1">
+				<word number="1">marsh</word>
+				<word number="2">marshy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">swampy</word>
+				<word number="2">boggy</word>
+				<word number="3">plashy</word>
+				<word number="4">poachy</word>
+				<word number="5">quaggy</word>
+				<word number="6">soft</word>
+			</sg>
+			<sg number="3">
+				<word number="1">muddy</word>
+				<word number="2">sloppy</word>
+				<word number="3">squashy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paludal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">moorish</word>
+				<word number="2">moory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fenny</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

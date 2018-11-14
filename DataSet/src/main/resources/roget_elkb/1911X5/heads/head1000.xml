@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1000" name="Gluttony" origNum="#957." class="8" section="4" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="gluttony">
+			<sg number="1">
+				<word number="1">gluttony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">greed</word>
+				<word number="2">avarice</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">greediness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">voracity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="epicurism">
+			<sg number="1">
+				<word number="1">epicurism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good living</word>
+				<word number="2">high living</word>
+			</sg>
+			<sg number="3">
+				<word number="1">edacity</word>
+				<word number="2">gulosity</word>
+				<word number="3">crapulence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guttling</word>
+				<word number="2">guzzling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pantophagy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="good cheer">
+			<sg number="1">
+				<word number="1">good cheer</word>
+				<word number="2">blow out</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="food" headRef="309">feast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gastronomy</word>
+				<word number="2">batterie de cuisine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="epicure">
+			<sg number="1">
+				<word number="1">epicure</word>
+				<word number="2">bon vivant</word>
+				<word number="3">gourmand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glutton</word>
+				<word number="2">cormorant</word>
+				<word number="3">hog</word>
+				<word number="4">belly god</word>
+				<word number="5">Apicius</word>
+				<word number="6">gastronome</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="gourmet" headRef="997">gourmet</word>
+				<word number="2">868</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="gormandize">
+			<sg number="1">
+				<word number="1">gormandize</word>
+				<word number="2">gorge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overgorge</word>
+				<word number="2">overeat oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">engorge</word>
+				<word number="2">eat one's fill</word>
+				<word number="3">cram</word>
+				<word number="4">stuff</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guttle</word>
+				<word number="2">guzzle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bolt</word>
+				<word number="2">devour</word>
+				<word number="3">gobble up</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="swallow" headRef="309">gulp</word>
+			</sg>
+			<sg number="7">
+				<word number="1">raven</word>
+				<word number="2">eat out of house and home</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have the stomach of an ostrich">
+			<sg number="1">
+				<word number="1">have the stomach of an ostrich</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="appetite" headRef="904">play a good knife and fork</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pamper">
+			<sg number="1">
+				<word number="1">pamper</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="gluttonous">
+			<sg number="1">
+				<word number="1">gluttonous</word>
+				<word number="2">greedy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">gormandizing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">edacious</word>
+				<word number="2">omnivorous</word>
+				<word number="3">crapulent</word>
+				<word number="4">swinish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="avaricious">
+			<sg number="1">
+				<word number="1" paraRef="avaricious" headRef="857">avaricious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="selfish" headRef="985">selfish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pampered">
+			<sg number="1">
+				<word number="1">pampered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overfed</word>
+				<word number="2">overgorged</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="jejunus raro stomachus vulgaria temnit">
+			<sg number="1">
+				<word number="1">jejunus raro stomachus vulgaria temnit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

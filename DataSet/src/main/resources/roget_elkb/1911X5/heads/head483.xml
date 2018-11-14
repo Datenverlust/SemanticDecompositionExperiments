@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="483" name="Experiment" origNum="#463." class="4" section="2" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="experiment">
+			<sg number="1">
+				<word number="1">experiment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="attempt" headRef="704">essay</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="investigation" headRef="481">analysis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">screen</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trial</word>
+				<word number="2">tentative method</word>
+				<word number="3">tatonnement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="verification">
+			<sg number="1">
+				<word number="1">verification</word>
+				<word number="2">probation</word>
+				<word number="3">experimentum crucis</word>
+				<word number="4" paraRef="demonstration" headRef="501">proof</word>
+			</sg>
+			<sg number="2">
+				<word number="1">criterion</word>
+				<word number="2">diagnostic</word>
+				<word number="3">test</word>
+				<word number="4">probe</word>
+				<word number="5">crucial test</word>
+				<word number="6">acid test</word>
+				<word number="7">litmus test</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="crucible">
+			<sg number="1">
+				<word number="1">crucible</word>
+				<word number="2">reagent</word>
+				<word number="3">check</word>
+				<word number="4">touchstone</word>
+				<word number="5">pix</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assay</word>
+				<word number="2">ordeal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ring</word>
+			</sg>
+			<sg number="4">
+				<word number="1">litmus paper</word>
+				<word number="2">curcuma paper</word>
+				<word number="3">turmeric paper</word>
+			</sg>
+			<sg number="5">
+				<word number="1">test tube</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="instrument" headRef="662">analytical instruments</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="empiricism">
+			<sg number="1">
+				<word number="1">empiricism</word>
+				<word number="2">rule of thumb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="feeler">
+			<sg number="1">
+				<word number="1">feeler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trial balloon</word>
+				<word number="2">pilot balloon</word>
+				<word number="3">messenger balloon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pilot engine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scout</word>
+			</sg>
+			<sg number="5">
+				<word number="1">straw to show the wind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="speculation">
+			<sg number="1">
+				<word number="1">speculation</word>
+				<word number="2">random shot</word>
+				<word number="3">leap in the dark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="analyzer">
+			<sg number="1">
+				<word number="1">analyzer</word>
+				<word number="2">analyst</word>
+				<word number="3">assayist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adventurer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">experimenter</word>
+				<word number="2">experimentist</word>
+				<word number="3">experimentalist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scientist</word>
+				<word number="2">engineer</word>
+				<word number="3">technician</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="subject">
+			<sg number="1">
+				<word number="1">subject</word>
+				<word number="2">experimentee</word>
+				<word number="3">guinea pig</word>
+				<word number="4">experimental animal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="protocol">
+			<sg number="1">
+				<word number="1">protocol</word>
+				<word number="2">experimental method</word>
+				<word number="3">blind experiment</word>
+				<word number="4">double-blind experiment</word>
+				<word number="5">controlled experiment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="poll">
+			<sg number="1">
+				<word number="1">poll</word>
+				<word number="2">survey</word>
+				<word number="3">opinion poll</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="epidemiological survey">
+			<sg number="1">
+				<word number="1">epidemiological survey</word>
+				<word number="2">retrospective analysis</word>
+				<word number="3">retrospective survey</word>
+				<word number="4">prospective survey</word>
+				<word number="5">prospective analysis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">statistical analysis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="literature search">
+			<sg number="1">
+				<word number="1">literature search</word>
+				<word number="2">library research</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="tryout">
+			<sg number="1">
+				<word number="1">tryout</word>
+				<word number="2">audition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="discovery">
+			<sg number="1">
+				<word number="1" paraRef="discovery" headRef="504">discovery</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="measurement" headRef="489">measurement</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="evidence" headRef="490">evidence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="deduction">
+			<sg number="1">
+				<word number="1">deduction</word>
+				<word number="2">induction</word>
+				<word number="3">abduction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="observation">
+			<sg number="1">
+				<word number="1" new="1">observation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="finding">
+			<sg number="1">
+				<word number="1" new="2">finding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="experiment">
+			<sg number="1">
+				<word number="1">experiment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="endeavor" headRef="704">essay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">try</word>
+				<word number="2">try out</word>
+				<word number="3">assay</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make an experiment</word>
+				<word number="2">make a trial of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give a trial to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put on trial</word>
+				<word number="2">subject to trial</word>
+			</sg>
+			<sg number="7">
+				<word number="1">experiment upon</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rehearse</word>
+			</sg>
+			<sg number="9">
+				<word number="1">put to the test</word>
+				<word number="2">bring to the test</word>
+				<word number="3">submit to the test</word>
+				<word number="4">submit to the proof</word>
+			</sg>
+			<sg number="10">
+				<word number="1">prove</word>
+				<word number="2">verify</word>
+				<word number="3">test</word>
+				<word number="4">touch</word>
+				<word number="5">practice upon</word>
+				<word number="6">try one's strength</word>
+			</sg>
+			<sg number="11">
+				<word number="1">road-test</word>
+				<word number="2">test drive</word>
+				<word number="3">take for a spin</word>
+			</sg>
+			<sg number="12">
+				<word number="1">test fly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="grope">
+			<sg number="1">
+				<word number="1">grope</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feel one's way</word>
+				<word number="2">grope for one's way</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fumble</word>
+				<word number="2">tatonner</word>
+				<word number="3">aller a tatons</word>
+				<word number="4">put out a feeler</word>
+				<word number="5">throw out a feeler</word>
+			</sg>
+			<sg number="4">
+				<word number="1">send up a trial balloon</word>
+				<word number="2">send up a pilot balloon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">see how the land lies</word>
+				<word number="2">get the lay of the land</word>
+				<word number="3">test the waters</word>
+				<word number="4">feel out</word>
+				<word number="5">sound out</word>
+				<word number="6">take the pulse</word>
+				<word number="7">see</word>
+				<word number="8">check</word>
+				<word number="9">check out</word>
+				<word number="10">see how the wind blows</word>
+			</sg>
+			<sg number="6">
+				<word number="1">consult the barometer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">feel the pulse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fish for</word>
+				<word number="2">bob for</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cast for</word>
+				<word number="2">beat about for</word>
+			</sg>
+			<sg number="10">
+				<word number="1">angle</word>
+				<word number="2">trawl</word>
+				<word number="3">cast one's net</word>
+				<word number="4">beat the bushes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="try one's fortune">
+			<sg number="1">
+				<word number="1" paraRef="adventure" headRef="704">try one's fortune</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inquire" headRef="481">explore</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="experimental">
+			<sg number="1">
+				<word number="1">experimental</word>
+				<word number="2">empirical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="probative">
+			<sg number="1">
+				<word number="1">probative</word>
+				<word number="2">probatory</word>
+				<word number="3">probationary</word>
+				<word number="4">provisional</word>
+			</sg>
+			<sg number="2">
+				<word number="1">analytic</word>
+				<word number="2">docimastic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tentative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unverified</word>
+				<word number="2">unproven</word>
+				<word number="3">speculative</word>
+				<word number="4">untested</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on trial">
+			<sg number="1">
+				<word number="1">on trial</word>
+				<word number="2">under examination</word>
+				<word number="3">on probation</word>
+				<word number="4">under probation</word>
+				<word number="5">on one's trial</word>
+				<word number="6">on approval</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="check it out">
+			<sg number="1">
+				<word number="1">check it out</word>
+				<word number="2">give it a try</word>
+				<word number="3">see how it goes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"Run it up the flagpole and see who salutes"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

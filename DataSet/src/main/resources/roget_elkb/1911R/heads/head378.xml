@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="378" name="Animal" origNum="#366." class="3" section="3" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="animal">
+			<sg number="1">
+				<word number="1">animal</word>
+				<word number="2">animal kingdom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fauna</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brute creation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="beast">
+			<sg number="1">
+				<word number="1">beast</word>
+				<word number="2">brute</word>
+				<word number="3">creature</word>
+				<word number="4">critter</word>
+				<word number="5">wight</word>
+				<word number="6">created being</word>
+			</sg>
+			<sg number="2">
+				<word number="1">creeping thing</word>
+				<word number="2">living thing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dumb animal</word>
+				<word number="2">dumb creature</word>
+			</sg>
+			<sg number="4">
+				<word number="1">zoophyte</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mammal">
+			<sg number="1">
+				<word number="1">mammal</word>
+				<word number="2">bird</word>
+				<word number="3">reptile</word>
+				<word number="4">amphibian</word>
+				<word number="5">fish</word>
+				<word number="6">crustacean</word>
+				<word number="7">shellfish</word>
+				<word number="8">mollusk</word>
+				<word number="9">worm</word>
+				<word number="10">insect</word>
+				<word number="11">arthropod</word>
+				<word number="12">microbe</word>
+				<word number="13" new="1">prefetch</word>
+				<word number="14" new="1">overburden</word>
+				<word number="15" new="1">catbird</word>
+				<word number="16" new="1">insurrectionist</word>
+				<word number="17" new="1">retinol</word>
+				<word number="18" new="1">eggshell</word>
+				<word number="19" new="1">revel</word>
+				<word number="20" new="1">ezine</word>
+				<word number="21" new="1">monomania</word>
+				<word number="22" new="1">quirt</word>
+				<word number="23" new="1">archdeaconry</word>
+				<word number="24" new="1">sie</word>
+				<word number="25" new="1">donepezil</word>
+				<word number="26" new="1">chorea</word>
+				<word number="27" new="1">compressing</word>
+				<word number="28" new="1">feastday</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="microbe">
+			<sg number="1">
+				<word number="1">microbe</word>
+				<word number="2" paraRef="animalcule" headRef="202">animalcule</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="alligator">
+			<sg number="1">
+				<word number="1">alligator</word>
+				<word number="2">crocodile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saurian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dinosaur</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snake</word>
+				<word number="2">serpent</word>
+				<word number="3">viper</word>
+				<word number="4">eft</word>
+			</sg>
+			<sg number="5">
+				<word number="1">asp</word>
+				<word number="2">aspick</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">visite</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">hawkweed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="frog">
+			<sg number="1">
+				<word number="1">frog</word>
+				<word number="2">toad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="trout">
+			<sg number="1">
+				<word number="1">trout</word>
+				<word number="2">bass</word>
+				<word number="3">tuna</word>
+				<word number="4">muskelunge</word>
+				<word number="5">sailfish</word>
+				<word number="6">sardine</word>
+				<word number="7">mackerel</word>
+				<word number="8" new="1">granddaughter</word>
+				<word number="9" new="1">lexis</word>
+				<word number="10" new="1">dimming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="ant">
+			<sg number="1">
+				<word number="1">ant</word>
+				<word number="2">mosquito</word>
+				<word number="3">bee</word>
+				<word number="4">honeybee</word>
+				<word number="5" new="1">bruiser</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="tardigrade">
+			<sg number="1">
+				<word number="1">tardigrade</word>
+				<word number="2">spider</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="biped">
+			<sg number="1">
+				<word number="1">biped</word>
+				<word number="2">quadruped</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="flocks and herds">
+			<sg number="1">
+				<word number="1">flocks and herds</word>
+				<word number="2">live stock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">domestic animals</word>
+				<word number="2">wild animals</word>
+			</sg>
+			<sg number="3">
+				<word number="1">game</word>
+				<word number="2">ferae naturae</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beasts of the field</word>
+				<word number="2">fowls of the air</word>
+				<word number="3">denizens of the sea</word>
+			</sg>
+			<sg number="5">
+				<word number="1">black game</word>
+				<word number="2">black grouse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blackcock</word>
+				<word number="2">duck</word>
+				<word number="3">grouse</word>
+				<word number="4">plover</word>
+				<word number="5">rail</word>
+				<word number="6">snipe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="horse">
+			<sg number="1">
+				<word number="1" paraRef="beast of burden" headRef="282">horse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cattle</word>
+				<word number="2">kine</word>
+				<word number="3">ox</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bull</word>
+				<word number="2">bullock</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cow</word>
+				<word number="2">milch cow</word>
+				<word number="3">calf</word>
+				<word number="4">heifer</word>
+				<word number="5">shorthorn</word>
+				<word number="6" new="1">stylet</word>
+				<word number="7" new="1">discipline</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sheep</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lamb</word>
+				<word number="2">lambkin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ewe</word>
+				<word number="2">ram</word>
+				<word number="3">tup</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pig</word>
+				<word number="2">swine</word>
+				<word number="3">boar</word>
+				<word number="4">hog</word>
+				<word number="5">sow</word>
+			</sg>
+			<sg number="9">
+				<word number="1">steer</word>
+				<word number="2">stot</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tag</word>
+				<word number="2">teg</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bison</word>
+				<word number="2">buffalo</word>
+				<word number="3">yak</word>
+				<word number="4">zebu</word>
+				<word number="5">dog</word>
+				<word number="6">cat</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">conundrum</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">repressor</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">bioreactor</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">striper</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">chalet</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">pilus</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">mainsheet</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">logit</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">rugby</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">floater</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">joiner</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">chirplet</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">joypad</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">demoniac</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">tungstate</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">exonarthex</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">mashgiach</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="1">swatch</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="1">thiamine</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="1">activism</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="1">centimetre</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="1">tapasya</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="1">potoroo</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="1">condition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="dog">
+			<sg number="1">
+				<word number="1">dog</word>
+				<word number="2">hound</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pup</word>
+				<word number="2">puppy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">whelp</word>
+				<word number="2">cur</word>
+				<word number="3">mongrel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">house dog</word>
+				<word number="2">watch dog</word>
+				<word number="3">sheep dog</word>
+				<word number="4">shepherd's dog</word>
+				<word number="5">sporting dog</word>
+				<word number="6">fancy dog</word>
+				<word number="7">lap dog</word>
+				<word number="8">toy dog</word>
+				<word number="9">bull dog</word>
+				<word number="10">badger dog</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mastiff</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blood hound</word>
+				<word number="2">grey hound</word>
+				<word number="3">stag hound</word>
+				<word number="4">deer hound</word>
+				<word number="5">fox hound</word>
+				<word number="6">otter hound</word>
+			</sg>
+			<sg number="7">
+				<word number="1">harrier</word>
+				<word number="2">beagle</word>
+				<word number="3">spaniel</word>
+				<word number="4">pointer</word>
+				<word number="5">setter</word>
+				<word number="6">retriever</word>
+				<word number="7" new="1">communis</word>
+				<word number="8" new="1">leatherwork</word>
+				<word number="9" new="1">burster</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Newfoundland</word>
+			</sg>
+			<sg number="9">
+				<word number="1">water dog</word>
+				<word number="2">water spaniel</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pug</word>
+				<word number="2">poodle</word>
+			</sg>
+			<sg number="11">
+				<word number="1">turnspit</word>
+			</sg>
+			<sg number="12">
+				<word number="1">terrier</word>
+			</sg>
+			<sg number="13">
+				<word number="1">fox terrier</word>
+				<word number="2">Skye terrier</word>
+			</sg>
+			<sg number="14">
+				<word number="1">Dandie Dinmont</word>
+			</sg>
+			<sg number="15">
+				<word number="1">collie</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">miniaturist</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">howling</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">skunk</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">planetarium</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">phenol</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">staffer</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">bell</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">aka</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">micronation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="feline">
+			<sg number="1">
+				<word number="1">feline</word>
+				<word number="2">puss</word>
+				<word number="3">pussy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grimalkin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gib cat</word>
+				<word number="2">tom cat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="fox">
+			<sg number="1">
+				<word number="1">fox</word>
+				<word number="2">Reynard</word>
+				<word number="3">vixen</word>
+				<word number="4">stag</word>
+				<word number="5">deer</word>
+				<word number="6">hart</word>
+				<word number="7">buck</word>
+				<word number="8">doe</word>
+				<word number="9">roe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caribou</word>
+				<word number="2">coyote</word>
+				<word number="3">elk</word>
+				<word number="4">moose</word>
+				<word number="5">musk ox</word>
+				<word number="6">sambar</word>
+				<word number="7" new="1">turntablists</word>
+				<word number="8" new="1">edwardsiana</word>
+				<word number="9" new="1">slinger</word>
+				<word number="10" new="1">hyperalgesia</word>
+				<word number="11" new="1">lire</word>
+				<word number="12" new="1">dans</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">megastar</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">rushers</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">iconography</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">singleton</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">fudge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="bird">
+			<sg number="1">
+				<word number="1">bird</word>
+			</sg>
+			<sg number="2">
+				<word number="1">poultry</word>
+				<word number="2">fowl</word>
+				<word number="3">cock</word>
+				<word number="4">hen</word>
+				<word number="5">chicken</word>
+				<word number="6">chanticleer</word>
+				<word number="7">partlet</word>
+				<word number="8">rooster</word>
+				<word number="9">dunghill cock</word>
+				<word number="10">barn door fowl</word>
+				<word number="11" new="1">snood</word>
+				<word number="12" new="1">plastrons</word>
+				<word number="13" new="1">beachhead</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feathered tribes</word>
+				<word number="2">feathered songster</word>
+			</sg>
+			<sg number="4">
+				<word number="1">singing bird</word>
+				<word number="2">dicky bird</word>
+			</sg>
+			<sg number="5">
+				<word number="1">canary</word>
+				<word number="2">warbler</word>
+			</sg>
+			<sg number="6">
+				<word number="1">finch</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aberdevine</word>
+				<word number="2">cushat</word>
+				<word number="3">cygnet</word>
+				<word number="4">ringdove</word>
+				<word number="5">siskin</word>
+				<word number="6">swan</word>
+				<word number="7">wood pigeon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="vermin">
+			<sg number="1">
+				<word number="1">vermin</word>
+				<word number="2">varmint</word>
+				<word number="3">pest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="load">
+			<sg number="1">
+				<word number="1" new="1">load</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="surgeonfish">
+			<sg number="1">
+				<word number="1" new="1">surgeonfish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="eclectic">
+			<sg number="1">
+				<word number="1" new="1">eclectic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="thaw">
+			<sg number="1">
+				<word number="1" new="1">thaw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="neuron">
+			<sg number="1">
+				<word number="1" new="1">neuron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="ciprofloxacin">
+			<sg number="1">
+				<word number="1" new="1">ciprofloxacin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="boatlift">
+			<sg number="1">
+				<word number="1" new="1">boatlift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="recipe">
+			<sg number="1">
+				<word number="1" new="1">recipe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="anniversary">
+			<sg number="1">
+				<word number="1" new="1">anniversary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="helmsman">
+			<sg number="1">
+				<word number="1" new="1">helmsman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="illegals">
+			<sg number="1">
+				<word number="1" new="1">illegals</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="intensive">
+			<sg number="1">
+				<word number="1" new="1">intensive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="firepower">
+			<sg number="1">
+				<word number="1" new="1">firepower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="photogrammetry">
+			<sg number="1">
+				<word number="1" new="1">photogrammetry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="candle">
+			<sg number="1">
+				<word number="1" new="1">candle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="waypoint">
+			<sg number="1">
+				<word number="1" new="1">waypoint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="reveille">
+			<sg number="1">
+				<word number="1" new="1">reveille</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="sauropodomorph">
+			<sg number="1">
+				<word number="1" new="1">sauropodomorph</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="complexation">
+			<sg number="1">
+				<word number="1" new="1">complexation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="landholding">
+			<sg number="1">
+				<word number="1" new="1">landholding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="animal">
+			<sg number="1">
+				<word number="1">animal</word>
+				<word number="2">zoological      equine</word>
+				<word number="3">bovine</word>
+				<word number="4">vaccine</word>
+				<word number="5">canine</word>
+				<word number="6">feline</word>
+				<word number="7">fishy</word>
+				<word number="8" new="1">arcane</word>
+				<word number="9" new="1">nonrestrictive</word>
+				<word number="10" new="1">quality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">piscatory</word>
+				<word number="2">piscatorial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">molluscous</word>
+				<word number="2">vermicular</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gallinaceous</word>
+				<word number="2">rasorial</word>
+				<word number="3">solidungulate</word>
+				<word number="4">soliped</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="965" name="Dueness" origNum="#924." class="8" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="due">
+			<sg number="1">
+				<word number="1">due</word>
+				<word number="2">dueness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">right</word>
+				<word number="2">privilege</word>
+				<word number="3">prerogative</word>
+				<word number="4">prescription</word>
+				<word number="5">title</word>
+				<word number="6">claim</word>
+				<word number="7">pretension</word>
+				<word number="8">demand</word>
+				<word number="9">birthright</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="immunity">
+			<sg number="1">
+				<word number="1">immunity</word>
+				<word number="2">license</word>
+				<word number="3">liberty</word>
+				<word number="4">franchise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vested interest</word>
+				<word number="2">vested right</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sanction">
+			<sg number="1">
+				<word number="1">sanction</word>
+				<word number="2">authority</word>
+				<word number="3">warranty</word>
+				<word number="4">charter</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="permission" headRef="791">warrant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="law" headRef="1006">constitution</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenure</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="security" headRef="803">bond</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="claimant">
+			<sg number="1">
+				<word number="1">claimant</word>
+				<word number="2">appellant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="plaintiff" headRef="980">plaintiff</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be due">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be due</word>
+				<word number="2" paraRef="" posRef="n.">be the due</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have right to</word>
+				<word number="2">have title to</word>
+				<word number="3">have claim to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be entitled to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have a claim upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="property" headRef="813">belong to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deserve">
+			<sg number="1">
+				<word number="1">deserve</word>
+				<word number="2">merit</word>
+				<word number="3">be worthy of</word>
+				<word number="4">richly deserve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="demand">
+			<sg number="1">
+				<word number="1">demand</word>
+				<word number="2">claim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">call upon for</word>
+				<word number="2">come upon for</word>
+				<word number="3">appeal to for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">revendicate</word>
+				<word number="2">reclaim</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exact</word>
+			</sg>
+			<sg number="5">
+				<word number="1">insist on</word>
+				<word number="2">insist upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">challenge</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take one's stand</word>
+				<word number="2">make a point of</word>
+				<word number="3">require</word>
+				<word number="4">lay claim to</word>
+				<word number="5">assert</word>
+				<word number="6">assume</word>
+				<word number="7">arrogate</word>
+				<word number="8">make good</word>
+			</sg>
+			<sg number="8">
+				<word number="1">substantiate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">vindicate a claim</word>
+				<word number="2">vindicate a right</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fit for</word>
+				<word number="2">qualify for</word>
+			</sg>
+			<sg number="11">
+				<word number="1">make out a case</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">heal</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">barbecue</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">refer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="give a right">
+			<sg number="1">
+				<word number="1">give a right</word>
+				<word number="2">confer a right</word>
+			</sg>
+			<sg number="2">
+				<word number="1">entitle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="authorize" headRef="791">authorize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sanctify</word>
+				<word number="2">legalize</word>
+				<word number="3">ordain</word>
+				<word number="4">prescribe</word>
+				<word number="5">allot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="give every one his due">
+			<sg number="1">
+				<word number="1" paraRef="give every one his due" headRef="963">give every one his due</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay one's dues</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have one's due</word>
+				<word number="2">have one's rights</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="use a right">
+			<sg number="1">
+				<word number="1">use a right</word>
+				<word number="2">assert</word>
+				<word number="3">enforce</word>
+				<word number="4">put in force</word>
+				<word number="5">lay under contribution</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="having a right to">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">having a right to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">entitled to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">claiming</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deserving</word>
+				<word number="2">meriting</word>
+				<word number="3">worthy of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="privileged">
+			<sg number="1">
+				<word number="1">privileged</word>
+				<word number="2">allowed</word>
+				<word number="3">sanctioned</word>
+				<word number="4">warranted</word>
+				<word number="5">authorized</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ordained</word>
+				<word number="2">prescribed</word>
+				<word number="3">constitutional</word>
+				<word number="4">chartered</word>
+				<word number="5">enfranchised</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">evidentiary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prescriptive">
+			<sg number="1">
+				<word number="1">prescriptive</word>
+				<word number="2">presumptive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">absolute</word>
+				<word number="2">indefeasible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unalienable</word>
+				<word number="2">inalienable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imprescriptible</word>
+				<word number="2">inviolable</word>
+				<word number="3">unimpeachable</word>
+				<word number="4">unchallenged</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sacrosanct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="due to">
+			<sg number="1">
+				<word number="1">due to</word>
+				<word number="2">merited</word>
+				<word number="3">deserved</word>
+				<word number="4">condign</word>
+				<word number="5">richly deserved</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="allowable">
+			<sg number="1">
+				<word number="1" paraRef="permitted" headRef="791">allowable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lawful</word>
+				<word number="2">licit</word>
+				<word number="3">legitimate</word>
+				<word number="4">legal</word>
+				<word number="5" new="1">artful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="law" headRef="1006">legalized</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="square">
+			<sg number="1">
+				<word number="1">square</word>
+				<word number="2">unexceptionable</word>
+				<word number="3">right</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="equity" headRef="963">equitable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">due</word>
+				<word number="2">en r gle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fit</word>
+				<word number="2">fitting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">correct</word>
+				<word number="2">proper</word>
+				<word number="3">meet</word>
+				<word number="4">befitting</word>
+				<word number="5">becoming</word>
+				<word number="6">seemly</word>
+			</sg>
+			<sg number="6">
+				<word number="1">decorous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">creditable</word>
+				<word number="2">up to the mark</word>
+				<word number="3">right as a trivet</word>
+			</sg>
+			<sg number="8">
+				<word number="1">just the thing</word>
+				<word number="2">quite the thing</word>
+			</sg>
+			<sg number="9">
+				<word number="1">selon les r gles</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="duly">
+			<sg number="1">
+				<word number="1">duly</word>
+				<word number="2">ex officio</word>
+				<word number="3">de jure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by right</word>
+				<word number="2">by divine right</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jure divino</word>
+				<word number="2">Dei gratia</word>
+				<word number="3">in the name of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="civis Romanus sum">
+			<sg number="1">
+				<word number="1">civis Romanus sum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a chaque saint sa chandelle</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

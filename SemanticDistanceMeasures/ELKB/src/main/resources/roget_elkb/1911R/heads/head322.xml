@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="322" name="Circuition" origNum="#311." class="2" section="4" subSection="4" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="circuition">
+			<sg number="1">
+				<word number="1">circuition</word>
+				<word number="2">circulation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn</word>
+				<word number="2">curvet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">excursion</word>
+				<word number="2">circumvention</word>
+				<word number="3">circumnavigation</word>
+				<word number="4">circumambulation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">northwest passage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="circuit" headRef="658">circuit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="turning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">turning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wrench</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evolution</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coil</word>
+				<word number="2">corkscrew</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="turn">
+			<sg number="1">
+				<word number="1">turn</word>
+				<word number="2">bend</word>
+				<word number="3">wheel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go about</word>
+				<word number="2">put about</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go round to the right about</word>
+				<word number="2">turn round to the right about</word>
+			</sg>
+			<sg number="5">
+				<word number="1">turn on one's heel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make a circle</word>
+				<word number="2">make a complete circle</word>
+				<word number="3">describe a circle</word>
+				<word number="4">describe a complete circle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">go through 180x</word>
+				<word number="2">go through 360x</word>
+				<word number="3">pass through 180x</word>
+				<word number="4">pass through 360x</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="circumnavigate">
+			<sg number="1">
+				<word number="1">circumnavigate</word>
+				<word number="2">circumambulate</word>
+				<word number="3">circumvent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"put a girdle round about the earth"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go the round</word>
+				<word number="2">make the round of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wind">
+			<sg number="1">
+				<word number="1">wind</word>
+				<word number="2">circulate</word>
+				<word number="3">meander</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whisk</word>
+				<word number="2">twirl</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="convolution" headRef="258">twist</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="circuit" headRef="658">make a detour</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="turning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">turning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">circuitous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">circumforaneous</word>
+				<word number="2">circumfluent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="round about">
+			<sg number="1">
+				<word number="1">round about</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

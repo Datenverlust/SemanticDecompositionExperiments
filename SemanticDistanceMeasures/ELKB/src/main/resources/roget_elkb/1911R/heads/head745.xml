@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="745" name="Attack" origNum="#716." class="6" section="4" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="attack">
+			<sg number="1">
+				<word number="1">attack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assault</word>
+				<word number="2">assault and battery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">onset</word>
+				<word number="2">onslaught</word>
+				<word number="3">charge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aggression">
+			<sg number="1">
+				<word number="1">aggression</word>
+				<word number="2">offense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incursion</word>
+				<word number="2">inroad</word>
+				<word number="3">invasion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">irruption</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outbreak</word>
+			</sg>
+			<sg number="5">
+				<word number="1">estrapade</word>
+				<word number="2">ruade</word>
+			</sg>
+			<sg number="6">
+				<word number="1">coupe de main</word>
+				<word number="2">sally</word>
+				<word number="3">sortie</word>
+				<word number="4">camisade</word>
+				<word number="5">raid</word>
+				<word number="6">foray</word>
+			</sg>
+			<sg number="7">
+				<word number="1">run at</word>
+				<word number="2">run against</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dead set at</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">occupant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="storm">
+			<sg number="1">
+				<word number="1">storm</word>
+				<word number="2">storming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">boarding</word>
+				<word number="2">escalade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">siege</word>
+				<word number="2">investment</word>
+				<word number="3">obsession!</word>
+				<word number="4">bombardment</word>
+				<word number="5">cannonade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fire">
+			<sg number="1">
+				<word number="1">fire</word>
+				<word number="2">volley</word>
+			</sg>
+			<sg number="2">
+				<word number="1">platoon fire</word>
+				<word number="2">file fire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fusillade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sharpshooting</word>
+				<word number="2">broadside</word>
+			</sg>
+			<sg number="5">
+				<word number="1">raking fire</word>
+				<word number="2">cross fire</word>
+			</sg>
+			<sg number="6">
+				<word number="1">volley of grapeshot</word>
+				<word number="2">whiff of the grape</word>
+				<word number="3">feu d'enfer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cut">
+			<sg number="1">
+				<word number="1">cut</word>
+				<word number="2">thrust</word>
+				<word number="3">lunge</word>
+				<word number="4">pass</word>
+				<word number="5">passado</word>
+				<word number="6">carte and tierce</word>
+				<word number="7">home thrust</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coupe de bec</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kick</word>
+				<word number="2" paraRef="impulse" headRef="287">punch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="battue">
+			<sg number="1">
+				<word number="1">battue</word>
+				<word number="2">razzia</word>
+				<word number="3">Jacquerie</word>
+				<word number="4">dragonnade</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="devastation" headRef="169">devastation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eboulement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="assailant">
+			<sg number="1">
+				<word number="1">assailant</word>
+				<word number="2">aggressor</word>
+				<word number="3">invader</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="base of operations">
+			<sg number="1">
+				<word number="1">base of operations</word>
+				<word number="2">point of attack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">echelon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="chancellery">
+			<sg number="1">
+				<word number="1" new="1">chancellery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="ministre">
+			<sg number="1">
+				<word number="1" new="1">ministre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="hobgoblin">
+			<sg number="1">
+				<word number="1" new="1">hobgoblin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="polyelectrolyte">
+			<sg number="1">
+				<word number="1" new="1">polyelectrolyte</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="gingham">
+			<sg number="1">
+				<word number="1" new="1">gingham</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="liang">
+			<sg number="1">
+				<word number="1" new="1">liang</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="losses">
+			<sg number="1">
+				<word number="1" new="1">losses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="geologic">
+			<sg number="1">
+				<word number="1" new="1">geologic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="naos">
+			<sg number="1">
+				<word number="1" new="1">naos</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="pyre">
+			<sg number="1">
+				<word number="1" new="1">pyre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="zh">
+			<sg number="1">
+				<word number="1" new="1">zh</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="noseband">
+			<sg number="1">
+				<word number="1" new="1">noseband</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="attack">
+			<sg number="1">
+				<word number="1">attack</word>
+				<word number="2">assault</word>
+				<word number="3">assail</word>
+				<word number="4" new="1">venerate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">invade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set upon</word>
+				<word number="2">fall upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">charge</word>
+				<word number="2">impugn</word>
+				<word number="3">break a lance with</word>
+				<word number="4">enter the lists</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">reboot</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">casket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="assume the offensive">
+			<sg number="1">
+				<word number="1">assume the offensive</word>
+				<word number="2">take the offensive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be the aggressor</word>
+				<word number="2">become the aggressor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strike the first blow</word>
+				<word number="2">draw first blood</word>
+				<word number="3">throw the first stone at</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lift a hand against</word>
+				<word number="2">draw the sword against</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take up the cudgels</word>
+			</sg>
+			<sg number="6">
+				<word number="1">advance against</word>
+				<word number="2">march against</word>
+			</sg>
+			<sg number="7">
+				<word number="1">march upon</word>
+				<word number="2">harry</word>
+			</sg>
+			<sg number="8">
+				<word number="1">come on</word>
+				<word number="2">show fight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="strike at">
+			<sg number="1">
+				<word number="1">strike at</word>
+				<word number="2">poke at</word>
+				<word number="3">thrust at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aim a blow at</word>
+				<word number="2">deal a blow at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give one a blow</word>
+				<word number="2">fetch one a blow</word>
+				<word number="3">fetch one a kick</word>
+				<word number="4">give one a kick</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have a cut at</word>
+				<word number="2">have a shot at</word>
+				<word number="3">take a cut at</word>
+				<word number="4">take a shot at</word>
+				<word number="5">have a fling at</word>
+				<word number="6">have a shy at</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be down upon</word>
+				<word number="2">pounce upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fall foul of</word>
+				<word number="2">pitch into</word>
+				<word number="3">launch out against</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bait</word>
+				<word number="2">slap on the face</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make a thrust at</word>
+				<word number="2">make a pass at</word>
+				<word number="3">make a set at</word>
+				<word number="4">make a dead set at</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bear down upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="close with">
+			<sg number="1">
+				<word number="1">close with</word>
+				<word number="2">come to close quarters</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring to bay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ride full tilt against">
+			<sg number="1">
+				<word number="1">ride full tilt against</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attack tooth and nail</word>
+				<word number="2">go at hammer and tongs</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="let fly at">
+			<sg number="1">
+				<word number="1">let fly at</word>
+				<word number="2">dash at</word>
+				<word number="3">run a tilt at</word>
+				<word number="4">rush at</word>
+				<word number="5">tilt at</word>
+				<word number="6">run at</word>
+				<word number="7">fly at</word>
+				<word number="8">hawk at</word>
+				<word number="9">have at</word>
+				<word number="10">let out at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make a dash</word>
+				<word number="2">make a rush at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strike home</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drive one hard</word>
+			</sg>
+			<sg number="5">
+				<word number="1">press one hard</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be hard upon</word>
+				<word number="2">run down</word>
+				<word number="3">strike at the root of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="lay about one">
+			<sg number="1">
+				<word number="1">lay about one</word>
+				<word number="2">run amuck</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="aim at">
+			<sg number="1">
+				<word number="1">aim at</word>
+				<word number="2">draw a bead on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="fire upon">
+			<sg number="1">
+				<word number="1">fire upon</word>
+				<word number="2">fire at</word>
+				<word number="3">fire a shot at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shoot at</word>
+				<word number="2">pop at</word>
+				<word number="3">level at</word>
+				<word number="4">let off a gun at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open fire</word>
+				<word number="2">pepper</word>
+				<word number="3">bombard</word>
+				<word number="4">shell</word>
+				<word number="5">pour a broadside into</word>
+				<word number="6" new="1">champion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fire a volley</word>
+				<word number="2">fire red-hot shot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spring a mine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="throw a stone">
+			<sg number="1">
+				<word number="1">throw a stone</word>
+				<word number="2">throw stones at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stone</word>
+				<word number="2">lapidate</word>
+				<word number="3">pelt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hurl at</word>
+				<word number="2">hurl against</word>
+				<word number="3">hurl at the head of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rock      beset</word>
+				<word number="2">besiege</word>
+				<word number="3">beleaguer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lay siege to</word>
+				<word number="2">invest</word>
+				<word number="3">open the trenches</word>
+				<word number="4">plant a battery</word>
+				<word number="5">sap</word>
+				<word number="6">mine</word>
+			</sg>
+			<sg number="6">
+				<word number="1">storm</word>
+				<word number="2">board</word>
+				<word number="3">scale the walls</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="cut and thrust">
+			<sg number="1">
+				<word number="1">cut and thrust</word>
+				<word number="2">bayonet</word>
+				<word number="3">butt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kick</word>
+				<word number="2" paraRef="impulse" headRef="287">strike</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="punish" headRef="1015">whip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="assail">
+			<sg number="1">
+				<word number="1">assail</word>
+				<word number="2">impugn</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="detract" headRef="976">malign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="bomb">
+			<sg number="1">
+				<word number="1">bomb</word>
+				<word number="2">rocket</word>
+				<word number="3">blast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="defuse">
+			<sg number="1">
+				<word number="1" new="1">defuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="attacking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">attacking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aggressive</word>
+				<word number="2">offensive</word>
+				<word number="3">obsidional</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="up in arms">
+			<sg number="1">
+				<word number="1">up in arms</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on the offensive">
+			<sg number="1">
+				<word number="1">on the offensive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="up and at them">
+			<sg number="1">
+				<word number="1">"up and at them!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the din of arms">
+			<sg number="1">
+				<word number="1">"the din of arms</word>
+				<word number="2">the yell of savage rage</word>
+				<word number="3">the shriek of agony</word>
+				<word number="4">the groan of death"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"their fatal hands no second stroke intend"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"thirst for glory quells the love of life"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

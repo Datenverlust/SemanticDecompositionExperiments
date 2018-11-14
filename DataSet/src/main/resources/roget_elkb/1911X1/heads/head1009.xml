@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1009" name="Tribunal" origNum="#966." class="8" section="4" subSection="5" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="tribunal">
+			<sg number="1">
+				<word number="1">tribunal</word>
+				<word number="2">court</word>
+				<word number="3">board</word>
+				<word number="4">bench</word>
+				<word number="5">judicatory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">court of justice</word>
+				<word number="2">court of law</word>
+				<word number="3">court of arbitration</word>
+				<word number="4">administrative court</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inquisition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guild</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="justice seat">
+			<sg number="1">
+				<word number="1">justice seat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">judgment seat</word>
+				<word number="2">mercy seat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">woolsack</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bar of justice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dock</word>
+			</sg>
+			<sg number="6">
+				<word number="1">forum</word>
+				<word number="2">hustings</word>
+				<word number="3">bureau</word>
+				<word number="4">drumhead</word>
+			</sg>
+			<sg number="7">
+				<word number="1">jury box</word>
+				<word number="2">witness box</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="senate house">
+			<sg number="1">
+				<word number="1">senate house</word>
+				<word number="2">town hall</word>
+				<word number="3">theater</word>
+			</sg>
+			<sg number="2">
+				<word number="1">House of Commons</word>
+				<word number="2">House of Lords</word>
+			</sg>
+			<sg number="3">
+				<word number="1">statehouse</word>
+				<word number="2">townhouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="assize">
+			<sg number="1">
+				<word number="1">assize</word>
+				<word number="2">eyre</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wardmote</word>
+				<word number="2">burghmote</word>
+			</sg>
+			<sg number="3">
+				<word number="1">barmote</word>
+			</sg>
+			<sg number="4">
+				<word number="1">superior courts of Westminster</word>
+			</sg>
+			<sg number="5">
+				<word number="1">court of record</word>
+				<word number="2">court oyer and terminer</word>
+				<word number="3">court assize</word>
+				<word number="4">court of appeal</word>
+				<word number="5">court of error</word>
+			</sg>
+			<sg number="6">
+				<word number="1">High court of Judicature</word>
+				<word number="2">High court of Appeal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Judicial Committee of the Privy Council</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Star Chamber</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Court of Chancery</word>
+				<word number="2">Court of King's or Queen's Bench</word>
+				<word number="3">Court of Exchequer</word>
+				<word number="4">Court of Common Pleas</word>
+				<word number="5">Court of Probate</word>
+				<word number="6">Court of Arches</word>
+				<word number="7">Court of Admiralty</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Lords Justices' court</word>
+				<word number="2">Rolls court</word>
+				<word number="3">Vice Chancellor's court</word>
+				<word number="4">Stannary court</word>
+				<word number="5">Divorce court</word>
+				<word number="6">Family court</word>
+				<word number="7">Palatine court</word>
+				<word number="8">county court</word>
+				<word number="9">district court</word>
+				<word number="10">police court</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sessions</word>
+			</sg>
+			<sg number="12">
+				<word number="1">quarter sessions</word>
+				<word number="2">petty sessions</word>
+			</sg>
+			<sg number="13">
+				<word number="1">court-leet</word>
+				<word number="2">court-baron</word>
+				<word number="3">court of pie poudre</word>
+				<word number="4">court of common council</word>
+			</sg>
+			<sg number="14">
+				<word number="1">board of green cloth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="court martial">
+			<sg number="1">
+				<word number="1">court martial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drumhead court martial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">durbar</word>
+				<word number="2">divan</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Areopagus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Irota</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="judicial">
+			<sg number="1">
+				<word number="1" paraRef="judicial" headRef="1008">judicial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">appellate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="die Weltgeschichte ist das Weltgericht">
+			<sg number="1">
+				<word number="1">die Weltgeschichte ist das Weltgericht</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

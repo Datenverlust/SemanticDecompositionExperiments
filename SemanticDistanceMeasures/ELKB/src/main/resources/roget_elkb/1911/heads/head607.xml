@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="607" name="Aphony" origNum="#581." class="5" section="3" subSection="2" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="aphony">
+			<sg number="1">
+				<word number="1">aphony</word>
+				<word number="2">aphonia</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">dumbness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obmutescence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">absence of voice</word>
+				<word number="2">want of voice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dysphony</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cacoepy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="taciturnity" headRef="611">silence</word>
+			</sg>
+			<sg number="8">
+				<word number="1">raucity</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="harsh" headRef="428">harsh voice</word>
+				<word number="2" paraRef="unmusical" headRef="432">unmusical voice</word>
+			</sg>
+			<sg number="10">
+				<word number="1">falsetto</word>
+				<word number="2">"childish treble mute"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dummy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="keep silence">
+			<sg number="1">
+				<word number="1" paraRef="keep silence" headRef="611">keep silence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speak low</word>
+				<word number="2">speak softly</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="faintness" headRef="422">whisper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="silence">
+			<sg number="1">
+				<word number="1">silence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">render mute</word>
+				<word number="2">render silent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">muzzle</word>
+				<word number="2">muffle</word>
+				<word number="3">suppress</word>
+				<word number="4">smother</word>
+				<word number="5">gag</word>
+				<word number="6">strike dumb</word>
+				<word number="7">dumfounder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drown the voice</word>
+				<word number="2">put to silence</word>
+				<word number="3">stop one's mouth</word>
+				<word number="4">cut one short</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stick in the throat">
+			<sg number="1">
+				<word number="1">stick in the throat</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="aphonous">
+			<sg number="1">
+				<word number="1">aphonous</word>
+				<word number="2">dumb</word>
+				<word number="3">mute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deafmute</word>
+				<word number="2">deaf and dumb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tongue- tied</word>
+			</sg>
+			<sg number="5">
+				<word number="1">breathless</word>
+				<word number="2">tongueless</word>
+				<word number="3">voiceless</word>
+				<word number="4">speechless</word>
+				<word number="5">wordless</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mute as a fish</word>
+				<word number="2">mute as a stockfish</word>
+				<word number="3">mute as a mackerel</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="taciturn" headRef="611">silent</word>
+			</sg>
+			<sg number="8">
+				<word number="1">muzzled</word>
+			</sg>
+			<sg number="9">
+				<word number="1">inarticulate</word>
+				<word number="2">inaudible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="croaking">
+			<sg number="1">
+				<word number="1">croaking</word>
+				<word number="2">raucous</word>
+				<word number="3">hoarse</word>
+				<word number="4">husky</word>
+				<word number="5">dry</word>
+				<word number="6">hollow</word>
+				<word number="7">sepulchral</word>
+				<word number="8">hoarse as a raven</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rough</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with bated breath">
+			<sg number="1">
+				<word number="1">with bated breath</word>
+				<word number="2">with the finger on the lips</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sotto voce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in a low tone</word>
+				<word number="2">in a cracked voice</word>
+				<word number="3">in a broken voice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="vox faucibus haesit">
+			<sg number="1">
+				<word number="1">vox faucibus haesit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="460" name="Vision" origNum="#441." class="3" section="3" subSection="2" headGroup="35">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vision">
+			<sg number="1">
+				<word number="1">vision</word>
+				<word number="2">sight</word>
+				<word number="3">optics</word>
+				<word number="4">eyesight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="view">
+			<sg number="1">
+				<word number="1">view</word>
+				<word number="2">look</word>
+				<word number="3">espial</word>
+				<word number="4">glance</word>
+				<word number="5">ken</word>
+				<word number="6">coup d'oeil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glimpse</word>
+				<word number="2">glint</word>
+				<word number="3">peep</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gaze</word>
+				<word number="2">stare</word>
+				<word number="3">leer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">perlustration</word>
+				<word number="2">contemplation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conspection</word>
+				<word number="2">conspectuity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">regard</word>
+				<word number="2">survey</word>
+			</sg>
+			<sg number="7">
+				<word number="1">introspection</word>
+			</sg>
+			<sg number="8">
+				<word number="1">reconnaissance</word>
+				<word number="2">speculation</word>
+				<word number="3">watch</word>
+				<word number="4">espionage</word>
+				<word number="5">espionnage</word>
+				<word number="6">autopsy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ocular inspection</word>
+				<word number="2">ocular  demonstration</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sight-seeing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="point of view">
+			<sg number="1">
+				<word number="1">point of view</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gazebo</word>
+				<word number="2">loophole</word>
+				<word number="3">belvedere</word>
+				<word number="4">watchtower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="field of view">
+			<sg number="1">
+				<word number="1">field of view</word>
+			</sg>
+			<sg number="2">
+				<word number="1">theater</word>
+				<word number="2">amphitheater</word>
+				<word number="3">arena</word>
+				<word number="4">vista</word>
+				<word number="5">horizon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commanding view</word>
+				<word number="2">bird's eye view</word>
+			</sg>
+			<sg number="4">
+				<word number="1">periscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="visual organ">
+			<sg number="1">
+				<word number="1">visual organ</word>
+				<word number="2">organ of vision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eye</word>
+			</sg>
+			<sg number="3">
+				<word number="1">naked eye</word>
+				<word number="2">unassisted eye</word>
+			</sg>
+			<sg number="4">
+				<word number="1">retina</word>
+				<word number="2">pupil</word>
+				<word number="3">iris</word>
+				<word number="4">cornea</word>
+				<word number="5">white</word>
+			</sg>
+			<sg number="5">
+				<word number="1">optics</word>
+				<word number="2">orbs</word>
+			</sg>
+			<sg number="6">
+				<word number="1">saucer eyes</word>
+				<word number="2">goggle eyes</word>
+				<word number="3">gooseberry eyes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="short sight">
+			<sg number="1">
+				<word number="1" paraRef="short sight" headRef="462">short sight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clear sight</word>
+				<word number="2">sharp sight</word>
+				<word number="3">quick sight</word>
+				<word number="4">eagle sight</word>
+				<word number="5">piercing sight</word>
+				<word number="6">penetrating sight</word>
+				<word number="7">clear glance</word>
+				<word number="8">sharp glance</word>
+				<word number="9">quick glance</word>
+				<word number="10">eagle glance</word>
+				<word number="11">piercing glance</word>
+				<word number="12">penetrating glance</word>
+				<word number="13">clear eye</word>
+				<word number="14">sharp eye</word>
+				<word number="15">quick eye</word>
+				<word number="16">eagle eye</word>
+				<word number="17">piercing eye</word>
+				<word number="18">penetrating eye</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perspicacity</word>
+				<word number="2">discernment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catopsis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="eagle">
+			<sg number="1">
+				<word number="1">eagle</word>
+				<word number="2">hawk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cat</word>
+				<word number="2">lynx</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Argus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="evil eye">
+			<sg number="1">
+				<word number="1">evil eye</word>
+			</sg>
+			<sg number="2">
+				<word number="1">basilisk</word>
+				<word number="2">cockatrice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="see">
+			<sg number="1">
+				<word number="1">see</word>
+				<word number="2">behold</word>
+				<word number="3">discern</word>
+				<word number="4">perceive</word>
+				<word number="5">have in sight</word>
+				<word number="6">descry</word>
+				<word number="7">sight</word>
+				<word number="8">make out</word>
+				<word number="9">discover</word>
+				<word number="10">distinguish</word>
+				<word number="11">recognize</word>
+				<word number="12">spy</word>
+				<word number="13">espy</word>
+				<word number="14">ken</word>
+			</sg>
+			<sg number="2">
+				<word number="1">get a sight of</word>
+				<word number="2">have a sight of</word>
+				<word number="3">catch a sight of</word>
+				<word number="4">get a glimpse of</word>
+				<word number="5">have a glimpse of</word>
+				<word number="6">catch a glimpse of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">command a view of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">witness</word>
+				<word number="2">contemplate</word>
+				<word number="3">speculate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cast the eyes on</word>
+				<word number="2">set the eyes on</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="spectator" headRef="463">be a spectator</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="be present" headRef="195">look on</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="curiosity" headRef="475">see sights</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="intelligence" headRef="522">see at a glance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="look">
+			<sg number="1">
+				<word number="1">look</word>
+				<word number="2">view</word>
+				<word number="3">eye</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lift up the eyes</word>
+				<word number="2">open one's eye</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look at</word>
+				<word number="2">look on</word>
+				<word number="3">look upon</word>
+				<word number="4">look over</word>
+				<word number="5">look about one</word>
+				<word number="6">look round</word>
+			</sg>
+			<sg number="4">
+				<word number="1">survey</word>
+				<word number="2">scan</word>
+				<word number="3">inspect</word>
+			</sg>
+			<sg number="5">
+				<word number="1">run the eye over</word>
+				<word number="2">run the eye through</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reconnoiter</word>
+				<word number="2">glance round</word>
+				<word number="3">glance on</word>
+				<word number="4">glance  over turn one's looks upon</word>
+				<word number="5">bend one's looks upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">direct the eyes to</word>
+				<word number="2">turn the eyes on</word>
+				<word number="3">cast a glance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="observe">
+			<sg number="1">
+				<word number="1" paraRef="attend" headRef="477">observe</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="care" headRef="479">watch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">see with one's own eyes</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="expect" headRef="531">watch for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">peep</word>
+				<word number="2">peer</word>
+				<word number="3">pry</word>
+				<word number="4">take a peep</word>
+			</sg>
+			<sg number="6">
+				<word number="1">play at bopeep</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="look full in the face">
+			<sg number="1">
+				<word number="1">look full in the face</word>
+				<word number="2">look hard at</word>
+				<word number="3">look  intently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strain one's eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fix the eyes upon</word>
+				<word number="2">rivet the eyes upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stare</word>
+				<word number="2">gaze</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pore over</word>
+				<word number="2">gloat on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">leer</word>
+				<word number="2">ogle</word>
+				<word number="3">glare</word>
+			</sg>
+			<sg number="7">
+				<word number="1">goggle</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cock the eye</word>
+				<word number="2">squint</word>
+				<word number="3">gloat</word>
+				<word number="4">look askance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="seeing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">seeing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">visual</word>
+				<word number="2">ocular</word>
+			</sg>
+			<sg number="3">
+				<word number="1">optic</word>
+				<word number="2">optical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ophthalmic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clear-eyesighted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">clear-eyesighted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eagle-eyed</word>
+				<word number="2">hawk-eyed</word>
+				<word number="3">lynx-eyed</word>
+				<word number="4">keen-eyed</word>
+				<word number="5">Argus-eyed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="visible">
+			<sg number="1">
+				<word number="1" paraRef="visible" headRef="465">visible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="visibly">
+			<sg number="1">
+				<word number="1" paraRef="visibly" headRef="465">visibly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in sight of</word>
+				<word number="2">with one's eyes open     at sight</word>
+				<word number="3">at first sight</word>
+				<word number="4">at a glance</word>
+				<word number="5">at the first blush</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prima facie</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="look">
+			<sg number="1">
+				<word number="1" paraRef="attention" headRef="477">look!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the scales falling from one's eyes">
+			<sg number="1">
+				<word number="1">the scales falling from one's eyes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"an eye like Mars to threaten or command"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"her eyes are homes of silent prayer"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"looking before and after"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"thy rapt soul sitting in thine eyes"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

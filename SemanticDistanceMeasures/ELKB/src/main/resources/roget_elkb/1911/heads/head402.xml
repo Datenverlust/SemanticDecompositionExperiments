@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="402" name="Insulation, Fire extinction" origNum="#388a." class="3" section="3" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="insulation">
+			<sg number="1">
+				<word number="1">insulation</word>
+				<word number="2">incombustible material</word>
+				<word number="3">noncombustible material</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fire retardant</word>
+				<word number="2">flame retardant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fire wall</word>
+				<word number="2">fire door</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="incombustibility">
+			<sg number="1">
+				<word number="1">incombustibility</word>
+				<word number="2" paraRef="" posRef="adj.">incombustibleness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="extincteur">
+			<sg number="1">
+				<word number="1">extincteur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fire annihilator</word>
+			</sg>
+			<sg number="3">
+				<word number="1">amianth</word>
+				<word number="2">amianthus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">earth-flax</word>
+				<word number="2">mountain-flax</word>
+			</sg>
+			<sg number="5">
+				<word number="1">asbestos</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fireman</word>
+				<word number="2">fire fighter</word>
+				<word number="3">fire eater</word>
+				<word number="4">fire department</word>
+				<word number="5">fire brigade</word>
+				<word number="6">engine company</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pumper</word>
+				<word number="2">fire truck</word>
+				<word number="3">hook and ladder</word>
+				<word number="4">aerial ladder</word>
+				<word number="5">bucket</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fire hose</word>
+				<word number="2">fire hydrant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="backfire">
+			<sg number="1">
+				<word number="1">backfire</word>
+				<word number="2">firebreak</word>
+				<word number="3">trench</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aerial water bombardment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="wet blanket">
+			<sg number="1">
+				<word number="1">wet blanket</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fire extinguisher</word>
+				<word number="2">soda and acid extinguisher</word>
+				<word number="3">dry chemical extinguisher</word>
+				<word number="4">CO-two extinguisher</word>
+				<word number="5">carbon tetrachloride</word>
+				<word number="6">foam</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sprinklers</word>
+				<word number="2">automatic sprinkler system</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fire bucket</word>
+				<word number="2">sand bucket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="fire alarm">
+			<sg number="1">
+				<word number="1">fire alarm</word>
+				<word number="2">evacuation alarm</word>
+				<word number="3">fire code</word>
+				<word number="4">fire regulations</word>
+				<word number="5">fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fire inspector</word>
+			</sg>
+			<sg number="3">
+				<word number="1">code violation</word>
+				<word number="2">citation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="go out">
+			<sg number="1">
+				<word number="1">go out</word>
+				<word number="2">die out</word>
+				<word number="3">burn out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fizzle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="extinguish">
+			<sg number="1">
+				<word number="1">extinguish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">damp</word>
+				<word number="2">slack</word>
+				<word number="3">quench</word>
+				<word number="4">smother</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put out</word>
+				<word number="2">stamp out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">douse</word>
+				<word number="2">snuff</word>
+				<word number="3">snuff out</word>
+				<word number="4">blow out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fireproof">
+			<sg number="1">
+				<word number="1">fireproof</word>
+				<word number="2">flameproof</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="incombustible">
+			<sg number="1">
+				<word number="1">incombustible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nonflammable</word>
+				<word number="2">uninflammable</word>
+				<word number="3">unflammable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fireproof</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="fight fire with fire">
+			<sg number="1">
+				<word number="1">fight fire with fire</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

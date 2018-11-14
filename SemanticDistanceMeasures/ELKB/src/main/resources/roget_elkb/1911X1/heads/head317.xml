@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="317" name="Descent" origNum="#306." class="2" section="4" subSection="4" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="descent">
+			<sg number="1">
+				<word number="1">descent</word>
+				<word number="2">descension</word>
+				<word number="3">declension</word>
+				<word number="4">declination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">falling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drop</word>
+				<word number="2">plunge</word>
+				<word number="3">plummet</word>
+				<word number="4">cadence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">subsidence</word>
+				<word number="2">collapse</word>
+				<word number="3">lapse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">downfall</word>
+				<word number="2">tumble</word>
+				<word number="3">slip</word>
+				<word number="4">tilt</word>
+				<word number="5">trip</word>
+				<word number="6">lurch</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cropper</word>
+				<word number="2">culbute</word>
+			</sg>
+			<sg number="8">
+				<word number="1">titubation</word>
+				<word number="2">stumble</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fate of Icarus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="avalanche">
+			<sg number="1">
+				<word number="1">avalanche</word>
+				<word number="2">debacle</word>
+				<word number="3">landslip</word>
+				<word number="4">landslide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="declivity">
+			<sg number="1">
+				<word number="1">declivity</word>
+				<word number="2">dip</word>
+				<word number="3">hill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="rappel">
+			<sg number="1">
+				<word number="1">rappel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="descend">
+			<sg number="1">
+				<word number="1">descend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go down</word>
+				<word number="2">drop down</word>
+				<word number="3">come down</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall</word>
+				<word number="2">gravitate</word>
+				<word number="3">drop</word>
+				<word number="4">slip</word>
+				<word number="5">slide</word>
+				<word number="6">rappel</word>
+				<word number="7">settle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plunge</word>
+				<word number="2">plummet</word>
+				<word number="3">crash</word>
+			</sg>
+			<sg number="5">
+				<word number="1">decline</word>
+				<word number="2">set</word>
+				<word number="3">sink</word>
+				<word number="4">droop</word>
+				<word number="5">come down a peg</word>
+			</sg>
+			<sg number="6">
+				<word number="1">slump</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">collide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dismount">
+			<sg number="1">
+				<word number="1">dismount</word>
+				<word number="2">alight</word>
+				<word number="3">light</word>
+				<word number="4">get down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">swoop</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="stoop" headRef="319">stoop</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fall prostrate</word>
+				<word number="2">precipitate oneself</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="let fall" headRef="319">let fall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tumble">
+			<sg number="1">
+				<word number="1">tumble</word>
+				<word number="2">trip</word>
+				<word number="3">stumble</word>
+				<word number="4">titubate</word>
+				<word number="5">lurch</word>
+				<word number="6">pitch</word>
+				<word number="7">swag</word>
+				<word number="8">topple</word>
+				<word number="9">topple over</word>
+				<word number="10">tumble over</word>
+				<word number="11">topple down</word>
+				<word number="12">tumble down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tilt</word>
+				<word number="2">sprawl</word>
+				<word number="3">plump down</word>
+				<word number="4">come down a cropper</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="descending">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">descending</word>
+			</sg>
+			<sg number="2">
+				<word number="1">descendent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decurrent</word>
+				<word number="2">decursive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">labent</word>
+				<word number="2">deciduous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nodding to its fall</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="downhill">
+			<sg number="1">
+				<word number="1">downhill</word>
+				<word number="2">downwards</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the bottom fell out">
+			<sg number="1">
+				<word number="1">the bottom fell out</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

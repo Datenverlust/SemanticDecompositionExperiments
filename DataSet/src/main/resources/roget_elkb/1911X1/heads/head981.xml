@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="981" name="Probity" origNum="#939." class="8" section="4" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="probity">
+			<sg number="1">
+				<word number="1">probity</word>
+				<word number="2">integrity</word>
+				<word number="3">rectitude</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">uprightness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">honesty</word>
+				<word number="2">faith</word>
+			</sg>
+			<sg number="4">
+				<word number="1">honor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bonne foi</word>
+				<word number="2">good faith</word>
+				<word number="3">bona fides</word>
+			</sg>
+			<sg number="6">
+				<word number="1">purity</word>
+				<word number="2">clean hands</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">innocence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fairness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">fairness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fair play</word>
+				<word number="2">justice</word>
+				<word number="3">equity</word>
+				<word number="4">impartiality</word>
+				<word number="5">principle</word>
+				<word number="6">even-handedness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="constancy">
+			<sg number="1">
+				<word number="1">constancy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">faithfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fidelity</word>
+				<word number="2">loyalty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incorruption</word>
+				<word number="2">incorruptibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="trustworthiness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">trustworthiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">truth</word>
+				<word number="2">candor</word>
+				<word number="3">singleness of heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="veracity" headRef="569">veracity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sense of duty" headRef="967">tender conscience</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="punctilio">
+			<sg number="1">
+				<word number="1">punctilio</word>
+				<word number="2">delicacy</word>
+				<word number="3">nicety</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scrupulosity</word>
+				<word number="2" paraRef="" posRef="adj.">scrupulousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scruple</word>
+			</sg>
+			<sg number="4">
+				<word number="1">point</word>
+				<word number="2">point of honor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">punctuality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dignity">
+			<sg number="1">
+				<word number="1" paraRef="repute" headRef="912">dignity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">respectability</word>
+				<word number="2" paraRef="" posRef="adj.">respectableness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gentilhomme</word>
+				<word number="2">gentleman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">man of honor</word>
+				<word number="2">man of his word</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fidus Achates</word>
+				<word number="2">preux chevalier</word>
+				<word number="3">galantuomo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">truepenny</word>
+				<word number="2">trump</word>
+				<word number="3">brick</word>
+			</sg>
+			<sg number="7">
+				<word number="1">true Briton</word>
+			</sg>
+			<sg number="8">
+				<word number="1">white man *</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="court of honor">
+			<sg number="1">
+				<word number="1">court of honor</word>
+				<word number="2">a fair field and no favor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">argumentum ad verecundiam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="decency">
+			<sg number="1">
+				<word number="1" new="1">decency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="truthfulness">
+			<sg number="1">
+				<word number="1" new="1">truthfulness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be honorable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be honorable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deal honorably</word>
+				<word number="2">deal squarely</word>
+				<word number="3">deal impartially</word>
+				<word number="4">deal fairly</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="veracity" headRef="569">speak the truth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">draw a straight furrow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tell the truth and shame the Devil</word>
+				<word number="2">vitam impendere vero</word>
+			</sg>
+			<sg number="6">
+				<word number="1">show a proper spirit</word>
+				<word number="2">make a point of</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="virtue" headRef="986">do one's duty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="redeem one's pledge">
+			<sg number="1">
+				<word number="1" paraRef="redeem one's pledge" headRef="967">redeem one's pledge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep one's promise</word>
+				<word number="2">be as good as one's promise</word>
+				<word number="3">be as good as one's word</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep faith with</word>
+				<word number="2">not fail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="give and take">
+			<sg number="1">
+				<word number="1">give and take</word>
+				<word number="2">audire alteram partem</word>
+				<word number="3">give the Devil his due</word>
+				<word number="4">put the saddle on the right horse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="redound to one's honor">
+			<sg number="1">
+				<word number="1">redound to one's honor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="upright">
+			<sg number="1">
+				<word number="1">upright</word>
+			</sg>
+			<sg number="2">
+				<word number="1">honest</word>
+				<word number="2">honest as daylight</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="veracious" headRef="569">veracious</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="virtuous" headRef="986">virtuous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">honorable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fair</word>
+				<word number="2">right</word>
+				<word number="3">just</word>
+				<word number="4">equitable</word>
+				<word number="5">impartial</word>
+				<word number="6">evenhanded</word>
+				<word number="7">square</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fair and aboveboard</word>
+				<word number="2">open and aboveboard</word>
+			</sg>
+			<sg number="8">
+				<word number="1">white *</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">truthful</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">worthy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="constant">
+			<sg number="1">
+				<word number="1">constant</word>
+				<word number="2">constant as the northern star</word>
+			</sg>
+			<sg number="2">
+				<word number="1">faithful</word>
+				<word number="2">loyal</word>
+				<word number="3">staunch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">true</word>
+				<word number="2">true blue</word>
+				<word number="3">true to one's colors</word>
+				<word number="4">true to the core</word>
+				<word number="5">true as the needle to the pole</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"marble-constant"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">true-hearted</word>
+				<word number="2">trusty</word>
+				<word number="3">trustworthy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">as good as one's word</word>
+				<word number="2">to be depended on</word>
+				<word number="3">incorruptible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="straightforward">
+			<sg number="1">
+				<word number="1" paraRef="ingenuous" headRef="732">straightforward</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frank</word>
+				<word number="2">candid</word>
+				<word number="3">open-hearted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="conscientious">
+			<sg number="1">
+				<word number="1">conscientious</word>
+				<word number="2">tender-conscienced</word>
+				<word number="3">right-minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high-principled</word>
+				<word number="2">high-minded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scrupulous</word>
+				<word number="2">religious</word>
+				<word number="3">strict</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nice</word>
+				<word number="2">punctilious</word>
+				<word number="3">correct</word>
+				<word number="4">punctual</word>
+			</sg>
+			<sg number="5">
+				<word number="1">respectable</word>
+				<word number="2">reputable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gentlemanlike</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">decent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="inviolable">
+			<sg number="1">
+				<word number="1">inviolable</word>
+				<word number="2">inviolate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unviolated</word>
+				<word number="2">unbroken</word>
+				<word number="3">unbetrayed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unbought</word>
+				<word number="2">unbribed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="innocent">
+			<sg number="1">
+				<word number="1" paraRef="innocent" headRef="988">innocent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pure</word>
+				<word number="2">stainless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unstained</word>
+				<word number="2">untarnished</word>
+				<word number="3">unsullied</word>
+				<word number="4">untainted</word>
+				<word number="5">unperjured</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uncorrupt</word>
+				<word number="2">uncorrupted</word>
+			</sg>
+			<sg number="5">
+				<word number="1">undefiled</word>
+				<word number="2">undepraved</word>
+				<word number="3">undebauched</word>
+			</sg>
+			<sg number="6">
+				<word number="1">integer vitae scelerisque purus</word>
+			</sg>
+			<sg number="7">
+				<word number="1">justus et tenax propositi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="chivalrous">
+			<sg number="1">
+				<word number="1">chivalrous</word>
+				<word number="2">jealous of honor</word>
+				<word number="3">sans peur et sans reproche</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high- spirited</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="supramundane">
+			<sg number="1">
+				<word number="1">supramundane</word>
+				<word number="2">unworldly</word>
+				<word number="3">other-worldly</word>
+				<word number="4">overscrupulous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="honorable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">honorable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bona fide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on the square</word>
+				<word number="2">in good faith</word>
+				<word number="3">honor bright</word>
+				<word number="4">foro conscientiae</word>
+				<word number="5">with clean hands</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a face untaught to feign">
+			<sg number="1">
+				<word number="1">"a face untaught to feign"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bene qui latuit bene vixit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mens sibi conscia recti</word>
+			</sg>
+			<sg number="4">
+				<word number="1">probitas laudatur et alget</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fidelis ad urnam</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"his heart as far from fraud as heaven from earth"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">loyaute m'oblige</word>
+			</sg>
+			<sg number="8">
+				<word number="1">loyaute n'a honte</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"what stronger breastplate than a heart untainted?"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

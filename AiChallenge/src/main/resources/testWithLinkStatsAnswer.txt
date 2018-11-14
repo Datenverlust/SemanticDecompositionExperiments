@@ -1,0 +1,2647 @@
+
+SEMANTIC APPROACH FOR RESOLVING WINOGRAD SCHEMES
+
+Initializing...
+Loading Wordnet into memory...done (3893 msec)
+0.50.161   is2.data.ParametersFloat 121:read ->        read parameters 4000001 not zero 275524
+0.50.164   is2.data.Cluster 113:<init> ->              Read cluster with 0 words 
+0.50.164   is2.lemmatizer.Lemmatizer 192:readModel ->  Loading data finished. 
+0.50.164   is2.lemmatizer.Lemmatizer 194:readModel ->  number of params  4000001
+0.50.164   is2.lemmatizer.Lemmatizer 195:readModel ->  number of classes 89
+0.50.338   is2.data.ParametersFloat 121:read ->        read parameters 4000001 not zero 1321879
+0.50.338   is2.data.Cluster 113:<init> ->              Read cluster with 0 words 
+0.50.339   is2.tag.Lexicon 103:<init> ->               Read lexicon with 0 words 
+0.50.339   is2.tag.Tagger 138:readModel ->             Loading data finished. 
+0.50.343   is2.parser.Parser 188:readModel ->          Reading data started
+0.50.358   is2.data.Cluster 113:<init> ->              Read cluster with 0 words 
+0.50.947   is2.parser.ParametersFloat 101:read ->      read parameters 12000001 not zero 9789656
+0.50.947   is2.parser.Parser 201:readModel ->          parsing -- li size 12000001
+0.50.950   is2.parser.Parser 211:readModel ->          Stacking false
+0.50.950   is2.parser.Extractor 56:initStat ->         mult  (d4) 
+Used parser   class is2.parser.Parser
+Creation date 2013.11.14 01:13:28
+Training data /home/bohnetb/corpora/connl_09_st_eng_train/CoNLL2009-ST-English-train.txt
+Iterations    10 Used sentences 10000000
+Cluster       null
+0.50.951   is2.parser.Parser 240:readModel ->          Reading data finnished
+0.50.952   is2.parser.Extractor 56:initStat ->         mult  (d4) 
+Loading pipeline from D:\semantic-decomposition\Reasoning\WinogradSchema\target\classes\models\CoNLL2009-ST-English-ALL.anna-3.3.srl-4.1.srl.model
+done.
+Reading dataset...done.
+
+Now working on...
+Then Dad figured out how much the man owed the store; to that he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages, and made out his check.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: nsubj Count: 1
+Link: role Count: 2
+Link: hypernym Count: 2
+Link: definition Count: 4
+Link: synonym Count: 7
+Now working on...
+Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:01:07 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: nsubj Count: 1
+Link: role Count: 2
+Link: hypernym Count: 2
+Link: definition Count: 4
+Link: synonym Count: 7
+Now working on...
+Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:01:10 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: nsubj Count: 1
+Link: role Count: 2
+Link: hypernym Count: 2
+Link: definition Count: 4
+Link: synonym Count: 7
+Now working on...
+Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:01:14 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: nsubj Count: 1
+Link: role Count: 2
+Link: hypernym Count: 2
+Link: definition Count: 4
+Link: synonym Count: 7
+Now working on...
+The donkey wished a wart on its hind leg would disappear, and it did.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: amod Count: 1
+Link: syntax: nsubj Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: det Count: 2
+Link: role Count: 10
+Link: synonym Count: 15
+Link: hypernym Count: 27
+Link: definition Count: 194
+Now working on...
+When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe. Some day they might want
+to use it , but really for now, what more could they wish for?
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: other Count: 1
+Link: syntax: amod Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: det Count: 2
+Link: syntax: nsubj Count: 2
+Link: antonym Count: 6
+Link: role Count: 13
+Link: synonym Count: 27
+Link: hypernym Count: 27
+Link: definition Count: 252
+Now working on...
+The Wainwrights treated Mr. Crowley like a prince until he made his will in their favor; then they treated him like dirt. Folks said he died just to be rid of their everlasting nagging.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: other Count: 1
+Link: syntax: amod Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: det Count: 2
+Link: syntax: nsubj Count: 2
+Link: antonym Count: 6
+Link: role Count: 13
+Link: synonym Count: 27
+Link: hypernym Count: 27
+Link: definition Count: 252
+Now working on...
+A number of times Henry had been present at interviews which his father had had with noted detectives who desired his aid in solving perplexing mysteries, and those occasions stood out as red-letter days for him .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: as Count: 1
+Link: syntax: amod Count: 2
+Link: other Count: 3
+Link: syntax: det Count: 3
+Link: syntax: nsubj Count: 3
+Link: antonym Count: 10
+Link: hypernym Count: 104
+Link: synonym Count: 232
+Link: role Count: 1109
+Link: definition Count: 1280
+Now working on...
+What about the time you cut up tulip bulbs in the hamburgers because you thought they were onions?
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: as Count: 1
+Link: syntax: amod Count: 2
+Link: other Count: 3
+Link: syntax: det Count: 3
+Link: syntax: nsubj Count: 3
+Link: antonym Count: 10
+Link: hypernym Count: 104
+Link: synonym Count: 232
+Link: role Count: 1109
+Link: definition Count: 1280
+Now working on...
+No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:01:30 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: as Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: of Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: det Count: 5
+Link: other Count: 6
+Link: syntax: nn Count: 9
+Link: antonym Count: 24
+Link: ner Count: 100
+Link: syntax: nsubj Count: 122
+Link: hypernym Count: 147
+Link: syntax: from Count: 234
+Link: synonym Count: 293
+Link: syntax: amod Count: 329
+Link: role Count: 1276
+Link: definition Count: 2110
+Now working on...
+Equally swoon-worthy is C.K. Dexter Haven, a pallid young dandy holding a jade-handled walking stick, with a poodle asleep at his feet.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: dobj Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: of Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: det Count: 8
+Link: syntax: nn Count: 9
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 38
+Link: other Count: 94
+Link: ner Count: 102
+Link: syntax: nsubj Count: 123
+Link: hypernym Count: 218
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 344
+Link: synonym Count: 464
+Link: role Count: 2733
+Link: definition Count: 3200
+Now working on...
+Lionel is holding captive a scientist, Dr. Vardi, who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send him to steal nuclear material from an army vault.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: dobj Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: of Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: det Count: 8
+Link: syntax: nn Count: 9
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 38
+Link: other Count: 94
+Link: ner Count: 102
+Link: syntax: nsubj Count: 123
+Link: hypernym Count: 218
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 344
+Link: synonym Count: 464
+Link: role Count: 2733
+Link: definition Count: 3200
+Now working on...
+Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry under his wing, and quickly molds him into a drug runner.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: dobj Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: of Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: det Count: 8
+Link: syntax: nn Count: 9
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 38
+Link: other Count: 94
+Link: ner Count: 102
+Link: syntax: nsubj Count: 123
+Link: hypernym Count: 218
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 344
+Link: synonym Count: 464
+Link: role Count: 2733
+Link: definition Count: 3200
+Now working on...
+The Dakota prairie lay so warm and bright under the shining sun that it did not seem possible that it had ever been swept by the winds and snows of that hard winter.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:01:50 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: dobj Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: of Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: det Count: 8
+Link: syntax: nn Count: 9
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 38
+Link: other Count: 94
+Link: ner Count: 102
+Link: syntax: nsubj Count: 123
+Link: hypernym Count: 218
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 344
+Link: synonym Count: 464
+Link: role Count: 2733
+Link: definition Count: 3200
+Now working on...
+It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: dobj Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: det Count: 9
+Link: syntax: nn Count: 9
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 38
+Link: other Count: 94
+Link: ner Count: 102
+Link: syntax: nsubj Count: 124
+Link: syntax: from Count: 234
+Link: hypernym Count: 246
+Link: syntax: amod Count: 345
+Link: synonym Count: 476
+Link: role Count: 2736
+Link: definition Count: 3487
+Now working on...
+The storekeepers stayed in town to run their stores and lived in the rooms behind them .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: dobj Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: det Count: 9
+Link: syntax: nn Count: 9
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 38
+Link: other Count: 94
+Link: ner Count: 102
+Link: syntax: nsubj Count: 124
+Link: syntax: from Count: 234
+Link: hypernym Count: 246
+Link: syntax: amod Count: 345
+Link: synonym Count: 476
+Link: role Count: 2736
+Link: definition Count: 3487
+Now working on...
+Even before they reached town, they could hear a sound like corn popping. Dora asked what it was, and Dad said it was firecrackers.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 124
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2746
+Link: definition Count: 3805
+Now working on...
+All the buttons up the back of Dora's plaid dress were buttoned outside-in. Maude should have thought to button her up; but no, she had left poor little Dora to do the best she could, alone.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:02:04 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 124
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2746
+Link: definition Count: 3805
+Now working on...
+Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 124
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2746
+Link: definition Count: 3805
+Now working on...
+Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 124
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2746
+Link: definition Count: 3805
+Now working on...
+Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: rcmod Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2749
+Link: definition Count: 3808
+Now working on...
+The politicians far away in Washington could not know the settlers so they must make rules to regulate them.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: rcmod Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2749
+Link: definition Count: 3808
+Now working on...
+The politicians far away in Washington could not know the settlers so they must make rules to regulate them .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: rcmod Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2749
+Link: definition Count: 3808
+Now working on...
+Men had the right to keep their sons working for them until they were 21 years of age.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:02:21 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: rcmod Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2749
+Link: definition Count: 3808
+Now working on...
+Since Chester was dependent on Uncle Vernon, he couldn't very well marry without his approval.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: rcmod Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2749
+Link: definition Count: 3808
+Now working on...
+Since Chester was dependent on Uncle Vernon,
+he couldn't very well marry without his approval.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: rcmod Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 10
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 95
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 274
+Link: syntax: amod Count: 345
+Link: synonym Count: 493
+Link: role Count: 2749
+Link: definition Count: 3808
+Now working on...
+I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 12
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2788
+Link: definition Count: 3935
+Now working on...
+Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy,
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 3
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 12
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2788
+Link: definition Count: 3935
+Now working on...
+I sallied out for a bit of food, more to pass the time than because I wanted it .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Mama came over and sat down beside Alice. Gently she stroked her hair and let the child weep.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:02:43 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Mama came over and sat down beside Alice. Gently she stroked her hair and let the child weep.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: and Count: 1
+Link: syntax: poss Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: dobj Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: rcmod Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 9
+Link: syntax: det Count: 13
+Link: syntax: advmod Count: 17
+Link: syntax: with Count: 18
+Link: antonym Count: 41
+Link: other Count: 96
+Link: ner Count: 102
+Link: syntax: nsubj Count: 125
+Link: syntax: from Count: 234
+Link: hypernym Count: 281
+Link: syntax: amod Count: 345
+Link: synonym Count: 495
+Link: role Count: 2792
+Link: definition Count: 3935
+Now working on...
+Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: aux Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 15
+Link: syntax: advmod Count: 18
+Link: syntax: with Count: 18
+Link: antonym Count: 49
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: other Count: 99
+Link: ner Count: 102
+Link: syntax: dobj Count: 124
+Link: syntax: nsubj Count: 126
+Link: syntax: from Count: 234
+Link: hypernym Count: 367
+Link: syntax: amod Count: 376
+Link: synonym Count: 558
+Link: role Count: 2954
+Link: definition Count: 4744
+Now working on...
+Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: aux Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 15
+Link: syntax: advmod Count: 18
+Link: syntax: with Count: 18
+Link: antonym Count: 49
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: other Count: 99
+Link: ner Count: 102
+Link: syntax: dobj Count: 124
+Link: syntax: nsubj Count: 126
+Link: syntax: from Count: 234
+Link: hypernym Count: 367
+Link: syntax: amod Count: 376
+Link: synonym Count: 558
+Link: role Count: 2954
+Link: definition Count: 4744
+Now working on...
+Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them .
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: aux Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 15
+Link: syntax: advmod Count: 18
+Link: syntax: with Count: 18
+Link: antonym Count: 49
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: other Count: 99
+Link: ner Count: 102
+Link: syntax: dobj Count: 124
+Link: syntax: nsubj Count: 126
+Link: syntax: from Count: 234
+Link: hypernym Count: 367
+Link: syntax: amod Count: 376
+Link: synonym Count: 558
+Link: role Count: 2954
+Link: definition Count: 4744
+Now working on...
+Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:08 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: aux Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 15
+Link: syntax: advmod Count: 18
+Link: syntax: with Count: 18
+Link: antonym Count: 49
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: other Count: 99
+Link: ner Count: 102
+Link: syntax: dobj Count: 124
+Link: syntax: nsubj Count: 126
+Link: syntax: from Count: 234
+Link: hypernym Count: 367
+Link: syntax: amod Count: 376
+Link: synonym Count: 558
+Link: role Count: 2954
+Link: definition Count: 4744
+Now working on...
+Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:13 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: cop Count: 1
+Link: syntax: aux Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 15
+Link: syntax: advmod Count: 18
+Link: syntax: with Count: 18
+Link: antonym Count: 49
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: other Count: 99
+Link: ner Count: 102
+Link: syntax: dobj Count: 124
+Link: syntax: nsubj Count: 126
+Link: syntax: from Count: 234
+Link: hypernym Count: 367
+Link: syntax: amod Count: 376
+Link: synonym Count: 558
+Link: role Count: 2954
+Link: definition Count: 4744
+Now working on...
+The signs over the shops'  doors had pictures that indicated what work was done inside. Although more and more people were learning how to read, each artisan still had signs, not wishing to lose a possible patron merely because he happened to be illiterate.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:17 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:34 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:41 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:47 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark heard Steve's feet going down the ladder. The door of the shop closed after him . He ran to look out the window.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:52 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:03:55 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+Of one thing Mark was sure. Harry knew much less than he did.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: cop Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 19
+Link: syntax: rcmod Count: 58
+Link: antonym Count: 70
+Link: syntax: in Count: 74
+Link: other Count: 101
+Link: ner Count: 102
+Link: syntax: nsubj Count: 126
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 428
+Link: synonym Count: 592
+Link: role Count: 3192
+Link: definition Count: 5753
+Now working on...
+So Mark slept. It was daylight when he woke with Warren's hand upon his shoulder.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: and Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: poss Count: 11
+Link: syntax: det Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 20
+Link: syntax: cop Count: 57
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: antonym Count: 77
+Link: other Count: 102
+Link: ner Count: 102
+Link: syntax: nsubj Count: 175
+Link: syntax: dobj Count: 206
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: hypernym Count: 493
+Link: synonym Count: 632
+Link: role Count: 3336
+Link: definition Count: 7041
+Now working on...
+By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: auxpass Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: but Count: 1
+Link: syntax: nsubjpass Count: 1
+Link: syntax: ccomp Count: 2
+Link: syntax: aux Count: 2
+Link: syntax: and Count: 3
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: det Count: 16
+Link: syntax: poss Count: 16
+Link: syntax: with Count: 18
+Link: syntax: advmod Count: 21
+Link: syntax: cop Count: 57
+Link: syntax: rcmod Count: 58
+Link: syntax: in Count: 74
+Link: antonym Count: 83
+Link: ner Count: 103
+Link: syntax: nsubj Count: 176
+Link: syntax: dobj Count: 209
+Link: syntax: from Count: 234
+Link: other Count: 342
+Link: syntax: amod Count: 397
+Link: hypernym Count: 537
+Link: synonym Count: 713
+Link: role Count: 3378
+Link: definition Count: 8047
+Now working on...
+By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: advcl Count: 1
+Link: syntax: at Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: ccomp Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: aux Count: 3
+Link: syntax: of Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: det Count: 16
+Link: syntax: poss Count: 18
+Link: syntax: with Count: 18
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 35
+Link: syntax: cop Count: 57
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 66
+Link: syntax: in Count: 74
+Link: antonym Count: 89
+Link: ner Count: 103
+Link: syntax: nsubj Count: 179
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 526
+Link: other Count: 580
+Link: hypernym Count: 588
+Link: synonym Count: 805
+Link: role Count: 3416
+Link: definition Count: 8864
+Now working on...
+When Tatyana reached the cabin,  her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: dep Count: 1
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: ccomp Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: det Count: 17
+Link: syntax: with Count: 18
+Link: syntax: poss Count: 19
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 36
+Link: syntax: into Count: 51
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 66
+Link: syntax: in Count: 74
+Link: syntax: cop Count: 90
+Link: ner Count: 104
+Link: antonym Count: 105
+Link: syntax: nsubj Count: 182
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 527
+Link: other Count: 659
+Link: hypernym Count: 766
+Link: synonym Count: 1031
+Link: role Count: 3442
+Link: definition Count: 9898
+Now working on...
+When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her , undressing and climbing back into her berth.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 4
+Link: syntax: nn Count: 10
+Link: syntax: det Count: 18
+Link: syntax: with Count: 18
+Link: syntax: poss Count: 20
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 117
+Link: syntax: cop Count: 120
+Link: syntax: nsubj Count: 184
+Link: syntax: from Count: 234
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 527
+Link: hypernym Count: 858
+Link: synonym Count: 1153
+Link: other Count: 1187
+Link: role Count: 3750
+Link: definition Count: 12021
+Now working on...
+When Tatyana reached the cabin,  her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 5
+Link: syntax: nn Count: 10
+Link: syntax: with Count: 18
+Link: syntax: det Count: 19
+Link: syntax: poss Count: 22
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 138
+Link: syntax: cop Count: 148
+Link: syntax: from Count: 234
+Link: syntax: nsubj Count: 241
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 528
+Link: hypernym Count: 933
+Link: synonym Count: 1289
+Link: other Count: 1613
+Link: role Count: 4084
+Link: definition Count: 14065
+Now working on...
+Tatyana managed two guitars and a bag, and still could point out the Freemans: "Isn't it nice that they have come, Mama!"
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 5
+Link: syntax: nn Count: 10
+Link: syntax: with Count: 18
+Link: syntax: det Count: 19
+Link: syntax: poss Count: 22
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 138
+Link: syntax: cop Count: 148
+Link: syntax: from Count: 234
+Link: syntax: nsubj Count: 241
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 528
+Link: hypernym Count: 933
+Link: synonym Count: 1289
+Link: other Count: 1613
+Link: role Count: 4084
+Link: definition Count: 14065
+Now working on...
+Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests.  Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: "There's plenty."
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: on Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 5
+Link: syntax: nn Count: 10
+Link: syntax: with Count: 18
+Link: syntax: det Count: 19
+Link: syntax: poss Count: 22
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 138
+Link: syntax: cop Count: 148
+Link: syntax: from Count: 234
+Link: syntax: nsubj Count: 241
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 528
+Link: hypernym Count: 933
+Link: synonym Count: 1289
+Link: other Count: 1613
+Link: role Count: 4084
+Link: definition Count: 14065
+Now working on...
+The table was piled high with food, and on the floor beside it there were crocks, baskets, and a five-quart pail of milk.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+EXCLUDED ANSWER: floor
+Getting named entities...done.
+Getting roles...done.
+Building graphs...done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: beside Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: on Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 5
+Link: syntax: nn Count: 10
+Link: syntax: with Count: 18
+Link: syntax: det Count: 20
+Link: syntax: poss Count: 22
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 139
+Link: syntax: cop Count: 148
+Link: syntax: from Count: 234
+Link: syntax: nsubj Count: 241
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 528
+Link: hypernym Count: 949
+Link: synonym Count: 1296
+Link: other Count: 1613
+Link: role Count: 4087
+Link: definition Count: 14305
+Now working on...
+Grant worked hard to harvest his beans so he and his family would have enough to eat that winter,  His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:04:30 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: beside Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: on Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 5
+Link: syntax: nn Count: 10
+Link: syntax: with Count: 18
+Link: syntax: det Count: 20
+Link: syntax: poss Count: 22
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 139
+Link: syntax: cop Count: 148
+Link: syntax: from Count: 234
+Link: syntax: nsubj Count: 241
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 528
+Link: hypernym Count: 949
+Link: synonym Count: 1296
+Link: other Count: 1613
+Link: role Count: 4087
+Link: definition Count: 14305
+Now working on...
+Grant worked hard to harvest his beans so he and his family would have enough to eat that winter. His friend Henry let him stack them in his
+barn where they would dry. Later, he and Tatyana would shell them and cook them for their sunday dinners.
+
+Annotating schema...done.
+Finding pron...done.
+Getting syntactic dependencies...done.
+Getting named entities...done.
+Getting roles...done.
+Building graphs...2017-08-14 12:04:36 main  {} ERROR Decomposition:335 - There no definition for concepts: ca1
+done.
+Setting startmarkers...done.
+Initializing markerpassing...done.
+Executing markerpassing...done.
+
+Results
+
+Link: syntax: like Count: 1
+Link: syntax: by Count: 1
+Link: syntax: cc Count: 1
+Link: syntax: at Count: 1
+Link: syntax: beside Count: 1
+Link: syntax: parataxis Count: 1
+Link: syntax: as Count: 1
+Link: syntax: vmod Count: 1
+Link: syntax: mark Count: 1
+Link: syntax: dep Count: 2
+Link: syntax: ccomp Count: 2
+Link: syntax: on Count: 2
+Link: syntax: advcl Count: 2
+Link: syntax: csubj Count: 2
+Link: syntax: nsubjpass Count: 2
+Link: syntax: of Count: 4
+Link: syntax: aux Count: 5
+Link: syntax: nn Count: 10
+Link: syntax: with Count: 18
+Link: syntax: det Count: 20
+Link: syntax: poss Count: 22
+Link: syntax: auxpass Count: 26
+Link: syntax: but Count: 26
+Link: syntax: advmod Count: 37
+Link: syntax: rcmod Count: 58
+Link: syntax: and Count: 67
+Link: syntax: in Count: 74
+Link: syntax: into Count: 101
+Link: ner Count: 104
+Link: antonym Count: 139
+Link: syntax: cop Count: 148
+Link: syntax: from Count: 234
+Link: syntax: nsubj Count: 241
+Link: syntax: amod Count: 397
+Link: syntax: dobj Count: 528
+Link: hypernym Count: 949
+Link: synonym Count: 1296
+Link: other Count: 1613
+Link: role Count: 4087
+Link: definition Count: 14305
+-----------------GLOBAL LINK COUNT FOR Answers: -------------------------------
+
+Link: syntax: like Count: 2
+Link: syntax: by Count: 2
+Link: syntax: cc Count: 2
+Link: syntax: at Count: 2
+Link: syntax: beside Count: 2
+Link: syntax: parataxis Count: 2
+Link: syntax: as Count: 2
+Link: syntax: vmod Count: 2
+Link: syntax: mark Count: 2
+Link: syntax: dep Count: 4
+Link: syntax: ccomp Count: 4
+Link: syntax: on Count: 4
+Link: syntax: advcl Count: 4
+Link: syntax: csubj Count: 4
+Link: syntax: nsubjpass Count: 4
+Link: syntax: of Count: 8
+Link: syntax: aux Count: 10
+Link: syntax: nn Count: 20
+Link: syntax: with Count: 36
+Link: syntax: det Count: 40
+Link: syntax: poss Count: 44
+Link: syntax: auxpass Count: 52
+Link: syntax: but Count: 52
+Link: syntax: advmod Count: 74
+Link: syntax: rcmod Count: 116
+Link: syntax: and Count: 134
+Link: syntax: in Count: 148
+Link: syntax: into Count: 202
+Link: ner Count: 208
+Link: antonym Count: 278
+Link: syntax: cop Count: 296
+Link: syntax: from Count: 468
+Link: syntax: nsubj Count: 482
+Link: syntax: amod Count: 794
+Link: syntax: dobj Count: 1056
+Link: hypernym Count: 1898
+Link: synonym Count: 2592
+Link: other Count: 3226
+Link: role Count: 8174
+Link: definition Count: 28610

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="502" name="Confutation" origNum="#479." class="4" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant 478} confutation">
+			<sg number="1">
+				<word number="1">confutation</word>
+				<word number="2">refutation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">answer</word>
+				<word number="2">complete answer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disproof</word>
+				<word number="2">conviction</word>
+				<word number="3">redargution</word>
+				<word number="4">invalidation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exposure</word>
+				<word number="2">exposition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">clincher</word>
+			</sg>
+			<sg number="6">
+				<word number="1">retort</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reductio ad absurdum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">knock down argument</word>
+				<word number="2">tu quoque argument</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sockdolager *</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="correction">
+			<sg number="1">
+				<word number="1" paraRef="correction" headRef="553">correction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dissuasion" headRef="645">dissuasion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="confute">
+			<sg number="1">
+				<word number="1">confute</word>
+				<word number="2">refute</word>
+				<word number="3">disprove</word>
+				<word number="4" new="1">arc</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parry</word>
+				<word number="2">negative</word>
+				<word number="3">controvert</word>
+				<word number="4">rebut</word>
+				<word number="5">confound</word>
+				<word number="6">disconfirm</word>
+				<word number="7">redargue</word>
+				<word number="8">expose</word>
+				<word number="9">show the fallacy of</word>
+				<word number="10">defeat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">demolish</word>
+				<word number="2" paraRef="destroy" headRef="169">break</word>
+			</sg>
+			<sg number="4">
+				<word number="1">overthrow</word>
+				<word number="2">overturn scatter to the winds</word>
+				<word number="3">explode</word>
+				<word number="4">invalidate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">silence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put to silence</word>
+				<word number="2">reduce to silence</word>
+			</sg>
+			<sg number="7">
+				<word number="1">clinch an argument</word>
+				<word number="2">clinch  a question</word>
+			</sg>
+			<sg number="8">
+				<word number="1">give one a setdown</word>
+				<word number="2">stop the mouth</word>
+				<word number="3">shut up</word>
+			</sg>
+			<sg number="9">
+				<word number="1">have</word>
+				<word number="2">have on the hip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not leave a leg to stand on">
+			<sg number="1">
+				<word number="1">not leave a leg to stand on</word>
+				<word number="2">cut the ground from under one's feet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be confuted">
+			<sg number="1">
+				<word number="1">be confuted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">expose one's weak point</word>
+				<word number="2">show one's weak point</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="counter evidence">
+			<sg number="1">
+				<word number="1" paraRef="counter evidence" headRef="491">counter evidence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="confuting">
+			<sg number="1">
+				<word number="1">confuting</word>
+				<word number="2" paraRef="" posRef="v.">confuted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">capable of refutation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">refutable</word>
+				<word number="2">confutable</word>
+				<word number="3">defeasible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contravene">
+			<sg number="1">
+				<word number="1" paraRef="counter evidence" headRef="491">contravene</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="condemned on one's own showing">
+			<sg number="1">
+				<word number="1">condemned on one's own showing,condemned out of one's own mouth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the argument falls to the ground">
+			<sg number="1">
+				<word number="1">the argument falls to the ground</word>
+				<word number="2">cadit quaestio</word>
+				<word number="3">it does not hold water</word>
+				<word number="4">"suo sibi gladio hunc jugulo"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">his argument was demolished by new evidence</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

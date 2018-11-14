@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="928" name="Enmity" origNum="#889." class="8" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="enmity">
+			<sg number="1">
+				<word number="1">enmity</word>
+				<word number="2">hostility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">unfriendliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="discord" headRef="742">discord</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bitterness</word>
+				<word number="2">rancor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="alienation">
+			<sg number="1">
+				<word number="1">alienation</word>
+				<word number="2">estrangement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dislike" headRef="906">dislike</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hate" headRef="937">hate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="heartburning">
+			<sg number="1">
+				<word number="1">heartburning</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="animosity" headRef="939">animosity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="malevolence" headRef="947">malevolence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inimical">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inimical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep at arm's length</word>
+				<word number="2">hold at arm's length</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be at loggerheads</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="bear malice" headRef="947">bear malice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall out</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="take umbrage" headRef="939">take umbrage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">harden the heart</word>
+				<word number="2">alienate</word>
+				<word number="3">estrange</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not friendly">
+			<sg number="1">
+				<word number="1">not friendly</word>
+				<word number="2" paraRef="indifference" headRef="905">but not hostile</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inimical">
+			<sg number="1">
+				<word number="1">inimical</word>
+				<word number="2">unfriendly</word>
+				<word number="3">hostile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at enmity</word>
+				<word number="2">at variance</word>
+				<word number="3">at daggers drawn,at open war with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">up in arms against</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in bad odor with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="on bad terms">
+			<sg number="1">
+				<word number="1">on bad terms</word>
+				<word number="2">not on speaking terms</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cool</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cold</word>
+				<word number="2">cold hearted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">estranged</word>
+				<word number="2">alienated</word>
+				<word number="3">disaffected</word>
+				<word number="4">irreconcilable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

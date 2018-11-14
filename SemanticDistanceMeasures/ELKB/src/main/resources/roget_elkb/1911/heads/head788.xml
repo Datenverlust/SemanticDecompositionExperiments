@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="788" name="Resignation" origNum="#757." class="7" section="1" subSection="1" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="resignation">
+			<sg number="1">
+				<word number="1">resignation</word>
+				<word number="2">retirement</word>
+				<word number="3">abdication</word>
+				<word number="4">renunciation</word>
+				<word number="5">abjuration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abandonment</word>
+				<word number="2">relinquishment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="resign">
+			<sg number="1">
+				<word number="1">resign</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give up</word>
+				<word number="2">throw up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay down</word>
+				<word number="2">throw up the cards</word>
+				<word number="3">wash one's hands of</word>
+				<word number="4">abjure</word>
+				<word number="5">renounce</word>
+				<word number="6">forego</word>
+				<word number="7">disclaim</word>
+				<word number="8">retract</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deny" headRef="562">deny</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="abrogate">
+			<sg number="1">
+				<word number="1" paraRef="abrogate" headRef="787">abrogate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="relinquish" headRef="653">desert</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="get rid of" headRef="815">get rid of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="abdicate">
+			<sg number="1">
+				<word number="1">abdicate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vacate</word>
+				<word number="2">vacate one's seat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accept the stewardship of the Chiltern Hundreds</word>
+			</sg>
+			<sg number="4">
+				<word number="1">retire</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tender one's resignation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="abdicant">
+			<sg number="1">
+				<word number="1">abdicant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Othello's occupation's gone">
+			<sg number="1">
+				<word number="1">"Othello's occupation's gone"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

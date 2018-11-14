@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="6" name="Extrinsicality" origNum="#6." class="1" section="1" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="extrinsicality">
+			<sg number="1">
+				<word number="1">extrinsicality</word>
+				<word number="2">objectiveness</word>
+				<word number="3">non ego</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="extraneousness" headRef="60">extraneousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accident</word>
+			</sg>
+			<sg number="4">
+				<word number="1">appearance</word>
+				<word number="2" paraRef="phenomenon" headRef="467">phenomenon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="derived from without">
+			<sg number="1">
+				<word number="1">derived from without</word>
+			</sg>
+			<sg number="2">
+				<word number="1">objective</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extrinsic</word>
+				<word number="2">extrinsical</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="foreign" headRef="60">extraneous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">modal</word>
+				<word number="2">adventitious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ascititious</word>
+				<word number="2">adscititious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">incidental</word>
+				<word number="2">accidental</word>
+				<word number="3">nonessential</word>
+			</sg>
+			<sg number="8">
+				<word number="1">contingent</word>
+				<word number="2">fortuitous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="implanted">
+			<sg number="1">
+				<word number="1">implanted</word>
+				<word number="2">ingrafted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inculcated</word>
+				<word number="2">infused</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="outward">
+			<sg number="1">
+				<word number="1">outward</word>
+				<word number="2" paraRef="external" headRef="230">apparent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="extrinsically">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">extrinsically</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

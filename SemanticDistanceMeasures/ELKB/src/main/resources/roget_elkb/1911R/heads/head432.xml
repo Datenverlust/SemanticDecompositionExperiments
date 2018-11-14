@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="432" name="Discord" origNum="#414." class="3" section="3" subSection="2" headGroup="24">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discord">
+			<sg number="1">
+				<word number="1">discord</word>
+				<word number="2">discordance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissonance</word>
+				<word number="2">cacophony</word>
+				<word number="3">want of harmony</word>
+				<word number="4">caterwauling</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="harsh" headRef="428">harshness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="babel">
+			<sg number="1">
+				<word number="1">babel</word>
+				<word number="2">confused sounds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Dutch concert</word>
+				<word number="2">cat's concert</word>
+			</sg>
+			<sg number="3">
+				<word number="1">marrowbones and cleavers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be discordant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be discordant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="harsh" headRef="428">jar</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discordant">
+			<sg number="1">
+				<word number="1">discordant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissonant</word>
+				<word number="2">absonant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">out of tune</word>
+				<word number="2">tuneless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unmusical</word>
+				<word number="2">untunable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unmelodious</word>
+				<word number="2">immelodious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unharmonious</word>
+				<word number="2">inharmonious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">singsong</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cacophonous</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="harsh" headRef="428">harsh</word>
+			</sg>
+			<sg number="10">
+				<word number="1">jarring</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

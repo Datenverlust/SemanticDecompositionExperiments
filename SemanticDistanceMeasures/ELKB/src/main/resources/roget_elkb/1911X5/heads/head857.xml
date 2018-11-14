@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="857" name="Parsimony" origNum="#819." class="7" section="4" subSection="4" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="parsimony">
+			<sg number="1">
+				<word number="1">parsimony</word>
+				<word number="2">parcity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parsimoniousness</word>
+				<word number="2" paraRef="" posRef="adj.">stinginess</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">illiberality</word>
+				<word number="2">tenacity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="avarice">
+			<sg number="1">
+				<word number="1">avarice</word>
+				<word number="2" paraRef="greed" headRef="855">greed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="miser">
+			<sg number="1">
+				<word number="1">miser</word>
+				<word number="2">niggard</word>
+				<word number="3">churl</word>
+				<word number="4">screw</word>
+				<word number="5">skinflint</word>
+				<word number="6">crib</word>
+				<word number="7">codger</word>
+				<word number="8">muckworm</word>
+				<word number="9">scrimp</word>
+				<word number="10">lickpenny</word>
+				<word number="11">hunks</word>
+				<word number="12">curmudgeon</word>
+				<word number="13">Harpagon</word>
+				<word number="14">harpy</word>
+				<word number="15">extortioner</word>
+				<word number="16">Jew</word>
+				<word number="17">usurer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Hessian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pinch fist</word>
+				<word number="2">pinch penny</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be parsimonious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be parsimonious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grudge</word>
+				<word number="2">begrudge</word>
+				<word number="3">stint</word>
+				<word number="4">pinch</word>
+				<word number="5">gripe</word>
+				<word number="6">screw</word>
+				<word number="7">dole out</word>
+				<word number="8">hold back</word>
+				<word number="9">withhold</word>
+				<word number="10">starve</word>
+				<word number="11">famish</word>
+				<word number="12">live upon nothing</word>
+				<word number="13">skin a flint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="drive a bargain">
+			<sg number="1">
+				<word number="1">drive a bargain</word>
+				<word number="2">drive a hard bargain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cheapen</word>
+				<word number="2">beat down</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stop one hole in a sieve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have an itching palm</word>
+				<word number="2">grasp</word>
+				<word number="3">grab</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="parsimonious">
+			<sg number="1">
+				<word number="1">parsimonious</word>
+				<word number="2">penurious</word>
+				<word number="3">stingy</word>
+				<word number="4">miserly</word>
+				<word number="5">mean</word>
+				<word number="6">shabby</word>
+				<word number="7">peddling</word>
+				<word number="8">scrubby</word>
+				<word number="9">penny wise</word>
+				<word number="10">near</word>
+				<word number="11">niggardly</word>
+				<word number="12">close</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fast handed</word>
+				<word number="2">close handed</word>
+				<word number="3">strait handed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">close fisted</word>
+				<word number="2">hard fisted</word>
+				<word number="3">tight fisted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tight</word>
+				<word number="2">sparing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grudging</word>
+				<word number="2" paraRef="" posRef="v.">griping</word>
+			</sg>
+			<sg number="7">
+				<word number="1">illiberal</word>
+				<word number="2">ungenerous</word>
+				<word number="3">churlish</word>
+				<word number="4">hidebound</word>
+				<word number="5">sordid</word>
+				<word number="6">mercenary</word>
+				<word number="7">venal</word>
+				<word number="8">covetous</word>
+				<word number="9">usurious</word>
+				<word number="10">avaricious</word>
+				<word number="11">greedy</word>
+				<word number="12">extortionate</word>
+				<word number="13">rapacious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with a sparing hand">
+			<sg number="1">
+				<word number="1">with a sparing hand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="desunt inopioe multa avaritiae omnia">
+			<sg number="1">
+				<word number="1">desunt inopioe multa avaritiae omnia</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"hoards after hoards his rising raptures fill"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"the unsunn'd heaps of miser's treasures"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

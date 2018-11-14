@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="731" name="Cunning" origNum="#702." class="6" section="3" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="cunning">
+			<sg number="1">
+				<word number="1">cunning</word>
+				<word number="2">craft</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cunningness</word>
+				<word number="2" paraRef="" posRef="adj.">craftiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subtlety</word>
+				<word number="2">artificiality</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">maneuvering</word>
+			</sg>
+			<sg number="5">
+				<word number="1">temporization</word>
+			</sg>
+			<sg number="6">
+				<word number="1">circumvention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chicane">
+			<sg number="1">
+				<word number="1">chicane</word>
+				<word number="2">chicanery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharp practice</word>
+				<word number="2">knavery</word>
+				<word number="3">jugglery</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="concealment" headRef="554">concealment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guile</word>
+				<word number="2">doubling</word>
+				<word number="3" paraRef="falsehood" headRef="570">duplicity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">foul play</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="diplomacy">
+			<sg number="1">
+				<word number="1">diplomacy</word>
+				<word number="2">politics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Machiavelism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jobbery</word>
+				<word number="2">backstairs influence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="art">
+			<sg number="1">
+				<word number="1">art</word>
+				<word number="2">artifice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">device</word>
+				<word number="2">machination</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="plan" headRef="655">plot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maneuver</word>
+				<word number="2">stratagem</word>
+				<word number="3">dodge</word>
+				<word number="4">sidestep</word>
+				<word number="5">artful dodge</word>
+				<word number="6">wile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trick</word>
+				<word number="2" paraRef="deception" headRef="571">trickery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ruse</word>
+				<word number="2">ruse de guerre</word>
+			</sg>
+			<sg number="7">
+				<word number="1">finesse</word>
+				<word number="2">side blow</word>
+				<word number="3">thin end of the wedge</word>
+				<word number="4">shift</word>
+				<word number="5">go by</word>
+				<word number="6">subterfuge</word>
+				<word number="7">evasion</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="untruth" headRef="572">white lie</word>
+			</sg>
+			<sg number="9">
+				<word number="1">juggle</word>
+				<word number="2">tour de force</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tricks of the trade</word>
+				<word number="2">tricks upon travelers</word>
+			</sg>
+			<sg number="11">
+				<word number="1">espieglerie</word>
+			</sg>
+			<sg number="12">
+				<word number="1">net</word>
+				<word number="2" paraRef="trap" headRef="571">trap</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">malik</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">ecolabel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Ulysses">
+			<sg number="1">
+				<word number="1">Ulysses</word>
+				<word number="2">Machiavel</word>
+				<word number="3">sly boots</word>
+				<word number="4">fox</word>
+				<word number="5">reynard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Scotchman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Jew</word>
+				<word number="2">Yankee</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intriguer</word>
+				<word number="2">intrigant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">floater</word>
+				<word number="2">Indian giver</word>
+				<word number="3">keener</word>
+				<word number="4">repeater</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be cunning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be cunning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have cut one's eyeteeth</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="plan" headRef="655">contrive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">live by one's wits</word>
+			</sg>
+			<sg number="5">
+				<word number="1">maneuver</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intrigue</word>
+				<word number="2">gerrymander</word>
+				<word number="3">finesse</word>
+				<word number="4">double</word>
+				<word number="5">temporize</word>
+				<word number="6">stoop to conquer</word>
+				<word number="7">reculer pour mieux sauter</word>
+				<word number="8">circumvent</word>
+				<word number="9">steal a march upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="overreach" headRef="571">overreach</word>
+			</sg>
+			<sg number="8">
+				<word number="1">throw off one's guard</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="surprise" headRef="532">surprise</word>
+			</sg>
+			<sg number="10">
+				<word number="1">snatch a verdict</word>
+			</sg>
+			<sg number="11">
+				<word number="1">waylay</word>
+				<word number="2">undermine</word>
+				<word number="3">introduce the thin end of the wedge</word>
+			</sg>
+			<sg number="12">
+				<word number="1">play a deep game</word>
+				<word number="2">play tricks with</word>
+			</sg>
+			<sg number="13">
+				<word number="1">ambiguas in vulgum spargere voces</word>
+			</sg>
+			<sg number="14">
+				<word number="1">flatter</word>
+				<word number="2">make things pleasant</word>
+			</sg>
+			<sg number="15">
+				<word number="1">have an ax to grind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dodge">
+			<sg number="1">
+				<word number="1">dodge</word>
+				<word number="2">sidestep</word>
+				<word number="3">bob and weave</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cunning">
+			<sg number="1">
+				<word number="1">cunning</word>
+				<word number="2">crafty</word>
+				<word number="3">artful</word>
+				<word number="4" new="1">colossal</word>
+				<word number="5" new="1">abortive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="skillful" headRef="727">skillful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">subtle</word>
+				<word number="2">feline</word>
+				<word number="3">vulpine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cunning as a fox</word>
+				<word number="2">cunning as a serpent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deep</word>
+				<word number="2">deep laid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">profound</word>
+			</sg>
+			<sg number="7">
+				<word number="1">designing</word>
+				<word number="2">contriving</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="v.">intriguing</word>
+			</sg>
+			<sg number="9">
+				<word number="1">strategic</word>
+				<word number="2">diplomatic</word>
+				<word number="3">politic</word>
+				<word number="4">Machiavelian</word>
+				<word number="5">timeserving</word>
+			</sg>
+			<sg number="10">
+				<word number="1">artificial</word>
+			</sg>
+			<sg number="11">
+				<word number="1">tricky</word>
+				<word number="2">tricksy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">wily</word>
+				<word number="2">sly</word>
+				<word number="3">slim</word>
+				<word number="4">insidious</word>
+				<word number="5">stealthy</word>
+				<word number="6" new="1">imperfect</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="hidden" headRef="554">underhand</word>
+			</sg>
+			<sg number="14">
+				<word number="1">subdolous</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="deceitful" headRef="571">deceitful</word>
+			</sg>
+			<sg number="16">
+				<word number="1">slippery as an eel</word>
+				<word number="2" paraRef="evasive" headRef="652">evasive</word>
+			</sg>
+			<sg number="17">
+				<word number="1">crooked</word>
+			</sg>
+			<sg number="18">
+				<word number="1">arch</word>
+				<word number="2">pawky</word>
+				<word number="3">shrewd</word>
+				<word number="4">acute</word>
+			</sg>
+			<sg number="19">
+				<word number="1">sharp</word>
+				<word number="2">sharp as a tack</word>
+				<word number="3">sharp as a needle!</word>
+			</sg>
+			<sg number="20">
+				<word number="1">canny</word>
+				<word number="2">astute</word>
+				<word number="3">leery</word>
+				<word number="4">knowing</word>
+				<word number="5">up to snuff</word>
+				<word number="6">too clever by half</word>
+				<word number="7">not to be caught with chaff</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">supervising</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">enjoyable</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">algal</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">sheltered</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tactful">
+			<sg number="1">
+				<word number="1">tactful</word>
+				<word number="2">diplomatic</word>
+				<word number="3">politic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="polite" headRef="933">polite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="cunningly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">cunningly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slyly</word>
+				<word number="2">slily</word>
+				<word number="3">on the sly</word>
+				<word number="4">by a side wind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="diamond cut diamond">
+			<sg number="1">
+				<word number="1">diamond cut diamond</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a' bis ou a blanc</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fin contre fin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"something is rotten in the state of Denmark"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

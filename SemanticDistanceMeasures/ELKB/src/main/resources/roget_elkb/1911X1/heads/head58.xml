@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="58" name="Exclusion" origNum="#55." class="1" section="3" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="exclusion">
+			<sg number="1">
+				<word number="1">exclusion</word>
+				<word number="2">nonadmission</word>
+				<word number="3">omission</word>
+				<word number="4">exception</word>
+				<word number="5">rejection</word>
+				<word number="6">repudiation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="seclusion" headRef="932">exile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noninclusion</word>
+				<word number="2">preclusion</word>
+				<word number="3">prohibition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="separation">
+			<sg number="1">
+				<word number="1">separation</word>
+				<word number="2">segregation</word>
+				<word number="3">seposition</word>
+				<word number="4">elimination</word>
+				<word number="5">expulsion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cofferdam</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be excluded from      exclude">
+			<sg number="1">
+				<word number="1">be excluded from      exclude</word>
+				<word number="2">bar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leave out</word>
+				<word number="2">shut out</word>
+				<word number="3">bar out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reject</word>
+				<word number="2">repudiate</word>
+				<word number="3">blackball</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lay apart</word>
+				<word number="2">put apart</word>
+				<word number="3">set apart</word>
+				<word number="4">lay aside</word>
+				<word number="5">put aside</word>
+			</sg>
+			<sg number="5">
+				<word number="1">relegate</word>
+				<word number="2">segregate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">throw overboard</word>
+			</sg>
+			<sg number="7">
+				<word number="1">strike off</word>
+				<word number="2">strike out</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="neglect" headRef="480">neglect</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="secluded" headRef="932">banish</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="disjoin" headRef="47">separate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pass over">
+			<sg number="1">
+				<word number="1">pass over</word>
+				<word number="2">omit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">garble</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eliminate</word>
+				<word number="2">weed</word>
+				<word number="3">winnow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="excluding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">excluding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exclusive</word>
+				<word number="2" paraRef="" posRef="v.">excluded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unrecounted</word>
+				<word number="2">not included in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inadmissible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="exclusive of">
+			<sg number="1">
+				<word number="1">exclusive of</word>
+				<word number="2">barring</word>
+			</sg>
+			<sg number="2">
+				<word number="1">except</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with the exception of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">save</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bating</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

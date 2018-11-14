@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="348" name="Water" origNum="#337." class="3" section="2" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="water">
+			<sg number="1">
+				<word number="1">water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">serum</word>
+				<word number="2">serosity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lymph</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rheum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diluent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">agua</word>
+				<word number="2">aqua</word>
+				<word number="3">pani</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dilution">
+			<sg number="1">
+				<word number="1">dilution</word>
+				<word number="2">maceration</word>
+				<word number="3">lotion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">washing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immersion</word>
+				<word number="2">humectation</word>
+				<word number="3">infiltration</word>
+				<word number="4">spargefaction</word>
+				<word number="5">affusion</word>
+				<word number="6">irrigation</word>
+				<word number="7">douche</word>
+				<word number="8">balneation</word>
+				<word number="9">bath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="deluge">
+			<sg number="1">
+				<word number="1" paraRef="water in motion" headRef="359">deluge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high water</word>
+				<word number="2">flood tide</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be watery">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be watery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reek</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="add water">
+			<sg number="1">
+				<word number="1">add water</word>
+				<word number="2">water</word>
+				<word number="3">wet</word>
+				<word number="4" new="1">reward</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="moisten" headRef="350">moisten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dilute</word>
+				<word number="2">dip</word>
+				<word number="3">immerse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">merge</word>
+			</sg>
+			<sg number="5">
+				<word number="1">immerge</word>
+				<word number="2">submerge</word>
+			</sg>
+			<sg number="6">
+				<word number="1">plunge</word>
+				<word number="2">souse</word>
+				<word number="3">duck</word>
+				<word number="4">drown</word>
+			</sg>
+			<sg number="7">
+				<word number="1">soak</word>
+				<word number="2">steep</word>
+				<word number="3">macerate</word>
+				<word number="4">pickle</word>
+				<word number="5">wash</word>
+				<word number="6">sprinkle</word>
+				<word number="7">lave</word>
+				<word number="8">bathe</word>
+				<word number="9">affuse</word>
+				<word number="10">splash</word>
+				<word number="11">swash</word>
+				<word number="12">douse</word>
+				<word number="13">drench</word>
+				<word number="14" new="1">tie</word>
+				<word number="15" new="1">snooker</word>
+				<word number="16" new="1">namedrop</word>
+				<word number="17" new="1">style</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dabble</word>
+				<word number="2">slop</word>
+				<word number="3">slobber</word>
+				<word number="4">irrigate</word>
+				<word number="5">inundate</word>
+				<word number="6">deluge</word>
+			</sg>
+			<sg number="9">
+				<word number="1">syringe</word>
+				<word number="2">inject</word>
+				<word number="3">gargle</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">graft</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="watery">
+			<sg number="1">
+				<word number="1">watery</word>
+				<word number="2">aqueous</word>
+				<word number="3">aquatic</word>
+				<word number="4">hydrous</word>
+				<word number="5">lymphatic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">balneal</word>
+				<word number="2">diluent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">drenching</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">diluted</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weak</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="moist" headRef="350">wet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the waters are out">
+			<sg number="1">
+				<word number="1">the waters are out</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

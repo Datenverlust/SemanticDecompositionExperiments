@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="216" name="Lowness" origNum="#207." class="2" section="2" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lowness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">lowness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">debasement</word>
+				<word number="2">depression</word>
+				<word number="3" paraRef="horizontal" headRef="222">prostration</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="concave" headRef="262">depression</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="molehill">
+			<sg number="1">
+				<word number="1">molehill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lowlands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">basement floor</word>
+				<word number="2">ground floor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rez de chaussee</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cellar</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hold</word>
+				<word number="2">bilge</word>
+			</sg>
+			<sg number="7">
+				<word number="1">feet</word>
+				<word number="2">heels</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="low water">
+			<sg number="1">
+				<word number="1">low water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">low tide</word>
+				<word number="2">ebb tide</word>
+				<word number="3">neap tide</word>
+				<word number="4">spring tide</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be low">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be low</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lie low</word>
+				<word number="2">lie flat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">underlie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crouch</word>
+				<word number="2">slouch</word>
+				<word number="3">wallow</word>
+				<word number="4">grovel</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="depress" headRef="319">lower</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="low">
+			<sg number="1">
+				<word number="1">low</word>
+				<word number="2">neap</word>
+				<word number="3">debased</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nether</word>
+				<word number="2">nether most</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flat</word>
+				<word number="2">level with the ground</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">lying low</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crouched</word>
+				<word number="2">subjacent</word>
+				<word number="3">squat</word>
+				<word number="4" paraRef="horizontal" headRef="222">prostrate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under">
+			<sg number="1">
+				<word number="1">under</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beneath</word>
+				<word number="2">underneath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">below</word>
+			</sg>
+			<sg number="4">
+				<word number="1">downwards</word>
+			</sg>
+			<sg number="5">
+				<word number="1">adown</word>
+				<word number="2">at the foot of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">under foot</word>
+				<word number="2">under ground</word>
+			</sg>
+			<sg number="7">
+				<word number="1">down stairs</word>
+				<word number="2">below stairs</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at a low ebb</word>
+			</sg>
+			<sg number="9">
+				<word number="1">below par</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

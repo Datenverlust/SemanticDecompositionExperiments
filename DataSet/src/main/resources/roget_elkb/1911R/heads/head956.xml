@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="956" name="Condolence" origNum="#915." class="8" section="3" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="condolence">
+			<sg number="1">
+				<word number="1">condolence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lamentation" headRef="877">lamentation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sympathy</word>
+				<word number="2">consolation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="condole with">
+			<sg number="1">
+				<word number="1">condole with</word>
+				<word number="2">console</word>
+				<word number="3">sympathize express pity</word>
+				<word number="4">testify pity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">afford consolation</word>
+				<word number="2">supply consolation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lament" headRef="877">lament</word>
+			</sg>
+			<sg number="4">
+				<word number="1">express sympathy for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">feel grief in common with</word>
+				<word number="2">feel sorrow in common with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">share one's sorrow</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

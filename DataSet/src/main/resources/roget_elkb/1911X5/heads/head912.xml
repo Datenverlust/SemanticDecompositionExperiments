@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="912" name="Repute" origNum="#873." class="8" section="2" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="distinction">
+			<sg number="1">
+				<word number="1">distinction</word>
+				<word number="2">mark</word>
+				<word number="3">name</word>
+				<word number="4">figure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repute</word>
+				<word number="2">reputation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">good repute</word>
+				<word number="2">high repute</word>
+			</sg>
+			<sg number="4">
+				<word number="1">note</word>
+				<word number="2">notability</word>
+				<word number="3">notoriety</word>
+				<word number="4">eclat</word>
+				<word number="5">"the bubble reputation"</word>
+				<word number="6">vogue</word>
+				<word number="7">celebrity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fame</word>
+				<word number="2">famousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">renown</word>
+			</sg>
+			<sg number="7">
+				<word number="1">popularity</word>
+				<word number="2">aura popularis</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="approbation" headRef="973">approbation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">credit</word>
+				<word number="2">succes d'estime</word>
+				<word number="3">prestige</word>
+				<word number="4">talk of the town</word>
+			</sg>
+			<sg number="10">
+				<word number="1">name to conjure with</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">fortune</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">stature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="glory">
+			<sg number="1">
+				<word number="1">glory</word>
+				<word number="2">honor</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="light" headRef="438">luster</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">illustriousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="account">
+			<sg number="1">
+				<word number="1">account</word>
+				<word number="2">regard</word>
+				<word number="3">respect</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">reputableness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="probity" headRef="981">respectability</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good name</word>
+				<word number="2">good  report</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fair name</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dignity">
+			<sg number="1">
+				<word number="1">dignity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">stateliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solemnity</word>
+				<word number="2">grandeur</word>
+				<word number="3">splendor</word>
+				<word number="4">nobility</word>
+				<word number="5">majesty</word>
+				<word number="6">sublimity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="rank">
+			<sg number="1">
+				<word number="1">rank</word>
+				<word number="2">standing</word>
+				<word number="3">brevet rank</word>
+				<word number="4">precedence</word>
+				<word number="5">pas</word>
+				<word number="6">station</word>
+				<word number="7">place</word>
+				<word number="8">status</word>
+			</sg>
+			<sg number="2">
+				<word number="1">position</word>
+				<word number="2">position in society</word>
+			</sg>
+			<sg number="3">
+				<word number="1">order</word>
+				<word number="2">degree</word>
+				<word number="3">baccalaureate</word>
+				<word number="4">locus standi</word>
+				<word number="5">caste</word>
+				<word number="6">condition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="greatness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">greatness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eminence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="height" headRef="215">height</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="importance" headRef="671">importance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">preeminence</word>
+				<word number="2">supereminence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">high mightiness</word>
+				<word number="2">primacy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">top of the ladder</word>
+				<word number="2">top of the tree</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="elevation">
+			<sg number="1">
+				<word number="1">elevation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ascent" headRef="316">ascent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">superaltation</word>
+				<word number="2">exaltation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dignification</word>
+				<word number="2">aggrandizement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="dedication">
+			<sg number="1">
+				<word number="1">dedication</word>
+				<word number="2">consecration</word>
+				<word number="3">enthronement</word>
+				<word number="4">canonization</word>
+				<word number="5">celebration</word>
+				<word number="6">enshrinement</word>
+				<word number="7">glorification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="hero">
+			<sg number="1">
+				<word number="1">hero</word>
+				<word number="2">man of mark</word>
+				<word number="3">great card</word>
+				<word number="4">celebrity</word>
+				<word number="5">worthy</word>
+				<word number="6">lion</word>
+				<word number="7">rara avis</word>
+				<word number="8">notability</word>
+				<word number="9">somebody</word>
+			</sg>
+			<sg number="2">
+				<word number="1">classman</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="nobleman" headRef="914">man of rank</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pillar of the state</word>
+				<word number="2">pillar of the church</word>
+				<word number="3">pillar of the community</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="chief">
+			<sg number="1">
+				<word number="1" paraRef="master" headRef="776">chief</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="proficient" headRef="729">first fiddle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cynosure</word>
+				<word number="2">mirror</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flower</word>
+				<word number="2">pink</word>
+				<word number="3">pearl</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="perfection" headRef="679">paragon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">choice and master spirits of the age</word>
+			</sg>
+			<sg number="7">
+				<word number="1">elite</word>
+			</sg>
+			<sg number="8">
+				<word number="1">star</word>
+				<word number="2">sun</word>
+				<word number="3">constellation</word>
+				<word number="4">galaxy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="ornament">
+			<sg number="1">
+				<word number="1">ornament</word>
+				<word number="2">honor</word>
+				<word number="3">feather in one's cap</word>
+				<word number="4">halo</word>
+				<word number="5">aureole</word>
+				<word number="6">nimbus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">halo of glory</word>
+				<word number="2">blaze of glory</word>
+				<word number="3">blushing honors</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="trophy" headRef="762">laurels</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="memory">
+			<sg number="1">
+				<word number="1">memory</word>
+				<word number="2">posthumous fame</word>
+				<word number="3">niche in the temple of fame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immortality</word>
+				<word number="2">immortal name</word>
+			</sg>
+			<sg number="3">
+				<word number="1">magni nominis umbra</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be conscious of glory">
+			<sg number="1">
+				<word number="1">be conscious of glory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pride" headRef="917">be proud of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="boast" headRef="923">exult</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vanity" headRef="919">be vain of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be distinguished">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be distinguished</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="light" headRef="438">shine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shine forth</word>
+				<word number="2">figure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cut a figure</word>
+				<word number="2">make a dash</word>
+				<word number="3">make a splash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rival">
+			<sg number="1">
+				<word number="1">rival</word>
+				<word number="2">surpass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outshine</word>
+				<word number="2">outrival</word>
+				<word number="3">outvie</word>
+				<word number="4">outjump</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emulate</word>
+				<word number="2">eclipse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">throw into the shade</word>
+				<word number="2">cast into the shade</word>
+			</sg>
+			<sg number="5">
+				<word number="1">overshadow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="live">
+			<sg number="1">
+				<word number="1">live</word>
+				<word number="2">flourish</word>
+				<word number="3">glitter</word>
+				<word number="4">flaunt</word>
+				<word number="5">gain honor</word>
+				<word number="6" paraRef="" posRef="n.">acquire honor</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="of importance" headRef="671">play first fiddle</word>
+				<word number="2">bear the palm</word>
+				<word number="3">bear the bell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lead the way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take precedence</word>
+				<word number="2">take the wall of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gain laurels</word>
+				<word number="2">win laurels</word>
+				<word number="3">gain spurs</word>
+				<word number="4" paraRef="approbation" headRef="973">gain golden opinions</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take one's degree</word>
+				<word number="2">pass one's examination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="make a noise">
+			<sg number="1">
+				<word number="1">make a noise</word>
+				<word number="2">make  some noise</word>
+				<word number="3">make a noise in the world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leave one's mark</word>
+				<word number="2">exalt one's horn</word>
+				<word number="3">blow one's horn</word>
+				<word number="4">star it</word>
+				<word number="5">have a run</word>
+				<word number="6">be run after</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come into vogue</word>
+				<word number="2">come to the front</word>
+			</sg>
+			<sg number="4">
+				<word number="1">raise one's head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="enthrone">
+			<sg number="1">
+				<word number="1">enthrone</word>
+				<word number="2">signalize</word>
+				<word number="3">immortalize</word>
+				<word number="4">deify</word>
+				<word number="5">exalt to the skies</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hand one's name down to posterity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="consecrate">
+			<sg number="1">
+				<word number="1">consecrate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dedicate to</word>
+				<word number="2">devote to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enshrine</word>
+				<word number="2">inscribe</word>
+				<word number="3">blazon</word>
+				<word number="4">lionize</word>
+				<word number="5">blow the trumpet</word>
+				<word number="6">crown with laurel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="confer honor on">
+			<sg number="1">
+				<word number="1">confer honor on</word>
+				<word number="2" paraRef="" posRef="v.">reflect honor on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shed a luster on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">redound to one's honor</word>
+				<word number="2">ennoble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="give honor to">
+			<sg number="1">
+				<word number="1">give honor to</word>
+				<word number="2">do honor to</word>
+				<word number="3">pay honor to</word>
+				<word number="4">render honor to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">honor</word>
+				<word number="2">accredit</word>
+				<word number="3">pay regard to</word>
+				<word number="4">dignify</word>
+				<word number="5">glorify</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="approve" headRef="973">sing praises to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lock up to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exalt</word>
+				<word number="2">aggrandize</word>
+				<word number="3">elevate</word>
+				<word number="4">nobilitate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="distinguished">
+			<sg number="1">
+				<word number="1">distinguished</word>
+				<word number="2">distingue</word>
+				<word number="3">noted</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">of note</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">honored</word>
+			</sg>
+			<sg number="4">
+				<word number="1">popular</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fashionable" headRef="891">fashionable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in good odor in">
+			<sg number="1">
+				<word number="1">in good odor in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">favor</word>
+				<word number="2">in high favor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reputable</word>
+				<word number="2">respectable</word>
+				<word number="3">creditable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="remarkable">
+			<sg number="1">
+				<word number="1" paraRef="important" headRef="671">remarkable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">notable</word>
+				<word number="2">notorious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">celebrated</word>
+				<word number="2">renowned</word>
+				<word number="3">ion every one's mouth</word>
+				<word number="4">talked of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">famous</word>
+				<word number="2">famed</word>
+				<word number="3" new="1">legendary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">far-famed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conspicuous</word>
+				<word number="2">to the front</word>
+			</sg>
+			<sg number="7">
+				<word number="1">foremost</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in the front rank</word>
+				<word number="2">in the ascendant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="imperishable">
+			<sg number="1">
+				<word number="1">imperishable</word>
+				<word number="2">deathless</word>
+				<word number="3">immortal</word>
+				<word number="4">never fading</word>
+				<word number="5">aere perennius</word>
+				<word number="6" new="1">timeless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">time honored</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="illustrious">
+			<sg number="1">
+				<word number="1">illustrious</word>
+				<word number="2">glorious</word>
+				<word number="3">splendid</word>
+				<word number="4">brilliant</word>
+				<word number="5">radiant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bright" headRef="438">bright</word>
+			</sg>
+			<sg number="3">
+				<word number="1">full-blown</word>
+			</sg>
+			<sg number="4">
+				<word number="1">honorific</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="eminent">
+			<sg number="1">
+				<word number="1">eminent</word>
+				<word number="2">prominent</word>
+				<word number="3" new="1">leading</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="high" headRef="215">high</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the zenith</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at the head of</word>
+				<word number="2">at the top of the tree</word>
+			</sg>
+			<sg number="5">
+				<word number="1">peerless</word>
+				<word number="2">of the first water</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="superior" headRef="35">superior</word>
+			</sg>
+			<sg number="7">
+				<word number="1">supereminent</word>
+				<word number="2">preeminent</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">esteemed</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">reputed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="great">
+			<sg number="1">
+				<word number="1">great</word>
+				<word number="2">dignified</word>
+				<word number="3">proud</word>
+				<word number="4">noble</word>
+				<word number="5">honorable</word>
+				<word number="6">worshipful</word>
+				<word number="7">lordly</word>
+				<word number="8">grand</word>
+				<word number="9">stately</word>
+				<word number="10">august</word>
+				<word number="11">princely</word>
+				<word number="12" new="1">grandiose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="imposing">
+			<sg number="1">
+				<word number="1">imposing</word>
+				<word number="2">solemn</word>
+				<word number="3">transcendent</word>
+				<word number="4">majestic</word>
+				<word number="5">sacred</word>
+				<word number="6">sublime</word>
+				<word number="7">heaven-born</word>
+				<word number="8">heroic</word>
+				<word number="9">sans peur et sans reproche</word>
+				<word number="10" new="1">lofty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sacrosanct</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hail">
+			<sg number="1">
+				<word number="1">hail!</word>
+				<word number="2">all hail!</word>
+				<word number="3">ave!</word>
+				<word number="4">viva!</word>
+				<word number="5">vive!</word>
+				<word number="6">long life to!</word>
+				<word number="7">banzai!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glory be to</word>
+				<word number="2">honor be to?</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's name being in every mouth">
+			<sg number="1">
+				<word number="1">one's name being in every mouth</word>
+				<word number="2">one's name living for ever</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sic itur ad astra</word>
+				<word number="2">fama volat</word>
+				<word number="3">aut Caesar aut nullus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not to know him argues oneself unknown</word>
+			</sg>
+			<sg number="4">
+				<word number="1">none but himself could be his parallel</word>
+				<word number="2">palmam qui meruit ferat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="above all Greek above all Roman fame">
+			<sg number="1">
+				<word number="1">"above all Greek above all Roman fame"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">- cineri gloria sera est</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"great is the glory for the strife is hard"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">honor virtutis praemium</word>
+			</sg>
+			<sg number="5">
+				<word number="1">immensum gloria calcar habet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the glory dies not and the grief is past"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vivit post funera virtus</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

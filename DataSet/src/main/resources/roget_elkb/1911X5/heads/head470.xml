@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="470" name="Absence or want of Intellect" origNum="#450a." class="4" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="absence of intellect">
+			<sg number="1">
+				<word number="1">absence of intellect</word>
+				<word number="2" paraRef="intellect" headRef="469">want of intellect</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imbecility" headRef="523">imbecility</word>
+				<word number="2">brute force</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="instinct">
+			<sg number="1">
+				<word number="1">instinct</word>
+				<word number="2">brute instinct</word>
+				<word number="3">stimulus-response loop</word>
+				<word number="4">conditioned response</word>
+				<word number="5">instinctive reaction</word>
+				<word number="6">Pavlovian response</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mimicry">
+			<sg number="1">
+				<word number="1">mimicry</word>
+				<word number="2" paraRef="imitation" headRef="20">aping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="moron">
+			<sg number="1">
+				<word number="1">moron</word>
+				<word number="2">imbecile</word>
+				<word number="3">idiot</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fool" headRef="525">fool</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dumb animal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vegetable</word>
+				<word number="2">brain- dead</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unendowed with reason">
+			<sg number="1">
+				<word number="1">unendowed with reason</word>
+				<word number="2">void of reason</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thoughtless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vegetative</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moronic</word>
+				<word number="2">idiotic</word>
+				<word number="3">brainless</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="instinctively">
+			<sg number="1">
+				<word number="1">instinctively</word>
+				<word number="2">like Pavlov's dog</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vegetatively</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="mimic">
+			<sg number="1">
+				<word number="1">mimic</word>
+				<word number="2" paraRef="imitate" headRef="20">ape</word>
+			</sg>
+			<sg number="2">
+				<word number="1">respond instinctively</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

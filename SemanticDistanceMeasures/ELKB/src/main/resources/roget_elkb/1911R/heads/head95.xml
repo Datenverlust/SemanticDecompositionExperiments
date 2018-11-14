@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="95" name="bisection" origNum="#91." class="1" section="5" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bisection">
+			<sg number="1">
+				<word number="1">bisection</word>
+				<word number="2">bipartition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dichotomy</word>
+				<word number="2">subdichotomy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">halving</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dimidiation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bifurcation">
+			<sg number="1">
+				<word number="1">bifurcation</word>
+				<word number="2">forking</word>
+				<word number="3">branching</word>
+				<word number="4">ramification</word>
+				<word number="5">divarication</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fork</word>
+				<word number="2">prong</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fold</word>
+			</sg>
+			<sg number="4">
+				<word number="1">half</word>
+				<word number="2">moiety</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="bisect">
+			<sg number="1">
+				<word number="1">bisect</word>
+				<word number="2">halve</word>
+				<word number="3">divide</word>
+				<word number="4">split</word>
+				<word number="5">cut in two</word>
+				<word number="6">cleave dimidiate</word>
+				<word number="7">dichotomize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="go halves">
+			<sg number="1">
+				<word number="1">go halves</word>
+				<word number="2">divide with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="separate">
+			<sg number="1">
+				<word number="1">separate</word>
+				<word number="2">fork</word>
+				<word number="3">bifurcate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">branch off</word>
+				<word number="2">out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ramify</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="bisected">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">bisected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cloven</word>
+				<word number="2">cleft</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bipartite</word>
+				<word number="2">biconjugate</word>
+				<word number="3">bicuspid</word>
+				<word number="4">bifid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bifurcous</word>
+				<word number="2">bifurcate</word>
+				<word number="3">bifurcated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">distichous</word>
+				<word number="2">dichotomous</word>
+				<word number="3">furcular</word>
+			</sg>
+			<sg number="6">
+				<word number="1">semi-</word>
+				<word number="2">demi-</word>
+				<word number="3">hemi</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1014" name="Condemnation" origNum="#971." class="8" section="4" subSection="5" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="condemnation">
+			<sg number="1">
+				<word number="1">condemnation</word>
+				<word number="2">conviction</word>
+				<word number="3">judgment</word>
+				<word number="4">penalty</word>
+				<word number="5">sentence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proscription</word>
+				<word number="2">damnation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">death warrant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attainder">
+			<sg number="1">
+				<word number="1">attainder</word>
+				<word number="2">attainture</word>
+				<word number="3">attaintment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="condemn">
+			<sg number="1">
+				<word number="1">condemn</word>
+				<word number="2">convict</word>
+				<word number="3">cast</word>
+				<word number="4">bring home to</word>
+				<word number="5">find guilty</word>
+				<word number="6">damn</word>
+				<word number="7">doom</word>
+				<word number="8">sign the death warrant</word>
+				<word number="9">sentence</word>
+				<word number="10">pass sentence on</word>
+				<word number="11">attaint</word>
+				<word number="12">confiscate</word>
+				<word number="13">proscribe</word>
+				<word number="14">sequestrate</word>
+				<word number="15" new="1">arrest</word>
+				<word number="16" new="1">charge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nonsuit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disapprove">
+			<sg number="1">
+				<word number="1" paraRef="disapprove" headRef="974">disapprove</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="accuse" headRef="980">accuse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stand condemned">
+			<sg number="1">
+				<word number="1">stand condemned</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="condemnatory">
+			<sg number="1">
+				<word number="1">condemnatory</word>
+				<word number="2">damnatory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guilty</word>
+				<word number="2" paraRef="" posRef="v.">condemned</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="failure" headRef="761">nonsuited</word>
+			</sg>
+			<sg number="4">
+				<word number="1">self-convicted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="mutato nomine de te fabula narratur">
+			<sg number="1">
+				<word number="1">mutato nomine de te fabula narratur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"unrespited</word>
+				<word number="2">unpitied</word>
+				<word number="3">unreprieved"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

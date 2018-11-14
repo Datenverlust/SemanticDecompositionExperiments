@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="233" name="Covering" origNum="#223." class="2" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="covering">
+			<sg number="1">
+				<word number="1">covering</word>
+				<word number="2">cover</word>
+			</sg>
+			<sg number="2">
+				<word number="1">baldachin</word>
+				<word number="2">baldachino</word>
+				<word number="3">baldaquin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">canopy</word>
+				<word number="2">tilt</word>
+				<word number="3">awning</word>
+				<word number="4">tent</word>
+				<word number="5">marquee</word>
+				<word number="6">tente d'abri</word>
+				<word number="7">umbrella</word>
+				<word number="8">parasol</word>
+				<word number="9">sunshade</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="shade" headRef="442">veil</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="defense" headRef="746">shield</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="roof">
+			<sg number="1">
+				<word number="1">roof</word>
+				<word number="2">ceiling</word>
+				<word number="3">thatch</word>
+				<word number="4">tile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pantile</word>
+				<word number="2">pentile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tiling</word>
+				<word number="2">slates</word>
+				<word number="3">slating</word>
+				<word number="4">leads</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barrack</word>
+				<word number="2">plafond</word>
+				<word number="3">planchment</word>
+				<word number="4">tiling</word>
+				<word number="5" paraRef="abode" headRef="198">shed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="top">
+			<sg number="1">
+				<word number="1">top</word>
+				<word number="2">lid</word>
+				<word number="3">covercle</word>
+				<word number="4">door</word>
+				<word number="5">operculum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bulkhead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bandage">
+			<sg number="1">
+				<word number="1">bandage</word>
+				<word number="2">plaster</word>
+				<word number="3">lint</word>
+				<word number="4">wrapping</word>
+				<word number="5">dossil</word>
+				<word number="6">finger stall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="coverlet">
+			<sg number="1">
+				<word number="1">coverlet</word>
+				<word number="2">counterpane</word>
+				<word number="3">sheet</word>
+				<word number="4">quilt</word>
+				<word number="5">tarpaulin</word>
+				<word number="6">blanket</word>
+				<word number="7">rug</word>
+				<word number="8">drugget</word>
+			</sg>
+			<sg number="2">
+				<word number="1">housing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antimacassar</word>
+				<word number="2">eiderdown</word>
+				<word number="3">numdah</word>
+				<word number="4">pillowcase</word>
+				<word number="5">pillowslip</word>
+			</sg>
+			<sg number="4">
+				<word number="1">linoleum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">saddle cloth</word>
+				<word number="2">blanket cloth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tidy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tilpah</word>
+				<word number="2">apishamore</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="integument">
+			<sg number="1">
+				<word number="1">integument</word>
+				<word number="2">tegument</word>
+			</sg>
+			<sg number="2">
+				<word number="1">skin</word>
+				<word number="2">pellicle</word>
+				<word number="3">fleece</word>
+				<word number="4">fell</word>
+				<word number="5">fur</word>
+				<word number="6">leather</word>
+				<word number="7">shagreen</word>
+				<word number="8">hide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pelt</word>
+				<word number="2">peltry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cordwain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">derm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">robe</word>
+				<word number="2">buffalo robe</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cuticle</word>
+				<word number="2">scarfskin</word>
+				<word number="3">epidermis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="clothing">
+			<sg number="1">
+				<word number="1" paraRef="clothing" headRef="235">clothing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="concealment" headRef="556">mask</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="peel">
+			<sg number="1">
+				<word number="1">peel</word>
+				<word number="2">crust</word>
+				<word number="3">bark</word>
+				<word number="4">rind</word>
+				<word number="5">cortex</word>
+				<word number="6">husk</word>
+				<word number="7">shell</word>
+				<word number="8">coat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eggshell</word>
+				<word number="2">glume</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="capsule">
+			<sg number="1">
+				<word number="1">capsule</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sheath</word>
+				<word number="2">sheathing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pod</word>
+				<word number="2">cod</word>
+			</sg>
+			<sg number="4">
+				<word number="1">casing</word>
+				<word number="2">case</word>
+				<word number="3">theca</word>
+			</sg>
+			<sg number="5">
+				<word number="1">elytron</word>
+			</sg>
+			<sg number="6">
+				<word number="1">elytrum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">involucrum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wrapping</word>
+				<word number="2">wrapper</word>
+			</sg>
+			<sg number="9">
+				<word number="1">envelope</word>
+				<word number="2">vesicle</word>
+			</sg>
+			<sg number="10">
+				<word number="1">corn husk</word>
+				<word number="2">corn shuck</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dermatology</word>
+				<word number="2">conchology</word>
+			</sg>
+			<sg number="12">
+				<word number="1">testaceology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="inunction">
+			<sg number="1">
+				<word number="1">inunction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incrustation</word>
+				<word number="2">superimposition</word>
+				<word number="3">superposition</word>
+				<word number="4">obduction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="layer" headRef="213">scale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="veneer">
+			<sg number="1">
+				<word number="1">veneer</word>
+				<word number="2">facing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overlay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plate</word>
+				<word number="2">silver plate</word>
+				<word number="3">gold plate</word>
+				<word number="4">copper plate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">engobe</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ormolu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Sheffield plate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pavement</word>
+			</sg>
+			<sg number="8">
+				<word number="1">coating</word>
+				<word number="2">paint</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="resin" headRef="368">varnish</word>
+			</sg>
+			<sg number="10">
+				<word number="1">plating</word>
+				<word number="2">barrel plating</word>
+				<word number="3" paraRef="" posRef="v.">anointing</word>
+			</sg>
+			<sg number="11">
+				<word number="1">enamel</word>
+			</sg>
+			<sg number="12">
+				<word number="1">epitaxial deposition</word>
+				<word number="2">vapor deposition</word>
+			</sg>
+			<sg number="13">
+				<word number="1">ground</word>
+				<word number="2">whitewash</word>
+				<word number="3">plaster</word>
+				<word number="4">spackel</word>
+				<word number="5">stucco</word>
+				<word number="6">compo</word>
+			</sg>
+			<sg number="14">
+				<word number="1">cerement</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="grease" headRef="367">ointment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cover">
+			<sg number="1">
+				<word number="1">cover</word>
+			</sg>
+			<sg number="2">
+				<word number="1">superpose</word>
+				<word number="2">superimpose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overlay</word>
+				<word number="2">overspread</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wrap" headRef="235">wrap</word>
+			</sg>
+			<sg number="5">
+				<word number="1">encase</word>
+				<word number="2">incase</word>
+			</sg>
+			<sg number="6">
+				<word number="1">face</word>
+				<word number="2">case</word>
+				<word number="3">veneer</word>
+				<word number="4">pave</word>
+				<word number="5">paper</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tip</word>
+				<word number="2">cap</word>
+				<word number="3">bind</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bulkhead</word>
+				<word number="2">bulkhead in</word>
+			</sg>
+			<sg number="9">
+				<word number="1">clapboard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coat">
+			<sg number="1">
+				<word number="1">coat</word>
+				<word number="2">paint</word>
+				<word number="3">varnish</word>
+				<word number="4">pay</word>
+				<word number="5">incrust</word>
+				<word number="6">stucco</word>
+				<word number="7">dab</word>
+				<word number="8">plaster</word>
+				<word number="9">tar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wash</word>
+			</sg>
+			<sg number="3">
+				<word number="1">besmear</word>
+				<word number="2">bedaub</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anoint</word>
+				<word number="2">do over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gild</word>
+				<word number="2">plate</word>
+				<word number="3">japan</word>
+				<word number="4">lacquer</word>
+				<word number="5">lacker</word>
+				<word number="6">enamel</word>
+				<word number="7">whitewash</word>
+			</sg>
+			<sg number="6">
+				<word number="1">parget</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay it on thick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="overlie">
+			<sg number="1">
+				<word number="1">overlie</word>
+				<word number="2">overarch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">endome</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="conceal" headRef="554">conceal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="anodize">
+			<sg number="1">
+				<word number="1">anodize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="galvanize">
+			<sg number="1">
+				<word number="1">galvanize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="covering">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">covering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">superimposed</word>
+				<word number="2">overlaid</word>
+				<word number="3" paraRef="" posRef="v.">plated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cutaneous</word>
+				<word number="2">dermal</word>
+				<word number="3">cortical</word>
+				<word number="4">cuticular</word>
+				<word number="5">tegumentary</word>
+				<word number="6">skinny</word>
+				<word number="7">scaly</word>
+				<word number="8">squamous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">covered</word>
+			</sg>
+			<sg number="5">
+				<word number="1">imbricated</word>
+				<word number="2">loricated</word>
+				<word number="3">armor plated</word>
+				<word number="4">ironclad</word>
+			</sg>
+			<sg number="6">
+				<word number="1">under cover</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cowled</word>
+				<word number="2">cucullate</word>
+				<word number="3">dermatoid</word>
+				<word number="4">encuirassed</word>
+				<word number="5">hooded</word>
+				<word number="6">squamiferous</word>
+				<word number="7">tectiform</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vaginate</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

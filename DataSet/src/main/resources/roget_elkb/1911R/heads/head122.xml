@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="122" name="Priority" origNum="#116." class="1" section="6" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="priority">
+			<sg number="1">
+				<word number="1">priority</word>
+				<word number="2">antecedence</word>
+				<word number="3">anteriority</word>
+				<word number="4">precedence</word>
+				<word number="5">pre-existence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="precession" headRef="291">precession</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="precursor" headRef="68">precursor</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="the past" headRef="128">the past</word>
+			</sg>
+			<sg number="5">
+				<word number="1">premises</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="precede">
+			<sg number="1">
+				<word number="1">precede</word>
+				<word number="2">come before</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forerun</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="take the lead" headRef="291">go before</word>
+			</sg>
+			<sg number="4">
+				<word number="1">preexist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dawn</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="presage" headRef="535">presage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">herald</word>
+				<word number="2">usher in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be beforehand">
+			<sg number="1">
+				<word number="1" paraRef="be early" headRef="138">be beforehand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">steal a march upon</word>
+				<word number="2">anticipate</word>
+				<word number="3">forestall</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have the start</word>
+				<word number="2">gain the start</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="prior">
+			<sg number="1">
+				<word number="1">prior</word>
+				<word number="2">previous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">preceding</word>
+				<word number="2">precedent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anterior</word>
+				<word number="2">antecedent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pre- existing</word>
+				<word number="2">pre-existent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">former</word>
+				<word number="2">foregoing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aforementioned</word>
+				<word number="2">before- mentioned</word>
+				<word number="3">abovementioned</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aforesaid</word>
+				<word number="2">said</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="precursory" headRef="68">introductory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="before">
+			<sg number="1">
+				<word number="1">before</word>
+				<word number="2">prior to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">earlier</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">previously</word>
+			</sg>
+			<sg number="4">
+				<word number="1">afore</word>
+				<word number="2">aforehand</word>
+				<word number="3">beforehand</word>
+				<word number="4">ere</word>
+				<word number="5">theretofore</word>
+				<word number="6">erewhile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ere then</word>
+				<word number="2">ere now</word>
+				<word number="3">before then</word>
+				<word number="4">before  now</word>
+			</sg>
+			<sg number="6">
+				<word number="1">erewhile</word>
+				<word number="2">already</word>
+				<word number="3">yet</word>
+				<word number="4">beforehand</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on the eve of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="prior tempore prior jure">
+			<sg number="1">
+				<word number="1">prior tempore prior jure</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

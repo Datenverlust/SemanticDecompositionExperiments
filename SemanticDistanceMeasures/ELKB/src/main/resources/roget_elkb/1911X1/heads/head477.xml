@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="477" name="Attention" origNum="#457." class="4" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="attention">
+			<sg number="1">
+				<word number="1">attention</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mindfulness</word>
+				<word number="2" paraRef="" posRef="adj.">presence of mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">intentness</word>
+				<word number="2">intentiveness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alertness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="thought" headRef="471">thought</word>
+			</sg>
+			<sg number="6">
+				<word number="1">advertence</word>
+				<word number="2">advertency</word>
+			</sg>
+			<sg number="7">
+				<word number="1">observance</word>
+				<word number="2">observation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">consideration</word>
+				<word number="2">reflection</word>
+				<word number="3">perpension</word>
+			</sg>
+			<sg number="9">
+				<word number="1">heed</word>
+			</sg>
+			<sg number="10">
+				<word number="1">heedfulness</word>
+			</sg>
+			<sg number="11">
+				<word number="1">particularity</word>
+			</sg>
+			<sg number="12">
+				<word number="1">notice</word>
+				<word number="2" paraRef="" posRef="v.">regard</word>
+			</sg>
+			<sg number="13">
+				<word number="1">circumspection</word>
+				<word number="2" paraRef="care" headRef="479">diligence</word>
+			</sg>
+			<sg number="14">
+				<word number="1">study</word>
+				<word number="2">scrutiny inspection</word>
+				<word number="3">introspection</word>
+			</sg>
+			<sg number="15">
+				<word number="1">revision</word>
+				<word number="2">revisal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="active application">
+			<sg number="1">
+				<word number="1">active application</word>
+				<word number="2">diligent application</word>
+				<word number="3">exclusive application</word>
+				<word number="4">minute application</word>
+				<word number="5">close application</word>
+				<word number="6">intense application</word>
+				<word number="7">deep application</word>
+				<word number="8">profound application</word>
+				<word number="9">abstract application</word>
+				<word number="10">labored application</word>
+				<word number="11">deliberate application</word>
+				<word number="12">active attention</word>
+				<word number="13">diligent attention</word>
+				<word number="14">exclusive attention</word>
+				<word number="15">minute attention</word>
+				<word number="16">close attention</word>
+				<word number="17">intense attention</word>
+				<word number="18">deep attention</word>
+				<word number="19">profound attention</word>
+				<word number="20">abstract attention</word>
+				<word number="21">labored attention</word>
+				<word number="22">deliberate attention</word>
+				<word number="23">active thought</word>
+				<word number="24">diligent thought</word>
+				<word number="25">exclusive thought</word>
+				<word number="26">minute thought</word>
+				<word number="27">close thought</word>
+				<word number="28">intense thought</word>
+				<word number="29">deep thought</word>
+				<word number="30">profound thought</word>
+				<word number="31">abstract thought</word>
+				<word number="32">labored thought</word>
+				<word number="33">deliberate thought</word>
+				<word number="34">active study</word>
+				<word number="35">diligent study</word>
+				<word number="36">exclusive study</word>
+				<word number="37">minute study</word>
+				<word number="38">close study</word>
+				<word number="39">intense study</word>
+				<word number="40">deep study</word>
+				<word number="41">profound study</word>
+				<word number="42">abstract study</word>
+				<word number="43">labored study</word>
+				<word number="44">deliberate study</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="minuteness">
+			<sg number="1">
+				<word number="1">minuteness</word>
+				<word number="2">attention to detail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="absorption of mind">
+			<sg number="1">
+				<word number="1" paraRef="abstraction" headRef="478">absorption of mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="indication">
+			<sg number="1">
+				<word number="1">indication</word>
+				<word number="2" paraRef="" posRef="v.">calling attention to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be attentive">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be attentive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attend</word>
+				<word number="2">advert to</word>
+				<word number="3">observe</word>
+				<word number="4">look</word>
+				<word number="5">see</word>
+				<word number="6">view</word>
+				<word number="7">remark</word>
+				<word number="8">notice</word>
+				<word number="9">regard</word>
+				<word number="10">take notice</word>
+				<word number="11">mark</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give attention to</word>
+				<word number="2">pay attention to</word>
+				<word number="3">pay heed to</word>
+				<word number="4">give heed to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incline an ear to</word>
+				<word number="2">lend an ear to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trouble one's head about</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give a thought to</word>
+				<word number="2">animadvert to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">occupy oneself with</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="think" headRef="471">contemplate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">look at</word>
+				<word number="2">look to</word>
+				<word number="3">look after</word>
+				<word number="4">look into</word>
+				<word number="5">look over</word>
+			</sg>
+			<sg number="10">
+				<word number="1">see to</word>
+			</sg>
+			<sg number="11">
+				<word number="1">turn the mind to</word>
+				<word number="2">bend the mind to</word>
+				<word number="3">apply the mind to</word>
+				<word number="4">direct the mind to</word>
+				<word number="5">give the mind to</word>
+				<word number="6">turn the eye to</word>
+				<word number="7">bend the eye to</word>
+				<word number="8">apply the eye to</word>
+				<word number="9">direct the eye to</word>
+				<word number="10">give the eye to</word>
+				<word number="11">turn the attention to</word>
+				<word number="12">bend the attention to</word>
+				<word number="13">apply the attention to</word>
+				<word number="14">direct the attention to</word>
+				<word number="15">give the attention to</word>
+			</sg>
+			<sg number="12">
+				<word number="1">have an eye to</word>
+				<word number="2">have in one's eye</word>
+			</sg>
+			<sg number="13">
+				<word number="1">bear in mind</word>
+			</sg>
+			<sg number="14">
+				<word number="1">take into account</word>
+				<word number="2">take into consideration</word>
+			</sg>
+			<sg number="15">
+				<word number="1">keep in sight</word>
+				<word number="2">keep in view</word>
+			</sg>
+			<sg number="16">
+				<word number="1">have regard to</word>
+				<word number="2">heed</word>
+				<word number="3">mind</word>
+				<word number="4">take cognizance of entertain</word>
+				<word number="5">recognize</word>
+			</sg>
+			<sg number="17">
+				<word number="1">make note of</word>
+				<word number="2">take note of</word>
+			</sg>
+			<sg number="18">
+				<word number="1">note</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="examine cursorily">
+			<sg number="1">
+				<word number="1">examine cursorily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glance at</word>
+				<word number="2">glance upon</word>
+				<word number="3">glance over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cast the eyes over</word>
+				<word number="2">pass the eyes over</word>
+			</sg>
+			<sg number="4">
+				<word number="1">run over</word>
+				<word number="2">turn over the leaves</word>
+				<word number="3">dip into</word>
+				<word number="4">perstringe</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="neglect" headRef="480">skim</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take a cursory view of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="examine">
+			<sg number="1">
+				<word number="1">examine</word>
+				<word number="2">examine closely</word>
+				<word number="3">examine intently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scan</word>
+				<word number="2">scrutinize</word>
+				<word number="3">consider</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give one's mind to</word>
+				<word number="2">bend one's mind to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">overhaul</word>
+				<word number="2">revise</word>
+				<word number="3">pore over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inspect</word>
+				<word number="2">review</word>
+				<word number="3">pass under review</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take stock of</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fix the eye on</word>
+				<word number="2">rivet attention on</word>
+				<word number="3">fix attention on</word>
+				<word number="4">devote the eye to</word>
+				<word number="5">fix the mind on</word>
+				<word number="6">devote the thoughts to</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hear out</word>
+				<word number="2">think out</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mind one's business</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="revert to">
+			<sg number="1">
+				<word number="1">revert to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expect" headRef="531">watch</word>
+				<word number="2" paraRef="take care of" headRef="479">take care of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hearken to</word>
+				<word number="2">listen to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prick up the ears</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have the eyes open</word>
+				<word number="2">keep the eyes open</word>
+			</sg>
+			<sg number="6">
+				<word number="1">come to the point</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="meet with attention">
+			<sg number="1">
+				<word number="1">meet with attention</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall under one's notice</word>
+				<word number="2">fall under one's observation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="topic" headRef="474">be under consideration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="catch the eye">
+			<sg number="1">
+				<word number="1">catch the eye</word>
+				<word number="2">strike the eye</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attract notice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">catch the attention</word>
+				<word number="2">awaken the attention</word>
+				<word number="3">wake the attention</word>
+				<word number="4">invite the attention</word>
+				<word number="5">solicit the attention</word>
+				<word number="6">attract the attention</word>
+				<word number="7">claim the attention</word>
+				<word number="8">excite the attention</word>
+				<word number="9">engage the attention</word>
+				<word number="10">occupy the attention</word>
+				<word number="11">strike the attention</word>
+				<word number="12">arrest the attention</word>
+				<word number="13">fix the attention</word>
+				<word number="14">engross the attention</word>
+				<word number="15">absorb the attention</word>
+				<word number="16">rivet the attention</word>
+				<word number="17">catch the mind</word>
+				<word number="18">awaken the mind</word>
+				<word number="19">wake the mind</word>
+				<word number="20">invite the mind</word>
+				<word number="21">solicit the mind</word>
+				<word number="22">attract the mind</word>
+				<word number="23">claim the mind excite the mind</word>
+				<word number="24">engage the mind</word>
+				<word number="25">occupy the mind</word>
+				<word number="26">strike the mind</word>
+				<word number="27">arrest the mind</word>
+				<word number="28">fix the mind</word>
+				<word number="29">engross the mind</word>
+				<word number="30">absorb the mind</word>
+				<word number="31">rivet the mind</word>
+				<word number="32">catch the thoughts</word>
+				<word number="33">awaken the thoughts</word>
+				<word number="34">wake the thoughts</word>
+				<word number="35">invite the thoughts</word>
+				<word number="36">solicit the thoughts</word>
+				<word number="37">attract the thoughts</word>
+				<word number="38">claim the thoughts excite the thoughts</word>
+				<word number="39">engage the thoughts</word>
+				<word number="40">occupy the thoughts</word>
+				<word number="41">strike the thoughts</word>
+				<word number="42">arrest the thoughts</word>
+				<word number="43">fix the thoughts</word>
+				<word number="44">engross the thoughts</word>
+				<word number="45">absorb the thoughts</word>
+				<word number="46">rivet the thoughts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be present to the mind</word>
+				<word number="2">be uppermost in the mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bring under one's notice">
+			<sg number="1">
+				<word number="1">bring under one's notice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">point out</word>
+				<word number="2">point to</word>
+				<word number="3">point at</word>
+				<word number="4">point the finger at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay the finger on</word>
+				<word number="2">indigitate</word>
+				<word number="3">indicate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">direct attention to</word>
+				<word number="2">call attention to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">show</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="sign" headRef="576">put a mark</word>
+			</sg>
+			<sg number="7">
+				<word number="1">call soldiers to "attention"</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="make manifest" headRef="550">bring forward</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="attentive">
+			<sg number="1">
+				<word number="1">attentive</word>
+				<word number="2">mindful</word>
+				<word number="3">observant</word>
+				<word number="4">regardful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alive to</word>
+				<word number="2">awake to</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">observing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alert</word>
+				<word number="2">open-eyed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intent on</word>
+				<word number="2">taken up with</word>
+				<word number="3">occupied with</word>
+				<word number="4">engaged in</word>
+			</sg>
+			<sg number="6">
+				<word number="1">engrossed in</word>
+				<word number="2">wrapped in</word>
+				<word number="3">absorbed</word>
+				<word number="4">rapt</word>
+				<word number="5">transfixed</word>
+				<word number="6">riveted</word>
+				<word number="7">mesmerized</word>
+				<word number="8">hypnotized</word>
+			</sg>
+			<sg number="7">
+				<word number="1">glued to (the TV)</word>
+			</sg>
+			<sg number="8">
+				<word number="1">breathless</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="inattentive" headRef="478">preoccupied</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="careful" headRef="479">watchful</word>
+			</sg>
+			<sg number="11">
+				<word number="1">breathless</word>
+				<word number="2">undistracted</word>
+				<word number="3">upon the stretch</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="expectant" headRef="531">on the watch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="steadfast">
+			<sg number="1">
+				<word number="1">steadfast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="interesting">
+			<sg number="1">
+				<word number="1">interesting</word>
+				<word number="2">engrossing</word>
+				<word number="3">mesmerizing</word>
+				<word number="4">riveting</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="see">
+			<sg number="1">
+				<word number="1">see!</word>
+				<word number="2">look</word>
+				<word number="3">look here</word>
+				<word number="4">look you</word>
+				<word number="5">look to it!</word>
+				<word number="6">mark!</word>
+				<word number="7">lo!</word>
+				<word number="8">behold!</word>
+				<word number="9">soho!</word>
+				<word number="10">hark</word>
+				<word number="11">hark ye!</word>
+				<word number="12">mind!</word>
+				<word number="13">halloo!</word>
+				<word number="14">observe!</word>
+				<word number="15">lo and behold!</word>
+				<word number="16">attention!</word>
+				<word number="17">nota bene</word>
+				<word number="18">"N.B."</word>
+				<word number="19">note well</word>
+			</sg>
+			<sg number="2">
+				<word number="1">I'd have you to know</word>
+			</sg>
+			<sg number="3">
+				<word number="1">notice!</word>
+				<word number="2">O yes!</word>
+				<word number="3">Oyez!</word>
+				<word number="4">dekko!</word>
+				<word number="5">ecco!</word>
+				<word number="6">yoho!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="this is to give notice">
+			<sg number="1">
+				<word number="1">this is to give notice</word>
+				<word number="2">these are to give notice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dictum sapienti sat est</word>
+			</sg>
+			<sg number="3">
+				<word number="1">finem respice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Attention">
+			<sg number="1">
+				<word number="1">Attention!</word>
+				<word number="2">Now hear this!</word>
+				<word number="3">Oyez!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Achtung</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vnimanie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chui</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

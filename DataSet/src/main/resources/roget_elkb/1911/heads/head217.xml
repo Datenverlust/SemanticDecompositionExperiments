@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="217" name="Depth" origNum="#208." class="2" section="2" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="depth">
+			<sg number="1">
+				<word number="1">depth</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">deepness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">profundity</word>
+				<word number="2" paraRef="concavity" headRef="262">depression</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hollow">
+			<sg number="1">
+				<word number="1">hollow</word>
+				<word number="2">pit</word>
+				<word number="3">shaft</word>
+				<word number="4">well</word>
+				<word number="5">crater</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="gulf" headRef="207">gulf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bowels of the earth</word>
+				<word number="2">bottomless pit</word>
+				<word number="3">hell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="soundings">
+			<sg number="1">
+				<word number="1">soundings</word>
+				<word number="2">depth of water</word>
+				<word number="3">water</word>
+				<word number="4">draught</word>
+				<word number="5">submersion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plummet</word>
+				<word number="2">sound</word>
+				<word number="3">probe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sounding rod</word>
+				<word number="2">sounding line</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bathymetry">
+			<sg number="1">
+				<word number="1">bathymetry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sonar">
+			<sg number="1">
+				<word number="1">sonar</word>
+				<word number="2">side-looking sonar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bathometer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be deep">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be deep</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">render deep</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deepen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plunge">
+			<sg number="1">
+				<word number="1" paraRef="plunge" headRef="321">plunge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sound</word>
+				<word number="2">fathom</word>
+				<word number="3">plumb</word>
+				<word number="4">cast the lead</word>
+				<word number="5">heave the lead</word>
+				<word number="6">take soundings</word>
+				<word number="7">make soundings</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="excavate" headRef="262">dig</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="deep">
+			<sg number="1">
+				<word number="1">deep</word>
+				<word number="2">deep seated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">profound</word>
+				<word number="2">sunk</word>
+				<word number="3">buried</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="submerge" headRef="321">submerged</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subaqueous</word>
+				<word number="2">submarine</word>
+				<word number="3">subterranean</word>
+				<word number="4">subterraneous</word>
+				<word number="5">subterrene</word>
+			</sg>
+			<sg number="5">
+				<word number="1">underground</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bottomless">
+			<sg number="1">
+				<word number="1">bottomless</word>
+				<word number="2">soundless</word>
+				<word number="3">fathomless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfathomed</word>
+				<word number="2">unfathomable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abysmal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deep as a well</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bathycolpian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">benthal</word>
+				<word number="2">benthopelagic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">downreaching</word>
+				<word number="2">yawning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="knee deep">
+			<sg number="1">
+				<word number="1">knee deep</word>
+				<word number="2">ankle deep</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="beyond one's depth">
+			<sg number="1">
+				<word number="1">beyond one's depth</word>
+				<word number="2">out of one's depth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">over head and ears</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mark twine</word>
+				<word number="2">mark twain</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

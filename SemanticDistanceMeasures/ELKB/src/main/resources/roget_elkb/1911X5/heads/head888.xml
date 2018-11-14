@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="888" name="Simplicity" origNum="#849." class="8" section="2" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="simplicity">
+			<sg number="1">
+				<word number="1">simplicity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plainness</word>
+				<word number="2">homeliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undress</word>
+				<word number="2">chastity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be simple">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be simple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render simple">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render simple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">simplify</word>
+				<word number="2">uncomplicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="simple">
+			<sg number="1">
+				<word number="1">simple</word>
+				<word number="2">plain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homely</word>
+				<word number="2">homespun</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ordinary</word>
+				<word number="2">household</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unaffected">
+			<sg number="1">
+				<word number="1">unaffected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ingenuous</word>
+				<word number="2" paraRef="artless" headRef="732">sincere</word>
+			</sg>
+			<sg number="3">
+				<word number="1">free from affectation</word>
+				<word number="2">free from ornament</word>
+			</sg>
+			<sg number="4">
+				<word number="1">simplex munditiis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sans facon</word>
+				<word number="2">en deshabille</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="chaste">
+			<sg number="1">
+				<word number="1">chaste</word>
+				<word number="2">inornate</word>
+				<word number="3">severe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unadorned">
+			<sg number="1">
+				<word number="1">unadorned</word>
+				<word number="2">bare</word>
+				<word number="3">unornamented</word>
+				<word number="4">undecked</word>
+				<word number="5">ungarnished</word>
+				<word number="6">unarranged</word>
+				<word number="7">untrimmed</word>
+				<word number="8">unvarnished</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bald">
+			<sg number="1">
+				<word number="1">bald</word>
+				<word number="2">flat</word>
+				<word number="3">dull</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="veritatis simplex oratio est">
+			<sg number="1">
+				<word number="1">veritatis simplex oratio est</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="265" name="Bluntness" origNum="#254." class="2" section="3" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bluntness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">bluntness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be blunt">
+			<sg number="1">
+				<word number="1">be blunt</word>
+				<word number="2" paraRef="" posRef="adj.">render blunt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obtund</word>
+				<word number="2">dull</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take off the point</word>
+				<word number="2">take off the edge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="blunt">
+			<sg number="1">
+				<word number="1">blunt</word>
+				<word number="2">obtuse</word>
+				<word number="3">dull</word>
+				<word number="4">bluff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">edentate</word>
+				<word number="2">toothless</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

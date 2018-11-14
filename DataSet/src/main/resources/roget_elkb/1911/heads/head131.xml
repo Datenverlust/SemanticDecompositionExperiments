@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="131" name="Morning" origNum="#125." class="1" section="6" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="morning">
+			<sg number="1">
+				<word number="1">morning</word>
+				<word number="2">morn</word>
+				<word number="3">forenoon</word>
+				<word number="4">a.m</word>
+				<word number="5">prime</word>
+				<word number="6">dawn</word>
+				<word number="7">daybreak</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dayspring</word>
+				<word number="2">foreday</word>
+				<word number="3">sunup</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peep of day</word>
+				<word number="2">break of day</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aurora</word>
+			</sg>
+			<sg number="5">
+				<word number="1">first blush of the morning</word>
+				<word number="2">first flush of the morning</word>
+				<word number="3">prime of the morning</word>
+			</sg>
+			<sg number="6">
+				<word number="1">twilight</word>
+				<word number="2">crepuscule</word>
+				<word number="3">sunrise</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cockcrow</word>
+				<word number="2">cockcrowing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">the small hours</word>
+				<word number="2">the wee hours of the morning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spring">
+			<sg number="1">
+				<word number="1">spring</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vernal equinox</word>
+				<word number="2">first point of Aries</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="noon">
+			<sg number="1">
+				<word number="1">noon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">midday</word>
+				<word number="2">noonday</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noontide</word>
+				<word number="2">meridian</word>
+				<word number="3">prime</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nooning</word>
+				<word number="2">noontime</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="summer">
+			<sg number="1">
+				<word number="1">summer</word>
+				<word number="2">midsummer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="matin">
+			<sg number="1">
+				<word number="1">matin</word>
+				<word number="2">matutinal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vernal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at sunrise">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">at sunrise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with the sun</word>
+				<word number="2">with the lark</word>
+				<word number="3">"when the morning dawns"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="at shut of evening flowers">
+			<sg number="1">
+				<word number="1">"at shut of evening flowers"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">entre chien et loup</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"flames in the forehead of the morning sky"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"the breezy call of incense-breathing morn"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

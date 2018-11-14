@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="571" name="Deception" origNum="#545." class="5" section="2" subSection="1" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deception">
+			<sg number="1">
+				<word number="1">deception</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="falseness" headRef="570">falseness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="untruth" headRef="572">untruth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imposition</word>
+				<word number="2">imposture</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fraud</word>
+				<word number="2">deceit</word>
+				<word number="3">guile</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fraudulence</word>
+				<word number="2">fraudulency</word>
+			</sg>
+			<sg number="7">
+				<word number="1">covin</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="cunning" headRef="731">knavery</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="falsehood" headRef="570">misrepresentation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bluff</word>
+			</sg>
+			<sg number="11">
+				<word number="1">straw-bail</word>
+				<word number="2">straw bid</word>
+			</sg>
+			<sg number="12">
+				<word number="1">spoof*</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">falsehood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="delusion">
+			<sg number="1">
+				<word number="1">delusion</word>
+				<word number="2">gullery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">juggling</word>
+				<word number="2">jugglery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slight of hand</word>
+				<word number="2">legerdemain</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prestigiation</word>
+				<word number="2">prestidigitation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="magic" headRef="1036">magic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conjuring</word>
+				<word number="2">conjuration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hocus-pocus</word>
+				<word number="2">escamoterie</word>
+				<word number="3">jockeyship</word>
+			</sg>
+			<sg number="8">
+				<word number="1">trickery</word>
+				<word number="2">coggery</word>
+				<word number="3">chicanery</word>
+			</sg>
+			<sg number="9">
+				<word number="1">supercherie</word>
+				<word number="2">cozenage</word>
+				<word number="3">circumvention</word>
+				<word number="4">ingannation</word>
+				<word number="5">collusion</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="treachery" headRef="982">treachery</word>
+			</sg>
+			<sg number="11">
+				<word number="1">practical joke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="trick">
+			<sg number="1">
+				<word number="1">trick</word>
+				<word number="2">cheat</word>
+				<word number="3">wile</word>
+				<word number="4">blind</word>
+				<word number="5">feint</word>
+				<word number="6">plant</word>
+				<word number="7">bubble</word>
+				<word number="8">fetch</word>
+				<word number="9">catch</word>
+				<word number="10">chicane</word>
+				<word number="11">juggle</word>
+				<word number="12">reach</word>
+				<word number="13">hocus</word>
+				<word number="14">bite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">card sharping</word>
+				<word number="2">stacked deck</word>
+				<word number="3">loaded dice</word>
+				<word number="4">quick shuffle</word>
+				<word number="5">double dealing</word>
+				<word number="6">dealing seconds</word>
+				<word number="7">dealing from the bottom of the deck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">artful dodge</word>
+				<word number="2">swindle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tricks upon travelers</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="artifice" headRef="731">stratagem</word>
+			</sg>
+			<sg number="6">
+				<word number="1">confidence trick</word>
+				<word number="2">fake</word>
+				<word number="3">hoax</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="theft" headRef="824">theft</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ballot-box stuffing  barney*</word>
+				<word number="2">brace* game</word>
+				<word number="3">bunko game</word>
+				<word number="4">drop* game</word>
+				<word number="5">gum* game</word>
+				<word number="6">panel game</word>
+			</sg>
+			<sg number="9">
+				<word number="1">shell game</word>
+				<word number="2">thimblerig</word>
+			</sg>
+			<sg number="10">
+				<word number="1">skin* game</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">ruse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="snare">
+			<sg number="1">
+				<word number="1">snare</word>
+				<word number="2">trap</word>
+				<word number="3">pitfall</word>
+				<word number="4">decoy</word>
+				<word number="5">gin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">springe</word>
+				<word number="2">springle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noose</word>
+				<word number="2">hoot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bait</word>
+				<word number="2">decoy-duck</word>
+				<word number="3">tub to the whale</word>
+				<word number="4">baited trap</word>
+				<word number="5">guet-a-pens</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cobweb</word>
+				<word number="2">net</word>
+				<word number="3">meshes</word>
+				<word number="4">toils</word>
+				<word number="5">mouse trap</word>
+				<word number="6">birdlime</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dionaea</word>
+				<word number="2">Venus's flytrap</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="ambush" headRef="556">ambush</word>
+			</sg>
+			<sg number="8">
+				<word number="1">trapdoor</word>
+				<word number="2">sliding panel</word>
+				<word number="3">false bottom</word>
+			</sg>
+			<sg number="9">
+				<word number="1">spring-net</word>
+				<word number="2">spring net</word>
+				<word number="3">spring gun</word>
+				<word number="4">mask</word>
+				<word number="5">masked battery</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mine</word>
+			</sg>
+			<sg number="11">
+				<word number="1">flytrap</word>
+			</sg>
+			<sg number="12">
+				<word number="1">green goods</word>
+			</sg>
+			<sg number="13">
+				<word number="1">panel house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Cornish hug">
+			<sg number="1">
+				<word number="1">Cornish hug</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="deceiver" headRef="574">wolf in sheep's clothing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disguise</word>
+				<word number="2">disguisement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">false colors</word>
+				<word number="2">masquerade</word>
+				<word number="3">mummery</word>
+				<word number="4">borrowed plumes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pattes de velours</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="mockery">
+			<sg number="1">
+				<word number="1" paraRef="imitation" headRef="20">mockery</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="copy" headRef="23">copy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">counterfeit</word>
+				<word number="2">sham</word>
+				<word number="3">make- believe</word>
+				<word number="4">forgery</word>
+				<word number="5">fraud</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="lie" headRef="572">lie</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"a delusion a mockery and a snare"</word>
+				<word number="2">hollow mockery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="whited sepulcher">
+			<sg number="1">
+				<word number="1">whited sepulcher</word>
+				<word number="2">painted sepulcher</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tinsel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paste</word>
+				<word number="2">junk jewelry</word>
+				<word number="3">costume jewelry</word>
+				<word number="4">false jewelry</word>
+				<word number="5">synthetic jewels</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scagliola</word>
+				<word number="2">ormolu</word>
+				<word number="3">German silver</word>
+				<word number="4">albata</word>
+				<word number="5">paktong</word>
+				<word number="6">white metal</word>
+				<word number="7">Britannia metal</word>
+				<word number="8">paint</word>
+			</sg>
+			<sg number="5">
+				<word number="1">veneer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jerry building</word>
+			</sg>
+			<sg number="7">
+				<word number="1">man of straw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="illusion">
+			<sg number="1">
+				<word number="1" paraRef="error" headRef="519">illusion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ignis fatuus" headRef="441">ignis fatuus</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="mirage" headRef="462">mirage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="plagiarism">
+			<sg number="1">
+				<word number="1" new="1">plagiarism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="subterfuge">
+			<sg number="1">
+				<word number="1" new="1">subterfuge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="tampering">
+			<sg number="1">
+				<word number="1" new="1">tampering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="falsification">
+			<sg number="1">
+				<word number="1" new="2">falsification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="misdirection">
+			<sg number="1">
+				<word number="1" new="2">misdirection</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="deceive">
+			<sg number="1">
+				<word number="1">deceive</word>
+				<word number="2">take in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defraud</word>
+				<word number="2">cheat</word>
+				<word number="3">jockey</word>
+				<word number="4">do</word>
+				<word number="5">cozen</word>
+				<word number="6">diddle</word>
+				<word number="7">nab</word>
+				<word number="8">chouse</word>
+				<word number="9">play one false</word>
+				<word number="10">bilk</word>
+				<word number="11">cully</word>
+				<word number="12">jilt</word>
+				<word number="13">bite</word>
+				<word number="14">pluck</word>
+				<word number="15">swindle</word>
+				<word number="16">victimize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abuse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mystify</word>
+			</sg>
+			<sg number="5">
+				<word number="1">blind one's eyes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blindfold</word>
+				<word number="2">hoodwink</word>
+			</sg>
+			<sg number="7">
+				<word number="1">throw dust into the eyes</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dupe</word>
+				<word number="2">gull</word>
+				<word number="3">hoax</word>
+				<word number="4">fool</word>
+				<word number="5">befool</word>
+				<word number="6">bamboozle</word>
+				<word number="7">flimflam</word>
+				<word number="8">hornswoggle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">trick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="impose upon">
+			<sg number="1">
+				<word number="1">impose upon</word>
+				<word number="2">practice upon</word>
+				<word number="3">play upon</word>
+				<word number="4">put upon</word>
+				<word number="5">palm off on</word>
+				<word number="6">palm upon</word>
+				<word number="7">foist upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snatch a verdict</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bluff off</word>
+				<word number="2">bluff</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bunko</word>
+				<word number="2">four flush*</word>
+				<word number="3">gum*</word>
+				<word number="4">spoof*</word>
+				<word number="5">stuff (a ballot box)</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="circumvent">
+			<sg number="1">
+				<word number="1">circumvent</word>
+				<word number="2">overreach</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outreach</word>
+				<word number="2">out wit</word>
+				<word number="3">out maneuver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">steal a march upon</word>
+				<word number="2">give the go-by</word>
+				<word number="3">to leave in the lurch      decoy</word>
+				<word number="4">waylay</word>
+				<word number="5">lure</word>
+				<word number="6">beguile</word>
+				<word number="7">delude</word>
+				<word number="8">inveigle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">entrap</word>
+				<word number="2">intrap</word>
+				<word number="3">ensnare</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nick</word>
+				<word number="2">springe</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set a trap</word>
+				<word number="2">lay a trap</word>
+				<word number="3">lay a snare for</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bait the hook</word>
+				<word number="2">forelay</word>
+				<word number="3">spread the toils</word>
+				<word number="4">lime</word>
+			</sg>
+			<sg number="8">
+				<word number="1">trapan</word>
+				<word number="2">trepan</word>
+			</sg>
+			<sg number="9">
+				<word number="1">kidnap</word>
+			</sg>
+			<sg number="10">
+				<word number="1">let in</word>
+				<word number="2">hook in</word>
+			</sg>
+			<sg number="11">
+				<word number="1">nousle</word>
+				<word number="2">nousel</word>
+			</sg>
+			<sg number="12">
+				<word number="1">blind a trail</word>
+			</sg>
+			<sg number="13">
+				<word number="1">enmesh</word>
+				<word number="2">immesh</word>
+			</sg>
+			<sg number="14">
+				<word number="1">shanghai</word>
+			</sg>
+			<sg number="15">
+				<word number="1">catch</word>
+				<word number="2">catch in a trap</word>
+			</sg>
+			<sg number="16">
+				<word number="1">sniggle</word>
+				<word number="2">entangle</word>
+				<word number="3">illaqueate</word>
+				<word number="4">hocus</word>
+				<word number="5">escamoter</word>
+				<word number="6">practice on one's credulity</word>
+			</sg>
+			<sg number="17">
+				<word number="1">hum</word>
+				<word number="2">humbug</word>
+			</sg>
+			<sg number="18">
+				<word number="1">gammon</word>
+				<word number="2">stuff up*</word>
+				<word number="3">sell</word>
+			</sg>
+			<sg number="19">
+				<word number="1">play a trick upon one</word>
+				<word number="2">play a practical joke upon one</word>
+				<word number="3">put something over on one</word>
+				<word number="4">put one over on</word>
+			</sg>
+			<sg number="20">
+				<word number="1">balk</word>
+				<word number="2">trip up</word>
+				<word number="3">throw a tub to a whale</word>
+			</sg>
+			<sg number="21">
+				<word number="1">fool to the top of one's bent</word>
+				<word number="2">send on a fool's errand</word>
+			</sg>
+			<sg number="22">
+				<word number="1">make game</word>
+				<word number="2">make a fool of</word>
+				<word number="3">make an April fool of</word>
+				<word number="4">make an ass of</word>
+			</sg>
+			<sg number="23">
+				<word number="1">trifle with</word>
+				<word number="2">cajole</word>
+				<word number="3">flatter</word>
+			</sg>
+			<sg number="24">
+				<word number="1" paraRef="influence" headRef="643">come over</word>
+			</sg>
+			<sg number="25">
+				<word number="1">gild the pill</word>
+				<word number="2">make things pleasant</word>
+				<word number="3">divert</word>
+				<word number="4">put a good face upon</word>
+			</sg>
+			<sg number="26">
+				<word number="1" paraRef="dissemble" headRef="570">dissemble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cog">
+			<sg number="1">
+				<word number="1">cog</word>
+				<word number="2">cog the dice</word>
+				<word number="3">load the dice</word>
+				<word number="4">stack the deck</word>
+			</sg>
+			<sg number="2">
+				<word number="1">live by one's wits</word>
+				<word number="2">play at hide and seek</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="steal" headRef="824">obtain money under false pretenses</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conjure</word>
+				<word number="2">juggle</word>
+				<word number="3">practice chicanery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deacon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="play off">
+			<sg number="1">
+				<word number="1">play off</word>
+				<word number="2">palm off</word>
+				<word number="3">foist off</word>
+				<word number="4">fob- off</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="lie">
+			<sg number="1">
+				<word number="1" paraRef="lie" headRef="570">lie</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="misinform" headRef="564">misinform</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="error" headRef="519">mislead</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="betray" headRef="982">betray</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="be deceived" headRef="573">be deceived</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="deceived">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">deceived</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deceiving</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cunning" headRef="731">cunning</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prestigious</word>
+				<word number="2">prestigiatory</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deceptive</word>
+				<word number="2">deceptious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deceitful</word>
+				<word number="2">covinous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">delusive</word>
+				<word number="2">delusory</word>
+			</sg>
+			<sg number="8">
+				<word number="1">illusive</word>
+				<word number="2">illusory</word>
+			</sg>
+			<sg number="9">
+				<word number="1">elusive</word>
+				<word number="2">insidious</word>
+				<word number="3">ad captandum vulgus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="untrue">
+			<sg number="1">
+				<word number="1" paraRef="untrue" headRef="572">untrue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mock</word>
+				<word number="2">sham</word>
+				<word number="3">make-believe</word>
+				<word number="4">counterfeit</word>
+				<word number="5">snide*</word>
+				<word number="6">pseudo</word>
+				<word number="7">spurious</word>
+				<word number="8">supposititious</word>
+				<word number="9">so-called</word>
+				<word number="10">pretended</word>
+				<word number="11">feigned</word>
+				<word number="12">trumped up</word>
+				<word number="13">bogus</word>
+				<word number="14">scamped</word>
+				<word number="15">fraudulent</word>
+				<word number="16">tricky</word>
+				<word number="17">factitious</word>
+				<word number="18" new="1">forged</word>
+				<word number="19" new="2">phony</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bastard</word>
+			</sg>
+			<sg number="4">
+				<word number="1">surreptitious</word>
+				<word number="2">illegitimate</word>
+				<word number="3">contraband</word>
+				<word number="4">adulterated</word>
+				<word number="5">sophisticated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unsound</word>
+				<word number="2">rotten at the core</word>
+			</sg>
+			<sg number="6">
+				<word number="1">colorable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">disguised</word>
+			</sg>
+			<sg number="8">
+				<word number="1">meretricious</word>
+				<word number="2">tinsel</word>
+				<word number="3">pinchbeck</word>
+				<word number="4">plated</word>
+			</sg>
+			<sg number="9">
+				<word number="1">catchpenny</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Brummagem</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">disingenuous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="artificial">
+			<sg number="1">
+				<word number="1">artificial</word>
+				<word number="2">synthetic</word>
+				<word number="3">ersatz</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="simulate" headRef="570">simulated</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under false colors">
+			<sg number="1">
+				<word number="1">under false colors</word>
+				<word number="2">under the garb of</word>
+				<word number="3">under cover of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">over the left</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="keep the word of promise to the ear and break it to the hope">
+			<sg number="1">
+				<word number="1">"keep the word of promise to the ear and break it to the hope"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fronti nulla fides</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"ah that deceit should steal such gentle shapes"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"a quicksand of deceit"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">decipimur specie recti</word>
+			</sg>
+			<sg number="6">
+				<word number="1">falsi crimen</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fraus est celare fraudem</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lupus in fabula</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"so smooth</word>
+				<word number="2">he daubed his vice with show of virtue"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

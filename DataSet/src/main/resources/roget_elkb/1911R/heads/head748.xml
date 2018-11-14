@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="748" name="Resistance" origNum="#719." class="6" section="4" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="resistance">
+			<sg number="1">
+				<word number="1">resistance</word>
+				<word number="2">stand</word>
+				<word number="3">front</word>
+				<word number="4">oppugnation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oppugnancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="opposition" headRef="737">opposition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">renitence</word>
+				<word number="2">renitency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reluctation</word>
+				<word number="2">recalcitration</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">kicking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="repulse">
+			<sg number="1">
+				<word number="1">repulse</word>
+				<word number="2">rebuff</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="insurrection">
+			<sg number="1">
+				<word number="1" paraRef="disobedience" headRef="773">insurrection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strike</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turn out</word>
+				<word number="2">lock out</word>
+				<word number="3">barring out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">levee en masse</word>
+				<word number="2">Jacquerie</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="disorder" headRef="62">riot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="resist">
+			<sg number="1">
+				<word number="1">resist</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="submit" headRef="754">not submit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repugn</word>
+				<word number="2">reluct</word>
+				<word number="3">reluctate</word>
+				<word number="4">withstand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stand up against</word>
+				<word number="2">strive against</word>
+				<word number="3">bear up under</word>
+				<word number="4">bear up against</word>
+				<word number="5">be proof against</word>
+				<word number="6">make head against</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stand</word>
+				<word number="2">stand firm</word>
+				<word number="3">stand one's ground</word>
+				<word number="4">stand the brunt of</word>
+				<word number="5">stand out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hold one's grounds</word>
+				<word number="2">hold one's own</word>
+				<word number="3">hold out</word>
+				<word number="4">hold firm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="breast the wave">
+			<sg number="1">
+				<word number="1">breast the wave</word>
+				<word number="2">breast the current</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stem the tide</word>
+				<word number="2">stem the torrent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">face</word>
+				<word number="2">confront</word>
+				<word number="3">grapple with</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="courage" headRef="900">show a bold front</word>
+			</sg>
+			<sg number="5">
+				<word number="1">present a front</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make a stand</word>
+				<word number="2">take one's stand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="kick">
+			<sg number="1">
+				<word number="1">kick</word>
+				<word number="2">kick against</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recalcitrate</word>
+				<word number="2">kick against the pricks</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="oppose" headRef="737">oppose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fly in the face of</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="attack" headRef="745">lift the hand against</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="war" headRef="751">rise up in arms</word>
+			</sg>
+			<sg number="7">
+				<word number="1">strike</word>
+				<word number="2">turn out</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="remonstrate" headRef="974">draw up a round robin</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="disobey" headRef="773">revolt</word>
+			</sg>
+			<sg number="10">
+				<word number="1">make a riot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="prendre le mors aux dents">
+			<sg number="1">
+				<word number="1">prendre le mors aux dents</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sell one's life dearly</word>
+				<word number="2">die hard</word>
+				<word number="3">keep at bay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repel</word>
+				<word number="2">repulse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="aquaplane">
+			<sg number="1">
+				<word number="1" new="1">aquaplane</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="resisting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">resisting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resistive</word>
+				<word number="2">resistant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disobedient" headRef="773">refractory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">recalcitrant</word>
+				<word number="2">renitent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">up in arms</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="repulsive">
+			<sg number="1">
+				<word number="1">repulsive</word>
+				<word number="2">repellant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="proof against">
+			<sg number="1">
+				<word number="1">proof against</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="strong" headRef="166">unconquerable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stubborn</word>
+				<word number="2">unconquered</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="persevering" headRef="631">indomitable</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="obstinate" headRef="633">unyielding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hands off">
+			<sg number="1">
+				<word number="1">hands off!</word>
+				<word number="2">keep off!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

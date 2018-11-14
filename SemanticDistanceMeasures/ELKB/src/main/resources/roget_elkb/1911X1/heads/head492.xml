@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="492" name="Qualification" origNum="#469." class="4" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="qualification">
+			<sg number="1">
+				<word number="1">qualification</word>
+				<word number="2">limitation</word>
+				<word number="3">modification</word>
+				<word number="4">coloring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="allowance">
+			<sg number="1">
+				<word number="1">allowance</word>
+				<word number="2">grains of allowance</word>
+				<word number="3">consideration</word>
+				<word number="4">extenuating circumstances</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mitigation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="condition">
+			<sg number="1">
+				<word number="1">condition</word>
+				<word number="2">proviso</word>
+				<word number="3">prerequisite</word>
+				<word number="4">contingency</word>
+				<word number="5">stipulation</word>
+				<word number="6">provision</word>
+				<word number="7">specification</word>
+				<word number="8">sine qua non</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catch</word>
+				<word number="2">string</word>
+				<word number="3">strings attached</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exemption</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exception</word>
+				<word number="2">escape clause</word>
+				<word number="3">salvo</word>
+				<word number="4">saving clause</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="discount" headRef="850">discount</word>
+			</sg>
+			<sg number="6">
+				<word number="1">restriction</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fine print</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="qualify">
+			<sg number="1">
+				<word number="1">qualify</word>
+				<word number="2">limit</word>
+				<word number="3">modify</word>
+				<word number="4">leaven</word>
+				<word number="5">give a color to</word>
+				<word number="6">introduce new conditions</word>
+				<word number="7">narrow</word>
+				<word number="8">temper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="waffle">
+			<sg number="1">
+				<word number="1">waffle</word>
+				<word number="2">quibble</word>
+				<word number="3" paraRef="be uncertain" headRef="498">hem and haw</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sophistry" headRef="500">equivocate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="depend">
+			<sg number="1">
+				<word number="1">depend</word>
+				<word number="2">depend on</word>
+				<word number="3" paraRef="effect" headRef="161">be contingent on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="allow for">
+			<sg number="1">
+				<word number="1">allow for</word>
+				<word number="2">make allowance for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">admit exceptions</word>
+				<word number="2">take into account</word>
+			</sg>
+			<sg number="3">
+				<word number="1">modulate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="moderate">
+			<sg number="1">
+				<word number="1">moderate</word>
+				<word number="2">temper</word>
+				<word number="3">season</word>
+				<word number="4">leaven</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="take exception">
+			<sg number="1">
+				<word number="1">take exception</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="qualifying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">qualifying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">qualified</word>
+				<word number="2">conditioned</word>
+				<word number="3">restricted</word>
+				<word number="4">hedged</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conditional</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unconformable" headRef="87">exceptional</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hypothetical">
+			<sg number="1">
+				<word number="1" paraRef="suppose" headRef="538">hypothetical</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncertain" headRef="498">contingent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="provided">
+			<sg number="1">
+				<word number="1">provided</word>
+				<word number="2">provided that</word>
+				<word number="3">provided always</word>
+			</sg>
+			<sg number="2">
+				<word number="1">if</word>
+				<word number="2">unless</word>
+				<word number="3">but</word>
+				<word number="4">yet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">according as</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conditionally</word>
+				<word number="2">admitting</word>
+				<word number="3">supposing</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="theoretical" headRef="538">on the supposition of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">with the understanding</word>
+				<word number="2">even</word>
+				<word number="3">although</word>
+				<word number="4">though</word>
+				<word number="5">for all that</word>
+				<word number="6">after all</word>
+				<word number="7">at all events</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="approximately">
+			<sg number="1">
+				<word number="1" paraRef="approximately" headRef="206">approximately</word>
+				<word number="2">17</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="smallness" headRef="34">in a limited degree</word>
+			</sg>
+			<sg number="3">
+				<word number="1">somewhat</word>
+				<word number="2">sort of</word>
+				<word number="3">something like that</word>
+				<word number="4">to a certain extent</word>
+				<word number="5">to a degree</word>
+				<word number="6">in a sense</word>
+				<word number="7">so to speak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="with grains of allowance">
+			<sg number="1">
+				<word number="1">with grains of allowance</word>
+				<word number="2">cum grano salis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exceptis excipiendis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wind and weather permitting</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="if possible" headRef="493">if possible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="subject to">
+			<sg number="1">
+				<word number="1">subject to</word>
+				<word number="2">conditioned upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">with this proviso</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="if the good lord is willing and the creeks don't rise">
+			<sg number="1">
+				<word number="1">"if the good lord is willing and the creeks don't rise"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catch-22</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

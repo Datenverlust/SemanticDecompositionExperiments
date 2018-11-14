@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="559" name="Secret" origNum="#533." class="5" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="secret">
+			<sg number="1">
+				<word number="1">secret</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dead secret</word>
+				<word number="2">profound secret</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arcanum</word>
+				<word number="2">mystery</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="latency" headRef="551">latency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Asian mystery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sealed book</word>
+				<word number="2">secrets of the prison house</word>
+			</sg>
+			<sg number="7">
+				<word number="1">le desous des cartes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="enigma">
+			<sg number="1">
+				<word number="1">enigma</word>
+				<word number="2">riddle</word>
+				<word number="3">puzzle</word>
+				<word number="4">nut to crack</word>
+				<word number="5">conundrum</word>
+				<word number="6">charade</word>
+				<word number="7">rebus</word>
+				<word number="8">logogriph</word>
+			</sg>
+			<sg number="2">
+				<word number="1">monogram</word>
+				<word number="2">anagram</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Sphinx</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crux criticorum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="maze">
+			<sg number="1">
+				<word number="1">maze</word>
+				<word number="2">labyrinth</word>
+				<word number="3">Hyrcynian wood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intricacy</word>
+				<word number="2">meander</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="problem">
+			<sg number="1">
+				<word number="1" paraRef="question" headRef="481">problem</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="difficulty" headRef="733">paradox</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unintelligibility" headRef="544">unintelligibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ignorance" headRef="515">terra incognita</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="secret">
+			<sg number="1">
+				<word number="1" paraRef="concealed" headRef="554">secret</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="involved" headRef="258">involved</word>
+			</sg>
+			<sg number="3">
+				<word number="1">labyrinthine</word>
+				<word number="2">labyrinthian</word>
+				<word number="3">mazy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="confidential">
+			<sg number="1">
+				<word number="1">confidential</word>
+			</sg>
+			<sg number="2">
+				<word number="1">top secret</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="733" name="Difficulty" origNum="#704." class="6" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="difficulty">
+			<sg number="1">
+				<word number="1">difficulty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">hardness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="impossibility" headRef="494">impracticability</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tough work</word>
+				<word number="2">hard work</word>
+				<word number="3">uphill work</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hard task</word>
+				<word number="2">Herculean task</word>
+				<word number="3">Augean task</word>
+			</sg>
+			<sg number="6">
+				<word number="1">task of Sisyphus</word>
+				<word number="2">Sisyphean labor</word>
+				<word number="3">tough job</word>
+				<word number="4">teaser</word>
+				<word number="5">rasper</word>
+				<word number="6">dead lift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dilemma">
+			<sg number="1">
+				<word number="1">dilemma</word>
+				<word number="2">embarrassment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deadlock</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="uncertainty" headRef="498">perplexity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intricacy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">entanglement</word>
+				<word number="2" paraRef="complexity" headRef="62">complexity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cross fire</word>
+			</sg>
+			<sg number="7">
+				<word number="1">awkwardness</word>
+				<word number="2">delicacy</word>
+				<word number="3">ticklish card to play</word>
+				<word number="4">knot</word>
+				<word number="5">Gordian knot</word>
+				<word number="6">dignus vindice nodus</word>
+				<word number="7">net</word>
+				<word number="8">meshes</word>
+				<word number="9">maze</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="convolution" headRef="258">coil</word>
+			</sg>
+			<sg number="9">
+				<word number="1">crooked path</word>
+			</sg>
+			<sg number="10">
+				<word number="1">involvement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nice point">
+			<sg number="1">
+				<word number="1">nice point</word>
+				<word number="2">delicate point</word>
+				<word number="3">subtle point</word>
+				<word number="4">knotty point</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vexed question</word>
+				<word number="2">vexata quaestio</word>
+				<word number="3">poser</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="riddle" headRef="559">puzzle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paradox</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hard nut to crack</word>
+				<word number="2">nut to crack</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bone to pick</word>
+				<word number="2">crux</word>
+				<word number="3">pons asinorum</word>
+				<word number="4">where the shoe pinches</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="nonplus">
+			<sg number="1">
+				<word number="1">nonplus</word>
+				<word number="2">quandary</word>
+				<word number="3">strait</word>
+				<word number="4">pass</word>
+				<word number="5">pinch</word>
+				<word number="6">pretty pass</word>
+				<word number="7">stress</word>
+				<word number="8">brunt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">critical situation</word>
+				<word number="2">crisis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trial</word>
+				<word number="2">rub</word>
+				<word number="3">emergency</word>
+				<word number="4">exigency</word>
+				<word number="5">scramble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="scrape">
+			<sg number="1">
+				<word number="1">scrape</word>
+				<word number="2">hobble</word>
+				<word number="3">slough</word>
+				<word number="4">quagmire</word>
+				<word number="5">hot water</word>
+				<word number="6">hornet's nest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sea of troubles</word>
+				<word number="2">peck of troubles</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pretty kettle of fish</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pickle</word>
+				<word number="2">stew</word>
+				<word number="3">imbroglio</word>
+				<word number="4">mess</word>
+				<word number="5">ado</word>
+			</sg>
+			<sg number="5">
+				<word number="1">false position</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="set fast">
+			<sg number="1">
+				<word number="1">set fast</word>
+				<word number="2">stand</word>
+				<word number="3">standstill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deadlock</word>
+				<word number="2">dead set</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="fix">
+			<sg number="1">
+				<word number="1">fix</word>
+				<word number="2">horns of a dilemma</word>
+				<word number="3">cul de sac</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hitch</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hindrance" headRef="735">stumbling block</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="crab">
+			<sg number="1">
+				<word number="1">crab</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curmudgeon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="conundrum">
+			<sg number="1">
+				<word number="1" new="1">conundrum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be difficult">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be difficult</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run one hard</word>
+				<word number="2">go against the grain</word>
+				<word number="3">try one's patience</word>
+				<word number="4">put one out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put to one's shifts</word>
+				<word number="2">put to one's wit's end</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go hard with one</word>
+				<word number="2">try one</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pose</word>
+				<word number="2" paraRef="uncertain" headRef="498">perplex</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bother</word>
+				<word number="2">nonplus</word>
+				<word number="3">gravel</word>
+				<word number="4">bring to a deadlock</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="be impossible" headRef="494">be impossible</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="hinder" headRef="735">be in the way of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="meet with difficulties">
+			<sg number="1">
+				<word number="1">meet with difficulties</word>
+			</sg>
+			<sg number="2">
+				<word number="1">labor under difficulties</word>
+			</sg>
+			<sg number="3">
+				<word number="1">get into difficulties</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plunge into difficulties</word>
+			</sg>
+			<sg number="5">
+				<word number="1">struggle with difficulties</word>
+			</sg>
+			<sg number="6">
+				<word number="1">contend with difficulties</word>
+			</sg>
+			<sg number="7">
+				<word number="1">grapple with difficulties</word>
+			</sg>
+			<sg number="8">
+				<word number="1">labor under a disadvantage</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="adj.">be in difficulty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fish in troubled waters">
+			<sg number="1">
+				<word number="1">fish in troubled waters</word>
+				<word number="2">buffet the waves</word>
+				<word number="3">swim against the stream</word>
+				<word number="4">scud under bare poles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Have much ado with">
+			<sg number="1">
+				<word number="1">Have much ado with</word>
+				<word number="2">have a hard time of it</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come to the push</word>
+				<word number="2">come to the pinch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear the brunt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="grope in the dark">
+			<sg number="1">
+				<word number="1">grope in the dark</word>
+				<word number="2">lose one's way</word>
+				<word number="3">weave a tangled web</word>
+				<word number="4">walk among eggs</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="get into a scrape">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">get into a scrape</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring a hornet's nest about one's ears</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be put to one's shifts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flounder</word>
+				<word number="2">boggle</word>
+				<word number="3">struggle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="uncertain" headRef="498">not know which way to turn</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perdre son Latin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stick at</word>
+				<word number="2">stick in the mud</word>
+				<word number="3">stick fast</word>
+			</sg>
+			<sg number="8">
+				<word number="1">come to a stand</word>
+				<word number="2">come to a standstill</word>
+				<word number="3">come to a deadlock</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hold the wolf by the ears</word>
+				<word number="2">hold the tiger by the tail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="render difficult">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render difficult</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enmesh</word>
+				<word number="2">encumber</word>
+				<word number="3">embarrass</word>
+				<word number="4">ravel</word>
+				<word number="5">entangle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hinder" headRef="735">put a spoke in the wheel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lead a pretty dance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="difficult">
+			<sg number="1">
+				<word number="1">difficult</word>
+				<word number="2">not easy</word>
+				<word number="3">hard</word>
+				<word number="4">tough</word>
+			</sg>
+			<sg number="2">
+				<word number="1">troublesome</word>
+				<word number="2">toilsome</word>
+				<word number="3">irksome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">operose</word>
+				<word number="2">laborious</word>
+				<word number="3">onerous</word>
+				<word number="4">arduous</word>
+				<word number="5">Herculean</word>
+				<word number="6">formidable</word>
+				<word number="7" new="1">tedious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sooner said than done</word>
+			</sg>
+			<sg number="5">
+				<word number="1">more easily said than done</word>
+				<word number="2">easier said than done</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="difficult to deal with">
+			<sg number="1">
+				<word number="1">difficult to deal with</word>
+				<word number="2">hard to deal with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-conditioned</word>
+				<word number="2">crabbed</word>
+				<word number="3">crabby</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not to be handled with kid gloves</word>
+				<word number="2">not made with rose water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="awkward">
+			<sg number="1">
+				<word number="1">awkward</word>
+				<word number="2">unwieldy</word>
+				<word number="3">unmanageable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intractable</word>
+				<word number="2" paraRef="obstinate" headRef="633">stubborn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perverse</word>
+				<word number="2">refractory</word>
+				<word number="3">plaguy</word>
+				<word number="4">trying</word>
+				<word number="5">thorny</word>
+				<word number="6">rugged</word>
+			</sg>
+			<sg number="4">
+				<word number="1">knotted</word>
+				<word number="2">knotty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">invious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pathless</word>
+				<word number="2">trackless</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="convoluted" headRef="258">labyrinthine</word>
+			</sg>
+			<sg number="8">
+				<word number="1">intricate</word>
+				<word number="2" paraRef="tangled" headRef="63">complicated</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="impossible" headRef="494">impracticable</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="feasible" headRef="493">not feasible</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="hopeless" headRef="898">desperate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="embarrassing">
+			<sg number="1">
+				<word number="1">embarrassing</word>
+				<word number="2" paraRef="uncertain" headRef="498">perplexing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delicate</word>
+				<word number="2">ticklish</word>
+				<word number="3">critical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">beset with difficulties</word>
+				<word number="2">full of difficulties</word>
+				<word number="3">surrounded by difficulties</word>
+				<word number="4">entangled by difficulties</word>
+				<word number="5">encompassed with difficulties</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="under a difficulty">
+			<sg number="1">
+				<word number="1">under a difficulty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in a box</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in difficulty</word>
+				<word number="2">in hot water</word>
+				<word number="3">in the suds</word>
+				<word number="4">in a cleft stick</word>
+				<word number="5">in a fix</word>
+				<word number="6">in the wrong box</word>
+				<word number="7" paraRef="" posRef="n.">in a scrape</word>
+				<word number="8">in deep water</word>
+				<word number="9">in a fine pickle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in extremis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">between two stools</word>
+				<word number="2">between Scylla and Charybdis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">surrounded by shoals</word>
+				<word number="2">surrounded by breakers</word>
+				<word number="3">surrounded by quicksands</word>
+			</sg>
+			<sg number="7">
+				<word number="1">at cross purposes</word>
+			</sg>
+			<sg number="8">
+				<word number="1">not out of the wood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="reduced to straits">
+			<sg number="1">
+				<word number="1">reduced to straits</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard pressed</word>
+				<word number="2">sorely pressed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run hard</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pinched</word>
+				<word number="2">put to it</word>
+				<word number="3">straitened</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hard up</word>
+				<word number="2">hard put to it</word>
+				<word number="3">hard set</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put to one's shifts</word>
+			</sg>
+			<sg number="7">
+				<word number="1">puzzled</word>
+				<word number="2" paraRef="uncertain" headRef="498">at a loss</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at the end of one's tether</word>
+				<word number="2">at the end of one's rope</word>
+				<word number="3">at one's wit's end</word>
+				<word number="4">at a nonplus</word>
+				<word number="5">at a standstill</word>
+			</sg>
+			<sg number="9">
+				<word number="1">graveled</word>
+				<word number="2">nonplused</word>
+				<word number="3">nonplussed</word>
+				<word number="4">stranded</word>
+				<word number="5">aground</word>
+			</sg>
+			<sg number="10">
+				<word number="1">stuck fast</word>
+				<word number="2">set fast</word>
+			</sg>
+			<sg number="11">
+				<word number="1">up a tree</word>
+				<word number="2">at bay</word>
+				<word number="3">aux abois</word>
+				<word number="4">driven into a corner</word>
+				<word number="5">driven from pillar to post</word>
+				<word number="6">driven to extremity</word>
+				<word number="7">driven to one's wit's end</word>
+				<word number="8">driven to the wall</word>
+			</sg>
+			<sg number="12">
+				<word number="1">au bout de son Latin</word>
+			</sg>
+			<sg number="13">
+				<word number="1">out of one's depth</word>
+			</sg>
+			<sg number="14">
+				<word number="1">thrown out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="accomplished with difficulty">
+			<sg number="1">
+				<word number="1">accomplished with difficulty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard-fought</word>
+				<word number="2">hard-earned</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with difficulty">
+			<sg number="1">
+				<word number="1">with difficulty</word>
+				<word number="2">with much ado</word>
+			</sg>
+			<sg number="2">
+				<word number="1">barely</word>
+				<word number="2" paraRef="" posRef="adj.">hardly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uphill</word>
+			</sg>
+			<sg number="4">
+				<word number="1">against the stream</word>
+				<word number="2">against the grain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">d rebours</word>
+			</sg>
+			<sg number="6">
+				<word number="1">invita Minerva</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in the teeth of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at a pinch</word>
+				<word number="2">upon a pinch</word>
+			</sg>
+			<sg number="9">
+				<word number="1">at long odds</word>
+				<word number="2">against long odds</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ay there's the rub">
+			<sg number="1">
+				<word number="1">"ay there's the rub"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hic labor hoc opus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">things are come to a pretty pass</word>
+				<word number="2">ab inconvenienti</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ad astra per aspera</word>
+			</sg>
+			<sg number="5">
+				<word number="1">acun chemin de fleurs ne conduit a la gloire</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

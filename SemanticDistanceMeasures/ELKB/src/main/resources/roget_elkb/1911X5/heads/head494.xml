@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="494" name="Impossibility" origNum="#471." class="4" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impossibility">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">impossibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1">what cannot</word>
+				<word number="2">what can never be</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sour grapes</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hopelessness" headRef="898">hopelessness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be impossible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be impossible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have no chance whatever</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attempt impossibilities">
+			<sg number="1">
+				<word number="1">attempt impossibilities</word>
+			</sg>
+			<sg number="2">
+				<word number="1">square the circle</word>
+				<word number="2">wash a blackamoor white</word>
+			</sg>
+			<sg number="3">
+				<word number="1">skin a flint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make a silk purse out of a sow's ear</word>
+				<word number="2">make bricks without straw</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have nothing to go upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">weave a rope of sand</word>
+				<word number="2">build castles in the air</word>
+				<word number="3">prendre la lune avec les dents</word>
+				<word number="4">extract sunbeams from cucumbers</word>
+				<word number="5">set the Thames on fire</word>
+				<word number="6">milk a he-goat into a sieve</word>
+				<word number="7">catch a weasel asleep</word>
+				<word number="8">rompre l'anguille au genou</word>
+				<word number="9">be in two places at once</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="impossible">
+			<sg number="1">
+				<word number="1">impossible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="possible" headRef="493">not possible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">absurd</word>
+				<word number="2">contrary to reason</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unlikely</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unreasonable" headRef="500">unreasonable</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="incredible" headRef="509">incredible</word>
+			</sg>
+			<sg number="7">
+				<word number="1">beyond the bounds of reason</word>
+				<word number="2">beyond the bounds of possibility</word>
+				<word number="3">beyond the realm of possibility</word>
+			</sg>
+			<sg number="8">
+				<word number="1">from which reason recoils</word>
+			</sg>
+			<sg number="9">
+				<word number="1">visionary</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="improbable" headRef="496">inconceivable</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="wonderful" headRef="909">prodigious</word>
+			</sg>
+			<sg number="12">
+				<word number="1">unimaginable</word>
+				<word number="2">inimaginable</word>
+			</sg>
+			<sg number="13">
+				<word number="1">unthinkable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="impracticable">
+			<sg number="1">
+				<word number="1">impracticable</word>
+				<word number="2">unachievable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfeasible</word>
+				<word number="2">infeasible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">insuperable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unsurmountable</word>
+				<word number="2">insurmountable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unattainable</word>
+				<word number="2">unobtainable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">out of reach</word>
+				<word number="2">out of the question</word>
+			</sg>
+			<sg number="7">
+				<word number="1">not to be had</word>
+				<word number="2">not to be thought of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">beyond control</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="hopeless" headRef="898">desperate</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="incompatible" headRef="26">incompatible</word>
+			</sg>
+			<sg number="11">
+				<word number="1">inaccessible</word>
+				<word number="2">uncomeatable</word>
+				<word number="3">impassable</word>
+				<word number="4">impervious</word>
+				<word number="5">innavigable</word>
+				<word number="6">inextricable</word>
+				<word number="7" new="1">impenetrable</word>
+				<word number="8" new="3">indestructible</word>
+				<word number="9" new="4">invulnerable</word>
+				<word number="10" new="4">unbreakable</word>
+				<word number="11" new="5">invincible</word>
+			</sg>
+			<sg number="12">
+				<word number="1">self-contradictory</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="2">impregnable</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="3">unassailable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="out of one's power">
+			<sg number="1">
+				<word number="1">out of one's power</word>
+				<word number="2">beyond one's power</word>
+				<word number="3">beyond one's  depth</word>
+				<word number="4">beyond one's reach</word>
+				<word number="5">beyond one's grasp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">too much for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ultra crepidam</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the grapes are sour">
+			<sg number="1">
+				<word number="1">the grapes are sour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">non possumus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">non nostrum tantas componere lites</word>
+			</sg>
+			<sg number="4">
+				<word number="1">look for a needle in a haystack</word>
+				<word number="2">chercher une aiguille dans une botte de foin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">il a le mer a boire</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

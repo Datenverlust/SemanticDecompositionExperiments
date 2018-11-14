@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="138" name="Earliness" origNum="#132." class="1" section="6" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">earliness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="morning" headRef="131">morning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="punctuality">
+			<sg number="1">
+				<word number="1">punctuality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="activity" headRef="711">promptitude</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="velocity" headRef="285">haste</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="instantaneity" headRef="119">suddenness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prematurity">
+			<sg number="1">
+				<word number="1">prematurity</word>
+				<word number="2">precocity</word>
+				<word number="3">precipitation</word>
+				<word number="4">anticipation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a stitch in time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be early">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be early</word>
+				<word number="2" paraRef="" posRef="adv.">be beforehand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep time</word>
+				<word number="2">take time by the forelock</word>
+				<word number="3">anticipate</word>
+				<word number="4">forestall</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have the start</word>
+				<word number="2">gain the start</word>
+			</sg>
+			<sg number="4">
+				<word number="1">steal a march upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gain time</word>
+				<word number="2">draw on futurity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bespeak</word>
+				<word number="2">secure</word>
+				<word number="3">engage</word>
+				<word number="4">preengage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="accelerate">
+			<sg number="1">
+				<word number="1">accelerate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="quicken" headRef="285">expedite</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hurry" headRef="713">make haste</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="early">
+			<sg number="1">
+				<word number="1">early</word>
+				<word number="2">prime</word>
+				<word number="3">forward</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="active" headRef="711">prompt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">summary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="premature">
+			<sg number="1">
+				<word number="1">premature</word>
+				<word number="2">precipitate</word>
+				<word number="3">precocious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prevenient</word>
+				<word number="2">anticipatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sudden">
+			<sg number="1">
+				<word number="1" paraRef="instantaneous" headRef="119">sudden</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unexpected" headRef="532">unexpected</word>
+			</sg>
+			<sg number="3">
+				<word number="1">near</word>
+				<word number="2">near at hand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">immediate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="early">
+			<sg number="1">
+				<word number="1">early</word>
+				<word number="2">soon</word>
+				<word number="3">anon</word>
+				<word number="4">betimes</word>
+				<word number="5">rath</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eft</word>
+				<word number="2">eftsoons</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ere long</word>
+				<word number="2">before long</word>
+				<word number="3">shortly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="beforehand">
+			<sg number="1">
+				<word number="1">beforehand</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">prematurely</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hastily" headRef="713">precipitately</word>
+			</sg>
+			<sg number="4">
+				<word number="1">too soon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">before its time</word>
+				<word number="2">before  one's time</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in anticipation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="unexpectedly" headRef="532">unexpectedly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="suddenly">
+			<sg number="1">
+				<word number="1" paraRef="instantaneously" headRef="119">suddenly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">before one can say "Jack Robinson"</word>
+				<word number="2">at short notice</word>
+				<word number="3">extempore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on the spur of the moment</word>
+				<word number="2">on the spur of the occasion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at once</word>
+			</sg>
+			<sg number="5">
+				<word number="1">on the spot</word>
+				<word number="2">on the instant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at sight</word>
+			</sg>
+			<sg number="7">
+				<word number="1">offhand</word>
+				<word number="2">out of hand</word>
+			</sg>
+			<sg number="8">
+				<word number="1">a' vue d'oeil</word>
+			</sg>
+			<sg number="9">
+				<word number="1">straight</word>
+				<word number="2">straightway</word>
+				<word number="3">straightforth</word>
+			</sg>
+			<sg number="10">
+				<word number="1">forthwith</word>
+				<word number="2">incontinently</word>
+				<word number="3">summarily</word>
+				<word number="4">immediately</word>
+				<word number="5">briefly</word>
+				<word number="6">shortly</word>
+				<word number="7">quickly</word>
+				<word number="8">speedily</word>
+				<word number="9">apace</word>
+				<word number="10">before the ink is dry</word>
+				<word number="11">almost immediately</word>
+				<word number="12">presently at the first opportunity</word>
+				<word number="13">in no long time</word>
+				<word number="14">by and by</word>
+				<word number="15">in a while</word>
+				<word number="16">directly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="no sooner said than done">
+			<sg number="1">
+				<word number="1">no sooner said than done</word>
+				<word number="2">immediately</word>
+				<word number="3">if not sooner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tout vient a temps pour qui sait attendre</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

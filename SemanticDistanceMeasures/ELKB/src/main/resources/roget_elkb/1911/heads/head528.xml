@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="528" name="Madman" origNum="#504." class="4" section="5" subSection="1" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="madman">
+			<sg number="1">
+				<word number="1">madman</word>
+				<word number="2">lunatic</word>
+				<word number="3">maniac</word>
+				<word number="4">bedlamite</word>
+				<word number="5">candidate for Bedlam</word>
+				<word number="6">raver</word>
+				<word number="7">madcap</word>
+				<word number="8">crazy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">energumen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">automaniac</word>
+				<word number="2">monomaniac</word>
+				<word number="3">dipsomaniac</word>
+				<word number="4">kleptomaniac</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="low spirits" headRef="875">hypochondriac</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crank</word>
+				<word number="2">Tom o'Bedlam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dreamer">
+			<sg number="1">
+				<word number="1" paraRef="dreamer" headRef="540">dreamer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rhapsodist</word>
+				<word number="2">seer</word>
+				<word number="3">highflier</word>
+				<word number="4">enthusiast</word>
+				<word number="5">fanatic</word>
+				<word number="6">fanatico</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exalte</word>
+			</sg>
+			<sg number="4">
+				<word number="1">knight errant</word>
+				<word number="2">Don Quixote</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="idiot">
+			<sg number="1">
+				<word number="1" paraRef="idiot" headRef="525">idiot</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

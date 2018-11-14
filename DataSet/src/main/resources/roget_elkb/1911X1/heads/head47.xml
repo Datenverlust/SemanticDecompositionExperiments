@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="47" name="Disjunction" origNum="#44." class="1" section="3" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disjunction">
+			<sg number="1">
+				<word number="1">disjunction</word>
+				<word number="2">disconnection</word>
+				<word number="3">disunity</word>
+				<word number="4">disunion</word>
+				<word number="5">disassociation</word>
+				<word number="6">disengagement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discontinuity" headRef="74">discontinuity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abjunction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cataclasm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inconnection</word>
+			</sg>
+			<sg number="6">
+				<word number="1">abstraction</word>
+				<word number="2">abstractedness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">isolation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">insularity</word>
+				<word number="2">insulation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">oasis</word>
+			</sg>
+			<sg number="10">
+				<word number="1">island</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="" posRef="adj.">separateness</word>
+			</sg>
+			<sg number="12">
+				<word number="1">severalty</word>
+			</sg>
+			<sg number="13">
+				<word number="1">disjecta membra</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="dispersion" headRef="77">dispersion</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="apportionment" headRef="819">apportionment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="separation">
+			<sg number="1">
+				<word number="1">separation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">parting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">circumcision</word>
+			</sg>
+			<sg number="4">
+				<word number="1">detachment</word>
+				<word number="2">segregation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">divorce</word>
+				<word number="2">sejunction</word>
+				<word number="3">seposition</word>
+				<word number="4">diduction</word>
+				<word number="5">diremption</word>
+				<word number="6">discerption</word>
+			</sg>
+			<sg number="6">
+				<word number="1">elision</word>
+			</sg>
+			<sg number="7">
+				<word number="1">caesura</word>
+				<word number="2">break</word>
+				<word number="3">fracture</word>
+				<word number="4">division</word>
+				<word number="5">subdivision</word>
+				<word number="6">rupture</word>
+			</sg>
+			<sg number="8">
+				<word number="1">compartition</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dismemberment</word>
+				<word number="2">dislocation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">luxation</word>
+			</sg>
+			<sg number="11">
+				<word number="1">severance</word>
+				<word number="2">disseverance</word>
+			</sg>
+			<sg number="12">
+				<word number="1">scission</word>
+			</sg>
+			<sg number="13">
+				<word number="1">rescission</word>
+				<word number="2">abscission</word>
+			</sg>
+			<sg number="14">
+				<word number="1">laceration</word>
+				<word number="2">dilaceration</word>
+			</sg>
+			<sg number="15">
+				<word number="1">disruption</word>
+				<word number="2">abruption</word>
+			</sg>
+			<sg number="16">
+				<word number="1">avulsion</word>
+				<word number="2">divulsion</word>
+			</sg>
+			<sg number="17">
+				<word number="1">section</word>
+				<word number="2">resection</word>
+				<word number="3">cleavage</word>
+			</sg>
+			<sg number="18">
+				<word number="1">fission</word>
+			</sg>
+			<sg number="19">
+				<word number="1">partibility</word>
+				<word number="2">separability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fissure">
+			<sg number="1">
+				<word number="1">fissure</word>
+				<word number="2">breach</word>
+				<word number="3">rent</word>
+				<word number="4">split</word>
+				<word number="5">rift</word>
+				<word number="6">crack</word>
+				<word number="7">slit</word>
+				<word number="8">incision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dissection anatomy">
+			<sg number="1">
+				<word number="1">dissection anatomy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="decomposition" headRef="52">decomposition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sharpness" headRef="264">cutting instrument</word>
+			</sg>
+			<sg number="4">
+				<word number="1">buzzsaw</word>
+				<word number="2">circular saw</word>
+				<word number="3">rip saw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="separatist">
+			<sg number="1">
+				<word number="1">separatist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be disjoined">
+			<sg number="1">
+				<word number="1">be disjoined</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come off</word>
+				<word number="2">fall off</word>
+				<word number="3">come to pieces</word>
+				<word number="4">fall to pieces</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peel off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">get loose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disjoin">
+			<sg number="1">
+				<word number="1">disjoin</word>
+				<word number="2">disconnect</word>
+				<word number="3">disengage</word>
+				<word number="4">disunite</word>
+				<word number="5">dissociate</word>
+				<word number="6">dispair</word>
+			</sg>
+			<sg number="2">
+				<word number="1">divorce</word>
+				<word number="2">part</word>
+				<word number="3">dispart</word>
+				<word number="4">detach</word>
+				<word number="5">separate</word>
+				<word number="6">cut off</word>
+				<word number="7">rescind</word>
+				<word number="8">segregate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set apart</word>
+				<word number="2">keep apart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">insulate,</word>
+				<word number="2">isolate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">throw out of gear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cut adrift</word>
+			</sg>
+			<sg number="7">
+				<word number="1">loose</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unloose</word>
+				<word number="2">undo</word>
+				<word number="3">unbind</word>
+				<word number="4">unchain</word>
+				<word number="5" paraRef="fix" headRef="46">unlock</word>
+				<word number="6">unpack</word>
+				<word number="7">unravel</word>
+				<word number="8" new="1">unbolt</word>
+			</sg>
+			<sg number="9">
+				<word number="1">disentangle</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="liberate" headRef="781">set free</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sunder">
+			<sg number="1">
+				<word number="1">sunder</word>
+				<word number="2">divide</word>
+				<word number="3">subdivide</word>
+				<word number="4">sever</word>
+				<word number="5">dissever</word>
+				<word number="6">abscind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">circumcise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incide</word>
+				<word number="2">incise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">saw</word>
+				<word number="2">snip</word>
+				<word number="3">nib</word>
+				<word number="4">nip</word>
+				<word number="5">cleave</word>
+				<word number="6">rive</word>
+				<word number="7">rend</word>
+				<word number="8">slit</word>
+				<word number="9">split</word>
+				<word number="10">splinter</word>
+				<word number="11">chip</word>
+				<word number="12">crack</word>
+				<word number="13">snap</word>
+				<word number="14">break</word>
+				<word number="15">tear</word>
+				<word number="16">burst</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rend</word>
+				<word number="2">rend asunder</word>
+				<word number="3">rend in twain</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wrench</word>
+				<word number="2">rupture</word>
+				<word number="3">shatter</word>
+				<word number="4">shiver</word>
+				<word number="5">cranch</word>
+				<word number="6">crunch</word>
+				<word number="7">craunch</word>
+				<word number="8">chop</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cut up</word>
+				<word number="2">rip up</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hack</word>
+				<word number="2">hew</word>
+				<word number="3">slash</word>
+			</sg>
+			<sg number="10">
+				<word number="1">whittle</word>
+			</sg>
+			<sg number="11">
+				<word number="1">haggle</word>
+				<word number="2">hackle</word>
+				<word number="3">discind</word>
+				<word number="4">lacerate</word>
+				<word number="5">scamble</word>
+				<word number="6">mangle</word>
+				<word number="7">gash</word>
+				<word number="8">hash</word>
+				<word number="9">slice</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">fracture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cut up">
+			<sg number="1">
+				<word number="1">cut up</word>
+				<word number="2">carve</word>
+				<word number="3">dissect</word>
+				<word number="4">anatomize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dislimb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take to pieces</word>
+				<word number="2">pull to pieces</word>
+				<word number="3">pick to pieces</word>
+				<word number="4">tear to pieces</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tear to tatters</word>
+				<word number="2">tear piecemeal</word>
+				<word number="3">tear limb from limb</word>
+			</sg>
+			<sg number="5">
+				<word number="1">divellicate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="skin" headRef="236">skin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">disintegrate</word>
+				<word number="2">dismember</word>
+				<word number="3">disbranch</word>
+				<word number="4">disband</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="disperse" headRef="77">disperse</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dislocate</word>
+				<word number="2">disjoint</word>
+			</sg>
+			<sg number="10">
+				<word number="1">break up</word>
+			</sg>
+			<sg number="11">
+				<word number="1">mince</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="pulverize" headRef="341">comminute</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="apportion" headRef="819">apportion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="part">
+			<sg number="1">
+				<word number="1">part</word>
+				<word number="2">part company</word>
+			</sg>
+			<sg number="2">
+				<word number="1">separate</word>
+				<word number="2">leave</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disjoined">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disjoined</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discontinuous" headRef="74">discontinuous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">multipartite</word>
+				<word number="2">abstract</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disjunctive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">secant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">isolated</word>
+			</sg>
+			<sg number="7">
+				<word number="1">insular</word>
+				<word number="2">separate</word>
+				<word number="3">disparate</word>
+				<word number="4">discrete</word>
+				<word number="5">apart</word>
+				<word number="6">asunder</word>
+				<word number="7">far between</word>
+				<word number="8">loose</word>
+				<word number="9">free</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unattached</word>
+				<word number="2">unannexed</word>
+				<word number="3">unassociated</word>
+				<word number="4">unconnected</word>
+			</sg>
+			<sg number="9">
+				<word number="1">distinct</word>
+			</sg>
+			<sg number="10">
+				<word number="1">adrift</word>
+			</sg>
+			<sg number="11">
+				<word number="1">straggling</word>
+			</sg>
+			<sg number="12">
+				<word number="1">rift</word>
+				<word number="2">reft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="scissile">
+			<sg number="1">
+				<word number="1">scissile</word>
+				<word number="2">divisible</word>
+				<word number="3">discerptible</word>
+				<word number="4">partible</word>
+				<word number="5">separable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="separately">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">separately</word>
+			</sg>
+			<sg number="2">
+				<word number="1">one by one</word>
+				<word number="2">severally</word>
+				<word number="3">apart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adrift</word>
+				<word number="2">asunder</word>
+				<word number="3">in twain</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the abstract</word>
+				<word number="2">abstractedly</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="960" name="Revenge" origNum="#919." class="8" section="3" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="revenge">
+			<sg number="1">
+				<word number="1">revenge</word>
+				<word number="2">revengement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vengeance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">avengement</word>
+				<word number="2">avengeance</word>
+				<word number="3">sweet revenge</word>
+				<word number="4">vendetta</word>
+				<word number="5">death feud</word>
+				<word number="6" paraRef="retaliation" headRef="747">blood for blood retaliation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">day of reckoning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rancor">
+			<sg number="1">
+				<word number="1">rancor</word>
+				<word number="2">vindictiveness</word>
+				<word number="3">implacability</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="malevolence" headRef="947">malevolence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ruthless" headRef="955">ruthlessness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="avenger">
+			<sg number="1">
+				<word number="1">avenger</word>
+				<word number="2">vindicator</word>
+				<word number="3">Nemesis</word>
+				<word number="4">Eumenides</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="revenge">
+			<sg number="1">
+				<word number="1">revenge</word>
+				<word number="2">avenge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vindicate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take one's revenge</word>
+				<word number="2">have one's revenge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">breathe revenge</word>
+				<word number="2">breathe vengeance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wreak one's vengeance</word>
+				<word number="2">wreak one's anger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have accounts to settle">
+			<sg number="1">
+				<word number="1">have accounts to settle</word>
+				<word number="2">have a crow to pluck</word>
+				<word number="3">have a bone to pick</word>
+				<word number="4">have a rod in pickle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="keep the wound  green">
+			<sg number="1">
+				<word number="1">keep the wound  green</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harbor revenge</word>
+				<word number="2">harbor vindictive feeling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear malice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rankle</word>
+				<word number="2">rankle in the breast</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="revengeful">
+			<sg number="1">
+				<word number="1">revengeful</word>
+				<word number="2">vengeful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vindictive</word>
+				<word number="2">rancorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="pitiless" headRef="955">pitiless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ruthless</word>
+				<word number="2">rigorous</word>
+				<word number="3">avenging</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unforgiving">
+			<sg number="1">
+				<word number="1">unforgiving</word>
+				<word number="2">unrelenting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inexorable</word>
+				<word number="2">stony-hearted</word>
+				<word number="3">implacable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">relentless</word>
+				<word number="2">remorseless</word>
+				<word number="3" new="1">merciless</word>
+				<word number="4" new="2">calculating</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aeternum servans sub pectore vulnus">
+			<sg number="1">
+				<word number="1">aeternum servans sub pectore vulnus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rankling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immitigable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="manet ciratrix">
+			<sg number="1">
+				<word number="1">manet ciratrix</word>
+				<word number="2">manet alid mente repostum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dies irae dies illa</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"in high vengeance there is noble scorn"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inhumanum verbum est ultio</word>
+			</sg>
+			<sg number="5">
+				<word number="1">malevolus animus abditos dentes habet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"now infidel I have thee on the hip"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

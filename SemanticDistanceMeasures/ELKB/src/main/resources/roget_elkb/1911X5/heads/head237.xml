@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="237" name="Circumjacence" origNum="#227." class="2" section="2" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="circumjacence">
+			<sg number="1">
+				<word number="1">circumjacence</word>
+				<word number="2">circumambience</word>
+			</sg>
+			<sg number="2">
+				<word number="1">environment</word>
+				<word number="2">encompassment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">atmosphere</word>
+				<word number="2">medium</word>
+				<word number="3">surroundings</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="outpost">
+			<sg number="1">
+				<word number="1">outpost</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="edge" headRef="241">border</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="circumference" headRef="240">girdle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outskirts</word>
+				<word number="2">boulebards</word>
+				<word number="3">suburbs</word>
+				<word number="4">purlieus</word>
+				<word number="5">precincts</word>
+				<word number="6">faubourgs</word>
+				<word number="7">environs</word>
+				<word number="8">entourage</word>
+				<word number="9">banlieue</word>
+			</sg>
+			<sg number="5">
+				<word number="1">neighborhood</word>
+				<word number="2">vicinage</word>
+				<word number="3">vicinity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="lie around">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adv.">lie around</word>
+			</sg>
+			<sg number="2">
+				<word number="1">surround</word>
+				<word number="2">beset</word>
+				<word number="3">compass</word>
+				<word number="4">encompass</word>
+				<word number="5">environ</word>
+				<word number="6">inclose</word>
+				<word number="7">enclose</word>
+				<word number="8">encircle</word>
+				<word number="9">embrace</word>
+				<word number="10">circumvent</word>
+				<word number="11">lap</word>
+				<word number="12">gird</word>
+				<word number="13" new="1">bound</word>
+				<word number="14" new="1">envelop</word>
+				<word number="15" new="1">flank</word>
+			</sg>
+			<sg number="3">
+				<word number="1">belt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">begird</word>
+				<word number="2">engird</word>
+			</sg>
+			<sg number="5">
+				<word number="1">skirt</word>
+				<word number="2">twine round</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="circumscribe" headRef="239">hem in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="circumjacent">
+			<sg number="1">
+				<word number="1">circumjacent</word>
+				<word number="2">circumambient</word>
+				<word number="3">circumfluent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ambient</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">surrounding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">circumferential</word>
+				<word number="2">suburban</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="around">
+			<sg number="1">
+				<word number="1">around</word>
+				<word number="2">about</word>
+			</sg>
+			<sg number="2">
+				<word number="1">without</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on every side</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on all sides</word>
+			</sg>
+			<sg number="5">
+				<word number="1">right and left</word>
+				<word number="2">all round</word>
+				<word number="3">round about</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="283" name="Vehicle" origNum="#272." class="2" section="4" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vehicle">
+			<sg number="1">
+				<word number="1">vehicle</word>
+				<word number="2">conveyance</word>
+				<word number="3">carriage</word>
+				<word number="4">caravan</word>
+				<word number="5">van</word>
+			</sg>
+			<sg number="2">
+				<word number="1">common carrier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wagon</word>
+				<word number="2">waggon</word>
+				<word number="3">wain</word>
+				<word number="4">dray</word>
+				<word number="5">cart</word>
+				<word number="6">lorry</word>
+				<word number="7" new="1">trailer</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">locomotive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="truck">
+			<sg number="1">
+				<word number="1">truck</word>
+				<word number="2">tram</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cariole</word>
+				<word number="2">carriole</word>
+			</sg>
+			<sg number="3">
+				<word number="1">limber</word>
+				<word number="2">tumbrel</word>
+				<word number="3">pontoon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barrow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wheel barrow</word>
+				<word number="2">hand barrow</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perambulator</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Bath chair</word>
+				<word number="2">wheel chair</word>
+				<word number="3">sedan chair</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chaise</word>
+			</sg>
+			<sg number="9">
+				<word number="1">palankeen</word>
+				<word number="2">palanquin</word>
+			</sg>
+			<sg number="10">
+				<word number="1">litter</word>
+				<word number="2">brancard</word>
+				<word number="3">crate</word>
+				<word number="4">hurdle</word>
+				<word number="5">stretcher</word>
+				<word number="6">ambulance</word>
+			</sg>
+			<sg number="11">
+				<word number="1">black Maria</word>
+			</sg>
+			<sg number="12">
+				<word number="1">conestoga wagon</word>
+				<word number="2">conestoga wain</word>
+			</sg>
+			<sg number="13">
+				<word number="1">jinrikisha</word>
+				<word number="2">ricksha</word>
+				<word number="3">brett</word>
+				<word number="4">dearborn</word>
+				<word number="5">dump cart</word>
+				<word number="6">hack</word>
+				<word number="7">hackery</word>
+				<word number="8">jigger</word>
+				<word number="9">kittereen</word>
+				<word number="10">mailstate</word>
+				<word number="11">manomotor</word>
+				<word number="12">rig</word>
+				<word number="13">rockaway</word>
+				<word number="14">prairie schooner</word>
+				<word number="15">shay</word>
+				<word number="16">sloven</word>
+				<word number="17">team</word>
+				<word number="18">tonga</word>
+				<word number="19">wheel</word>
+			</sg>
+			<sg number="14">
+				<word number="1">hobbyhorse</word>
+				<word number="2">go-cart</word>
+			</sg>
+			<sg number="15">
+				<word number="1">cycle</word>
+			</sg>
+			<sg number="16">
+				<word number="1">bicycle</word>
+				<word number="2">bike</word>
+				<word number="3">two-wheeler</word>
+			</sg>
+			<sg number="17">
+				<word number="1">tricycle</word>
+				<word number="2">velocipede</word>
+				<word number="3">quadricycle</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">moped</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="equipage">
+			<sg number="1">
+				<word number="1">equipage</word>
+				<word number="2">turn-out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coach</word>
+				<word number="2">chariot</word>
+				<word number="3">phaeton</word>
+				<word number="4">break</word>
+				<word number="5">mail phaeton</word>
+				<word number="6">wagonette</word>
+				<word number="7">drag</word>
+				<word number="8">curricle</word>
+				<word number="9">tilbury</word>
+				<word number="10">whisky</word>
+				<word number="11">landau</word>
+				<word number="12">barouche</word>
+				<word number="13">victoria</word>
+				<word number="14">brougham</word>
+				<word number="15">clarence</word>
+				<word number="16">calash</word>
+				<word number="17">caleche</word>
+				<word number="18">britzka</word>
+				<word number="19">araba</word>
+				<word number="20">kibitka</word>
+			</sg>
+			<sg number="3">
+				<word number="1">berlin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sulky</word>
+				<word number="2">desobligeant</word>
+				<word number="3">sociable</word>
+				<word number="4">vis-a-vis</word>
+				<word number="5">dormeuse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jaunting car</word>
+				<word number="2">outside car</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dandi</word>
+			</sg>
+			<sg number="7">
+				<word number="1">doolie</word>
+				<word number="2">dooly</word>
+			</sg>
+			<sg number="8">
+				<word number="1">munchil</word>
+				<word number="2">palki</word>
+			</sg>
+			<sg number="9">
+				<word number="1">roller skates</word>
+				<word number="2">skate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">runabout</word>
+			</sg>
+			<sg number="11">
+				<word number="1">ski</word>
+			</sg>
+			<sg number="12">
+				<word number="1">tonjon</word>
+			</sg>
+			<sg number="13">
+				<word number="1">vettura</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="post chaise">
+			<sg number="1">
+				<word number="1">post chaise</word>
+				<word number="2">diligence</word>
+				<word number="3">stage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stage coach</word>
+				<word number="2">mail coach</word>
+				<word number="3">hackney coach</word>
+				<word number="4">glass coach</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stage wagon</word>
+				<word number="2">car</word>
+				<word number="3">omnibus</word>
+				<word number="4">fly</word>
+				<word number="5">cabriolet</word>
+				<word number="6">cab</word>
+				<word number="7">hansom</word>
+				<word number="8">shofle</word>
+				<word number="9">four-wheeler</word>
+				<word number="10">growler</word>
+				<word number="11">droshki</word>
+				<word number="12">drosky</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dogcart">
+			<sg number="1">
+				<word number="1">dogcart</word>
+				<word number="2">trap</word>
+				<word number="3">whitechapel</word>
+				<word number="4">buggy</word>
+				<word number="5">four-in-hand</word>
+				<word number="6">unicorn</word>
+				<word number="7">random</word>
+				<word number="8">tandem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shandredhan</word>
+				<word number="2">char-a-bancs</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="motor car">
+			<sg number="1">
+				<word number="1">motor car</word>
+				<word number="2">automobile</word>
+				<word number="3">limousine</word>
+				<word number="4">car</word>
+				<word number="5">auto</word>
+				<word number="6">jalopy</word>
+				<word number="7">clunker</word>
+				<word number="8">lemon</word>
+				<word number="9">flivver</word>
+				<word number="10">coupe</word>
+				<word number="11">sedan</word>
+				<word number="12">two-door sedan</word>
+				<word number="13">four-door sedan</word>
+				<word number="14">luxury sedan</word>
+				<word number="15" new="1">marque</word>
+				<word number="16" new="1">model</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wheels</word>
+				<word number="2">sports car</word>
+				<word number="3">roadster</word>
+				<word number="4">gran turismo</word>
+				<word number="5">jeep</word>
+				<word number="6">four-wheel drive vehicle</word>
+				<word number="7">electric car</word>
+				<word number="8">steamer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">golf cart</word>
+				<word number="2">electric wagon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">taxicab</word>
+				<word number="2">cab</word>
+				<word number="3">taxicoach</word>
+				<word number="4">checker cab</word>
+				<word number="5">yellow cab</word>
+			</sg>
+			<sg number="5">
+				<word number="1">station wagon</word>
+				<word number="2">family car</word>
+			</sg>
+			<sg number="6">
+				<word number="1">motorcycle</word>
+				<word number="2">motor bike</word>
+				<word number="3">side car</word>
+			</sg>
+			<sg number="7">
+				<word number="1">van</word>
+				<word number="2">minivan</word>
+				<word number="3">bus</word>
+				<word number="4">minibus</word>
+				<word number="5">microbus</word>
+			</sg>
+			<sg number="8">
+				<word number="1">truck</word>
+				<word number="2">wagon</word>
+				<word number="3">pick-up wagon</word>
+				<word number="4">pick-up</word>
+				<word number="5">tractor-trailer</word>
+				<word number="6">road train</word>
+				<word number="7">articulated vehicle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">racing car</word>
+				<word number="2">racer</word>
+				<word number="3">hot rod</word>
+				<word number="4">stock car</word>
+				<word number="5">souped-up car</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">bogie</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">convertible</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">dodge</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">hearse</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">hummer</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">hybrid</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">motorbike</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">pickup</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">saloon</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">taxis</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">tourer</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="2">caprice</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="2">compact</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bob">
+			<sg number="1">
+				<word number="1">bob</word>
+				<word number="2">bobsled</word>
+				<word number="3">bobsleigh</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cutter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">double ripper</word>
+				<word number="2">double runner</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jumper</word>
+				<word number="2">sled</word>
+				<word number="3">sledge</word>
+				<word number="4">sleigh</word>
+				<word number="5">toboggan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="train">
+			<sg number="1">
+				<word number="1">train</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accommodation train</word>
+				<word number="2">passenger train</word>
+				<word number="3">express trail</word>
+				<word number="4">special train</word>
+				<word number="5">corridor train</word>
+				<word number="6">parliamentary train</word>
+				<word number="7">luggage train</word>
+				<word number="8">freight train</word>
+				<word number="9">goods train</word>
+			</sg>
+			<sg number="3">
+				<word number="1">1st class train</word>
+				<word number="2">2nd class train</word>
+				<word number="3">3rd  class train</word>
+				<word number="4">1st class carriage</word>
+				<word number="5">2nd class carriage</word>
+				<word number="6">3rd class carriage</word>
+				<word number="7">1st class compartment</word>
+				<word number="8">2nd class compartment</word>
+				<word number="9">3rd class compartment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rolling stock</word>
+			</sg>
+			<sg number="5">
+				<word number="1">horse box</word>
+				<word number="2">cattle truck</word>
+			</sg>
+			<sg number="6">
+				<word number="1">baggage car</word>
+				<word number="2">express car</word>
+				<word number="3">freight car</word>
+				<word number="4">parlor car</word>
+				<word number="5">dining car</word>
+				<word number="6">Pullman car</word>
+				<word number="7">sleeping car</word>
+				<word number="8">sleeper</word>
+				<word number="9">dome car</word>
+			</sg>
+			<sg number="7">
+				<word number="1">surface car</word>
+				<word number="2">tram car</word>
+				<word number="3">trolley car</word>
+			</sg>
+			<sg number="8">
+				<word number="1">box car</word>
+				<word number="2">box wagon</word>
+			</sg>
+			<sg number="9">
+				<word number="1">horse car</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bullet train</word>
+				<word number="2">shinkansen</word>
+				<word number="3">cannonball</word>
+				<word number="4">the Wabash cannonball</word>
+				<word number="5">lightning express</word>
+			</sg>
+			<sg number="11">
+				<word number="1">luggage van</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mail</word>
+				<word number="2">mail car</word>
+				<word number="3">mail van</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="shovel">
+			<sg number="1">
+				<word number="1">shovel</word>
+				<word number="2">spool</word>
+				<word number="3">spatula</word>
+				<word number="4">ladle</word>
+				<word number="5">hod</word>
+				<word number="6">hoe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spade</word>
+				<word number="2">spaddle</word>
+				<word number="3">loy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spud</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pitchfork</word>
+			</sg>
+			<sg number="5">
+				<word number="1">post hole digger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="tractor">
+			<sg number="1">
+				<word number="1">tractor</word>
+				<word number="2">steamshovel</word>
+				<word number="3">backhoe</word>
+				<word number="4">fork lift</word>
+				<word number="5">earth mover</word>
+				<word number="6">dump truck</word>
+				<word number="7">bulldozer</word>
+				<word number="8">grader</word>
+				<word number="9">caterpillar</word>
+				<word number="10">trench digger</word>
+				<word number="11">steamroller</word>
+				<word number="12" new="1">excavator</word>
+				<word number="13" new="1">loader</word>
+				<word number="14" new="1">snowplow</word>
+				<word number="15" new="2">dozer</word>
+				<word number="16" new="2">yarder</word>
+				<word number="17" new="3">harvester</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pile driver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crane</word>
+				<word number="2">wrecking crane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="caisson">
+			<sg number="1">
+				<word number="1" new="1">caisson</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="engine">
+			<sg number="1">
+				<word number="1" new="1">engine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="express">
+			<sg number="1">
+				<word number="1" new="1">express</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="ferry">
+			<sg number="1">
+				<word number="1" new="1">ferry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="hauler">
+			<sg number="1">
+				<word number="1" new="1">hauler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="horseback">
+			<sg number="1">
+				<word number="1" new="1">horseback</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="scooter">
+			<sg number="1">
+				<word number="1" new="1">scooter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="stroller">
+			<sg number="1">
+				<word number="1" new="1">stroller</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="transporter">
+			<sg number="1">
+				<word number="1" new="1">transporter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="trolley">
+			<sg number="1">
+				<word number="1" new="1">trolley</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="mover">
+			<sg number="1">
+				<word number="1" new="2">mover</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="mower">
+			<sg number="1">
+				<word number="1" new="2">mower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="prototype">
+			<sg number="1">
+				<word number="1" new="2">prototype</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="tank">
+			<sg number="1">
+				<word number="1" new="2">tank</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

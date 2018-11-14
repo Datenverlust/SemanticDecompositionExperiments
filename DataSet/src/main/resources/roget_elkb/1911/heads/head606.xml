@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="606" name="Voice" origNum="#580." class="5" section="3" subSection="2" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="voice">
+			<sg number="1">
+				<word number="1">voice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vocality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">organ</word>
+				<word number="2">lungs</word>
+				<word number="3">bellows</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good voice</word>
+				<word number="2">fine voice</word>
+				<word number="3" paraRef="loud" headRef="421">powerful voice</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="musical" headRef="431">musical voice</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intonation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="sound" headRef="419">tone of voice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vocalization">
+			<sg number="1">
+				<word number="1">vocalization</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cry" headRef="429">cry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strain</word>
+				<word number="2">utterance</word>
+				<word number="3">prolation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exclamation</word>
+				<word number="2">ejaculation</word>
+				<word number="3">vociferation</word>
+				<word number="4">ecphonesis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enunciation</word>
+				<word number="2">articulation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">articulate sound</word>
+				<word number="2">distinctness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">clearness</word>
+				<word number="2">of articulation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stage whisper</word>
+			</sg>
+			<sg number="9">
+				<word number="1">delivery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="accent">
+			<sg number="1">
+				<word number="1">accent</word>
+				<word number="2">accentuation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emphasis</word>
+				<word number="2">stress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">broad accent</word>
+				<word number="2">strong accent</word>
+				<word number="3">pure accent</word>
+				<word number="4">native accent</word>
+				<word number="5">foreign accent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pronunciation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="homonym">
+			<sg number="1">
+				<word number="1">homonym</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="orthoepy">
+			<sg number="1">
+				<word number="1">orthoepy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cacoepy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="melody" headRef="431">euphony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="gastriloquism">
+			<sg number="1">
+				<word number="1">gastriloquism</word>
+				<word number="2">ventriloquism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ventriloquist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">polyphonism</word>
+				<word number="2">polyphonist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="phonology">
+			<sg number="1">
+				<word number="1" paraRef="sound" headRef="419">phonology</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="utter">
+			<sg number="1">
+				<word number="1">utter</word>
+				<word number="2">breathe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give utterance</word>
+				<word number="2">give tongue</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="shout" headRef="429">cry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ejaculate</word>
+				<word number="2">rap out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vocalize</word>
+				<word number="2">prolate</word>
+				<word number="3">articulate</word>
+				<word number="4">enunciate</word>
+				<word number="5">pronounce</word>
+				<word number="6">accentuate</word>
+				<word number="7">aspirate</word>
+				<word number="8">deliver</word>
+				<word number="9">mouth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">whisper in the ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vocal">
+			<sg number="1">
+				<word number="1">vocal</word>
+				<word number="2">phonetic</word>
+				<word number="3">oral</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ejaculatory</word>
+				<word number="2">articulate</word>
+				<word number="3">distinct</word>
+				<word number="4">stertorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="melodious" headRef="431">euphonious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="how sweetly sounds the voice of a good woman">
+			<sg number="1">
+				<word number="1">"how sweetly sounds the voice of a good woman"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the organ of the soul"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"thy voice is a celestial melody"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

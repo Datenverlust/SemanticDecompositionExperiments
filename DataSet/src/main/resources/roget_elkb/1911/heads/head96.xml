@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="96" name="Triality" origNum="#92." class="1" section="5" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="Triality">
+			<sg number="1">
+				<word number="1">Triality</word>
+				<word number="2">trinity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">triunity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="three">
+			<sg number="1">
+				<word number="1">three</word>
+				<word number="2">triad</word>
+				<word number="3">triplet</word>
+				<word number="4">trey</word>
+				<word number="5">trio</word>
+				<word number="6">ternion</word>
+				<word number="7">leash</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shamrock</word>
+				<word number="2">tierce</word>
+				<word number="3">spike-team</word>
+				<word number="4">trefoil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">triangle</word>
+				<word number="2">trident</word>
+				<word number="3">triennium</word>
+				<word number="4">trigon</word>
+				<word number="5">trinomial</word>
+				<word number="6">trionym</word>
+				<word number="7">triplopia</word>
+				<word number="8">tripod</word>
+				<word number="9">trireme</word>
+				<word number="10">triseme</word>
+				<word number="11">triskele</word>
+				<word number="12">triskelion</word>
+				<word number="13">trisula</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="third power">
+			<sg number="1">
+				<word number="1">third power</word>
+				<word number="2">cube</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cube root</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="three">
+			<sg number="1">
+				<word number="1">three</word>
+			</sg>
+			<sg number="2">
+				<word number="1">triform</word>
+				<word number="2">trinal</word>
+				<word number="3">trinomial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tertiary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ternary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">triune</word>
+			</sg>
+			<sg number="6">
+				<word number="1">triarch</word>
+				<word number="2">triadie</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="triple" headRef="97">triple</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="7" type="PREF.">
+		<paragraph number="1" name="tri-">
+			<sg number="1">
+				<word number="1">tri-</word>
+				<word number="2">tris-</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="tria juncta in uno">
+			<sg number="1">
+				<word number="1">tria juncta in uno</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

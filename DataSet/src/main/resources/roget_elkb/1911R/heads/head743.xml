@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="743" name="Concord" origNum="#714." class="6" section="4" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="concord">
+			<sg number="1">
+				<word number="1">concord</word>
+				<word number="2">accord</word>
+				<word number="3">harmony</word>
+				<word number="4">symphony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homologue</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agreement" headRef="25">agreement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sympathy</word>
+				<word number="2" paraRef="love" headRef="936">empathy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">response</word>
+			</sg>
+			<sg number="6">
+				<word number="1">union</word>
+				<word number="2">unison</word>
+				<word number="3">unity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bonds of harmony</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="peace" headRef="750">peace</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="assent" headRef="512">unanimity</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="league" headRef="741">league</word>
+			</sg>
+			<sg number="11">
+				<word number="1">happy family</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rapprochement">
+			<sg number="1">
+				<word number="1">rapprochement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reunion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="friendship" headRef="927">amity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alliance</word>
+				<word number="2">entente cordiale</word>
+				<word number="3">good understanding</word>
+				<word number="4">conciliation</word>
+				<word number="5">peacemaker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intercessor</word>
+				<word number="2">mediator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="refurbishments">
+			<sg number="1">
+				<word number="1" new="1">refurbishments</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="agree">
+			<sg number="1">
+				<word number="1" paraRef="agree" headRef="25">agree</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accord</word>
+				<word number="2">harmonize with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fraternize</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">be -concordant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go hand in hand</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="concur" headRef="186">run parallel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">understand one another</word>
+				<word number="2" paraRef="cooperate" headRef="738">pull together</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put up one's horses together</word>
+				<word number="2">sing in chorus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="side with">
+			<sg number="1">
+				<word number="1">side with</word>
+				<word number="2">sympathize with</word>
+				<word number="3">go with</word>
+				<word number="4">chime in with</word>
+				<word number="5">fall in with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come round</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be pacified" headRef="752">be pacified</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="assent" headRef="512">assent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">empathize with</word>
+				<word number="2">enter into the ideas of</word>
+				<word number="3">enter into the feelings of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reciprocate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hurler avec les loups">
+			<sg number="1">
+				<word number="1">hurler avec les loups</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go with the stream</word>
+				<word number="2">swim with the stream</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="keep in good humor">
+			<sg number="1">
+				<word number="1">keep in good humor</word>
+				<word number="2">render accordant</word>
+				<word number="3">put in tune</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come to an understanding</word>
+				<word number="2">meet halfway</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep the peace</word>
+				<word number="2">remain at peace</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="concordant">
+			<sg number="1">
+				<word number="1">concordant</word>
+				<word number="2">congenial</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">agreeing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">in accord</word>
+			</sg>
+			<sg number="4">
+				<word number="1">harmonious</word>
+				<word number="2">united</word>
+				<word number="3">cemented</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="banded together" headRef="741">banded together</word>
+			</sg>
+			<sg number="6">
+				<word number="1">allied</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="friendly" headRef="927">friendly</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fraternal</word>
+			</sg>
+			<sg number="9">
+				<word number="1">conciliatory</word>
+			</sg>
+			<sg number="10">
+				<word number="1">at one with</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="assent" headRef="512">of one mind</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">loquacious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="at peace">
+			<sg number="1">
+				<word number="1">at peace</word>
+				<word number="2">in still water</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pacific" headRef="750">tranquil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with one voice">
+			<sg number="1">
+				<word number="1" paraRef="assent" headRef="512">with one voice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in concert with</word>
+				<word number="2">hand in hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on one's side</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="commune periculum concordiam parit">
+			<sg number="1">
+				<word number="1">commune periculum concordiam parit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="461" name="Blindness" origNum="#442." class="3" section="3" subSection="2" headGroup="35">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="blindness">
+			<sg number="1">
+				<word number="1">blindness</word>
+				<word number="2">cecity</word>
+				<word number="3">excecation</word>
+				<word number="4">amaurosis</word>
+				<word number="5">cataract</word>
+				<word number="6">ablepsy</word>
+				<word number="7">ablepsia</word>
+				<word number="8">prestriction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dim sight" headRef="462">dim-sightedness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Braille</word>
+				<word number="2">Braille-type</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guttaserena  ("drop serene")</word>
+				<word number="2">noctograph</word>
+				<word number="3">teichopsia</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be blind">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be blind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not see</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lose sight of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have the eyes bandaged</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grope in the dark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not look">
+			<sg number="1">
+				<word number="1">not look</word>
+			</sg>
+			<sg number="2">
+				<word number="1">close the eyes</word>
+				<word number="2">shut the eyes-</word>
+				<word number="3">turn away the eyes</word>
+				<word number="4">avert the eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look another way</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vision" headRef="462">wink</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shut the eyes to</word>
+				<word number="2">be blind to</word>
+				<word number="3">wink at</word>
+				<word number="4">blink at</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render blind">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render blind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blind</word>
+				<word number="2">blindfold</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hoodwink</word>
+				<word number="2">dazzle</word>
+				<word number="3">put one's eyes out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">throw dust into one's eyes</word>
+				<word number="2">pull the wool over one's eyes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jeter de la poudre aux yeux</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="hide" headRef="554">screen from sight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="blind">
+			<sg number="1">
+				<word number="1">blind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eyeless</word>
+				<word number="2">sightless</word>
+				<word number="3">visionless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dark</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stone-blind</word>
+				<word number="2">sand- blind</word>
+				<word number="3">stark-blind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">undiscerning</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="dimsightedness" headRef="462">dimsighted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="blind as a bat">
+			<sg number="1">
+				<word number="1">blind as a bat</word>
+				<word number="2">blind as a buzzard</word>
+				<word number="3">blind as a beetle</word>
+				<word number="4">blind as a mole</word>
+				<word number="5">blind as an owl</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wall-eyed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="blinded">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">blinded</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="blindly">
+			<sg number="1">
+				<word number="1">blindly</word>
+				<word number="2">blindfold</word>
+				<word number="3">blindfolded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">darkly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="O dark">
+			<sg number="1">
+				<word number="1">"O dark</word>
+				<word number="2">dark</word>
+				<word number="3">dark</word>
+				<word number="4">amid the blaze of noon"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

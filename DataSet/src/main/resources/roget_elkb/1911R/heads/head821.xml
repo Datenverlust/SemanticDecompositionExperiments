@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="821" name="Borrowing" origNum="#788." class="7" section="4" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="borrowing">
+			<sg number="1">
+				<word number="1">borrowing</word>
+				<word number="2">pledging</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="borrowed plumes">
+			<sg number="1">
+				<word number="1">borrowed plumes</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="thieving" headRef="824">plagiarism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="replevin">
+			<sg number="1">
+				<word number="1">replevin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="borrow">
+			<sg number="1">
+				<word number="1">borrow</word>
+				<word number="2">desume|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hire">
+			<sg number="1">
+				<word number="1">hire</word>
+				<word number="2">rent</word>
+				<word number="3">farm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take a lease</word>
+				<word number="2">take a demise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take by the hour</word>
+				<word number="2">take by the mile</word>
+				<word number="3">take by the year</word>
+				<word number="4">hire by the hour</word>
+				<word number="5">hire by the mile</word>
+				<word number="6">hire by the year</word>
+			</sg>
+			<sg number="4">
+				<word number="1">adopt</word>
+				<word number="2">apply</word>
+				<word number="3">appropriate</word>
+				<word number="4">imitate</word>
+				<word number="5">make use of</word>
+				<word number="6">take</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="raise money">
+			<sg number="1">
+				<word number="1">raise money</word>
+				<word number="2">take up money</word>
+			</sg>
+			<sg number="2">
+				<word number="1">raise the wind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fly a kite</word>
+				<word number="2">borrow from Peter to pay Paul</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="debt" headRef="841">run into debt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="replevy">
+			<sg number="1">
+				<word number="1">replevy</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

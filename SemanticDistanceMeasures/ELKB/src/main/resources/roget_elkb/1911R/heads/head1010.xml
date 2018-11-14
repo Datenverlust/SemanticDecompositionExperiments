@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1010" name="Judge" origNum="#967." class="8" section="4" subSection="5" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="judge">
+			<sg number="1">
+				<word number="1">judge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">justice</word>
+				<word number="2">justiciar</word>
+				<word number="3">justiciary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chancellor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">justice of assize</word>
+				<word number="2">judge of assize</word>
+			</sg>
+			<sg number="5">
+				<word number="1">recorder</word>
+				<word number="2">common sergeant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">puisne judge</word>
+				<word number="2">assistant judge</word>
+				<word number="3">county court judge</word>
+			</sg>
+			<sg number="7">
+				<word number="1">conservator of the peace</word>
+				<word number="2">justice of the peace</word>
+			</sg>
+			<sg number="8">
+				<word number="1">J.P</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="tribunal" headRef="1009">court</word>
+			</sg>
+			<sg number="10">
+				<word number="1">magistrate</word>
+				<word number="2">police magistrate</word>
+				<word number="3">beak*</word>
+			</sg>
+			<sg number="11">
+				<word number="1">his worship</word>
+				<word number="2">his honor</word>
+				<word number="3">his lordship</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">mora</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="jury">
+			<sg number="1">
+				<word number="1">jury</word>
+				<word number="2">twelve men in a box</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Lord Chancellor">
+			<sg number="1">
+				<word number="1">Lord Chancellor</word>
+				<word number="2">Lord Justice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Master of the Rolls</word>
+				<word number="2">Vice Chancellor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Lord Chief Justice</word>
+				<word number="2">Chief Baron</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Mr. Justice</word>
+				<word number="2">Associate Justice</word>
+				<word number="3">Chief Justice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Baron</word>
+				<word number="2">Baron of the Exchequer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="jurat">
+			<sg number="1">
+				<word number="1">jurat</word>
+				<word number="2">assessor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arbiter</word>
+				<word number="2">arbitrator</word>
+			</sg>
+			<sg number="3">
+				<word number="1">umpire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">referee</word>
+				<word number="2">referendary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">revising barrister</word>
+			</sg>
+			<sg number="6">
+				<word number="1">domesman</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="critic" headRef="503">censor</word>
+			</sg>
+			<sg number="8">
+				<word number="1">barmaster</word>
+				<word number="2">ephor</word>
+			</sg>
+			<sg number="9">
+				<word number="1">grand juror</word>
+				<word number="2">grand juryman</word>
+			</sg>
+			<sg number="10">
+				<word number="1">juryman</word>
+				<word number="2">talesman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="archon">
+			<sg number="1">
+				<word number="1">archon</word>
+				<word number="2">tribune</word>
+				<word number="3">praetor</word>
+				<word number="4">syndic</word>
+				<word number="5">podesta</word>
+				<word number="6">mollah</word>
+				<word number="7">ulema</word>
+				<word number="8">mufti</word>
+				<word number="9">cadi</word>
+				<word number="10">kadi</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Rhadamanthus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="litigant">
+			<sg number="1">
+				<word number="1" paraRef="accusation" headRef="980">litigant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="padlock">
+			<sg number="1">
+				<word number="1" new="1">padlock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="webisode">
+			<sg number="1">
+				<word number="1" new="1">webisode</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="tall">
+			<sg number="1">
+				<word number="1" new="1">tall</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="adjudge">
+			<sg number="1">
+				<word number="1" paraRef="determine" headRef="503">adjudge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">try a case</word>
+				<word number="2">try a prisoner</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="judicial">
+			<sg number="1">
+				<word number="1" paraRef="judicial" headRef="1008">judicial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a Daniel come to judgment">
+			<sg number="1">
+				<word number="1">"a Daniel come to judgment"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

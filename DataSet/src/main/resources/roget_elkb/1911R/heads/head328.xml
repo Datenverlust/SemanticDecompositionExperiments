@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="328" name="Immateriality" origNum="#317." class="3" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="immateriality">
+			<sg number="1">
+				<word number="1">immateriality</word>
+				<word number="2">immaterialness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incorporeity</word>
+				<word number="2">spirituality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inextension</word>
+			</sg>
+			<sg number="4">
+				<word number="1">astral plane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="personality">
+			<sg number="1">
+				<word number="1">personality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">I</word>
+				<word number="2">myself</word>
+				<word number="3">me</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ego</word>
+				<word number="2" paraRef="soul" headRef="469">spirit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">astral body</word>
+			</sg>
+			<sg number="5">
+				<word number="1">immaterialism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spiritualism</word>
+				<word number="2">spiritualist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disembody">
+			<sg number="1">
+				<word number="1">disembody</word>
+				<word number="2">spiritualize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="immaterial">
+			<sg number="1">
+				<word number="1">immaterial</word>
+				<word number="2">immateriate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incorporeal</word>
+				<word number="2">incorporal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incorporate</word>
+				<word number="2">unfleshly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">supersensible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">asomatous</word>
+				<word number="2">unextended</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unembodied</word>
+				<word number="2">disembodied</word>
+			</sg>
+			<sg number="7">
+				<word number="1">extramundane</word>
+				<word number="2">unearthly</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pneumatoscopic</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="psychical" headRef="469">spiritual</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="personal">
+			<sg number="1">
+				<word number="1">personal</word>
+				<word number="2">subjective</word>
+				<word number="3">nonobjective</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

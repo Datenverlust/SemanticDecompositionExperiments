@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="38" name="Nonincrease,  Decrease" origNum="#36." class="1" section="3" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="decrease">
+			<sg number="1">
+				<word number="1">decrease</word>
+				<word number="2">diminution</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">lessening</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="subtraction" headRef="40">subtraction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reduction</word>
+				<word number="2">abatement</word>
+				<word number="3">declension</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="contraction" headRef="204">shrinking</word>
+			</sg>
+			<sg number="6">
+				<word number="1">coarctation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="shortening" headRef="210">abridgment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">extenuation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="subsidence">
+			<sg number="1">
+				<word number="1">subsidence</word>
+				<word number="2">wane</word>
+				<word number="3">ebb</word>
+				<word number="4">decline</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ebbing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="descent" headRef="317">descent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">decrement</word>
+				<word number="2">reflux</word>
+				<word number="3">depreciation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deterioration" headRef="688">deterioration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anticlimax</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="moderation" headRef="181">mitigation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="decrease">
+			<sg number="1">
+				<word number="1">decrease</word>
+				<word number="2">diminish</word>
+				<word number="3">lessen</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="shorten" headRef="210">abridge</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contract" headRef="204">shrink</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drop off</word>
+				<word number="2">fall off</word>
+				<word number="3">tail off</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall away</word>
+				<word number="2">waste</word>
+				<word number="3">wear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wane</word>
+				<word number="2">ebb</word>
+				<word number="3">decline</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="descend" headRef="317">descend</word>
+			</sg>
+			<sg number="8">
+				<word number="1">subside</word>
+			</sg>
+			<sg number="9">
+				<word number="1">melt away</word>
+				<word number="2">die away</word>
+			</sg>
+			<sg number="10">
+				<word number="1">retire into the shade</word>
+				<word number="2">hide its diminished head</word>
+				<word number="3">fall to a low ebb</word>
+				<word number="4">run low</word>
+				<word number="5">languish</word>
+				<word number="6">decay</word>
+				<word number="7">crumble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bate">
+			<sg number="1">
+				<word number="1">bate</word>
+				<word number="2">abate</word>
+				<word number="3">dequantitate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discount</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depreciate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extenuate</word>
+				<word number="2">lower</word>
+				<word number="3">weaken</word>
+				<word number="4">attenuate</word>
+				<word number="5">fritter away</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="moderate" headRef="181">mitigate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dwarf</word>
+				<word number="2">throw into the shade</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="reduce" headRef="204">reduce</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="shorten" headRef="210">shorten</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="subtract" headRef="40">subtract</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unincreased">
+			<sg number="1">
+				<word number="1" paraRef="increase" headRef="37">unincreased</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">decreased</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">decreasing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">on the wane</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a gilded halo hovering round decay">
+			<sg number="1">
+				<word number="1">"a gilded halo hovering round decay"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"fine by degrees and beautifully less"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

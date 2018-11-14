@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="134" name="Age" origNum="#128." class="1" section="6" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="age">
+			<sg number="1">
+				<word number="1">age</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">oldness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">old age</word>
+				<word number="2">advanced age</word>
+				<word number="3">golden years</word>
+			</sg>
+			<sg number="4">
+				<word number="1">senility</word>
+				<word number="2">senescence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">years</word>
+				<word number="2">anility</word>
+				<word number="3">gray hairs</word>
+				<word number="4">climacteric</word>
+				<word number="5">grand climacteric</word>
+				<word number="6">declining years</word>
+				<word number="7">decrepitude</word>
+				<word number="8">hoary age</word>
+				<word number="9">caducity</word>
+				<word number="10">superannuation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">second childhood</word>
+				<word number="2">second childishness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dotage</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vale of years</word>
+				<word number="2">decline of life</word>
+				<word number="3">"sear and yellow leaf"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">threescore years and ten</word>
+			</sg>
+			<sg number="10">
+				<word number="1">green old age</word>
+				<word number="2">ripe age</word>
+			</sg>
+			<sg number="11">
+				<word number="1">longevity</word>
+			</sg>
+			<sg number="12">
+				<word number="1">time of life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="seniority">
+			<sg number="1">
+				<word number="1">seniority</word>
+				<word number="2">eldership</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="veteran" headRef="136">elders</word>
+			</sg>
+			<sg number="3">
+				<word number="1">firstling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">doyen</word>
+				<word number="2">father</word>
+			</sg>
+			<sg number="5">
+				<word number="1">primogeniture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="[Science of old age">
+			<sg number="1">
+				<word number="1">geriatrics</word>
+				<word number="2">nostology|</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be aged">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be aged</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grow old</word>
+				<word number="2" paraRef="" posRef="adj.">get old</word>
+			</sg>
+			<sg number="3">
+				<word number="1">age</word>
+			</sg>
+			<sg number="4">
+				<word number="1">decline</word>
+				<word number="2">wane</word>
+				<word number="3">dodder</word>
+			</sg>
+			<sg number="5">
+				<word number="1">senesce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="aged">
+			<sg number="1">
+				<word number="1">aged</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="old" headRef="130">old</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elderly</word>
+				<word number="2">geriatric</word>
+				<word number="3">senile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">matronly</word>
+				<word number="2">anile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in years</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ripe</word>
+				<word number="2">mellow</word>
+				<word number="3">run to seed</word>
+				<word number="4">declining</word>
+				<word number="5">waning</word>
+				<word number="6">past one's prime</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gray</word>
+				<word number="2">gray-headed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hoar</word>
+				<word number="2">hoary</word>
+			</sg>
+			<sg number="9">
+				<word number="1">venerable</word>
+				<word number="2">time-worn</word>
+				<word number="3">antiquated</word>
+				<word number="4">passe</word>
+				<word number="5">effete</word>
+				<word number="6">decrepit</word>
+				<word number="7">superannuated</word>
+			</sg>
+			<sg number="10">
+				<word number="1">advanced in life</word>
+				<word number="2">advanced in years</word>
+			</sg>
+			<sg number="11">
+				<word number="1">stricken in years</word>
+			</sg>
+			<sg number="12">
+				<word number="1">wrinkled</word>
+				<word number="2">marked with the crow's foot</word>
+			</sg>
+			<sg number="13">
+				<word number="1">having one foot in the grave</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="imbecile" headRef="523">doting</word>
+			</sg>
+			<sg number="15">
+				<word number="1">like the last of pea time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="older">
+			<sg number="1">
+				<word number="1">older</word>
+				<word number="2">elder</word>
+				<word number="3">eldest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">senior</word>
+			</sg>
+			<sg number="3">
+				<word number="1">firstborn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="turned of">
+			<sg number="1">
+				<word number="1">turned of</word>
+				<word number="2">years old</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of a certain age</word>
+				<word number="2">no chicken</word>
+				<word number="3">old as Methuselah</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ancestral</word>
+				<word number="2" paraRef="ancient" headRef="130">patriarchal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gerontic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="give me a staff of honor for my age">
+			<sg number="1">
+				<word number="1">"give me a staff of honor for my age"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bis pueri senes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peu de gens savent elre vieux</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plenus annis abiit plenus honoribus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"old age is creeping on apace"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"slow-consuming age"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the hoary head is a crown of glory"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"the silver livery of advised age"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">to grow old gracefully</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"to vanish in the chinks that Time has made"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

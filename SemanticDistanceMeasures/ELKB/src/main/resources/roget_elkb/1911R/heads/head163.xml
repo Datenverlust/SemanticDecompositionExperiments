@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="163" name="Chance" origNum="#156." class="1" section="8" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="chance">
+			<sg number="1">
+				<word number="1">chance</word>
+				<word number="2">indetermination</word>
+				<word number="3">accident</word>
+				<word number="4">fortune</word>
+				<word number="5">hazard</word>
+				<word number="6">hap</word>
+				<word number="7">haphazard</word>
+				<word number="8">chance medley</word>
+				<word number="9">random</word>
+				<word number="10">luck</word>
+				<word number="11">raccroc</word>
+				<word number="12">casualty</word>
+				<word number="13">contingence</word>
+				<word number="14">adventure</word>
+				<word number="15">hit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="necessity" headRef="627">fate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">equal chance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lottery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tombola</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="toss up" headRef="650">toss up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">turn of the table</word>
+				<word number="2">turn of the cards</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hazard of the die</word>
+				<word number="2">chapter of accidents</word>
+				<word number="3">fickle finger of fate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cast of the dice</word>
+				<word number="2">throw of the dice</word>
+			</sg>
+			<sg number="10">
+				<word number="1">heads or tails</word>
+				<word number="2">flip of a coin</word>
+				<word number="3">wheel of Fortune</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sortes</word>
+				<word number="2">sortes Virgilianae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="probability">
+			<sg number="1">
+				<word number="1">probability</word>
+				<word number="2">possibility</word>
+				<word number="3">odds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">long odds</word>
+				<word number="2">run of luck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accidentalness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">main chance</word>
+				<word number="2">odds on</word>
+				<word number="3">favorable odds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="contingency">
+			<sg number="1">
+				<word number="1">contingency</word>
+				<word number="2" paraRef="uncertainty" headRef="498">dependence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="circumstance" headRef="8">situation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="statistics">
+			<sg number="1">
+				<word number="1">statistics</word>
+				<word number="2">theory of Probabilities</word>
+				<word number="3">theory of Chances</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bookmaking</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assurance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">speculation</word>
+				<word number="2" paraRef="game" headRef="650">gaming</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="chance">
+			<sg number="1">
+				<word number="1">chance</word>
+				<word number="2">hap</word>
+				<word number="3">turn up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall to one's lot</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be one's fate" headRef="627">be one's fate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stumble on light upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="take one's chance" headRef="650">take one's chance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="casual">
+			<sg number="1">
+				<word number="1">casual</word>
+				<word number="2">fortuitous</word>
+				<word number="3">accidental</word>
+				<word number="4">adventitious</word>
+				<word number="5">causeless</word>
+				<word number="6">incidental</word>
+				<word number="7">contingent</word>
+				<word number="8">uncaused</word>
+				<word number="9">undetermined</word>
+				<word number="10">indeterminate</word>
+				<word number="11" new="1">daft</word>
+			</sg>
+			<sg number="2">
+				<word number="1">random</word>
+				<word number="2">statistical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="possible" headRef="493">possible</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unintentional" headRef="650">unintentional</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by chance">
+			<sg number="1">
+				<word number="1">by chance</word>
+				<word number="2">accidentally</word>
+				<word number="3">by accident</word>
+			</sg>
+			<sg number="2">
+				<word number="1">casually</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="possibly" headRef="493">perchance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">for aught one knows</word>
+			</sg>
+			<sg number="5">
+				<word number="1">as good would have it</word>
+				<word number="2">as bad would have it</word>
+				<word number="3">as luck would have it</word>
+				<word number="4">as ill-luck  would have it</word>
+				<word number="5">as chance would have it</word>
+			</sg>
+			<sg number="6">
+				<word number="1">as it may be</word>
+				<word number="2">as it may chance</word>
+				<word number="3">as it may turn up</word>
+				<word number="4">as it may happen</word>
+			</sg>
+			<sg number="7">
+				<word number="1">as the case may be</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="grasps the skirts of happy chance">
+			<sg number="1">
+				<word number="1">"grasps the skirts of happy chance"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the accident of an accident"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="There but for the grace of God go I">
+			<sg number="1">
+				<word number="1">"There but for the grace of God go I"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

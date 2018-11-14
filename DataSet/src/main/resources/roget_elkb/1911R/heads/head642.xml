@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="642" name="Desuetude" origNum="#614." class="6" section="1" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="desuetude">
+			<sg number="1">
+				<word number="1">desuetude</word>
+				<word number="2">disusage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obsolescence</word>
+				<word number="2" paraRef="disuse" headRef="707">disuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">want of habit</word>
+				<word number="2">want of practice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inusitation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">newness to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">new brooms</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="infraction of usage">
+			<sg number="1">
+				<word number="1" paraRef="unconformity" headRef="87">infraction of usage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nonprevalence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"a custom more honored in the breach than the observance"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -unaccustomed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -unaccustomed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leave off a habit</word>
+				<word number="2">cast off a habit</word>
+				<word number="3">break off a habit</word>
+				<word number="4">wean oneself of a habit</word>
+				<word number="5">violate a habit</word>
+				<word number="6">break through a habit</word>
+				<word number="7">infringe a habit</word>
+				<word number="8">leave off a custom</word>
+				<word number="9">cast off a custom</word>
+				<word number="10">break off a custom</word>
+				<word number="11">wean oneself of a custom</word>
+				<word number="12">violate a custom</word>
+				<word number="13">break through a custom</word>
+				<word number="14">infringe a custom</word>
+				<word number="15">leave off a usage</word>
+				<word number="16">cast off a usage</word>
+				<word number="17">break off a usage</word>
+				<word number="18">wean oneself of a usage</word>
+				<word number="19">violate a usage</word>
+				<word number="20">break through a usage</word>
+				<word number="21">infringe a usage</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disuse" headRef="707">disuse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wear off</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unaccustomed">
+			<sg number="1">
+				<word number="1">unaccustomed</word>
+				<word number="2">unused</word>
+				<word number="3">unwonted</word>
+				<word number="4">unseasoned</word>
+				<word number="5">uninured</word>
+				<word number="6">unhabituated</word>
+				<word number="7">untrained</word>
+			</sg>
+			<sg number="2">
+				<word number="1">new</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unskilled" headRef="728">green</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unhackneyed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unusual">
+			<sg number="1">
+				<word number="1" paraRef="unconformable" headRef="87">unusual</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nonobservant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disused" headRef="707">disused</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="784" name="Keeper" origNum="#753." class="7" section="1" subSection="1" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="keeper">
+			<sg number="1">
+				<word number="1">keeper</word>
+				<word number="2">custodian</word>
+				<word number="3">custos</word>
+				<word number="4">ranger</word>
+				<word number="5">warder</word>
+				<word number="6">jailer</word>
+				<word number="7">gaoler</word>
+				<word number="8">turnkey</word>
+				<word number="9">castellan</word>
+				<word number="10">guard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">watchdog</word>
+				<word number="2">watchman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Charley</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chokidar</word>
+				<word number="2">durwan</word>
+				<word number="3">hayward</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sentry</word>
+				<word number="2">sentinel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">watch and ward</word>
+			</sg>
+			<sg number="7">
+				<word number="1">concierge</word>
+				<word number="2">coast guard</word>
+				<word number="3">guarda costa</word>
+				<word number="4">game keeper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="escort">
+			<sg number="1">
+				<word number="1">escort</word>
+				<word number="2">bodyguard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="protector">
+			<sg number="1">
+				<word number="1">protector</word>
+				<word number="2">governor</word>
+				<word number="3">duenna</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guardian</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="teacher" headRef="566">governess</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nurse</word>
+				<word number="2">nanny</word>
+				<word number="3">babysitter</word>
+				<word number="4">catsitter</word>
+				<word number="5">dogsitter</word>
+				<word number="6">bonne</word>
+				<word number="7">ayah</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">subplot</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

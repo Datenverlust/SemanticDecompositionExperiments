@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1015" name="Punishment" origNum="#972." class="8" section="4" subSection="5" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="punishment">
+			<sg number="1">
+				<word number="1">punishment</word>
+				<word number="2">punition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chastisement</word>
+				<word number="2">chastening</word>
+			</sg>
+			<sg number="3">
+				<word number="1">correction</word>
+				<word number="2">castigation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="discipline">
+			<sg number="1">
+				<word number="1">discipline</word>
+				<word number="2">infliction</word>
+				<word number="3">trial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">judgment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="penalty" headRef="1017">penalty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">retribution</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thunderbolt</word>
+				<word number="2">Nemesis</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="reward" headRef="1016">requital</word>
+			</sg>
+			<sg number="7">
+				<word number="1">penology</word>
+			</sg>
+			<sg number="8">
+				<word number="1">retributive justice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lash">
+			<sg number="1">
+				<word number="1">lash</word>
+				<word number="2" paraRef="instrument of punishment" headRef="1018">scaffold</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restraint" headRef="782">imprisonment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">transportation</word>
+				<word number="2">banishment</word>
+				<word number="3">expulsion</word>
+				<word number="4">exile</word>
+				<word number="5">involuntary exile</word>
+				<word number="6">ostracism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">penal servitude</word>
+				<word number="2">hard labor</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="galleys" headRef="1018">galleys</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">beating</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flagellation</word>
+				<word number="2">fustigation</word>
+				<word number="3">gantlet</word>
+				<word number="4">strappado</word>
+				<word number="5">estrapade</word>
+				<word number="6">bastinado</word>
+				<word number="7">argumentum baculinum</word>
+				<word number="8">stick law</word>
+				<word number="9">rap on the knuckles</word>
+				<word number="10">box on the ear</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="impulse" headRef="287">blow</word>
+			</sg>
+			<sg number="9">
+				<word number="1">stripe</word>
+				<word number="2">cuff</word>
+				<word number="3">kick</word>
+				<word number="4">buffet</word>
+				<word number="5">pummel</word>
+			</sg>
+			<sg number="10">
+				<word number="1">slap</word>
+				<word number="2">slap in the face</word>
+			</sg>
+			<sg number="11">
+				<word number="1">wipe</word>
+				<word number="2">douse</word>
+			</sg>
+			<sg number="12">
+				<word number="1">coup de grace</word>
+			</sg>
+			<sg number="13">
+				<word number="1">torture</word>
+				<word number="2">rack</word>
+			</sg>
+			<sg number="14">
+				<word number="1">picket</word>
+				<word number="2">picketing</word>
+			</sg>
+			<sg number="15">
+				<word number="1">dragonnade</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">arrest</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">deportation</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">incarceration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="capital punishment">
+			<sg number="1">
+				<word number="1">capital punishment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">execution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lethal injection</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the gas chamber</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">hanging</word>
+			</sg>
+			<sg number="6">
+				<word number="1">electrocution</word>
+				<word number="2">rail-riding</word>
+				<word number="3">scarpines</word>
+			</sg>
+			<sg number="7">
+				<word number="1">decapitation</word>
+				<word number="2">decollation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">garrotte</word>
+				<word number="2">garrotto</word>
+			</sg>
+			<sg number="9">
+				<word number="1">crucifixion</word>
+				<word number="2">impalement</word>
+			</sg>
+			<sg number="10">
+				<word number="1">firing squad</word>
+			</sg>
+			<sg number="11">
+				<word number="1">martyrdom</word>
+			</sg>
+			<sg number="12">
+				<word number="1">auto-da-fe</word>
+			</sg>
+			<sg number="13">
+				<word number="1">noyade</word>
+			</sg>
+			<sg number="14">
+				<word number="1">happy dispatch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="hara-kiri">
+			<sg number="1">
+				<word number="1">hara-kiri</word>
+				<word number="2">seppuku</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drinking the hemlock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="whipping">
+			<sg number="1">
+				<word number="1" new="1">whipping</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="punish">
+			<sg number="1">
+				<word number="1">punish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chastise</word>
+				<word number="2">chasten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">castigate</word>
+				<word number="2">correct</word>
+				<word number="3">inflict punishment</word>
+				<word number="4">administer correction</word>
+				<word number="5">deal retributive justice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cowhide</word>
+				<word number="2">lambaste*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="visit upon">
+			<sg number="1">
+				<word number="1">visit upon</word>
+				<word number="2">pay</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay out</word>
+				<word number="2">serve out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">do for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make short work of</word>
+				<word number="2">give a lesson to</word>
+				<word number="3">serve one right</word>
+				<word number="4">make an example of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have a rod in pickle for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give it one</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="strike">
+			<sg number="1">
+				<word number="1" paraRef="strike" headRef="287">strike</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deal a blow to</word>
+				<word number="2">administer the lash</word>
+				<word number="3">smite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slap</word>
+				<word number="2">slap the face</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smack</word>
+				<word number="2">cuff</word>
+				<word number="3">box the ears</word>
+				<word number="4">spank</word>
+				<word number="5">thwack</word>
+				<word number="6">thump</word>
+				<word number="7">beat</word>
+				<word number="8">lay on</word>
+				<word number="9">swinge</word>
+				<word number="10">buffet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thresh</word>
+				<word number="2">thrash</word>
+				<word number="3">pummel</word>
+				<word number="4">drub</word>
+				<word number="5">leather</word>
+				<word number="6">trounce</word>
+				<word number="7">sandbag</word>
+				<word number="8">baste</word>
+				<word number="9">belabor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lace</word>
+				<word number="2">lace one's jacket</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dress</word>
+				<word number="2">dress down</word>
+				<word number="3">give a dressing</word>
+				<word number="4">trim</word>
+				<word number="5">warm</word>
+				<word number="6">wipe</word>
+				<word number="7">tund</word>
+				<word number="8">cob</word>
+				<word number="9">bang</word>
+				<word number="10">strap</word>
+				<word number="11">comb</word>
+				<word number="12">lash</word>
+				<word number="13">lick</word>
+				<word number="14">larrup</word>
+				<word number="15">wallop</word>
+				<word number="16">whop</word>
+				<word number="17">flog</word>
+				<word number="18">scourge</word>
+				<word number="19">whip</word>
+				<word number="20">birch</word>
+				<word number="21">cane</word>
+				<word number="22">give the stick</word>
+				<word number="23">switch</word>
+				<word number="24">flagellate</word>
+				<word number="25">horsewhip</word>
+				<word number="26">bastinado</word>
+				<word number="27">towel</word>
+				<word number="28">rub down with an oaken towel</word>
+				<word number="29">rib roast</word>
+				<word number="30">dust one's jacket</word>
+				<word number="31">fustigate</word>
+				<word number="32">pitch into</word>
+				<word number="33">lay about one</word>
+				<word number="34">beat black and blue</word>
+			</sg>
+			<sg number="8">
+				<word number="1">beat to a mummy</word>
+				<word number="2">beat to a jelly</word>
+			</sg>
+			<sg number="9">
+				<word number="1">give a black eye</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tar and feather">
+			<sg number="1">
+				<word number="1">tar and feather</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pelt</word>
+				<word number="2">stone</word>
+				<word number="3">lapidate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">masthead</word>
+				<word number="2">keelhaul</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="execute">
+			<sg number="1">
+				<word number="1">execute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring to the block</word>
+				<word number="2">bring to the gallows</word>
+			</sg>
+			<sg number="3">
+				<word number="1">behead</word>
+				<word number="2">decapitate</word>
+				<word number="3">guillotine</word>
+				<word number="4" new="1">disembowel</word>
+				<word number="5" new="1">scalp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">decollate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hang</word>
+				<word number="2">turn off</word>
+				<word number="3">gibbet</word>
+				<word number="4">bowstring</word>
+				<word number="5">hang draw and quarter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shoot</word>
+			</sg>
+			<sg number="7">
+				<word number="1">decimate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">burn</word>
+			</sg>
+			<sg number="9">
+				<word number="1">break on the wheel</word>
+				<word number="2">crucify</word>
+			</sg>
+			<sg number="10">
+				<word number="1">empale</word>
+				<word number="2">impale</word>
+			</sg>
+			<sg number="11">
+				<word number="1">flay</word>
+			</sg>
+			<sg number="12">
+				<word number="1">lynch</word>
+			</sg>
+			<sg number="13">
+				<word number="1">electrocute</word>
+			</sg>
+			<sg number="14">
+				<word number="1">gas</word>
+				<word number="2">send to the gas chamber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="torture">
+			<sg number="1">
+				<word number="1">torture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put on</word>
+				<word number="2">put to the rack</word>
+			</sg>
+			<sg number="3">
+				<word number="1">picket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="banish">
+			<sg number="1">
+				<word number="1">banish</word>
+				<word number="2">exile</word>
+				<word number="3">transport</word>
+				<word number="4">expel</word>
+				<word number="5">ostracize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rusticate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drum out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dismiss</word>
+				<word number="2">disbar</word>
+				<word number="3">disbench</word>
+			</sg>
+			<sg number="5">
+				<word number="1">strike off the roll</word>
+				<word number="2">unfrock</word>
+			</sg>
+			<sg number="6">
+				<word number="1">post</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="suffer">
+			<sg number="1">
+				<word number="1">suffer</word>
+				<word number="2">suffer for</word>
+				<word number="3">suffer punishment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be flogged</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="be executed">
+			<sg number="1">
+				<word number="1">be executed</word>
+				<word number="2">suffer the ultimate penalty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be hanged</word>
+				<word number="2">come to the gallows</word>
+				<word number="3">mount the gallows</word>
+				<word number="4">swing</word>
+				<word number="5">twist in the wind</word>
+				<word number="6">dance upon nothing</word>
+				<word number="7">die in one's shoes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be rightly served</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be electrocuted</word>
+				<word number="2">fry</word>
+				<word number="3">ride the lightning</word>
+			</sg>
+			<sg number="5">
+				<word number="1">face the firing squad</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="punishing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">punishing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">penal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">punitory</word>
+				<word number="2">punitive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inflictive</word>
+				<word number="2">castigatory</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">punished</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="a la lanterne">
+			<sg number="1">
+				<word number="1">a la lanterne!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="culpan paena premit comes">
+			<sg number="1">
+				<word number="1">culpan paena premit comes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"eating the bitter bread of banishment"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gravis ira regum est semper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sera tamen tacitis paena venit pedibus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suo sibi gladio hunc jugulo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

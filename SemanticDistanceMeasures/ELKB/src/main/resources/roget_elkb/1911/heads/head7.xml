@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="7" name="State" origNum="#7." class="1" section="1" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="state">
+			<sg number="1">
+				<word number="1">state</word>
+				<word number="2">condition</word>
+				<word number="3">category</word>
+				<word number="4">estate</word>
+				<word number="5">lot</word>
+				<word number="6">ease</word>
+				<word number="7">trim</word>
+				<word number="8">mood</word>
+				<word number="9">pickle</word>
+				<word number="10">plight</word>
+				<word number="11">temper</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="appearance" headRef="467">aspect</word>
+				<word number="2">dilemma</word>
+				<word number="3">pass</word>
+				<word number="4">predicament</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="constitution">
+			<sg number="1">
+				<word number="1">constitution</word>
+				<word number="2">habitude</word>
+				<word number="3">diathesis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frame</word>
+				<word number="2" paraRef="fabric" headRef="340">fabric</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stamp</word>
+				<word number="2">set</word>
+				<word number="3">fit</word>
+				<word number="4">mold</word>
+				<word number="5">mould</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mode">
+			<sg number="1">
+				<word number="1">mode</word>
+				<word number="2">modality</word>
+				<word number="3">schesis</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="shape" headRef="250">form</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tone">
+			<sg number="1">
+				<word number="1">tone</word>
+				<word number="2">tenor</word>
+				<word number="3">turn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trim</word>
+				<word number="2">guise</word>
+				<word number="3">fashion</word>
+				<word number="4">light</word>
+				<word number="5">complexion</word>
+				<word number="6">style</word>
+				<word number="7">character</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in a state">
+			<sg number="1">
+				<word number="1">be in a state</word>
+				<word number="2">possess a state</word>
+				<word number="3">enjoy a state</word>
+				<word number="4" paraRef="" posRef="n.">labor under a state</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be on a footing</word>
+				<word number="2">do</word>
+				<word number="3">fare</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come to pass</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="conditional">
+			<sg number="1">
+				<word number="1">conditional</word>
+				<word number="2">modal</word>
+				<word number="3">formal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">structural</word>
+				<word number="2">organic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="conditionally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">conditionally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as the matter stands</word>
+				<word number="2">as things are</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="such being the case" headRef="8">such being the case</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

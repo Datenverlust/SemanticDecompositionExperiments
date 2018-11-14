@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="595" name="Style" origNum="#569." class="5" section="3" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="style">
+			<sg number="1">
+				<word number="1">style</word>
+				<word number="2">diction</word>
+				<word number="3">phraseology</word>
+				<word number="4">wording</word>
+			</sg>
+			<sg number="2">
+				<word number="1">manner</word>
+				<word number="2">strain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">composition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mode of expression</word>
+				<word number="2">choice of words</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mode of speech</word>
+				<word number="2">literary power</word>
+				<word number="3">ready pen</word>
+				<word number="4">pen of a ready writer</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="eloquence" headRef="608">command of language</word>
+			</sg>
+			<sg number="7">
+				<word number="1">authorship</word>
+			</sg>
+			<sg number="8">
+				<word number="1">la morgue litteraire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="express by words">
+			<sg number="1">
+				<word number="1" paraRef="express by words" headRef="592">express by words</word>
+			</sg>
+			<sg number="2">
+				<word number="1">write</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="le style c'est de l'homme">
+			<sg number="1">
+				<word number="1">le style c'est de l'homme</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"style is the dress of thoughts"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="846" name="Accounts" origNum="#811." class="7" section="4" subSection="4" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="accounts">
+			<sg number="1">
+				<word number="1">accounts</word>
+				<word number="2">accompts!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commercial arithmetic</word>
+				<word number="2">monetary arithmetic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="numeration" headRef="89">statistics</word>
+			</sg>
+			<sg number="4">
+				<word number="1">money matters</word>
+				<word number="2">finance</word>
+				<word number="3">budget</word>
+				<word number="4">bill</word>
+				<word number="5">score</word>
+				<word number="6">reckoning</word>
+				<word number="7">account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="books">
+			<sg number="1">
+				<word number="1">books</word>
+				<word number="2">account book</word>
+				<word number="3">ledger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">day book</word>
+				<word number="2">cash book</word>
+				<word number="3">pass book</word>
+			</sg>
+			<sg number="3">
+				<word number="1">journal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">debtor and creditor account</word>
+				<word number="2">cash account</word>
+				<word number="3">running account</word>
+			</sg>
+			<sg number="5">
+				<word number="1">account current</word>
+			</sg>
+			<sg number="6">
+				<word number="1">balance</word>
+				<word number="2">balance sheet</word>
+			</sg>
+			<sg number="7">
+				<word number="1">compte rendu</word>
+				<word number="2">account settled</word>
+				<word number="3">acquit</word>
+				<word number="4">assets</word>
+				<word number="5">expenditure</word>
+				<word number="6">liabilities</word>
+				<word number="7">outstanding accounts</word>
+			</sg>
+			<sg number="8">
+				<word number="1">profit and loss account</word>
+				<word number="2">profit and loss statement</word>
+				<word number="3">receipts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bookkeeping">
+			<sg number="1">
+				<word number="1">bookkeeping</word>
+				<word number="2">accounting</word>
+				<word number="3">double entry bookkeeping</word>
+				<word number="4">reckoning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="audit">
+			<sg number="1">
+				<word number="1">audit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="accountant">
+			<sg number="1">
+				<word number="1">accountant</word>
+				<word number="2">auditor</word>
+				<word number="3">actuary</word>
+				<word number="4">bookkeeper</word>
+				<word number="5">bean counter</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="financier" headRef="836">financier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accounting party</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chartered accountant</word>
+				<word number="2">certified accountant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">accounting firm</word>
+				<word number="2">auditing firm</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="keep accounts">
+			<sg number="1">
+				<word number="1">keep accounts</word>
+				<word number="2">enter</word>
+				<word number="3">post</word>
+				<word number="4">book</word>
+				<word number="5">credit</word>
+				<word number="6">debit</word>
+				<word number="7">carry over</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take stock</word>
+			</sg>
+			<sg number="3">
+				<word number="1">balance accounts</word>
+				<word number="2">make up accounts</word>
+				<word number="3">square accounts</word>
+				<word number="4">settle accounts</word>
+				<word number="5">wind up accounts</word>
+				<word number="6">cast up accounts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make accounts square</word>
+				<word number="2">square accounts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bring to book">
+			<sg number="1">
+				<word number="1">bring to book</word>
+				<word number="2">tax</word>
+				<word number="3">surcharge and falsify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="audit">
+			<sg number="1">
+				<word number="1">audit</word>
+				<word number="2">field audit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">check the books</word>
+				<word number="2">verify accounts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="falsify an account">
+			<sg number="1">
+				<word number="1">falsify an account</word>
+				<word number="2">garble an account</word>
+				<word number="3">cook an account</word>
+				<word number="4">cook the books</word>
+				<word number="5">doctor an account</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="monetary">
+			<sg number="1">
+				<word number="1" paraRef="monetary" headRef="835">monetary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accountable</word>
+				<word number="2">accounting</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

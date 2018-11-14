@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="208" name="Contiguity" origNum="#199." class="2" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="contiguity">
+			<sg number="1">
+				<word number="1">contiguity</word>
+				<word number="2">contact</word>
+				<word number="3">proximity</word>
+				<word number="4">apposition</word>
+				<word number="5">abuttal</word>
+				<word number="6">juxtaposition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abutment</word>
+				<word number="2">osculation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meeting</word>
+				<word number="2">appulse</word>
+				<word number="3">rencontre</word>
+				<word number="4">rencounter</word>
+				<word number="5">syzygy</word>
+				<word number="6">coincidence</word>
+				<word number="7">coexistence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="adhesion" headRef="49">adhesion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">touching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="borderland">
+			<sg number="1">
+				<word number="1">borderland</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="limit" headRef="243">frontier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tangent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abutter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be contiguous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be contiguous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">join</word>
+				<word number="2">adjoin</word>
+				<word number="3">abut on</word>
+				<word number="4">march with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">graze</word>
+				<word number="2">touch</word>
+				<word number="3">meet</word>
+				<word number="4">osculate</word>
+				<word number="5">come in contact</word>
+				<word number="6">coincide</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coexist</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="adhere" headRef="49">adhere</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">marry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="juxtapose">
+			<sg number="1">
+				<word number="1">juxtapose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contact</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unite" headRef="46">join</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vinculum" headRef="48">link</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="contiguous">
+			<sg number="1">
+				<word number="1">contiguous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">touching</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">in contact</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conterminous</word>
+				<word number="2">end to end</word>
+				<word number="3">osculatory</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pertingent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tangential</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hand to hand">
+			<sg number="1">
+				<word number="1">hand to hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="near" headRef="206">close to</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="interval" headRef="207">with no interval</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="259" name="Rotundity" origNum="#249." class="2" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rotundity">
+			<sg number="1">
+				<word number="1">rotundity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">roundness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cylindricity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sphericity</word>
+				<word number="2">spheroidity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">globosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cylinder">
+			<sg number="1">
+				<word number="1">cylinder</word>
+				<word number="2">cylindroid</word>
+				<word number="3">cylindrical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">barrel</word>
+				<word number="2">drum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">roll</word>
+				<word number="2">roller</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rouleau</word>
+				<word number="2">column</word>
+				<word number="3">rolling-pin</word>
+				<word number="4">rundle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cone">
+			<sg number="1">
+				<word number="1">cone</word>
+				<word number="2">conoid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pear shape</word>
+				<word number="2">egg shape</word>
+				<word number="3">bell shape</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sphere">
+			<sg number="1">
+				<word number="1">sphere</word>
+				<word number="2">globe</word>
+				<word number="3">ball</word>
+				<word number="4">boulder</word>
+				<word number="5">bowlder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spheroid</word>
+				<word number="2">ellipsoid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oblong spheroid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">oblate spheroid</word>
+				<word number="2">prolate spheroid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">drop</word>
+				<word number="2">spherule</word>
+				<word number="3">globule</word>
+				<word number="4">vesicle</word>
+				<word number="5">bulb</word>
+				<word number="6">bullet</word>
+				<word number="7">pellet</word>
+				<word number="8">pelote</word>
+				<word number="9">clew</word>
+				<word number="10">pill</word>
+				<word number="11">marble</word>
+				<word number="12">pea</word>
+				<word number="13">knob</word>
+				<word number="14">pommel</word>
+				<word number="15">horn</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="convolution" headRef="258">knot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="curved surface">
+			<sg number="1">
+				<word number="1">curved surface</word>
+				<word number="2">hypersphere</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hyperdimensional surface</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render spherical">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render spherical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">form into a sphere</word>
+				<word number="2">sphere</word>
+				<word number="3">roll into a ball</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">give rotundity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">round</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rotund">
+			<sg number="1">
+				<word number="1">rotund</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="circular" headRef="257">round</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cylindric</word>
+				<word number="2">cylindrical</word>
+				<word number="3">cylindroid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">columnar</word>
+				<word number="2">lumbriciform</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conic</word>
+				<word number="2">conical</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spherical</word>
+				<word number="2">spheroidal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">globular</word>
+				<word number="2">globated</word>
+				<word number="3">globous</word>
+				<word number="4">globose</word>
+			</sg>
+			<sg number="8">
+				<word number="1">egg shaped</word>
+				<word number="2">bell shaped</word>
+				<word number="3">pear shaped</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ovoid</word>
+				<word number="2">oviform</word>
+			</sg>
+			<sg number="10">
+				<word number="1">gibbous</word>
+			</sg>
+			<sg number="11">
+				<word number="1">rixiform</word>
+			</sg>
+			<sg number="12">
+				<word number="1">campaniform</word>
+				<word number="2">campanulate</word>
+				<word number="3">campaniliform</word>
+			</sg>
+			<sg number="13">
+				<word number="1">fungiform</word>
+				<word number="2">bead-like</word>
+				<word number="3">moniliform</word>
+				<word number="4">pyriform</word>
+				<word number="5">bulbous</word>
+			</sg>
+			<sg number="14">
+				<word number="1">tres atque rotundus</word>
+			</sg>
+			<sg number="15">
+				<word number="1">round as an orange</word>
+				<word number="2">round as an apple</word>
+				<word number="3">round as a ball</word>
+				<word number="4">round as a billiard ball</word>
+				<word number="5">round as a cannon ball</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

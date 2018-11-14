@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="352" name="Ocean" origNum="#341." class="3" section="2" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sea">
+			<sg number="1">
+				<word number="1">sea</word>
+				<word number="2">ocean</word>
+				<word number="3">main</word>
+				<word number="4">deep</word>
+				<word number="5">brine</word>
+				<word number="6">salt water</word>
+				<word number="7">waves</word>
+				<word number="8">billows</word>
+				<word number="9">high seas</word>
+				<word number="10">offing</word>
+				<word number="11">great waters</word>
+				<word number="12">watery waste</word>
+				<word number="13">"vasty deep"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wave</word>
+				<word number="2" paraRef="water in motion" headRef="359">tide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hydrography">
+			<sg number="1">
+				<word number="1">hydrography</word>
+				<word number="2">hydrographer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Neptune</word>
+				<word number="2">Poseidon</word>
+				<word number="3">Thetis</word>
+				<word number="4">Triton</word>
+				<word number="5">Naiad</word>
+				<word number="6">Nereid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sea nymph</word>
+				<word number="2">Siren</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trident</word>
+				<word number="2">dolphin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="oceanic">
+			<sg number="1">
+				<word number="1">oceanic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">marine</word>
+				<word number="2">maritime</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pelagic</word>
+				<word number="2">pelagian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seagoing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hydrographic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bathybic</word>
+				<word number="2">cotidal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at sea">
+			<sg number="1">
+				<word number="1">at sea</word>
+				<word number="2">on sea</word>
+			</sg>
+			<sg number="2">
+				<word number="1">afloat</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

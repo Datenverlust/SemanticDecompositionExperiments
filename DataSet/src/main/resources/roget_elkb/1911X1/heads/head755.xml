@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="755" name="Combatant" origNum="#726." class="6" section="4" subSection="1" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="combatant">
+			<sg number="1">
+				<word number="1">combatant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disputant</word>
+				<word number="2">controversialist</word>
+				<word number="3">polemic</word>
+				<word number="4">litigant</word>
+				<word number="5">belligerent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">competitor</word>
+				<word number="2">rival</word>
+				<word number="3">corrival</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fighter</word>
+				<word number="2">assailant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">champion</word>
+				<word number="2">Paladin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mosstrooper</word>
+				<word number="2">swashbuckler fire eater</word>
+				<word number="3">duelist</word>
+				<word number="4">bully</word>
+				<word number="5">bludgeon man</word>
+				<word number="6">rough</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prize fighter">
+			<sg number="1">
+				<word number="1">prize fighter</word>
+				<word number="2">pugilist</word>
+				<word number="3">boxer</word>
+				<word number="4">bruiser</word>
+				<word number="5">the fancy</word>
+				<word number="6">gladiator</word>
+				<word number="7">athlete</word>
+				<word number="8">wrestler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fighting-cock</word>
+				<word number="2">game-cock</word>
+			</sg>
+			<sg number="3">
+				<word number="1">warrior</word>
+				<word number="2">soldier</word>
+				<word number="3">fighting man</word>
+				<word number="4">Amazon</word>
+				<word number="5">man at arms</word>
+				<word number="6">armigerent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">campaigner</word>
+				<word number="2">veteran</word>
+			</sg>
+			<sg number="5">
+				<word number="1">swordsman</word>
+				<word number="2">sabreur</word>
+				<word number="3">redcoat</word>
+				<word number="4">military man</word>
+				<word number="5">Rajput</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="armed force">
+			<sg number="1">
+				<word number="1">armed force</word>
+				<word number="2">troops</word>
+				<word number="3">soldiery</word>
+				<word number="4">military forces</word>
+				<word number="5">sabaoth</word>
+				<word number="6">the army</word>
+				<word number="7">standing army</word>
+				<word number="8">regulars</word>
+				<word number="9">the line</word>
+				<word number="10">troops of the line</word>
+				<word number="11">militia</word>
+				<word number="12">yeomanry</word>
+				<word number="13">volunteers</word>
+				<word number="14">trainband</word>
+				<word number="15">fencible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">auxiliary</word>
+				<word number="2">bersagliere</word>
+				<word number="3">brave</word>
+			</sg>
+			<sg number="3">
+				<word number="1">garde-nationale</word>
+				<word number="2">garde-royale</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minuteman</word>
+			</sg>
+			<sg number="5">
+				<word number="1">auxiliary forces</word>
+				<word number="2">reserve forces</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reserves</word>
+				<word number="2">posse comitatus</word>
+				<word number="3">national guard</word>
+				<word number="4">gendarme</word>
+				<word number="5">beefeater</word>
+			</sg>
+			<sg number="7">
+				<word number="1">guards</word>
+				<word number="2">guardsman</word>
+			</sg>
+			<sg number="8">
+				<word number="1">yeomen of the guard</word>
+				<word number="2">life guards</word>
+				<word number="3">household troops</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="janissary">
+			<sg number="1">
+				<word number="1">janissary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">myrmidon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Mama</word>
+				<word number="2">Mameluke</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spahee</word>
+				<word number="2">spahi</word>
+				<word number="3">Cossack</word>
+				<word number="4">Croat</word>
+				<word number="5">Pandoz</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="irregular">
+			<sg number="1">
+				<word number="1">irregular</word>
+				<word number="2">guerilla</word>
+				<word number="3">partisan</word>
+				<word number="4">condottiere</word>
+			</sg>
+			<sg number="2">
+				<word number="1">franctireur</word>
+				<word number="2">tirailleur</word>
+				<word number="3">bashi-bazouk</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vietminh</word>
+				<word number="2">vietcong</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shining path</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contras</word>
+			</sg>
+			<sg number="6">
+				<word number="1">huk</word>
+				<word number="2">hukbalahap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="mercenary">
+			<sg number="1">
+				<word number="1">mercenary</word>
+				<word number="2">soldier of fortune</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hired gun</word>
+				<word number="2">gunfighter</word>
+				<word number="3">gunslinger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bushwhacker</word>
+				<word number="2">free lance</word>
+				<word number="3">companion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Hessian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="hit man">
+			<sg number="1">
+				<word number="1">hit man</word>
+				<word number="2">torpedo</word>
+				<word number="3">soldier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="levy">
+			<sg number="1">
+				<word number="1">levy</word>
+				<word number="2">draught</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Landwehr</word>
+				<word number="2">Landsturm</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conscript</word>
+				<word number="2">recruit</word>
+				<word number="3">cadet</word>
+				<word number="4">raw levies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="infantry">
+			<sg number="1">
+				<word number="1">infantry</word>
+				<word number="2">infantryman</word>
+				<word number="3">private</word>
+				<word number="4">private soldier</word>
+				<word number="5">foot soldier</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Tommy Atkins</word>
+				<word number="2">rank and file</word>
+				<word number="3">peon</word>
+				<word number="4">trooper</word>
+				<word number="5">sepoy</word>
+				<word number="6">legionnaire</word>
+				<word number="7">legionary</word>
+				<word number="8">cannon fodder</word>
+				<word number="9">food for powder</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="commander" headRef="776">officer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subaltern</word>
+				<word number="2">ensign</word>
+				<word number="3">standard bearer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spearman</word>
+				<word number="2">pikeman</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spear bearer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">halberdier</word>
+				<word number="2">lancer</word>
+			</sg>
+			<sg number="8">
+				<word number="1">musketeer</word>
+				<word number="2">carabineer</word>
+				<word number="3">rifleman</word>
+				<word number="4">jager</word>
+				<word number="5">sharpshooter</word>
+				<word number="6">yager</word>
+				<word number="7">skirmisher</word>
+			</sg>
+			<sg number="9">
+				<word number="1">grenadier</word>
+				<word number="2">fusileer</word>
+			</sg>
+			<sg number="10">
+				<word number="1">archer</word>
+				<word number="2">bowman</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">corporal</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">horsemen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="horse and foot">
+			<sg number="1">
+				<word number="1">horse and foot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horse soldier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cavalry</word>
+				<word number="2">horse</word>
+				<word number="3">artillery</word>
+				<word number="4">horse artillery</word>
+				<word number="5">light horse</word>
+				<word number="6">voltigeur</word>
+				<word number="7">uhlan</word>
+				<word number="8">mounted rifles</word>
+				<word number="9">dragoon</word>
+				<word number="10">hussar</word>
+			</sg>
+			<sg number="4">
+				<word number="1">light dragoon</word>
+				<word number="2">heavy dragoon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heavy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cuirassier</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Foot Guards</word>
+				<word number="2">Horse Guards</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="gunner">
+			<sg number="1">
+				<word number="1">gunner</word>
+				<word number="2">cannoneer</word>
+				<word number="3">bombardier</word>
+				<word number="4">artilleryman</word>
+				<word number="5">matross</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sapper</word>
+				<word number="2">sapper and miner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">engineer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">light infantry</word>
+				<word number="2">rifles,chasseur</word>
+				<word number="3">zouave</word>
+			</sg>
+			<sg number="5">
+				<word number="1">military train</word>
+				<word number="2">coolie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="army">
+			<sg number="1">
+				<word number="1">army</word>
+				<word number="2">corps d'armee</word>
+				<word number="3">host</word>
+				<word number="4">division</word>
+				<word number="5">battalia</word>
+				<word number="6">column</word>
+				<word number="7">wing</word>
+				<word number="8">detachment</word>
+				<word number="9">garrison</word>
+				<word number="10">flying column</word>
+				<word number="11">brigade</word>
+				<word number="12">regiment</word>
+				<word number="13">corps</word>
+				<word number="14">battalion</word>
+				<word number="15">sotnia</word>
+				<word number="16">squadron</word>
+				<word number="17">company</word>
+				<word number="18">platoon</word>
+				<word number="19">battery</word>
+				<word number="20">subdivision</word>
+				<word number="21">section</word>
+				<word number="22">squad</word>
+				<word number="23" new="1">command</word>
+				<word number="24" new="1">constabulary</word>
+				<word number="25" new="1">contingent</word>
+				<word number="26" new="1">echelon</word>
+				<word number="27" new="1">force</word>
+				<word number="28" new="1">troop</word>
+				<word number="29" new="1">unit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">piquet</word>
+				<word number="2">picket</word>
+				<word number="3">guard</word>
+				<word number="4">rank</word>
+				<word number="5">file</word>
+			</sg>
+			<sg number="3">
+				<word number="1">legion</word>
+				<word number="2">phalanx</word>
+				<word number="3">cohort</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cloud of skirmishers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="war horse">
+			<sg number="1">
+				<word number="1">war horse</word>
+				<word number="2">charger</word>
+				<word number="3">destrier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="marine">
+			<sg number="1">
+				<word number="1">marine</word>
+				<word number="2" paraRef="sailor" headRef="280">man-of-war's man</word>
+			</sg>
+			<sg number="2">
+				<word number="1">navy</word>
+				<word number="2">wooden walls</word>
+				<word number="3">naval forces</word>
+				<word number="4">fleet</word>
+				<word number="5">flotilla</word>
+				<word number="6">armada</word>
+				<word number="7">squadron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="man-of-war">
+			<sg number="1">
+				<word number="1">man-of-war</word>
+			</sg>
+			<sg number="2">
+				<word number="1">destroyer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">submarine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minesweeper</word>
+			</sg>
+			<sg number="5">
+				<word number="1">torpedo- boat</word>
+				<word number="2">torpedo-destroyer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">patrol torpedo boat</word>
+				<word number="2">PT boat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">torpedo-catcher</word>
+				<word number="2">war castle</word>
+				<word number="3">H.M.S</word>
+			</sg>
+			<sg number="8">
+				<word number="1">battleship</word>
+				<word number="2">battle wagon</word>
+				<word number="3">dreadnought</word>
+				<word number="4">line of battle ship</word>
+				<word number="5">ship of the line</word>
+			</sg>
+			<sg number="9">
+				<word number="1">aircraft carrier</word>
+				<word number="2">carrier</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">chaser</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">repulse</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">ship</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">tug</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="flattop[coll">
+			<sg number="1">
+				<word number="1">flattop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">helicopter carrier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">missile platform</word>
+				<word number="2">missile boat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ironclad</word>
+				<word number="2">turret ship</word>
+				<word number="3">ram</word>
+				<word number="4">monitor</word>
+				<word number="5">floating battery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">first-rate</word>
+				<word number="2">frigate</word>
+				<word number="3">sloop of war</word>
+				<word number="4">corvette</word>
+				<word number="5">gunboat</word>
+				<word number="6">bomb vessel</word>
+				<word number="7" new="1">sloop</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flagship</word>
+				<word number="2">guard ship</word>
+				<word number="3">cruiser</word>
+			</sg>
+			<sg number="7">
+				<word number="1">armored cruiser</word>
+				<word number="2">protected cruiser</word>
+			</sg>
+			<sg number="8">
+				<word number="1">privateer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="tender">
+			<sg number="1">
+				<word number="1">tender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">store ship</word>
+				<word number="2">troop ship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">transport</word>
+				<word number="2">catamaran</word>
+			</sg>
+			<sg number="4">
+				<word number="1">merchant marine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="ally">
+			<sg number="1">
+				<word number="1" new="1">ally</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="base">
+			<sg number="1">
+				<word number="1" new="1">base</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="bomber">
+			<sg number="1">
+				<word number="1" new="1">bomber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="centurion">
+			<sg number="1">
+				<word number="1" new="1">centurion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="civilian">
+			<sg number="1">
+				<word number="1" new="1">civilian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="commander">
+			<sg number="1">
+				<word number="1" new="1">commander</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="confederate">
+			<sg number="1">
+				<word number="1" new="1">confederate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="convoy">
+			<sg number="1">
+				<word number="1" new="1">convoy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="crew">
+			<sg number="1">
+				<word number="1" new="1">crew</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="defender">
+			<sg number="1">
+				<word number="1" new="1">defender</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="departed">
+			<sg number="1">
+				<word number="1" new="1">departed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="gendarmerie">
+			<sg number="1">
+				<word number="1" new="1">gendarmerie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="invader">
+			<sg number="1">
+				<word number="1" new="1">invader</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="knight">
+			<sg number="1">
+				<word number="1" new="1">knight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="military">
+			<sg number="1">
+				<word number="1" new="1">military</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="paratrooper">
+			<sg number="1">
+				<word number="1" new="1">paratrooper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="patrol">
+			<sg number="1">
+				<word number="1" new="1">patrol</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="personnel">
+			<sg number="1">
+				<word number="1" new="1">personnel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="pilot">
+			<sg number="1">
+				<word number="1" new="1">pilot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="pirate">
+			<sg number="1">
+				<word number="1" new="1">pirate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="38" name="police">
+			<sg number="1">
+				<word number="1" new="1">police</word>
+			</sg>
+		</paragraph>
+		<paragraph number="39" name="policeman">
+			<sg number="1">
+				<word number="1" new="1">policeman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="40" name="policemen">
+			<sg number="1">
+				<word number="1" new="1">policemen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="41" name="rebel">
+			<sg number="1">
+				<word number="1" new="1">rebel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="42" name="reinforcement">
+			<sg number="1">
+				<word number="1" new="1">reinforcement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="43" name="scout">
+			<sg number="1">
+				<word number="1" new="1">scout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="44" name="sniper">
+			<sg number="1">
+				<word number="1" new="1">sniper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="45" name="trawler">
+			<sg number="1">
+				<word number="1" new="1">trawler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="46" name="vanguard">
+			<sg number="1">
+				<word number="1" new="1">vanguard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="47" name="vessel">
+			<sg number="1">
+				<word number="1" new="1">vessel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="48" name="volunteer">
+			<sg number="1">
+				<word number="1" new="1">volunteer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="49" name="wounded">
+			<sg number="1">
+				<word number="1" new="1">wounded</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

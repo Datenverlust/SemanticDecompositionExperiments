@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="762" name="Trophy" origNum="#733." class="6" section="5" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="trophy">
+			<sg number="1">
+				<word number="1">trophy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">medal</word>
+				<word number="2">prize</word>
+				<word number="3">palm</word>
+				<word number="4">award</word>
+			</sg>
+			<sg number="3">
+				<word number="1">laurel</word>
+				<word number="2">laurels</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bays</word>
+				<word number="2">crown</word>
+				<word number="3">chaplet</word>
+				<word number="4">wreath</word>
+				<word number="5">civic crown</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="insignia" headRef="576">insignia</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="honor" headRef="912">feather in one's cap</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="decoration" headRef="916">decoration</word>
+			</sg>
+			<sg number="8">
+				<word number="1">garland</word>
+				<word number="2">triumphal arch</word>
+				<word number="3">Victoria Cross</word>
+				<word number="4">Iron Cross</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="triumph">
+			<sg number="1">
+				<word number="1" paraRef="celebration" headRef="922">triumph</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="show" headRef="921">flying colors</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="monumentum aere perennius  [Hor">
+			<sg number="1">
+				<word number="1">monumentum aere perennius</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="for valor">
+			<sg number="1">
+				<word number="1">"for valor"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="452" name="Brown" origNum="#433." class="3" section="3" subSection="2" headGroup="33">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="brown">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">brown</word>
+				<word number="2">ocher</word>
+				<word number="3">sepia</word>
+				<word number="4">Vandyke brown</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render brown">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render brown</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tan</word>
+				<word number="2">embrown</word>
+				<word number="3">bronze</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="brown">
+			<sg number="1">
+				<word number="1">brown</word>
+				<word number="2">bay</word>
+				<word number="3">dapple</word>
+				<word number="4">auburn</word>
+				<word number="5">castaneous</word>
+				<word number="6">chestnut</word>
+				<word number="7">nut- brown</word>
+				<word number="8">cinnamon</word>
+				<word number="9">russet</word>
+				<word number="10">tawny</word>
+				<word number="11">fuscous</word>
+				<word number="12">chocolate</word>
+				<word number="13">maroon</word>
+				<word number="14">foxy</word>
+				<word number="15">tan</word>
+				<word number="16">brunette</word>
+				<word number="17">whitey brown</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fawn-colored</word>
+				<word number="2">snuff-colored</word>
+				<word number="3">liver- colored</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brown as a berry</word>
+				<word number="2">brown as mahogany</word>
+				<word number="3">brown as the oak leaves</word>
+			</sg>
+			<sg number="4">
+				<word number="1">khaki</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sun-burnt">
+			<sg number="1">
+				<word number="1">sun-burnt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">tanned</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

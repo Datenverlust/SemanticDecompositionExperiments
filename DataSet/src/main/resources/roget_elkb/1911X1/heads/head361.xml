@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="361" name="Conduit" origNum="#350." class="3" section="2" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="conduit">
+			<sg number="1">
+				<word number="1">conduit</word>
+				<word number="2">channel</word>
+				<word number="3">duct</word>
+				<word number="4">watercourse</word>
+				<word number="5">race</word>
+			</sg>
+			<sg number="2">
+				<word number="1">head race</word>
+				<word number="2">tail race</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abito</word>
+				<word number="2">aboideau</word>
+				<word number="3">aboiteau</word>
+				<word number="4">bito</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acequia</word>
+				<word number="2">acequiador</word>
+				<word number="3">acequiamadre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arroyo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">adit</word>
+				<word number="2">aqueduct</word>
+				<word number="3">canal</word>
+				<word number="4">trough</word>
+				<word number="5">gutter</word>
+				<word number="6">pantile</word>
+			</sg>
+			<sg number="7">
+				<word number="1">flume</word>
+				<word number="2">ingate</word>
+				<word number="3">runner</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lock-weir</word>
+				<word number="2">tedge</word>
+			</sg>
+			<sg number="9">
+				<word number="1">vena</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dike</word>
+				<word number="2">main</word>
+				<word number="3">gully</word>
+				<word number="4">moat</word>
+				<word number="5">ditch</word>
+				<word number="6">drain</word>
+				<word number="7">sewer</word>
+				<word number="8">culvert</word>
+				<word number="9">cloaca</word>
+				<word number="10">sough</word>
+				<word number="11">kennel</word>
+				<word number="12">siphon</word>
+				<word number="13" new="1">embankment</word>
+			</sg>
+			<sg number="11">
+				<word number="1">piscina</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="tube" headRef="271">pipe</word>
+			</sg>
+			<sg number="13">
+				<word number="1">funnel</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="passage" headRef="656">tunnel</word>
+			</sg>
+			<sg number="15">
+				<word number="1">water pipe</word>
+				<word number="2">waste pipe</word>
+			</sg>
+			<sg number="16">
+				<word number="1">emunctory</word>
+				<word number="2">gully hole</word>
+				<word number="3">artery</word>
+				<word number="4">aorta</word>
+				<word number="5">pore</word>
+				<word number="6">spout</word>
+				<word number="7">scupper</word>
+			</sg>
+			<sg number="17">
+				<word number="1">adjutage</word>
+				<word number="2">ajutage</word>
+			</sg>
+			<sg number="18">
+				<word number="1">hose</word>
+			</sg>
+			<sg number="19">
+				<word number="1">gargoyle</word>
+			</sg>
+			<sg number="20">
+				<word number="1">gurgoyle</word>
+			</sg>
+			<sg number="21">
+				<word number="1">penstock</word>
+				<word number="2">weir</word>
+			</sg>
+			<sg number="22">
+				<word number="1">flood gate</word>
+				<word number="2">water gate</word>
+			</sg>
+			<sg number="23">
+				<word number="1">sluice</word>
+				<word number="2">lock</word>
+				<word number="3">valve</word>
+			</sg>
+			<sg number="24">
+				<word number="1">rose</word>
+			</sg>
+			<sg number="25">
+				<word number="1">waterworks</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">chute</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">dam</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">levee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pipeline">
+			<sg number="1">
+				<word number="1">pipeline</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vascular">
+			<sg number="1">
+				<word number="1" paraRef="hole" headRef="271">vascular</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

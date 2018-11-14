@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="920" name="Modesty" origNum="#881." class="8" section="2" subSection="5" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="modesty">
+			<sg number="1">
+				<word number="1">modesty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="humility" headRef="918">humility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diffidence</word>
+				<word number="2">timidity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">retiring disposition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unobtrusiveness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">bashfulness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mauvaise honte</word>
+			</sg>
+			<sg number="8">
+				<word number="1">blush</word>
+				<word number="2">blushing</word>
+			</sg>
+			<sg number="9">
+				<word number="1">verecundity</word>
+			</sg>
+			<sg number="10">
+				<word number="1">self-knowledge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reserve">
+			<sg number="1">
+				<word number="1">reserve</word>
+				<word number="2">constraint</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">demureness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"blushing honors"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be modest">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be modest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retire</word>
+				<word number="2">reserve oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give way to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="draw in one's horns" headRef="918">draw in one's horns</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hide one's face</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep private">
+			<sg number="1">
+				<word number="1">keep private</word>
+				<word number="2">keep in the background</word>
+				<word number="3">keep one's distance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pursue the noiseless tenor of one's way</word>
+				<word number="2">"do good by stealth and blush to find it fame"</word>
+				<word number="3">hide one's light under a bushel</word>
+				<word number="4">cast a sheep's eye</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="modest">
+			<sg number="1">
+				<word number="1">modest</word>
+				<word number="2">diffident</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="humble" headRef="918">humble</word>
+			</sg>
+			<sg number="3">
+				<word number="1">timid</word>
+				<word number="2">timorous</word>
+				<word number="3">bashful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shy</word>
+				<word number="2">nervous</word>
+				<word number="3">skittish</word>
+				<word number="4">coy</word>
+				<word number="5">sheepish</word>
+				<word number="6">shamefaced</word>
+				<word number="7">blushing</word>
+				<word number="8">overmodest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unpretending">
+			<sg number="1">
+				<word number="1">unpretending</word>
+				<word number="2">unpretentious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unobtrusive</word>
+				<word number="2">unassuming</word>
+				<word number="3">unostentatious</word>
+				<word number="4">unboastful</word>
+				<word number="5">unaspiring</word>
+			</sg>
+			<sg number="3">
+				<word number="1">poor in spirit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="out of countenance">
+			<sg number="1">
+				<word number="1" paraRef="humbled" headRef="918">out of countenance</word>
+				<word number="2">constrained</word>
+				<word number="3">demure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unworldly">
+			<sg number="1">
+				<word number="1" new="1">unworldly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="humbly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">humbly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quietly</word>
+				<word number="2">privately</word>
+			</sg>
+			<sg number="3">
+				<word number="1">without ceremony</word>
+				<word number="2">without beat of drum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sans fa
+on</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="not stepping o'er the bounds of modesty">
+			<sg number="1">
+				<word number="1">"not stepping o'er the bounds of modesty"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"thy modesty's a candle to thy merit"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="638" name="Rejection" origNum="#610." class="6" section="1" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rejection">
+			<sg number="1">
+				<word number="1">rejection</word>
+				<word number="2">repudiation</word>
+				<word number="3">exclusion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="refusal" headRef="795">refusal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">declination</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="reject">
+			<sg number="1">
+				<word number="1">reject</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set aside</word>
+				<word number="2">lay aside</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give up</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="refuse" headRef="795">decline</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exclude</word>
+				<word number="2">except</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pluck</word>
+				<word number="2">spin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="repudiate">
+			<sg number="1">
+				<word number="1">repudiate</word>
+				<word number="2">scout</word>
+				<word number="3">set at naught</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fling to the winds</word>
+				<word number="2">fling to the dogs</word>
+				<word number="3">fling overboard</word>
+				<word number="4">fling away</word>
+				<word number="5">cast to the winds</word>
+				<word number="6">cast to the dogs</word>
+				<word number="7">cast overboard</word>
+				<word number="8">cast away</word>
+				<word number="9">throw to the winds</word>
+				<word number="10">throw to the dogs</word>
+				<word number="11">throw overboard</word>
+				<word number="12">throw away</word>
+				<word number="13">toss to the winds</word>
+				<word number="14">toss to the dogs</word>
+				<word number="15">toss overboard</word>
+				<word number="16">toss away</word>
+			</sg>
+			<sg number="3">
+				<word number="1">send to the right about</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deny" headRef="562">disclaim</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="eject" headRef="308">discard</word>
+				<word number="2" paraRef="have done with" headRef="707">have done with</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rejected">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">rejected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reject</word>
+				<word number="2">rejectaneous</word>
+				<word number="3">rejectious</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="chosen" headRef="636">not chosen</word>
+				<word number="2">to be thought of</word>
+				<word number="3">out of the question</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="neither">
+			<sg number="1">
+				<word number="1">neither</word>
+				<word number="2">neither the one nor the other</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="no" headRef="562">no</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non haec in faedera">
+			<sg number="1">
+				<word number="1">non haec in faedera</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

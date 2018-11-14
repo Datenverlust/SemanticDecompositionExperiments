@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="481" name="Inquiry " origNum="#461." class="4" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inquiry">
+			<sg number="1">
+				<word number="1">inquiry</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="request" headRef="796">request</word>
+			</sg>
+			<sg number="3">
+				<word number="1">search</word>
+				<word number="2">research</word>
+				<word number="3">quest</word>
+				<word number="4" paraRef="pursuit" headRef="651">pursuit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="examination">
+			<sg number="1">
+				<word number="1">examination</word>
+				<word number="2">review</word>
+				<word number="3">scrutiny</word>
+				<word number="4">investigation</word>
+				<word number="5">indagation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perquisition</word>
+				<word number="2">perscrutation</word>
+				<word number="3">pervestigation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inquest</word>
+				<word number="2">inquisition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exploration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exploitation</word>
+				<word number="2">ventilation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sifting">
+			<sg number="1">
+				<word number="1">sifting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">calculation</word>
+				<word number="2">analysis</word>
+				<word number="3">dissection</word>
+				<word number="4">resolution</word>
+				<word number="5">induction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Baconian method</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="strict inquiry">
+			<sg number="1">
+				<word number="1">strict inquiry</word>
+				<word number="2">close inquiry</word>
+				<word number="3">searching inquiry</word>
+				<word number="4">exhaustive inquiry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">narrow search</word>
+				<word number="2">strict search</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="consideration" headRef="471">study</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="scire facias">
+			<sg number="1">
+				<word number="1">scire facias</word>
+				<word number="2">ad referendum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="questioning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">questioning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">interrogation</word>
+				<word number="2">interrogatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interpellation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">challenge</word>
+				<word number="2">examination</word>
+				<word number="3">cross-examination</word>
+				<word number="4">catechism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">feeler</word>
+				<word number="2">Socratic method</word>
+				<word number="3">zetetic philosophy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">leading question</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="reasoning" headRef="499">discussion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="reconnoitering">
+			<sg number="1">
+				<word number="1">reconnoitering</word>
+				<word number="2">reconnaissance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">prying</word>
+			</sg>
+			<sg number="3">
+				<word number="1">espionage</word>
+				<word number="2">espionnage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">domiciliary visit</word>
+				<word number="2">peep behind the curtain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lantern of Diogenes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="question">
+			<sg number="1">
+				<word number="1">question</word>
+				<word number="2">query</word>
+				<word number="3">problem</word>
+				<word number="4">desideratum</word>
+				<word number="5">point to be solved</word>
+				<word number="6">porism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subject of inquiry</word>
+				<word number="2">field of inquiry</word>
+				<word number="3">subject of controversy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">point in dispute</word>
+				<word number="2">matter in dispute</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moot point</word>
+			</sg>
+			<sg number="5">
+				<word number="1">issue</word>
+				<word number="2">question at issue</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="discord" headRef="742">bone of contention</word>
+			</sg>
+			<sg number="7">
+				<word number="1">plain question</word>
+				<word number="2">fair question</word>
+				<word number="3">open question</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="secret" headRef="559">enigma</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="difficulty" headRef="733">knotty point</word>
+			</sg>
+			<sg number="10">
+				<word number="1">quodlibet</word>
+			</sg>
+			<sg number="11">
+				<word number="1">threshold of an inquiry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="inquirer">
+			<sg number="1">
+				<word number="1">inquirer</word>
+				<word number="2">investigator</word>
+				<word number="3">inquisitor</word>
+				<word number="4">inspector</word>
+				<word number="5">querist</word>
+				<word number="6">examiner</word>
+				<word number="7">catechist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scrutator scrutineer scrutinizer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">analyst</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="curiosity" headRef="475">quidnunc</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="elision">
+			<sg number="1">
+				<word number="1" new="1">elision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="chevron">
+			<sg number="1">
+				<word number="1" new="1">chevron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="islet">
+			<sg number="1">
+				<word number="1" new="1">islet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="godparent">
+			<sg number="1">
+				<word number="1" new="1">godparent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="sunbird">
+			<sg number="1">
+				<word number="1" new="1">sunbird</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="overcall">
+			<sg number="1">
+				<word number="1" new="1">overcall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="urethra">
+			<sg number="1">
+				<word number="1" new="1">urethra</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="digit">
+			<sg number="1">
+				<word number="1" new="1">digit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="make inquiry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">make inquiry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inquire</word>
+				<word number="2">ask</word>
+				<word number="3">seek</word>
+				<word number="4">search</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="look for">
+			<sg number="1">
+				<word number="1">look for</word>
+				<word number="2">look about for</word>
+				<word number="3">look out for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scan</word>
+				<word number="2">reconnoiter</word>
+				<word number="3">explore</word>
+				<word number="4">sound</word>
+				<word number="5">rummage</word>
+				<word number="6">ransack</word>
+				<word number="7">pry</word>
+				<word number="8">peer</word>
+				<word number="9">look round</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look over</word>
+				<word number="2">go over</word>
+				<word number="3">look through</word>
+				<word number="4">go through</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spy</word>
+				<word number="2">overhaul</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ask about">
+			<sg number="1">
+				<word number="1">ask about</word>
+				<word number="2">inquire about</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="scratch the head">
+			<sg number="1">
+				<word number="1">scratch the head</word>
+				<word number="2">slap the forehead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="look into every hole and corner">
+			<sg number="1">
+				<word number="1">look into every hole and corner</word>
+				<word number="2">peer into every hole and corner</word>
+				<word number="3">pry into every hole and corner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trace up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">search out</word>
+				<word number="2">hunt down</word>
+				<word number="3">hunt out</word>
+				<word number="4">fish out</word>
+				<word number="5">ferret out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unearth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">leave no stone unturned</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="seek a clue">
+			<sg number="1">
+				<word number="1">seek a clue</word>
+				<word number="2">seek a clew</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hunt</word>
+				<word number="2">track</word>
+				<word number="3">trail</word>
+				<word number="4">mouse</word>
+				<word number="5">dodge</word>
+				<word number="6">trace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">follow the trail</word>
+				<word number="2">follow the scent</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pursue" headRef="651">pursue</word>
+			</sg>
+			<sg number="5">
+				<word number="1">beat up one's quarters</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fish for</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="experiment" headRef="483">feel for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="investigate">
+			<sg number="1">
+				<word number="1">investigate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take up an inquiry</word>
+				<word number="2">institute an inquiry</word>
+				<word number="3">pursue an inquiry</word>
+				<word number="4">follow up an inquiry</word>
+				<word number="5">conduct an inquiry</word>
+				<word number="6">carry on an inquiry</word>
+				<word number="7">carry out an inquiry</word>
+				<word number="8" paraRef="" posRef="n.">prosecute an inquiry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look at</word>
+				<word number="2">look  into</word>
+			</sg>
+			<sg number="4">
+				<word number="1">preexamine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">discuss</word>
+				<word number="2">canvass</word>
+				<word number="3">agitate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">swaddle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="examine">
+			<sg number="1">
+				<word number="1">examine</word>
+				<word number="2">study</word>
+				<word number="3">consider</word>
+				<word number="4">calculate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dip into</word>
+				<word number="2">dive into</word>
+				<word number="3">delve into</word>
+				<word number="4">go deep into</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make sure of</word>
+				<word number="2">probe</word>
+				<word number="3">sound</word>
+				<word number="4">fathom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">probe to the bottom</word>
+				<word number="2">probe to the quick</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scrutinize</word>
+				<word number="2">analyze</word>
+				<word number="3">anatomize</word>
+				<word number="4">dissect</word>
+				<word number="5">parse</word>
+				<word number="6">resolve</word>
+				<word number="7">sift</word>
+				<word number="8">winnow</word>
+				<word number="9" new="1">restrain</word>
+			</sg>
+			<sg number="6">
+				<word number="1">view in all its phases</word>
+				<word number="2">try in all its phases</word>
+			</sg>
+			<sg number="7">
+				<word number="1">thresh out</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">oppugn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="bring in question">
+			<sg number="1">
+				<word number="1">bring in question</word>
+				<word number="2">bring into question</word>
+				<word number="3">subject to examination</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="experiment" headRef="483">put to the proof</word>
+			</sg>
+			<sg number="3">
+				<word number="1">audit</word>
+				<word number="2">tax</word>
+				<word number="3">pass in review</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="think" headRef="471">take into consideration</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="be advised by" headRef="724">take counsel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="question">
+			<sg number="1">
+				<word number="1">question</word>
+				<word number="2">demand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put the question</word>
+				<word number="2">pop the question</word>
+				<word number="3">propose the question</word>
+				<word number="4">propound the question</word>
+				<word number="5">moot the question</word>
+				<word number="6">start the question</word>
+				<word number="7">raise the question</word>
+				<word number="8">stir the question</word>
+				<word number="9">suggest the question</word>
+				<word number="10">put forth the question</word>
+				<word number="11">ventilate the question</word>
+				<word number="12">grapple with the question</word>
+				<word number="13">go into a question</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="question">
+			<sg number="1">
+				<word number="1">question</word>
+				<word number="2">put to the question</word>
+				<word number="3">interrogate</word>
+				<word number="4">pump</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subject to interrogation</word>
+				<word number="2">subject to examination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cross-question</word>
+				<word number="2">cross-examine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">press for an answer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give the third degree</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put to the inquisition</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dodge!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="catechize">
+			<sg number="1">
+				<word number="1">catechize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="require an answer">
+			<sg number="1">
+				<word number="1">require an answer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pick the brains of</word>
+				<word number="2">suck the brains of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feel the pulse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="get the lay of the land">
+			<sg number="1">
+				<word number="1">get the lay of the land</word>
+			</sg>
+			<sg number="2">
+				<word number="1">see how the wind is blowing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put one's ear to the ground</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="be in question">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be in question</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undergo examination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="defray">
+			<sg number="1">
+				<word number="1" new="1">defray</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="localise">
+			<sg number="1">
+				<word number="1" new="1">localise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="talc">
+			<sg number="1">
+				<word number="1" new="1">talc</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="canoe">
+			<sg number="1">
+				<word number="1" new="1">canoe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inquiry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">inquiry</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="curious" headRef="475">inquisitive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">requisitive</word>
+				<word number="2">requisitory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catechetical</word>
+				<word number="2">inquisitorial</word>
+				<word number="3">analytic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in search of</word>
+				<word number="2">in quest of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">on the lookout for</word>
+				<word number="2">interrogative</word>
+				<word number="3">zetetic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">all searching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="undetermined">
+			<sg number="1">
+				<word number="1">undetermined</word>
+				<word number="2">untried</word>
+				<word number="3">undecided</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in question</word>
+				<word number="2">in dispute</word>
+				<word number="3">in issue</word>
+				<word number="4">in course of inquiry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under discussion</word>
+				<word number="2">under consideration</word>
+				<word number="3" paraRef="" posRef="n.">under investigation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sub judice</word>
+				<word number="2">moot</word>
+				<word number="3">proposed</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="uncertain" headRef="498">doubtful</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="what? why? wherefore? whence? whither? where? quaere? how comes it">
+			<sg number="1">
+				<word number="1">what? why? wherefore? whence? whither? where? quaere? how comes it</word>
+				<word number="2">how happens it</word>
+				<word number="3">how is it? what is the reason? what's the matter</word>
+				<word number="4">what's in the wind?  what on earth? when? who? nicht wahr?</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

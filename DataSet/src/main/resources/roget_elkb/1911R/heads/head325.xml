@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="325" name="Oscillation" origNum="#314." class="2" section="4" subSection="4" headGroup="20">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="oscillation">
+			<sg number="1">
+				<word number="1">oscillation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vibration</word>
+				<word number="2">libration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">motion of a pendulum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nutation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">undulation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pulsation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pulse</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">disparagement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="alternation">
+			<sg number="1">
+				<word number="1">alternation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">coming and going</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ebb and flow</word>
+				<word number="2">flux and reflux</word>
+				<word number="3">ups and down</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fluctuation">
+			<sg number="1">
+				<word number="1">fluctuation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="irresolution" headRef="632">vacillation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wave">
+			<sg number="1">
+				<word number="1">wave</word>
+				<word number="2">vibratiuncle</word>
+				<word number="3">swing</word>
+				<word number="4">beat</word>
+				<word number="5">shake</word>
+				<word number="6">wag</word>
+				<word number="7">seesaw</word>
+				<word number="8">dance</word>
+				<word number="9">lurch</word>
+				<word number="10">dodge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">logan</word>
+				<word number="2">loggan</word>
+				<word number="3">rocking-stone</word>
+				<word number="4">vibroscope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="accouterment">
+			<sg number="1">
+				<word number="1" new="1">accouterment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="gringo">
+			<sg number="1">
+				<word number="1" new="1">gringo</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="oscillate">
+			<sg number="1">
+				<word number="1">oscillate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vibrate</word>
+				<word number="2">librate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alternate</word>
+				<word number="2">undulate</word>
+				<word number="3">wave</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rock</word>
+				<word number="2">swing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pulsate</word>
+				<word number="2">beat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wag</word>
+				<word number="2">waggle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nod</word>
+				<word number="2">bob</word>
+				<word number="3">courtesy</word>
+				<word number="4">curtsy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tick</word>
+			</sg>
+			<sg number="9">
+				<word number="1">play</word>
+			</sg>
+			<sg number="10">
+				<word number="1">wamble</word>
+				<word number="2">wabble</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dangle</word>
+				<word number="2">swag</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">weekend</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">knot</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">center</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fluctuate">
+			<sg number="1">
+				<word number="1">fluctuate</word>
+				<word number="2">dance</word>
+				<word number="3">curvet</word>
+				<word number="4">reel</word>
+				<word number="5">quake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quiver</word>
+				<word number="2">quaver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shake</word>
+				<word number="2">flicker</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wriggle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">roll</word>
+				<word number="2">toss</word>
+				<word number="3">pitch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flounder</word>
+				<word number="2">stagger</word>
+				<word number="3">totter</word>
+			</sg>
+			<sg number="7">
+				<word number="1">move up and down</word>
+				<word number="2" paraRef="" posRef="adv.">bob up and down</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pass and repass</word>
+				<word number="2">ebb and flow</word>
+				<word number="3">come and go</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="vacillate" headRef="632">vacillate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">teeter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="brandish">
+			<sg number="1">
+				<word number="1">brandish</word>
+				<word number="2">shake</word>
+				<word number="3">flourish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="congratulate">
+			<sg number="1">
+				<word number="1" new="1">congratulate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="oscillating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">oscillating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oscillatory</word>
+				<word number="2">undulatory</word>
+				<word number="3">pulsatory</word>
+				<word number="4">libratory</word>
+				<word number="5">rectilinear</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vibratory</word>
+				<word number="2">vibratile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pendulous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to and fro">
+			<sg number="1">
+				<word number="1">to and fro</word>
+				<word number="2">up and down</word>
+				<word number="3">backwards and forwards</word>
+				<word number="4">hither and yon</word>
+				<word number="5">seesaw</word>
+				<word number="6">zigzag</word>
+				<word number="7">wibble-wabble</word>
+				<word number="8">in and out</word>
+				<word number="9">from side to side</word>
+				<word number="10">like buckets in a well</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

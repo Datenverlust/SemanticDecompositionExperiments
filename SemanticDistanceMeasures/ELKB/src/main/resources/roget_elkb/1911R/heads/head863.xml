@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="863" name="Excitability" origNum="#825." class="8" section="1" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="excitability">
+			<sg number="1">
+				<word number="1">excitability</word>
+				<word number="2">impetuosity</word>
+				<word number="3">vehemence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">boisterousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turbulence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">impatience</word>
+				<word number="2">intolerance</word>
+				<word number="3">nonendurance</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="irascibility" headRef="940">irritability</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="desire" headRef="904">itching</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wincing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">disquiet</word>
+				<word number="2">disquietude</word>
+			</sg>
+			<sg number="9">
+				<word number="1">restlessness</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fidgets</word>
+				<word number="2">fidgetiness</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="irregular motion" headRef="326">agitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trepidation">
+			<sg number="1">
+				<word number="1">trepidation</word>
+				<word number="2">perturbation</word>
+				<word number="3">ruffle</word>
+				<word number="4">hurry</word>
+				<word number="5">fuss</word>
+				<word number="6">flurry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fluster</word>
+				<word number="2">flutter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pother</word>
+				<word number="2">stew</word>
+				<word number="3">ferment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">whirl</word>
+			</sg>
+			<sg number="5">
+				<word number="1">buck fever</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hurry-skurry</word>
+				<word number="2" paraRef="feeling" headRef="859">thrill</word>
+			</sg>
+			<sg number="7">
+				<word number="1">state of excitement</word>
+				<word number="2">fever of excitement</word>
+			</sg>
+			<sg number="8">
+				<word number="1">state of excitability</word>
+			</sg>
+			<sg number="9">
+				<word number="1">transport</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="passion">
+			<sg number="1">
+				<word number="1">passion</word>
+				<word number="2">excitement</word>
+				<word number="3">flush</word>
+				<word number="4">heat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fever</word>
+				<word number="2">heat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fire</word>
+				<word number="2">flame</word>
+				<word number="3">fume</word>
+				<word number="4">blood boiling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tumult</word>
+			</sg>
+			<sg number="5">
+				<word number="1">effervescence</word>
+				<word number="2">ebullition</word>
+			</sg>
+			<sg number="6">
+				<word number="1">boiling over</word>
+			</sg>
+			<sg number="7">
+				<word number="1">whiff</word>
+				<word number="2">gust</word>
+				<word number="3">story</word>
+				<word number="4">tempest</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scene</word>
+				<word number="2">breaking out</word>
+				<word number="3">burst</word>
+				<word number="4">fit</word>
+				<word number="5">paroxysm</word>
+				<word number="6">explosion</word>
+			</sg>
+			<sg number="9">
+				<word number="1">outbreak</word>
+				<word number="2">outburst</word>
+			</sg>
+			<sg number="10">
+				<word number="1">agony</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">takin</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">archduke</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">ichi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="violence">
+			<sg number="1">
+				<word number="1" paraRef="violence" headRef="180">violence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">fierceness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rage</word>
+				<word number="2">fury</word>
+				<word number="3">furor</word>
+				<word number="4">furore</word>
+				<word number="5">desperation</word>
+				<word number="6">madness</word>
+				<word number="7">distraction</word>
+				<word number="8">raving</word>
+				<word number="9">delirium</word>
+				<word number="10" new="1">sabino</word>
+			</sg>
+			<sg number="4">
+				<word number="1">phrensy</word>
+				<word number="2">frenzy</word>
+				<word number="3">hysterics</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intoxication</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tearing passion</word>
+				<word number="2">raging passion</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="anger" headRef="939">anger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fascination">
+			<sg number="1">
+				<word number="1">fascination</word>
+				<word number="2">infatuation</word>
+				<word number="3">fanaticism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Quixotism</word>
+				<word number="2">Quixotry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tete montee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="golliwog">
+			<sg number="1">
+				<word number="1" new="1">golliwog</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be impatient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be impatient</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="not be able to bear" headRef="906">not be able to bear</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear ill</word>
+				<word number="2">wince</word>
+				<word number="3">chafe</word>
+				<word number="4">champ a bit</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">be in a stew</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be out of all patience</word>
+				<word number="2">fidget</word>
+				<word number="3">fuss</word>
+				<word number="4">not have a wink of sleep</word>
+			</sg>
+			<sg number="6">
+				<word number="1">toss on one's pillow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lose one's temper">
+			<sg number="1">
+				<word number="1" paraRef="lose one's temper" headRef="939">lose one's temper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break out</word>
+				<word number="2">burst out</word>
+				<word number="3">fly out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go off</word>
+				<word number="2">fly off</word>
+				<word number="3">fly off at a tangent</word>
+				<word number="4">fly off the handle</word>
+				<word number="5">lose one's cool</word>
+			</sg>
+			<sg number="4">
+				<word number="1">explode</word>
+				<word number="2">flare up</word>
+				<word number="3">flame up</word>
+				<word number="4">fire up</word>
+				<word number="5">burst into a flame</word>
+				<word number="6">take fire</word>
+				<word number="7">fire</word>
+				<word number="8">burn</word>
+			</sg>
+			<sg number="5">
+				<word number="1">boil</word>
+				<word number="2">boil over</word>
+			</sg>
+			<sg number="6">
+				<word number="1">foam</word>
+				<word number="2">fume</word>
+				<word number="3">rage</word>
+				<word number="4">rave</word>
+				<word number="5">rant</word>
+				<word number="6">tear</word>
+			</sg>
+			<sg number="7">
+				<word number="1">go wild</word>
+				<word number="2">run wild</word>
+				<word number="3">run mad</word>
+				<word number="4">go into hysterics</word>
+			</sg>
+			<sg number="8">
+				<word number="1">run riot</word>
+				<word number="2">run amuck</word>
+			</sg>
+			<sg number="9">
+				<word number="1">battre la campagne</word>
+				<word number="2">faire le diable a quatre</word>
+				<word number="3">play the deuce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="excitable">
+			<sg number="1">
+				<word number="1">excitable</word>
+				<word number="2">easily excited</word>
+				<word number="3">in an excitable state</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high-strung</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="irascible" headRef="940">irritable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">impatient</word>
+				<word number="2">intolerant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="feverish">
+			<sg number="1">
+				<word number="1">feverish</word>
+				<word number="2">febrile</word>
+				<word number="3">hysterical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delirious</word>
+				<word number="2">mad</word>
+				<word number="3">moody</word>
+				<word number="4">maggoty-headed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unquiet">
+			<sg number="1">
+				<word number="1">unquiet</word>
+				<word number="2">mercurial</word>
+				<word number="3">electric</word>
+				<word number="4">galvanic</word>
+				<word number="5">hasty</word>
+				<word number="6">hurried</word>
+				<word number="7">restless</word>
+				<word number="8">fidgety</word>
+				<word number="9">fussy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">chafing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="startlish">
+			<sg number="1">
+				<word number="1">startlish</word>
+				<word number="2">mettlesome</word>
+				<word number="3">high-mettled</word>
+				<word number="4">skittish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="vehement">
+			<sg number="1">
+				<word number="1">vehement</word>
+				<word number="2">demonstrative</word>
+				<word number="3">violent</word>
+				<word number="4">wild</word>
+				<word number="5">furious</word>
+				<word number="6">fierce</word>
+				<word number="7">fiery</word>
+				<word number="8">hot- headed</word>
+				<word number="9">madcap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="overzealous">
+			<sg number="1">
+				<word number="1">overzealous</word>
+				<word number="2">enthusiastic</word>
+				<word number="3">impassioned</word>
+				<word number="4">fanatical</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="eager" headRef="904">rabid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="rampant">
+			<sg number="1">
+				<word number="1">rampant</word>
+				<word number="2">clamorous</word>
+				<word number="3">uproarious</word>
+				<word number="4">turbulent</word>
+				<word number="5">tempestuous</word>
+				<word number="6">tumultuary</word>
+				<word number="7">boisterous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="impulsive">
+			<sg number="1">
+				<word number="1">impulsive</word>
+				<word number="2">impetuous</word>
+				<word number="3">passionate</word>
+				<word number="4" new="1">lax</word>
+				<word number="5" new="1">explicitely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncontrolled</word>
+				<word number="2">uncontrollable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ungovernable</word>
+				<word number="2">irrepressible</word>
+				<word number="3">stanchless</word>
+				<word number="4">inextinguishable</word>
+				<word number="5">burning</word>
+				<word number="6">simmering</word>
+				<word number="7">volcanic</word>
+				<word number="8">ready to burst forth</word>
+				<word number="9">volatile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="excited">
+			<sg number="1">
+				<word number="1">excited</word>
+				<word number="2" paraRef="exciting" headRef="862">exciting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="impious">
+			<sg number="1">
+				<word number="1" new="1">impious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="transcranial">
+			<sg number="1">
+				<word number="1" new="1">transcranial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="frontmost">
+			<sg number="1">
+				<word number="1" new="1">frontmost</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="pish">
+			<sg number="1">
+				<word number="1">pish!</word>
+				<word number="2">pshaw!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="noli me tangere">
+			<sg number="1">
+				<word number="1">noli me tangere</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"filled with fury</word>
+				<word number="2">rapt</word>
+				<word number="3">inspir'd"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maggiore fretta minore atto</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

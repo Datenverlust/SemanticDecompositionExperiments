@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="34" name="Smallness" origNum="#32." class="1" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="smallness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">smallness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="littleness" headRef="202">littleness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tenuity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paucity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="small number" headRef="108">fewness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">meanness</word>
+				<word number="2" paraRef="unimportance" headRef="672">insignificance</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mediocrity</word>
+				<word number="2">moderation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="small quantity">
+			<sg number="1">
+				<word number="1">small quantity</word>
+				<word number="2">modicum</word>
+				<word number="3">trace</word>
+				<word number="4">hint</word>
+				<word number="5">minimum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vanishing point</word>
+			</sg>
+			<sg number="3">
+				<word number="1">material point</word>
+				<word number="2">atom</word>
+				<word number="3">particle</word>
+				<word number="4">molecule</word>
+				<word number="5">corpuscle</word>
+				<word number="6">point</word>
+				<word number="7">speck</word>
+				<word number="8">dot</word>
+				<word number="9">mote</word>
+				<word number="10">jot</word>
+				<word number="11">iota</word>
+				<word number="12">ace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minutiae</word>
+				<word number="2">details</word>
+			</sg>
+			<sg number="5">
+				<word number="1">look</word>
+				<word number="2">thought</word>
+				<word number="3">idea</word>
+				<word number="4">soupcon</word>
+				<word number="5">dab</word>
+				<word number="6">dight</word>
+				<word number="7">whit</word>
+				<word number="8">tittle</word>
+				<word number="9">shade</word>
+				<word number="10">shadow</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spark</word>
+				<word number="2">scintilla</word>
+				<word number="3">gleam</word>
+			</sg>
+			<sg number="7">
+				<word number="1">touch</word>
+				<word number="2">cast</word>
+			</sg>
+			<sg number="8">
+				<word number="1">grain</word>
+				<word number="2">scruple</word>
+				<word number="3">granule</word>
+				<word number="4">globule</word>
+				<word number="5">minim</word>
+				<word number="6">sup</word>
+				<word number="7">sip</word>
+				<word number="8">sop</word>
+				<word number="9">spice</word>
+				<word number="10">drop</word>
+				<word number="11">droplet</word>
+				<word number="12">sprinkling</word>
+				<word number="13">dash</word>
+				<word number="14">morceau</word>
+				<word number="15">screed</word>
+				<word number="16">smack</word>
+				<word number="17">tinge</word>
+				<word number="18">tincture</word>
+			</sg>
+			<sg number="9">
+				<word number="1">inch</word>
+				<word number="2">patch</word>
+				<word number="3">scantling</word>
+				<word number="4">tatter</word>
+				<word number="5">cantlet</word>
+				<word number="6">flitter</word>
+				<word number="7">gobbet</word>
+				<word number="8">mite</word>
+				<word number="9">bit</word>
+				<word number="10">morsel</word>
+				<word number="11">crumb</word>
+				<word number="12">seed</word>
+				<word number="13">fritter</word>
+				<word number="14">shive</word>
+			</sg>
+			<sg number="10">
+				<word number="1">snip</word>
+				<word number="2">snippet</word>
+			</sg>
+			<sg number="11">
+				<word number="1">snick</word>
+				<word number="2">snack</word>
+				<word number="3">snatch</word>
+				<word number="4">slip</word>
+				<word number="5">scrag</word>
+			</sg>
+			<sg number="12">
+				<word number="1">chip</word>
+				<word number="2">chipping</word>
+			</sg>
+			<sg number="13">
+				<word number="1">shiver</word>
+				<word number="2">sliver</word>
+				<word number="3">driblet</word>
+				<word number="4">clipping</word>
+				<word number="5">paring</word>
+				<word number="6">shaving</word>
+				<word number="7">hair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nutshell">
+			<sg number="1">
+				<word number="1">nutshell</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thimbleful</word>
+				<word number="2">spoonful</word>
+				<word number="3">handful</word>
+				<word number="4">capful</word>
+				<word number="5">mouthful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fragment</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="part" headRef="54">fraction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">drop in the ocean</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="animalcule">
+			<sg number="1">
+				<word number="1" paraRef="animalcule" headRef="202">animalcule</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="trifle">
+			<sg number="1">
+				<word number="1" paraRef="unimportant" headRef="672">trifle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mere nothing</word>
+				<word number="2">next to nothing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hardly anything</word>
+			</sg>
+			<sg number="4">
+				<word number="1">just enough to swear by</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the shadow of a shade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="finiteness">
+			<sg number="1">
+				<word number="1">finiteness</word>
+				<word number="2">finite quantity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be small">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be small</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lie in a nutshell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="diminish">
+			<sg number="1">
+				<word number="1" paraRef="decrease" headRef="38">diminish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contract" headRef="204">contract</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="small">
+			<sg number="1">
+				<word number="1">small</word>
+				<word number="2">little</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="diminutive" headRef="202">diminutive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">minute</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inconsiderable</word>
+				<word number="2" paraRef="unimportant" headRef="672">paltry</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="weak" headRef="167">faint</word>
+			</sg>
+			<sg number="7">
+				<word number="1">slender</word>
+				<word number="2">light</word>
+				<word number="3">slight</word>
+				<word number="4">scanty</word>
+				<word number="5">scant</word>
+				<word number="6">limited</word>
+				<word number="7" new="1">recessed</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="insufficient" headRef="669">meager</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sparing</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="few" headRef="108">few</word>
+			</sg>
+			<sg number="11">
+				<word number="1">low</word>
+				<word number="2">so-so</word>
+				<word number="3">middling</word>
+				<word number="4">tolerable</word>
+				<word number="5">no great shakes</word>
+			</sg>
+			<sg number="12">
+				<word number="1">below par</word>
+				<word number="2">under par</word>
+				<word number="3">below  the mark</word>
+			</sg>
+			<sg number="13">
+				<word number="1">at a low ebb</word>
+			</sg>
+			<sg number="14">
+				<word number="1">halfway</word>
+			</sg>
+			<sg number="15">
+				<word number="1">moderate</word>
+				<word number="2">modest</word>
+			</sg>
+			<sg number="16">
+				<word number="1">tender</word>
+				<word number="2">subtle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inappreciable">
+			<sg number="1">
+				<word number="1">inappreciable</word>
+				<word number="2">evanescent</word>
+				<word number="3">infinitesimal</word>
+				<word number="4">homeopathic</word>
+				<word number="5">very small</word>
+			</sg>
+			<sg number="2">
+				<word number="1">atomic</word>
+				<word number="2">corpuscular</word>
+				<word number="3">microscopic</word>
+				<word number="4">molecular</word>
+				<word number="5">subatomic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mere">
+			<sg number="1">
+				<word number="1">mere</word>
+				<word number="2">simple</word>
+				<word number="3">sheer</word>
+				<word number="4">stark</word>
+				<word number="5">bare</word>
+			</sg>
+			<sg number="2">
+				<word number="1">near run</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dull">
+			<sg number="1">
+				<word number="1">dull</word>
+				<word number="2">petty</word>
+				<word number="3">shallow</word>
+				<word number="4">stolid</word>
+				<word number="5">ungifted</word>
+				<word number="6">unintelligent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to a small extent">
+			<sg number="1">
+				<word number="1">to a small extent</word>
+				<word number="2">on a small scale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a little bit</word>
+				<word number="2">a wee bit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">slightly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imperceptibly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">miserably</word>
+				<word number="2">wretchedly</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="insufficiently" headRef="669">insufficiently</word>
+			</sg>
+			<sg number="7">
+				<word number="1">imperfectly</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="faint" headRef="167">faintly</word>
+			</sg>
+			<sg number="9">
+				<word number="1">passably</word>
+				<word number="2">pretty well</word>
+				<word number="3">well enough</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="partially">
+			<sg number="1">
+				<word number="1">partially</word>
+				<word number="2">in part</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in a certain degree</word>
+				<word number="2">to a certain degree</word>
+			</sg>
+			<sg number="3">
+				<word number="1">to a certain extent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">comparatively</word>
+			</sg>
+			<sg number="5">
+				<word number="1">some</word>
+				<word number="2">rather in some degree</word>
+				<word number="3">in some measure</word>
+			</sg>
+			<sg number="6">
+				<word number="1">something</word>
+				<word number="2">somewhat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">simply</word>
+				<word number="2">only</word>
+				<word number="3">purely</word>
+				<word number="4">merely</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at least</word>
+				<word number="2">at the least</word>
+				<word number="3">at most</word>
+				<word number="4">at the most</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ever so little</word>
+				<word number="2">as little as may be</word>
+				<word number="3">tant soit peu</word>
+				<word number="4">in ever so small a degree</word>
+			</sg>
+			<sg number="10">
+				<word number="1">thus far</word>
+				<word number="2">pro  tanto</word>
+				<word number="3">within bounds</word>
+				<word number="4">in a manner</word>
+				<word number="5">after a fashion</word>
+				<word number="6">so to speak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="almost">
+			<sg number="1">
+				<word number="1">almost</word>
+				<word number="2">nearly</word>
+				<word number="3">well-nigh</word>
+				<word number="4">short of</word>
+				<word number="5">not quite</word>
+				<word number="6">all but</word>
+			</sg>
+			<sg number="2">
+				<word number="1">near upon</word>
+				<word number="2">close upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peu s'en faut</word>
+				<word number="2">near the mark</word>
+			</sg>
+			<sg number="4">
+				<word number="1">within an ace of</word>
+				<word number="2">within an inch of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">on the brink of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">scarcely</word>
+				<word number="2">hardly</word>
+				<word number="3">barely</word>
+				<word number="4">only just</word>
+				<word number="5">no more than</word>
+			</sg>
+			<sg number="7">
+				<word number="1">about</word>
+				<word number="2">thereabouts</word>
+				<word number="3">somewhere about</word>
+				<word number="4">nearly</word>
+				<word number="5">say</word>
+			</sg>
+			<sg number="8">
+				<word number="1">be the same</word>
+				<word number="2">be little more or less</word>
+			</sg>
+			<sg number="9">
+				<word number="1">no ways</word>
+				<word number="2">no way</word>
+				<word number="3">no wise</word>
+			</sg>
+			<sg number="10">
+				<word number="1">not at all</word>
+				<word number="2">not in the least</word>
+				<word number="3">not a bit</word>
+				<word number="4">not a bit of it</word>
+				<word number="5">not a whit</word>
+				<word number="6">not a jot</word>
+				<word number="7">not a shadow</word>
+			</sg>
+			<sg number="11">
+				<word number="1">in no wise</word>
+				<word number="2">in no respect</word>
+			</sg>
+			<sg number="12">
+				<word number="1">by no means</word>
+				<word number="2">by no manner of means</word>
+			</sg>
+			<sg number="13">
+				<word number="1">on no account</word>
+				<word number="2">at no hand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="dare pondus idonea fumo">
+			<sg number="1">
+				<word number="1">dare pondus idonea fumo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">magno conatu magnas nugas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"small sands the mountain</word>
+				<word number="2">moments make the year"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

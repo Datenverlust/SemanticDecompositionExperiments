@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="879" name="Weariness" origNum="#841." class="8" section="2" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="weariness">
+			<sg number="1">
+				<word number="1">weariness</word>
+				<word number="2">defatigation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fatigue" headRef="717">lassitude</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="drowsiness" headRef="712">drowsiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disgust">
+			<sg number="1">
+				<word number="1">disgust</word>
+				<word number="2">nausea</word>
+				<word number="3">loathing</word>
+				<word number="4">sickness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="satiety" headRef="908">satiety</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dejection" headRef="875">taedium vitae</word>
+			</sg>
+			<sg number="4">
+				<word number="1">boredom</word>
+				<word number="2">ennui</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wearisomeness">
+			<sg number="1">
+				<word number="1">wearisomeness</word>
+				<word number="2" paraRef="" posRef="adj.">tediousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dull work</word>
+				<word number="2">tedium</word>
+				<word number="3">monotony</word>
+				<word number="4">twice-told tale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bore">
+			<sg number="1">
+				<word number="1">bore</word>
+				<word number="2">buttonholer</word>
+				<word number="3">proser</word>
+				<word number="4">wet blanket</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pill*</word>
+				<word number="2">stiff*</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heavy hours</word>
+				<word number="2">"the enemy"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="weary">
+			<sg number="1">
+				<word number="1">weary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fatigue" headRef="717">tire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bore</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bore to death</word>
+				<word number="2">weary to death</word>
+				<word number="3">tire to death</word>
+				<word number="4">bore out of one's skull</word>
+				<word number="5">bore out of one's life</word>
+				<word number="6">weary out of one's life</word>
+				<word number="7">tire out of one's life</word>
+				<word number="8">bore out of all patience</word>
+				<word number="9">weary out of all patience</word>
+				<word number="10">wear out one's patience</word>
+				<word number="11">tire out of all patience</word>
+			</sg>
+			<sg number="5">
+				<word number="1">set to sleep</word>
+				<word number="2">send to sleep</word>
+			</sg>
+			<sg number="6">
+				<word number="1">buttonhole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pall">
+			<sg number="1">
+				<word number="1">pall</word>
+				<word number="2">sicken</word>
+				<word number="3">nauseate</word>
+				<word number="4">disgust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="harp on the same string">
+			<sg number="1">
+				<word number="1">harp on the same string</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drag its slow length along</word>
+				<word number="2">drag its weary length along</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="never hear the last of">
+			<sg number="1">
+				<word number="1">never hear the last of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be tired of</word>
+				<word number="2">be sick of</word>
+				<word number="3" paraRef="" posRef="adj.">be tired with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yawn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">die with ennui</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="MEGO">
+			<sg number="1">
+				<word number="1">MEGO</word>
+				<word number="2">my eyes glaze over</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="wearying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">wearying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wearing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wearisome</word>
+				<word number="2">tiresome</word>
+				<word number="3">irksome</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uninteresting</word>
+				<word number="2">stupid</word>
+				<word number="3">bald</word>
+				<word number="4">devoid of interest</word>
+				<word number="5">dry</word>
+				<word number="6">monotonous</word>
+				<word number="7">dull</word>
+				<word number="8">arid</word>
+				<word number="9">tedious</word>
+				<word number="10">humdrum</word>
+				<word number="11">mortal</word>
+				<word number="12">flat</word>
+				<word number="13" new="1">boring</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prosy</word>
+				<word number="2">prosing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">slow</word>
+				<word number="2">soporific</word>
+				<word number="3">somniferous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disgusting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disgusting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unenjoyed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="weary">
+			<sg number="1">
+				<word number="1">weary</word>
+				<word number="2" paraRef="" posRef="v.">tired</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sleepy" headRef="712">drowsy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uninterested</word>
+				<word number="2">flagging</word>
+				<word number="3">used up</word>
+				<word number="4">worn out</word>
+				<word number="5">blase</word>
+				<word number="6">life-weary</word>
+				<word number="7">weary of life</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sick of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="wearily">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">wearily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">usque ad nauseam</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="time hanging heavily on one's hands">
+			<sg number="1">
+				<word number="1">time hanging heavily on one's hands</word>
+			</sg>
+			<sg number="2">
+				<word number="1">toujours perdrix</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crambe repetita</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

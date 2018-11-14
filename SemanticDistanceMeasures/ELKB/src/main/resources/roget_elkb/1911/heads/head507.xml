@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="507" name="Underestimation" origNum="#483." class="4" section="5" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="underestimation">
+			<sg number="1">
+				<word number="1">underestimation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="detraction" headRef="976">depreciation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pessimism</word>
+				<word number="2">pessimist</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">undervaluing</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="modesty" headRef="920">modesty</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="underrate">
+			<sg number="1">
+				<word number="1">underrate</word>
+				<word number="2">underestimate</word>
+				<word number="3">undervalue</word>
+				<word number="4">underreckon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depreciate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="detract" headRef="976">disparage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not do justice to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">misprize</word>
+				<word number="2">disprize</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="ridicule" headRef="895">ridicule</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="despise" headRef="972">slight</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="neglect" headRef="480">neglect</word>
+			</sg>
+			<sg number="9">
+				<word number="1">slur over</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="make light of">
+			<sg number="1">
+				<word number="1">make light of</word>
+				<word number="2">make little of</word>
+				<word number="3">make nothing of</word>
+				<word number="4">make no account of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belittle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">minimize</word>
+				<word number="2">think nothing of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set no store by</word>
+				<word number="2">set at naught</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shake off as dewdrops from the lion's mane</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="depreciating">
+			<sg number="1">
+				<word number="1">depreciating</word>
+				<word number="2" paraRef="" posRef="v.">depreciated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unvalued</word>
+				<word number="2">unprized</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

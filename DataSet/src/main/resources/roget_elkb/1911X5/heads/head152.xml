@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="152" name="Reversion" origNum="#145." class="1" section="7" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="reversion">
+			<sg number="1">
+				<word number="1">reversion</word>
+				<word number="2">return</word>
+			</sg>
+			<sg number="2">
+				<word number="1">revulsion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="turning point">
+			<sg number="1">
+				<word number="1">turning point</word>
+				<word number="2">turn of the tide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">status quo ante bellum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calm before a storm</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="periodicity" headRef="145">alternation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inversion" headRef="228">inversion</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="recoil" headRef="288">recoil</word>
+			</sg>
+			<sg number="7">
+				<word number="1">retreat</word>
+				<word number="2">regression</word>
+				<word number="3" paraRef="retrogression" headRef="294">retrogression</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="restoration" headRef="689">restoration</word>
+			</sg>
+			<sg number="9">
+				<word number="1">relapse</word>
+				<word number="2" paraRef="recidivism" headRef="690">recidivism</word>
+			</sg>
+			<sg number="10">
+				<word number="1">atavism</word>
+			</sg>
+			<sg number="11">
+				<word number="1">vicinism</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="revert">
+			<sg number="1">
+				<word number="1">revert</word>
+				<word number="2">turn back</word>
+				<word number="3">regress</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="relapse" headRef="690">relapse</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="recoil" headRef="288">recoil</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="retreat" headRef="294">retreat</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="restore" headRef="689">restore</word>
+			</sg>
+			<sg number="6">
+				<word number="1">undo</word>
+				<word number="2">unmake</word>
+			</sg>
+			<sg number="7">
+				<word number="1">turn the tide</word>
+				<word number="2">roll back the tide</word>
+				<word number="3">turn the scale</word>
+				<word number="4">tip the scale</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="reverting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">reverting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">regressive</word>
+				<word number="2">revulsive</word>
+				<word number="3">reactionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retrorse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="a rebours">
+			<sg number="1">
+				<word number="1">a rebours</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

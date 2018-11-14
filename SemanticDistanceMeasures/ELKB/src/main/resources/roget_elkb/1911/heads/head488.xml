@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="488" name="Identification" origNum="#465b." class="4" section="2" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="identification">
+			<sg number="1">
+				<word number="1">identification</word>
+				<word number="2">recognition</word>
+				<word number="3">diagnosis</word>
+				<word number="4">match</word>
+			</sg>
+			<sg number="2">
+				<word number="1">apperception</word>
+				<word number="2">assimilation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dereplication</word>
+			</sg>
+			<sg number="4">
+				<word number="1">classification</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="memory" headRef="529">memory</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="interpretation" headRef="547">interpretation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="knowledge" headRef="514">cognizance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="identify">
+			<sg number="1">
+				<word number="1">identify</word>
+				<word number="2">recognize</word>
+				<word number="3">match</word>
+				<word number="4">match up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">classify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recall</word>
+				<word number="2" paraRef="memory" headRef="529">remember</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="similarity" headRef="18">find similarity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">put in its proper place</word>
+				<word number="2">put in its proper niche</word>
+				<word number="3" paraRef="arrangement" headRef="64">place in order</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

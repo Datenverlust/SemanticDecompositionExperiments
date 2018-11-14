@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="291" name="Precession" origNum="#280." class="2" section="4" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="precession">
+			<sg number="1">
+				<word number="1">precession</word>
+				<word number="2">leading</word>
+				<word number="3">heading</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="precedence" headRef="66">precedence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="priority" headRef="122">priority</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the lead</word>
+				<word number="2">le pas</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="front" headRef="244">van</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="precursor" headRef="68">precursor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="go before">
+			<sg number="1">
+				<word number="1">go before</word>
+				<word number="2">go ahead</word>
+				<word number="3">go in the van</word>
+				<word number="4">go in advance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">precede</word>
+				<word number="2">forerun</word>
+			</sg>
+			<sg number="3">
+				<word number="1">usher in</word>
+				<word number="2">introduce</word>
+				<word number="3">herald</word>
+				<word number="4">head</word>
+				<word number="5">take the lead</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lead the way</word>
+				<word number="2">lead the dance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">get the start</word>
+				<word number="2">have the start</word>
+			</sg>
+			<sg number="6">
+				<word number="1">steal a march</word>
+			</sg>
+			<sg number="7">
+				<word number="1">get before</word>
+				<word number="2">get ahead</word>
+				<word number="3">get in front of</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="outstrip" headRef="314">outstrip</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="first in order" headRef="66">take precedence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="leading">
+			<sg number="1">
+				<word number="1">leading</word>
+				<word number="2" paraRef="" posRef="v.">precedent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in advance">
+			<sg number="1">
+				<word number="1">in advance</word>
+				<word number="2">before</word>
+				<word number="3">ahead</word>
+				<word number="4">in the van</word>
+				<word number="5">in the lead</word>
+			</sg>
+			<sg number="2">
+				<word number="1">foremost</word>
+				<word number="2">headmost</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in front</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at the head</word>
+				<word number="2">out in front</word>
+			</sg>
+			<sg number="5">
+				<word number="1">way out in front</word>
+				<word number="2">far ahead</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="seniores priores">
+			<sg number="1">
+				<word number="1">seniores priores</word>
+				<word number="2">ahead of his time</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

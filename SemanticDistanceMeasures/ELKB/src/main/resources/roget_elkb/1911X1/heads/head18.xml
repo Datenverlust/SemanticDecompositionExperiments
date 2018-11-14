@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="18" name="Similarity" origNum="#17." class="1" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="similarity">
+			<sg number="1">
+				<word number="1">similarity</word>
+				<word number="2">resemblance</word>
+				<word number="3">likeness</word>
+				<word number="4">similitude</word>
+				<word number="5">semblance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affinity</word>
+				<word number="2">approximation</word>
+				<word number="3">parallelism</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agreement" headRef="25">agreement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">analogy</word>
+				<word number="2">analogicalness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">correspondence</word>
+				<word number="2">homoiousia</word>
+				<word number="3">parity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="connaturalness">
+			<sg number="1">
+				<word number="1">connaturalness</word>
+				<word number="2">connaturality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brotherhood</word>
+				<word number="2">family likeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="alliteration">
+			<sg number="1">
+				<word number="1">alliteration</word>
+				<word number="2">rhyme</word>
+				<word number="3">pun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="repetition">
+			<sg number="1">
+				<word number="1" paraRef="repetition" headRef="109">repetition</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="identity" headRef="13">sameness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="uniformity" headRef="16">uniformity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">isogamy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="analogue">
+			<sg number="1">
+				<word number="1">analogue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the like</word>
+			</sg>
+			<sg number="3">
+				<word number="1">match</word>
+				<word number="2">pendant</word>
+				<word number="3">fellow companion</word>
+				<word number="4">pair</word>
+				<word number="5">mate</word>
+				<word number="6">twin</word>
+				<word number="7">double</word>
+				<word number="8">counterpart</word>
+				<word number="9">brother</word>
+				<word number="10">sister</word>
+			</sg>
+			<sg number="4">
+				<word number="1">one's second self</word>
+				<word number="2">alter ego</word>
+				<word number="3">chip of the old block</word>
+				<word number="4">par nobile fratrum</word>
+				<word number="5">Arcades ambo</word>
+				<word number="6">birds of a feather</word>
+				<word number="7">et hoc genus omne</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gens de meme famille</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="parallel">
+			<sg number="1">
+				<word number="1">parallel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">simile</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="metaphor" headRef="546">type</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="representation" headRef="580">image</word>
+			</sg>
+			<sg number="5">
+				<word number="1">photograph</word>
+			</sg>
+			<sg number="6">
+				<word number="1">close resemblance</word>
+				<word number="2">striking resemblance</word>
+				<word number="3">speaking resemblance</word>
+				<word number="4">faithful likeness</word>
+				<word number="5">faithful resemblance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be similar">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be similar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">look like</word>
+				<word number="2">resemble</word>
+				<word number="3">bear resemblance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smack of</word>
+				<word number="2">savor of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">approximate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">parallel</word>
+				<word number="2">match</word>
+				<word number="3">rhyme with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take after</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="imitate" headRef="20">imitate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">favor</word>
+				<word number="2">span</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render similar">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render similar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assimilate</word>
+				<word number="2">approximate</word>
+				<word number="3">bring near</word>
+			</sg>
+			<sg number="3">
+				<word number="1">connaturalize</word>
+				<word number="2">make alike</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rhyme</word>
+				<word number="2">pun</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="similar">
+			<sg number="1">
+				<word number="1">similar</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">resembling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">like</word>
+				<word number="2">alike</word>
+			</sg>
+			<sg number="4">
+				<word number="1">twin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="analogous">
+			<sg number="1">
+				<word number="1">analogous</word>
+				<word number="2">analogical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parallel</word>
+				<word number="2">of a piece</word>
+			</sg>
+			<sg number="3">
+				<word number="1">such as</word>
+				<word number="2">so</word>
+			</sg>
+			<sg number="4">
+				<word number="1">homoiousian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="connatural">
+			<sg number="1">
+				<word number="1">connatural</word>
+				<word number="2">congener</word>
+				<word number="3">allied to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="consanguineous" headRef="11">akin to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="approximate">
+			<sg number="1">
+				<word number="1">approximate</word>
+				<word number="2">much the same</word>
+				<word number="3">near</word>
+				<word number="4">close</word>
+				<word number="5">something like</word>
+				<word number="6">sort of</word>
+				<word number="7">in the ballpark</word>
+				<word number="8">such like</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a show of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mock</word>
+				<word number="2">pseudo</word>
+				<word number="3">simulating</word>
+				<word number="4">representing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="exact">
+			<sg number="1">
+				<word number="1" paraRef="true" headRef="518">exact</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lifelike</word>
+				<word number="2">faithful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">true to nature</word>
+				<word number="2">true to life</word>
+				<word number="3">the very image</word>
+				<word number="4">the very picture of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">for all the world like</word>
+				<word number="2">comme deux gouttes d'eau</word>
+			</sg>
+			<sg number="5">
+				<word number="1">as like as two peas in a pod</word>
+				<word number="2">as like as it can stare</word>
+			</sg>
+			<sg number="6">
+				<word number="1">instar omnium</word>
+				<word number="2">cast in the same mold</word>
+				<word number="3">ridiculously like</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="as if">
+			<sg number="1">
+				<word number="1">as if</word>
+				<word number="2">so to speak</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as it were</word>
+				<word number="2">as if it were</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quasi</word>
+				<word number="2">just as</word>
+				<word number="3">veluti in speculum</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="et sic de similibus">
+			<sg number="1">
+				<word number="1">et sic de similibus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tel maitre tel valet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tel pere tel fils</word>
+			</sg>
+			<sg number="4">
+				<word number="1">like master</word>
+				<word number="2">like servant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">like father</word>
+				<word number="2">like son</word>
+			</sg>
+			<sg number="6">
+				<word number="1">the fruit doesn't fall far from the tree</word>
+			</sg>
+			<sg number="7">
+				<word number="1">a chip off the old block</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

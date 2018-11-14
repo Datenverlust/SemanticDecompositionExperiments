@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="346" name="Liquefaction" origNum="#335." class="3" section="2" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="liquefaction">
+			<sg number="1">
+				<word number="1">liquefaction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">liquescence</word>
+				<word number="2">liquescency</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="heat" headRef="397">melting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">colliquation</word>
+				<word number="2">colliquefaction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thaw</word>
+			</sg>
+			<sg number="6">
+				<word number="1">liquation</word>
+				<word number="2">deliquation</word>
+				<word number="3">deliquescence</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lixiviation</word>
+				<word number="2">dissolution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="solution">
+			<sg number="1">
+				<word number="1">solution</word>
+				<word number="2">apozem</word>
+				<word number="3">lixivium</word>
+				<word number="4">infusion</word>
+				<word number="5">flux</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="solvent">
+			<sg number="1">
+				<word number="1">solvent</word>
+				<word number="2">menstruum</word>
+				<word number="3">alkahest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render liquid">
+			<sg number="1">
+				<word number="1" paraRef="liquid" headRef="344">render liquid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">liquefy</word>
+				<word number="2">run</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deliquesce</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="heat" headRef="397">melt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solve</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dissolve</word>
+				<word number="2">resolve</word>
+			</sg>
+			<sg number="7">
+				<word number="1">liquate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hold in solution</word>
+			</sg>
+			<sg number="9">
+				<word number="1">condense</word>
+				<word number="2">precipitate</word>
+				<word number="3">rain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="liquefied">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">liquefied</word>
+				<word number="2">liquescent</word>
+				<word number="3">liquefiable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deliquescent</word>
+				<word number="2">soluble</word>
+				<word number="3">colliquative</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

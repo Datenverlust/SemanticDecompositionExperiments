@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="368" name="Resin" origNum="#356a." class="3" section="2" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="resin">
+			<sg number="1">
+				<word number="1">resin</word>
+				<word number="2">rosin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lac</word>
+				<word number="2">sealing wax</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amber</word>
+				<word number="2">ambergris</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bitumen</word>
+				<word number="2">pitch</word>
+				<word number="3">tar</word>
+			</sg>
+			<sg number="6">
+				<word number="1">asphalt</word>
+				<word number="2">asphaltum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">camphor</word>
+			</sg>
+			<sg number="8">
+				<word number="1">varnish</word>
+				<word number="2">copal</word>
+				<word number="3">mastic</word>
+				<word number="4">magilp</word>
+				<word number="5">lacquer</word>
+				<word number="6">japan</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">comptes</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">werent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="artificial resin">
+			<sg number="1">
+				<word number="1">artificial resin</word>
+				<word number="2">polymer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ion-exchange resin</word>
+				<word number="2">cation-exchange resin</word>
+				<word number="3">anion exchange resin</word>
+				<word number="4">water softener</word>
+				<word number="5">Amberlite</word>
+				<word number="6">Dowex</word>
+				<word number="7">Diaion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="varnish">
+			<sg number="1">
+				<word number="1" paraRef="overlay" headRef="233">varnish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="resiny">
+			<sg number="1">
+				<word number="1">resiny</word>
+				<word number="2">resinous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bituminous</word>
+				<word number="2">pitchy</word>
+				<word number="3">tarry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">asphaltic</word>
+				<word number="2">asphaltite</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

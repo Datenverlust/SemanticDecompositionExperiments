@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="695" name="Refuge" origNum="#666." class="6" section="2" subSection="2" headGroup="22">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="refuge">
+			<sg number="1">
+				<word number="1">refuge</word>
+				<word number="2">sanctuary</word>
+				<word number="3">retreat</word>
+				<word number="4">fastness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acropolis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep</word>
+				<word number="2">last resort</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ward</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="prison" headRef="783">prison</word>
+			</sg>
+			<sg number="6">
+				<word number="1">asylum</word>
+				<word number="2">ark</word>
+				<word number="3">home</word>
+				<word number="4">refuge for the destitute</word>
+			</sg>
+			<sg number="7">
+				<word number="1">almshouse</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ambush" headRef="556">hiding place</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="privacy" headRef="932">sanctum sanctorum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="roadstead">
+			<sg number="1">
+				<word number="1">roadstead</word>
+				<word number="2">anchorage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">breakwater</word>
+				<word number="2">mole</word>
+				<word number="3">port</word>
+				<word number="4">haven</word>
+			</sg>
+			<sg number="3">
+				<word number="1">harbor</word>
+				<word number="2">harbor of refuge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seaport</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pier</word>
+				<word number="2">jetty</word>
+				<word number="3">embankment</word>
+				<word number="4">quay</word>
+				<word number="5" new="1">wharf</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">abutment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="covert">
+			<sg number="1">
+				<word number="1">covert</word>
+				<word number="2">cover</word>
+				<word number="3">shelter</word>
+				<word number="4">screen</word>
+				<word number="5">lee wall</word>
+				<word number="6">wing</word>
+				<word number="7">shield</word>
+				<word number="8">umbrella</word>
+			</sg>
+			<sg number="2">
+				<word number="1">barrier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dashboard</word>
+				<word number="2">dasher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wall">
+			<sg number="1">
+				<word number="1" paraRef="inclosure" headRef="242">wall</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="defense" headRef="746">fort</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="anchor">
+			<sg number="1">
+				<word number="1">anchor</word>
+				<word number="2">kedge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grapnel</word>
+				<word number="2">grappling iron</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sheet anchor</word>
+				<word number="2">killick</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mainstay</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="support" headRef="224">support</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="prevention" headRef="735">cheek</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ballast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="jury mast">
+			<sg number="1">
+				<word number="1">jury mast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vent-peg</word>
+			</sg>
+			<sg number="3">
+				<word number="1">safety valve</word>
+				<word number="2">blow-off valve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">safety lamp</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lightning rod</word>
+				<word number="2">lightning conductor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">safety belt</word>
+				<word number="2">airbag</word>
+				<word number="3">seat belt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">antilock brakes</word>
+				<word number="2">antiskid tires</word>
+				<word number="3">snow tires</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="means of escape">
+			<sg number="1">
+				<word number="1" paraRef="escape" headRef="700">means of escape</word>
+				<word number="2">lifejacket</word>
+				<word number="3">life buoy</word>
+				<word number="4">swimming belt</word>
+				<word number="5">cork jacket</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parachute</word>
+				<word number="2">plank</word>
+				<word number="3">steppingstone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emergency landing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="safeguard">
+			<sg number="1">
+				<word number="1" paraRef="protection" headRef="693">safeguard</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="seek refuge">
+			<sg number="1">
+				<word number="1">seek refuge</word>
+				<word number="2">take refuge</word>
+				<word number="3" paraRef="" posRef="n.">find refuge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seek safety</word>
+				<word number="2" paraRef="safety" headRef="693">find safety</word>
+			</sg>
+			<sg number="3">
+				<word number="1">throw oneself into the arms of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">break for taller timber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="create a diversion">
+			<sg number="1">
+				<word number="1">create a diversion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="any port in a storm">
+			<sg number="1">
+				<word number="1">any port in a storm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bibere venenum in auro</word>
+			</sg>
+			<sg number="3">
+				<word number="1">valet anchora virtus</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,111 @@
+experimente nach folgendem Prinzip:
+
+- whiteList Elemente definiert
+- alle Links wurden generiert
+- Question-Nodes haben keinerlei SpreadingSteps erzeugt
+- MaxSpreadingSteps, MaxRoundCount & DecompositionDepth wurden angepasst
+- Termination-Criterion:
+	    private TerminationCondition getTerminationCriterion_v3(){
+        TerminationCondition res = new TerminationCondition() {
+            public boolean compute() {
+                if (roundCount >= PathMarkerPassing.getMaximalRoundCount() )
+                    return true;
+                return false;
+            }
+        };
+        return res;
+    }
+    - selectFiringNodes:
+            SelectFiringNodesFunction selectFiringNodesFunction = new SelectFiringNodesFunction() {
+            public Collection<Node> compute(Collection<Node> list) {
+                List<Node> firingNodes = new ArrayList();
+                Iterator var3 = list.iterator();
+                while(var3.hasNext()) {
+                    PathNode pathNode = (PathNode)var3.next();
+                    if (pathNode != null && pathNode.checkThresholds(PathMarkerPassing.this.originMarkerClasses)) {
+                        firingNodes.add(pathNode);
+                    }
+                }
+                if (firingNodes.size()==0) {
+                    bTerminate = true;
+                    System.out.println("no firing nodes in round : " + roundCount);
+                }
+                roundCount++;
+                return firingNodes;
+            }
+        };
+
+- checkThresholds:
+    public boolean checkThresholds(Object originConcepts) {
+        //collect all activation from the not yet processed markers.
+        resetActivation();
+        List<Marker> marker2remove = new ArrayList<>();
+        for (Marker marker : this.getMarkers()) {
+            //TODO: changed activation concept
+            addActivation(((PathMarker) marker).getOrigin(), ((PathMarker) marker).getActivation());
+            activationHistory.add(marker);
+        }
+
+        //check threshold for each origin marker separately
+        for (Concept activeConcepts : this.activation.keySet()) {
+            if (this.activation.get(activeConcepts) == 1) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+
+
+- addActivation (aus CheckThresholds)
+    public void addActivation_v2(Concept origin, double markerActivation) {
+        Double activation4Concept = this.activation.get(origin);
+        if (null == activation4Concept) {
+            this.activation.put(origin, markerActivation);
+        } else {
+            this.activation.put(origin, Double.max(markerActivation, this.activation.get(origin)));
+        }
+    }
+
+- getCorrectAnswerNumber:
+ public int getCorrectAnswerNummer() {
+        int answernumber = -1;
+        ArrayList<Integer> counter;
+        Integer[] inferenceOnAnswers = new Integer[]{0,0,0,0};
+        int tmpCnt;
+        int mostAnswers = 0;
+
+        for (Node node : getNodes().values()) {
+            for (InferenceCollision colli : ((PathNode) node).getInferenceCollisions()) {
+                if(colli.getAnswerNumber()>0) {
+                    inferenceCollisions.add(colli);
+                    tmpCnt = inferenceOnAnswers[colli.getAnswerNumber() - 1] + 1;
+                    if (colli.containsWhiteListLink()) {
+                        tmpCnt = inferenceOnAnswers[colli.getAnswerNumber() - 1] + 10000;
+                        abductiveReasoning++;
+                    }
+                    inferenceOnAnswers[colli.getAnswerNumber()-1]=tmpCnt;
+                }
+            }
+        }
+
+        counter = new ArrayList<>(Arrays.asList(inferenceOnAnswers));
+        mostAnswers = Collections.max(counter);
+
+        if (mostAnswers>0){
+            answernumber = counter.indexOf(mostAnswers)+1;
+
+            if (counter.lastIndexOf(mostAnswers) != counter.indexOf(mostAnswers)){
+                //TODO: vernünftige auswertung
+                answernumber= (int) Math.round((Math.random()+counter.lastIndexOf(mostAnswers)-counter.indexOf(mostAnswers)));
+                bResultIsGuessedOfMultipleOptions=true;
+            }
+        }
+
+        if (answernumber==-1){
+            bResultIsGuessed=true;
+            answernumber=(int) Math.round((Math.random()*4));
+        }
+            this.correctAnswerNumber=answernumber;
+            return answernumber;
+   }

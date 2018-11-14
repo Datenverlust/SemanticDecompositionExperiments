@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="662" name="Instrument" origNum="#633." class="6" section="2" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="machinery">
+			<sg number="1">
+				<word number="1">machinery</word>
+				<word number="2">mechanism</word>
+				<word number="3">engineering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="instrument">
+			<sg number="1">
+				<word number="1">instrument</word>
+				<word number="2">organ</word>
+				<word number="3">tool</word>
+				<word number="4">implement</word>
+				<word number="5">utensil</word>
+				<word number="6">machine</word>
+				<word number="7">engine</word>
+				<word number="8">lathe</word>
+				<word number="9">gin</word>
+				<word number="10">mill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air engine</word>
+				<word number="2">caloric engine</word>
+				<word number="3">heat engine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="gear">
+			<sg number="1">
+				<word number="1">gear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tackle</word>
+				<word number="2">tackling</word>
+				<word number="3">rig</word>
+				<word number="4">rigging</word>
+				<word number="5">apparatus</word>
+				<word number="6">appliances</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plant</word>
+				<word number="2">materiel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">harness</word>
+				<word number="2">trappings</word>
+				<word number="3">fittings</word>
+				<word number="4">accouterments</word>
+			</sg>
+			<sg number="5">
+				<word number="1">barde</word>
+			</sg>
+			<sg number="6">
+				<word number="1">equipment</word>
+				<word number="2">equipmentage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">appointments</word>
+				<word number="2">furniture</word>
+				<word number="3">upholstery</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chattels</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="belongings" headRef="813">paraphernalia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mechanical powers">
+			<sg number="1">
+				<word number="1">mechanical powers</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lever</word>
+				<word number="2">leverage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mechanical advantage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crow</word>
+				<word number="2">crowbar</word>
+			</sg>
+			<sg number="5">
+				<word number="1">handspike</word>
+				<word number="2">gavelock</word>
+				<word number="3">jemmy</word>
+				<word number="4">jimmy</word>
+				<word number="5">arm</word>
+				<word number="6">limb</word>
+				<word number="7">wing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">oar</word>
+				<word number="2">paddle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pulley</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wheel and axle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">wheelwork</word>
+				<word number="2">clockwork</word>
+			</sg>
+			<sg number="10">
+				<word number="1">wheels within wheels</word>
+			</sg>
+			<sg number="11">
+				<word number="1">pinion</word>
+				<word number="2">crank</word>
+				<word number="3">winch</word>
+			</sg>
+			<sg number="12">
+				<word number="1">cam</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pedal</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="lift" headRef="318">capstan</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="rotation" headRef="323">wheel</word>
+			</sg>
+			<sg number="16">
+				<word number="1">inclined plane</word>
+			</sg>
+			<sg number="17">
+				<word number="1">wedge</word>
+			</sg>
+			<sg number="18">
+				<word number="1">screw</word>
+			</sg>
+			<sg number="19">
+				<word number="1">spring</word>
+				<word number="2">mainspring</word>
+			</sg>
+			<sg number="20">
+				<word number="1">can hook</word>
+				<word number="2">glut</word>
+				<word number="3">heald</word>
+				<word number="4">heddle</word>
+				<word number="5">jenny</word>
+				<word number="6">parbuckle</word>
+				<word number="7">sprag</word>
+				<word number="8">water wheel</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">filefish</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">earthling</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">sea</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">objective</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">monists</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="handle">
+			<sg number="1">
+				<word number="1">handle</word>
+				<word number="2">hilt</word>
+				<word number="3">haft</word>
+				<word number="4">shaft</word>
+				<word number="5">heft</word>
+				<word number="6">shank</word>
+				<word number="7">blade</word>
+				<word number="8">trigger</word>
+				<word number="9">tiller</word>
+				<word number="10">helm</word>
+				<word number="11">treadle</word>
+				<word number="12">key</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turnscrew</word>
+				<word number="2">screwdriver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">knocker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="hammer">
+			<sg number="1">
+				<word number="1" paraRef="impulse" headRef="287">hammer</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cut" headRef="264">edge tool</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="borer" headRef="273">borer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vice</word>
+				<word number="2" paraRef="firm hold" headRef="814">teeth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nail</word>
+				<word number="2" paraRef="join" headRef="46">rope</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="hang" headRef="223">peg</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="support" headRef="224">support</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="vehicle" headRef="283">spoon</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="arms" headRef="756">arms</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="navigation" headRef="278">oar</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cardiograph</word>
+				<word number="2">recapper</word>
+				<word number="3">snowplow</word>
+				<word number="4">tenpenny</word>
+				<word number="5">votograph</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="lunchboxes">
+			<sg number="1">
+				<word number="1" new="1">lunchboxes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="ballgames">
+			<sg number="1">
+				<word number="1" new="1">ballgames</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="vacationer">
+			<sg number="1">
+				<word number="1" new="1">vacationer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="titi">
+			<sg number="1">
+				<word number="1" new="1">titi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="hypersexuality">
+			<sg number="1">
+				<word number="1" new="1">hypersexuality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="supergun">
+			<sg number="1">
+				<word number="1" new="1">supergun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="discovering">
+			<sg number="1">
+				<word number="1" new="1">discovering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="vera">
+			<sg number="1">
+				<word number="1" new="1">vera</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="blip">
+			<sg number="1">
+				<word number="1" new="1">blip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="arts">
+			<sg number="1">
+				<word number="1" new="1">arts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="launderers">
+			<sg number="1">
+				<word number="1" new="1">launderers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="travelator">
+			<sg number="1">
+				<word number="1" new="1">travelator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="phytoplankton">
+			<sg number="1">
+				<word number="1" new="1">phytoplankton</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="instrumental">
+			<sg number="1">
+				<word number="1" paraRef="instrumental" headRef="660">instrumental</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mechanical</word>
+				<word number="2">machinal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brachial</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

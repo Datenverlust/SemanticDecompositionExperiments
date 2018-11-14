@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1016" name="Reward" origNum="#973." class="8" section="4" subSection="5" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="reward">
+			<sg number="1">
+				<word number="1">reward</word>
+				<word number="2">recompense</word>
+				<word number="3">remuneration</word>
+				<word number="4">meed</word>
+				<word number="5">guerdon</word>
+				<word number="6">reguerdon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">price</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="indemnity">
+			<sg number="1">
+				<word number="1">indemnity</word>
+				<word number="2">indemnification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quittance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compensation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reparation</word>
+				<word number="2">redress</word>
+				<word number="3">satisfaction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reckoning</word>
+				<word number="2">acknowledgment</word>
+				<word number="3">requital</word>
+				<word number="4">amends</word>
+				<word number="5">sop</word>
+			</sg>
+			<sg number="6">
+				<word number="1">atonement</word>
+				<word number="2">retribution</word>
+			</sg>
+			<sg number="7">
+				<word number="1">consideration</word>
+				<word number="2">return</word>
+				<word number="3">quid pro quo</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ransom</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">restitution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="salvage">
+			<sg number="1">
+				<word number="1">salvage</word>
+				<word number="2">perquisite</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="donation" headRef="817">vail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="douceur">
+			<sg number="1">
+				<word number="1">douceur</word>
+				<word number="2">bribe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hush money</word>
+				<word number="2">smart money!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blackmail</word>
+				<word number="2">extortion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">carcelage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solatium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="allowance">
+			<sg number="1">
+				<word number="1">allowance</word>
+				<word number="2">salary</word>
+				<word number="3">stipend</word>
+				<word number="4">wages</word>
+				<word number="5">compensation</word>
+				<word number="6" new="1">annuity</word>
+				<word number="7" new="1">pension</word>
+				<word number="8" new="1">rations</word>
+				<word number="9" new="1">reimbursement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay</word>
+				<word number="2">payment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emolument</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tribute</word>
+			</sg>
+			<sg number="5">
+				<word number="1">batta</word>
+				<word number="2">shot</word>
+				<word number="3">scot</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bonus</word>
+				<word number="2">premium</word>
+				<word number="3">tip</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fee</word>
+				<word number="2">honorarium</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hire</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dasturi</word>
+				<word number="2">dustoori</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mileage</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">bounty</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">expense</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">gratuity</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">incentive</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">rent</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">royalty</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">tuition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="crown">
+			<sg number="1">
+				<word number="1" paraRef="decoration" headRef="916">crown</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="damages">
+			<sg number="1">
+				<word number="1" new="1">damages</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="dowry">
+			<sg number="1">
+				<word number="1" new="1">dowry</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="reward">
+			<sg number="1">
+				<word number="1">reward</word>
+				<word number="2">recompense</word>
+				<word number="3">repay</word>
+				<word number="4">requite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">remunerate</word>
+				<word number="2">munerate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compensate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fee</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="pay" headRef="842">pay one's footing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make amends</word>
+				<word number="2">indemnify</word>
+				<word number="3">atone</word>
+			</sg>
+			<sg number="7">
+				<word number="1">satisfy</word>
+				<word number="2">acknowledge</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">reimburse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="get for one's pains">
+			<sg number="1">
+				<word number="1">get for one's pains</word>
+				<word number="2">reap the fruits of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tip">
+			<sg number="1">
+				<word number="1">tip</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="remunerative">
+			<sg number="1">
+				<word number="1">remunerative</word>
+				<word number="2">remuneratory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">munerary</word>
+				<word number="2">compensatory</word>
+				<word number="3">retributive</word>
+				<word number="4">reparatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rewarding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">satisfactory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="fideli certa merces">
+			<sg number="1">
+				<word number="1">fideli certa merces</word>
+			</sg>
+			<sg number="2">
+				<word number="1">honor virtutis praemium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tibi seris tibi metis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

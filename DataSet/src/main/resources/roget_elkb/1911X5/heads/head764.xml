@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="764" name="Adversity" origNum="#735." class="6" section="5" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="adversity">
+			<sg number="1">
+				<word number="1">adversity</word>
+				<word number="2" paraRef="evil" headRef="648">evil</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="failure" headRef="761">failure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bad luck</word>
+				<word number="2">ill luck</word>
+				<word number="3">evil luck</word>
+				<word number="4">adverse luck</word>
+				<word number="5">hard fortune</word>
+				<word number="6">hard hap</word>
+				<word number="7">hard luck</word>
+				<word number="8">hard lot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">frowns of fortune</word>
+			</sg>
+			<sg number="5">
+				<word number="1">evil dispensation</word>
+				<word number="2">evil star</word>
+				<word number="3">evil genius</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vicissitudes of life</word>
+				<word number="2">ups and downs of life</word>
+				<word number="3">broken fortunes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hard case</word>
+				<word number="2">hard lines</word>
+				<word number="3">hard life</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sea of troubles</word>
+			</sg>
+			<sg number="9">
+				<word number="1">peck of troubles</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hell upon earth</word>
+			</sg>
+			<sg number="11">
+				<word number="1">slough of despond</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trouble">
+			<sg number="1">
+				<word number="1">trouble</word>
+				<word number="2">hardship</word>
+				<word number="3">curse</word>
+				<word number="4">blight</word>
+				<word number="5">blast</word>
+				<word number="6">load</word>
+				<word number="7">pressure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pressure of the times">
+			<sg number="1">
+				<word number="1">pressure of the times</word>
+				<word number="2">iron age</word>
+				<word number="3">evil day</word>
+				<word number="4">time out of joint</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard times</word>
+				<word number="2">bad times</word>
+				<word number="3">sad times</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rainy day</word>
+				<word number="2">cloud</word>
+				<word number="3">dark cloud</word>
+				<word number="4">gathering clouds</word>
+				<word number="5">ill wind</word>
+			</sg>
+			<sg number="4">
+				<word number="1">visitation</word>
+				<word number="2">infliction</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="painfulness" headRef="868">affliction</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bitter pill</word>
+			</sg>
+			<sg number="7">
+				<word number="1">care</word>
+				<word number="2">trial</word>
+			</sg>
+			<sg number="8">
+				<word number="1">the sport of fortune</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mishap">
+			<sg number="1">
+				<word number="1">mishap</word>
+				<word number="2">mischance</word>
+				<word number="3">misadventure</word>
+				<word number="4">misfortune</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disaster</word>
+				<word number="2">calamity</word>
+				<word number="3">catastrophe</word>
+				<word number="4" new="1">tragedy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accident</word>
+				<word number="2">casualty</word>
+				<word number="3">cross</word>
+				<word number="4">reverse</word>
+				<word number="5">check</word>
+				<word number="6">contretemps</word>
+				<word number="7">rub</word>
+			</sg>
+			<sg number="4">
+				<word number="1">backset</word>
+				<word number="2">comedown</word>
+				<word number="3">setback</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="losing game">
+			<sg number="1">
+				<word number="1">losing game</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">falling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall</word>
+				<word number="2">downfall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ruination</word>
+				<word number="2">ruinousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">undoing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">extremity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="destruction" headRef="169">ruin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="peril">
+			<sg number="1">
+				<word number="1" new="1">peril</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="predicament">
+			<sg number="1">
+				<word number="1" new="1">predicament</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="woe">
+			<sg number="1">
+				<word number="1" new="1">woe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be ill off">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be ill off</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go hard with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall on evil</word>
+				<word number="2">fall on evil days</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go on ill</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="prosper" headRef="763">not prosper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="go downhill">
+			<sg number="1">
+				<word number="1">go downhill</word>
+				<word number="2" paraRef="destruction" headRef="169">go to rack and ruin</word>
+				<word number="3">go to the dogs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall</word>
+				<word number="2">fall from one's high estate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decay</word>
+				<word number="2">sink</word>
+				<word number="3">decline</word>
+				<word number="4">go down in the world</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have seen better days</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bring down one's gray hairs with sorrow to the grave</word>
+			</sg>
+			<sg number="6">
+				<word number="1">come to grief</word>
+			</sg>
+			<sg number="7">
+				<word number="1">be all over</word>
+				<word number="2">be up with</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bring a wasp's nest about one's ears</word>
+				<word number="2">bring a hornet's nest about one's ears</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unfortunate">
+			<sg number="1">
+				<word number="1">unfortunate</word>
+				<word number="2">unblest</word>
+				<word number="3">unhappy</word>
+				<word number="4">unlucky</word>
+			</sg>
+			<sg number="2">
+				<word number="1">improsperous</word>
+				<word number="2">unprosperous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hoodooed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">luckless</word>
+				<word number="2">hapless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of luck</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in trouble</word>
+				<word number="2">in a bad way</word>
+				<word number="3">in an evil plight</word>
+			</sg>
+			<sg number="7">
+				<word number="1">under a cloud</word>
+			</sg>
+			<sg number="8">
+				<word number="1">clouded</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ill off</word>
+				<word number="2">badly off</word>
+			</sg>
+			<sg number="10">
+				<word number="1">in adverse circumstances</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="poor" headRef="839">poor</word>
+			</sg>
+			<sg number="12">
+				<word number="1">behindhand</word>
+				<word number="2">down in the world</word>
+				<word number="3">decayed</word>
+				<word number="4">undone</word>
+			</sg>
+			<sg number="13">
+				<word number="1">on the road to ruin</word>
+				<word number="2">on its last legs</word>
+				<word number="3">on the wane</word>
+			</sg>
+			<sg number="14">
+				<word number="1">in one's utmost need</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="planet-struck">
+			<sg number="1">
+				<word number="1">planet-struck</word>
+				<word number="2">devoted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">born under an evil star</word>
+				<word number="2">born with a wooden ladle in one's mouth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill-fated</word>
+				<word number="2">ill-starred</word>
+				<word number="3">ill-omened</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="adverse">
+			<sg number="1">
+				<word number="1">adverse</word>
+				<word number="2">untoward</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disastrous</word>
+				<word number="2">calamitous</word>
+				<word number="3">ruinous</word>
+				<word number="4">dire</word>
+				<word number="5">deplorable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

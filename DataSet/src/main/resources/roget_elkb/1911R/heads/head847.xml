@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="847" name="Price" origNum="#812." class="7" section="4" subSection="4" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="price">
+			<sg number="1">
+				<word number="1">price</word>
+				<word number="2">amount</word>
+				<word number="3">cost</word>
+				<word number="4">expense</word>
+				<word number="5">prime cost</word>
+				<word number="6">charge</word>
+				<word number="7">figure</word>
+				<word number="8" new="1">centerpoint</word>
+				<word number="9" new="1">sartorius</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demand</word>
+				<word number="2">damage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fare</word>
+				<word number="2">hire</word>
+				<word number="3" paraRef="remuneration" headRef="1016">wages</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="value" headRef="848">value</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dues">
+			<sg number="1">
+				<word number="1">dues</word>
+				<word number="2">duty</word>
+				<word number="3">toll</word>
+				<word number="4">tax</word>
+				<word number="5">impost</word>
+				<word number="6">cess</word>
+				<word number="7">sess</word>
+				<word number="8">tallage</word>
+				<word number="9">levy</word>
+				<word number="10" new="1">tibiae</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abkari</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capitation tax</word>
+				<word number="2">poll tax</word>
+			</sg>
+			<sg number="4">
+				<word number="1">doomage</word>
+				<word number="2">likin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gabel</word>
+				<word number="2">gabelle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gavel</word>
+				<word number="2">octroi</word>
+				<word number="3">custom</word>
+				<word number="4">excise</word>
+				<word number="5">assessment</word>
+				<word number="6">benevolence</word>
+				<word number="7">tithe</word>
+				<word number="8">tenths</word>
+				<word number="9">exactment</word>
+				<word number="10">ransom</word>
+				<word number="11">salvage</word>
+				<word number="12">tariff</word>
+				<word number="13" new="1">heron</word>
+				<word number="14" new="1">palay</word>
+			</sg>
+			<sg number="7">
+				<word number="1">brokerage</word>
+				<word number="2">wharfage</word>
+				<word number="3">freightage</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">hat</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">lesbian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bill">
+			<sg number="1">
+				<word number="1" paraRef="account" headRef="846">bill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="bear a price">
+			<sg number="1">
+				<word number="1">bear a price</word>
+				<word number="2">set a price</word>
+				<word number="3">fix a price</word>
+			</sg>
+			<sg number="2">
+				<word number="1">appraise</word>
+				<word number="2">assess</word>
+				<word number="3">doom</word>
+				<word number="4">price</word>
+				<word number="5">charge</word>
+				<word number="6">demand</word>
+				<word number="7">ask</word>
+				<word number="8">require</word>
+				<word number="9">exact</word>
+				<word number="10">run up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">distrain</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="debt" headRef="841">run up a bill</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have one's price</word>
+			</sg>
+			<sg number="6">
+				<word number="1">liquidate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="amount to">
+			<sg number="1">
+				<word number="1">amount to</word>
+				<word number="2">come to</word>
+				<word number="3">mount up to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand one in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fetch">
+			<sg number="1">
+				<word number="1">fetch</word>
+				<word number="2">sell for</word>
+				<word number="3">cost</word>
+				<word number="4">bring in</word>
+				<word number="5">yield</word>
+				<word number="6">afford</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="priced">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">priced</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to the tune of</word>
+				<word number="2">ad valorem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dutiable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mercenary</word>
+				<word number="2">venal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="no penny no paternoster">
+			<sg number="1">
+				<word number="1">no penny no paternoster</word>
+			</sg>
+			<sg number="2">
+				<word number="1">point d'argent point de Suisse</word>
+				<word number="2">no longer pipe no longer dance</word>
+				<word number="3">no song no supper</word>
+				<word number="4">if you dance you have to pay the piper</word>
+				<word number="5">you get what you pay for</word>
+				<word number="6">there's no such thing as a free lunch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="one may have it for">
+			<sg number="1">
+				<word number="1">one may have it for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a bon marche</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="927" name="Friendship" origNum="#888." class="8" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="friendship">
+			<sg number="1">
+				<word number="1">friendship</word>
+				<word number="2">amity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">friendliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brotherhood</word>
+				<word number="2">fraternity</word>
+				<word number="3">sodality</word>
+				<word number="4">confraternity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="concord" headRef="743">harmony</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="peace" headRef="750">peace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="firm friendship">
+			<sg number="1">
+				<word number="1">firm friendship</word>
+				<word number="2">staunch friendship</word>
+				<word number="3">intimate friendship</word>
+				<word number="4">familiar friendship</word>
+				<word number="5">bosom friendship</word>
+				<word number="6">cordial friendship</word>
+				<word number="7">tried friendship</word>
+				<word number="8">devoted friendship</word>
+				<word number="9">lasting friendship</word>
+				<word number="10">fast friendship</word>
+				<word number="11">sincere friendship</word>
+				<word number="12">warm friendship</word>
+				<word number="13">ardent friendship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cordiality">
+			<sg number="1">
+				<word number="1">cordiality</word>
+				<word number="2">fraternization</word>
+				<word number="3">entente cordiale</word>
+				<word number="4">good understanding</word>
+				<word number="5">rapprochement</word>
+				<word number="6">sympathy</word>
+				<word number="7">fellow-feeling</word>
+				<word number="8">response</word>
+				<word number="9">welcomeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="affection">
+			<sg number="1">
+				<word number="1" paraRef="love" headRef="936">affection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">favoritism</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="benevolence" headRef="946">good will</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="acquaintance">
+			<sg number="1">
+				<word number="1">acquaintance</word>
+				<word number="2">familiarity</word>
+				<word number="3">intimacy</word>
+				<word number="4">intercourse</word>
+				<word number="5">fellowship</word>
+				<word number="6">knowledge of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">introduction</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be friendly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be friendly</word>
+				<word number="2" paraRef="friend" headRef="929">be friends</word>
+				<word number="3" paraRef="" posRef="adj.">be acquainted with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">know</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have the ear of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sociality" headRef="931">keep company with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hold communication with</word>
+				<word number="2">have dealings with</word>
+				<word number="3">sympathize with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">have a leaning to</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="benevolent" headRef="946">bear good will</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="love" headRef="936">love</word>
+			</sg>
+			<sg number="9">
+				<word number="1">make much of</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="aid" headRef="736">befriend</word>
+			</sg>
+			<sg number="11">
+				<word number="1">introduce to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="set one's horses together">
+			<sg number="1">
+				<word number="1">set one's horses together</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have the latchstring out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold out the right hand of friendship</word>
+				<word number="2">extend the right hand of friendship</word>
+				<word number="3">hold out the right hand of fellowship</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">become friendly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="friend" headRef="929">make friends</word>
+			</sg>
+			<sg number="6">
+				<word number="1">break the lee</word>
+				<word number="2">be introduced to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make acquaintance with</word>
+				<word number="2">pick acquaintance with</word>
+				<word number="3">scrape acquaintance with</word>
+			</sg>
+			<sg number="8">
+				<word number="1">get into favor</word>
+				<word number="2">gain the friendship of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shake hands with">
+			<sg number="1">
+				<word number="1">shake hands with</word>
+				<word number="2">fraternize</word>
+				<word number="3">embrace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">receive with open arms</word>
+				<word number="2">throw oneself into the arms of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meet halfway</word>
+				<word number="2">take in good part</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="friendly">
+			<sg number="1">
+				<word number="1">friendly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amicable</word>
+				<word number="2">amical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">well-affected</word>
+				<word number="2">unhostile</word>
+				<word number="3">neighborly</word>
+				<word number="4">brotherly</word>
+				<word number="5">fraternal</word>
+				<word number="6">sympathetic</word>
+				<word number="7">harmonious</word>
+				<word number="8">hearty</word>
+				<word number="9">cordial</word>
+				<word number="10">warm-hearted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="friends with">
+			<sg number="1">
+				<word number="1">friends with</word>
+				<word number="2">well with</word>
+				<word number="3">at home with</word>
+				<word number="4">hand in hand with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on  good terms</word>
+				<word number="2">on friendly terms</word>
+				<word number="3">on  amicable terms</word>
+				<word number="4">on cordial terms</word>
+				<word number="5">on familiar terms</word>
+				<word number="6">on intimate terms</word>
+				<word number="7">on good footing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on speaking terms</word>
+				<word number="2">on visiting terms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in one's good graces</word>
+				<word number="2">in one's good books</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="acquainted">
+			<sg number="1">
+				<word number="1">acquainted</word>
+				<word number="2">familiar</word>
+				<word number="3">intimate</word>
+				<word number="4">thick</word>
+				<word number="5">hand and glove</word>
+				<word number="6">hail fellow well met</word>
+				<word number="7">free and easy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">welcome</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="amicably">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">amicably</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with open arms</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sans ceremonie</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arm in arm</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="amicitia semper prodest">
+			<sg number="1">
+				<word number="1">amicitia semper prodest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"a mystic bond of brotherhood makes all men one"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"friendship is love without either flowers or veil"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trulgus amicitias utilitate probat</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

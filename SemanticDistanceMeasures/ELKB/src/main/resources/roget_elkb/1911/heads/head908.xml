@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="908" name="Satiety" origNum="#869." class="8" section="2" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="satiety">
+			<sg number="1">
+				<word number="1">satiety</word>
+				<word number="2">satisfaction</word>
+				<word number="3">saturation</word>
+				<word number="4">repletion</word>
+				<word number="5">glut</word>
+				<word number="6">surfeit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cloyment</word>
+				<word number="2">satiation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="weariness" headRef="879">weariness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enfant gete</word>
+				<word number="2">enfant terrible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">too much of a good thing</word>
+				<word number="2">toujours perdrix</word>
+			</sg>
+			<sg number="6">
+				<word number="1">crambe repetita</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="sate">
+			<sg number="1">
+				<word number="1">sate</word>
+				<word number="2">satiate</word>
+				<word number="3">satisfy</word>
+				<word number="4">saturate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cloy</word>
+				<word number="2">quench</word>
+				<word number="3">slake</word>
+				<word number="4">pall</word>
+				<word number="5">glut</word>
+				<word number="6">gorge</word>
+				<word number="7">surfeit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="weary" headRef="879">bore</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="fatigue" headRef="717">tire</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spoil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have enough of">
+			<sg number="1">
+				<word number="1">have enough of</word>
+				<word number="2">have  quite enough of</word>
+				<word number="3">have one's fill</word>
+				<word number="4">have too much of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be satiated</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="satiated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">satiated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overgorged</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blase</word>
+				<word number="2">used up</word>
+				<word number="3">sick of</word>
+				<word number="4">heartsick</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="enough">
+			<sg number="1">
+				<word number="1">enough!</word>
+				<word number="2">hold!</word>
+				<word number="3">eheu jam satis!</word>
+				<word number="4">basta!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

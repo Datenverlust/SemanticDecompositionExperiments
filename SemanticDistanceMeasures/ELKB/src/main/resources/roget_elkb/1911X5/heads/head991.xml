@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="991" name="Bad Man" origNum="#949." class="8" section="4" subSection="3" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bad man">
+			<sg number="1">
+				<word number="1">bad man</word>
+				<word number="2">wrongdoer</word>
+				<word number="3">worker of iniquity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="evil doer" headRef="953">evil doer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sinner</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wicked" headRef="987">the wicked</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bad example</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="villain">
+			<sg number="1">
+				<word number="1">villain</word>
+				<word number="2">rascal</word>
+				<word number="3">scoundrel</word>
+				<word number="4">miscreant</word>
+				<word number="5">budmash</word>
+				<word number="6">caitiff!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wretch</word>
+				<word number="2">reptile</word>
+				<word number="3">viper</word>
+				<word number="4">serpent</word>
+				<word number="5">cockatrice</word>
+				<word number="6">basilisk</word>
+				<word number="7">urchin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tiger!</word>
+				<word number="2">monster</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="demon" headRef="1023">devil</word>
+			</sg>
+			<sg number="5">
+				<word number="1">devil incarnate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">demon in human shape</word>
+				<word number="2">Nana Sahib</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hellhound</word>
+				<word number="2">hellcat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rakehell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bad woman">
+			<sg number="1">
+				<word number="1">bad woman</word>
+				<word number="2">jade</word>
+				<word number="3">Jezebel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="scamp">
+			<sg number="1">
+				<word number="1">scamp</word>
+				<word number="2">scapegrace</word>
+				<word number="3">rip</word>
+				<word number="4">runagate</word>
+				<word number="5">ne'er-do-well</word>
+				<word number="6">reprobate</word>
+				<word number="7">scalawag</word>
+				<word number="8">scallawag</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="roué">
+			<sg number="1">
+				<word number="1">roué</word>
+				<word number="2">rake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Sadist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">skeesicks*</word>
+				<word number="2">skeezix*</word>
+			</sg>
+			<sg number="4">
+				<word number="1">limb</word>
+			</sg>
+			<sg number="5">
+				<word number="1">one who has sold himself to the devil</word>
+				<word number="2">fallen angel</word>
+				<word number="3">ame damnee</word>
+				<word number="4">vaurien</word>
+				<word number="5">mauvais sujet</word>
+				<word number="6">loose fish</word>
+				<word number="7">sad dog</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rounder*</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lost sheep</word>
+				<word number="2">black sheep</word>
+			</sg>
+			<sg number="8">
+				<word number="1">castaway</word>
+				<word number="2">recreant</word>
+				<word number="3">defaulter</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="prodigal" headRef="856">prodigal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rough">
+			<sg number="1">
+				<word number="1">rough</word>
+				<word number="2">rowdy</word>
+				<word number="3">hooligan</word>
+				<word number="4">tough</word>
+				<word number="5">ugly customer</word>
+				<word number="6">mean mother</word>
+				<word number="7">ruffian</word>
+				<word number="8">bully</word>
+				<word number="9">meanie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Jonathan Wild</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hangman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="incendiary">
+			<sg number="1">
+				<word number="1">incendiary</word>
+				<word number="2">arsonist</word>
+				<word number="3">fire bug</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="thief">
+			<sg number="1">
+				<word number="1" paraRef="thief" headRef="825">thief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">murderer</word>
+				<word number="2" paraRef="terrorist" headRef="373">terrorist</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">assassin</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">killer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">robber</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">traitor</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="2">assailant</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="2">burglar</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="2">smuggler</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="2">spy</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="3">conspirator</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="3">counterfeiter</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="3">intruder</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="3">looter</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="3">mugger</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="3">poacher</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="3">rustler</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="3">stalker</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="4">attacker</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="4">dacoit</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="4">liar</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="5">aggressor</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="5">bushranger</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="5">drunk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="culprit">
+			<sg number="1">
+				<word number="1">culprit</word>
+				<word number="2">delinquent</word>
+				<word number="3">crook</word>
+				<word number="4">hoodlum</word>
+				<word number="5">hood</word>
+				<word number="6">criminal</word>
+				<word number="7">thug</word>
+				<word number="8">malefactor</word>
+				<word number="9">offender</word>
+				<word number="10">perpetrator</word>
+				<word number="11">perp</word>
+				<word number="12" new="1">abuser</word>
+				<word number="13" new="1">accomplice</word>
+				<word number="14" new="1">mastermind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disorderly person</word>
+				<word number="2">misdemeanant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outlaw</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scofflaw</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vandal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">felon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">convict</word>
+				<word number="2">prisoner</word>
+				<word number="3">inmate</word>
+				<word number="4">jail bird</word>
+				<word number="5">ticket of leave man</word>
+			</sg>
+			<sg number="8">
+				<word number="1">multiple offender</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">fugitive</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">gang</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">deserter</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">runaway</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="blackguard">
+			<sg number="1">
+				<word number="1">blackguard</word>
+				<word number="2">polisson</word>
+				<word number="3">loafer</word>
+				<word number="4">sneak</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rapscallion</word>
+				<word number="2">rascallion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cullion</word>
+				<word number="2">mean wretch</word>
+				<word number="3">varlet</word>
+				<word number="4">kern</word>
+				<word number="5">ame-de- boue</word>
+				<word number="6">drole</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cur</word>
+				<word number="2">dog</word>
+				<word number="3">hound!</word>
+				<word number="4">whelp!</word>
+				<word number="5">mongrel!</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lown!</word>
+				<word number="2">loon</word>
+				<word number="3">runnion</word>
+				<word number="4">outcast</word>
+				<word number="5">vagabond</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="knave" headRef="983">rogue</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ronian</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scum of the earth</word>
+				<word number="2">riffraff</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Arcades ambo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="bandit">
+			<sg number="1">
+				<word number="1" new="1">bandit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="drifter">
+			<sg number="1">
+				<word number="1" new="1">drifter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="trickster">
+			<sg number="1">
+				<word number="1" new="1">trickster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="alcoholic">
+			<sg number="1">
+				<word number="1" new="2">alcoholic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="henchmen">
+			<sg number="1">
+				<word number="1" new="2">henchmen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="highwaymen">
+			<sg number="1">
+				<word number="1" new="2">highwaymen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="madman">
+			<sg number="1">
+				<word number="1" new="2">madman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="brigand">
+			<sg number="1">
+				<word number="1" new="3">brigand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="coward">
+			<sg number="1">
+				<word number="1" new="3">coward</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="wrecker">
+			<sg number="1">
+				<word number="1" new="4">wrecker</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="sirrah">
+			<sg number="1">
+				<word number="1">sirrah!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Acherontis pabulum">
+			<sg number="1">
+				<word number="1">Acherontis pabulum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gibier de potence</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

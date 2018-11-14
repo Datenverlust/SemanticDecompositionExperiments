@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="665" name="Store" origNum="#636." class="6" section="2" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="stock">
+			<sg number="1">
+				<word number="1">stock</word>
+				<word number="2">fund</word>
+				<word number="3">mine</word>
+				<word number="4">vein</word>
+				<word number="5">lode</word>
+				<word number="6">quarry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spring</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fount</word>
+				<word number="2">fountain</word>
+			</sg>
+			<sg number="4">
+				<word number="1">well</word>
+				<word number="2">wellspring</word>
+			</sg>
+			<sg number="5">
+				<word number="1">milch cow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stock in trade">
+			<sg number="1">
+				<word number="1">stock in trade</word>
+				<word number="2">supply</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="collection" headRef="76">heap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">treasure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reserve</word>
+				<word number="2">corps de reserve</word>
+				<word number="3">reserved fund</word>
+				<word number="4">nest egg</word>
+				<word number="5">savings</word>
+				<word number="6">bonne bouche</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="crop">
+			<sg number="1">
+				<word number="1">crop</word>
+				<word number="2">harvest</word>
+				<word number="3">mow</word>
+				<word number="4">vintage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="store">
+			<sg number="1">
+				<word number="1">store</word>
+				<word number="2">accumulation</word>
+				<word number="3">hoard</word>
+				<word number="4">rick</word>
+				<word number="5">stack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lumber</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="provision" headRef="666">relay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="storehouse">
+			<sg number="1">
+				<word number="1">storehouse</word>
+				<word number="2">storeroom</word>
+				<word number="3">storecloset</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depository</word>
+				<word number="2">depot</word>
+				<word number="3">cache</word>
+				<word number="4">repository</word>
+				<word number="5">reservatory</word>
+				<word number="6">repertory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repertorium</word>
+			</sg>
+			<sg number="4">
+				<word number="1">promptuary</word>
+				<word number="2">warehouse</word>
+				<word number="3">entrepot</word>
+				<word number="4">magazine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">buttery</word>
+				<word number="2">larder</word>
+				<word number="3">spence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">garner</word>
+				<word number="2">granary</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cannery</word>
+				<word number="2">safe-deposit vault</word>
+				<word number="3">stillroom</word>
+			</sg>
+			<sg number="8">
+				<word number="1">thesaurus</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="treasury" headRef="837">bank</word>
+			</sg>
+			<sg number="10">
+				<word number="1">armory</word>
+			</sg>
+			<sg number="11">
+				<word number="1">arsenal</word>
+			</sg>
+			<sg number="12">
+				<word number="1">dock</word>
+			</sg>
+			<sg number="13">
+				<word number="1">gallery</word>
+				<word number="2">museum</word>
+				<word number="3">conservatory</word>
+			</sg>
+			<sg number="14">
+				<word number="1">menagery</word>
+				<word number="2">menagerie</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">dockyard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="reservoir">
+			<sg number="1">
+				<word number="1">reservoir</word>
+				<word number="2">cistern</word>
+				<word number="3">aljibar</word>
+				<word number="4">tank</word>
+				<word number="5">pond</word>
+				<word number="6">mill pond</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gasometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="budget">
+			<sg number="1">
+				<word number="1">budget</word>
+				<word number="2">quiver</word>
+				<word number="3">bandolier</word>
+				<word number="4">portfolio</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="receptacle" headRef="200">coffer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="conservation">
+			<sg number="1">
+				<word number="1">conservation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">storing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">storage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="store">
+			<sg number="1">
+				<word number="1">store</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put by</word>
+				<word number="2">lay by</word>
+				<word number="3">set by</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stow away</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set apart</word>
+				<word number="2">lay apart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">store treasure</word>
+				<word number="2">hoard treasure</word>
+				<word number="3">lay up</word>
+				<word number="4">heap up</word>
+				<word number="5">put up</word>
+				<word number="6">garner up</word>
+				<word number="7">save up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bank</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cache</word>
+			</sg>
+			<sg number="8">
+				<word number="1">accumulate</word>
+				<word number="2">amass</word>
+				<word number="3">hoard</word>
+				<word number="4">fund</word>
+				<word number="5">garner</word>
+				<word number="6">save</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reserve">
+			<sg number="1">
+				<word number="1">reserve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep back</word>
+				<word number="2">hold back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">husband</word>
+				<word number="2">husband one's resources</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="deposit">
+			<sg number="1">
+				<word number="1">deposit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stow</word>
+				<word number="2">stack</word>
+				<word number="3">load</word>
+			</sg>
+			<sg number="3">
+				<word number="1">harvest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heap</word>
+				<word number="2" paraRef="collect" headRef="76">collect</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lay in store</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">extract</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="keep">
+			<sg number="1">
+				<word number="1">keep</word>
+				<word number="2">file</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="provide" headRef="666">lay in</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="preserve" headRef="699">preserve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stored">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">stored</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in store</word>
+				<word number="2">in reserve</word>
+				<word number="3">in ordinary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spare</word>
+				<word number="2">supernumerary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="adde parvum parvo magnus acervus erit">
+			<sg number="1">
+				<word number="1">adde parvum parvo magnus acervus erit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1001" name="Sobriety" origNum="#958." class="8" section="4" subSection="4" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sobriety">
+			<sg number="1">
+				<word number="1">sobriety</word>
+			</sg>
+			<sg number="2">
+				<word number="1">teetotalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="temperance">
+			<sg number="1">
+				<word number="1" paraRef="temperance" headRef="995">temperance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="water-drinker">
+			<sg number="1">
+				<word number="1">water-drinker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hydropot!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prohibitionist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">teetotaler</word>
+				<word number="2">teetotalist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abstainer</word>
+				<word number="2">Good Templar</word>
+				<word number="3">band of hope</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="take the pledge">
+			<sg number="1">
+				<word number="1">take the pledge</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sober">
+			<sg number="1">
+				<word number="1">sober</word>
+				<word number="2">sober as a judge</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="980" name="Accusation" origNum="#938." class="8" section="4" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="accusation">
+			<sg number="1">
+				<word number="1">accusation</word>
+				<word number="2">charge</word>
+				<word number="3">imputation</word>
+				<word number="4">slur</word>
+				<word number="5">inculpation</word>
+				<word number="6">exprobration</word>
+				<word number="7">delation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crimination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incrimination</word>
+				<word number="2">accrimination</word>
+				<word number="3">recrimination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tu quoque argument</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="invective" headRef="974">invective</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="denunciation">
+			<sg number="1">
+				<word number="1">denunciation</word>
+				<word number="2">denouncement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">libel</word>
+				<word number="2">challenge</word>
+				<word number="3">citation</word>
+				<word number="4">arraignment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impeachment</word>
+				<word number="2">appeachment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">indictment</word>
+				<word number="2">bill of indictment</word>
+				<word number="3">true bill</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="lawsuit" headRef="1012">lawsuit</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="condemnation" headRef="1014">condemnation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="gravamen of a charge">
+			<sg number="1">
+				<word number="1">gravamen of a charge</word>
+				<word number="2">head and front of one's offending</word>
+				<word number="3">argumentum ad hominem</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="detraction" headRef="976">scandal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scandalum magnatum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="accuser">
+			<sg number="1">
+				<word number="1">accuser</word>
+				<word number="2">prosecutor</word>
+				<word number="3">plaintiff</word>
+				<word number="4" new="1">hogshead</word>
+			</sg>
+			<sg number="2">
+				<word number="1">relator</word>
+				<word number="2">informer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appellant</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">waveguide</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">ephedrine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="accused">
+			<sg number="1">
+				<word number="1">accused</word>
+				<word number="2">defendant</word>
+				<word number="3">prisoner</word>
+				<word number="4">perpetrator</word>
+				<word number="5">panel</word>
+				<word number="6">respondent</word>
+				<word number="7" new="1">vas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">litigant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">vacante</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">afternoons</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="anesthetic">
+			<sg number="1">
+				<word number="1" new="1">anesthetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="macropods">
+			<sg number="1">
+				<word number="1" new="1">macropods</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="cane">
+			<sg number="1">
+				<word number="1" new="1">cane</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="accuse">
+			<sg number="1">
+				<word number="1">accuse</word>
+				<word number="2">charge</word>
+				<word number="3">tax</word>
+				<word number="4">impute</word>
+				<word number="5">twit</word>
+				<word number="6">taunt with</word>
+				<word number="7">reproach</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="brand with reproach">
+			<sg number="1">
+				<word number="1">brand with reproach</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stigmatize</word>
+				<word number="2">slur</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cast a stone at</word>
+				<word number="2">cast a slur on</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incriminate</word>
+				<word number="2">criminate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inculpate</word>
+				<word number="2">implicate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="censure" headRef="974">call to account</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take to blame</word>
+				<word number="2">take to task</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put in the black book</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inform against">
+			<sg number="1">
+				<word number="1">inform against</word>
+				<word number="2">indict</word>
+				<word number="3">denounce</word>
+				<word number="4">arraign</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impeach</word>
+				<word number="2">appeach</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have up</word>
+				<word number="2">show up</word>
+				<word number="3">pull up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">challenge</word>
+				<word number="2">cite</word>
+				<word number="3">lodge a complaint</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prosecute</word>
+				<word number="2" paraRef="bring an action against" headRef="1012">bring an action against</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blow upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">conciliate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="charge with">
+			<sg number="1">
+				<word number="1">charge with</word>
+				<word number="2">saddle with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay to one's door</word>
+				<word number="2">lay charge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay the blame on</word>
+				<word number="2">bring home to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cast  in one's teeth</word>
+				<word number="2">throw  in one's teeth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cast the first stone at</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="have a rod in pickle for">
+			<sg number="1">
+				<word number="1">have a rod in pickle for</word>
+				<word number="2">keep a rod in pickle for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a crow to pluck with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="trump up a charge">
+			<sg number="1">
+				<word number="1">trump up a charge</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="accusing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">accusing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accusatory</word>
+				<word number="2">accusative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imputative</word>
+				<word number="2">denunciatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">recriminatory</word>
+				<word number="2">criminatory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="accused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">accused</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suspected</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under suspicion</word>
+				<word number="2">under a cloud</word>
+				<word number="3">under surveillance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in custody</word>
+				<word number="2">in detention</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the lockup</word>
+				<word number="2">in the watch house</word>
+				<word number="3">in the house of detention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="accusable">
+			<sg number="1">
+				<word number="1">accusable</word>
+				<word number="2">imputable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indefensible</word>
+				<word number="2">inexcusable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unpardonable</word>
+				<word number="2">unjustifiable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vicious" headRef="987">vicious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="look at home">
+			<sg number="1">
+				<word number="1">look at home</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="retaliation" headRef="747">tu quoque</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the breath of accusation kills an innocent name">
+			<sg number="1">
+				<word number="1">"the breath of accusation kills an innocent name"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"thou can'st not say I did it"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

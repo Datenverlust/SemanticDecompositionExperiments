@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="722" name="Direction" origNum="#693." class="6" section="3" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="direction">
+			<sg number="1">
+				<word number="1">direction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">management</word>
+				<word number="2">managery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">government</word>
+				<word number="2">gubernation</word>
+				<word number="3">conduct</word>
+				<word number="4">legislation</word>
+				<word number="5">regulation</word>
+				<word number="6">guidance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bossism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">legislature</word>
+			</sg>
+			<sg number="6">
+				<word number="1">steerage</word>
+				<word number="2">pilotage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reins</word>
+				<word number="2">reins of government</word>
+			</sg>
+			<sg number="8">
+				<word number="1">helm</word>
+				<word number="2">rudder</word>
+				<word number="3">needle</word>
+				<word number="4">compass</word>
+			</sg>
+			<sg number="9">
+				<word number="1">guiding star</word>
+				<word number="2">load star</word>
+				<word number="3">lode star</word>
+				<word number="4">pole star</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cynosure</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">telos</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="supervision">
+			<sg number="1">
+				<word number="1">supervision</word>
+				<word number="2">superintendence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">surveillance</word>
+				<word number="2">oversight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eye of the master</word>
+			</sg>
+			<sg number="4">
+				<word number="1">control</word>
+				<word number="2">charge</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="council" headRef="725">board of control</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="authority" headRef="766">command</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="premiership">
+			<sg number="1">
+				<word number="1">premiership</word>
+				<word number="2">senatorship</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="director" headRef="723">director</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chair</word>
+				<word number="2">portfolio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="statesmanship">
+			<sg number="1">
+				<word number="1">statesmanship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">statecraft</word>
+				<word number="2">kingcraft</word>
+				<word number="3">queencraft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ministry">
+			<sg number="1">
+				<word number="1">ministry</word>
+				<word number="2">ministration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">administration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stewardship</word>
+				<word number="2">proctorship</word>
+			</sg>
+			<sg number="4">
+				<word number="1">agency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="director">
+			<sg number="1">
+				<word number="1" paraRef="director" headRef="723">director</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="luthiers">
+			<sg number="1">
+				<word number="1" new="1">luthiers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="glacier">
+			<sg number="1">
+				<word number="1" new="1">glacier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="displaying">
+			<sg number="1">
+				<word number="1" new="1">displaying</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="direct">
+			<sg number="1">
+				<word number="1">direct</word>
+				<word number="2">manage</word>
+				<word number="3">govern</word>
+				<word number="4">conduct</word>
+			</sg>
+			<sg number="2">
+				<word number="1">order</word>
+				<word number="2">prescribe</word>
+				<word number="3">cut out work for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bead</word>
+				<word number="2">lead</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lead the way</word>
+				<word number="2">show the way</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take the lead</word>
+				<word number="2">lead on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">regulate</word>
+				<word number="2">guide</word>
+				<word number="3">steer</word>
+				<word number="4">pilot</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tackle       take the helm</word>
+				<word number="2">be at the helm</word>
+			</sg>
+			<sg number="8">
+				<word number="1">have the reins</word>
+				<word number="2">handle the reins</word>
+				<word number="3">hold the reins</word>
+				<word number="4">take the reins</word>
+			</sg>
+			<sg number="9">
+				<word number="1">drive</word>
+				<word number="2">tool</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">weather</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="superintend">
+			<sg number="1">
+				<word number="1">superintend</word>
+				<word number="2">supervise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overlook</word>
+				<word number="2">control</word>
+				<word number="3">keep in order</word>
+				<word number="4">look after</word>
+				<word number="5">see to</word>
+				<word number="6">legislate for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">administer</word>
+				<word number="2">ministrate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">matronize</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have the care of</word>
+				<word number="2">have the charge of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be in charge of</word>
+				<word number="2">have charge of</word>
+				<word number="3">take the direction</word>
+			</sg>
+			<sg number="7">
+				<word number="1">boss</word>
+				<word number="2">boss one around</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pull the strings</word>
+				<word number="2">pull the wires</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="command" headRef="767">rule</word>
+			</sg>
+			<sg number="10">
+				<word number="1">have the direction</word>
+				<word number="2">hold office</word>
+				<word number="3">hold the portfolio</word>
+			</sg>
+			<sg number="11">
+				<word number="1">preside</word>
+				<word number="2">preside  at the board</word>
+			</sg>
+			<sg number="12">
+				<word number="1">take the chair</word>
+				<word number="2">occupy the chair</word>
+				<word number="3">be in the chair</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pull the stroke oar</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">rafter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="directing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">directing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hegemonic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at the helm">
+			<sg number="1">
+				<word number="1">at the helm</word>
+				<word number="2">at the head of</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

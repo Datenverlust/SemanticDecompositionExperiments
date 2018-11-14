@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="746" name="Defense" origNum="#717." class="6" section="4" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="defense">
+			<sg number="1">
+				<word number="1">defense</word>
+				<word number="2">protection</word>
+				<word number="3">guard</word>
+				<word number="4">ward</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">shielding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">propugnation</word>
+				<word number="2" paraRef="preservation" headRef="699">preservation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">guardianship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="area defense">
+			<sg number="1">
+				<word number="1">area defense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">site defense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="self-defense">
+			<sg number="1">
+				<word number="1">self-defense</word>
+				<word number="2">self-preservation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="resistance" headRef="748">resistance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="safeguard">
+			<sg number="1">
+				<word number="1" paraRef="safety" headRef="693">safeguard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">balistraria</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bunker</word>
+				<word number="2" paraRef="shelter" headRef="695">screen</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="concealment" headRef="556">camouflage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fortification</word>
+			</sg>
+			<sg number="6">
+				<word number="1">munition</word>
+				<word number="2">muniment</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trench</word>
+				<word number="2">foxhole</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bulwark</word>
+				<word number="2">fosse</word>
+				<word number="3">moat</word>
+				<word number="4">ditch</word>
+				<word number="5">entrenchment</word>
+				<word number="6">intrenchment</word>
+				<word number="7" new="1">sherlock</word>
+			</sg>
+			<sg number="9">
+				<word number="1">kila</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dike</word>
+				<word number="2">dyke</word>
+			</sg>
+			<sg number="11">
+				<word number="1">parapet</word>
+				<word number="2">sunk fence</word>
+				<word number="3">embankment</word>
+				<word number="4">mound</word>
+				<word number="5">mole</word>
+				<word number="6">bank</word>
+				<word number="7">sandbag</word>
+				<word number="8">revetment</word>
+			</sg>
+			<sg number="12">
+				<word number="1">earth work</word>
+				<word number="2">field-work</word>
+			</sg>
+			<sg number="13">
+				<word number="1">fence</word>
+				<word number="2">wall dead wall</word>
+				<word number="3">contravallation</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="inclosure" headRef="242">paling</word>
+			</sg>
+			<sg number="15">
+				<word number="1">palisade</word>
+				<word number="2">haha</word>
+				<word number="3">stockade</word>
+				<word number="4">stoccado</word>
+				<word number="5">laager</word>
+				<word number="6">sangar</word>
+			</sg>
+			<sg number="16">
+				<word number="1">barrier</word>
+				<word number="2">barricade</word>
+			</sg>
+			<sg number="17">
+				<word number="1">boom</word>
+			</sg>
+			<sg number="18">
+				<word number="1">portcullis</word>
+				<word number="2">chevaux de frise</word>
+			</sg>
+			<sg number="19">
+				<word number="1">abatis</word>
+				<word number="2">abattis</word>
+				<word number="3">abbatis</word>
+			</sg>
+			<sg number="20">
+				<word number="1">vallum</word>
+				<word number="2">circumvallation</word>
+				<word number="3">battlement</word>
+				<word number="4">rampart</word>
+				<word number="5">scarp</word>
+			</sg>
+			<sg number="21">
+				<word number="1">escarp</word>
+				<word number="2">counter-scarp</word>
+			</sg>
+			<sg number="22">
+				<word number="1">glacis</word>
+				<word number="2">casemate</word>
+			</sg>
+			<sg number="23">
+				<word number="1">vallation</word>
+				<word number="2">vanfos</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">fining</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">riddim</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">fridge</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">carelessness</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">consumptive</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="1">significance</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="1">heptagon</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="1">cinerea</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="1">stationmaster</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="1">mispronunciation</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="1">vu</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="1">dita</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="1">posadnik</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="1">postgraduate</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="1">rainbow</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="1">melee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="buttress">
+			<sg number="1">
+				<word number="1">buttress</word>
+				<word number="2">abutment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="support" headRef="224">shore</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="breastwork">
+			<sg number="1">
+				<word number="1">breastwork</word>
+				<word number="2">banquette</word>
+				<word number="3">curtain</word>
+				<word number="4">mantlet</word>
+				<word number="5">bastion</word>
+				<word number="6">redan</word>
+				<word number="7">ravelin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vauntmure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">advance work</word>
+				<word number="2">horn work</word>
+				<word number="3">outwork</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barbacan</word>
+				<word number="2">barbican</word>
+			</sg>
+			<sg number="5">
+				<word number="1">redoubt</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fort-elage</word>
+				<word number="2">fort-alice</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lines</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="loophole">
+			<sg number="1">
+				<word number="1">loophole</word>
+				<word number="2">machicolation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sally port</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="hold">
+			<sg number="1">
+				<word number="1">hold</word>
+				<word number="2">stronghold</word>
+				<word number="3">fastness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="refuge" headRef="695">asylum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep</word>
+				<word number="2">donjon</word>
+				<word number="3">dungeon</word>
+				<word number="4">fortress</word>
+				<word number="5">citadel</word>
+				<word number="6">capitol</word>
+				<word number="7">castle</word>
+				<word number="8" new="1">kuni</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tower of strength</word>
+				<word number="2">tower of strength</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fort</word>
+				<word number="2">barracoon</word>
+				<word number="3">pah</word>
+				<word number="4">sconce</word>
+				<word number="5">martello tower</word>
+				<word number="6">peelhouse</word>
+				<word number="7">blockhouse</word>
+				<word number="8">rath</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wooden walls</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">readout</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">threator</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">nightfall</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">selo</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">eromski</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="bulletproof vest">
+			<sg number="1">
+				<word number="1">bulletproof vest</word>
+				<word number="2">armored vest</word>
+				<word number="3">buffer</word>
+				<word number="4">corner stone</word>
+				<word number="5">fender</word>
+				<word number="6">apron</word>
+				<word number="7">mask</word>
+				<word number="8">gauntlet</word>
+				<word number="9">thimble</word>
+				<word number="10">carapace</word>
+				<word number="11">armor</word>
+				<word number="12">shield</word>
+				<word number="13">buckler</word>
+				<word number="14">aegis</word>
+				<word number="15">breastplate</word>
+				<word number="16">backplate</word>
+				<word number="17">cowcatcher</word>
+				<word number="18">face guard</word>
+				<word number="19">scutum</word>
+				<word number="20">cuirass</word>
+				<word number="21">habergeon</word>
+				<word number="22">mail</word>
+				<word number="23">coat of mail</word>
+				<word number="24">brigandine</word>
+				<word number="25">hauberk</word>
+				<word number="26">lorication</word>
+				<word number="27">helmet</word>
+				<word number="28">helm</word>
+				<word number="29">bassinet</word>
+				<word number="30">salade</word>
+				<word number="31">heaume</word>
+				<word number="32">morion</word>
+				<word number="33">murrion</word>
+				<word number="34">armet</word>
+				<word number="35">cabaset</word>
+				<word number="36">vizor</word>
+				<word number="37">casquetel</word>
+				<word number="38">siege cap</word>
+				<word number="39">headpiece</word>
+				<word number="40">casque</word>
+				<word number="41">pickelhaube</word>
+				<word number="42">vambrace</word>
+				<word number="43" paraRef="dress" headRef="235">shako</word>
+				<word number="44" new="1">biota</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="bearskin">
+			<sg number="1">
+				<word number="1">bearskin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">panoply</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="weapon" headRef="756">truncheon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="garrison">
+			<sg number="1">
+				<word number="1">garrison</word>
+				<word number="2">picket</word>
+				<word number="3">piquet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defender</word>
+				<word number="2">protector</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="safety" headRef="693">guardian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bodyguard</word>
+				<word number="2">champion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">knight-errant</word>
+				<word number="2">Paladin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">propugner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="bulletproof window">
+			<sg number="1">
+				<word number="1">bulletproof window</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="hardened site">
+			<sg number="1">
+				<word number="1">hardened site</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="chausses">
+			<sg number="1">
+				<word number="1" new="1">chausses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="watering">
+			<sg number="1">
+				<word number="1" new="1">watering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="flavoring">
+			<sg number="1">
+				<word number="1" new="1">flavoring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="anticonvulsant">
+			<sg number="1">
+				<word number="1" new="1">anticonvulsant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="gerousia">
+			<sg number="1">
+				<word number="1" new="1">gerousia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="whichever">
+			<sg number="1">
+				<word number="1" new="1">whichever</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="bhi">
+			<sg number="1">
+				<word number="1" new="1">bhi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="kohen">
+			<sg number="1">
+				<word number="1" new="1">kohen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="defend">
+			<sg number="1">
+				<word number="1">defend</word>
+				<word number="2">forfend</word>
+				<word number="3">fend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shield</word>
+				<word number="2">screen</word>
+				<word number="3">shroud</word>
+			</sg>
+			<sg number="3">
+				<word number="1">engarrison</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="circumscribe" headRef="239">fend round</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fence</word>
+				<word number="2">entrench</word>
+				<word number="3">intrench</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="safe" headRef="693">guard</word>
+			</sg>
+			<sg number="7">
+				<word number="1">guard against</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="vigilance" headRef="479">take care of</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bear harmless</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fend off</word>
+				<word number="2">keep off</word>
+				<word number="3">ward off</word>
+				<word number="4">beat off</word>
+				<word number="5">beat back</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="hinder" headRef="735">hinder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="parry">
+			<sg number="1">
+				<word number="1">parry</word>
+				<word number="2">repel</word>
+				<word number="3">propugn</word>
+				<word number="4">put to flight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give a warm reception to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold at bay</word>
+				<word number="2">keep at bay</word>
+				<word number="3">keep arm's length</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stand on the defensive">
+			<sg number="1">
+				<word number="1">stand on the defensive</word>
+				<word number="2">act on the defensive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">show fight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maintain one's ground</word>
+				<word number="2">stand one's ground</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stand by</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hold one's own</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bear the brunt</word>
+				<word number="2">stand the brunt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fall back upon</word>
+				<word number="2">hold</word>
+				<word number="3">stand in the gap</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="defending">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">defending</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defensive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mural!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">armed</word>
+				<word number="2">armed at all points</word>
+				<word number="3">armed cap-a-pie</word>
+				<word number="4">armed to the teeth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">panoplied</word>
+			</sg>
+			<sg number="6">
+				<word number="1">iron-plated</word>
+				<word number="2">ironclad</word>
+			</sg>
+			<sg number="7">
+				<word number="1">loopholed</word>
+				<word number="2">castellated</word>
+				<word number="3">machicolated</word>
+				<word number="4">casemated</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="v.">defended</word>
+			</sg>
+			<sg number="9">
+				<word number="1">proof against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="armored">
+			<sg number="1">
+				<word number="1">armored</word>
+				<word number="2">ballproof!</word>
+				<word number="3">bulletproof</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hardened</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="defensively">
+			<sg number="1">
+				<word number="1">defensively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the defense</word>
+				<word number="2">on the defensive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in defense</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at bay</word>
+				<word number="2">pro aris et focis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="no surrender">
+			<sg number="1">
+				<word number="1">no surrender!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="defense not defiance">
+			<sg number="1">
+				<word number="1">defense not defiance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Dieu defend le droit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fidei defensor</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

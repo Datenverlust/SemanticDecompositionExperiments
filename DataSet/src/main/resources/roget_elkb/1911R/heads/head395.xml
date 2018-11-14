@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="395" name="Heat" origNum="#382." class="3" section="3" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="heat">
+			<sg number="1">
+				<word number="1">heat</word>
+				<word number="2">caloric</word>
+			</sg>
+			<sg number="2">
+				<word number="1">temperature</word>
+				<word number="2">warmth</word>
+				<word number="3">fervor</word>
+				<word number="4">calidity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incalescence</word>
+				<word number="2">incandescence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">glow</word>
+				<word number="2">flush</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fever</word>
+				<word number="2">hectic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="phlogiston">
+			<sg number="1">
+				<word number="1">phlogiston</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fire</word>
+				<word number="2">spark</word>
+				<word number="3">scintillation</word>
+				<word number="4">flash</word>
+				<word number="5">flame</word>
+				<word number="6">blaze</word>
+				<word number="7" new="1">ichi</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bonfire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">firework</word>
+				<word number="2">pyrotechnics</word>
+				<word number="3">pyrotechny</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wildfire</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sheet of fire</word>
+				<word number="2">lambent flame</word>
+			</sg>
+			<sg number="7">
+				<word number="1">devouring element</word>
+			</sg>
+			<sg number="8">
+				<word number="1">adiathermancy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">recalescence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="summer">
+			<sg number="1">
+				<word number="1">summer</word>
+				<word number="2">dog days</word>
+			</sg>
+			<sg number="2">
+				<word number="1">canicular days</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bake" headRef="397">baking</word>
+				<word number="2">white heat</word>
+				<word number="3">tropical heat</word>
+				<word number="4">Afric heat</word>
+				<word number="5">Bengal heat</word>
+				<word number="6">summer heat</word>
+				<word number="7">blood heat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sirocco</word>
+				<word number="2">simoom</word>
+			</sg>
+			<sg number="5">
+				<word number="1">broiling sun</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insolation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="warm" headRef="397">warming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sun">
+			<sg number="1">
+				<word number="1" paraRef="luminary" headRef="441">sun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pyrology">
+			<sg number="1">
+				<word number="1">pyrology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thermology</word>
+				<word number="2">thermotics</word>
+				<word number="3">thermodynamics</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="thermometer" headRef="403">thermometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="calorie">
+			<sg number="1">
+				<word number="1">calorie</word>
+				<word number="2">gram-calorie</word>
+				<word number="3">small calorie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kilocalorie</word>
+				<word number="2">kilogram calorie</word>
+				<word number="3">large calorie</word>
+			</sg>
+			<sg number="3">
+				<word number="1">British Thermal Unit</word>
+				<word number="2">B.T.U</word>
+			</sg>
+			<sg number="4">
+				<word number="1">therm</word>
+				<word number="2">quad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="degrees Kelvin">
+			<sg number="1">
+				<word number="1">degrees Kelvin</word>
+				<word number="2">kelvins</word>
+				<word number="3">degrees centigrade</word>
+				<word number="4">degrees Celsius</word>
+			</sg>
+			<sg number="2">
+				<word number="1">degrees Fahrenheit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be hot">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be hot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glow</word>
+				<word number="2">flush</word>
+				<word number="3">sweat</word>
+				<word number="4">swelter</word>
+				<word number="5">bask</word>
+				<word number="6">smoke</word>
+				<word number="7">reek</word>
+				<word number="8">stew</word>
+				<word number="9">simmer</word>
+				<word number="10">seethe</word>
+				<word number="11">boil</word>
+				<word number="12">burn</word>
+				<word number="13">blister</word>
+				<word number="14">broil</word>
+				<word number="15">blaze</word>
+				<word number="16">flame</word>
+				<word number="17" new="1">whack</word>
+				<word number="18" new="1">display</word>
+				<word number="19" new="1">revolt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smolder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">parch</word>
+				<word number="2">fume</word>
+				<word number="3">pant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="heat">
+			<sg number="1">
+				<word number="1" paraRef="make hot" headRef="397">heat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recalesce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thaw</word>
+				<word number="2">give</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="hot">
+			<sg number="1">
+				<word number="1">hot</word>
+				<word number="2">warm</word>
+				<word number="3">mild</word>
+				<word number="4">genial</word>
+				<word number="5">tepid</word>
+				<word number="6">lukewarm</word>
+				<word number="7">unfrozen</word>
+				<word number="8" new="1">suceeded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thermal</word>
+				<word number="2">thermic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calorific</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fervent</word>
+				<word number="2">fervid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ardent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aglow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sunny">
+			<sg number="1">
+				<word number="1">sunny</word>
+				<word number="2">torrid</word>
+				<word number="3">tropical</word>
+				<word number="4">estival!</word>
+				<word number="5">canicular</word>
+				<word number="6">steamy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">close</word>
+				<word number="2">sultry</word>
+				<word number="3">stifling</word>
+				<word number="4">stuffy</word>
+				<word number="5">suffocating</word>
+				<word number="6">oppressive</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">reeking</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="bake" headRef="397">baking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="red hot">
+			<sg number="1">
+				<word number="1">red hot</word>
+				<word number="2">white hot</word>
+				<word number="3">smoking hot</word>
+				<word number="4" paraRef="" posRef="v.">burning</word>
+				<word number="5">piping hot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">like a furnace</word>
+				<word number="2">like an oven</word>
+			</sg>
+			<sg number="3">
+				<word number="1">burning</word>
+				<word number="2">hot as fire</word>
+				<word number="3">hot as pepper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hot enough to roast an ox</word>
+				<word number="2">hot enough to boil an egg</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">hierarchical</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">amputated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fiery">
+			<sg number="1">
+				<word number="1">fiery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incandescent</word>
+				<word number="2">incalescent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">candent</word>
+				<word number="2">ebullient</word>
+				<word number="3">glowing</word>
+				<word number="4">smoking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">live</word>
+			</sg>
+			<sg number="5">
+				<word number="1">on fire</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">dazzling</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in flames</word>
+				<word number="2">blazing</word>
+				<word number="3">in a blaze</word>
+			</sg>
+			<sg number="8">
+				<word number="1">alight</word>
+				<word number="2">afire</word>
+				<word number="3">ablaze</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unquenched</word>
+				<word number="2">unextinguished</word>
+			</sg>
+			<sg number="10">
+				<word number="1">smoldering</word>
+			</sg>
+			<sg number="11">
+				<word number="1">in a heat</word>
+				<word number="2">in a glow</word>
+				<word number="3">in a fever</word>
+				<word number="4">in a perspiration</word>
+				<word number="5">in a sweat</word>
+			</sg>
+			<sg number="12">
+				<word number="1">sudorific</word>
+			</sg>
+			<sg number="13">
+				<word number="1">sweltering</word>
+				<word number="2">sweltered</word>
+			</sg>
+			<sg number="14">
+				<word number="1">blood hot</word>
+				<word number="2">blood warm</word>
+			</sg>
+			<sg number="15">
+				<word number="1">warm as a toast</word>
+				<word number="2">warm as wool</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">contemptuously</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">illocutionary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="volcanic">
+			<sg number="1">
+				<word number="1">volcanic</word>
+				<word number="2">plutonic</word>
+				<word number="3">igneous</word>
+				<word number="4" new="1">nonpublic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">isothermal!</word>
+				<word number="2">isothermic!</word>
+				<word number="3">isotheral!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="not a breath of air">
+			<sg number="1">
+				<word number="1">not a breath of air</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"whirlwinds of tempestuous fire"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

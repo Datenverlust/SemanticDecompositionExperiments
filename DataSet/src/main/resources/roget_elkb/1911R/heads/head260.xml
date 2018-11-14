@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="260" name="Convexity" origNum="#250." class="2" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="convexity">
+			<sg number="1">
+				<word number="1">convexity</word>
+				<word number="2">prominence</word>
+				<word number="3">projection</word>
+				<word number="4">swelling</word>
+				<word number="5">gibbosity</word>
+				<word number="6">bilge</word>
+				<word number="7">bulge</word>
+				<word number="8">protuberance</word>
+				<word number="9">protrusion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">camber</word>
+				<word number="2">cahot</word>
+				<word number="3">thank-ye-ma'am</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="swell">
+			<sg number="1">
+				<word number="1">swell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="intumescence">
+			<sg number="1">
+				<word number="1">intumescence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tumour</word>
+				<word number="2">tumor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tubercle</word>
+				<word number="2">tuberosity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">excrescence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hump</word>
+				<word number="2">hunch</word>
+				<word number="3">bunch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="boss">
+			<sg number="1">
+				<word number="1">boss</word>
+				<word number="2">embossment</word>
+				<word number="3">hub</word>
+				<word number="4">hubble       tooth</word>
+				<word number="5">knob</word>
+				<word number="6">elbow</word>
+				<word number="7">process</word>
+				<word number="8">apophysis</word>
+				<word number="9">condyle</word>
+				<word number="10">bulb</word>
+				<word number="11">node</word>
+				<word number="12">nodule</word>
+				<word number="13">nodosity</word>
+				<word number="14">tongue</word>
+				<word number="15">dorsum</word>
+				<word number="16">bump</word>
+				<word number="17">clump</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sharpness" headRef="264">sugar loaf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mamelon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">molar</word>
+			</sg>
+			<sg number="6">
+				<word number="1">belly</word>
+				<word number="2">corporation!</word>
+				<word number="3">pot belly</word>
+				<word number="4">gut</word>
+			</sg>
+			<sg number="7">
+				<word number="1">withers</word>
+				<word number="2">back</word>
+				<word number="3">shoulder</word>
+				<word number="4">lip</word>
+				<word number="5">flange</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pimple">
+			<sg number="1">
+				<word number="1">pimple</word>
+				<word number="2">zit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wen</word>
+				<word number="2">wheel</word>
+				<word number="3">papula</word>
+				<word number="4">pustule</word>
+				<word number="5">pock</word>
+				<word number="6">proud flesh</word>
+				<word number="7">growth</word>
+				<word number="8">sarcoma</word>
+				<word number="9">caruncle</word>
+				<word number="10">corn</word>
+				<word number="11">wart</word>
+				<word number="12">pappiloma</word>
+				<word number="13">furuncle</word>
+				<word number="14">polypus</word>
+				<word number="15">fungus</word>
+				<word number="16">fungosity</word>
+				<word number="17">exostosis</word>
+				<word number="18">bleb</word>
+				<word number="19">blister</word>
+				<word number="20">blain</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disease" headRef="684">boil</word>
+			</sg>
+			<sg number="4">
+				<word number="1">airbubble</word>
+				<word number="2">blob</word>
+				<word number="3">papule</word>
+				<word number="4">verruca</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="papilla">
+			<sg number="1">
+				<word number="1">papilla</word>
+				<word number="2">nipple</word>
+				<word number="3">teat</word>
+				<word number="4">tit</word>
+				<word number="5">titty</word>
+				<word number="6">boob</word>
+				<word number="7">knocker</word>
+				<word number="8">pap</word>
+				<word number="9">breast</word>
+				<word number="10">dug</word>
+				<word number="11">mammilla</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="proboscis">
+			<sg number="1">
+				<word number="1">proboscis</word>
+				<word number="2">nose</word>
+				<word number="3">neb</word>
+				<word number="4">beak</word>
+				<word number="5">snout</word>
+				<word number="6">nozzle</word>
+				<word number="7">schnoz</word>
+				<word number="8" new="1">shelving</word>
+				<word number="9" new="1">yster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="peg">
+			<sg number="1">
+				<word number="1">peg</word>
+				<word number="2">button</word>
+				<word number="3">stud</word>
+				<word number="4">ridge</word>
+				<word number="5">rib</word>
+				<word number="6">jutty</word>
+				<word number="7">trunnion</word>
+				<word number="8">snag</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="cupola">
+			<sg number="1">
+				<word number="1">cupola</word>
+				<word number="2">dome</word>
+				<word number="3">arch</word>
+				<word number="4">balcony</word>
+				<word number="5">eaves</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pilaster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="relief">
+			<sg number="1">
+				<word number="1">relief</word>
+				<word number="2">relievo</word>
+				<word number="3">cameo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bassorilievo</word>
+				<word number="2">mezzorilevo</word>
+				<word number="3">altorivievo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">low relief</word>
+				<word number="2">bas relief</word>
+				<word number="3">high relief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="hill">
+			<sg number="1">
+				<word number="1" paraRef="height" headRef="215">hill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cape</word>
+				<word number="2">promontory</word>
+				<word number="3">mull</word>
+			</sg>
+			<sg number="3">
+				<word number="1">forehead</word>
+				<word number="2">foreland</word>
+			</sg>
+			<sg number="4">
+				<word number="1">point of land</word>
+				<word number="2">mole</word>
+				<word number="3">jetty</word>
+				<word number="4">hummock</word>
+				<word number="5">ledge</word>
+				<word number="6">spur</word>
+			</sg>
+			<sg number="5">
+				<word number="1">naze</word>
+				<word number="2">ness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="outport">
+			<sg number="1">
+				<word number="1" new="1">outport</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="ataman">
+			<sg number="1">
+				<word number="1" new="1">ataman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="fermenters">
+			<sg number="1">
+				<word number="1" new="1">fermenters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="diplomatist">
+			<sg number="1">
+				<word number="1" new="1">diplomatist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be prominent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be prominent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">project</word>
+				<word number="2">bulge</word>
+				<word number="3">protrude</word>
+				<word number="4">pout</word>
+				<word number="5">bouge</word>
+				<word number="6">bunch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jut out</word>
+				<word number="2">stand out</word>
+				<word number="3">stick out</word>
+				<word number="4">poke out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stick up</word>
+				<word number="2">bristle up</word>
+				<word number="3">start up</word>
+				<word number="4">cock up</word>
+				<word number="5">shoot up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">swell over</word>
+				<word number="2">hang over</word>
+				<word number="3">bend over</word>
+			</sg>
+			<sg number="6">
+				<word number="1">beetle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render prominent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render prominent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="raise" headRef="318">raise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emboss</word>
+				<word number="2">chase</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="belly out">
+			<sg number="1">
+				<word number="1">belly out</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="convex">
+			<sg number="1">
+				<word number="1">convex</word>
+				<word number="2">prominent</word>
+				<word number="3">protuberant</word>
+				<word number="4" paraRef="" posRef="v.">projecting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bossed</word>
+				<word number="2">embossed</word>
+				<word number="3">bossy</word>
+				<word number="4">nodular</word>
+				<word number="5">bunchy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clavate</word>
+				<word number="2">clavated</word>
+				<word number="3">claviform</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hummocky</word>
+				<word number="2">moutonne</word>
+				<word number="3">mammiliform</word>
+			</sg>
+			<sg number="5">
+				<word number="1">papulous</word>
+				<word number="2">papilose</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hemispheric</word>
+				<word number="2">bulbous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bowed</word>
+				<word number="2">arched</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bold</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bellied</word>
+			</sg>
+			<sg number="10">
+				<word number="1">tuberous</word>
+				<word number="2">tuberculous</word>
+			</sg>
+			<sg number="11">
+				<word number="1">tumous</word>
+			</sg>
+			<sg number="12">
+				<word number="1">cornute</word>
+				<word number="2">odontoid</word>
+			</sg>
+			<sg number="13">
+				<word number="1">lentiform</word>
+				<word number="2">lenticular</word>
+			</sg>
+			<sg number="14">
+				<word number="1">gibbous</word>
+			</sg>
+			<sg number="15">
+				<word number="1">club shaped</word>
+				<word number="2">hubby</word>
+				<word number="3">hubbly</word>
+				<word number="4">knobby</word>
+				<word number="5">papillose</word>
+				<word number="6">saddle-shaped</word>
+				<word number="7">selliform</word>
+				<word number="8">subclavate</word>
+				<word number="9">torose</word>
+				<word number="10">ventricose</word>
+				<word number="11">verrucose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="salient">
+			<sg number="1">
+				<word number="1">salient</word>
+				<word number="2">in relief</word>
+				<word number="3">raised</word>
+				<word number="4">repousse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expanded" headRef="203">bloated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

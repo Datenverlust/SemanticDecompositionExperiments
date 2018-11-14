@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="442" name="Shade" origNum="#424." class="3" section="3" subSection="2" headGroup="29">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="shade">
+			<sg number="1">
+				<word number="1">shade</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cover" headRef="233">awning</word>
+			</sg>
+			<sg number="3">
+				<word number="1">parasol</word>
+				<word number="2">sunshade</word>
+				<word number="3">umbrella</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chick</word>
+			</sg>
+			<sg number="5">
+				<word number="1">portiere</word>
+			</sg>
+			<sg number="6">
+				<word number="1">screen</word>
+				<word number="2">curtain</word>
+				<word number="3">shutter</word>
+				<word number="4">blind</word>
+				<word number="5">gauze</word>
+				<word number="6">veil</word>
+				<word number="7">chador</word>
+				<word number="8">mantle</word>
+				<word number="9">mask</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cloud</word>
+				<word number="2">mist</word>
+				<word number="3">gathering of clouds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="umbrage">
+			<sg number="1">
+				<word number="1">umbrage</word>
+				<word number="2">glade</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="shadow" headRef="439">shadow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="beach umbrella">
+			<sg number="1">
+				<word number="1">beach umbrella</word>
+				<word number="2">folding umbrella</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="draw a curtain">
+			<sg number="1">
+				<word number="1">draw a curtain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put up a shutter</word>
+				<word number="2">close a shutter</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">veil</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="darken" headRef="439">cast a shadow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="shady">
+			<sg number="1">
+				<word number="1">shady</word>
+				<word number="2">umbrageous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="welcome ye shades">
+			<sg number="1">
+				<word number="1">"welcome ye shades!</word>
+				<word number="2">ye bowery thickets hail"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

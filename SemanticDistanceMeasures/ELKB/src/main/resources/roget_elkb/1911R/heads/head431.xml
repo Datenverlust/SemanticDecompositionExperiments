@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="431" name="Melody" origNum="#413." class="3" section="3" subSection="2" headGroup="24">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="melody">
+			<sg number="1">
+				<word number="1">melody</word>
+				<word number="2">rhythm</word>
+				<word number="3">measure</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="poetry" headRef="623">rhyme</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pitch">
+			<sg number="1">
+				<word number="1">pitch</word>
+				<word number="2">timbre</word>
+				<word number="3">intonation</word>
+				<word number="4">tone</word>
+				<word number="5" new="1">imposition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="scale">
+			<sg number="1">
+				<word number="1">scale</word>
+				<word number="2">gamut</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diapason</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diatonic chromatic scale</word>
+				<word number="2">enharmonic scale</word>
+			</sg>
+			<sg number="4">
+				<word number="1">key</word>
+				<word number="2">clef</word>
+				<word number="3">chords</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="modulation">
+			<sg number="1">
+				<word number="1">modulation</word>
+				<word number="2">temperament</word>
+				<word number="3">syncope</word>
+				<word number="4">syncopation</word>
+				<word number="5">preparation</word>
+				<word number="6">suspension</word>
+				<word number="7">resolution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="staff">
+			<sg number="1">
+				<word number="1">staff</word>
+				<word number="2">stave</word>
+				<word number="3">line</word>
+				<word number="4">space</word>
+				<word number="5">brace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bar</word>
+				<word number="2">rest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appoggiato</word>
+				<word number="2">appoggiatura</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acciaccatura</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="note">
+			<sg number="1">
+				<word number="1">note</word>
+				<word number="2">musical note</word>
+				<word number="3">notes of a scale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharp</word>
+				<word number="2">flat</word>
+				<word number="3">natural</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="shrill" headRef="428">high note</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="low note" headRef="425">low note</word>
+			</sg>
+			<sg number="5">
+				<word number="1">interval</word>
+			</sg>
+			<sg number="6">
+				<word number="1">semitone</word>
+			</sg>
+			<sg number="7">
+				<word number="1">second</word>
+				<word number="2">third</word>
+				<word number="3">fourth</word>
+			</sg>
+			<sg number="8">
+				<word number="1">diatessaron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="breve">
+			<sg number="1">
+				<word number="1">breve</word>
+				<word number="2">semibreve</word>
+				<word number="3">minim</word>
+				<word number="4">crotchet</word>
+				<word number="5">quaver</word>
+				<word number="6" new="1">krater</word>
+			</sg>
+			<sg number="2">
+				<word number="1">semiquaver</word>
+				<word number="2">demisemiquaver</word>
+				<word number="3">hemidemisemiquaver</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sustained note</word>
+				<word number="2">drone</word>
+				<word number="3">burden</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="tonic">
+			<sg number="1">
+				<word number="1">tonic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">key note</word>
+				<word number="2">leading note</word>
+				<word number="3">fundamental note</word>
+			</sg>
+			<sg number="3">
+				<word number="1">supertonic</word>
+				<word number="2">mediant</word>
+				<word number="3">dominant</word>
+				<word number="4" new="1">parterre</word>
+			</sg>
+			<sg number="4">
+				<word number="1">submediant</word>
+				<word number="2">subdominant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">octave</word>
+				<word number="2">tetrachord</word>
+			</sg>
+			<sg number="6">
+				<word number="1">major key</word>
+				<word number="2">minor key</word>
+				<word number="3">major scale</word>
+				<word number="4">minor scale</word>
+				<word number="5">major mode</word>
+				<word number="6">minor mode</word>
+			</sg>
+			<sg number="7">
+				<word number="1">passage</word>
+				<word number="2">phrase</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">roustabout</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">flux</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">coronagraph</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="concord">
+			<sg number="1">
+				<word number="1">concord</word>
+				<word number="2">harmony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emmeleia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unison</word>
+				<word number="2">unisonance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chime</word>
+				<word number="2">homophony</word>
+			</sg>
+			<sg number="5">
+				<word number="1">euphony</word>
+				<word number="2">euphonism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tonality</word>
+			</sg>
+			<sg number="7">
+				<word number="1">consonance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">consent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">part</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="harmony">
+			<sg number="1">
+				<word number="1">harmony</word>
+				<word number="2">harmonics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thorough-bass</word>
+				<word number="2">fundamental- bass</word>
+			</sg>
+			<sg number="3">
+				<word number="1">counterpoint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">faburden</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="piece of music">
+			<sg number="1">
+				<word number="1" paraRef="piece of music" headRef="433">piece of music</word>
+			</sg>
+			<sg number="2">
+				<word number="1">composer</word>
+				<word number="2">harmonist</word>
+				<word number="3" paraRef="musician" headRef="434">contrapuntist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="radula">
+			<sg number="1">
+				<word number="1" new="1">radula</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="tabulation">
+			<sg number="1">
+				<word number="1" new="1">tabulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="pentafluoride">
+			<sg number="1">
+				<word number="1" new="1">pentafluoride</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="isomer">
+			<sg number="1">
+				<word number="1" new="1">isomer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="kebyar">
+			<sg number="1">
+				<word number="1" new="1">kebyar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="corruption">
+			<sg number="1">
+				<word number="1" new="1">corruption</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="peplos">
+			<sg number="1">
+				<word number="1" new="1">peplos</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="corroboree">
+			<sg number="1">
+				<word number="1" new="1">corroboree</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="poke">
+			<sg number="1">
+				<word number="1" new="1">poke</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be harmonious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be harmonious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harmonize</word>
+				<word number="2">chime</word>
+				<word number="3">symphonize</word>
+				<word number="4">transpose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put in tune</word>
+				<word number="2">tune</word>
+				<word number="3">accord</word>
+				<word number="4">string</word>
+				<word number="5" new="1">reconstitute</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="harmonious">
+			<sg number="1">
+				<word number="1">harmonious</word>
+				<word number="2">harmonical</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">in concord</word>
+				<word number="2">in tune</word>
+				<word number="3">in concert</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unisonant</word>
+				<word number="2">concentual</word>
+				<word number="3">symphonizing</word>
+				<word number="4">isotonic</word>
+				<word number="5">homophonous</word>
+				<word number="6">assonant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ariose</word>
+				<word number="2">consonant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="measured">
+			<sg number="1">
+				<word number="1">measured</word>
+				<word number="2">rhythmical</word>
+				<word number="3">diatonic</word>
+				<word number="4">chromatic</word>
+				<word number="5">enharmonic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="melodious">
+			<sg number="1">
+				<word number="1">melodious</word>
+				<word number="2">musical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">melic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tuneful</word>
+				<word number="2">tunable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sweet</word>
+				<word number="2">dulcet</word>
+				<word number="3">canorous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mellow</word>
+				<word number="2">mellifluous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">soft</word>
+				<word number="2">clear</word>
+				<word number="3">clear as a bell</word>
+			</sg>
+			<sg number="7">
+				<word number="1">silvery</word>
+			</sg>
+			<sg number="8">
+				<word number="1">euphonious</word>
+				<word number="2">euphonic</word>
+				<word number="3">euphonical</word>
+			</sg>
+			<sg number="9">
+				<word number="1">symphonious</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="pleasure-giving" headRef="867">enchanting</word>
+			</sg>
+			<sg number="11">
+				<word number="1">fine-toned</word>
+				<word number="2">full-toned</word>
+				<word number="3">silver-toned</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="harmoniously">
+			<sg number="1">
+				<word number="1">harmoniously</word>
+				<word number="2">in harmony</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">as one</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the hidden soul of harmony">
+			<sg number="1">
+				<word number="1">"the hidden soul of harmony"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="422" name="Faintness" origNum="#405." class="3" section="3" subSection="2" headGroup="19">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="faintness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">faintness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">faint sound</word>
+				<word number="2">whisper</word>
+				<word number="3">breath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undertone</word>
+				<word number="2">underbreath</word>
+			</sg>
+			<sg number="4">
+				<word number="1">murmur</word>
+				<word number="2">hum</word>
+				<word number="3">susurration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tinkle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"still small voice"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hoarseness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">hoarseness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">raucity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="whisper">
+			<sg number="1">
+				<word number="1">whisper</word>
+				<word number="2">breathe</word>
+				<word number="3">murmur</word>
+				<word number="4">purl</word>
+				<word number="5">hum</word>
+				<word number="6">gurgle</word>
+				<word number="7">ripple</word>
+				<word number="8">babble</word>
+				<word number="9">flow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tinkle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="speak imperfectly" headRef="609">mutter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">susurrate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="steal on the ear">
+			<sg number="1">
+				<word number="1">steal on the ear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">melt in the air</word>
+				<word number="2">float on the air</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inaudible">
+			<sg number="1">
+				<word number="1">inaudible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scarcely audible</word>
+				<word number="2">just audible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">low</word>
+				<word number="2">dull</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stifled</word>
+				<word number="2">muffled</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hoarse</word>
+				<word number="2">husky</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gentle</word>
+				<word number="2">soft</word>
+				<word number="3">faint</word>
+			</sg>
+			<sg number="7">
+				<word number="1">floating</word>
+			</sg>
+			<sg number="8">
+				<word number="1">purling</word>
+				<word number="2" paraRef="" posRef="v.">flowing</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">whispered</word>
+			</sg>
+			<sg number="10">
+				<word number="1">liquid</word>
+			</sg>
+			<sg number="11">
+				<word number="1">soothing</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="melodious" headRef="431">dulcet</word>
+			</sg>
+			<sg number="13">
+				<word number="1">susurrant</word>
+				<word number="2">susurrous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in a whisper">
+			<sg number="1">
+				<word number="1">in a whisper</word>
+				<word number="2">with bated breath</word>
+				<word number="3">sotto voce</word>
+				<word number="4">between the teeth</word>
+				<word number="5">aside</word>
+				<word number="6">faintly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">piano</word>
+				<word number="2">pianissimo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">d la sourdine</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">out of earshot inaudibly</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

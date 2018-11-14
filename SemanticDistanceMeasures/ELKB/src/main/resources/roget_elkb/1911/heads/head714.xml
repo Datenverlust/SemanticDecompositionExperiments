@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="714" name="Leisure" origNum="#685." class="6" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="leisure">
+			<sg number="1">
+				<word number="1">leisure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">convenience</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spare time</word>
+				<word number="2">spare hours</word>
+				<word number="3">spare moments</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vacant hour</word>
+			</sg>
+			<sg number="5">
+				<word number="1">time</word>
+				<word number="2">time to spare</word>
+				<word number="3">time on one's hands</word>
+			</sg>
+			<sg number="6">
+				<word number="1">holiday</word>
+				<word number="2" paraRef="rest" headRef="716">relaxation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">otium cum dignitate</word>
+				<word number="2">ease</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="no hurry">
+			<sg number="1">
+				<word number="1">no hurry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no big rush</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no deadline</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have leisure">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">have leisure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take one's time</word>
+				<word number="2">take one's leisure</word>
+				<word number="3">take one's ease</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="repose" headRef="716">repose</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="move slowly" headRef="286">move slowly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inaction" headRef="710">while away the time</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be master of one's time</word>
+				<word number="2">be an idle man</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="leisure">
+			<sg number="1">
+				<word number="1">leisure</word>
+				<word number="2">leisurely</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="slow" headRef="286">slow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deliberate</word>
+				<word number="2">quiet</word>
+				<word number="3">calm</word>
+				<word number="4">undisturbed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at leisure</word>
+				<word number="2">at one's ease</word>
+				<word number="3">at loose ends</word>
+				<word number="4">at a loose end</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="unhurriedly">
+			<sg number="1">
+				<word number="1">unhurriedly</word>
+				<word number="2">deliberately</word>
+				<word number="3">without undue haste</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anytime</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="time hanging heavy on one's hands">
+			<sg number="1">
+				<word number="1">time hanging heavy on one's hands</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eile mit Weile</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

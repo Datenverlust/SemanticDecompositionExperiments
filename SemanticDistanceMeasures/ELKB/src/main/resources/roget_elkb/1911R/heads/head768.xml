@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="768" name="Politics" origNum="#737b." class="7" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="politics">
+			<sg number="1">
+				<word number="1">politics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">political science</word>
+			</sg>
+			<sg number="3">
+				<word number="1">candidacy</word>
+				<word number="2">campaign</word>
+				<word number="3">campaigning</word>
+				<word number="4">electioneering</word>
+			</sg>
+			<sg number="4">
+				<word number="1">partisanship</word>
+				<word number="2">ideology</word>
+				<word number="3">factionalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="election">
+			<sg number="1">
+				<word number="1">election</word>
+				<word number="2">poll</word>
+				<word number="3">ballot</word>
+				<word number="4">vote</word>
+				<word number="5">referendum</word>
+				<word number="6">recall</word>
+				<word number="7">initiative</word>
+				<word number="8">voice</word>
+				<word number="9">suffrage</word>
+				<word number="10">plumper</word>
+				<word number="11">cumulative vote</word>
+				<word number="12">plebiscitum</word>
+				<word number="13">plebiscite</word>
+				<word number="14">vox populi</word>
+				<word number="15" new="1">amma</word>
+				<word number="16" new="1">gelato</word>
+				<word number="17" new="1">nanometre</word>
+				<word number="18" new="1">subgraphs</word>
+				<word number="19" new="1">carload</word>
+				<word number="20" new="1">mutism</word>
+				<word number="21" new="1">madame</word>
+				<word number="22" new="1">schoolship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">electioneering</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">voting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">elective franchise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">straight ticket</word>
+			</sg>
+			<sg number="6">
+				<word number="1">opinion poll</word>
+				<word number="2">popularity poll</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="issue">
+			<sg number="1">
+				<word number="1">issue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">opinion</word>
+				<word number="2">stand</word>
+				<word number="3">position</word>
+			</sg>
+			<sg number="3">
+				<word number="1">program</word>
+				<word number="2">platform</word>
+			</sg>
+			<sg number="4">
+				<word number="1">party line</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="democracy">
+			<sg number="1">
+				<word number="1">democracy</word>
+				<word number="2">republicanism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">communism</word>
+				<word number="2">statism</word>
+				<word number="3">state socialism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">socialism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conservatism</word>
+				<word number="2">toryism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">liberalism</word>
+				<word number="2">whigism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">theocracy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">constitutional monarchy</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">nodosaurids</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">avionics</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">drumlin</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">muesli</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">pysanky</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">neckwear</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">exarch</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">electroshock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="party">
+			<sg number="1">
+				<word number="1" paraRef="party" headRef="741">party</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Democratic Party</word>
+				<word number="2">Republican Party</word>
+				<word number="3">Socialist Party</word>
+				<word number="4">Communist Party</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Federalist Party</word>
+				<word number="2">Bull Moose Party</word>
+				<word number="3">Abolitionist Party</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Christian Democratic Party</word>
+				<word number="2">Social Democratic Party</word>
+			</sg>
+			<sg number="5">
+				<word number="1">National Socialist Worker's Party</word>
+				<word number="2">Nazi Party</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Liberal Party</word>
+				<word number="2">Labor Party</word>
+				<word number="3">Conservative Party</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="ticket">
+			<sg number="1">
+				<word number="1">ticket</word>
+				<word number="2">slate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="politician">
+			<sg number="1">
+				<word number="1">politician</word>
+				<word number="2">activist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">candidate</word>
+				<word number="2">aspirant</word>
+				<word number="3">hopeful</word>
+				<word number="4">office-seeker</word>
+				<word number="5">front-runner</word>
+				<word number="6">dark horse</word>
+				<word number="7">long shot</word>
+				<word number="8">shoo-in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">supporter</word>
+				<word number="2">backer</word>
+				<word number="3">political worker</word>
+				<word number="4">campaign worker</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lobbyist</word>
+				<word number="2">contributor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">party hack</word>
+				<word number="2">ward heeler</word>
+			</sg>
+			<sg number="6">
+				<word number="1">regional candidate</word>
+				<word number="2">favorite son</word>
+			</sg>
+			<sg number="7">
+				<word number="1">running mate</word>
+				<word number="2">stalking horse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">perpetual candidate</word>
+				<word number="2">political animal</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">configuration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="political contribution">
+			<sg number="1">
+				<word number="1">political contribution</word>
+				<word number="2">campaign contribution</word>
+			</sg>
+			<sg number="2">
+				<word number="1">political action committee</word>
+				<word number="2">PAC</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="political district">
+			<sg number="1">
+				<word number="1">political district</word>
+				<word number="2">electoral division</word>
+				<word number="3">electoral district</word>
+				<word number="4">bailiwick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="electorate">
+			<sg number="1">
+				<word number="1">electorate</word>
+				<word number="2">constituents</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="get-out-the-vote campaign">
+			<sg number="1">
+				<word number="1">get-out-the-vote campaign</word>
+				<word number="2">political education</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="negative campaigning">
+			<sg number="1">
+				<word number="1">negative campaigning</word>
+				<word number="2">dirty politics</word>
+				<word number="3">smear campaign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="also-ran">
+			<sg number="1">
+				<word number="1">also-ran</word>
+				<word number="2">loser</word>
+			</sg>
+			<sg number="2">
+				<word number="1">has-been</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="office holder">
+			<sg number="1">
+				<word number="1">office holder</word>
+				<word number="2">official</word>
+				<word number="3">occupant of a position</word>
+			</sg>
+			<sg number="2">
+				<word number="1">public servant</word>
+				<word number="2">incumbent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">winner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="copyright">
+			<sg number="1">
+				<word number="1" new="1">copyright</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="run for office">
+			<sg number="1">
+				<word number="1">run for office</word>
+				<word number="2">stand for office</word>
+			</sg>
+			<sg number="2">
+				<word number="1">campaign</word>
+				<word number="2">stump</word>
+			</sg>
+			<sg number="3">
+				<word number="1">throw one's hat in the ring</word>
+			</sg>
+			<sg number="4">
+				<word number="1">announce one's candidacy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="political">
+			<sg number="1">
+				<word number="1">political</word>
+				<word number="2">partisan</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Money is the mother's milk of politics">
+			<sg number="1">
+				<word number="1">"Money is the mother's milk of politics"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

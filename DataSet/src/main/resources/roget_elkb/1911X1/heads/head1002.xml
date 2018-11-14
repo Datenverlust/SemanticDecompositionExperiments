@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1002" name="Drunkenness" origNum="#959." class="8" section="4" subSection="4" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="drunkenness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">drunkenness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intemperance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">drinking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inebriety</word>
+				<word number="2">inebriation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ebriety</word>
+				<word number="2">ebriosity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insobriety</word>
+			</sg>
+			<sg number="7">
+				<word number="1">intoxication</word>
+			</sg>
+			<sg number="8">
+				<word number="1">temulency</word>
+				<word number="2">bibacity</word>
+				<word number="3">wine bibbing</word>
+			</sg>
+			<sg number="9">
+				<word number="1">comtation</word>
+				<word number="2">potation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">deep potations</word>
+				<word number="2">bacchanals</word>
+				<word number="3">bacchanalia</word>
+				<word number="4">libations</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bender*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="oinomania">
+			<sg number="1">
+				<word number="1">oinomania</word>
+				<word number="2">dipsomania</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delirium tremens</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alcohol</word>
+				<word number="2">alcoholism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mania a potu</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drink">
+			<sg number="1">
+				<word number="1">drink</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alcoholic drinks</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blue ruin*</word>
+				<word number="2">grog</word>
+				<word number="3">port wine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">punch</word>
+				<word number="2">punch bowl</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cup</word>
+				<word number="2">rosy wine</word>
+				<word number="3">flowing bowl</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drop</word>
+				<word number="2">drop too much</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dram</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="beverage" headRef="309">beer</word>
+			</sg>
+			<sg number="9">
+				<word number="1">aguardiente</word>
+			</sg>
+			<sg number="10">
+				<word number="1">apple brandy</word>
+				<word number="2">applejack</word>
+			</sg>
+			<sg number="11">
+				<word number="1">brandy</word>
+				<word number="2">brandy smash</word>
+			</sg>
+			<sg number="12">
+				<word number="1">chain lightning*</word>
+				<word number="2">champagne</word>
+				<word number="3">cocktail</word>
+			</sg>
+			<sg number="13">
+				<word number="1">gin</word>
+				<word number="2">ginsling</word>
+			</sg>
+			<sg number="14">
+				<word number="1">highball</word>
+				<word number="2">peg</word>
+				<word number="3">rum</word>
+				<word number="4">rye</word>
+				<word number="5">schnapps</word>
+				<word number="6">sherry</word>
+				<word number="7">sling</word>
+				<word number="8">uisquebaugh</word>
+				<word number="9">usquebaugh</word>
+				<word number="10">whisky</word>
+				<word number="11">xeres</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">liqueur</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">liquor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="drunkard">
+			<sg number="1">
+				<word number="1">drunkard</word>
+				<word number="2">sot</word>
+				<word number="3">toper</word>
+				<word number="4">tippler</word>
+				<word number="5">bibber</word>
+				<word number="6">wine-bibber</word>
+				<word number="7">lush</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard drinker</word>
+				<word number="2">gin drinker</word>
+				<word number="3">dram drinker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">soaker*</word>
+				<word number="2">sponge</word>
+				<word number="3">tun</word>
+			</sg>
+			<sg number="4">
+				<word number="1">love pot</word>
+				<word number="2">toss pot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thirsty soul</word>
+				<word number="2">reveler</word>
+				<word number="3">carouser</word>
+				<word number="4">Bacchanal</word>
+				<word number="5">Bacchanalian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Bacchal</word>
+				<word number="2">Bacchante</word>
+			</sg>
+			<sg number="7">
+				<word number="1">devotee to Bacchus</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bum*</word>
+				<word number="2">guzzler</word>
+				<word number="3">tavern haunter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="get drunk">
+			<sg number="1">
+				<word number="1">get drunk</word>
+				<word number="2" paraRef="" posRef="adj.">be drunk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">see double</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take a drop too much</word>
+				<word number="2">take a glass too much</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drink</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tipple</word>
+				<word number="2">tope</word>
+				<word number="3">booze</word>
+				<word number="4">bouse</word>
+				<word number="5">guzzle</word>
+				<word number="6">swill*</word>
+				<word number="7">soak*</word>
+				<word number="8">sot</word>
+				<word number="9">bum*</word>
+				<word number="10">besot</word>
+				<word number="11">have a jag on</word>
+				<word number="12">have a buzz on</word>
+				<word number="13">lush*</word>
+				<word number="14">bib</word>
+				<word number="15">swig</word>
+				<word number="16">carouse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sacrifice at the shrine of Bacchus</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take to drinking</word>
+			</sg>
+			<sg number="8">
+				<word number="1">drink hard</word>
+				<word number="2">drink deep</word>
+				<word number="3">drink like a fish</word>
+			</sg>
+			<sg number="9">
+				<word number="1">have one's swill*</word>
+				<word number="2">drain the cup</word>
+				<word number="3">splice the main brace</word>
+				<word number="4">take a hair of the dog that bit you</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="liquor">
+			<sg number="1">
+				<word number="1">liquor</word>
+				<word number="2">liquor up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wet one's whistle</word>
+				<word number="2">take a whet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crack a bottle</word>
+				<word number="2">pass the bottle</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="drink up" headRef="309">toss off</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go to the alehouse</word>
+				<word number="2">go to the public house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="make one drunk">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">make one drunk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inebriate</word>
+				<word number="2">fuddle</word>
+				<word number="3">befuddle</word>
+				<word number="4">fuzzle</word>
+				<word number="5">get into one's head</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="drunk">
+			<sg number="1">
+				<word number="1">drunk</word>
+				<word number="2">tipsy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intoxicated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inebrious</word>
+				<word number="2">inebriate</word>
+				<word number="3">inebriated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in one's cups</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="n.">in a state of intoxication</word>
+			</sg>
+			<sg number="6">
+				<word number="1">temulent</word>
+				<word number="2">temulentive</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bombed</word>
+				<word number="2">smashed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fuddled</word>
+				<word number="2">mellow</word>
+				<word number="3">cut</word>
+				<word number="4">boozy</word>
+				<word number="5">fou</word>
+				<word number="6">fresh</word>
+				<word number="7">merry</word>
+				<word number="8">elevated</word>
+			</sg>
+			<sg number="9">
+				<word number="1">flustered</word>
+				<word number="2">disguised</word>
+				<word number="3">groggy</word>
+				<word number="4">beery</word>
+			</sg>
+			<sg number="10">
+				<word number="1">top-heavy</word>
+			</sg>
+			<sg number="11">
+				<word number="1">potvaliant</word>
+				<word number="2">glorious</word>
+			</sg>
+			<sg number="12">
+				<word number="1">potulent</word>
+			</sg>
+			<sg number="13">
+				<word number="1">squiffy*</word>
+			</sg>
+			<sg number="14">
+				<word number="1">overcome</word>
+				<word number="2">overtaken</word>
+			</sg>
+			<sg number="15">
+				<word number="1">whittled</word>
+				<word number="2">screwed*</word>
+				<word number="3">tight</word>
+				<word number="4">primed</word>
+				<word number="5">corned</word>
+				<word number="6">raddled</word>
+				<word number="7">sewed up*</word>
+				<word number="8">lushy*</word>
+				<word number="9">nappy</word>
+				<word number="10">muddled</word>
+				<word number="11">muzzy</word>
+				<word number="12">obfuscated</word>
+				<word number="13">maudlin</word>
+			</sg>
+			<sg number="16">
+				<word number="1">crapulous</word>
+				<word number="2">dead drunk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="woozy">
+			<sg number="1">
+				<word number="1">woozy</word>
+				<word number="2">buzzed</word>
+				<word number="3">flush</word>
+				<word number="4">flushed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inter pocula">
+			<sg number="1">
+				<word number="1">inter pocula</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in liquor</word>
+				<word number="2">the worse for liquor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">having had a drop too much</word>
+				<word number="2">half seas over</word>
+				<word number="3">three sheets in the wind</word>
+				<word number="4">three sheets to the wind</word>
+			</sg>
+			<sg number="4">
+				<word number="1">under the table</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="drunk as a lord">
+			<sg number="1">
+				<word number="1">drunk as a lord</word>
+				<word number="2">drunk as a skunk</word>
+				<word number="3">drunk as a piper</word>
+				<word number="4">drunk as a fiddler</word>
+				<word number="5">drunk as Chloe</word>
+				<word number="6">drunk as an owl</word>
+				<word number="7">drunk as David's sow</word>
+				<word number="8">drunk as a wheelbarrow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="drunken">
+			<sg number="1">
+				<word number="1">drunken</word>
+				<word number="2">bibacious</word>
+				<word number="3">sottish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">given to drink</word>
+				<word number="2">addicted to drink</word>
+				<word number="3">addicted to the bottle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">toping</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nunc est bibendum">
+			<sg number="1">
+				<word number="1">nunc est bibendum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"Bacchus ever fair and young"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"drink down all unkindness"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"O that men should put an enemy in their mouths to steal away their brains"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

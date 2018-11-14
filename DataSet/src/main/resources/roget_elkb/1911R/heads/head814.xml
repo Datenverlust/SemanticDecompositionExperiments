@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="814" name="Retention" origNum="#781." class="7" section="4" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="retention">
+			<sg number="1">
+				<word number="1">retention</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">retaining</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep</word>
+				<word number="2">detention</word>
+				<word number="3">custody</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenacity</word>
+				<word number="2">firm hold</word>
+				<word number="3">grasp</word>
+				<word number="4">gripe</word>
+				<word number="5">grip</word>
+				<word number="6">iron grip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fangs">
+			<sg number="1">
+				<word number="1">fangs</word>
+				<word number="2">teeth</word>
+				<word number="3">claws</word>
+				<word number="4">talons</word>
+				<word number="5">nail</word>
+				<word number="6">unguis</word>
+				<word number="7">hook</word>
+				<word number="8">tentacle</word>
+				<word number="9">tenaculum</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vinculum" headRef="48">bond</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="clutches">
+			<sg number="1">
+				<word number="1">clutches</word>
+				<word number="2">tongs</word>
+				<word number="3">forceps</word>
+				<word number="4">pincers</word>
+				<word number="5">nippers</word>
+				<word number="6">pliers</word>
+				<word number="7">vice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="paw">
+			<sg number="1">
+				<word number="1">paw</word>
+				<word number="2">hand</word>
+				<word number="3">finger</word>
+				<word number="4">wrist</word>
+				<word number="5">fist</word>
+				<word number="6">neaf</word>
+				<word number="7">neif</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bird in hand">
+			<sg number="1">
+				<word number="1">bird in hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="captive" headRef="785">captive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="retain">
+			<sg number="1">
+				<word number="1">retain</word>
+				<word number="2">keep</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold fast one's own</word>
+				<word number="2">hold tight one's own</word>
+				<word number="3">hold fast one's ground</word>
+				<word number="4">hold tight one's ground</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clinch</word>
+				<word number="2">clench</word>
+				<word number="3">clutch</word>
+				<word number="4">grasp</word>
+				<word number="5">gripe</word>
+				<word number="6">hug</word>
+				<word number="7">have a firm hold of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="secure">
+			<sg number="1">
+				<word number="1">secure</word>
+				<word number="2">withhold</word>
+				<word number="3">detain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold back</word>
+				<word number="2">keep back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep close</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="store" headRef="665">husband</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reserve</word>
+			</sg>
+			<sg number="6">
+				<word number="1">have in stock</word>
+				<word number="2">have on hand</word>
+				<word number="3" paraRef="possess" headRef="809">keep in stock</word>
+			</sg>
+			<sg number="7">
+				<word number="1">entail</word>
+				<word number="2">tie up</word>
+				<word number="3">settle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="retaining">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">retaining</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retentive</word>
+				<word number="2">tenacious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unforfeited">
+			<sg number="1">
+				<word number="1">unforfeited</word>
+				<word number="2">undeprived</word>
+				<word number="3">undisposed</word>
+				<word number="4">uncommunicated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="incommunicable">
+			<sg number="1">
+				<word number="1">incommunicable</word>
+				<word number="2">inalienable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in mortmain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in strict settlement</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="uti possidetis">
+			<sg number="1">
+				<word number="1">uti possidetis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="495" name="Probability" origNum="#472." class="4" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="probability">
+			<sg number="1">
+				<word number="1">probability</word>
+				<word number="2">likelihood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">credibleness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">likeliness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vraisemblance</word>
+				<word number="2">verisimilitude</word>
+				<word number="3">plausibility</word>
+			</sg>
+			<sg number="5">
+				<word number="1">color</word>
+				<word number="2">semblance</word>
+				<word number="3">show of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">presumption</word>
+			</sg>
+			<sg number="7">
+				<word number="1">presumptive evidence</word>
+				<word number="2">circumstantial evidence</word>
+			</sg>
+			<sg number="8">
+				<word number="1">credibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reasonable chance">
+			<sg number="1">
+				<word number="1">reasonable chance</word>
+				<word number="2">fair chance</word>
+				<word number="3">good chance</word>
+				<word number="4">favorable chance</word>
+				<word number="5">reasonable prospect</word>
+				<word number="6">fair prospect</word>
+				<word number="7">good prospect</word>
+				<word number="8">favorable prospect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prospect</word>
+				<word number="2">wellgrounded hope</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="chance" headRef="163">chance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be probable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be probable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give color to</word>
+				<word number="2">lend color to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">point to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="evidence" headRef="490">imply</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="promise" headRef="535">bid fair</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stand fair for</word>
+			</sg>
+			<sg number="7">
+				<word number="1">stand a good chance</word>
+				<word number="2">run a good chance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="think likely">
+			<sg number="1">
+				<word number="1">think likely</word>
+				<word number="2">dare say</word>
+				<word number="3">flatter oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expect" headRef="531">expect</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="believe" headRef="508">count upon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="probable">
+			<sg number="1">
+				<word number="1">probable</word>
+				<word number="2">likely</word>
+				<word number="3">hopeful</word>
+				<word number="4">to be expected</word>
+				<word number="5">in a fair way</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plausible">
+			<sg number="1">
+				<word number="1">plausible</word>
+				<word number="2">specious</word>
+				<word number="3">ostensible</word>
+				<word number="4">colorable</word>
+				<word number="5">ben trovato</word>
+				<word number="6">well- founded</word>
+				<word number="7">reasonable</word>
+				<word number="8">credible</word>
+				<word number="9">easy of belief</word>
+				<word number="10">presumable</word>
+				<word number="11">presumptive</word>
+				<word number="12">apparent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="probably">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">probably</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belike</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in all probability</word>
+				<word number="2">in all likelihood</word>
+			</sg>
+			<sg number="4">
+				<word number="1">very likely</word>
+				<word number="2">most likely</word>
+			</sg>
+			<sg number="5">
+				<word number="1">like enough</word>
+			</sg>
+			<sg number="6">
+				<word number="1">odds on</word>
+				<word number="2">odds in favor</word>
+				<word number="3">ten to one</word>
+			</sg>
+			<sg number="7">
+				<word number="1">apparently</word>
+				<word number="2">seemingly</word>
+				<word number="3">according to every reasonable expectation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prima facie</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="to the eye" headRef="467">to all appearance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the chances">
+			<sg number="1">
+				<word number="1">the chances</word>
+				<word number="2">the odds are</word>
+			</sg>
+			<sg number="2">
+				<word number="1">appearances are in favor of</word>
+				<word number="2">chances are in favor of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">there is reason to believe</word>
+				<word number="2">there is reason to think</word>
+				<word number="3">there is reason to  expect</word>
+			</sg>
+			<sg number="4">
+				<word number="1">I dare say</word>
+			</sg>
+			<sg number="5">
+				<word number="1">all Lombard Street to a China orange</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

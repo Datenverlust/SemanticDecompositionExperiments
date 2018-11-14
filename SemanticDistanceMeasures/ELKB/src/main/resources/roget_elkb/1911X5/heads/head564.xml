@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="564" name="Misteaching" origNum="#538." class="5" section="2" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="misteaching">
+			<sg number="1">
+				<word number="1">misteaching</word>
+				<word number="2">misinformaton</word>
+				<word number="3">misintelligence</word>
+				<word number="4">misguidance</word>
+				<word number="5">misdirection</word>
+				<word number="6">mispersuasion</word>
+				<word number="7">misinstruction</word>
+				<word number="8" paraRef="" posRef="v.">misleading</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perversion</word>
+				<word number="2">false teaching</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sophistry" headRef="500">sophistry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">college of Laputa</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the blind leading the blind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="propaganda">
+			<sg number="1">
+				<word number="1">propaganda</word>
+				<word number="2">disinformation</word>
+				<word number="3">agitprop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indoctrination</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="misinform">
+			<sg number="1">
+				<word number="1">misinform</word>
+				<word number="2">misteach</word>
+				<word number="3">misdescribe</word>
+				<word number="4">misinstruct</word>
+				<word number="5">miscorrect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misdirect</word>
+				<word number="2">misguide</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pervert</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put on a false scent</word>
+				<word number="2">throw off the scent</word>
+				<word number="3">throw off the trail</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deceive" headRef="571">deceive</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="error" headRef="519">mislead</word>
+			</sg>
+			<sg number="7">
+				<word number="1">misrepresent</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="lie" headRef="570">lie</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ambiguas in vulgum spargere voces</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">defraud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="propagandize">
+			<sg number="1">
+				<word number="1">propagandize</word>
+				<word number="2">disinform</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render unintelligible">
+			<sg number="1">
+				<word number="1" paraRef="render unintelligible" headRef="544">render unintelligible</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncertainty" headRef="498">bewilder</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="conceal" headRef="554">mystify</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unteach</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="propagandist">
+			<sg number="1">
+				<word number="1">propagandist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misteaching">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">misteaching</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unedifying</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="piscem natare doces">
+			<sg number="1">
+				<word number="1">piscem natare doces</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the blind leading the blind</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="830" name="Merchant" origNum="#797." class="7" section="4" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="merchant">
+			<sg number="1">
+				<word number="1">merchant</word>
+				<word number="2">trader</word>
+				<word number="3">dealer</word>
+				<word number="4">monger</word>
+				<word number="5">chandler</word>
+				<word number="6">salesman</word>
+				<word number="7" new="1">auctioneer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">changer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">regrater</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shopkeeper</word>
+				<word number="2">shopman</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tradesman</word>
+				<word number="2">tradespeople</word>
+				<word number="3">tradesfolk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="retailer">
+			<sg number="1">
+				<word number="1">retailer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chapman</word>
+				<word number="2">hawker</word>
+				<word number="3">huckster</word>
+				<word number="4">higgler</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pedlar</word>
+				<word number="2">colporteur</word>
+				<word number="3">cadger</word>
+				<word number="4">Autolycus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sutler</word>
+				<word number="2">vivandiere</word>
+			</sg>
+			<sg number="5">
+				<word number="1">costerman</word>
+				<word number="2">costermonger</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tallyman</word>
+			</sg>
+			<sg number="7">
+				<word number="1">camelot</word>
+			</sg>
+			<sg number="8">
+				<word number="1">faker</word>
+			</sg>
+			<sg number="9">
+				<word number="1">vintner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="money broker">
+			<sg number="1">
+				<word number="1">money broker</word>
+				<word number="2">money changer</word>
+				<word number="3">money lender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cambist</word>
+				<word number="2">usurer</word>
+				<word number="3">moneyer</word>
+				<word number="4">banker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="jobber">
+			<sg number="1">
+				<word number="1">jobber</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="agent" headRef="789">broker</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="buyer" headRef="828">buyer</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="seller" headRef="829">seller</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bear</word>
+				<word number="2">bull</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="concern">
+			<sg number="1">
+				<word number="1">concern</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="partnership" headRef="741">firm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="wholesaler">
+			<sg number="1">
+				<word number="1" new="1">wholesaler</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

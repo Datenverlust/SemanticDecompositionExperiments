@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1039" name="Churchdom" origNum="#995." class="8" section="5" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="church">
+			<sg number="1">
+				<word number="1">church</word>
+				<word number="2">churchdom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ministry</word>
+				<word number="2">apostleship</word>
+				<word number="3">priesthood</word>
+				<word number="4">prelacy</word>
+				<word number="5">hierarch</word>
+				<word number="6">church government</word>
+				<word number="7">christendom</word>
+				<word number="8">pale of the church</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clericalism">
+			<sg number="1">
+				<word number="1">clericalism</word>
+				<word number="2">sacerdotalism</word>
+				<word number="3">episcopalianism</word>
+				<word number="4">ultramontanism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">theocracy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ecclesiology</word>
+				<word number="2">ecclesiologist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">priestcraft</word>
+				<word number="2">odium theologicum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="monachism">
+			<sg number="1">
+				<word number="1">monachism</word>
+				<word number="2">monachy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">monasticism</word>
+				<word number="2">monkhood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pontificate">
+			<sg number="1">
+				<word number="1">pontificate</word>
+				<word number="2">primacy</word>
+				<word number="3">archbishopric</word>
+				<word number="4">archiepiscopacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prelacy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bishopric</word>
+				<word number="2">bishopdom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">episcopate</word>
+				<word number="2">episcopacy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">see</word>
+				<word number="2">diocese</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deanery</word>
+				<word number="2">stall</word>
+			</sg>
+			<sg number="7">
+				<word number="1">canonry</word>
+				<word number="2">canonicate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prebend</word>
+				<word number="2">prebendaryship</word>
+			</sg>
+			<sg number="9">
+				<word number="1">benefice</word>
+				<word number="2">incumbency</word>
+				<word number="3">glebe</word>
+				<word number="4">advowson</word>
+				<word number="5">living</word>
+				<word number="6">cure</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rectorship</word>
+			</sg>
+			<sg number="11">
+				<word number="1">vicariate</word>
+				<word number="2">vicarship</word>
+			</sg>
+			<sg number="12">
+				<word number="1">deaconry</word>
+				<word number="2">deaconship</word>
+			</sg>
+			<sg number="13">
+				<word number="1">curacy</word>
+			</sg>
+			<sg number="14">
+				<word number="1">chaplain</word>
+				<word number="2">chaplaincy</word>
+				<word number="3">chaplainship</word>
+			</sg>
+			<sg number="15">
+				<word number="1">cardinalate</word>
+				<word number="2">cardinalship</word>
+			</sg>
+			<sg number="16">
+				<word number="1">abbacy</word>
+				<word number="2">presbytery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="holy orders">
+			<sg number="1">
+				<word number="1">holy orders</word>
+				<word number="2">ordination</word>
+				<word number="3">institution</word>
+				<word number="4">consecration</word>
+				<word number="5">induction</word>
+				<word number="6">reading in</word>
+				<word number="7">preferment</word>
+				<word number="8">translation</word>
+				<word number="9">presentation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="popedom">
+			<sg number="1">
+				<word number="1">popedom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the Vatican</word>
+				<word number="2">the apostolic see</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="religious sects" headRef="1028">religious sects</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="council">
+			<sg number="1">
+				<word number="1" paraRef="council" headRef="725">council</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conclave</word>
+				<word number="2">convocation</word>
+				<word number="3">synod</word>
+				<word number="4">consistory</word>
+				<word number="5">chapter</word>
+				<word number="6">vestry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sanhedrim</word>
+				<word number="2">conge d'elire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ecclesiastical courts</word>
+				<word number="2">consistorial court</word>
+				<word number="3">court of Arches</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="call">
+			<sg number="1">
+				<word number="1">call</word>
+				<word number="2">ordain</word>
+				<word number="3">induct</word>
+				<word number="4">prefer</word>
+				<word number="5">translate</word>
+				<word number="6">consecrate</word>
+				<word number="7">present</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take orders">
+			<sg number="1">
+				<word number="1">take orders</word>
+				<word number="2">take the tonsure</word>
+				<word number="3">take the veil</word>
+				<word number="4">take vows</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ecclesiastical">
+			<sg number="1">
+				<word number="1">ecclesiastical</word>
+				<word number="2">ecclesiological</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clerical</word>
+				<word number="2">sacerdotal</word>
+				<word number="3">priestly</word>
+				<word number="4">prelatical</word>
+				<word number="5">pastoral</word>
+				<word number="6">ministerial</word>
+				<word number="7">capitular</word>
+				<word number="8">theocratic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hierarchical</word>
+				<word number="2">archiepiscopal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">episcopal</word>
+				<word number="2">episcopalian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">canonical</word>
+			</sg>
+			<sg number="6">
+				<word number="1">monastic</word>
+				<word number="2">monachal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">monkish</word>
+			</sg>
+			<sg number="8">
+				<word number="1">abbatial</word>
+				<word number="2">abbatical</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Anglican</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pontifical</word>
+				<word number="2">papal</word>
+				<word number="3">apostolic</word>
+				<word number="4">Roman</word>
+				<word number="5">Popish</word>
+			</sg>
+			<sg number="11">
+				<word number="1">ultramontane</word>
+				<word number="2">priest-ridden</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

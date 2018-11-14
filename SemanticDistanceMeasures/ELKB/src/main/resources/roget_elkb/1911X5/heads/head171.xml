@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="171" name="Producer" origNum="#164." class="1" section="8" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="producer">
+			<sg number="1">
+				<word number="1">producer</word>
+				<word number="2">originator</word>
+				<word number="3">inventor</word>
+				<word number="4">author</word>
+				<word number="5">founder</word>
+				<word number="6">generator</word>
+				<word number="7">mover</word>
+				<word number="8">architect</word>
+				<word number="9">creator</word>
+				<word number="10">prime mover</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="agent" headRef="719">maker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prime mover</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

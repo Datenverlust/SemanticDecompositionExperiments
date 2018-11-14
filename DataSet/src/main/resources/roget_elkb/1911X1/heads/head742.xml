@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="742" name="Discord" origNum="#713." class="6" section="4" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disagreement">
+			<sg number="1">
+				<word number="1" paraRef="disagreement" headRef="26">disagreement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discord</word>
+				<word number="2">disaccord</word>
+				<word number="3">dissidence</word>
+				<word number="4">dissonance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jar</word>
+				<word number="2">clash</word>
+				<word number="3">shock</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jarring</word>
+				<word number="2" paraRef="" posRef="v.">jostling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">screw loose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="variance">
+			<sg number="1">
+				<word number="1">variance</word>
+				<word number="2">difference</word>
+				<word number="3">dissension</word>
+				<word number="4">misunderstanding</word>
+				<word number="5">cross purposes</word>
+				<word number="6">odds</word>
+				<word number="7">brouillerie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">division</word>
+				<word number="2">split</word>
+				<word number="3">rupture</word>
+				<word number="4">disruption</word>
+				<word number="5">division in the camp</word>
+				<word number="6">house divided against itself</word>
+				<word number="7">disunion</word>
+				<word number="8">breach</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dissent" headRef="513">schism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">feud</word>
+				<word number="2">faction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="quarrel">
+			<sg number="1">
+				<word number="1">quarrel</word>
+				<word number="2">dispute</word>
+				<word number="3">tiff</word>
+				<word number="4">tracasserie</word>
+				<word number="5">squabble</word>
+				<word number="6">altercation</word>
+				<word number="7">barney *</word>
+				<word number="8">demelé</word>
+				<word number="9">snarl</word>
+				<word number="10">spat</word>
+				<word number="11">towrow</word>
+				<word number="12">words</word>
+				<word number="13">high words</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">wrangling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jangle</word>
+				<word number="2">brabble</word>
+				<word number="3">cross questions and crooked answers</word>
+				<word number="4">snip-snap</word>
+			</sg>
+			<sg number="4">
+				<word number="1">family jars</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="polemics">
+			<sg number="1">
+				<word number="1">polemics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">litigation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contention" headRef="749">strife</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="warfare" headRef="751">warfare</word>
+			</sg>
+			<sg number="5">
+				<word number="1">outbreak</word>
+				<word number="2">open rupture</word>
+				<word number="3">declaration of war</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="broil">
+			<sg number="1">
+				<word number="1">broil</word>
+				<word number="2">brawl</word>
+				<word number="3">row</word>
+				<word number="4">racket</word>
+				<word number="5">hubbub</word>
+				<word number="6">rixation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">embroilment</word>
+				<word number="2">embranglement</word>
+				<word number="3">imbroglio</word>
+				<word number="4">fracas</word>
+				<word number="5">breach of the peace</word>
+				<word number="6">piece of work</word>
+				<word number="7">scrimmage</word>
+				<word number="8">rumpus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">breeze</word>
+				<word number="2">squall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">riot</word>
+				<word number="2" paraRef="disorder" headRef="62">disturbance</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="agitation" headRef="326">commotion</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bear garden</word>
+				<word number="2">Donnybrook</word>
+				<word number="3">Donnybrook Fair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="subject of dispute">
+			<sg number="1">
+				<word number="1">subject of dispute</word>
+				<word number="2">ground of quarrel</word>
+				<word number="3">battle ground</word>
+				<word number="4">disputed point</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bone of contention</word>
+				<word number="2">bone to pick</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apple of discord</word>
+				<word number="2">casus belli</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="subject of inquiry" headRef="481">question at issue</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vexed question</word>
+				<word number="2">vexata quaestio</word>
+				<word number="3">brand of discord</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="troublous times">
+			<sg number="1">
+				<word number="1">troublous times</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cat-and-dog life</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">contentiousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="enmity" headRef="928">enmity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="hate" headRef="937">hate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Kilkenny cats</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="disputant" headRef="739">disputant</word>
+			</sg>
+			<sg number="8">
+				<word number="1">strange bedfellows</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="factionalism">
+			<sg number="1">
+				<word number="1" new="1">factionalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="rift">
+			<sg number="1">
+				<word number="1" new="1">rift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="rivalry">
+			<sg number="1">
+				<word number="1" new="1">rivalry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="struggle">
+			<sg number="1">
+				<word number="1" new="1">struggle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be discordant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be discordant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disagree</word>
+				<word number="2" paraRef="come amiss" headRef="26">come amiss</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clash</word>
+				<word number="2">jar</word>
+				<word number="3">jostle</word>
+				<word number="4">pull different ways</word>
+				<word number="5">conflict</word>
+				<word number="6">have no measures with</word>
+				<word number="7">misunderstand one another</word>
+			</sg>
+			<sg number="4">
+				<word number="1">live like cat and dog</word>
+			</sg>
+			<sg number="5">
+				<word number="1">differ</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="dissent" headRef="513">dissent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">have a bone to pick</word>
+				<word number="2">have a crow to pluck with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fall out">
+			<sg number="1">
+				<word number="1">fall out</word>
+				<word number="2">quarrel</word>
+				<word number="3">dispute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">litigate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deny" headRef="562">controvert</word>
+			</sg>
+			<sg number="4">
+				<word number="1">squabble</word>
+				<word number="2">wrangle</word>
+				<word number="3">jangle</word>
+				<word number="4">brangle</word>
+				<word number="5">bicker</word>
+				<word number="6">nag</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="contend" headRef="749">spar</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="n.">have words</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fall foul of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="split">
+			<sg number="1">
+				<word number="1">split</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break with</word>
+				<word number="2">break squares with</word>
+				<word number="3">part company with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">declare war</word>
+				<word number="2">try conclusions</word>
+			</sg>
+			<sg number="4">
+				<word number="1">join issue</word>
+				<word number="2">put in issue</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pick a quarrel</word>
+				<word number="2">fasten a quarrel on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sow dissension</word>
+				<word number="2" paraRef="" posRef="n.">stir up dissension</word>
+			</sg>
+			<sg number="7">
+				<word number="1">embroil</word>
+				<word number="2">entangle</word>
+				<word number="3">disunite</word>
+				<word number="4">widen the breach</word>
+			</sg>
+			<sg number="8">
+				<word number="1">set at odds</word>
+				<word number="2">set together by the ears</word>
+			</sg>
+			<sg number="9">
+				<word number="1">set against</word>
+				<word number="2">pit against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="get into hot water">
+			<sg number="1">
+				<word number="1">get into hot water</word>
+				<word number="2">fish in troubled waters</word>
+				<word number="3">brawl</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kick up a row</word>
+				<word number="2">kick up a dust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turn the house out of window</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discordant">
+			<sg number="1">
+				<word number="1">discordant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">disagreeing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">out of tune</word>
+				<word number="2">ajar</word>
+				<word number="3">on bad terms</word>
+				<word number="4" paraRef="dissentient" headRef="513">dissentient</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unreconciled</word>
+				<word number="2">unpacified</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="contentious" headRef="749">contentious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="quarrelsome">
+			<sg number="1">
+				<word number="1">quarrelsome</word>
+				<word number="2">unpacific</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gladiatorial</word>
+				<word number="2">controversial</word>
+				<word number="3">polemic</word>
+				<word number="4">disputatious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">factious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">litigious</word>
+				<word number="2">litigant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pettifogging</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="at odds">
+			<sg number="1">
+				<word number="1">at odds</word>
+				<word number="2">at loggerheads</word>
+				<word number="3">at daggers drawn</word>
+				<word number="4">at variance</word>
+				<word number="5">at issue</word>
+				<word number="6">at cross purposes</word>
+				<word number="7">at sixes and sevens</word>
+				<word number="8">at feud</word>
+				<word number="9">at high words</word>
+			</sg>
+			<sg number="2">
+				<word number="1">up in arms</word>
+				<word number="2">together by the ears</word>
+				<word number="3">in hot water</word>
+				<word number="4">embroiled</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="torn">
+			<sg number="1">
+				<word number="1">torn</word>
+				<word number="2">disunited</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="quot homines tot sententiae">
+			<sg number="1">
+				<word number="1">quot homines tot sententiae</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no love lost between them</word>
+				<word number="2">non nostrum tantas componere lites</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Mars gravior sub pace latet</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

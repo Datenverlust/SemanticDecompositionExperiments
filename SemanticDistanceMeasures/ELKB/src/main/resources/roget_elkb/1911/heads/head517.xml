@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="517" name="Ignoramus" origNum="#493." class="4" section="5" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ignoramus">
+			<sg number="1">
+				<word number="1">ignoramus</word>
+				<word number="2">dunce</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wooden spoon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no scholar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="[insulting terms for ignorant person: see also imbecility 499">
+			<sg number="1">
+				<word number="1">moron</word>
+				<word number="2">imbecile</word>
+				<word number="3">idiot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fool</word>
+				<word number="2">jerk</word>
+				<word number="3">nincompoop</word>
+				<word number="4">asshole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dilettante">
+			<sg number="1">
+				<word number="1">dilettante</word>
+				<word number="2">sciolist</word>
+				<word number="3">smatterer</word>
+				<word number="4">dabbler</word>
+				<word number="5">half scholar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">charlatan</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wiseacre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="greenhorn">
+			<sg number="1">
+				<word number="1">greenhorn</word>
+				<word number="2" paraRef="dupe" headRef="573">amateur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">novice</word>
+				<word number="2" paraRef="learner" headRef="567">tyro</word>
+			</sg>
+			<sg number="3">
+				<word number="1">numskull</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="lubber">
+			<sg number="1">
+				<word number="1" paraRef="bungler" headRef="730">lubber</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fool" headRef="525">fool</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="pedant" headRef="516">pedant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="bookless">
+			<sg number="1">
+				<word number="1">bookless</word>
+				<word number="2">shallow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ignorant" headRef="515">ignorant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a wit with dunces and a dunce with wits">
+			<sg number="1">
+				<word number="1">"a wit with dunces and a dunce with wits"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

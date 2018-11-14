@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="165" name="Impotence" origNum="#158." class="1" section="8" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impotence">
+			<sg number="1">
+				<word number="1">impotence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inability</word>
+				<word number="2">disability</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disablement</word>
+				<word number="2">impuissance</word>
+				<word number="3">imbecility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incapacity</word>
+				<word number="2">incapability</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inaptitude</word>
+				<word number="2">ineptitude</word>
+				<word number="3">incompetence</word>
+				<word number="4">unproductivity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">indocility</word>
+			</sg>
+			<sg number="7">
+				<word number="1">invalidity</word>
+				<word number="2">disqualification</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inefficiency</word>
+				<word number="2">wastefulness</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">superclusters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="telum imbelle">
+			<sg number="1">
+				<word number="1">telum imbelle</word>
+				<word number="2">brutum fulmen</word>
+				<word number="3">blank</word>
+				<word number="4">blank cartridge</word>
+				<word number="5">flash in the pan</word>
+				<word number="6">vox et proeterea nihil</word>
+				<word number="7">dead letter</word>
+				<word number="8">bit of waste paper</word>
+				<word number="9">dummy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">paper tiger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Quaker gun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inefficacy">
+			<sg number="1">
+				<word number="1" paraRef="inutility" headRef="674">inefficacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="failure" headRef="761">failure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="helplessness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">helplessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prostration</word>
+				<word number="2">paralysis</word>
+				<word number="3">palsy</word>
+				<word number="4">apoplexy</word>
+				<word number="5">syncope</word>
+				<word number="6">sideration</word>
+				<word number="7">deliquium</word>
+				<word number="8">collapse</word>
+				<word number="9">exhaustion</word>
+				<word number="10">softening of the brain</word>
+				<word number="11">inanition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emasculation</word>
+				<word number="2">orchiotomy</word>
+				<word number="3">orchotomy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cripple">
+			<sg number="1">
+				<word number="1">cripple</word>
+				<word number="2">old woman</word>
+				<word number="3">muff</word>
+				<word number="4">powder puff</word>
+				<word number="5">creampuff</word>
+				<word number="6">pussycat</word>
+				<word number="7">wimp</word>
+				<word number="8">mollycoddle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eunuch</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be impotent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be impotent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not have a leg to stand on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vouloir rompre l'anguille au genou">
+			<sg number="1">
+				<word number="1">vouloir rompre l'anguille au genou</word>
+				<word number="2">vouloir prendre la lune avec les dents</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="collapse">
+			<sg number="1">
+				<word number="1">collapse</word>
+				<word number="2">faint</word>
+				<word number="3">swoon</word>
+				<word number="4">fall into a swoon</word>
+				<word number="5">drop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go by the board</word>
+				<word number="2">go by the wayside</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go up in smoke</word>
+				<word number="2" paraRef="fail" headRef="761">end in smoke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="render powerless">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render powerless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deprive of power</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disable</word>
+				<word number="2">disenable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disarm</word>
+				<word number="2">incapacitate</word>
+				<word number="3">disqualify</word>
+				<word number="4">unfit</word>
+				<word number="5">invalidate</word>
+				<word number="6">deaden</word>
+				<word number="7">cramp</word>
+				<word number="8">tie the hands</word>
+			</sg>
+			<sg number="5">
+				<word number="1">double up</word>
+				<word number="2">prostrate</word>
+				<word number="3">paralyze</word>
+				<word number="4">muzzle</word>
+				<word number="5">cripple</word>
+				<word number="6">becripple</word>
+				<word number="7">maim</word>
+				<word number="8">lame</word>
+				<word number="9">hamstring</word>
+				<word number="10">draw the teeth of</word>
+				<word number="11" new="1">harness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">throttle</word>
+				<word number="2">strangle</word>
+				<word number="3">garrotte</word>
+				<word number="4">garrote</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ratten</word>
+				<word number="2">silence</word>
+				<word number="3">sprain</word>
+				<word number="4">clip the wings of</word>
+				<word number="5">put hors de combat</word>
+				<word number="6">spike the guns</word>
+			</sg>
+			<sg number="8">
+				<word number="1">take the wind out of one's sails</word>
+				<word number="2">scotch the snake</word>
+				<word number="3">put a spoke in one's wheel</word>
+			</sg>
+			<sg number="9">
+				<word number="1">break the neck</word>
+				<word number="2">break the back</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unhinge</word>
+				<word number="2">unfit</word>
+			</sg>
+			<sg number="11">
+				<word number="1">put out of gear</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">nett</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">ululate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unman">
+			<sg number="1">
+				<word number="1">unman</word>
+				<word number="2">unnerve</word>
+				<word number="3">enervate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emasculate</word>
+				<word number="2">castrate</word>
+				<word number="3">geld</word>
+				<word number="4">alter</word>
+				<word number="5">neuter</word>
+				<word number="6">sterilize</word>
+				<word number="7">fix</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="shatter">
+			<sg number="1">
+				<word number="1">shatter</word>
+				<word number="2">exhaust</word>
+				<word number="3" paraRef="weaken" headRef="167">weaken</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="powerless">
+			<sg number="1">
+				<word number="1">powerless</word>
+				<word number="2">impotent</word>
+				<word number="3">unable</word>
+				<word number="4">incapable</word>
+				<word number="5">incompetent</word>
+				<word number="6" new="1">mechanized</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inefficient</word>
+				<word number="2">ineffective</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inept</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unfit</word>
+				<word number="2">unfitted</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unqualified</word>
+				<word number="2">disqualified</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unendowed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">inapt</word>
+				<word number="2">unapt</word>
+			</sg>
+			<sg number="8">
+				<word number="1">crippled</word>
+				<word number="2" paraRef="" posRef="v.">disabled</word>
+			</sg>
+			<sg number="9">
+				<word number="1">armless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="harmless">
+			<sg number="1">
+				<word number="1">harmless</word>
+				<word number="2">unarmed</word>
+				<word number="3">weaponless</word>
+				<word number="4">defenseless</word>
+				<word number="5">sine ictu</word>
+				<word number="6">unfortified</word>
+				<word number="7">indefensible</word>
+				<word number="8">vincible</word>
+				<word number="9">pregnable</word>
+				<word number="10">untenable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="paralytic">
+			<sg number="1">
+				<word number="1">paralytic</word>
+				<word number="2">paralyzed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">palsied</word>
+				<word number="2">imbecile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nerveless</word>
+				<word number="2">sinewless</word>
+				<word number="3">marrowless</word>
+				<word number="4">pithless</word>
+				<word number="5">lustless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">emasculate</word>
+				<word number="2">disjointed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of joint</word>
+				<word number="2">out of gear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unnerved</word>
+				<word number="2">unhinged</word>
+			</sg>
+			<sg number="7">
+				<word number="1">water-logged</word>
+				<word number="2">on one's beam ends</word>
+				<word number="3">rudderless</word>
+			</sg>
+			<sg number="8">
+				<word number="1">laid on one's back</word>
+			</sg>
+			<sg number="9">
+				<word number="1">done up</word>
+				<word number="2">dead beat</word>
+				<word number="3">exhausted</word>
+				<word number="4">shattered</word>
+				<word number="5">demoralized</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="in difficulty" headRef="733">graveled</word>
+			</sg>
+			<sg number="11">
+				<word number="1">helpless</word>
+				<word number="2">unfriended</word>
+				<word number="3">fatherless</word>
+			</sg>
+			<sg number="12">
+				<word number="1">without a leg to stand on</word>
+				<word number="2">hors de combat</word>
+				<word number="3">laid on the shelf</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="null and void">
+			<sg number="1">
+				<word number="1">null and void</word>
+				<word number="2">nugatory</word>
+				<word number="3">inoperative</word>
+				<word number="4">good for nothing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="failing" headRef="761">ineffectual</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inadequate" headRef="669">inadequate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="useless" headRef="674">inefficacious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="embarked">
+			<sg number="1">
+				<word number="1" new="1">embarked</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="der kranke Mann">
+			<sg number="1">
+				<word number="1">der kranke Mann</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"desirous still but impotent to rise"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the spirit is willing but the flesh is weak</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

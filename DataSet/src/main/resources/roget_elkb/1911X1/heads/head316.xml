@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="316" name="Ascent" origNum="#305." class="2" section="4" subSection="4" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ascent">
+			<sg number="1">
+				<word number="1">ascent</word>
+				<word number="2">ascension</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rising</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acclivity</word>
+				<word number="2" paraRef="hill" headRef="227">hill</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flight of steps</word>
+				<word number="2">flight of stairs</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ladder      rocket</word>
+				<word number="2">lark</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sky rocket</word>
+				<word number="2">sky lark</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Alpine Club</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="ascend">
+			<sg number="1">
+				<word number="1">ascend</word>
+				<word number="2">rise</word>
+				<word number="3">mount</word>
+				<word number="4">arise</word>
+				<word number="5">uprise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go up</word>
+				<word number="2">get up</word>
+				<word number="3">work one's way up</word>
+				<word number="4">start up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shoot up</word>
+				<word number="2">go into orbit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">float up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bubble up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aspire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="climb">
+			<sg number="1">
+				<word number="1">climb</word>
+				<word number="2">clamber</word>
+				<word number="3">ramp</word>
+				<word number="4">scramble</word>
+				<word number="5">escalade</word>
+				<word number="6">surmount</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shin</word>
+				<word number="2">shinny</word>
+				<word number="3">shinney</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scale</word>
+				<word number="2">scale the heights</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="raise">
+			<sg number="1">
+				<word number="1">raise</word>
+				<word number="2" paraRef="elevate" headRef="318">elevate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="go aloft">
+			<sg number="1">
+				<word number="1">go aloft</word>
+				<word number="2">fly aloft</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tower</word>
+				<word number="2">soar</word>
+				<word number="3">take off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spring up</word>
+				<word number="2">pop up</word>
+				<word number="3">jump up</word>
+				<word number="4">catapult upwards</word>
+				<word number="5">explode upwards</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hover</word>
+				<word number="2">spire</word>
+				<word number="3">plane</word>
+				<word number="4">swim</word>
+				<word number="5">float</word>
+				<word number="6">surge</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="leap" headRef="320">leap</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">dive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rising">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">rising</word>
+				<word number="2">buoyant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">supernatant</word>
+				<word number="2">superfluitant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">excelsior</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="uphill">
+			<sg number="1">
+				<word number="1">uphill</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

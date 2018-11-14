@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="246" name="Laterality" origNum="#236." class="2" section="2" subSection="3" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="laterality">
+			<sg number="1">
+				<word number="1">laterality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">side</word>
+				<word number="2">flank</word>
+				<word number="3">quarter</word>
+				<word number="4">lee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cheek</word>
+				<word number="2">jowl</word>
+				<word number="3">jole</word>
+				<word number="4">wing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">profile</word>
+			</sg>
+			<sg number="6">
+				<word number="1">temple</word>
+				<word number="2">parietes</word>
+				<word number="3">loin</word>
+				<word number="4">haunch</word>
+				<word number="5">hip</word>
+			</sg>
+			<sg number="7">
+				<word number="1">beam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gable">
+			<sg number="1">
+				<word number="1">gable</word>
+				<word number="2">gable end</word>
+			</sg>
+			<sg number="2">
+				<word number="1">broadside</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lee side</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="points of the compass">
+			<sg number="1">
+				<word number="1">points of the compass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">East</word>
+				<word number="2">Orient</word>
+				<word number="3">Levant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">West</word>
+			</sg>
+			<sg number="4">
+				<word number="1">orientation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be on one side">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adv.">be on one side</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flank</word>
+				<word number="2">outflank</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sidle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">skirt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">orientate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lateral">
+			<sg number="1">
+				<word number="1">lateral</word>
+				<word number="2">sidelong</word>
+			</sg>
+			<sg number="2">
+				<word number="1">collateral</word>
+			</sg>
+			<sg number="3">
+				<word number="1">parietal</word>
+				<word number="2">flanking</word>
+				<word number="3">skirting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flanked</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sideling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="many sided">
+			<sg number="1">
+				<word number="1">many sided</word>
+			</sg>
+			<sg number="2">
+				<word number="1">multilateral</word>
+				<word number="2">bilateral</word>
+				<word number="3">trilateral</word>
+				<word number="4">quadrilateral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Eastern">
+			<sg number="1">
+				<word number="1">Eastern</word>
+			</sg>
+			<sg number="2">
+				<word number="1">orient</word>
+				<word number="2">oriental</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Levantine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Western</word>
+				<word number="2">occidental</word>
+				<word number="3">Hesperian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="sideways">
+			<sg number="1">
+				<word number="1">sideways</word>
+				<word number="2">sidelong</word>
+			</sg>
+			<sg number="2">
+				<word number="1">broadside on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on one side</word>
+				<word number="2">abreast</word>
+				<word number="3">alongside</word>
+				<word number="4">beside</word>
+				<word number="5">aside</word>
+			</sg>
+			<sg number="4">
+				<word number="1">by the side of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">side by side</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="near" headRef="206">cheek by jowl</word>
+			</sg>
+			<sg number="7">
+				<word number="1">to windward</word>
+				<word number="2">to leeward</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="adj.">laterally</word>
+			</sg>
+			<sg number="9">
+				<word number="1">right and left</word>
+			</sg>
+			<sg number="10">
+				<word number="1">on her beam ends</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="his cheek the may of days outworn">
+			<sg number="1">
+				<word number="1">"his cheek the may of days outworn"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

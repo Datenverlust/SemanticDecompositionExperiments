@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="914" name="Nobility" origNum="#875." class="8" section="2" subSection="5" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="nobility">
+			<sg number="1">
+				<word number="1">nobility</word>
+				<word number="2">rank</word>
+				<word number="3">condition</word>
+				<word number="4">distinction</word>
+				<word number="5">optimacy</word>
+				<word number="6">blood</word>
+				<word number="7">pur sang</word>
+				<word number="8">birth</word>
+				<word number="9">high descent</word>
+				<word number="10">order</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quality</word>
+				<word number="2">gentility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blue blood of Castile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ancien regime</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="high life">
+			<sg number="1">
+				<word number="1">high life</word>
+				<word number="2">haute monde</word>
+			</sg>
+			<sg number="2">
+				<word number="1">upper classes</word>
+				<word number="2">upper ten thousand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the four hundred</word>
+			</sg>
+			<sg number="4">
+				<word number="1">elite</word>
+				<word number="2">aristocracy</word>
+				<word number="3">great folks</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fashion" headRef="891">fashionable world</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="peer">
+			<sg number="1">
+				<word number="1">peer</word>
+				<word number="2">peerage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">house of lords</word>
+				<word number="2">house of peers</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lords</word>
+				<word number="2">lords temporal and spiritual</word>
+			</sg>
+			<sg number="4">
+				<word number="1">noblesse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">noble</word>
+				<word number="2">nobleman</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lord</word>
+				<word number="2">lordling</word>
+			</sg>
+			<sg number="7">
+				<word number="1">grandee</word>
+				<word number="2">magnifico</word>
+				<word number="3">hidalgo</word>
+			</sg>
+			<sg number="8">
+				<word number="1">daimio</word>
+				<word number="2">daimyo</word>
+				<word number="3">samurai</word>
+				<word number="4">shizoku</word>
+			</sg>
+			<sg number="9">
+				<word number="1">don</word>
+				<word number="2">donship</word>
+			</sg>
+			<sg number="10">
+				<word number="1">aristocrat</word>
+				<word number="2">swell</word>
+				<word number="3">three-tailed bashaw</word>
+			</sg>
+			<sg number="11">
+				<word number="1">gentleman</word>
+				<word number="2">squire</word>
+				<word number="3">squireen</word>
+				<word number="4">patrician</word>
+				<word number="5">laureate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="gentry">
+			<sg number="1">
+				<word number="1">gentry</word>
+				<word number="2">gentlefolk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">*squirarchy</word>
+				<word number="2">better sort magnates</word>
+				<word number="3">primates</word>
+				<word number="4">optimates</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pantisocracy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="king">
+			<sg number="1">
+				<word number="1" paraRef="master" headRef="776">king</word>
+			</sg>
+			<sg number="2">
+				<word number="1">atheling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prince</word>
+				<word number="2">duke</word>
+			</sg>
+			<sg number="4">
+				<word number="1">marquis</word>
+				<word number="2">marquisate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">earl</word>
+				<word number="2">viscount</word>
+				<word number="3">baron</word>
+				<word number="4">thane</word>
+				<word number="5">banneret</word>
+			</sg>
+			<sg number="6">
+				<word number="1">baronet</word>
+				<word number="2">baronetcy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">knight</word>
+				<word number="2">knighthood</word>
+			</sg>
+			<sg number="8">
+				<word number="1">count</word>
+				<word number="2">armiger</word>
+				<word number="3">laird</word>
+			</sg>
+			<sg number="9">
+				<word number="1">signior</word>
+				<word number="2">seignior</word>
+			</sg>
+			<sg number="10">
+				<word number="1">esquire</word>
+				<word number="2">boyar</word>
+				<word number="3">margrave</word>
+				<word number="4">vavasour</word>
+			</sg>
+			<sg number="11">
+				<word number="1">emir</word>
+				<word number="2">ameer</word>
+				<word number="3">scherif</word>
+				<word number="4">sharif</word>
+				<word number="5">effendi</word>
+				<word number="6">wali</word>
+			</sg>
+			<sg number="12">
+				<word number="1">sahib</word>
+			</sg>
+			<sg number="13">
+				<word number="1">chevalier</word>
+				<word number="2">maharaja</word>
+				<word number="3">nawab</word>
+				<word number="4">palsgrave</word>
+				<word number="5">pasha</word>
+				<word number="6">rajah</word>
+				<word number="7">waldgrave</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="princess">
+			<sg number="1">
+				<word number="1">princess</word>
+				<word number="2">begum</word>
+				<word number="3">duchess</word>
+				<word number="4">marchioness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">countess</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lady</word>
+				<word number="2">dame</word>
+			</sg>
+			<sg number="4">
+				<word number="1">memsahib</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Dona</word>
+				<word number="2">maharani</word>
+				<word number="3">rani</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="personage of distinction">
+			<sg number="1">
+				<word number="1">personage of distinction</word>
+				<word number="2">man of distinction</word>
+				<word number="3">personage of rank</word>
+				<word number="4">man of rank</word>
+				<word number="5">personage of mark</word>
+				<word number="6">man of mark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">notables</word>
+				<word number="2">notabilities</word>
+			</sg>
+			<sg number="3">
+				<word number="1">celebrity</word>
+				<word number="2">bigwig</word>
+				<word number="3">magnate</word>
+				<word number="4">great man</word>
+				<word number="5">star</word>
+				<word number="6">superstar</word>
+			</sg>
+			<sg number="4">
+				<word number="1">big bug</word>
+			</sg>
+			<sg number="5">
+				<word number="1">big gun</word>
+				<word number="2">great gun</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gilded rooster*</word>
+			</sg>
+			<sg number="7">
+				<word number="1">magni nominis umbra</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"every inch a king"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be noble">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be noble</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="noble">
+			<sg number="1">
+				<word number="1">noble</word>
+				<word number="2">exalted</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">of rank</word>
+			</sg>
+			<sg number="3">
+				<word number="1">princely</word>
+				<word number="2">titled</word>
+				<word number="3">patrician</word>
+				<word number="4">aristocratic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">high-</word>
+				<word number="2">well-born</word>
+			</sg>
+			<sg number="5">
+				<word number="1">of gentle blood</word>
+			</sg>
+			<sg number="6">
+				<word number="1">genteel</word>
+				<word number="2">comme il faut</word>
+				<word number="3">gentlemanlike</word>
+				<word number="4" paraRef="fashionable" headRef="891">courtly</word>
+			</sg>
+			<sg number="7">
+				<word number="1">highly respectable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in high quarters">
+			<sg number="1">
+				<word number="1">in high quarters</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Adel sitzt im Gemuthe nicht im Gebluete[Ger">
+			<sg number="1">
+				<word number="1">Adel sitzt im Gemuthe nicht im Gebluete</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adelig und edel sind zweierlei</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noblesse oblige</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,7226 @@
+termination
+abductive
+answerNumber_v05
+
+wordType=NOUN 
+pathNode.getActivation !!!
+
+wictionary && wordNet
+Path-Node:  
+    - couldMatchWhiteList_v2(marker,link)
+    - analyseInferenceCollisions_v2 
+    - addInferenceCollisions_v2
+
+
+
+best Inference: effect -> Kollision 
+phenomenon ->effect -> Kollision
+--------------------- 
+
+Frage : 2
+    Iterationen: 6
+    Ermittelte Antwort: 4 Marker-Ursprung: effect
+tatsaechliche Antwort: coriolis effect
+    
+    - abductive :1
+        - correctly :1
+
+best Inference: meteorite -> Kollision 
+meteoroid ->meteorite -> Kollision
+--------------------- 
+
+Frage : 6
+    Iterationen: 7
+    Ermittelte Antwort: 4 Marker-Ursprung: meteorite
+tatsaechliche Antwort: meteorite
+    
+    - abductive :2
+        - correctly :2
+
+best Inference: reaction ->change -> make -> type -> kind ->  Kollision 
+kind ->Kollision
+--------------------- 
+
+Frage : 7
+    Iterationen: 10
+    Ermittelte Antwort: 4 Marker-Ursprung: reaction
+tatsaechliche Antwort: combustion reaction
+    
+    - abductive :3
+        - correctly :3
+
+best Inference: species ->animal ->  Kollision 
+organism ->animal -> Kollision
+--------------------- 
+
+Frage : 8
+    Iterationen: 6
+    Ermittelte Antwort: 4 Marker-Ursprung: species
+tatsaechliche Antwort: ring species
+    
+    - abductive :4
+        - correctly :4
+
+best Inference: radioactivity -> Kollision 
+emission ->radioactivity -> Kollision
+--------------------- 
+
+Frage : 9
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: radioactivity
+tatsaechliche Antwort: radioactivity
+    
+    - abductive :5
+        - correctly :5
+
+best Inference: transcription ->dna -> polymer ->  Kollision 
+dna ->polymer -> Kollision
+--------------------- 
+
+Frage : 15
+    Iterationen: 12
+    Ermittelte Antwort: 3 Marker-Ursprung: transcription
+tatsaechliche Antwort: gene transcription
+    
+    - abductive :6
+        - correctly :6
+
+best Inference: nitrogen ->element ->  Kollision 
+element ->Kollision
+--------------------- 
+
+Frage : 16
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: nitrogen
+tatsaechliche Antwort: oxygen
+    
+    - abductive :7
+        - correctly :6
+
+best Inference: attack ->design ->  Kollision 
+system ->design -> Kollision
+--------------------- 
+
+Frage : 18
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: attack
+tatsaechliche Antwort: allergy
+    
+    - abductive :8
+        - correctly :6
+
+best Inference: bacteriophage ->virus -> animal -> wall ->  Kollision 
+formation ->wall -> Kollision
+--------------------- 
+
+Frage : 19
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: bacteriophage
+tatsaechliche Antwort: a zygote
+    
+    - abductive :9
+        - correctly :6
+
+best Inference: abortion -> Kollision 
+termination ->abortion -> Kollision
+--------------------- 
+
+Frage : 22
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: abortion
+tatsaechliche Antwort: abortion
+    
+    - abductive :10
+        - correctly :7
+
+best Inference: muscle ->authority ->  Kollision 
+finger ->authority -> Kollision
+--------------------- 
+
+Frage : 24
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: muscle
+tatsaechliche Antwort: intrinsic muscles
+    
+    - abductive :11
+        - correctly :8
+
+best Inference: variation -> Kollision 
+organism ->variation -> Kollision
+--------------------- 
+
+Frage : 28
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: variation
+tatsaechliche Antwort: evolution
+    
+    - abductive :12
+        - correctly :8
+
+best Inference: testosterone -> Kollision 
+hormone ->testosterone -> Kollision
+--------------------- 
+
+Frage : 29
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: testosterone
+tatsaechliche Antwort: testosterone
+    
+    - abductive :13
+        - correctly :9
+
+best Inference: water ->thing ->  Kollision 
+thing ->Kollision
+--------------------- 
+
+Frage : 34
+    Iterationen: 7
+    Ermittelte Antwort: 4 Marker-Ursprung: water
+tatsaechliche Antwort: water
+    
+    - abductive :14
+        - correctly :10
+
+best Inference: carbon ->element ->  Kollision 
+element ->Kollision
+--------------------- 
+
+Frage : 37
+    Iterationen: 10
+    Ermittelte Antwort: 2 Marker-Ursprung: carbon
+tatsaechliche Antwort: carbon
+    
+    - abductive :15
+        - correctly :11
+
+best Inference: chromosome ->dna -> polymer ->  Kollision 
+site ->dna -> polymer -> Kollision
+--------------------- 
+
+Frage : 39
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: chromosome
+tatsaechliche Antwort: ribosomes
+    
+    - abductive :16
+        - correctly :11
+
+best Inference: eruption ->occurrence ->  Kollision 
+phenomenon ->occurrence -> Kollision
+--------------------- 
+
+Frage : 41
+    Iterationen: 9
+    Ermittelte Antwort: 2 Marker-Ursprung: eruption
+tatsaechliche Antwort: earthquake
+    
+    - abductive :17
+        - correctly :11
+
+best Inference: ganglion ->collection ->  Kollision 
+group ->collection -> Kollision
+--------------------- 
+
+Frage : 42
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: ganglion
+tatsaechliche Antwort: ganglion
+    
+    - abductive :18
+        - correctly :12
+
+best Inference: d ->use -> take ->  Kollision 
+diet ->take -> Kollision
+--------------------- 
+
+Frage : 46
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: d
+tatsaechliche Antwort: vitamin d
+    
+    - abductive :19
+        - correctly :13
+
+best Inference: enzyme ->catalyst ->  Kollision 
+catalyst ->Kollision
+--------------------- 
+
+Frage : 48
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: enzyme
+tatsaechliche Antwort: enzymes
+    
+    - abductive :20
+        - correctly :14
+
+best Inference: sweat ->use -> move ->  Kollision 
+formation ->move -> Kollision
+--------------------- 
+
+Frage : 49
+    Iterationen: 9
+    Ermittelte Antwort: 2 Marker-Ursprung: sweat
+tatsaechliche Antwort: air and water
+    
+    - abductive :21
+        - correctly :14
+
+best Inference: papilla ->process ->  Kollision 
+bump ->make -> process -> Kollision
+--------------------- 
+
+Frage : 51
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: papilla
+tatsaechliche Antwort: papillae
+    
+    - abductive :22
+        - correctly :15
+
+best Inference: gravity ->feeling ->  Kollision 
+resistance ->feeling -> Kollision
+--------------------- 
+
+Frage : 52
+    Iterationen: 7
+    Ermittelte Antwort: 2 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :23
+        - correctly :16
+
+best Inference: permeability ->ability -> aptitude ->  Kollision 
+ability ->aptitude -> Kollision
+--------------------- 
+
+Frage : 53
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: permeability
+tatsaechliche Antwort: selective permeability
+    
+    - abductive :24
+        - correctly :17
+
+best Inference: carbon ->element ->  Kollision 
+oxygen ->element -> Kollision
+--------------------- 
+
+Frage : 54
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: carbon
+tatsaechliche Antwort: water
+    
+    - abductive :25
+        - correctly :17
+
+best Inference: frequency ->ratio ->  Kollision 
+angle ->ratio -> Kollision
+--------------------- 
+
+Frage : 56
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: frequency
+tatsaechliche Antwort: refraction
+    
+    - abductive :26
+        - correctly :17
+
+best Inference: oxygen ->relative ->  Kollision 
+organism ->relative -> Kollision
+--------------------- 
+
+Frage : 57
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: oxygen
+tatsaechliche Antwort: carbohydrate molecules
+    
+    - abductive :27
+        - correctly :17
+
+best Inference: fm ->modulation ->  Kollision 
+radio ->modulation -> Kollision
+--------------------- 
+
+Frage : 59
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: fm
+tatsaechliche Antwort: fm
+    
+    - abductive :28
+        - correctly :18
+
+best Inference: surface ->layer ->  Kollision 
+layer ->Kollision
+--------------------- 
+
+Frage : 61
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: surface
+tatsaechliche Antwort: core
+    
+    - abductive :29
+        - correctly :18
+
+best Inference: succession ->time ->  Kollision 
+term ->time -> Kollision
+--------------------- 
+
+Frage : 63
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: succession
+tatsaechliche Antwort: primary succession
+    
+    - abductive :30
+        - correctly :19
+
+best Inference: animal -> Kollision 
+fungus ->organism -> animal -> Kollision
+--------------------- 
+
+Frage : 64
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: animal
+tatsaechliche Antwort: animals
+    
+    - abductive :31
+        - correctly :20
+
+best Inference: nitrogen ->element ->  Kollision 
+ecosystem ->and -> element -> Kollision
+--------------------- 
+
+Frage : 65
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: nitrogen
+tatsaechliche Antwort: nitrogen cycle
+    
+    - abductive :32
+        - correctly :21
+
+best Inference: debris ->rock -> impact ->  Kollision 
+consequence ->impact -> Kollision
+--------------------- 
+
+Frage : 66
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: debris
+tatsaechliche Antwort: flying debris
+    
+    - abductive :33
+        - correctly :22
+
+best Inference: reflex -> Kollision 
+behavior ->reaction -> reflex -> Kollision
+--------------------- 
+
+Frage : 67
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: reflex
+tatsaechliche Antwort: reflexes
+    
+    - abductive :34
+        - correctly :23
+
+best Inference: mutation -> Kollision 
+animal ->organism -> mutation -> Kollision
+--------------------- 
+
+Frage : 69
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: mutation
+tatsaechliche Antwort: by changing their density
+    
+    - abductive :35
+        - correctly :23
+
+best Inference: climate ->and -> consequence ->  Kollision 
+phenomenon ->consequence -> Kollision
+--------------------- 
+
+Frage : 70
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: climate
+tatsaechliche Antwort: human overpopulation
+    
+    - abductive :36
+        - correctly :23
+
+best Inference: starvation ->state -> make -> type -> form ->  Kollision 
+form ->Kollision
+--------------------- 
+
+Frage : 71
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: starvation
+tatsaechliche Antwort: dehydration
+    
+    - abductive :37
+        - correctly :23
+
+best Inference: photosynthesis ->with -> use -> move ->  Kollision 
+gradient ->move -> Kollision
+--------------------- 
+
+Frage : 72
+    Iterationen: 12
+    Ermittelte Antwort: 4 Marker-Ursprung: photosynthesis
+tatsaechliche Antwort: respiration
+    
+    - abductive :38
+        - correctly :23
+
+best Inference: formation ->face ->  Kollision 
+type ->face -> Kollision
+--------------------- 
+
+Frage : 73
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: formation
+tatsaechliche Antwort: mass extinction
+    
+    - abductive :39
+        - correctly :23
+
+best Inference: subsoil -> Kollision 
+soil ->subsoil -> Kollision
+--------------------- 
+
+Frage : 74
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: subsoil
+tatsaechliche Antwort: subsoil
+    
+    - abductive :40
+        - correctly :24
+
+best Inference: magnet ->device ->  Kollision 
+conductor ->device -> Kollision
+--------------------- 
+
+Frage : 78
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: magnet
+tatsaechliche Antwort: insulator
+    
+    - abductive :41
+        - correctly :24
+
+best Inference: sensor -> Kollision 
+device ->sensor -> Kollision
+--------------------- 
+
+Frage : 80
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: sensor
+tatsaechliche Antwort: satellites
+    
+    - abductive :42
+        - correctly :24
+
+best Inference: hormone ->secretion ->  Kollision 
+secretion ->Kollision
+--------------------- 
+
+Frage : 82
+    Iterationen: 10
+    Ermittelte Antwort: 4 Marker-Ursprung: hormone
+tatsaechliche Antwort: hormone
+    
+    - abductive :43
+        - correctly :25
+
+best Inference: alkene -> Kollision 
+hydrocarbon ->alkene -> Kollision
+--------------------- 
+
+Frage : 85
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: alkene
+tatsaechliche Antwort: alkenes
+    
+    - abductive :44
+        - correctly :26
+
+best Inference: freezing ->phase_transition ->  Kollision 
+melting ->phase_transition -> Kollision
+--------------------- 
+
+Frage : 86
+    Iterationen: 12
+    Ermittelte Antwort: 2 Marker-Ursprung: freezing
+tatsaechliche Antwort: freezing
+    
+    - abductive :45
+        - correctly :27
+
+best Inference: sedimentation ->phenomenon -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 90
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: sedimentation
+tatsaechliche Antwort: fertilization
+    
+    - abductive :46
+        - correctly :27
+
+best Inference: atom -> Kollision 
+formula ->substance -> atom -> Kollision
+--------------------- 
+
+Frage : 91
+    Iterationen: 12
+    Ermittelte Antwort: 3 Marker-Ursprung: atom
+tatsaechliche Antwort: crippling limit  
+    
+    - abductive :47
+        - correctly :27
+
+best Inference: ice -> Kollision 
+water ->ice -> Kollision
+--------------------- 
+
+Frage : 95
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: ice
+tatsaechliche Antwort: ice wedging
+    
+    - abductive :48
+        - correctly :28
+
+best Inference: saturation ->condition ->  Kollision 
+state ->condition -> Kollision
+--------------------- 
+
+Frage : 100
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: saturation
+tatsaechliche Antwort: equilibrium
+    
+    - abductive :49
+        - correctly :28
+
+best Inference: gravity ->attraction ->  Kollision 
+attraction ->Kollision
+--------------------- 
+
+Frage : 102
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :50
+        - correctly :29
+
+best Inference: hematocrit ->plasma -> extracellular_fluid ->  Kollision 
+plasma ->extracellular_fluid -> Kollision
+--------------------- 
+
+Frage : 106
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: hematocrit
+tatsaechliche Antwort: hematocrit
+    
+    - abductive :51
+        - correctly :30
+
+best Inference: hundred ->ten -> scale -> surface -> face ->  Kollision 
+type ->face -> Kollision
+--------------------- 
+
+Frage : 108
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: hundred
+tatsaechliche Antwort: five
+    
+    - abductive :52
+        - correctly :30
+
+best Inference: monkey ->animal ->  Kollision 
+species ->animal -> Kollision
+--------------------- 
+
+Frage : 109
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: monkey
+tatsaechliche Antwort: homo sapiens
+    
+    - abductive :53
+        - correctly :30
+
+best Inference: alkalinity ->value ->  Kollision 
+titration ->amount -> value -> Kollision
+--------------------- 
+
+Frage : 110
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: alkalinity
+tatsaechliche Antwort: concentration
+    
+    - abductive :54
+        - correctly :30
+
+best Inference: hernia ->rupture ->  Kollision 
+infection ->disease -> injury -> rupture -> Kollision
+--------------------- 
+
+Frage : 112
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: hernia
+tatsaechliche Antwort: ulcers
+    
+    - abductive :55
+        - correctly :30
+
+best Inference: bacterium ->spiral ->  Kollision 
+structure ->spiral -> Kollision
+--------------------- 
+
+Frage : 114
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: bacterium
+tatsaechliche Antwort: chromosome
+    
+    - abductive :56
+        - correctly :30
+
+best Inference: humerus ->extend ->  Kollision 
+bone ->use -> extend -> Kollision
+--------------------- 
+
+Frage : 116
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: humerus
+tatsaechliche Antwort: ulnar
+    
+    - abductive :57
+        - correctly :30
+
+best Inference: lithosphere -> Kollision 
+layer ->lithosphere -> Kollision
+--------------------- 
+
+Frage : 118
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: lithosphere
+tatsaechliche Antwort: troposphere
+    
+    - abductive :58
+        - correctly :30
+
+best Inference: cuticle ->case ->  Kollision 
+type ->case -> Kollision
+--------------------- 
+
+Frage : 119
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: cuticle
+tatsaechliche Antwort: meristem
+    
+    - abductive :59
+        - correctly :30
+
+best Inference: calcium ->rock -> material ->  Kollision 
+glass ->material -> Kollision
+--------------------- 
+
+Frage : 123
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: calcium
+tatsaechliche Antwort: solvent
+    
+    - abductive :60
+        - correctly :30
+
+best Inference: overcharge ->be ->  Kollision 
+difference ->remain -> be -> Kollision
+--------------------- 
+
+Frage : 126
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: overcharge
+tatsaechliche Antwort: overpotential
+    
+    - abductive :61
+        - correctly :30
+
+best Inference: mitosis ->follow ->  Kollision 
+way ->result -> follow -> Kollision
+--------------------- 
+
+Frage : 130
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: mitosis
+tatsaechliche Antwort: sexually
+    
+    - abductive :62
+        - correctly :30
+
+best Inference: organism ->mutant ->  Kollision 
+term ->animal -> mutant -> Kollision
+--------------------- 
+
+Frage : 132
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: organism
+tatsaechliche Antwort: cell
+    
+    - abductive :63
+        - correctly :30
+
+best Inference: hypothesis ->give -> state ->  Kollision 
+state ->Kollision
+--------------------- 
+
+Frage : 133
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: hypothesis
+tatsaechliche Antwort: homeostasis
+    
+    - abductive :64
+        - correctly :30
+
+best Inference: emphysema ->abnormal -> type -> character ->  Kollision 
+name ->character -> Kollision
+--------------------- 
+
+Frage : 135
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: emphysema
+tatsaechliche Antwort: pneumonia
+    
+    - abductive :65
+        - correctly :30
+
+best Inference: air -> Kollision 
+environment ->world -> hemisphere -> northern -> blow -> wind -> air -> Kollision
+--------------------- 
+
+Frage : 137
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: air
+tatsaechliche Antwort: water
+    
+    - abductive :66
+        - correctly :30
+
+best Inference: producer ->organic -> close -> obtain -> secure -> fill -> change -> thing ->  Kollision 
+thing ->Kollision
+--------------------- 
+
+Frage : 139
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: producer
+tatsaechliche Antwort: heterotrophs
+    
+    - abductive :67
+        - correctly :30
+
+best Inference: protein ->be ->  Kollision 
+binding ->cover -> remain -> be -> Kollision
+--------------------- 
+
+Frage : 141
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: protein
+tatsaechliche Antwort: antibodies
+    
+    - abductive :68
+        - correctly :30
+
+best Inference: muscle ->strength ->  Kollision 
+gill ->fiber -> strength -> Kollision
+--------------------- 
+
+Frage : 142
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: muscle
+tatsaechliche Antwort: jaws and pharynx
+    
+    - abductive :69
+        - correctly :30
+
+best Inference: velocity -> Kollision 
+series ->flow -> rate -> velocity -> Kollision
+--------------------- 
+
+Frage : 145
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: velocity
+tatsaechliche Antwort: accurate
+    
+    - abductive :70
+        - correctly :30
+
+best Inference: gene ->chain -> formation -> action ->  Kollision 
+patient ->action -> Kollision
+--------------------- 
+
+Frage : 146
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: gene
+tatsaechliche Antwort: gene therapy
+    
+    - abductive :71
+        - correctly :31
+
+best Inference: reproduction ->copy ->  Kollision 
+type ->copy -> Kollision
+--------------------- 
+
+Frage : 147
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: reproduction
+tatsaechliche Antwort: sexual reproduction
+    
+    - abductive :72
+        - correctly :32
+
+best Inference: amalgam -> Kollision 
+alloy ->amalgam -> Kollision
+--------------------- 
+
+Frage : 150
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: amalgam
+tatsaechliche Antwort: amalgams
+    
+    - abductive :73
+        - correctly :33
+
+best Inference: stolon ->plant -> stratagem ->  Kollision 
+plant ->stratagem -> Kollision
+--------------------- 
+
+Frage : 159
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: stolon
+tatsaechliche Antwort: stolons
+    
+    - abductive :74
+        - correctly :34
+
+best Inference: pressure ->surface -> nature ->  Kollision 
+type ->nature -> Kollision
+--------------------- 
+
+Frage : 161
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: pressure
+tatsaechliche Antwort: atmospheric pressure
+    
+    - abductive :75
+        - correctly :35
+
+best Inference: cycle -> Kollision 
+series ->cycle -> Kollision
+--------------------- 
+
+Frage : 164
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: cycle
+tatsaechliche Antwort: cell cycle
+    
+    - abductive :76
+        - correctly :36
+
+best Inference: positron ->positive -> absence -> contact ->  Kollision 
+interaction ->contact -> Kollision
+--------------------- 
+
+Frage : 165
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: positron
+tatsaechliche Antwort: electrons
+    
+    - abductive :77
+        - correctly :36
+
+best Inference: compression ->be ->  Kollision 
+anatomy ->alternative -> remain -> be -> Kollision
+--------------------- 
+
+Frage : 166
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: compression
+tatsaechliche Antwort: segmentation
+    
+    - abductive :78
+        - correctly :36
+
+best Inference: capacitor ->store -> remain -> stand ->  Kollision 
+motor ->convert -> alternative -> serve -> but -> limit -> common -> eat -> eject -> blow -> wind -> low -> down -> remain -> stand -> Kollision
+--------------------- 
+
+Frage : 170
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: capacitor
+tatsaechliche Antwort: magnetic field
+    
+    - abductive :79
+        - correctly :36
+
+best Inference: protozoan ->organism -> system ->  Kollision 
+color ->system -> Kollision
+--------------------- 
+
+Frage : 171
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: protozoan
+tatsaechliche Antwort: chromoplasts
+    
+    - abductive :80
+        - correctly :36
+
+best Inference: freezing ->physical_change ->  Kollision 
+vapor ->physical_change -> Kollision
+--------------------- 
+
+Frage : 172
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: freezing
+tatsaechliche Antwort: boiling point
+    
+    - abductive :81
+        - correctly :36
+
+best Inference: glaucoma ->and -> phrase ->  Kollision 
+term ->phrase -> Kollision
+--------------------- 
+
+Frage : 174
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: glaucoma
+tatsaechliche Antwort: myopia
+    
+    - abductive :82
+        - correctly :36
+
+best Inference: liquid -> Kollision 
+state ->liquid -> Kollision
+--------------------- 
+
+Frage : 176
+    Iterationen: 8
+    Ermittelte Antwort: 3 Marker-Ursprung: liquid
+tatsaechliche Antwort: liquid
+    
+    - abductive :83
+        - correctly :37
+
+best Inference: erosion ->change -> occurrence ->  Kollision 
+runoff ->occurrence -> Kollision
+--------------------- 
+
+Frage : 177
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: erosion
+tatsaechliche Antwort: erosion
+    
+    - abductive :84
+        - correctly :38
+
+best Inference: heart -> Kollision 
+organ ->heart -> Kollision
+--------------------- 
+
+Frage : 179
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: heart
+tatsaechliche Antwort: colon
+    
+    - abductive :85
+        - correctly :38
+
+best Inference: mutation -> Kollision 
+variant ->organism -> mutation -> Kollision
+--------------------- 
+
+Frage : 181
+    Iterationen: 8
+    Ermittelte Antwort: 3 Marker-Ursprung: mutation
+tatsaechliche Antwort: alleles
+    
+    - abductive :86
+        - correctly :38
+
+best Inference: fungus -> Kollision 
+organism ->fungus -> Kollision
+--------------------- 
+
+Frage : 182
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: fungus
+tatsaechliche Antwort: fungi
+    
+    - abductive :87
+        - correctly :38
+
+best Inference: gene ->sequence ->  Kollision 
+sequence ->Kollision
+--------------------- 
+
+Frage : 183
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gene
+tatsaechliche Antwort: genome
+    
+    - abductive :88
+        - correctly :38
+
+best Inference: precipitation ->quantity ->  Kollision 
+amount ->quantity -> Kollision
+--------------------- 
+
+Frage : 184
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: precipitation
+tatsaechliche Antwort: temperature
+    
+    - abductive :89
+        - correctly :38
+
+best Inference: biodiversity ->habitat -> environment ->  Kollision 
+habitat ->environment -> Kollision
+--------------------- 
+
+Frage : 191
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: biodiversity
+tatsaechliche Antwort: biodiversity
+    
+    - abductive :90
+        - correctly :39
+
+best Inference: evolution -> Kollision 
+process ->evolution -> Kollision
+--------------------- 
+
+Frage : 194
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: evolution
+tatsaechliche Antwort: pollination
+    
+    - abductive :91
+        - correctly :39
+
+best Inference: calcium ->rock -> carry ->  Kollision 
+erythrocyte ->involve -> carry -> Kollision
+--------------------- 
+
+Frage : 195
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: calcium
+tatsaechliche Antwort: hemoglobin
+    
+    - abductive :92
+        - correctly :39
+
+best Inference: shot ->refer -> sort ->  Kollision 
+type ->sort -> Kollision
+--------------------- 
+
+Frage : 199
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: shot
+tatsaechliche Antwort: emergency
+    
+    - abductive :93
+        - correctly :39
+
+best Inference: apparatus ->instrument ->  Kollision 
+reaction ->way -> instrument -> Kollision
+--------------------- 
+
+Frage : 204
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: apparatus
+tatsaechliche Antwort: an electrolytic cell
+    
+    - abductive :94
+        - correctly :39
+
+best Inference: fruit -> Kollision 
+pod ->fill -> food -> fruit -> Kollision
+--------------------- 
+
+Frage : 209
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: fruit
+tatsaechliche Antwort: stems
+    
+    - abductive :95
+        - correctly :39
+
+best Inference: zygospore -> Kollision 
+spore ->zygospore -> Kollision
+--------------------- 
+
+Frage : 210
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: zygospore
+tatsaechliche Antwort: zygospore
+    
+    - abductive :96
+        - correctly :40
+
+best Inference: drone ->but -> case ->  Kollision 
+type ->case -> Kollision
+--------------------- 
+
+Frage : 213
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: drone
+tatsaechliche Antwort: female
+    
+    - abductive :97
+        - correctly :40
+
+best Inference: greenhouse ->make -> change ->  Kollision 
+warming ->boiling -> change -> Kollision
+--------------------- 
+
+Frage : 216
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: greenhouse
+tatsaechliche Antwort: warmer water
+    
+    - abductive :98
+        - correctly :40
+
+best Inference: pollen ->spore ->  Kollision 
+pollinator ->pollen -> spore -> Kollision
+--------------------- 
+
+Frage : 218
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: pollen
+tatsaechliche Antwort: pollen
+    
+    - abductive :99
+        - correctly :41
+
+best Inference: turpentine ->make -> type -> symbol ->  Kollision 
+oxygen ->symbol -> Kollision
+--------------------- 
+
+Frage : 219
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: turpentine
+tatsaechliche Antwort: water
+    
+    - abductive :100
+        - correctly :41
+
+best Inference: depletion ->state -> spirit ->  Kollision 
+driving ->animal -> spirit -> Kollision
+--------------------- 
+
+Frage : 220
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: depletion
+tatsaechliche Antwort: generation of electricity
+    
+    - abductive :101
+        - correctly :41
+
+best Inference: windmill ->machine ->  Kollision 
+device ->machine -> Kollision
+--------------------- 
+
+Frage : 221
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: windmill
+tatsaechliche Antwort: an electric generator
+    
+    - abductive :102
+        - correctly :41
+
+best Inference: epithelium ->surface -> device ->  Kollision 
+transport ->device -> Kollision
+--------------------- 
+
+Frage : 223
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: epithelium
+tatsaechliche Antwort: endocytosis and exocytosis
+    
+    - abductive :103
+        - correctly :41
+
+best Inference: plant ->organism ->  Kollision 
+embryo ->organism -> Kollision
+--------------------- 
+
+Frage : 225
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: plant
+tatsaechliche Antwort: inside the female plant after fertilization
+    
+    - abductive :104
+        - correctly :42
+
+best Inference: precision ->make -> do ->  Kollision 
+method ->do -> Kollision
+--------------------- 
+
+Frage : 226
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: precision
+tatsaechliche Antwort: calibration
+    
+    - abductive :105
+        - correctly :42
+
+best Inference: density ->concentration -> property ->  Kollision 
+property ->Kollision
+--------------------- 
+
+Frage : 227
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: density
+tatsaechliche Antwort: lower density
+    
+    - abductive :106
+        - correctly :43
+
+best Inference: ethology ->behavior -> manner ->  Kollision 
+behavior ->manner -> Kollision
+--------------------- 
+
+Frage : 228
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: ethology
+tatsaechliche Antwort: ethology
+    
+    - abductive :107
+        - correctly :44
+
+best Inference: torque ->force ->  Kollision 
+unit ->force -> Kollision
+--------------------- 
+
+Frage : 229
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: torque
+tatsaechliche Antwort: horsepower
+    
+    - abductive :108
+        - correctly :44
+
+best Inference: hydrogen ->gas ->  Kollision 
+respiration ->gas -> Kollision
+--------------------- 
+
+Frage : 233
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: hydrogen
+tatsaechliche Antwort: oxidative fibers
+    
+    - abductive :109
+        - correctly :44
+
+best Inference: genome ->organism -> entity ->  Kollision 
+letter ->symbol -> entity -> Kollision
+--------------------- 
+
+Frage : 236
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: genome
+tatsaechliche Antwort: alleles
+    
+    - abductive :110
+        - correctly :44
+
+best Inference: calvin ->photosynthesis -> chemical_process ->  Kollision 
+photosynthesis ->chemical_process -> Kollision
+--------------------- 
+
+Frage : 237
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: calvin
+tatsaechliche Antwort: calvin cycle
+    
+    - abductive :111
+        - correctly :45
+
+best Inference: orbital ->orbit -> area ->  Kollision 
+region ->area -> Kollision
+--------------------- 
+
+Frage : 239
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: orbital
+tatsaechliche Antwort: orbitals
+    
+    - abductive :112
+        - correctly :46
+
+best Inference: world ->experience ->  Kollision 
+use ->experience -> Kollision
+--------------------- 
+
+Frage : 240
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: world
+tatsaechliche Antwort: system
+    
+    - abductive :113
+        - correctly :46
+
+best Inference: entropy ->amount -> quantity ->  Kollision 
+quantity ->Kollision
+--------------------- 
+
+Frage : 241
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: entropy
+tatsaechliche Antwort: energy
+    
+    - abductive :114
+        - correctly :46
+
+best Inference: emigration ->out -> word ->  Kollision 
+term ->word -> Kollision
+--------------------- 
+
+Frage : 244
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: emigration
+tatsaechliche Antwort: growth rate
+    
+    - abductive :115
+        - correctly :46
+
+best Inference: uranus ->planet -> heavenly_body ->  Kollision 
+planet ->heavenly_body -> Kollision
+--------------------- 
+
+Frage : 246
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: uranus
+tatsaechliche Antwort: uranus
+    
+    - abductive :116
+        - correctly :47
+
+best Inference: gas -> Kollision 
+class ->transportation -> transport -> across -> solution -> dissolve -> fluid -> gas -> Kollision
+--------------------- 
+
+Frage : 247
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: gas
+tatsaechliche Antwort: hydrocarbons
+    
+    - abductive :117
+        - correctly :47
+
+best Inference: core ->field ->  Kollision 
+earth ->field -> Kollision
+--------------------- 
+
+Frage : 248
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: core
+tatsaechliche Antwort: core
+    
+    - abductive :118
+        - correctly :48
+
+best Inference: pathway ->fiber -> range -> ring -> orbit -> cavity ->  Kollision 
+cavity ->Kollision
+--------------------- 
+
+Frage : 249
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: pathway
+tatsaechliche Antwort: trigeminal pathway
+    
+    - abductive :119
+        - correctly :49
+
+best Inference: volume -> Kollision 
+amount ->volume -> Kollision
+--------------------- 
+
+Frage : 250
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: volume
+tatsaechliche Antwort: velocity
+    
+    - abductive :120
+        - correctly :49
+
+best Inference: exercise -> Kollision 
+snow ->frequency -> observation -> learn -> exercise -> Kollision
+--------------------- 
+
+Frage : 251
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: exercise
+tatsaechliche Antwort: aerobic
+    
+    - abductive :121
+        - correctly :49
+
+best Inference: wind ->breath ->  Kollision 
+air ->breath -> Kollision
+--------------------- 
+
+Frage : 253
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: wind
+tatsaechliche Antwort: wind
+    
+    - abductive :122
+        - correctly :50
+
+best Inference: behavior ->manner ->  Kollision 
+property ->manner -> Kollision
+--------------------- 
+
+Frage : 254
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: behavior
+tatsaechliche Antwort: lifelong reproduction
+    
+    - abductive :123
+        - correctly :50
+
+best Inference: silver ->place -> list -> name ->  Kollision 
+name ->Kollision
+--------------------- 
+
+Frage : 255
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: silver
+tatsaechliche Antwort: silicon and germanium
+    
+    - abductive :124
+        - correctly :50
+
+best Inference: zone ->place ->  Kollision 
+name ->place -> Kollision
+--------------------- 
+
+Frage : 256
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: transition
+tatsaechliche Antwort: aphotic zone
+    
+    - abductive :125
+        - correctly :50
+
+best Inference: radiation ->energy ->  Kollision 
+energy ->Kollision
+--------------------- 
+
+Frage : 257
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: radiation
+tatsaechliche Antwort: radiation
+    
+    - abductive :126
+        - correctly :51
+
+best Inference: erosion ->involve -> require -> order ->  Kollision 
+order ->Kollision
+--------------------- 
+
+Frage : 261
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: erosion
+tatsaechliche Antwort: precipitation
+    
+    - abductive :127
+        - correctly :51
+
+best Inference: nitrogen ->element ->  Kollision 
+element ->Kollision
+--------------------- 
+
+Frage : 268
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: nitrogen
+tatsaechliche Antwort: silicon
+    
+    - abductive :128
+        - correctly :51
+
+best Inference: genetics -> Kollision 
+researcher ->scientist -> science -> biology -> genetics -> Kollision
+--------------------- 
+
+Frage : 269
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: genetics
+tatsaechliche Antwort: reverse genetics
+    
+    - abductive :129
+        - correctly :52
+
+best Inference: glycogen ->store -> remain -> be ->  Kollision 
+liver ->be -> Kollision
+--------------------- 
+
+Frage : 271
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: glycogen
+tatsaechliche Antwort: to synthesize glycogen
+    
+    - abductive :130
+        - correctly :53
+
+best Inference: viscosity ->friction ->  Kollision 
+resistance ->friction -> Kollision
+--------------------- 
+
+Frage : 275
+    Iterationen: 7
+    Ermittelte Antwort: 1 Marker-Ursprung: viscosity
+tatsaechliche Antwort: viscosity
+    
+    - abductive :131
+        - correctly :54
+
+best Inference: coral ->use -> have ->  Kollision 
+polychaete ->have -> Kollision
+--------------------- 
+
+Frage : 277
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: coral
+tatsaechliche Antwort: the ocean floor
+    
+    - abductive :132
+        - correctly :54
+
+best Inference: biogeography ->study ->  Kollision 
+study ->learn -> study -> Kollision
+--------------------- 
+
+Frage : 278
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: biogeography
+tatsaechliche Antwort: biogeography
+    
+    - abductive :133
+        - correctly :55
+
+best Inference: flower ->substance -> part ->  Kollision 
+type ->part -> Kollision
+--------------------- 
+
+Frage : 280
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: flower
+tatsaechliche Antwort: gymnosperms and angiosperms
+    
+    - abductive :134
+        - correctly :55
+
+best Inference: chloride ->compound ->  Kollision 
+photosynthesis ->compound -> Kollision
+--------------------- 
+
+Frage : 281
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: chloride
+tatsaechliche Antwort: glucose
+    
+    - abductive :135
+        - correctly :55
+
+best Inference: fungus -> Kollision 
+organism ->fungus -> Kollision
+--------------------- 
+
+Frage : 283
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: fungus
+tatsaechliche Antwort: fungi
+    
+    - abductive :136
+        - correctly :55
+
+best Inference: pressurization ->volume ->  Kollision 
+measure ->volume -> Kollision
+--------------------- 
+
+Frage : 284
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: pressurization
+tatsaechliche Antwort: acceleration
+    
+    - abductive :137
+        - correctly :55
+
+best Inference: therapy ->shiatsu ->  Kollision 
+treatment ->shiatsu -> Kollision
+--------------------- 
+
+Frage : 285
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: therapy
+tatsaechliche Antwort: antibiotics
+    
+    - abductive :138
+        - correctly :55
+
+best Inference: energy ->work ->  Kollision 
+turbine ->convert -> work -> Kollision
+--------------------- 
+
+Frage : 289
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: energy
+tatsaechliche Antwort: electricity
+    
+    - abductive :139
+        - correctly :55
+
+best Inference: replication ->copy ->  Kollision 
+type ->copy -> Kollision
+--------------------- 
+
+Frage : 291
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: replication
+tatsaechliche Antwort: single-replacement reaction
+    
+    - abductive :140
+        - correctly :55
+
+best Inference: bacterium ->organism -> variation ->  Kollision 
+type ->variation -> Kollision
+--------------------- 
+
+Frage : 292
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: bacterium
+tatsaechliche Antwort: prokaryotes and eukaryotes
+    
+    - abductive :141
+        - correctly :55
+
+best Inference: plant ->flower ->  Kollision 
+angiosperm ->flower -> Kollision
+--------------------- 
+
+Frage : 294
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: plant
+tatsaechliche Antwort: flowering plants
+    
+    - abductive :142
+        - correctly :56
+
+best Inference: hair ->form ->  Kollision 
+ability ->form -> Kollision
+--------------------- 
+
+Frage : 296
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: hair
+tatsaechliche Antwort: body temperature
+    
+    - abductive :143
+        - correctly :56
+
+best Inference: satellite ->state -> time ->  Kollision 
+term ->time -> Kollision
+--------------------- 
+
+Frage : 297
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: satellite
+tatsaechliche Antwort: satellite dna
+    
+    - abductive :144
+        - correctly :57
+
+best Inference: oxygen ->relative ->  Kollision 
+animal ->organism -> relative -> Kollision
+--------------------- 
+
+Frage : 300
+    Iterationen: 12
+    Ermittelte Antwort: 2 Marker-Ursprung: oxygen
+tatsaechliche Antwort: carbon dioxide
+    
+    - abductive :145
+        - correctly :57
+
+best Inference: giant ->species -> form ->  Kollision 
+volcano ->form -> Kollision
+--------------------- 
+
+Frage : 301
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: giant
+tatsaechliche Antwort: stratovolcanoes
+    
+    - abductive :146
+        - correctly :57
+
+best Inference: gradualism ->species -> chemical -> reaction -> idea ->  Kollision 
+idea ->Kollision
+--------------------- 
+
+Frage : 302
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: gradualism
+tatsaechliche Antwort: gradualism
+    
+    - abductive :147
+        - correctly :58
+
+best Inference: smog ->vehicle ->  Kollision 
+trap ->object -> vehicle -> Kollision
+--------------------- 
+
+Frage : 304
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: smog
+tatsaechliche Antwort: heat
+    
+    - abductive :148
+        - correctly :58
+
+best Inference: platelet ->vertebrate -> animal ->  Kollision 
+nerve ->organ -> animal -> Kollision
+--------------------- 
+
+Frage : 305
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: platelet
+tatsaechliche Antwort: neuron
+    
+    - abductive :149
+        - correctly :58
+
+best Inference: spider ->man ->  Kollision 
+group ->man -> Kollision
+--------------------- 
+
+Frage : 306
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: spider
+tatsaechliche Antwort: insects
+    
+    - abductive :150
+        - correctly :58
+
+best Inference: notochord ->find ->  Kollision 
+name ->place -> reach -> find -> Kollision
+--------------------- 
+
+Frage : 309
+    Iterationen: 12
+    Ermittelte Antwort: 2 Marker-Ursprung: notochord
+tatsaechliche Antwort: intervertebral foramina
+    
+    - abductive :151
+        - correctly :58
+
+best Inference: glucose ->have ->  Kollision 
+patient ->suffer -> have -> Kollision
+--------------------- 
+
+Frage : 310
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: glucose
+tatsaechliche Antwort: glucose
+    
+    - abductive :152
+        - correctly :59
+
+best Inference: absorption ->growth -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 311
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: absorption
+tatsaechliche Antwort: digestion
+    
+    - abductive :153
+        - correctly :59
+
+best Inference: induction ->reasoning -> ratiocination ->  Kollision 
+reasoning ->ratiocination -> Kollision
+--------------------- 
+
+Frage : 312
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: induction
+tatsaechliche Antwort: induction
+    
+    - abductive :154
+        - correctly :60
+
+best Inference: chart -> Kollision 
+map ->chart -> Kollision
+--------------------- 
+
+Frage : 313
+    Iterationen: 6
+    Ermittelte Antwort: 1 Marker-Ursprung: chart
+tatsaechliche Antwort: imaging satellites
+    
+    - abductive :155
+        - correctly :60
+
+best Inference: sponge ->type -> kind ->  Kollision 
+type ->kind -> Kollision
+--------------------- 
+
+Frage : 317
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: sponge
+tatsaechliche Antwort: an amorphous solid
+    
+    - abductive :156
+        - correctly :60
+
+best Inference: ventricle -> Kollision 
+chest ->thorax -> cavity -> ventricle -> Kollision
+--------------------- 
+
+Frage : 320
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: ventricle
+tatsaechliche Antwort: bronchi
+    
+    - abductive :157
+        - correctly :60
+
+best Inference: solvent ->and -> thing ->  Kollision 
+object ->thing -> Kollision
+--------------------- 
+
+Frage : 321
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: solvent
+tatsaechliche Antwort: pigments
+    
+    - abductive :158
+        - correctly :60
+
+best Inference: movement -> Kollision 
+process ->change -> movement -> Kollision
+--------------------- 
+
+Frage : 322
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: movement
+tatsaechliche Antwort: saltatory conduction
+    
+    - abductive :159
+        - correctly :60
+
+best Inference: creek ->inlet ->  Kollision 
+crater ->opening -> inlet -> Kollision
+--------------------- 
+
+Frage : 323
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: creek
+tatsaechliche Antwort: lakes
+    
+    - abductive :160
+        - correctly :60
+
+best Inference: biofuel ->be ->  Kollision 
+power ->alternative -> remain -> be -> Kollision
+--------------------- 
+
+Frage : 324
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: biofuel
+tatsaechliche Antwort: nuclear
+    
+    - abductive :161
+        - correctly :60
+
+best Inference: esophagus -> Kollision 
+tube ->esophagus -> Kollision
+--------------------- 
+
+Frage : 325
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: esophagus
+tatsaechliche Antwort: esophagus
+    
+    - abductive :162
+        - correctly :61
+
+best Inference: dew -> Kollision 
+condensation ->dew -> Kollision
+--------------------- 
+
+Frage : 326
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: dew
+tatsaechliche Antwort: the dew point
+    
+    - abductive :163
+        - correctly :62
+
+best Inference: cobalt ->metal ->  Kollision 
+ore ->metal -> Kollision
+--------------------- 
+
+Frage : 328
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: cobalt
+tatsaechliche Antwort: bauxite
+    
+    - abductive :164
+        - correctly :62
+
+best Inference: nerve ->braveness ->  Kollision 
+axon ->nerve -> braveness -> Kollision
+--------------------- 
+
+Frage : 333
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: nerve
+tatsaechliche Antwort: myelin sheath
+    
+    - abductive :165
+        - correctly :62
+
+best Inference: mouse ->individual ->  Kollision 
+creature ->individual -> Kollision
+--------------------- 
+
+Frage : 335
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: mouse
+tatsaechliche Antwort: amphibians
+    
+    - abductive :166
+        - correctly :62
+
+best Inference: solution ->mixture ->  Kollision 
+mixture ->Kollision
+--------------------- 
+
+Frage : 336
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: solution
+tatsaechliche Antwort: solution
+    
+    - abductive :167
+        - correctly :63
+
+best Inference: fungus -> Kollision 
+protozoan ->organism -> fungus -> Kollision
+--------------------- 
+
+Frage : 337
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: fungus
+tatsaechliche Antwort: giardia
+    
+    - abductive :168
+        - correctly :63
+
+best Inference: streak ->characteristic ->  Kollision 
+color ->characteristic -> Kollision
+--------------------- 
+
+Frage : 340
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: streak
+tatsaechliche Antwort: streak
+    
+    - abductive :169
+        - correctly :64
+
+best Inference: carbon ->paper ->  Kollision 
+type ->paper -> Kollision
+--------------------- 
+
+Frage : 342
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: carbon
+tatsaechliche Antwort: water
+    
+    - abductive :170
+        - correctly :64
+
+best Inference: ear ->head -> bone -> substance -> part ->  Kollision 
+part ->Kollision
+--------------------- 
+
+Frage : 343
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: ear
+tatsaechliche Antwort: middle ear
+    
+    - abductive :171
+        - correctly :65
+
+best Inference: capsid -> Kollision 
+protein ->capsid -> Kollision
+--------------------- 
+
+Frage : 344
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: capsid
+tatsaechliche Antwort: capsid
+    
+    - abductive :172
+        - correctly :66
+
+best Inference: colony ->property ->  Kollision 
+group ->property -> Kollision
+--------------------- 
+
+Frage : 346
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: colony
+tatsaechliche Antwort: tissue
+    
+    - abductive :173
+        - correctly :66
+
+best Inference: habitat ->organism -> system ->  Kollision 
+system ->Kollision
+--------------------- 
+
+Frage : 348
+    Iterationen: 12
+    Ermittelte Antwort: 2 Marker-Ursprung: habitat
+tatsaechliche Antwort: the ecosystem
+    
+    - abductive :174
+        - correctly :66
+
+best Inference: ketosis ->increase ->  Kollision 
+process ->increase -> Kollision
+--------------------- 
+
+Frage : 349
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: ketosis
+tatsaechliche Antwort: homeostasis
+    
+    - abductive :175
+        - correctly :66
+
+best Inference: water -> Kollision 
+core ->rock -> solid -> liquid -> water -> Kollision
+--------------------- 
+
+Frage : 350
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: water
+tatsaechliche Antwort: melted iron
+    
+    - abductive :176
+        - correctly :66
+
+best Inference: plasma -> Kollision 
+lightning ->state -> plasma -> Kollision
+--------------------- 
+
+Frage : 351
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: plasma
+tatsaechliche Antwort: plasma
+    
+    - abductive :177
+        - correctly :67
+
+best Inference: gallbladder ->digestion -> decay -> activity ->  Kollision 
+function ->activity -> Kollision
+--------------------- 
+
+Frage : 352
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gallbladder
+tatsaechliche Antwort: kidneys
+    
+    - abductive :178
+        - correctly :67
+
+best Inference: gravity ->attraction ->  Kollision 
+attraction ->Kollision
+--------------------- 
+
+Frage : 353
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :179
+        - correctly :68
+
+best Inference: precipitation ->reaction -> resistance ->  Kollision 
+friction ->resistance -> Kollision
+--------------------- 
+
+Frage : 354
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: precipitation
+tatsaechliche Antwort: heat
+    
+    - abductive :180
+        - correctly :68
+
+best Inference: exhaustion ->use -> act ->  Kollision 
+act ->Kollision
+--------------------- 
+
+Frage : 355
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: exhaustion
+tatsaechliche Antwort: dehydration
+    
+    - abductive :181
+        - correctly :68
+
+best Inference: heterotroph -> Kollision 
+animal ->organism -> heterotroph -> Kollision
+--------------------- 
+
+Frage : 358
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: heterotroph
+tatsaechliche Antwort: heterotrophs
+    
+    - abductive :182
+        - correctly :69
+
+best Inference: mutation -> Kollision 
+bacterium ->organism -> mutation -> Kollision
+--------------------- 
+
+Frage : 359
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: mutation
+tatsaechliche Antwort: transformation
+    
+    - abductive :183
+        - correctly :69
+
+best Inference: polysaccharide ->sugar ->  Kollision 
+monosaccharide ->sugar -> Kollision
+--------------------- 
+
+Frage : 361
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: polysaccharide
+tatsaechliche Antwort: polysaccharides
+    
+    - abductive :184
+        - correctly :70
+
+best Inference: wavelength ->cycle -> rate -> charge ->  Kollision 
+charge ->Kollision
+--------------------- 
+
+Frage : 362
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: wavelength
+tatsaechliche Antwort: voltage
+    
+    - abductive :185
+        - correctly :70
+
+best Inference: chloride ->compound ->  Kollision 
+photosynthesis ->compound -> Kollision
+--------------------- 
+
+Frage : 367
+    Iterationen: 14
+    Ermittelte Antwort: 3 Marker-Ursprung: chloride
+tatsaechliche Antwort: glucose
+    
+    - abductive :186
+        - correctly :70
+
+best Inference: system ->structure ->  Kollision 
+structure ->Kollision
+--------------------- 
+
+Frage : 370
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: system
+tatsaechliche Antwort: organ
+    
+    - abductive :187
+        - correctly :70
+
+best Inference: gas -> Kollision 
+effusion ->fluid -> gas -> Kollision
+--------------------- 
+
+Frage : 372
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: gas
+tatsaechliche Antwort: gas molecules
+    
+    - abductive :188
+        - correctly :71
+
+best Inference: hunger ->make -> type -> form ->  Kollision 
+arch ->form -> Kollision
+--------------------- 
+
+Frage : 373
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: hunger
+tatsaechliche Antwort: blood pressure
+    
+    - abductive :189
+        - correctly :71
+
+best Inference: isolation ->separation ->  Kollision 
+state ->separation -> Kollision
+--------------------- 
+
+Frage : 374
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: isolation
+tatsaechliche Antwort: oxidation
+    
+    - abductive :190
+        - correctly :71
+
+best Inference: mate -> Kollision 
+animal ->mate -> Kollision
+--------------------- 
+
+Frage : 375
+    Iterationen: 9
+    Ermittelte Antwort: 3 Marker-Ursprung: mate
+tatsaechliche Antwort: food?
+    
+    - abductive :191
+        - correctly :71
+
+best Inference: comet ->estraterrestrial_body ->  Kollision 
+asteroid ->comet -> estraterrestrial_body -> Kollision
+--------------------- 
+
+Frage : 377
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: comet
+tatsaechliche Antwort: meteorites
+    
+    - abductive :192
+        - correctly :71
+
+best Inference: land -> Kollision 
+electron ->orbit -> land -> Kollision
+--------------------- 
+
+Frage : 378
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: land
+tatsaechliche Antwort: wave properties
+    
+    - abductive :193
+        - correctly :71
+
+best Inference: oncogene -> Kollision 
+gene ->oncogene -> Kollision
+--------------------- 
+
+Frage : 379
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: oncogene
+tatsaechliche Antwort: proto-oncogenes
+    
+    - abductive :194
+        - correctly :72
+
+best Inference: inertia ->act ->  Kollision 
+temperature ->serve -> act -> Kollision
+--------------------- 
+
+Frage : 382
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: inertia
+tatsaechliche Antwort: gas law
+    
+    - abductive :195
+        - correctly :72
+
+best Inference: fertilization ->animal ->  Kollision 
+organism ->animal -> Kollision
+--------------------- 
+
+Frage : 384
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: fertilization
+tatsaechliche Antwort: fertilization
+    
+    - abductive :196
+        - correctly :73
+
+best Inference: gravity ->attraction ->  Kollision 
+attraction ->Kollision
+--------------------- 
+
+Frage : 385
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :197
+        - correctly :74
+
+best Inference: cell ->living_thing ->  Kollision 
+meiosis ->cell -> living_thing -> Kollision
+--------------------- 
+
+Frage : 386
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: cell
+tatsaechliche Antwort: cell division
+    
+    - abductive :198
+        - correctly :75
+
+best Inference: mustard ->make -> type -> symbol ->  Kollision 
+zinc ->symbol -> Kollision
+--------------------- 
+
+Frage : 387
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: mustard
+tatsaechliche Antwort: hydrogen
+    
+    - abductive :199
+        - correctly :75
+
+best Inference: humidity ->water -> excrement ->  Kollision 
+water ->excrement -> Kollision
+--------------------- 
+
+Frage : 388
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: humidity
+tatsaechliche Antwort: heat
+    
+    - abductive :200
+        - correctly :75
+
+best Inference: abundance ->quantity ->  Kollision 
+term ->quantity -> Kollision
+--------------------- 
+
+Frage : 390
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: abundance
+tatsaechliche Antwort: molarity
+    
+    - abductive :201
+        - correctly :75
+
+best Inference: isotope -> Kollision 
+atom ->isotope -> Kollision
+--------------------- 
+
+Frage : 394
+    Iterationen: 14
+    Ermittelte Antwort: 3 Marker-Ursprung: isotope
+tatsaechliche Antwort: isotopes
+    
+    - abductive :202
+        - correctly :76
+
+best Inference: compression ->concentration -> property ->  Kollision 
+property ->Kollision
+--------------------- 
+
+Frage : 396
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: compression
+tatsaechliche Antwort: turbulence
+    
+    - abductive :203
+        - correctly :76
+
+best Inference: polarization ->phenomenon -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 397
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: polarization
+tatsaechliche Antwort: polarization
+    
+    - abductive :204
+        - correctly :77
+
+best Inference: vein ->transport -> move ->  Kollision 
+filter ->move -> Kollision
+--------------------- 
+
+Frage : 399
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: vein
+tatsaechliche Antwort: umbilical vein
+    
+    - abductive :205
+        - correctly :78
+
+best Inference: speciation ->species -> form ->  Kollision 
+allele ->form -> Kollision
+--------------------- 
+
+Frage : 400
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: speciation
+tatsaechliche Antwort: genetic drift
+    
+    - abductive :206
+        - correctly :78
+
+best Inference: lordosis ->curvature -> condition ->  Kollision 
+curvature ->condition -> Kollision
+--------------------- 
+
+Frage : 402
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: lordosis
+tatsaechliche Antwort: kyphosis
+    
+    - abductive :207
+        - correctly :78
+
+best Inference: bacterium ->organism -> system ->  Kollision 
+strand ->natural -> ecosystem -> system -> Kollision
+--------------------- 
+
+Frage : 404
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: bacterium
+tatsaechliche Antwort: dna
+    
+    - abductive :208
+        - correctly :78
+
+best Inference: bond ->make -> type -> form ->  Kollision 
+alkane ->form -> Kollision
+--------------------- 
+
+Frage : 409
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: bond
+tatsaechliche Antwort: carbon-carbon single bonds
+    
+    - abductive :209
+        - correctly :79
+
+best Inference: mutation -> Kollision 
+species ->organism -> mutation -> Kollision
+--------------------- 
+
+Frage : 411
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: mutation
+tatsaechliche Antwort: adaptatioins
+    
+    - abductive :210
+        - correctly :79
+
+best Inference: photosynthesis ->carbon -> make -> type -> form ->  Kollision 
+glucose ->form -> Kollision
+--------------------- 
+
+Frage : 418
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: photosynthesis
+tatsaechliche Antwort: glycolysis
+    
+    - abductive :211
+        - correctly :79
+
+best Inference: organism ->entity ->  Kollision 
+investigation ->patient -> entity -> Kollision
+--------------------- 
+
+Frage : 422
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: organism
+tatsaechliche Antwort: samples
+    
+    - abductive :212
+        - correctly :79
+
+best Inference: electrolysis ->hair ->  Kollision 
+process ->hair -> Kollision
+--------------------- 
+
+Frage : 423
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: electrolysis
+tatsaechliche Antwort: cytokinesis
+    
+    - abductive :213
+        - correctly :79
+
+best Inference: earthquake ->earth -> concern ->  Kollision 
+trench ->make -> concern -> Kollision
+--------------------- 
+
+Frage : 424
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: earthquake
+tatsaechliche Antwort: volcanoes
+    
+    - abductive :214
+        - correctly :79
+
+best Inference: effect ->feeling ->  Kollision 
+atmosphere ->feeling -> Kollision
+--------------------- 
+
+Frage : 426
+    Iterationen: 12
+    Ermittelte Antwort: 4 Marker-Ursprung: smog
+tatsaechliche Antwort: greenhouse effect
+    
+    - abductive :215
+        - correctly :79
+
+best Inference: synthesis ->produce ->  Kollision 
+food ->produce -> Kollision
+--------------------- 
+
+Frage : 428
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: synthesis
+tatsaechliche Antwort: photosynthesis
+    
+    - abductive :216
+        - correctly :80
+
+best Inference: pollution ->emission -> activity ->  Kollision 
+pattern ->activity -> Kollision
+--------------------- 
+
+Frage : 430
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: pollution
+tatsaechliche Antwort: air masses
+    
+    - abductive :217
+        - correctly :80
+
+best Inference: center -> Kollision 
+name ->place -> center -> Kollision
+--------------------- 
+
+Frage : 431
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: center
+tatsaechliche Antwort: pole
+    
+    - abductive :218
+        - correctly :80
+
+best Inference: nucleus ->atom -> material ->  Kollision 
+atom ->material -> Kollision
+--------------------- 
+
+Frage : 433
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: nucleus
+tatsaechliche Antwort: the nucleus
+    
+    - abductive :219
+        - correctly :81
+
+best Inference: friction ->exertion ->  Kollision 
+energy ->exertion -> Kollision
+--------------------- 
+
+Frage : 434
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: friction
+tatsaechliche Antwort: temperature
+    
+    - abductive :220
+        - correctly :81
+
+best Inference: flagellum ->process ->  Kollision 
+organelle ->process -> Kollision
+--------------------- 
+
+Frage : 435
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: flagellum
+tatsaechliche Antwort: mitochondria
+    
+    - abductive :221
+        - correctly :81
+
+best Inference: energy ->system -> group ->  Kollision 
+type ->group -> Kollision
+--------------------- 
+
+Frage : 436
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: energy
+tatsaechliche Antwort: gas
+    
+    - abductive :222
+        - correctly :81
+
+best Inference: scale ->measure ->  Kollision 
+temperature ->measure -> Kollision
+--------------------- 
+
+Frage : 438
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: scale
+tatsaechliche Antwort: kelvin scale
+    
+    - abductive :223
+        - correctly :82
+
+best Inference: histone ->protein -> macromolecule ->  Kollision 
+protein ->macromolecule -> Kollision
+--------------------- 
+
+Frage : 439
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: histone
+tatsaechliche Antwort: globin
+    
+    - abductive :224
+        - correctly :82
+
+best Inference: supine ->lie -> be ->  Kollision 
+orientation ->be -> Kollision
+--------------------- 
+
+Frage : 441
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: supine
+tatsaechliche Antwort: prone
+    
+    - abductive :225
+        - correctly :82
+
+best Inference: nitrogen ->element ->  Kollision 
+element ->Kollision
+--------------------- 
+
+Frage : 443
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: nitrogen
+tatsaechliche Antwort: oxygen
+    
+    - abductive :226
+        - correctly :82
+
+best Inference: conjuration ->word ->  Kollision 
+term ->word -> Kollision
+--------------------- 
+
+Frage : 444
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: conjuration
+tatsaechliche Antwort: coevolution
+    
+    - abductive :227
+        - correctly :82
+
+best Inference: ovary ->sex_gland ->  Kollision 
+egg ->sex_gland -> Kollision
+--------------------- 
+
+Frage : 445
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: ovary
+tatsaechliche Antwort: the ovaries
+    
+    - abductive :228
+        - correctly :82
+
+best Inference: trachea ->air ->  Kollision 
+wind ->air -> Kollision
+--------------------- 
+
+Frage : 446
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: trachea
+tatsaechliche Antwort: trachea
+    
+    - abductive :229
+        - correctly :83
+
+best Inference: aorta ->artery ->  Kollision 
+ventricle ->artery -> Kollision
+--------------------- 
+
+Frage : 452
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: aorta
+tatsaechliche Antwort: tricuspid valve
+    
+    - abductive :230
+        - correctly :83
+
+best Inference: tree ->plant ->  Kollision 
+water ->plant -> Kollision
+--------------------- 
+
+Frage : 453
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: tree
+tatsaechliche Antwort: land
+    
+    - abductive :231
+        - correctly :83
+
+best Inference: mantle -> Kollision 
+layer ->mantle -> Kollision
+--------------------- 
+
+Frage : 455
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: mantle
+tatsaechliche Antwort: mantle
+    
+    - abductive :232
+        - correctly :84
+
+best Inference: canada ->northern -> blow -> clear ->  Kollision 
+country ->clear -> Kollision
+--------------------- 
+
+Frage : 456
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: canada
+tatsaechliche Antwort: mexico
+    
+    - abductive :233
+        - correctly :84
+
+best Inference: gas -> Kollision 
+producer ->fuel -> gas -> Kollision
+--------------------- 
+
+Frage : 457
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gas
+tatsaechliche Antwort: plants
+    
+    - abductive :234
+        - correctly :84
+
+best Inference: bird ->wing ->  Kollision 
+aerofoil ->wing -> Kollision
+--------------------- 
+
+Frage : 458
+    Iterationen: 14
+    Ermittelte Antwort: 3 Marker-Ursprung: bird
+tatsaechliche Antwort: birds and airplanes
+    
+    - abductive :235
+        - correctly :85
+
+best Inference: pascal ->one ->  Kollision 
+unit ->one -> Kollision
+--------------------- 
+
+Frage : 459
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: pascal
+tatsaechliche Antwort: pascal
+    
+    - abductive :236
+        - correctly :86
+
+best Inference: molecule ->stuff ->  Kollision 
+particle ->stuff -> Kollision
+--------------------- 
+
+Frage : 461
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: molecule
+tatsaechliche Antwort: an atom
+    
+    - abductive :237
+        - correctly :86
+
+best Inference: trough ->cycle -> rate -> magnitude -> property ->  Kollision 
+property ->Kollision
+--------------------- 
+
+Frage : 462
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: trough
+tatsaechliche Antwort: wave
+    
+    - abductive :238
+        - correctly :86
+
+best Inference: tsunami ->wave ->  Kollision 
+wave ->Kollision
+--------------------- 
+
+Frage : 467
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: tsunami
+tatsaechliche Antwort: tsunamis
+    
+    - abductive :239
+        - correctly :87
+
+best Inference: nerve ->fiber -> trait ->  Kollision 
+action ->trait -> Kollision
+--------------------- 
+
+Frage : 469
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: nerve
+tatsaechliche Antwort: the synaptic terminals
+    
+    - abductive :240
+        - correctly :87
+
+best Inference: erosion ->wind -> direction ->  Kollision 
+wave ->direction -> Kollision
+--------------------- 
+
+Frage : 472
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: erosion
+tatsaechliche Antwort: longshore drift
+    
+    - abductive :241
+        - correctly :87
+
+best Inference: forecast ->be ->  Kollision 
+difference ->remain -> be -> Kollision
+--------------------- 
+
+Frage : 473
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: forecast
+tatsaechliche Antwort: tidal change
+    
+    - abductive :242
+        - correctly :87
+
+best Inference: prostate ->male ->  Kollision 
+spermatogonium ->any -> even -> still -> fall -> animal -> male -> Kollision
+--------------------- 
+
+Frage : 474
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: prostate
+tatsaechliche Antwort: testes
+    
+    - abductive :243
+        - correctly :87
+
+best Inference: nerve ->fiber -> action ->  Kollision 
+impulse ->state -> action -> Kollision
+--------------------- 
+
+Frage : 475
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: nerve
+tatsaechliche Antwort: spinal cord
+    
+    - abductive :244
+        - correctly :87
+
+best Inference: trichina ->muscle -> progress -> development ->  Kollision 
+development ->Kollision
+--------------------- 
+
+Frage : 478
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: trichina
+tatsaechliche Antwort: cephalization
+    
+    - abductive :245
+        - correctly :87
+
+best Inference: cortisol -> Kollision 
+hormone ->cortisol -> Kollision
+--------------------- 
+
+Frage : 479
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: cortisol
+tatsaechliche Antwort: insulin
+    
+    - abductive :246
+        - correctly :87
+
+best Inference: malnutrition ->state -> make -> type -> form ->  Kollision 
+form ->Kollision
+--------------------- 
+
+Frage : 482
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: malnutrition
+tatsaechliche Antwort: achondroplasia
+    
+    - abductive :247
+        - correctly :87
+
+best Inference: coccygeal ->coccyx -> os ->  Kollision 
+coccyx ->os -> Kollision
+--------------------- 
+
+Frage : 484
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: coccygeal
+tatsaechliche Antwort: coccygeal vertebrae
+    
+    - abductive :248
+        - correctly :88
+
+best Inference: ethnocentrism ->world -> group ->  Kollision 
+molecule ->group -> Kollision
+--------------------- 
+
+Frage : 487
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: ethnocentrism
+tatsaechliche Antwort: isomerism
+    
+    - abductive :249
+        - correctly :88
+
+best Inference: fight ->match -> strength -> property ->  Kollision 
+molecule ->property -> Kollision
+--------------------- 
+
+Frage : 488
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: fight
+tatsaechliche Antwort: immune
+    
+    - abductive :250
+        - correctly :88
+
+best Inference: sunlight ->light ->  Kollision 
+co2 ->heavy -> light -> Kollision
+--------------------- 
+
+Frage : 491
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: sunlight
+tatsaechliche Antwort: thermal energy
+    
+    - abductive :251
+        - correctly :88
+
+best Inference: pheromone ->insect ->  Kollision 
+animal ->insect -> Kollision
+--------------------- 
+
+Frage : 493
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: pheromone
+tatsaechliche Antwort: pheromone
+    
+    - abductive :252
+        - correctly :89
+
+best Inference: carbon ->copy ->  Kollision 
+term ->out -> copy -> Kollision
+--------------------- 
+
+Frage : 495
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: carbon
+tatsaechliche Antwort: ozone
+    
+    - abductive :253
+        - correctly :89
+
+best Inference: adaptation ->make -> character ->  Kollision 
+trait ->character -> Kollision
+--------------------- 
+
+Frage : 499
+    Iterationen: 7
+    Ermittelte Antwort: 1 Marker-Ursprung: adaptation
+tatsaechliche Antwort: adaptations
+    
+    - abductive :254
+        - correctly :90
+
+best Inference: carbon ->copy ->  Kollision 
+photosynthesis ->carbon -> copy -> Kollision
+--------------------- 
+
+Frage : 500
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: carbon
+tatsaechliche Antwort: oxygen
+    
+    - abductive :255
+        - correctly :90
+
+best Inference: respiration ->carbon -> form ->  Kollision 
+way ->form -> Kollision
+--------------------- 
+
+Frage : 501
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: respiration
+tatsaechliche Antwort: binary fission
+    
+    - abductive :256
+        - correctly :90
+
+best Inference: muscle ->effect -> notion ->  Kollision 
+type ->notion -> Kollision
+--------------------- 
+
+Frage : 502
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: muscle
+tatsaechliche Antwort: muscle fibers
+    
+    - abductive :257
+        - correctly :91
+
+best Inference: gravity ->feeling ->  Kollision 
+force ->reaction -> feeling -> Kollision
+--------------------- 
+
+Frage : 503
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :258
+        - correctly :92
+
+best Inference: greenhouse ->glass -> face ->  Kollision 
+type ->face -> Kollision
+--------------------- 
+
+Frage : 504
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: greenhouse
+tatsaechliche Antwort: their decay
+    
+    - abductive :259
+        - correctly :92
+
+best Inference: adaptation ->make -> type -> kind ->  Kollision 
+kind ->Kollision
+--------------------- 
+
+Frage : 507
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: adaptation
+tatsaechliche Antwort: adaptation
+    
+    - abductive :260
+        - correctly :93
+
+best Inference: carbon ->substance -> capital ->  Kollision 
+burning ->substance -> capital -> Kollision
+--------------------- 
+
+Frage : 508
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: carbon
+tatsaechliche Antwort: carbon dioxide
+    
+    - abductive :261
+        - correctly :94
+
+best Inference: flower ->plant ->  Kollision 
+gymnosperm ->plant -> Kollision
+--------------------- 
+
+Frage : 509
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: flower
+tatsaechliche Antwort: flowers
+    
+    - abductive :262
+        - correctly :95
+
+best Inference: parasite -> Kollision 
+habitat ->organism -> parasite -> Kollision
+--------------------- 
+
+Frage : 510
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: parasite
+tatsaechliche Antwort: reptiles
+    
+    - abductive :263
+        - correctly :95
+
+best Inference: microwave ->food -> substance -> part ->  Kollision 
+wave ->part -> Kollision
+--------------------- 
+
+Frage : 514
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: microwave
+tatsaechliche Antwort: radio
+    
+    - abductive :264
+        - correctly :95
+
+best Inference: basalt ->type -> kind ->  Kollision 
+type ->kind -> Kollision
+--------------------- 
+
+Frage : 515
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: basalt
+tatsaechliche Antwort: clastic and chemical
+    
+    - abductive :265
+        - correctly :95
+
+best Inference: hop ->take ->  Kollision 
+logarithm ->obtain -> take -> Kollision
+--------------------- 
+
+Frage : 522
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: hop
+tatsaechliche Antwort: the poh
+    
+    - abductive :266
+        - correctly :95
+
+best Inference: pollination ->wind -> produce ->  Kollision 
+food ->produce -> Kollision
+--------------------- 
+
+Frage : 523
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: pollination
+tatsaechliche Antwort: pollination
+    
+    - abductive :267
+        - correctly :96
+
+best Inference: moisture ->make -> change ->  Kollision 
+change ->Kollision
+--------------------- 
+
+Frage : 524
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: moisture
+tatsaechliche Antwort: drought
+    
+    - abductive :268
+        - correctly :96
+
+best Inference: energy ->physics -> natural_science ->  Kollision 
+physics ->natural_science -> Kollision
+--------------------- 
+
+Frage : 525
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: energy
+tatsaechliche Antwort: temperature
+    
+    - abductive :269
+        - correctly :96
+
+best Inference: rna ->nucleus -> structure ->  Kollision 
+protein ->complex -> structure -> Kollision
+--------------------- 
+
+Frage : 526
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: rna
+tatsaechliche Antwort: genes
+    
+    - abductive :270
+        - correctly :96
+
+best Inference: trichina ->and -> take ->  Kollision 
+term ->require -> take -> Kollision
+--------------------- 
+
+Frage : 528
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: trichina
+tatsaechliche Antwort: halkieria
+    
+    - abductive :271
+        - correctly :96
+
+best Inference: anemometer ->wind -> direction ->  Kollision 
+wind ->direction -> Kollision
+--------------------- 
+
+Frage : 529
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: anemometer
+tatsaechliche Antwort: anemometer
+    
+    - abductive :272
+        - correctly :97
+
+best Inference: orion ->Taurus ->  Kollision 
+constellation ->Taurus -> Kollision
+--------------------- 
+
+Frage : 530
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: orion
+tatsaechliche Antwort: orion
+    
+    - abductive :273
+        - correctly :98
+
+best Inference: bat -> Kollision 
+mammal ->bat -> Kollision
+--------------------- 
+
+Frage : 531
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: bat
+tatsaechliche Antwort: bat
+    
+    - abductive :274
+        - correctly :99
+
+best Inference: sex ->category ->  Kollision 
+gender ->category -> Kollision
+--------------------- 
+
+Frage : 535
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: sex
+tatsaechliche Antwort: sex chromosomes
+    
+    - abductive :275
+        - correctly :100
+
+best Inference: chemical ->use ->  Kollision 
+activity ->use -> Kollision
+--------------------- 
+
+Frage : 536
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: attraction
+tatsaechliche Antwort: independent cells
+    
+    - abductive :276
+        - correctly :100
+
+best Inference: glacier ->ice ->  Kollision 
+water ->ice -> Kollision
+--------------------- 
+
+Frage : 537
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: glacier
+tatsaechliche Antwort: frost
+    
+    - abductive :277
+        - correctly :100
+
+best Inference: elasticity ->compress -> force ->  Kollision 
+term ->force -> Kollision
+--------------------- 
+
+Frage : 539
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: elasticity
+tatsaechliche Antwort: viscosity
+    
+    - abductive :278
+        - correctly :100
+
+best Inference: drink -> Kollision 
+plant ->use -> drink -> Kollision
+--------------------- 
+
+Frage : 540
+    Iterationen: 10
+    Ermittelte Antwort: 2 Marker-Ursprung: drink
+tatsaechliche Antwort: lack
+    
+    - abductive :279
+        - correctly :100
+
+best Inference: fungus -> Kollision 
+pesticide ->organism -> fungus -> Kollision
+--------------------- 
+
+Frage : 541
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: fungus
+tatsaechliche Antwort: fungi
+    
+    - abductive :280
+        - correctly :100
+
+best Inference: interneuron ->neuron -> vegetative_cell ->  Kollision 
+neuron ->vegetative_cell -> Kollision
+--------------------- 
+
+Frage : 544
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: interneuron
+tatsaechliche Antwort: interneurons
+    
+    - abductive :281
+        - correctly :101
+
+best Inference: mycosis ->fungus ->  Kollision 
+term ->animal -> organism -> fungus -> Kollision
+--------------------- 
+
+Frage : 547
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: mycosis
+tatsaechliche Antwort: mycosis
+    
+    - abductive :282
+        - correctly :102
+
+best Inference: combustion ->give ->  Kollision 
+transfer ->give -> Kollision
+--------------------- 
+
+Frage : 551
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: combustion
+tatsaechliche Antwort: convection
+    
+    - abductive :283
+        - correctly :102
+
+best Inference: softness ->state -> make -> type -> form ->  Kollision 
+form ->Kollision
+--------------------- 
+
+Frage : 554
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: softness
+tatsaechliche Antwort: mylar
+    
+    - abductive :284
+        - correctly :102
+
+best Inference: aqua ->blue ->  Kollision 
+acid ->blue -> Kollision
+--------------------- 
+
+Frage : 556
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: aqua
+tatsaechliche Antwort: aqua regia
+    
+    - abductive :285
+        - correctly :103
+
+best Inference: fungus -> Kollision 
+organism ->fungus -> Kollision
+--------------------- 
+
+Frage : 557
+    Iterationen: 7
+    Ermittelte Antwort: 3 Marker-Ursprung: fungus
+tatsaechliche Antwort: fungi
+    
+    - abductive :286
+        - correctly :103
+
+best Inference: brighten ->make -> effect -> result -> prove ->  Kollision 
+result ->prove -> Kollision
+--------------------- 
+
+Frage : 558
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: brighten
+tatsaechliche Antwort: foggy mirror
+    
+    - abductive :287
+        - correctly :103
+
+best Inference: gymnosperm ->seed -> humor ->  Kollision 
+seed ->humor -> Kollision
+--------------------- 
+
+Frage : 559
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: gymnosperm
+tatsaechliche Antwort: gymnosperms
+    
+    - abductive :288
+        - correctly :104
+
+best Inference: enzyme ->protein ->  Kollision 
+gene ->protein -> Kollision
+--------------------- 
+
+Frage : 560
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: enzyme
+tatsaechliche Antwort: chromosome
+    
+    - abductive :289
+        - correctly :104
+
+best Inference: tumor ->serve -> eat -> take ->  Kollision 
+medication ->take -> Kollision
+--------------------- 
+
+Frage : 561
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: tumor
+tatsaechliche Antwort: transplanted organs
+    
+    - abductive :290
+        - correctly :104
+
+best Inference: quartz -> Kollision 
+mineral ->quartz -> Kollision
+--------------------- 
+
+Frage : 566
+    Iterationen: 12
+    Ermittelte Antwort: 3 Marker-Ursprung: quartz
+tatsaechliche Antwort: quartz
+    
+    - abductive :291
+        - correctly :105
+
+best Inference: sigma ->name ->  Kollision 
+term ->name -> Kollision
+--------------------- 
+
+Frage : 573
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: sigma
+tatsaechliche Antwort: sigma bond
+    
+    - abductive :292
+        - correctly :106
+
+best Inference: fm ->metal ->  Kollision 
+type ->metal -> Kollision
+--------------------- 
+
+Frage : 575
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: fm
+tatsaechliche Antwort: am radio waves
+    
+    - abductive :293
+        - correctly :106
+
+best Inference: lymphocyte -> Kollision 
+cell ->lymphocyte -> Kollision
+--------------------- 
+
+Frage : 576
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: lymphocyte
+tatsaechliche Antwort: lymphocytes
+    
+    - abductive :294
+        - correctly :107
+
+best Inference: gravity ->body ->  Kollision 
+mass ->body -> Kollision
+--------------------- 
+
+Frage : 577
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gravity
+tatsaechliche Antwort: gravity
+    
+    - abductive :295
+        - correctly :108
+
+best Inference: decomposition -> Kollision 
+reaction ->decomposition -> Kollision
+--------------------- 
+
+Frage : 581
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: decomposition
+tatsaechliche Antwort: reactant
+    
+    - abductive :296
+        - correctly :108
+
+best Inference: germination ->growth ->  Kollision 
+plant ->growth -> Kollision
+--------------------- 
+
+Frage : 586
+    Iterationen: 12
+    Ermittelte Antwort: 3 Marker-Ursprung: germination
+tatsaechliche Antwort: through water uptake
+    
+    - abductive :297
+        - correctly :108
+
+best Inference: oxygen ->element ->  Kollision 
+h ->element -> Kollision
+--------------------- 
+
+Frage : 587
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: oxygen
+tatsaechliche Antwort: water
+    
+    - abductive :298
+        - correctly :108
+
+best Inference: condensation -> Kollision 
+process ->condensation -> Kollision
+--------------------- 
+
+Frage : 589
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: self
+tatsaechliche Antwort: self pollination
+    
+    - abductive :299
+        - correctly :109
+
+best Inference: porta ->passage ->  Kollision 
+moss ->grow -> natural -> transition -> passage -> Kollision
+--------------------- 
+
+Frage : 590
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: porta
+tatsaechliche Antwort: seta
+    
+    - abductive :300
+        - correctly :109
+
+best Inference: watt ->be ->  Kollision 
+base ->ground -> remain -> be -> Kollision
+--------------------- 
+
+Frage : 591
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: watt
+tatsaechliche Antwort: hertz
+    
+    - abductive :301
+        - correctly :109
+
+best Inference: acceleration -> Kollision 
+displacement ->attack -> serve -> wind -> affect -> color -> change -> acceleration -> Kollision
+--------------------- 
+
+Frage : 593
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: acceleration
+tatsaechliche Antwort: velocity
+    
+    - abductive :302
+        - correctly :109
+
+best Inference: glucose ->monosaccharide ->  Kollision 
+hydrolysis ->monosaccharide -> Kollision
+--------------------- 
+
+Frage : 594
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: glucose
+tatsaechliche Antwort: glucose
+    
+    - abductive :303
+        - correctly :110
+
+best Inference: spine ->face ->  Kollision 
+type ->face -> Kollision
+--------------------- 
+
+Frage : 596
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: spine
+tatsaechliche Antwort: teeth
+    
+    - abductive :304
+        - correctly :110
+
+best Inference: taste ->information -> unit -> object ->  Kollision 
+object ->Kollision
+--------------------- 
+
+Frage : 598
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: taste
+tatsaechliche Antwort: scent glands
+    
+    - abductive :305
+        - correctly :110
+
+best Inference: bacteriophage ->bacterium -> nucleus -> structure ->  Kollision 
+moss ->structure -> Kollision
+--------------------- 
+
+Frage : 599
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: bacteriophage
+tatsaechliche Antwort: gametophytes
+    
+    - abductive :306
+        - correctly :110
+
+best Inference: pollution ->be ->  Kollision 
+coal ->remain -> be -> Kollision
+--------------------- 
+
+Frage : 600
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: pollution
+tatsaechliche Antwort: less pollution
+    
+    - abductive :307
+        - correctly :111
+
+best Inference: muscle ->make -> cause ->  Kollision 
+g ->gravitational -> cause -> Kollision
+--------------------- 
+
+Frage : 604
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: muscle
+tatsaechliche Antwort: blood
+    
+    - abductive :308
+        - correctly :111
+
+best Inference: evaporation ->extract ->  Kollision 
+solution ->extract -> Kollision
+--------------------- 
+
+Frage : 607
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: evaporation
+tatsaechliche Antwort: freezing point
+    
+    - abductive :309
+        - correctly :111
+
+best Inference: system ->structure ->  Kollision 
+network ->structure -> Kollision
+--------------------- 
+
+Frage : 608
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: system
+tatsaechliche Antwort: lymphatic system
+    
+    - abductive :310
+        - correctly :112
+
+best Inference: evaporation ->state -> make -> change ->  Kollision 
+change ->Kollision
+--------------------- 
+
+Frage : 609
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: evaporation
+tatsaechliche Antwort: evaporation
+    
+    - abductive :311
+        - correctly :113
+
+best Inference: dioxin ->ring -> case ->  Kollision 
+type ->case -> Kollision
+--------------------- 
+
+Frage : 610
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: dioxin
+tatsaechliche Antwort: mutagens
+    
+    - abductive :312
+        - correctly :113
+
+best Inference: water ->liquid ->  Kollision 
+liquid ->Kollision
+--------------------- 
+
+Frage : 612
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: water
+tatsaechliche Antwort: water
+    
+    - abductive :313
+        - correctly :114
+
+best Inference: circulation ->place -> part ->  Kollision 
+part ->Kollision
+--------------------- 
+
+Frage : 614
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: circulation
+tatsaechliche Antwort: systemic circulation
+    
+    - abductive :314
+        - correctly :115
+
+best Inference: plasmid ->cell -> living_thing ->  Kollision 
+cell ->living_thing -> Kollision
+--------------------- 
+
+Frage : 616
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: plasmid
+tatsaechliche Antwort: platelets
+    
+    - abductive :315
+        - correctly :115
+
+best Inference: alloy ->element ->  Kollision 
+substance ->element -> Kollision
+--------------------- 
+
+Frage : 617
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: alloy
+tatsaechliche Antwort: copper oxide
+    
+    - abductive :316
+        - correctly :115
+
+best Inference: enamel ->coat ->  Kollision 
+egg ->coat -> Kollision
+--------------------- 
+
+Frage : 618
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: enamel
+tatsaechliche Antwort: cytoplasm
+    
+    - abductive :317
+        - correctly :115
+
+best Inference: homeostasis ->organism -> entity ->  Kollision 
+vector ->entity -> Kollision
+--------------------- 
+
+Frage : 621
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: homeostasis
+tatsaechliche Antwort: net torque
+    
+    - abductive :318
+        - correctly :115
+
+best Inference: earth ->element ->  Kollision 
+blindness ->state -> element -> Kollision
+--------------------- 
+
+Frage : 623
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: earth
+tatsaechliche Antwort: sun
+    
+    - abductive :319
+        - correctly :115
+
+best Inference: gravity ->state -> volume ->  Kollision 
+amount ->volume -> Kollision
+--------------------- 
+
+Frage : 624
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: gravity
+tatsaechliche Antwort: mass and velocity
+    
+    - abductive :320
+        - correctly :115
+
+best Inference: diffusion ->action ->  Kollision 
+movement ->action -> Kollision
+--------------------- 
+
+Frage : 625
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: diffusion
+tatsaechliche Antwort: filtration
+    
+    - abductive :321
+        - correctly :115
+
+best Inference: mammogram ->use -> employ ->  Kollision 
+state ->employ -> Kollision
+--------------------- 
+
+Frage : 626
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: mammogram
+tatsaechliche Antwort: pap smears
+    
+    - abductive :322
+        - correctly :115
+
+best Inference: rate ->limit -> there -> place -> role -> require -> make -> create ->  Kollision 
+solute ->create -> Kollision
+--------------------- 
+
+Frage : 627
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: rate
+tatsaechliche Antwort: specific temperature
+    
+    - abductive :323
+        - correctly :115
+
+best Inference: membrane ->line ->  Kollision 
+carrier ->line -> Kollision
+--------------------- 
+
+Frage : 628
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: membrane
+tatsaechliche Antwort: cell membrane
+    
+    - abductive :324
+        - correctly :116
+
+best Inference: silicon ->computer ->  Kollision 
+polyisoprene ->any -> even -> still -> device -> computer -> Kollision
+--------------------- 
+
+Frage : 635
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: silicon
+tatsaechliche Antwort: rubber
+    
+    - abductive :325
+        - correctly :116
+
+best Inference: protein ->energy -> positive -> object -> constituent ->  Kollision 
+triglyceride ->constituent -> Kollision
+--------------------- 
+
+Frage : 638
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: protein
+tatsaechliche Antwort: lipids
+    
+    - abductive :326
+        - correctly :116
+
+best Inference: cell ->room ->  Kollision 
+photosynthesis ->oxygen -> room -> Kollision
+--------------------- 
+
+Frage : 639
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: cell
+tatsaechliche Antwort: chloroplast
+    
+    - abductive :327
+        - correctly :116
+
+best Inference: symbiosis ->organism -> system ->  Kollision 
+ecosystem ->system -> Kollision
+--------------------- 
+
+Frage : 643
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: symbiosis
+tatsaechliche Antwort: recycling
+    
+    - abductive :328
+        - correctly :116
+
+best Inference: glucose ->sugar -> organism -> system ->  Kollision 
+system ->Kollision
+--------------------- 
+
+Frage : 644
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: glucose
+tatsaechliche Antwort: glucose
+    
+    - abductive :329
+        - correctly :117
+
+best Inference: week ->period ->  Kollision 
+period ->Kollision
+--------------------- 
+
+Frage : 645
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: week
+tatsaechliche Antwort: 30 weeks
+    
+    - abductive :330
+        - correctly :118
+
+best Inference: carbon ->make -> change ->  Kollision 
+plasma ->change -> Kollision
+--------------------- 
+
+Frage : 647
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: carbon
+tatsaechliche Antwort: phospholipids
+    
+    - abductive :331
+        - correctly :118
+
+best Inference: gravity ->feeling ->  Kollision 
+presence ->feeling -> Kollision
+--------------------- 
+
+Frage : 653
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: gravity
+tatsaechliche Antwort: motion
+    
+    - abductive :332
+        - correctly :118
+
+best Inference: snowfield ->field ->  Kollision 
+term ->constant -> action -> field -> Kollision
+--------------------- 
+
+Frage : 656
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: snowfield
+tatsaechliche Antwort: permafrost
+    
+    - abductive :333
+        - correctly :118
+
+best Inference: steel ->metal ->  Kollision 
+grinder ->metal -> Kollision
+--------------------- 
+
+Frage : 657
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: steel
+tatsaechliche Antwort: iron oxide
+    
+    - abductive :334
+        - correctly :118
+
+best Inference: weight -> Kollision 
+triglyceride ->three -> unit -> weight -> Kollision
+--------------------- 
+
+Frage : 661
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: weight
+tatsaechliche Antwort: chemical structure
+    
+    - abductive :335
+        - correctly :118
+
+best Inference: uterus ->female ->  Kollision 
+fetus ->animal -> female -> Kollision
+--------------------- 
+
+Frage : 662
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: uterus
+tatsaechliche Antwort: placenta
+    
+    - abductive :336
+        - correctly :118
+
+best Inference: oxygen ->gas ->  Kollision 
+gas ->Kollision
+--------------------- 
+
+Frage : 663
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: oxygen
+tatsaechliche Antwort: carbon dioxide
+    
+    - abductive :337
+        - correctly :118
+
+best Inference: respiration ->exchange -> serve -> function ->  Kollision 
+function ->Kollision
+--------------------- 
+
+Frage : 664
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: respiration
+tatsaechliche Antwort: to transport
+    
+    - abductive :338
+        - correctly :118
+
+best Inference: philosophy ->study ->  Kollision 
+biotechnology ->study -> Kollision
+--------------------- 
+
+Frage : 665
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: philosophy
+tatsaechliche Antwort: medicine and agriculture
+    
+    - abductive :339
+        - correctly :118
+
+best Inference: telescope ->observe -> sight ->  Kollision 
+lens ->optical -> sight -> Kollision
+--------------------- 
+
+Frage : 668
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: telescope
+tatsaechliche Antwort: refracting telescopes
+    
+    - abductive :340
+        - correctly :119
+
+best Inference: conservation ->principle ->  Kollision 
+science ->principle -> Kollision
+--------------------- 
+
+Frage : 669
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: conservation
+tatsaechliche Antwort: dendrochronology
+    
+    - abductive :341
+        - correctly :119
+
+best Inference: osteoarthritis -> Kollision 
+arthritis ->osteoarthritis -> Kollision
+--------------------- 
+
+Frage : 670
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: osteoarthritis
+tatsaechliche Antwort: rheumatoid
+    
+    - abductive :342
+        - correctly :119
+
+best Inference: tension ->hostility ->  Kollision 
+force ->hostility -> Kollision
+--------------------- 
+
+Frage : 672
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: tension
+tatsaechliche Antwort: surface tension
+    
+    - abductive :343
+        - correctly :120
+
+best Inference: homeostasis ->temperature -> degree ->  Kollision 
+state ->degree -> Kollision
+--------------------- 
+
+Frage : 673
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: homeostasis
+tatsaechliche Antwort: homeostasis
+    
+    - abductive :344
+        - correctly :121
+
+best Inference: gill ->oxygen -> gas ->  Kollision 
+gas ->Kollision
+--------------------- 
+
+Frage : 678
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gill
+tatsaechliche Antwort: gills
+    
+    - abductive :345
+        - correctly :122
+
+best Inference: ray ->light ->  Kollision 
+meter ->light -> Kollision
+--------------------- 
+
+Frage : 679
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: ray
+tatsaechliche Antwort: gamma rays
+    
+    - abductive :346
+        - correctly :123
+
+best Inference: membrane ->animal ->  Kollision 
+homeostasis ->organism -> animal -> Kollision
+--------------------- 
+
+Frage : 681
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: membrane
+tatsaechliche Antwort: hypothalamus
+    
+    - abductive :347
+        - correctly :123
+
+best Inference: emission ->release ->  Kollision 
+device ->release -> Kollision
+--------------------- 
+
+Frage : 682
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: emission
+tatsaechliche Antwort: electric generator
+    
+    - abductive :348
+        - correctly :123
+
+best Inference: methane ->gas ->  Kollision 
+survival ->state -> gas -> Kollision
+--------------------- 
+
+Frage : 683
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: methane
+tatsaechliche Antwort: water and air
+    
+    - abductive :349
+        - correctly :123
+
+best Inference: sunlight ->light ->  Kollision 
+exposure ->light -> Kollision
+--------------------- 
+
+Frage : 686
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: sunlight
+tatsaechliche Antwort: sunlight
+    
+    - abductive :350
+        - correctly :124
+
+best Inference: wave ->motion ->  Kollision 
+temperature ->motion -> Kollision
+--------------------- 
+
+Frage : 687
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: wave
+tatsaechliche Antwort: collisions
+    
+    - abductive :351
+        - correctly :124
+
+best Inference: muscle ->use -> act ->  Kollision 
+knee ->act -> Kollision
+--------------------- 
+
+Frage : 688
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: muscle
+tatsaechliche Antwort: joints
+    
+    - abductive :352
+        - correctly :124
+
+best Inference: epistasis ->effect -> phenomenon -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 691
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: epistasis
+tatsaechliche Antwort: mitosis
+    
+    - abductive :353
+        - correctly :124
+
+best Inference: fertilizer ->substance -> matter ->  Kollision 
+solute ->matter -> Kollision
+--------------------- 
+
+Frage : 692
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: fertilizer
+tatsaechliche Antwort: seed crystal
+    
+    - abductive :354
+        - correctly :124
+
+best Inference: electrolyte ->membrane -> phospholipid ->  Kollision 
+lipid ->phospholipid -> Kollision
+--------------------- 
+
+Frage : 693
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: electrolyte
+tatsaechliche Antwort: carbohydrates
+    
+    - abductive :355
+        - correctly :124
+
+best Inference: fin ->member ->  Kollision 
+ant ->spider -> member -> Kollision
+--------------------- 
+
+Frage : 694
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: fin
+tatsaechliche Antwort: antennae
+    
+    - abductive :356
+        - correctly :124
+
+best Inference: diffusion ->water -> excrement ->  Kollision 
+water ->excrement -> Kollision
+--------------------- 
+
+Frage : 695
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: diffusion
+tatsaechliche Antwort: adhesion
+    
+    - abductive :357
+        - correctly :124
+
+best Inference: gravity ->use -> take ->  Kollision 
+selection ->take -> Kollision
+--------------------- 
+
+Frage : 696
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gravity
+tatsaechliche Antwort: evolution
+    
+    - abductive :358
+        - correctly :124
+
+best Inference: precipitation ->chemical_action ->  Kollision 
+erosion ->chemical_action -> Kollision
+--------------------- 
+
+Frage : 697
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gravity
+tatsaechliche Antwort: water   wind   gravity
+    
+    - abductive :359
+        - correctly :125
+
+best Inference: gas -> Kollision 
+hydrocarbon ->gas -> Kollision
+--------------------- 
+
+Frage : 699
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: gas
+tatsaechliche Antwort: fossil fuels
+    
+    - abductive :360
+        - correctly :125
+
+best Inference: fermentation ->development ->  Kollision 
+process ->development -> Kollision
+--------------------- 
+
+Frage : 700
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: fermentation
+tatsaechliche Antwort: gastrulation
+    
+    - abductive :361
+        - correctly :125
+
+best Inference: parasite -> Kollision 
+organism ->parasite -> Kollision
+--------------------- 
+
+Frage : 703
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: parasite
+tatsaechliche Antwort: parasites
+    
+    - abductive :362
+        - correctly :126
+
+best Inference: nucleolus ->protein -> see ->  Kollision 
+name ->role -> associate -> see -> Kollision
+--------------------- 
+
+Frage : 705
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: nucleolus
+tatsaechliche Antwort: a nucleoside
+    
+    - abductive :363
+        - correctly :126
+
+best Inference: solution ->set ->  Kollision 
+band ->set -> Kollision
+--------------------- 
+
+Frage : 706
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: cell
+tatsaechliche Antwort: cell division
+    
+    - abductive :364
+        - correctly :127
+
+best Inference: lupus ->number ->  Kollision 
+density ->size -> number -> Kollision
+--------------------- 
+
+Frage : 707
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: lupus
+tatsaechliche Antwort: osteoporosis
+    
+    - abductive :365
+        - correctly :127
+
+best Inference: polarity ->molecule -> material ->  Kollision 
+bone ->material -> Kollision
+--------------------- 
+
+Frage : 710
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: polarity
+tatsaechliche Antwort: homeostatis
+    
+    - abductive :366
+        - correctly :127
+
+best Inference: type ->variation ->  Kollision 
+change ->variation -> Kollision
+--------------------- 
+
+Frage : 712
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: type
+tatsaechliche Antwort: blood pressure
+    
+    - abductive :367
+        - correctly :127
+
+best Inference: fungus -> Kollision 
+organism ->fungus -> Kollision
+--------------------- 
+
+Frage : 716
+    Iterationen: 12
+    Ermittelte Antwort: 3 Marker-Ursprung: fungus
+tatsaechliche Antwort: bacteria and fungi
+    
+    - abductive :368
+        - correctly :127
+
+best Inference: myriapoda ->millipede -> arthropod ->  Kollision 
+arthropod ->Kollision
+--------------------- 
+
+Frage : 717
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: myriapoda
+tatsaechliche Antwort: subphylum myriapoda
+    
+    - abductive :369
+        - correctly :128
+
+best Inference: chemical ->nature ->  Kollision 
+type ->nature -> Kollision
+--------------------- 
+
+Frage : 718
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: chemical
+tatsaechliche Antwort: physical
+    
+    - abductive :370
+        - correctly :128
+
+best Inference: oxygen ->element ->  Kollision 
+element ->Kollision
+--------------------- 
+
+Frage : 719
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: oxygen
+tatsaechliche Antwort: oxygen
+    
+    - abductive :371
+        - correctly :129
+
+best Inference: cation ->charge ->  Kollision 
+form ->place -> role -> require -> charge -> Kollision
+--------------------- 
+
+Frage : 720
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: cation
+tatsaechliche Antwort: anions
+    
+    - abductive :372
+        - correctly :129
+
+best Inference: stibnite ->mineral ->  Kollision 
+hydrology ->rock -> mineral -> Kollision
+--------------------- 
+
+Frage : 721
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: stibnite
+tatsaechliche Antwort: hydric soils
+    
+    - abductive :373
+        - correctly :129
+
+best Inference: scale ->part ->  Kollision 
+combination ->object -> part -> Kollision
+--------------------- 
+
+Frage : 723
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: scale
+tatsaechliche Antwort: bark
+    
+    - abductive :374
+        - correctly :129
+
+best Inference: isolation ->separation ->  Kollision 
+gene ->from -> separation -> Kollision
+--------------------- 
+
+Frage : 724
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: isolation
+tatsaechliche Antwort: isolation
+    
+    - abductive :375
+        - correctly :130
+
+best Inference: solute ->liquid ->  Kollision 
+water ->fluid -> liquid -> Kollision
+--------------------- 
+
+Frage : 730
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: solute
+tatsaechliche Antwort: molecular compound
+    
+    - abductive :376
+        - correctly :130
+
+best Inference: drilling ->earth -> object ->  Kollision 
+term ->place -> object -> Kollision
+--------------------- 
+
+Frage : 731
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: drilling
+tatsaechliche Antwort: fracking
+    
+    - abductive :377
+        - correctly :130
+
+best Inference: hour ->time ->  Kollision 
+unit ->serve -> time -> Kollision
+--------------------- 
+
+Frage : 732
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: hour
+tatsaechliche Antwort: miles per hour
+    
+    - abductive :378
+        - correctly :131
+
+best Inference: pancreas ->be ->  Kollision 
+liver ->store -> remain -> be -> Kollision
+--------------------- 
+
+Frage : 733
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: pancreas
+tatsaechliche Antwort: pancreas
+    
+    - abductive :379
+        - correctly :132
+
+best Inference: polarity ->opposition ->  Kollision 
+opposition ->Kollision
+--------------------- 
+
+Frage : 734
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: polarity
+tatsaechliche Antwort: resistance
+    
+    - abductive :380
+        - correctly :132
+
+best Inference: pricing ->set ->  Kollision 
+law ->collection -> set -> Kollision
+--------------------- 
+
+Frage : 735
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: pricing
+tatsaechliche Antwort: nutrition facts label
+    
+    - abductive :381
+        - correctly :132
+
+best Inference: chloride ->compound ->  Kollision 
+type ->compound -> Kollision
+--------------------- 
+
+Frage : 736
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: chloride
+tatsaechliche Antwort: axon
+    
+    - abductive :382
+        - correctly :132
+
+best Inference: flower -> Kollision 
+angiosperm ->flower -> Kollision
+--------------------- 
+
+Frage : 739
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: flower
+tatsaechliche Antwort: flowers and fruit
+    
+    - abductive :383
+        - correctly :133
+
+best Inference: earthquake ->surface -> aspect ->  Kollision 
+mammoth ->genus -> aspect -> Kollision
+--------------------- 
+
+Frage : 741
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: earthquake
+tatsaechliche Antwort: climate change
+    
+    - abductive :384
+        - correctly :133
+
+best Inference: baby ->person ->  Kollision 
+organism ->person -> Kollision
+--------------------- 
+
+Frage : 745
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: baby
+tatsaechliche Antwort: genes
+    
+    - abductive :385
+        - correctly :133
+
+best Inference: joint ->case ->  Kollision 
+type ->case -> Kollision
+--------------------- 
+
+Frage : 746
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: joint
+tatsaechliche Antwort: joints
+    
+    - abductive :386
+        - correctly :134
+
+best Inference: rock ->material ->  Kollision 
+freshwater ->fresh -> make -> material -> Kollision
+--------------------- 
+
+Frage : 748
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: rock
+tatsaechliche Antwort: rock
+    
+    - abductive :387
+        - correctly :135
+
+best Inference: respiration ->exchange -> change ->  Kollision 
+rate ->change -> Kollision
+--------------------- 
+
+Frage : 750
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: respiration
+tatsaechliche Antwort: anaerobic respiration
+    
+    - abductive :388
+        - correctly :136
+
+best Inference: mutation -> Kollision 
+species ->organism -> mutation -> Kollision
+--------------------- 
+
+Frage : 751
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: mutation
+tatsaechliche Antwort: mutations
+    
+    - abductive :389
+        - correctly :137
+
+best Inference: meiosis ->effect -> phenomenon -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 752
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: meiosis
+tatsaechliche Antwort: cell division
+    
+    - abductive :390
+        - correctly :137
+
+best Inference: oxidant ->oxidize -> oxygen -> gas ->  Kollision 
+gas ->Kollision
+--------------------- 
+
+Frage : 753
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: oxidant
+tatsaechliche Antwort: potent oxidants
+    
+    - abductive :391
+        - correctly :138
+
+best Inference: spicule ->process ->  Kollision 
+deglutition ->process -> Kollision
+--------------------- 
+
+Frage : 754
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: spicule
+tatsaechliche Antwort: suprahyoid
+    
+    - abductive :392
+        - correctly :138
+
+best Inference: membrane ->plant -> stratagem ->  Kollision 
+plant ->stratagem -> Kollision
+--------------------- 
+
+Frage : 756
+    Iterationen: 12
+    Ermittelte Antwort: 4 Marker-Ursprung: membrane
+tatsaechliche Antwort: eukaryotes
+    
+    - abductive :393
+        - correctly :138
+
+best Inference: scale ->shield ->  Kollision 
+mollusk ->shield -> Kollision
+--------------------- 
+
+Frage : 758
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: scale
+tatsaechliche Antwort: gills
+    
+    - abductive :394
+        - correctly :138
+
+best Inference: kilocalorie ->degree ->  Kollision 
+state ->degree -> Kollision
+--------------------- 
+
+Frage : 761
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: kilocalorie
+tatsaechliche Antwort: nonelectrolyte
+    
+    - abductive :395
+        - correctly :138
+
+best Inference: skin -> Kollision 
+pathway ->fiber -> layer -> surface -> skin -> Kollision
+--------------------- 
+
+Frage : 763
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: skin
+tatsaechliche Antwort: stem
+    
+    - abductive :396
+        - correctly :138
+
+best Inference: crosswind -> Kollision 
+tropics ->hot -> nerve -> organ -> wind -> crosswind -> Kollision
+--------------------- 
+
+Frage : 764
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: crosswind
+tatsaechliche Antwort: tradewinds
+    
+    - abductive :397
+        - correctly :138
+
+best Inference: calvin ->chemist ->  Kollision 
+scientist ->chemist -> Kollision
+--------------------- 
+
+Frage : 767
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: calvin
+tatsaechliche Antwort: calvin cycle
+    
+    - abductive :398
+        - correctly :139
+
+best Inference: tension ->hostility ->  Kollision 
+force ->hostility -> Kollision
+--------------------- 
+
+Frage : 769
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: tension
+tatsaechliche Antwort: gravity
+    
+    - abductive :399
+        - correctly :139
+
+best Inference: lung ->oxygen -> element ->  Kollision 
+type ->link -> element -> Kollision
+--------------------- 
+
+Frage : 770
+    Iterationen: 10
+    Ermittelte Antwort: 2 Marker-Ursprung: lung
+tatsaechliche Antwort: white blood cells
+    
+    - abductive :400
+        - correctly :139
+
+best Inference: motor ->machine ->  Kollision 
+contraction ->bind -> serve -> eat -> eject -> machine -> Kollision
+--------------------- 
+
+Frage : 773
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: motor
+tatsaechliche Antwort: carry out functions
+    
+    - abductive :401
+        - correctly :139
+
+best Inference: soda ->salt ->  Kollision 
+acid ->salt -> Kollision
+--------------------- 
+
+Frage : 774
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: soda
+tatsaechliche Antwort: vinegar
+    
+    - abductive :402
+        - correctly :139
+
+best Inference: moss ->stone ->  Kollision 
+rock ->crystal -> stone -> Kollision
+--------------------- 
+
+Frage : 775
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: moss
+tatsaechliche Antwort: soil
+    
+    - abductive :403
+        - correctly :139
+
+best Inference: condensation -> Kollision 
+process ->condensation -> Kollision
+--------------------- 
+
+Frage : 777
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: condensation
+tatsaechliche Antwort: freezing
+    
+    - abductive :404
+        - correctly :139
+
+best Inference: erosion ->face ->  Kollision 
+grass ->type -> face -> Kollision
+--------------------- 
+
+Frage : 778
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: erosion
+tatsaechliche Antwort: erosion
+    
+    - abductive :405
+        - correctly :140
+
+best Inference: alkalinity ->degree ->  Kollision 
+state ->degree -> Kollision
+--------------------- 
+
+Frage : 781
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: alkalinity
+tatsaechliche Antwort: supersaturation
+    
+    - abductive :406
+        - correctly :140
+
+best Inference: twin ->individual ->  Kollision 
+spore ->individual -> Kollision
+--------------------- 
+
+Frage : 782
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: twin
+tatsaechliche Antwort: sexual reproduction
+    
+    - abductive :407
+        - correctly :140
+
+best Inference: starboard ->side ->  Kollision 
+mountain ->rock -> side -> Kollision
+--------------------- 
+
+Frage : 784
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: starboard
+tatsaechliche Antwort: the leeward side
+    
+    - abductive :408
+        - correctly :140
+
+best Inference: tubercle ->process ->  Kollision 
+centriole ->process -> Kollision
+--------------------- 
+
+Frage : 785
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: tubercle
+tatsaechliche Antwort: centrosomes
+    
+    - abductive :409
+        - correctly :140
+
+best Inference: pancreas ->food -> substance -> part ->  Kollision 
+part ->Kollision
+--------------------- 
+
+Frage : 787
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: pancreas
+tatsaechliche Antwort: ovaries
+    
+    - abductive :410
+        - correctly :140
+
+best Inference: resistor ->voltage -> electrical_phenomenon ->  Kollision 
+voltage ->electrical_phenomenon -> Kollision
+--------------------- 
+
+Frage : 790
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: resistor
+tatsaechliche Antwort: resistor
+    
+    - abductive :411
+        - correctly :141
+
+best Inference: heat -> Kollision 
+energy ->heat -> Kollision
+--------------------- 
+
+Frage : 794
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: heat
+tatsaechliche Antwort: heat
+    
+    - abductive :412
+        - correctly :142
+
+best Inference: kidney -> Kollision 
+organ ->kidney -> Kollision
+--------------------- 
+
+Frage : 796
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: kidney
+tatsaechliche Antwort: kidneys
+    
+    - abductive :413
+        - correctly :143
+
+best Inference: ovary -> Kollision 
+gonad ->ovary -> Kollision
+--------------------- 
+
+Frage : 798
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: ovary
+tatsaechliche Antwort: ovaries
+    
+    - abductive :414
+        - correctly :143
+
+best Inference: vegetable -> Kollision 
+lipid ->most -> state -> preparation -> food -> vegetable -> Kollision
+--------------------- 
+
+Frage : 800
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: vegetable
+tatsaechliche Antwort: oils
+    
+    - abductive :415
+        - correctly :143
+
+best Inference: absorption ->growth -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 801
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: absorption
+tatsaechliche Antwort: diffusion
+    
+    - abductive :416
+        - correctly :143
+
+best Inference: diaphragm -> Kollision 
+sheet ->membrane -> diaphragm -> Kollision
+--------------------- 
+
+Frage : 804
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: diaphragm
+tatsaechliche Antwort: diaphragm
+    
+    - abductive :417
+        - correctly :144
+
+best Inference: catalyst ->cause ->  Kollision 
+cause ->Kollision
+--------------------- 
+
+Frage : 807
+    Iterationen: 9
+    Ermittelte Antwort: 1 Marker-Ursprung: catalyst
+tatsaechliche Antwort: mutagens
+    
+    - abductive :418
+        - correctly :144
+
+best Inference: alkane -> Kollision 
+hydrocarbon ->alkane -> Kollision
+--------------------- 
+
+Frage : 810
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: alkane
+tatsaechliche Antwort: alkanes
+    
+    - abductive :419
+        - correctly :145
+
+best Inference: level -> Kollision 
+pressure ->surface -> level -> Kollision
+--------------------- 
+
+Frage : 811
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: level
+tatsaechliche Antwort: sea level
+    
+    - abductive :420
+        - correctly :146
+
+best Inference: fat -> Kollision 
+lipid ->fat -> Kollision
+--------------------- 
+
+Frage : 814
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: fat
+tatsaechliche Antwort: fats
+    
+    - abductive :421
+        - correctly :147
+
+best Inference: gland -> Kollision 
+organ ->gland -> Kollision
+--------------------- 
+
+Frage : 815
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gland
+tatsaechliche Antwort: ovaries
+    
+    - abductive :422
+        - correctly :147
+
+best Inference: mimicry ->animal -> game ->  Kollision 
+competition ->game -> Kollision
+--------------------- 
+
+Frage : 816
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: mimicry
+tatsaechliche Antwort: interspecific
+    
+    - abductive :423
+        - correctly :147
+
+best Inference: smith ->use -> have ->  Kollision 
+andromeda ->have -> Kollision
+--------------------- 
+
+Frage : 817
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: smith
+tatsaechliche Antwort: edwin hubble
+    
+    - abductive :424
+        - correctly :147
+
+best Inference: mining ->earth -> object ->  Kollision 
+type ->object -> Kollision
+--------------------- 
+
+Frage : 819
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: mining
+tatsaechliche Antwort: surface mining
+    
+    - abductive :425
+        - correctly :148
+
+best Inference: pollution ->state -> administrative_division ->  Kollision 
+rain ->vapor -> state -> administrative_division -> Kollision
+--------------------- 
+
+Frage : 821
+    Iterationen: 10
+    Ermittelte Antwort: 4 Marker-Ursprung: pollution
+tatsaechliche Antwort: air pollution
+    
+    - abductive :426
+        - correctly :149
+
+best Inference: absorption ->growth -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 822
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: absorption
+tatsaechliche Antwort: digestion
+    
+    - abductive :427
+        - correctly :149
+
+best Inference: physiology ->chemical -> product -> hair -> material ->  Kollision 
+material ->Kollision
+--------------------- 
+
+Frage : 823
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: physiology
+tatsaechliche Antwort: chemistry
+    
+    - abductive :428
+        - correctly :149
+
+best Inference: isolation ->state -> spirit ->  Kollision 
+presence ->spirit -> Kollision
+--------------------- 
+
+Frage : 824
+    Iterationen: 9
+    Ermittelte Antwort: 2 Marker-Ursprung: isolation
+tatsaechliche Antwort: behavioral isolation
+    
+    - abductive :429
+        - correctly :150
+
+best Inference: deformity ->state -> political_entity ->  Kollision 
+chromosome ->cell -> political_entity -> Kollision
+--------------------- 
+
+Frage : 826
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: deformity
+tatsaechliche Antwort: disorders
+    
+    - abductive :430
+        - correctly :150
+
+best Inference: cedar ->wood ->  Kollision 
+forest ->wood -> Kollision
+--------------------- 
+
+Frage : 829
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: cedar
+tatsaechliche Antwort: kelp
+    
+    - abductive :431
+        - correctly :150
+
+best Inference: leukemia -> Kollision 
+cancer ->leukemia -> Kollision
+--------------------- 
+
+Frage : 830
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: leukemia
+tatsaechliche Antwort: leukemia
+    
+    - abductive :432
+        - correctly :151
+
+best Inference: virus ->organism -> variation ->  Kollision 
+type ->variation -> Kollision
+--------------------- 
+
+Frage : 835
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: virus
+tatsaechliche Antwort: bacteria
+    
+    - abductive :433
+        - correctly :151
+
+best Inference: lipid ->compound -> make -> type -> block ->  Kollision 
+block ->Kollision
+--------------------- 
+
+Frage : 836
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: lipid
+tatsaechliche Antwort: cells
+    
+    - abductive :434
+        - correctly :151
+
+best Inference: behavior ->make -> type -> kind ->  Kollision 
+kind ->Kollision
+--------------------- 
+
+Frage : 837
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: behavior
+tatsaechliche Antwort: learned behavior
+    
+    - abductive :435
+        - correctly :152
+
+best Inference: climatology ->science ->  Kollision 
+study ->science -> Kollision
+--------------------- 
+
+Frage : 838
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: climatology
+tatsaechliche Antwort: chemistry
+    
+    - abductive :436
+        - correctly :152
+
+best Inference: requirement ->term -> constituent ->  Kollision 
+urea ->protein -> constituent -> Kollision
+--------------------- 
+
+Frage : 840
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: requirement
+tatsaechliche Antwort: toxicity
+    
+    - abductive :437
+        - correctly :152
+
+best Inference: therapist ->type -> form ->  Kollision 
+bone ->form -> Kollision
+--------------------- 
+
+Frage : 842
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: therapist
+tatsaechliche Antwort: chiropractor chiropractors
+    
+    - abductive :438
+        - correctly :152
+
+best Inference: bee ->ring -> case ->  Kollision 
+flower ->type -> case -> Kollision
+--------------------- 
+
+Frage : 843
+    Iterationen: 11
+    Ermittelte Antwort: 2 Marker-Ursprung: bee
+tatsaechliche Antwort: wind
+    
+    - abductive :439
+        - correctly :152
+
+best Inference: vapor ->mist ->  Kollision 
+fog ->mist -> Kollision
+--------------------- 
+
+Frage : 844
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: vapor
+tatsaechliche Antwort: water vapor
+    
+    - abductive :440
+        - correctly :153
+
+best Inference: oxide ->compound ->  Kollision 
+type ->compound -> Kollision
+--------------------- 
+
+Frage : 845
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: oxide
+tatsaechliche Antwort: internal combustion engine
+    
+    - abductive :441
+        - correctly :153
+
+best Inference: energy ->physics -> natural_science ->  Kollision 
+physics ->natural_science -> Kollision
+--------------------- 
+
+Frage : 847
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: energy
+tatsaechliche Antwort: force
+    
+    - abductive :442
+        - correctly :153
+
+best Inference: radon ->element ->  Kollision 
+radiation ->substance -> element -> Kollision
+--------------------- 
+
+Frage : 848
+    Iterationen: 7
+    Ermittelte Antwort: 2 Marker-Ursprung: radon
+tatsaechliche Antwort: radon
+    
+    - abductive :443
+        - correctly :154
+
+best Inference: muscle ->use -> act ->  Kollision 
+cooperation ->act -> Kollision
+--------------------- 
+
+Frage : 850
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: muscle
+tatsaechliche Antwort: abdominal muscles
+    
+    - abductive :444
+        - correctly :155
+
+best Inference: reactive ->reaction -> substance -> capital ->  Kollision 
+reactor ->substance -> capital -> Kollision
+--------------------- 
+
+Frage : 853
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: reactive
+tatsaechliche Antwort: reactants
+    
+    - abductive :445
+        - correctly :155
+
+best Inference: humus ->animal ->  Kollision 
+hair ->organism -> animal -> Kollision
+--------------------- 
+
+Frage : 855
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: humus
+tatsaechliche Antwort: dermis
+    
+    - abductive :446
+        - correctly :155
+
+best Inference: activation ->activity ->  Kollision 
+reaction ->activity -> Kollision
+--------------------- 
+
+Frage : 862
+    Iterationen: 8
+    Ermittelte Antwort: 3 Marker-Ursprung: activation
+tatsaechliche Antwort: activation energy
+    
+    - abductive :447
+        - correctly :156
+
+best Inference: freezing ->state -> make -> change ->  Kollision 
+change ->Kollision
+--------------------- 
+
+Frage : 863
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: freezing
+tatsaechliche Antwort: thermal expansion
+    
+    - abductive :448
+        - correctly :156
+
+best Inference: molecule ->unit ->  Kollision 
+atom ->unit -> Kollision
+--------------------- 
+
+Frage : 865
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: molecule
+tatsaechliche Antwort: protons
+    
+    - abductive :449
+        - correctly :156
+
+best Inference: reaction ->force ->  Kollision 
+subduction ->force -> Kollision
+--------------------- 
+
+Frage : 866
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: chain
+tatsaechliche Antwort: volcano
+    
+    - abductive :450
+        - correctly :156
+
+best Inference: monocyte -> Kollision 
+cell ->monocyte -> Kollision
+--------------------- 
+
+Frage : 867
+    Iterationen: 9
+    Ermittelte Antwort: 4 Marker-Ursprung: monocyte
+tatsaechliche Antwort: eukaryotes
+    
+    - abductive :451
+        - correctly :156
+
+best Inference: prosauropod ->head ->  Kollision 
+female ->make -> individual -> object -> head -> Kollision
+--------------------- 
+
+Frage : 869
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: prosauropod
+tatsaechliche Antwort: monotreme
+    
+    - abductive :452
+        - correctly :156
+
+best Inference: soil -> Kollision 
+cellulose ->glucose -> metabolism -> organic -> formation -> earth -> soil -> Kollision
+--------------------- 
+
+Frage : 870
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: soil
+tatsaechliche Antwort: enzymes
+    
+    - abductive :453
+        - correctly :156
+
+best Inference: treasure ->form -> spatiality ->  Kollision 
+form ->spatiality -> Kollision
+--------------------- 
+
+Frage : 871
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: treasure
+tatsaechliche Antwort: fat
+    
+    - abductive :454
+        - correctly :156
+
+best Inference: detritus ->animal -> type -> symbol ->  Kollision 
+oxygen ->symbol -> Kollision
+--------------------- 
+
+Frage : 873
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: detritus
+tatsaechliche Antwort: waste product
+    
+    - abductive :455
+        - correctly :156
+
+best Inference: rain ->particle -> word ->  Kollision 
+term ->word -> Kollision
+--------------------- 
+
+Frage : 874
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: rain
+tatsaechliche Antwort: acid rain
+    
+    - abductive :456
+        - correctly :157
+
+best Inference: hydrogen -> Kollision 
+gas ->hydrogen -> Kollision
+--------------------- 
+
+Frage : 875
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: hydrogen
+tatsaechliche Antwort: co2
+    
+    - abductive :457
+        - correctly :157
+
+best Inference: gamma ->letter ->  Kollision 
+cancer ->type -> letter -> Kollision
+--------------------- 
+
+Frage : 876
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gamma
+tatsaechliche Antwort: gamma rays
+    
+    - abductive :458
+        - correctly :158
+
+best Inference: infancy ->state -> spirit ->  Kollision 
+baby ->animal -> spirit -> Kollision
+--------------------- 
+
+Frage : 877
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: infancy
+tatsaechliche Antwort: infancy
+    
+    - abductive :459
+        - correctly :159
+
+best Inference: clump ->make -> type -> kind ->  Kollision 
+type ->kind -> Kollision
+--------------------- 
+
+Frage : 879
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: clump
+tatsaechliche Antwort: haploid and diploid
+    
+    - abductive :460
+        - correctly :159
+
+best Inference: mutation -> Kollision 
+population ->organism -> mutation -> Kollision
+--------------------- 
+
+Frage : 880
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: mutation
+tatsaechliche Antwort: mutation
+    
+    - abductive :461
+        - correctly :160
+
+best Inference: plasma -> Kollision 
+state ->plasma -> Kollision
+--------------------- 
+
+Frage : 881
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: plasma
+tatsaechliche Antwort: plasma
+    
+    - abductive :462
+        - correctly :161
+
+best Inference: inch ->rainfall -> monsoon ->  Kollision 
+rainfall ->monsoon -> Kollision
+--------------------- 
+
+Frage : 883
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: inch
+tatsaechliche Antwort: inches
+    
+    - abductive :463
+        - correctly :162
+
+best Inference: halogen ->group ->  Kollision 
+element ->group -> Kollision
+--------------------- 
+
+Frage : 884
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: halogen
+tatsaechliche Antwort: metalloids
+    
+    - abductive :464
+        - correctly :162
+
+best Inference: liquid -> Kollision 
+food ->water -> fluid -> liquid -> Kollision
+--------------------- 
+
+Frage : 886
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: liquid
+tatsaechliche Antwort: chemical
+    
+    - abductive :465
+        - correctly :162
+
+best Inference: pathogen ->population -> group ->  Kollision 
+function ->group -> Kollision
+--------------------- 
+
+Frage : 887
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: pathogen
+tatsaechliche Antwort: pathogens
+    
+    - abductive :466
+        - correctly :163
+
+best Inference: metabolism ->set ->  Kollision 
+sum ->aggregation -> set -> Kollision
+--------------------- 
+
+Frage : 889
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: metabolism
+tatsaechliche Antwort: metabolism
+    
+    - abductive :467
+        - correctly :164
+
+best Inference: reproduction ->copy ->  Kollision 
+type ->copy -> Kollision
+--------------------- 
+
+Frage : 890
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: reproduction
+tatsaechliche Antwort: sexual reproduction
+    
+    - abductive :468
+        - correctly :165
+
+best Inference: membrane ->animal -> type -> kind ->  Kollision 
+kind ->Kollision
+--------------------- 
+
+Frage : 891
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: membrane
+tatsaechliche Antwort: protein molecule
+    
+    - abductive :469
+        - correctly :165
+
+best Inference: suicide ->release ->  Kollision 
+death ->release -> Kollision
+--------------------- 
+
+Frage : 894
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: suicide
+tatsaechliche Antwort: heart disease
+    
+    - abductive :470
+        - correctly :165
+
+best Inference: hydrogen ->chemical -> substance -> matter ->  Kollision 
+matter ->Kollision
+--------------------- 
+
+Frage : 897
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: hydrogen
+tatsaechliche Antwort: energy
+    
+    - abductive :471
+        - correctly :165
+
+best Inference: obesity ->fat ->  Kollision 
+phagocytosis ->process -> food -> fat -> Kollision
+--------------------- 
+
+Frage : 900
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: obesity
+tatsaechliche Antwort: pathogens
+    
+    - abductive :472
+        - correctly :165
+
+best Inference: density ->measure -> make -> cause ->  Kollision 
+gravity ->cause -> Kollision
+--------------------- 
+
+Frage : 901
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: density
+tatsaechliche Antwort: weight
+    
+    - abductive :473
+        - correctly :165
+
+best Inference: membrane ->primary -> year -> regular -> face ->  Kollision 
+type ->face -> Kollision
+--------------------- 
+
+Frage : 903
+    Iterationen: 13
+    Ermittelte Antwort: 3 Marker-Ursprung: membrane
+tatsaechliche Antwort: receptor
+    
+    - abductive :474
+        - correctly :165
+
+best Inference: matter ->physical_entity ->  Kollision 
+slime ->substance -> physical_entity -> Kollision
+--------------------- 
+
+Frage : 905
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: matter
+tatsaechliche Antwort: decaying matter
+    
+    - abductive :475
+        - correctly :166
+
+best Inference: cloaca -> Kollision 
+cavity ->cloaca -> Kollision
+--------------------- 
+
+Frage : 906
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: cloaca
+tatsaechliche Antwort: cloaca
+    
+    - abductive :476
+        - correctly :167
+
+best Inference: divergence ->limit -> period -> phenomenon -> process ->  Kollision 
+process ->Kollision
+--------------------- 
+
+Frage : 908
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: divergence
+tatsaechliche Antwort: mitosis
+    
+    - abductive :477
+        - correctly :167
+
+best Inference: lipid ->but -> relative ->  Kollision 
+eukaryote ->organism -> relative -> Kollision
+--------------------- 
+
+Frage : 909
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: lipid
+tatsaechliche Antwort: mitochondria
+    
+    - abductive :478
+        - correctly :167
+
+best Inference: cilium ->organism -> system ->  Kollision 
+fungus ->organism -> system -> Kollision
+--------------------- 
+
+Frage : 911
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: cilium
+tatsaechliche Antwort: hyphae
+    
+    - abductive :479
+        - correctly :167
+
+best Inference: meiosis ->diploid ->  Kollision 
+organism ->diploid -> Kollision
+--------------------- 
+
+Frage : 912
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: meiosis
+tatsaechliche Antwort: biochemical reactions
+    
+    - abductive :480
+        - correctly :167
+
+best Inference: liquid -> Kollision 
+state ->liquid -> Kollision
+--------------------- 
+
+Frage : 913
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: liquid
+tatsaechliche Antwort: gas
+    
+    - abductive :481
+        - correctly :167
+
+best Inference: charge ->formation -> object ->  Kollision 
+type ->object -> Kollision
+--------------------- 
+
+Frage : 915
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: charge
+tatsaechliche Antwort: neutral or no charge
+    
+    - abductive :482
+        - correctly :168
+
+best Inference: protist ->microorganism ->  Kollision 
+animal ->organism -> microorganism -> Kollision
+--------------------- 
+
+Frage : 916
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: protist
+tatsaechliche Antwort: ecdysozoa
+    
+    - abductive :483
+        - correctly :168
+
+best Inference: movement ->space ->  Kollision 
+type ->space -> Kollision
+--------------------- 
+
+Frage : 918
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: movement
+tatsaechliche Antwort: mass movement
+    
+    - abductive :484
+        - correctly :169
+
+best Inference: load ->phrase ->  Kollision 
+term ->phrase -> Kollision
+--------------------- 
+
+Frage : 919
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: load
+tatsaechliche Antwort: magnitude
+    
+    - abductive :485
+        - correctly :169
+
+best Inference: erosion ->operation ->  Kollision 
+process ->operation -> Kollision
+--------------------- 
+
+Frage : 921
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: erosion
+tatsaechliche Antwort: weathering
+    
+    - abductive :486
+        - correctly :169
+
+best Inference: saturation ->quantity ->  Kollision 
+amount ->quantity -> Kollision
+--------------------- 
+
+Frage : 922
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: saturation
+tatsaechliche Antwort: humidity
+    
+    - abductive :487
+        - correctly :169
+
+best Inference: happiness ->spirit ->  Kollision 
+light ->state -> spirit -> Kollision
+--------------------- 
+
+Frage : 924
+    Iterationen: 10
+    Ermittelte Antwort: 4 Marker-Ursprung: happiness
+tatsaechliche Antwort: its temperature
+    
+    - abductive :488
+        - correctly :169
+
+best Inference: thermodynamics ->branch -> enough -> positive -> down -> seed -> food -> liquid -> make -> type -> form ->  Kollision 
+form ->Kollision
+--------------------- 
+
+Frage : 925
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: thermodynamics
+tatsaechliche Antwort: thermodynamics
+    
+    - abductive :489
+        - correctly :170
+
+best Inference: hormone ->tissue -> paper ->  Kollision 
+tissue ->paper -> Kollision
+--------------------- 
+
+Frage : 926
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: hormone
+tatsaechliche Antwort: protein fibers
+    
+    - abductive :490
+        - correctly :170
+
+best Inference: excretion ->water ->  Kollision 
+food ->water -> Kollision
+--------------------- 
+
+Frage : 927
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: excretion
+tatsaechliche Antwort: digestion
+    
+    - abductive :491
+        - correctly :170
+
+best Inference: notochord ->embryo ->  Kollision 
+plant ->embryo -> Kollision
+--------------------- 
+
+Frage : 928
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: notochord
+tatsaechliche Antwort: the stem
+    
+    - abductive :492
+        - correctly :170
+
+best Inference: marsupial -> Kollision 
+mammal ->marsupial -> Kollision
+--------------------- 
+
+Frage : 931
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: marsupial
+tatsaechliche Antwort: monotremes
+    
+    - abductive :493
+        - correctly :170
+
+best Inference: ocean ->large_indefinite_quantity ->  Kollision 
+ridge ->ocean -> large_indefinite_quantity -> Kollision
+--------------------- 
+
+Frage : 932
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: ocean
+tatsaechliche Antwort: atlantic ocean
+    
+    - abductive :494
+        - correctly :171
+
+best Inference: arc ->parallel -> equal -> person ->  Kollision 
+organism ->person -> Kollision
+--------------------- 
+
+Frage : 934
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: arc
+tatsaechliche Antwort: vector
+    
+    - abductive :495
+        - correctly :171
+
+best Inference: carbon ->global -> earth -> forest ->  Kollision 
+biome ->forest -> Kollision
+--------------------- 
+
+Frage : 935
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: carbon
+tatsaechliche Antwort: climate
+    
+    - abductive :496
+        - correctly :171
+
+best Inference: germination ->animal ->  Kollision 
+organism ->animal -> Kollision
+--------------------- 
+
+Frage : 937
+    Iterationen: 10
+    Ermittelte Antwort: 1 Marker-Ursprung: germination
+tatsaechliche Antwort: mitosis
+    
+    - abductive :497
+        - correctly :171
+
+best Inference: acid ->be ->  Kollision 
+difference ->remain -> be -> Kollision
+--------------------- 
+
+Frage : 939
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: acid
+tatsaechliche Antwort: genetic codes
+    
+    - abductive :498
+        - correctly :171
+
+best Inference: consumer ->person ->  Kollision 
+organism ->person -> Kollision
+--------------------- 
+
+Frage : 941
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: consumer
+tatsaechliche Antwort: decomposers
+    
+    - abductive :499
+        - correctly :171
+
+best Inference: calcium ->rock -> water ->  Kollision 
+food ->water -> Kollision
+--------------------- 
+
+Frage : 942
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: calcium
+tatsaechliche Antwort: ph
+    
+    - abductive :500
+        - correctly :171
+
+best Inference: oncogene -> Kollision 
+gene ->oncogene -> Kollision
+--------------------- 
+
+Frage : 943
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: oncogene
+tatsaechliche Antwort: proto-oncogenes
+    
+    - abductive :501
+        - correctly :172
+
+best Inference: toxin ->species -> form ->  Kollision 
+word ->form -> Kollision
+--------------------- 
+
+Frage : 946
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: toxin
+tatsaechliche Antwort: drug
+    
+    - abductive :502
+        - correctly :172
+
+best Inference: oxygen ->element ->  Kollision 
+entry ->element -> Kollision
+--------------------- 
+
+Frage : 947
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: oxygen
+tatsaechliche Antwort: secretin
+    
+    - abductive :503
+        - correctly :172
+
+best Inference: bone ->object -> end ->  Kollision 
+posterior ->end -> Kollision
+--------------------- 
+
+Frage : 949
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: bone
+tatsaechliche Antwort: occipital bone
+    
+    - abductive :504
+        - correctly :173
+
+best Inference: solution ->method -> type -> character ->  Kollision 
+solid ->character -> Kollision
+--------------------- 
+
+Frage : 951
+    Iterationen: 11
+    Ermittelte Antwort: 4 Marker-Ursprung: solution
+tatsaechliche Antwort: saturated solutions
+    
+    - abductive :505
+        - correctly :174
+
+best Inference: wave ->move ->  Kollision 
+intensity ->flow -> move -> Kollision
+--------------------- 
+
+Frage : 953
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: wave
+tatsaechliche Antwort: wave
+    
+    - abductive :506
+        - correctly :175
+
+best Inference: gland ->fluid -> substance ->  Kollision 
+substance ->Kollision
+--------------------- 
+
+Frage : 960
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gland
+tatsaechliche Antwort: sebaceous gland
+    
+    - abductive :507
+        - correctly :176
+
+best Inference: carbon ->paper ->  Kollision 
+type ->paper -> Kollision
+--------------------- 
+
+Frage : 961
+    Iterationen: 13
+    Ermittelte Antwort: 4 Marker-Ursprung: carbon
+tatsaechliche Antwort: acid
+    
+    - abductive :508
+        - correctly :176
+
+best Inference: conductor ->material ->  Kollision 
+material ->Kollision
+--------------------- 
+
+Frage : 962
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: conductor
+tatsaechliche Antwort: thermal conductors
+    
+    - abductive :509
+        - correctly :177
+
+best Inference: sarcolemma -> Kollision 
+membrane ->sarcolemma -> Kollision
+--------------------- 
+
+Frage : 967
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: sarcolemma
+tatsaechliche Antwort: sarcolemma
+    
+    - abductive :510
+        - correctly :178
+
+best Inference: density ->unit ->  Kollision 
+object ->unit -> Kollision
+--------------------- 
+
+Frage : 968
+    Iterationen: 14
+    Ermittelte Antwort: 1 Marker-Ursprung: density
+tatsaechliche Antwort: weight
+    
+    - abductive :511
+        - correctly :178
+
+best Inference: knee ->horse ->  Kollision 
+mammal ->horse -> Kollision
+--------------------- 
+
+Frage : 969
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: knee
+tatsaechliche Antwort: forelimbs
+    
+    - abductive :512
+        - correctly :178
+
+best Inference: state ->variable ->  Kollision 
+symbol ->variable -> Kollision
+--------------------- 
+
+Frage : 970
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: state
+tatsaechliche Antwort: element
+    
+    - abductive :513
+        - correctly :178
+
+best Inference: peptide -> Kollision 
+amide ->peptide -> Kollision
+--------------------- 
+
+Frage : 972
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: peptide
+tatsaechliche Antwort: a peptide bond
+    
+    - abductive :514
+        - correctly :179
+
+best Inference: oxygen ->element ->  Kollision 
+element ->Kollision
+--------------------- 
+
+Frage : 974
+    Iterationen: 6
+    Ermittelte Antwort: 1 Marker-Ursprung: oxygen
+tatsaechliche Antwort: carbon
+    
+    - abductive :515
+        - correctly :179
+
+best Inference: diffusion ->molecule -> material ->  Kollision 
+membrane ->material -> Kollision
+--------------------- 
+
+Frage : 976
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: diffusion
+tatsaechliche Antwort: osmosis
+    
+    - abductive :516
+        - correctly :179
+
+best Inference: regeneration ->scale -> limit -> space ->  Kollision 
+type ->space -> Kollision
+--------------------- 
+
+Frage : 980
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: regeneration
+tatsaechliche Antwort: sexual reproduction
+    
+    - abductive :517
+        - correctly :179
+
+best Inference: tubeworm ->rock -> type -> kind ->  Kollision 
+vent ->jacket -> kind -> Kollision
+--------------------- 
+
+Frage : 981
+    Iterationen: 10
+    Ermittelte Antwort: 3 Marker-Ursprung: tubeworm
+tatsaechliche Antwort: tubeworms
+    
+    - abductive :518
+        - correctly :180
+
+best Inference: neurospora ->fungus ->  Kollision 
+organism ->fungus -> Kollision
+--------------------- 
+
+Frage : 983
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: neurospora
+tatsaechliche Antwort: neurospora
+    
+    - abductive :519
+        - correctly :181
+
+best Inference: fan ->device ->  Kollision 
+motor ->device -> Kollision
+--------------------- 
+
+Frage : 986
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: fan
+tatsaechliche Antwort: electromagnets
+    
+    - abductive :520
+        - correctly :181
+
+best Inference: bacterium ->microorganism ->  Kollision 
+protist ->microorganism -> Kollision
+--------------------- 
+
+Frage : 988
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: bacterium
+tatsaechliche Antwort: algae
+    
+    - abductive :521
+        - correctly :181
+
+best Inference: mucus ->secretion ->  Kollision 
+secretion ->Kollision
+--------------------- 
+
+Frage : 989
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: mucus
+tatsaechliche Antwort: mucus
+    
+    - abductive :522
+        - correctly :182
+
+best Inference: hydrogen -> Kollision 
+gas ->hydrogen -> Kollision
+--------------------- 
+
+Frage : 991
+    Iterationen: 8
+    Ermittelte Antwort: 4 Marker-Ursprung: hydrogen
+tatsaechliche Antwort: carbon dioxide
+    
+    - abductive :523
+        - correctly :182
+
+best Inference: energy ->system -> group ->  Kollision 
+type ->group -> Kollision
+--------------------- 
+
+Frage : 993
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: energy
+tatsaechliche Antwort: geothermal energy
+    
+    - abductive :524
+        - correctly :183
+
+best Inference: xylem ->distribution -> type -> kind ->  Kollision 
+kind ->Kollision
+--------------------- 
+
+Frage : 996
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: xylem
+tatsaechliche Antwort: eukaryotic
+    
+    - abductive :525
+        - correctly :183
+
+best Inference: kidney -> Kollision 
+organ ->kidney -> Kollision
+--------------------- 
+
+Frage : 1006
+    Iterationen: 11
+    Ermittelte Antwort: 1 Marker-Ursprung: kidney
+tatsaechliche Antwort: liver
+    
+    - abductive :526
+        - correctly :183
+
+best Inference: diabetes ->person ->  Kollision 
+mutation ->organism -> person -> Kollision
+--------------------- 
+
+Frage : 1008
+    Iterationen: 12
+    Ermittelte Antwort: 1 Marker-Ursprung: diabetes
+tatsaechliche Antwort: cancer
+    
+    - abductive :527
+        - correctly :183
+
+best Inference: tumor ->serve -> person ->  Kollision 
+transplant ->organism -> person -> Kollision
+--------------------- 
+
+Frage : 1010
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: tumor
+tatsaechliche Antwort: lymphocytes
+    
+    - abductive :528
+        - correctly :183
+
+best Inference: nucleus ->set ->  Kollision 
+term ->set -> Kollision
+--------------------- 
+
+Frage : 1014
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: nucleus
+tatsaechliche Antwort: molecule
+    
+    - abductive :529
+        - correctly :183
+
+best Inference: fuel ->biomass ->  Kollision 
+biomass ->fuel -> biomass -> Kollision
+--------------------- 
+
+Frage : 1015
+    Iterationen: 14
+    Ermittelte Antwort: 4 Marker-Ursprung: fuel
+tatsaechliche Antwort: bio fuel
+    
+    - abductive :530
+        - correctly :184
+
+best Inference: xerophyte ->spine -> part ->  Kollision 
+type ->part -> Kollision
+--------------------- 
+
+Frage : 1016
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: xerophyte
+tatsaechliche Antwort: pāhoehoe
+    
+    - abductive :531
+        - correctly :184
+
+best Inference: nucleus ->structure ->  Kollision 
+structure ->Kollision
+--------------------- 
+
+Frage : 1017
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: nucleus
+tatsaechliche Antwort: nucleus
+    
+    - abductive :532
+        - correctly :185
+
+best Inference: erosion ->skin -> life ->  Kollision 
+farming ->life -> Kollision
+--------------------- 
+
+Frage : 1020
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: erosion
+tatsaechliche Antwort: soil erosion
+    
+    - abductive :533
+        - correctly :186
+
+best Inference: hydrogen -> Kollision 
+gas ->hydrogen -> Kollision
+--------------------- 
+
+Frage : 1023
+    Iterationen: 12
+    Ermittelte Antwort: 2 Marker-Ursprung: hydrogen
+tatsaechliche Antwort: water and oxygen
+    
+    - abductive :534
+        - correctly :186
+
+best Inference: clutch ->car -> reverse -> make -> type -> kind ->  Kollision 
+kind ->Kollision
+--------------------- 
+
+Frage : 1024
+    Iterationen: 13
+    Ermittelte Antwort: 1 Marker-Ursprung: clutch
+tatsaechliche Antwort: micropipettes
+    
+    - abductive :535
+        - correctly :186
+
+best Inference: volume -> Kollision 
+measure ->volume -> Kollision
+--------------------- 
+
+Frage : 1025
+    Iterationen: 10
+    Ermittelte Antwort: 2 Marker-Ursprung: volume
+tatsaechliche Antwort: weight
+    
+    - abductive :536
+        - correctly :186
+
+best Inference: water -> Kollision 
+absorption ->nutrient -> water -> Kollision
+--------------------- 
+
+Frage : 1027
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: water
+tatsaechliche Antwort: liquid water
+    
+    - abductive :537
+        - correctly :187
+
+best Inference: organism ->fungus -> mold ->  Kollision 
+fungus ->mold -> Kollision
+--------------------- 
+
+Frage : 1028
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: organism
+tatsaechliche Antwort: organic compounds from other organisms
+    
+    - abductive :538
+        - correctly :188
+
+best Inference: centimeter ->metric_linear_unit ->  Kollision 
+m ->metric_linear_unit -> Kollision
+--------------------- 
+
+Frage : 1029
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: centimeter
+tatsaechliche Antwort: hertz
+    
+    - abductive :539
+        - correctly :188
+
+best Inference: uterus ->organ ->  Kollision 
+yolk ->serve -> wind -> organ -> Kollision
+--------------------- 
+
+Frage : 1030
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: uterus
+tatsaechliche Antwort: placenta
+    
+    - abductive :540
+        - correctly :188
+
+best Inference: stimulation ->activity ->  Kollision 
+process ->activity -> Kollision
+--------------------- 
+
+Frage : 1033
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: stimulation
+tatsaechliche Antwort: fertilization
+    
+    - abductive :541
+        - correctly :188
+
+best Inference: supination ->turn ->  Kollision 
+motion ->turn -> Kollision
+--------------------- 
+
+Frage : 1034
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: supination
+tatsaechliche Antwort: pronation
+    
+    - abductive :542
+        - correctly :188
+
+best Inference: disaccharide -> Kollision 
+carbohydrate ->disaccharide -> Kollision
+--------------------- 
+
+Frage : 1037
+    Iterationen: 14
+    Ermittelte Antwort: 2 Marker-Ursprung: disaccharide
+tatsaechliche Antwort: disaccharide
+    
+    - abductive :543
+        - correctly :189
+
+best Inference: gene ->carry ->  Kollision 
+regulator ->maintain -> carry -> Kollision
+--------------------- 
+
+Frage : 1039
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gene
+tatsaechliche Antwort: proto-oncogenes
+    
+    - abductive :544
+        - correctly :190
+
+best Inference: stomach -> Kollision 
+organ ->stomach -> Kollision
+--------------------- 
+
+Frage : 1046
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: stomach
+tatsaechliche Antwort: heart
+    
+    - abductive :545
+        - correctly :190
+
+best Inference: system ->structure ->  Kollision 
+thermoregulation ->organism -> structure -> Kollision
+--------------------- 
+
+Frage : 1049
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: system
+tatsaechliche Antwort: integumentary system
+    
+    - abductive :546
+        - correctly :191
+
+best Inference: phloem ->primarily -> nature ->  Kollision 
+type ->nature -> Kollision
+--------------------- 
+
+Frage : 1050
+    Iterationen: 11
+    Ermittelte Antwort: 3 Marker-Ursprung: phloem
+tatsaechliche Antwort: xylem
+    
+    - abductive :547
+        - correctly :191
+
+best Inference: liquid -> Kollision 
+state ->liquid -> Kollision
+--------------------- 
+
+Frage : 1052
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: liquid
+tatsaechliche Antwort: liquid
+    
+    - abductive :548
+        - correctly :192
+
+best Inference: theory ->behavior -> manner ->  Kollision 
+behavior ->manner -> Kollision
+--------------------- 
+
+Frage : 1055
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: theory
+tatsaechliche Antwort: kinetic theory of gases
+    
+    - abductive :549
+        - correctly :193
+
+best Inference: aorta -> Kollision 
+artery ->aorta -> Kollision
+--------------------- 
+
+Frage : 1057
+    Iterationen: 12
+    Ermittelte Antwort: 2 Marker-Ursprung: aorta
+tatsaechliche Antwort: aorta
+    
+    - abductive :550
+        - correctly :194
+
+best Inference: change ->thing ->  Kollision 
+type ->thing -> Kollision
+--------------------- 
+
+Frage : 1058
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: change
+tatsaechliche Antwort: chemical change
+    
+    - abductive :551
+        - correctly :195
+
+best Inference: sperm ->gamete ->  Kollision 
+fertilization ->gamete -> Kollision
+--------------------- 
+
+Frage : 1060
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: sperm
+tatsaechliche Antwort: sperm and an egg fuse
+    
+    - abductive :552
+        - correctly :196
+
+best Inference: rock ->material ->  Kollision 
+core ->material -> Kollision
+--------------------- 
+
+Frage : 1065
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: rock
+tatsaechliche Antwort: liquid metal
+    
+    - abductive :553
+        - correctly :196
+
+best Inference: manometer ->use -> take ->  Kollision 
+sample ->take -> Kollision
+--------------------- 
+
+Frage : 1068
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: manometer
+tatsaechliche Antwort: manometer
+    
+    - abductive :554
+        - correctly :197
+
+best Inference: ocean ->space ->  Kollision 
+habitat ->type -> space -> Kollision
+--------------------- 
+
+Frage : 1069
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: ocean
+tatsaechliche Antwort: wetland
+    
+    - abductive :555
+        - correctly :197
+
+best Inference: radius ->part ->  Kollision 
+part ->Kollision
+--------------------- 
+
+Frage : 1070
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: radius
+tatsaechliche Antwort: axis
+    
+    - abductive :556
+        - correctly :197
+
+best Inference: methane ->gas ->  Kollision 
+energy ->system -> organ -> wind -> gas -> Kollision
+--------------------- 
+
+Frage : 1073
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: methane
+tatsaechliche Antwort: nuclear reactions
+    
+    - abductive :557
+        - correctly :197
+
+best Inference: seed ->cover -> include ->  Kollision 
+lawn ->cover -> include -> Kollision
+--------------------- 
+
+Frage : 1078
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: seed
+tatsaechliche Antwort: chemicals
+    
+    - abductive :558
+        - correctly :197
+
+best Inference: adaptation ->make -> do ->  Kollision 
+characteristic ->do -> Kollision
+--------------------- 
+
+Frage : 1082
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: adaptation
+tatsaechliche Antwort: adaptations
+    
+    - abductive :559
+        - correctly :198
+
+best Inference: space -> Kollision 
+type ->space -> Kollision
+--------------------- 
+
+Frage : 1084
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: space
+tatsaechliche Antwort: thermal pollution
+    
+    - abductive :560
+        - correctly :198
+
+best Inference: absorption ->nutrient -> substance ->  Kollision 
+vapor ->substance -> Kollision
+--------------------- 
+
+Frage : 1086
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: absorption
+tatsaechliche Antwort: evaporation
+    
+    - abductive :561
+        - correctly :198
+
+best Inference: interferon ->cell -> living_thing ->  Kollision 
+cell ->living_thing -> Kollision
+--------------------- 
+
+Frage : 1088
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: interferon
+tatsaechliche Antwort: interferons
+    
+    - abductive :562
+        - correctly :199
+
+best Inference: mutation -> Kollision 
+organism ->mutation -> Kollision
+--------------------- 
+
+Frage : 1089
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: mutation
+tatsaechliche Antwort: mutations
+    
+    - abductive :563
+        - correctly :200
+
+best Inference: pinwheel ->flower -> type -> character ->  Kollision 
+type ->character -> Kollision
+--------------------- 
+
+Frage : 1091
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: pinwheel
+tatsaechliche Antwort: spiral galaxies
+    
+    - abductive :564
+        - correctly :200
+
+best Inference: fermentation ->carbon -> paper ->  Kollision 
+carbon ->paper -> Kollision
+--------------------- 
+
+Frage : 1092
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: fermentation
+tatsaechliche Antwort: exhalation
+    
+    - abductive :565
+        - correctly :200
+
+best Inference: selection -> Kollision 
+population ->most -> action -> selection -> Kollision
+--------------------- 
+
+Frage : 1093
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: selection
+tatsaechliche Antwort: natural selection
+    
+    - abductive :566
+        - correctly :201
+
+best Inference: community -> Kollision 
+group ->community -> Kollision
+--------------------- 
+
+Frage : 1094
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: community
+tatsaechliche Antwort: ecosystem
+    
+    - abductive :567
+        - correctly :201
+
+best Inference: hair ->process ->  Kollision 
+beetle ->process -> Kollision
+--------------------- 
+
+Frage : 1095
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: hair
+tatsaechliche Antwort: their external skeleton
+    
+    - abductive :568
+        - correctly :201
+
+best Inference: stranger ->individual ->  Kollision 
+individual ->Kollision
+--------------------- 
+
+Frage : 1096
+    Iterationen: 10
+    Ermittelte Antwort: 2 Marker-Ursprung: stranger
+tatsaechliche Antwort: kin selection
+    
+    - abductive :569
+        - correctly :201
+
+best Inference: field -> Kollision 
+earth ->field -> Kollision
+--------------------- 
+
+Frage : 1100
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: field
+tatsaechliche Antwort: magnetic
+    
+    - abductive :570
+        - correctly :201
+
+best Inference: archive ->type -> person ->  Kollision 
+organism ->person -> Kollision
+--------------------- 
+
+Frage : 1102
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: archive
+tatsaechliche Antwort: fossils
+    
+    - abductive :571
+        - correctly :201
+
+best Inference: greenhouse ->but -> case ->  Kollision 
+type ->case -> Kollision
+--------------------- 
+
+Frage : 1103
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: greenhouse
+tatsaechliche Antwort: greenhouse gases
+    
+    - abductive :572
+        - correctly :202
+
+best Inference: carbon ->chemical_element ->  Kollision 
+oxygen ->chemical_element -> Kollision
+--------------------- 
+
+Frage : 1104
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: carbon
+tatsaechliche Antwort: carbon
+    
+    - abductive :573
+        - correctly :203
+
+best Inference: alveolus -> Kollision 
+sac ->alveolus -> Kollision
+--------------------- 
+
+Frage : 1108
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: alveolus
+tatsaechliche Antwort: alveoli
+    
+    - abductive :574
+        - correctly :203
+
+best Inference: oxygen ->number ->  Kollision 
+fish ->scale -> limit -> number -> Kollision
+--------------------- 
+
+Frage : 1109
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: oxygen
+tatsaechliche Antwort: oxygen
+    
+    - abductive :575
+        - correctly :204
+
+best Inference: adolescence ->period -> geological_time ->  Kollision 
+phase ->period -> geological_time -> Kollision
+--------------------- 
+
+Frage : 1110
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: adolescence
+tatsaechliche Antwort: adulthood
+    
+    - abductive :576
+        - correctly :204
+
+best Inference: ventricle -> Kollision 
+chamber ->ventricle -> Kollision
+--------------------- 
+
+Frage : 1113
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: ventricle
+tatsaechliche Antwort: ventricles
+    
+    - abductive :577
+        - correctly :205
+
+best Inference: adolescence ->time ->  Kollision 
+term ->time -> Kollision
+--------------------- 
+
+Frage : 1114
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: adolescence
+tatsaechliche Antwort: menopause
+    
+    - abductive :578
+        - correctly :205
+
+best Inference: oxygen ->gas ->  Kollision 
+gas ->Kollision
+--------------------- 
+
+Frage : 1120
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: oxygen
+tatsaechliche Antwort: carbon dioxide
+    
+    - abductive :579
+        - correctly :205
+
+best Inference: biodegradation ->decomposition ->  Kollision 
+oil ->carbon -> chemical -> reaction -> decomposition -> Kollision
+--------------------- 
+
+Frage : 1122
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: biodegradation
+tatsaechliche Antwort: bioremediation
+    
+    - abductive :580
+        - correctly :205
+
+best Inference: variation -> Kollision 
+process ->variation -> Kollision
+--------------------- 
+
+Frage : 1123
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: variation
+tatsaechliche Antwort: reproduction
+    
+    - abductive :581
+        - correctly :205
+
+best Inference: rock ->type -> block ->  Kollision 
+block ->Kollision
+--------------------- 
+
+Frage : 1124
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: rock
+tatsaechliche Antwort: amino acids
+    
+    - abductive :582
+        - correctly :205
+
+best Inference: reaction ->response ->  Kollision 
+nociceptor ->response -> Kollision
+--------------------- 
+
+Frage : 1127
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: reaction
+tatsaechliche Antwort: pain
+    
+    - abductive :583
+        - correctly :205
+
+best Inference: permeability ->water ->  Kollision 
+surface ->liquid -> water -> Kollision
+--------------------- 
+
+Frage : 1128
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: permeability
+tatsaechliche Antwort: depolarization
+    
+    - abductive :584
+        - correctly :205
+
+best Inference: gnetophyte ->gymnosperm -> seed_plant ->  Kollision 
+angiosperm ->seed_plant -> Kollision
+--------------------- 
+
+Frage : 1129
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: gnetophyte
+tatsaechliche Antwort: gnetophytes
+    
+    - abductive :585
+        - correctly :206
+
+best Inference: template ->make -> type -> character ->  Kollision 
+term ->character -> Kollision
+--------------------- 
+
+Frage : 1131
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: template
+tatsaechliche Antwort: polysaccharides
+    
+    - abductive :586
+        - correctly :206
+
+best Inference: tuberculosis -> Kollision 
+disease ->tuberculosis -> Kollision
+--------------------- 
+
+Frage : 1133
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: tuberculosis
+tatsaechliche Antwort: osteoporosis
+    
+    - abductive :587
+        - correctly :206
+
+best Inference: catalyst ->cause ->  Kollision 
+speed ->cause -> Kollision
+--------------------- 
+
+Frage : 1134
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: catalyst
+tatsaechliche Antwort: digestive enzymes
+    
+    - abductive :588
+        - correctly :206
+
+best Inference: gas -> Kollision 
+core ->access -> attack -> gas -> Kollision
+--------------------- 
+
+Frage : 1142
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: gas
+tatsaechliche Antwort: liquid metal
+    
+    - abductive :589
+        - correctly :206
+
+best Inference: diversity ->type -> end ->  Kollision 
+surface ->end -> Kollision
+--------------------- 
+
+Frage : 1143
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: diversity
+tatsaechliche Antwort: landforms
+    
+    - abductive :590
+        - correctly :206
+
+best Inference: mt ->state -> make -> type -> form ->  Kollision 
+eruption ->form -> Kollision
+--------------------- 
+
+Frage : 1145
+    Iterationen: 5
+    Ermittelte Antwort: 4 Marker-Ursprung: mt
+tatsaechliche Antwort: mt  stromboli
+    
+    - abductive :591
+        - correctly :207
+
+best Inference: stem ->flower ->  Kollision 
+plant ->flower -> Kollision
+--------------------- 
+
+Frage : 1146
+    Iterationen: 13
+    Ermittelte Antwort: 2 Marker-Ursprung: stem
+tatsaechliche Antwort: roots
+    
+    - abductive :592
+        - correctly :207
+
+best Inference: tundra ->and -> use -> employ ->  Kollision 
+ice ->state -> employ -> Kollision
+--------------------- 
+
+Frage : 1147
+    Iterationen: 14
+    Ermittelte Antwort: 3 Marker-Ursprung: tundra
+tatsaechliche Antwort: antarctica
+    
+    - abductive :593
+        - correctly :207
+
+best Inference: sperm -> Kollision 
+gamete ->sperm -> Kollision
+--------------------- 
+
+Frage : 1150
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: sperm
+tatsaechliche Antwort: sperm
+    
+    - abductive :594
+        - correctly :208
+
+best Inference: limestone -> Kollision 
+rock ->limestone -> Kollision
+--------------------- 
+
+Frage : 1151
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: limestone
+tatsaechliche Antwort: sedimentary
+    
+    - abductive :595
+        - correctly :208
+
+best Inference: pesticide ->chemical ->  Kollision 
+chemical ->Kollision
+--------------------- 
+
+Frage : 1152
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: pesticide
+tatsaechliche Antwort: hormones
+    
+    - abductive :596
+        - correctly :208
+
+best Inference: saliva ->dribble ->  Kollision 
+trap ->flow -> dribble -> Kollision
+--------------------- 
+
+Frage : 1153
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: saliva
+tatsaechliche Antwort: mucus and hair
+    
+    - abductive :597
+        - correctly :208
+
+best Inference: microscope ->image ->  Kollision 
+piece ->make -> effect -> image -> Kollision
+--------------------- 
+
+Frage : 1162
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: microscope
+tatsaechliche Antwort: night goggles
+    
+    - abductive :598
+        - correctly :208
+
+best Inference: microbe ->microorganism ->  Kollision 
+sponge ->skeleton -> animal -> organism -> microorganism -> Kollision
+--------------------- 
+
+Frage : 1165
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: microbe
+tatsaechliche Antwort: symbiotic
+    
+    - abductive :599
+        - correctly :208
+
+best Inference: conductor ->electricity -> flow -> rate -> charge ->  Kollision 
+charge ->Kollision
+--------------------- 
+
+Frage : 1166
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: conductor
+tatsaechliche Antwort: conductor
+    
+    - abductive :600
+        - correctly :209
+
+best Inference: carbon ->substance -> matter ->  Kollision 
+rain ->matter -> Kollision
+--------------------- 
+
+Frage : 1170
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: carbon
+tatsaechliche Antwort: nitrogen and sulfur oxides
+    
+    - abductive :601
+        - correctly :209

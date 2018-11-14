@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="929" name="Friend" origNum="#890." class="8" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="friend">
+			<sg number="1">
+				<word number="1">friend</word>
+				<word number="2">friend of one's bosom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alter ego</word>
+			</sg>
+			<sg number="3">
+				<word number="1">best friend</word>
+				<word number="2">bosom friend</word>
+				<word number="3">soulmate</word>
+				<word number="4">fast friend</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amicus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">usque ad aras</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fidus Achates</word>
+			</sg>
+			<sg number="7">
+				<word number="1">persona grata</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acquaintance">
+			<sg number="1">
+				<word number="1">acquaintance</word>
+				<word number="2">neighbor</word>
+				<word number="3">next-door neighbor</word>
+				<word number="4">casual acquaintance</word>
+				<word number="5">nodding acquaintance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wellwisher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="favorer">
+			<sg number="1">
+				<word number="1">favorer</word>
+				<word number="2">fautor</word>
+				<word number="3">patron</word>
+				<word number="4">Mecaenas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tutelary saint</word>
+				<word number="2">good genius</word>
+				<word number="3">advocate</word>
+				<word number="4">partisan</word>
+				<word number="5">sympathizer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ally</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="auxiliary" headRef="740">friend in need</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="comrade">
+			<sg number="1">
+				<word number="1">comrade</word>
+				<word number="2">mate</word>
+				<word number="3">companion</word>
+				<word number="4">familiar</word>
+				<word number="5">confrere</word>
+				<word number="6">comrade</word>
+				<word number="7">camarade</word>
+				<word number="8">confidante</word>
+				<word number="9">intimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">old crony</word>
+				<word number="2">crony</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">buddy</word>
+				<word number="2">bosom buddy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">playfellow</word>
+				<word number="2">playmate</word>
+				<word number="3">childhood friend</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bedfellow</word>
+				<word number="2">bedmate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chamber fellow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="associate">
+			<sg number="1">
+				<word number="1">associate</word>
+				<word number="2">colleague</word>
+				<word number="3">compeer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="schoolmate">
+			<sg number="1">
+				<word number="1">schoolmate</word>
+				<word number="2">schoolfellow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">classfellow</word>
+				<word number="2">classman</word>
+				<word number="3">classmate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">roommate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fellow-man</word>
+				<word number="2">stable companion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="best man">
+			<sg number="1">
+				<word number="1">best man</word>
+				<word number="2">maid of honor</word>
+				<word number="3">matron of honor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="compatriot">
+			<sg number="1">
+				<word number="1">compatriot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fellow countryman</word>
+				<word number="2">countryman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="shopmate">
+			<sg number="1">
+				<word number="1">shopmate</word>
+				<word number="2">fellow-worker</word>
+				<word number="3">shipmate</word>
+				<word number="4">messmate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fellow companion</word>
+				<word number="2">boon companion</word>
+				<word number="3">pot companion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">copartner</word>
+				<word number="2">partner</word>
+				<word number="3">senior partner</word>
+				<word number="4">junior partner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="Arcades ambo Pylades and Orestes Castor and Pollux">
+			<sg number="1">
+				<word number="1">Arcades ambo Pylades and Orestes Castor and Pollux</word>
+				<word number="2">Nisus and Euryalus</word>
+				<word number="3">Damon and Pythias</word>
+				<word number="4">par nobile fratrum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="host">
+			<sg number="1">
+				<word number="1">host</word>
+				<word number="2">Amphitryon</word>
+				<word number="3">Boniface</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guest</word>
+				<word number="2">visitor</word>
+				<word number="3">protég</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="collaborator">
+			<sg number="1">
+				<word number="1" new="1">collaborator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="coworker">
+			<sg number="1">
+				<word number="1" new="1">coworker</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="amici probantur rebus adversis">
+			<sg number="1">
+				<word number="1">amici probantur rebus adversis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ohne bruder kann man leben nicht ohne Freund</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"best friend</word>
+				<word number="2">my well-spring in the wilderness"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conocidos muchos amigos pocos</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"friend more divine than all divinities"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vida sin amigo muerte sin testigo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

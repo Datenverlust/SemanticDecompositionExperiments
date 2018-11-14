@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1035" name="Idolatry" origNum="#991." class="8" section="5" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="idolatry">
+			<sg number="1">
+				<word number="1">idolatry</word>
+				<word number="2">idolism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demonism</word>
+				<word number="2">demonolatry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">idol-worship</word>
+				<word number="2">demon-worship</word>
+				<word number="3">devil-worship</word>
+				<word number="4">fire- worship</word>
+			</sg>
+			<sg number="4">
+				<word number="1">zoolatry</word>
+				<word number="2">fetishism</word>
+				<word number="3">fetichism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ecclesiolatry</word>
+				<word number="2">heliolatry</word>
+				<word number="3">Mariolatry</word>
+				<word number="4">Bibliolatry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deification">
+			<sg number="1">
+				<word number="1">deification</word>
+				<word number="2">apotheosis</word>
+				<word number="3">canonization</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hero worship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sacrifices">
+			<sg number="1">
+				<word number="1">sacrifices</word>
+				<word number="2">hecatomb</word>
+				<word number="3">holocaust</word>
+			</sg>
+			<sg number="2">
+				<word number="1">human sacrifices</word>
+				<word number="2">immolation</word>
+				<word number="3">mactation</word>
+				<word number="4">infanticide</word>
+				<word number="5">self-immolation</word>
+				<word number="6">suttee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="idol">
+			<sg number="1">
+				<word number="1">idol</word>
+				<word number="2">golden calf</word>
+				<word number="3">graven image</word>
+				<word number="4">fetich</word>
+				<word number="5">avatar</word>
+				<word number="6">Juggernath</word>
+				<word number="7">lares et penates</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="Baal" headRef="1030">Baal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="worship idols">
+			<sg number="1">
+				<word number="1">worship idols</word>
+				<word number="2">worship pictures</word>
+				<word number="3">worship relics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deify</word>
+				<word number="2">canonize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="idolatrous">
+			<sg number="1">
+				<word number="1">idolatrous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="adorer le veau d'or">
+			<sg number="1">
+				<word number="1">adorer le veau d'or</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

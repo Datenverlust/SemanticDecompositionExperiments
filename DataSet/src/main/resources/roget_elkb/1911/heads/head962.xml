@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="962" name="Envy" origNum="#921." class="8" section="3" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="envy">
+			<sg number="1">
+				<word number="1">envy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">enviousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rivalry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jalousie de milier</word>
+			</sg>
+			<sg number="5">
+				<word number="1">illwill</word>
+				<word number="2">spite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="envy">
+			<sg number="1">
+				<word number="1">envy</word>
+				<word number="2">covet</word>
+				<word number="3">burst with envy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="envious">
+			<sg number="1">
+				<word number="1">envious</word>
+				<word number="2">invidious</word>
+				<word number="3">covetous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alieni appetens</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="base envy withers at another's joy">
+			<sg number="1">
+				<word number="1">"base envy withers at another's joy"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caeca invidia est</word>
+			</sg>
+			<sg number="3">
+				<word number="1">multa petentibus desunt multa</word>
+			</sg>
+			<sg number="4">
+				<word number="1">summa petit livor</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

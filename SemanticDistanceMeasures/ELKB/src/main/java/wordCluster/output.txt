@@ -1,0 +1,127 @@
+*** tritium ***
+tritium - plutonium, 16, high similarity
+tritium - nuclear, 6, low similarity
+tritium - radioactive, 16, high similarity
+tritium - radon, 16, high similarity
+tritium - uranium, 16, high similarity
+tritium - smuggle, 0, low similarity
+tritium - shipment, 0, low similarity
+tritium - fissile, 2, low similarity
+tritium - sure, 0, low similarity
+
+*** plutonium ***
+plutonium - tritium, 16, high similarity
+plutonium - nuclear, 6, low similarity
+plutonium - radioactive, 16, high similarity
+plutonium - radon, 16, high similarity
+plutonium - uranium, 16, high similarity
+plutonium - smuggle, 0, low similarity
+plutonium - shipment, 0, low similarity
+plutonium - fissile, 2, low similarity
+plutonium - sure, 0, low similarity
+
+*** nuclear ***
+nuclear - tritium, 6, low similarity
+nuclear - plutonium, 6, low similarity
+nuclear - radioactive, 6, low similarity
+nuclear - radon, 6, low similarity
+nuclear - uranium, 6, low similarity
+nuclear - smuggle, 2, low similarity
+nuclear - shipment, 6, low similarity
+nuclear - fissile, 2, low similarity
+nuclear - sure, 2, low similarity
+
+*** radioactive ***
+radioactive - tritium, 16, high similarity
+radioactive - plutonium, 16, high similarity
+radioactive - nuclear, 6, low similarity
+radioactive - radon, 16, high similarity
+radioactive - uranium, 16, high similarity
+radioactive - smuggle, 0, low similarity
+radioactive - shipment, 0, low similarity
+radioactive - fissile, 2, low similarity
+radioactive - sure, 2, low similarity
+
+*** radon ***
+radon - tritium, 16, high similarity
+radon - plutonium, 16, high similarity
+radon - nuclear, 6, low similarity
+radon - radioactive, 16, high similarity
+radon - uranium, 16, high similarity
+radon - smuggle, 0, low similarity
+radon - shipment, 0, low similarity
+radon - fissile, 2, low similarity
+radon - sure, 0, low similarity
+
+*** uranium ***
+uranium - tritium, 16, high similarity
+uranium - plutonium, 16, high similarity
+uranium - nuclear, 6, low similarity
+uranium - radioactive, 16, high similarity
+uranium - radon, 16, high similarity
+uranium - smuggle, 0, low similarity
+uranium - shipment, 0, low similarity
+uranium - fissile, 2, low similarity
+uranium - sure, 0, low similarity
+
+*** smuggle ***
+smuggle - tritium, 0, low similarity
+smuggle - plutonium, 0, low similarity
+smuggle - nuclear, 2, low similarity
+smuggle - radioactive, 0, low similarity
+smuggle - radon, 0, low similarity
+smuggle - uranium, 0, low similarity
+smuggle - shipment, 2, low similarity
+smuggle - fissile, 0, low similarity
+smuggle - sure, 6, low similarity
+
+*** shipment ***
+shipment - tritium, 0, low similarity
+shipment - plutonium, 0, low similarity
+shipment - nuclear, 6, low similarity
+shipment - radioactive, 0, low similarity
+shipment - radon, 0, low similarity
+shipment - uranium, 0, low similarity
+shipment - smuggle, 2, low similarity
+shipment - fissile, 0, low similarity
+shipment - sure, 0, low similarity
+
+*** fissile ***
+fissile - tritium, 2, low similarity
+fissile - plutonium, 2, low similarity
+fissile - nuclear, 2, low similarity
+fissile - radioactive, 2, low similarity
+fissile - radon, 2, low similarity
+fissile - uranium, 2, low similarity
+fissile - smuggle, 0, low similarity
+fissile - shipment, 0, low similarity
+fissile - sure, 0, low similarity
+
+*** sure ***
+sure - tritium, 0, low similarity
+sure - plutonium, 0, low similarity
+sure - nuclear, 2, low similarity
+sure - radioactive, 2, low similarity
+sure - radon, 0, low similarity
+sure - uranium, 0, low similarity
+sure - smuggle, 6, low similarity
+sure - shipment, 0, low similarity
+sure - fissile, 0, low similarity
+
+Possible Roget's Thesaurus clusters:
+------------------------------------
+Head: 397 Calefaction
+[tritium, plutonium, radioactive, radon, uranium]
+
+The 10 largest clusters:
+------------------------
+Head: 397 Calefaction
+[tritium, plutonium, radioactive, radon, uranium]
+
+Words and phrases not in clusters:
+----------------------------------
+[tritium, plutonium, nuclear, radioactive, radon, uranium, smuggle, shipment, fissile, sure]
+
+Words and phrases not in Roget's Thesaurus (20/30): 
+--------------------------------------------------
+[deuterium, lithium, thorium, nuclear material, radioactive material, radioactive substance, undine uta bloch von blottnitz, nuala ahern, mox, illegal traffic, iaea, trisaia, reprocess, mamère, dessel, alex smith, sellafield, illicit traffic, nuclear weapon, familiarisation]

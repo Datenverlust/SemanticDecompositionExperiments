@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="995" name="Temperance" origNum="#953." class="8" section="4" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="temperance">
+			<sg number="1">
+				<word number="1">temperance</word>
+				<word number="2">moderation</word>
+				<word number="3">sobriety</word>
+				<word number="4">soberness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="forbearance">
+			<sg number="1">
+				<word number="1">forbearance</word>
+				<word number="2">abnegation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">self-denial</word>
+				<word number="2">self-restraint</word>
+				<word number="3" paraRef="resolution" headRef="630">self-control</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="frugality">
+			<sg number="1">
+				<word number="1">frugality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vegetarianism</word>
+				<word number="2">teetotalism</word>
+				<word number="3">total abstinence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abstinence</word>
+				<word number="2">abstemiousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Encratism</word>
+				<word number="2">prohibition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">system of Pythagoras</word>
+				<word number="2">system of Cornaro</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Pythagorism</word>
+				<word number="2">Stoicism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="vegetarian">
+			<sg number="1">
+				<word number="1">vegetarian</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Pythagorean</word>
+				<word number="2">gymnosophist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="teetotaler">
+			<sg number="1">
+				<word number="1" paraRef="teetotaler" headRef="1001">teetotaler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abstainer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">designated driver</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Encratite</word>
+				<word number="2">fruitarian</word>
+				<word number="3">hydropot!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be temperate">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be temperate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abstain</word>
+				<word number="2">forbear</word>
+				<word number="3">refrain</word>
+				<word number="4">deny oneself</word>
+				<word number="5">spare</word>
+				<word number="6">swear off</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="know when one has had enough">
+			<sg number="1">
+				<word number="1">know when one has had enough</word>
+				<word number="2">know one's limit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="take the pledge">
+			<sg number="1">
+				<word number="1">take the pledge</word>
+				<word number="2">go on the wagon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="temperate">
+			<sg number="1">
+				<word number="1">temperate</word>
+				<word number="2">moderate</word>
+				<word number="3">sober</word>
+				<word number="4">frugal</word>
+				<word number="5">sparing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abstemious</word>
+				<word number="2">abstinent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">within compass</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sufficient" headRef="668">measured</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="on the wagon">
+			<sg number="1">
+				<word number="1">on the wagon</word>
+				<word number="2">on the water wagon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dry">
+			<sg number="1">
+				<word number="1">dry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Pythagorean">
+			<sg number="1">
+				<word number="1">Pythagorean</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vegetarian</word>
+			</sg>
+			<sg number="3">
+				<word number="1">teetotal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="appetitus rationi obediant">
+			<sg number="1">
+				<word number="1">appetitus rationi obediant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">l'abstenir pour jouir c'est l'epicurisme de la raison</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trahit sua quemque voluptas</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

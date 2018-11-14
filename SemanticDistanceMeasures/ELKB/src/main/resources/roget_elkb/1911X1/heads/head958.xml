@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="958" name="Ingratitude" origNum="#917." class="8" section="3" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ingratitude">
+			<sg number="1">
+				<word number="1">ingratitude</word>
+				<word number="2">thanklessness</word>
+				<word number="3">oblivion of benefits</word>
+				<word number="4">unthankfulness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="benefits forgot">
+			<sg number="1">
+				<word number="1">"benefits forgot"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thankless task</word>
+				<word number="2">thankless office</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be ungrateful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be ungrateful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forget benefits</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look a gift horse in the mouth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ungrateful">
+			<sg number="1">
+				<word number="1">ungrateful</word>
+				<word number="2">unmindful</word>
+				<word number="3">unthankful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thankless</word>
+				<word number="2">ingrate</word>
+				<word number="3">wanting in gratitude</word>
+				<word number="4">insensible of benefits</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="forgotten">
+			<sg number="1">
+				<word number="1">forgotten</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unacknowledged</word>
+				<word number="2">unthanked</word>
+				<word number="3">unrequited</word>
+				<word number="4">unrewarded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill-requited</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="thank you for nothing">
+			<sg number="1">
+				<word number="1">thank you for nothing!</word>
+				<word number="2">thanks for nothing!</word>
+				<word number="3">"et tu Brute!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ingratitude">
+			<sg number="1">
+				<word number="1">"ingratitude!</word>
+				<word number="2">thou marble-hearted fiend"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

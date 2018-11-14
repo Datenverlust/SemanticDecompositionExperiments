@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="577" name="Record" origNum="#551." class="5" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="trace">
+			<sg number="1">
+				<word number="1">trace</word>
+				<word number="2">vestige</word>
+				<word number="3">relic</word>
+				<word number="4">remains</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scar</word>
+				<word number="2">cicatrix</word>
+			</sg>
+			<sg number="3">
+				<word number="1">footstep</word>
+				<word number="2">footmark</word>
+				<word number="3">footprint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pug</word>
+			</sg>
+			<sg number="5">
+				<word number="1">track mark</word>
+				<word number="2">wake</word>
+				<word number="3">trail</word>
+				<word number="4">scent</word>
+				<word number="5">piste</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="monument">
+			<sg number="1">
+				<word number="1">monument</word>
+				<word number="2">hatchment</word>
+				<word number="3">slab</word>
+				<word number="4">tablet</word>
+				<word number="5">trophy</word>
+				<word number="6">achievement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obelisk</word>
+				<word number="2">pillar</word>
+				<word number="3">column</word>
+				<word number="4">monolith</word>
+			</sg>
+			<sg number="3">
+				<word number="1">memorial</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="memory" headRef="529">memento</word>
+			</sg>
+			<sg number="5">
+				<word number="1">testimonial</word>
+				<word number="2">medal</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="celebration" headRef="922">commemoration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="record">
+			<sg number="1">
+				<word number="1">record</word>
+				<word number="2">note</word>
+				<word number="3">minute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">register</word>
+				<word number="2">registry</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="list" headRef="90">roll</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cartulary</word>
+				<word number="2">diptych</word>
+				<word number="3">Domesday book</word>
+			</sg>
+			<sg number="5">
+				<word number="1">catalogue raisonne</word>
+			</sg>
+			<sg number="6">
+				<word number="1">entry</word>
+				<word number="2">memorandum</word>
+				<word number="3">indorsement</word>
+				<word number="4">inscription</word>
+				<word number="5">copy</word>
+				<word number="6">duplicate</word>
+				<word number="7">docket</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="mark" headRef="576">notch</word>
+			</sg>
+			<sg number="8">
+				<word number="1">muniment</word>
+				<word number="2" paraRef="security" headRef="803">deed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">document</word>
+			</sg>
+			<sg number="10">
+				<word number="1">deposition</word>
+				<word number="2">proces verbal</word>
+			</sg>
+			<sg number="11">
+				<word number="1">affidavit</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="evidence" headRef="490">certificate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="notebook">
+			<sg number="1">
+				<word number="1">notebook</word>
+				<word number="2">memorandum book</word>
+				<word number="3">memo book</word>
+				<word number="4">pocketbook</word>
+				<word number="5">commonplace book</word>
+			</sg>
+			<sg number="2">
+				<word number="1">portfolio</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pigeonholes</word>
+				<word number="2">excerpta</word>
+				<word number="3">adversaria</word>
+				<word number="4">jottings</word>
+				<word number="5">dottings</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="gazette">
+			<sg number="1">
+				<word number="1">gazette</word>
+				<word number="2">gazetteer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">newspaper</word>
+				<word number="2">daily</word>
+				<word number="3">magazine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">almanac</word>
+				<word number="2">almanack</word>
+			</sg>
+			<sg number="4">
+				<word number="1">calendar</word>
+				<word number="2">ephemeris</word>
+				<word number="3">diary</word>
+				<word number="4">log</word>
+				<word number="5">journal</word>
+				<word number="6">daybook</word>
+				<word number="7">ledger</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cashbook</word>
+				<word number="2">petty cashbook</word>
+			</sg>
+			<sg number="6">
+				<word number="1">professional journal</word>
+				<word number="2">scientific literature</word>
+				<word number="3">the literature</word>
+				<word number="4">primary literature</word>
+				<word number="5">secondary literature</word>
+				<word number="6">article</word>
+				<word number="7">review article</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="archive">
+			<sg number="1">
+				<word number="1">archive</word>
+				<word number="2">scroll</word>
+				<word number="3">state paper</word>
+				<word number="4">return</word>
+				<word number="5">blue book</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="statistics" headRef="90">statistics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compte rendu</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Acts of</word>
+				<word number="2">Transactions of</word>
+				<word number="3">Proceedings of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Hansard's Debates</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chronicle,annals</word>
+				<word number="2">legend</word>
+			</sg>
+			<sg number="7">
+				<word number="1">history</word>
+				<word number="2" paraRef="biography" headRef="620">biography</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Congressional Records</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="registration">
+			<sg number="1">
+				<word number="1">registration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">registry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enrollment</word>
+				<word number="2">inrollment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tabulation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">entry</word>
+				<word number="2">booking</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="identification" headRef="576">signature</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="recorder" headRef="579">recorder</word>
+			</sg>
+			<sg number="8">
+				<word number="1">journalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="recording">
+			<sg number="1">
+				<word number="1">recording</word>
+				<word number="2">tape recording</word>
+				<word number="3">videotape</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="compact disk">
+			<sg number="1">
+				<word number="1">compact disk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">floppy disk</word>
+				<word number="2">diskette</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard disk</word>
+				<word number="2">Winchester disk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">read-only memory</word>
+				<word number="2">ROM</word>
+			</sg>
+			<sg number="5">
+				<word number="1">write once read mostly memory</word>
+				<word number="2">WORM</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="record">
+			<sg number="1">
+				<word number="1">record</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put on record</word>
+				<word number="2">place on record</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chronicle</word>
+				<word number="2">calendar</word>
+				<word number="3">hand down to posterity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="remember" headRef="529">keep up the memory</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="celebrate" headRef="922">commemorate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="inform" headRef="552">report</word>
+			</sg>
+			<sg number="7">
+				<word number="1">write</word>
+				<word number="2">commit to writing</word>
+				<word number="3">reduce to writing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put in writing</word>
+				<word number="2">set down in writing</word>
+				<word number="3">writing in black and white</word>
+			</sg>
+			<sg number="9">
+				<word number="1">put down</word>
+				<word number="2">jot down</word>
+				<word number="3">take down</word>
+				<word number="4">write down</word>
+				<word number="5">note down</word>
+				<word number="6">set down</word>
+			</sg>
+			<sg number="10">
+				<word number="1">note</word>
+				<word number="2">minute</word>
+				<word number="3">put on paper</word>
+			</sg>
+			<sg number="11">
+				<word number="1">take note</word>
+				<word number="2">make a note</word>
+				<word number="3">take minute</word>
+				<word number="4">take memorandum</word>
+			</sg>
+			<sg number="12">
+				<word number="1">make a return</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mark">
+			<sg number="1">
+				<word number="1" paraRef="indicate" headRef="576">mark</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="attest" headRef="490">sign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="enter">
+			<sg number="1">
+				<word number="1">enter</word>
+				<word number="2">book</word>
+			</sg>
+			<sg number="2">
+				<word number="1">post</word>
+				<word number="2">post up</word>
+				<word number="3">insert</word>
+				<word number="4">make an entry of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mark off</word>
+				<word number="2">tick off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">register</word>
+				<word number="2">enroll</word>
+				<word number="3">inscroll</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="store" headRef="665">file</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="burn into memory">
+			<sg number="1">
+				<word number="1">burn into memory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">carve in stone</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on record">
+			<sg number="1">
+				<word number="1">on record</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="exegi monumentum aere perennium">
+			<sg number="1">
+				<word number="1">exegi monumentum aere perennium</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"read their history in a nation's eyes"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"records that defy the tooth of time"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

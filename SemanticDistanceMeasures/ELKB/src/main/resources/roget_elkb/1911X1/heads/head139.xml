@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="139" name="Punctuality" origNum="#132a." class="1" section="6" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="punctuality">
+			<sg number="1">
+				<word number="1">punctuality</word>
+				<word number="2">promptness</word>
+				<word number="3">immediateness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be prompt">
+			<sg number="1">
+				<word number="1">be prompt</word>
+				<word number="2">be on time</word>
+				<word number="3">be in time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arrive on time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be in the nick of time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="timely">
+			<sg number="1">
+				<word number="1">timely</word>
+				<word number="2">seasonable</word>
+				<word number="3">in time</word>
+				<word number="4">punctual</word>
+				<word number="5">prompt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on time">
+			<sg number="1">
+				<word number="1">on time</word>
+				<word number="2">punctually</word>
+				<word number="3">at the deadline</word>
+				<word number="4">precisely</word>
+				<word number="5">exactly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">right on time</word>
+				<word number="2">to the minute</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in good time</word>
+				<word number="2">in military time</word>
+				<word number="3">in pudding time</word>
+				<word number="4">in due time</word>
+			</sg>
+			<sg number="5">
+				<word number="1">time enough</word>
+			</sg>
+			<sg number="6">
+				<word number="1">with no time to spare</word>
+				<word number="2">by a hair's breadth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="touch and go">
+			<sg number="1">
+				<word number="1">touch and go</word>
+				<word number="2">not a minute too soon</word>
+				<word number="3">in the nick of time</word>
+				<word number="4">just under the wire</word>
+				<word number="5">get on board before the train leaves the station</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

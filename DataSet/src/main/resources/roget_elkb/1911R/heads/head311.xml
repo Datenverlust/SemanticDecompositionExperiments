@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="311" name="Insertion" origNum="#300." class="2" section="4" subSection="4" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="insertion">
+			<sg number="1">
+				<word number="1">insertion</word>
+				<word number="2">implantation</word>
+				<word number="3">introduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="intervention" headRef="238">insinuation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">planting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">injection</word>
+				<word number="2">inoculation</word>
+				<word number="3">importation</word>
+				<word number="4">infusion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="ingress" headRef="305">forcible ingress</word>
+			</sg>
+			<sg number="6">
+				<word number="1">immersion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">submersion</word>
+				<word number="2">submergence</word>
+				<word number="3">dip</word>
+				<word number="4">plunge</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="water" headRef="348">bath</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="interment" headRef="375">interment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clyster">
+			<sg number="1">
+				<word number="1">clyster</word>
+				<word number="2">enema</word>
+				<word number="3">glyster</word>
+				<word number="4">lavage</word>
+				<word number="5">lavement</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="insert">
+			<sg number="1">
+				<word number="1">insert</word>
+			</sg>
+			<sg number="2">
+				<word number="1">introduce</word>
+				<word number="2">intromit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put into</word>
+				<word number="2">run into</word>
+			</sg>
+			<sg number="4">
+				<word number="1">import</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inject</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="interject" headRef="238">interject</word>
+			</sg>
+			<sg number="7">
+				<word number="1">infuse</word>
+				<word number="2">instill</word>
+				<word number="3">inoculate</word>
+				<word number="4">impregnate</word>
+				<word number="5">imbue</word>
+				<word number="6">imbrue</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">sponsor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="graft">
+			<sg number="1">
+				<word number="1">graft</word>
+				<word number="2">ingraft</word>
+				<word number="3">bud</word>
+				<word number="4">plant</word>
+				<word number="5">implant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dovetail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="obtrude">
+			<sg number="1">
+				<word number="1">obtrude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thrust in</word>
+				<word number="2">stick in</word>
+				<word number="3">ram in</word>
+				<word number="4">stuff in</word>
+				<word number="5">tuck in</word>
+				<word number="6">press</word>
+				<word number="7">in</word>
+				<word number="8">drive in</word>
+				<word number="9">pop in</word>
+				<word number="10">whip in</word>
+				<word number="11">drop in</word>
+				<word number="12">put in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impact</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hole" headRef="271">empierce|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="imbed">
+			<sg number="1">
+				<word number="1">imbed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immerse</word>
+				<word number="2">immerge</word>
+				<word number="3">merge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bathe</word>
+				<word number="2" paraRef="water" headRef="348">soak</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dip</word>
+				<word number="2" paraRef="plunge" headRef="321">plunge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bury">
+			<sg number="1">
+				<word number="1" paraRef="inter" headRef="375">bury</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="insert itself">
+			<sg number="1">
+				<word number="1">insert itself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plunge in medias res</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inserted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">inserted</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

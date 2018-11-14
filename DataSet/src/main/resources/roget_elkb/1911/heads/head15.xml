@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="15" name="Difference" origNum="#15." class="1" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="difference">
+			<sg number="1">
+				<word number="1">difference</word>
+			</sg>
+			<sg number="2">
+				<word number="1">variance</word>
+				<word number="2">variation</word>
+				<word number="3">variety</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diversity</word>
+				<word number="2" paraRef="dissimilarity" headRef="19">dissimilarity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disagreement" headRef="26">disagreement</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inequality" headRef="30">disparity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">distinction</word>
+				<word number="2">contradistinction</word>
+			</sg>
+			<sg number="7">
+				<word number="1">alteration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="modification">
+			<sg number="1">
+				<word number="1">modification</word>
+				<word number="2">permutation</word>
+				<word number="3">moods and tenses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nice distinction">
+			<sg number="1">
+				<word number="1">nice distinction</word>
+				<word number="2">fine distinction</word>
+				<word number="3">delicate distinction</word>
+				<word number="4">subtle distinction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shade of difference</word>
+				<word number="2">nuance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="discrimination" headRef="486">discrimination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">differentia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="different thing">
+			<sg number="1">
+				<word number="1">different thing</word>
+				<word number="2">something else</word>
+				<word number="3">apple off another tree</word>
+				<word number="4">another pair of shoes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horse of a different color</word>
+			</sg>
+			<sg number="3">
+				<word number="1">this that or the other</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be different">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be different</word>
+			</sg>
+			<sg number="2">
+				<word number="1">differ</word>
+				<word number="2">vary</word>
+				<word number="3">ablude</word>
+				<word number="4">mismatch</word>
+				<word number="5">contrast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">divaricate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">differ toto coelo</word>
+				<word number="2">differ longo intervallo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vary">
+			<sg number="1">
+				<word number="1">vary</word>
+				<word number="2" paraRef="change" headRef="147">modify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="discriminate">
+			<sg number="1">
+				<word number="1" paraRef="discriminate" headRef="486">discriminate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="differing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">differing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">different</word>
+				<word number="2">diverse</word>
+				<word number="3">heterogeneous</word>
+				<word number="4">multifarious</word>
+				<word number="5">polyglot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">distinguishable</word>
+				<word number="2">dissimilar</word>
+			</sg>
+			<sg number="4">
+				<word number="1">varied</word>
+				<word number="2">modified</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diversified</word>
+				<word number="2">various</word>
+				<word number="3">divers</word>
+				<word number="4">all manner of</word>
+				<word number="5">all kinds of</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="variform" headRef="85">variform</word>
+			</sg>
+			<sg number="7">
+				<word number="1">daedal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="other">
+			<sg number="1">
+				<word number="1">other</word>
+				<word number="2">another</word>
+				<word number="3">not the same</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unequal" headRef="30">unequal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">widely apart</word>
+				<word number="2">poles apart</word>
+				<word number="3">distinctive</word>
+				<word number="4">characteristic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discriminative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">distinguishing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="incommensurable">
+			<sg number="1">
+				<word number="1">incommensurable</word>
+				<word number="2">incommensurate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="differently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">differently</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="il y a fagots et fagots">
+			<sg number="1">
+				<word number="1">il y a fagots et fagots</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

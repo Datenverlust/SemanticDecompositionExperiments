@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="949" name="Threat" origNum="#909." class="8" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="threat">
+			<sg number="1">
+				<word number="1">threat</word>
+				<word number="2">menace</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="defiance" headRef="744">defiance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abuse</word>
+				<word number="2">minacity</word>
+				<word number="3">intimidation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">denunciation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fulmination</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="curse" headRef="948">commination</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="warning" headRef="697">gathering clouds</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="threat">
+			<sg number="1">
+				<word number="1">threat</word>
+				<word number="2">threaten</word>
+			</sg>
+			<sg number="2">
+				<word number="1">menace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">snarl</word>
+				<word number="2">growl</word>
+				<word number="3">gnarl</word>
+				<word number="4">mutter</word>
+				<word number="5">bark</word>
+				<word number="6">bully</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="defy">
+			<sg number="1">
+				<word number="1" paraRef="defy" headRef="744">defy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="intimidate" headRef="899">intimidate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep in terrorem</word>
+				<word number="2">hold up in terrorem</word>
+				<word number="3">hold out in terrorem</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shake the fist at</word>
+				<word number="2">double the fist at</word>
+				<word number="3">clinch the fist at</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thunder</word>
+				<word number="2">talk big</word>
+				<word number="3">fulminate</word>
+				<word number="4">use big words</word>
+				<word number="5">bluster</word>
+				<word number="6">look daggers</word>
+				<word number="7">stare daggers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="threatening">
+			<sg number="1">
+				<word number="1">threatening</word>
+				<word number="2">menacing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">minatory</word>
+				<word number="2">minacious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">comminatory</word>
+				<word number="2">abusive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in terrorem</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="predicting" headRef="535">ominous</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="defiant" headRef="744">defiant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">under the ban</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="vae victis">
+			<sg number="1">
+				<word number="1">vae victis!</word>
+				<word number="2">at your peril!</word>
+				<word number="3">do your worst!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="750" name="Peace" origNum="#721." class="6" section="4" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="peace">
+			<sg number="1">
+				<word number="1">peace</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="friendship" headRef="927">amity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="concord" headRef="743">harmony</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tranquility</word>
+				<word number="2" paraRef="quiescence" headRef="276">calm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">truce</word>
+				<word number="2">peace treaty</word>
+				<word number="3" paraRef="pacification" headRef="752">accord</word>
+			</sg>
+			<sg number="6">
+				<word number="1">peace pipe</word>
+				<word number="2">pipe of peace</word>
+				<word number="3">calumet of peace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="piping time of peace">
+			<sg number="1">
+				<word number="1">piping time of peace</word>
+				<word number="2">quiet life</word>
+			</sg>
+			<sg number="2">
+				<word number="1">neutrality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dove of peace">
+			<sg number="1">
+				<word number="1">dove of peace</word>
+				<word number="2">white dove</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dove">
+			<sg number="1">
+				<word number="1">dove</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pax Romana">
+			<sg number="1">
+				<word number="1">pax Romana</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Pax Americana</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be at peace">
+			<sg number="1">
+				<word number="1">be at peace</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="concord" headRef="743">keep the peace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="make peace">
+			<sg number="1">
+				<word number="1" paraRef="make peace" headRef="752">make peace</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pacific">
+			<sg number="1">
+				<word number="1">pacific</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peaceable</word>
+				<word number="2">peaceful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calm</word>
+				<word number="2">tranquil</word>
+				<word number="3">untroubled</word>
+				<word number="4">halcyon</word>
+				<word number="5" new="1">placid</word>
+				<word number="6" new="1">quiet</word>
+				<word number="7" new="2">pleasant</word>
+				<word number="8" new="2">serene</word>
+				<word number="9" new="2">silent</word>
+				<word number="10" new="3">gentle</word>
+				<word number="11" new="3">sedate</word>
+				<word number="12" new="4">relaxed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bloodless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">neutral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dovish">
+			<sg number="1">
+				<word number="1">dovish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the storm blown over">
+			<sg number="1">
+				<word number="1">the storm blown over</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the lion lies down with the lamb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"all quiet on the Potomac"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paritur pax bello</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"peace hath her victories no less renowned than war"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"they make a desert and they call it peace"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="557" name="Publication" origNum="#531." class="5" section="2" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="publication">
+			<sg number="1">
+				<word number="1">publication</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="announcement" headRef="552">public announcement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">promulgation</word>
+				<word number="2">propagation</word>
+				<word number="3">proclamation</word>
+				<word number="4">pronunziamento</word>
+			</sg>
+			<sg number="4">
+				<word number="1">circulation</word>
+				<word number="2">indiction</word>
+				<word number="3">edition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hue and cry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="publicity">
+			<sg number="1">
+				<word number="1">publicity</word>
+				<word number="2">notoriety</word>
+				<word number="3">currency</word>
+				<word number="4">flagrancy</word>
+				<word number="5">cry</word>
+				<word number="6">bruit</word>
+				<word number="7">hype</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vox populi</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="news" headRef="558">report</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="the Press">
+			<sg number="1">
+				<word number="1">the Press</word>
+				<word number="2">public press</word>
+				<word number="3">newspaper</word>
+				<word number="4">journal</word>
+				<word number="5">gazette</word>
+				<word number="6">daily</word>
+				<word number="7" new="1">seat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">telegraphy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">publisher</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imprint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="circular">
+			<sg number="1">
+				<word number="1">circular</word>
+				<word number="2">circular letter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">manifesto</word>
+				<word number="2">advertisement</word>
+				<word number="3">ad</word>
+				<word number="4">placard</word>
+				<word number="5">bill</word>
+				<word number="6">affiche</word>
+				<word number="7">broadside</word>
+				<word number="8">poster</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="notice" headRef="552">notice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="publish">
+			<sg number="1">
+				<word number="1">publish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make public</word>
+				<word number="2" paraRef="information" headRef="552">make known</word>
+			</sg>
+			<sg number="3">
+				<word number="1">speak of</word>
+				<word number="2">talk of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">broach</word>
+				<word number="2">utter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">put forward</word>
+			</sg>
+			<sg number="6">
+				<word number="1">circulate</word>
+				<word number="2">propagate</word>
+				<word number="3">promulgate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">spread</word>
+				<word number="2">spread abroad</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rumor</word>
+				<word number="2">diffuse</word>
+				<word number="3">disseminate</word>
+				<word number="4">evulugate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">put forth</word>
+				<word number="2">give forth</word>
+				<word number="3">send forth</word>
+			</sg>
+			<sg number="10">
+				<word number="1">emit</word>
+				<word number="2">edit</word>
+				<word number="3">get out</word>
+			</sg>
+			<sg number="11">
+				<word number="1">issue</word>
+			</sg>
+			<sg number="12">
+				<word number="1">bring before the public</word>
+				<word number="2">lay before the public</word>
+				<word number="3">drag before the public</word>
+			</sg>
+			<sg number="13">
+				<word number="1">give out</word>
+				<word number="2">give to the world</word>
+			</sg>
+			<sg number="14">
+				<word number="1">put about</word>
+				<word number="2">bandy about</word>
+				<word number="3">hawk about</word>
+				<word number="4">buzz about</word>
+				<word number="5">whisper about</word>
+				<word number="6">bruit about</word>
+				<word number="7">blaze about</word>
+			</sg>
+			<sg number="15">
+				<word number="1">drag into the open day</word>
+			</sg>
+			<sg number="16">
+				<word number="1">voice</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">reverse</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">discover</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">spotlight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="proclaim">
+			<sg number="1">
+				<word number="1">proclaim</word>
+				<word number="2">herald</word>
+				<word number="3">blazon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blaze abroad</word>
+				<word number="2">noise abroad</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sound a trumpet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trumpet forth</word>
+				<word number="2">thunder forth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give tongue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">announce with beat of drum</word>
+				<word number="2">announce with flourish of trumpets</word>
+			</sg>
+			<sg number="7">
+				<word number="1">proclaim from the housetops</word>
+				<word number="2">proclaim at Charing Cross</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="advertise">
+			<sg number="1">
+				<word number="1">advertise</word>
+				<word number="2">placard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">post</word>
+				<word number="2">post up afficher</word>
+				<word number="3">publish in the Gazette</word>
+				<word number="4">send round the crier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="raise a cry">
+			<sg number="1">
+				<word number="1">raise a cry</word>
+				<word number="2">raise a hue and cry</word>
+				<word number="3">raise a report</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set news afloat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="be published">
+			<sg number="1">
+				<word number="1">be published</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be public</word>
+				<word number="2" paraRef="" posRef="adj.">become public</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">go about</word>
+				<word number="2">fly about</word>
+				<word number="3">buzz about</word>
+				<word number="4">blow about</word>
+			</sg>
+			<sg number="5">
+				<word number="1">get about</word>
+				<word number="2">get abroad</word>
+				<word number="3">get afloat</word>
+				<word number="4">get wind</word>
+			</sg>
+			<sg number="6">
+				<word number="1">find vent</word>
+			</sg>
+			<sg number="7">
+				<word number="1">see the light</word>
+			</sg>
+			<sg number="8">
+				<word number="1">go forth</word>
+				<word number="2">take air</word>
+				<word number="3">acquire currency</word>
+				<word number="4">pass current</word>
+			</sg>
+			<sg number="9">
+				<word number="1">go the rounds</word>
+				<word number="2">go the round of the newspapers</word>
+				<word number="3">go through the length and breadth of the land</word>
+			</sg>
+			<sg number="10">
+				<word number="1">virum volitare per ora</word>
+			</sg>
+			<sg number="11">
+				<word number="1">pass from mouth to mouth</word>
+			</sg>
+			<sg number="12">
+				<word number="1">spread</word>
+			</sg>
+			<sg number="13">
+				<word number="1">run like wildfire</word>
+				<word number="2">spread like wildfire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="published">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">published</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="news" headRef="558">current</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in circulation</word>
+				<word number="2">public</word>
+			</sg>
+			<sg number="4">
+				<word number="1">notorious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flagrant</word>
+				<word number="2">arrant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="open" headRef="550">open</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trumpet-tongued</word>
+			</sg>
+			<sg number="8">
+				<word number="1">encyclical</word>
+				<word number="2">encyclic</word>
+				<word number="3">promulgatory</word>
+			</sg>
+			<sg number="9">
+				<word number="1">exoteric</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="publicly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">publicly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in open court</word>
+				<word number="2">with open doors</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="Oyez">
+			<sg number="1">
+				<word number="1">Oyez!</word>
+				<word number="2">O yes!</word>
+				<word number="3">notice!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="notice is hereby given">
+			<sg number="1">
+				<word number="1">notice is hereby given</word>
+			</sg>
+			<sg number="2">
+				<word number="1">this is to give</word>
+				<word number="2">these are to give notice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nomina stultorum parietibus haerent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">semel emissum volat irrevocabile verbum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

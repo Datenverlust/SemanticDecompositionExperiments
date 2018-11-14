@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="500" name="Intuition" origNum="#477." class="4" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="intuition">
+			<sg number="1">
+				<word number="1">intuition</word>
+				<word number="2">instinct</word>
+				<word number="3">association</word>
+				<word number="4">hunch</word>
+				<word number="5">gut feeling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">presentiment</word>
+				<word number="2">premonition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rule of thumb</word>
+			</sg>
+			<sg number="4">
+				<word number="1">superstition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">astrology</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="supposition" headRef="538">faith</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sophistry">
+			<sg number="1">
+				<word number="1">sophistry</word>
+				<word number="2">paralogy</word>
+				<word number="3">perversion</word>
+				<word number="4">casuistry</word>
+				<word number="5">jesuitry</word>
+				<word number="6">equivocation</word>
+				<word number="7">evasion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chicane</word>
+				<word number="2">chicanery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quiddet</word>
+				<word number="2">quiddity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mystification</word>
+			</sg>
+			<sg number="5">
+				<word number="1">special pleading</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">speciousness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="nonsense" headRef="521">nonsense</word>
+			</sg>
+			<sg number="8">
+				<word number="1">word sense</word>
+				<word number="2">tongue sense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="false reasoning">
+			<sg number="1">
+				<word number="1">false reasoning</word>
+				<word number="2">vicious reasoning</word>
+				<word number="3">circular reasoning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">petitio principii</word>
+				<word number="2">ignoratio elenchi</word>
+			</sg>
+			<sg number="3">
+				<word number="1">post hoc ergo propter hoc</word>
+			</sg>
+			<sg number="4">
+				<word number="1">non sequitur</word>
+				<word number="2">ignotum per ignotius</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="misjudgment">
+			<sg number="1">
+				<word number="1" paraRef="misjudgment" headRef="505">misjudgment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="false teaching" headRef="564">false teaching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sophism">
+			<sg number="1">
+				<word number="1">sophism</word>
+				<word number="2">solecism</word>
+				<word number="3">paralogism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quibble</word>
+				<word number="2">quirk</word>
+				<word number="3">elenchus</word>
+				<word number="4">elench</word>
+				<word number="5">fallacy</word>
+				<word number="6">quodlibet</word>
+				<word number="7">subterfuge</word>
+				<word number="8">subtlety</word>
+				<word number="9">quillet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inconsistency</word>
+				<word number="2">antilogy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"a delusion</word>
+				<word number="2">a mockery</word>
+				<word number="3">and a snare"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">claptrap</word>
+				<word number="2">cant</word>
+				<word number="3">mere words</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"lame and impotent conclusion"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="meshes of sophistry">
+			<sg number="1">
+				<word number="1">meshes of sophistry</word>
+				<word number="2">cobwebs of sophistry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flaw in an argument</word>
+			</sg>
+			<sg number="3">
+				<word number="1">weak point</word>
+				<word number="2">bad case</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="overrefinement">
+			<sg number="1">
+				<word number="1">overrefinement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">hairsplitting</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="judge intuitively">
+			<sg number="1">
+				<word number="1">judge intuitively</word>
+				<word number="2">judge by intuition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hazard a proposition</word>
+				<word number="2">hazard a guess</word>
+				<word number="3">talk at random</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reason ill">
+			<sg number="1">
+				<word number="1">reason ill</word>
+				<word number="2" paraRef="" posRef="adj.">falsely</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="misjudge" headRef="505">misjudge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paralogize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="take on faith">
+			<sg number="1">
+				<word number="1">take on faith</word>
+				<word number="2">take as a given</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="supposition" headRef="538">assume</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pervert">
+			<sg number="1">
+				<word number="1">pervert</word>
+				<word number="2">quibble</word>
+			</sg>
+			<sg number="2">
+				<word number="1">equivocate</word>
+				<word number="2">mystify</word>
+				<word number="3">evade</word>
+				<word number="4">elude</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gloss over</word>
+				<word number="2">varnish</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="misteach" headRef="564">misteach</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="error" headRef="519">mislead</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cavil</word>
+				<word number="2">refine</word>
+				<word number="3">subtilize</word>
+				<word number="4">split hairs</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="lie" headRef="570">misrepresent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="beg the question">
+			<sg number="1">
+				<word number="1">beg the question</word>
+				<word number="2">reason in a circle</word>
+				<word number="3">reason in circles</word>
+				<word number="4">assume the conclusion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="cut blocks with a razor">
+			<sg number="1">
+				<word number="1">cut blocks with a razor</word>
+				<word number="2">beat about the bush</word>
+				<word number="3">play fast and loose</word>
+				<word number="4">play fast and loose with the facts</word>
+				<word number="5">blow hot and cold</word>
+				<word number="6">prove that black is white and white black</word>
+				<word number="7">travel out of the record</word>
+				<word number="8">parler a tort et a travers</word>
+				<word number="9">put oneself out of court</word>
+				<word number="10">not have a leg to stand on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="judge hastily">
+			<sg number="1">
+				<word number="1">judge hastily</word>
+				<word number="2">shoot from the hip</word>
+				<word number="3" paraRef="misjudgment" headRef="505">jump to conclusions</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="intuitive">
+			<sg number="1">
+				<word number="1">intuitive</word>
+				<word number="2">instinctive</word>
+				<word number="3">impulsive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">independent of reason</word>
+				<word number="2">anterior to reason</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gratuitous</word>
+				<word number="2">hazarded</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unconnected</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unreasonable">
+			<sg number="1">
+				<word number="1">unreasonable</word>
+				<word number="2">illogical</word>
+				<word number="3">false</word>
+				<word number="4">unsound</word>
+				<word number="5">invalid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unwarranted</word>
+				<word number="2">not following</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inconsequent</word>
+				<word number="2">inconsequential</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inconsistent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">absonous</word>
+				<word number="2">absonant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unscientific</word>
+			</sg>
+			<sg number="7">
+				<word number="1">untenable</word>
+				<word number="2">inconclusive</word>
+				<word number="3">incorrect</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fallacious</word>
+				<word number="2">fallible</word>
+			</sg>
+			<sg number="9">
+				<word number="1">groundless</word>
+				<word number="2">unproved</word>
+			</sg>
+			<sg number="10">
+				<word number="1">non sequitur</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">agoraphobic</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">skimpy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="deceptive">
+			<sg number="1">
+				<word number="1">deceptive</word>
+				<word number="2">sophistical</word>
+				<word number="3">jesuitical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">illusive</word>
+				<word number="2">illusory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">specious</word>
+				<word number="2">hollow</word>
+				<word number="3">plausible</word>
+				<word number="4">ad captandum</word>
+				<word number="5">evasive</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="irrelevant" headRef="10">irrelevant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="weak">
+			<sg number="1">
+				<word number="1">weak</word>
+				<word number="2">feeble</word>
+				<word number="3">poor</word>
+				<word number="4">flimsy</word>
+				<word number="5">loose</word>
+				<word number="6">vague</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="irrational">
+			<sg number="1">
+				<word number="1">irrational</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="absurd" headRef="521">nonsensical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="foolish">
+			<sg number="1">
+				<word number="1" paraRef="imbecile" headRef="523">foolish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frivolous</word>
+				<word number="2">pettifogging</word>
+				<word number="3">quibbling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">finespun</word>
+				<word number="2">overrefined</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="at the end of one's tether">
+			<sg number="1">
+				<word number="1">at the end of one's tether</word>
+				<word number="2">au bout de son latin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="worthwhile">
+			<sg number="1">
+				<word number="1" new="1">worthwhile</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="intuitively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">intuitively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by intuition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">illogically</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non constat">
+			<sg number="1">
+				<word number="1">non constat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">that goes for nothing</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

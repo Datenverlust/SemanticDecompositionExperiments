@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="46" name="Junction" origNum="#43." class="1" section="3" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="junction">
+			<sg number="1">
+				<word number="1">junction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">joining</word>
+			</sg>
+			<sg number="3">
+				<word number="1">joinder</word>
+				<word number="2">union</word>
+				<word number="3">connection</word>
+				<word number="4">conjunction</word>
+				<word number="5">conjugation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">annexion</word>
+				<word number="2">annexation</word>
+				<word number="3">annexment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">astriction</word>
+				<word number="2">attachment</word>
+				<word number="3">compagination</word>
+				<word number="4">vincture</word>
+				<word number="5">ligation</word>
+				<word number="6">alligation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">accouplement</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="wedlock" headRef="943">marriage</word>
+			</sg>
+			<sg number="8">
+				<word number="1">infibulation</word>
+				<word number="2">inosculation</word>
+				<word number="3">symphysis</word>
+				<word number="4">anastomosis</word>
+				<word number="5">confluence</word>
+				<word number="6">communication</word>
+				<word number="7">concatenation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">meeting</word>
+				<word number="2">reunion</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="assemblage" headRef="76">assemblage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coition">
+			<sg number="1">
+				<word number="1">coition</word>
+				<word number="2">copulation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sex</word>
+				<word number="2">sexual congress</word>
+				<word number="3">sexual conjunction</word>
+				<word number="4">sexual intercourse</word>
+				<word number="5">love-making</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="joint">
+			<sg number="1">
+				<word number="1">joint</word>
+				<word number="2">joining</word>
+				<word number="3">juncture</word>
+				<word number="4">pivot</word>
+				<word number="5">hinge</word>
+				<word number="6">articulation</word>
+				<word number="7">commissure</word>
+				<word number="8">seam</word>
+				<word number="9">gore</word>
+				<word number="10">gusset</word>
+				<word number="11">suture</word>
+				<word number="12">stitch</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="link" headRef="48">link</word>
+			</sg>
+			<sg number="3">
+				<word number="1">miter mortise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="closeness">
+			<sg number="1">
+				<word number="1">closeness</word>
+				<word number="2" paraRef="" posRef="adj.">tightness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="coherence" headRef="49">coherence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="combination" headRef="51">combination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="annexationist">
+			<sg number="1">
+				<word number="1">annexationist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="join">
+			<sg number="1">
+				<word number="1">join</word>
+				<word number="2">unite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conjoin</word>
+				<word number="2">connect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">associate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put together</word>
+				<word number="2">lay together</word>
+				<word number="3">clap together</word>
+				<word number="4">hang together</word>
+				<word number="5">lump together</word>
+				<word number="6">hold together</word>
+				<word number="7">piece together</word>
+				<word number="8">tack together</word>
+				<word number="9">fix together</word>
+				<word number="10">bind up together together</word>
+			</sg>
+			<sg number="5">
+				<word number="1">embody</word>
+				<word number="2">reembody</word>
+			</sg>
+			<sg number="6">
+				<word number="1">roll into one</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attach">
+			<sg number="1">
+				<word number="1">attach</word>
+				<word number="2">fix</word>
+				<word number="3">affix</word>
+				<word number="4">saddle on</word>
+				<word number="5">fasten</word>
+				<word number="6">bind</word>
+				<word number="7">secure</word>
+				<word number="8">clinch</word>
+				<word number="9">twist</word>
+				<word number="10" paraRef="" posRef="adj.">make fast</word>
+				<word number="11" new="1">sling</word>
+				<word number="12" new="1">wrap</word>
+				<word number="13" new="2">clip</word>
+				<word number="14" new="2">dangle</word>
+				<word number="15" new="2">drape</word>
+				<word number="16" new="2">pinch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tie</word>
+				<word number="2">pinion</word>
+				<word number="3">string</word>
+				<word number="4">strap</word>
+				<word number="5">sew</word>
+				<word number="6">lace</word>
+				<word number="7">tat</word>
+				<word number="8">stitch</word>
+				<word number="9">tack</word>
+				<word number="10">knit</word>
+				<word number="11">button</word>
+				<word number="12">buckle</word>
+				<word number="13">hitch</word>
+				<word number="14">lash</word>
+				<word number="15">truss</word>
+				<word number="16">bandage</word>
+				<word number="17">braid</word>
+				<word number="18">splice</word>
+				<word number="19">swathe</word>
+				<word number="20">gird</word>
+				<word number="21">tether</word>
+				<word number="22">moor</word>
+				<word number="23">picket</word>
+				<word number="24">harness</word>
+				<word number="25">chain</word>
+				<word number="26" new="1">embroider</word>
+				<word number="27" new="1">glue</word>
+				<word number="28" new="1">weave</word>
+				<word number="29" new="2">bead</word>
+				<word number="30" new="2">knot</word>
+				<word number="31" new="2">quilt</word>
+				<word number="32" new="2">twine</word>
+				<word number="33" new="2">yarn</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="restrain" headRef="782">fetter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lock</word>
+				<word number="2">latch</word>
+				<word number="3">belay</word>
+				<word number="4">brace</word>
+				<word number="5">hook</word>
+				<word number="6">grapple</word>
+				<word number="7">leash</word>
+				<word number="8">couple</word>
+				<word number="9">accouple</word>
+				<word number="10">link</word>
+				<word number="11">yoke</word>
+				<word number="12">bracket</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="wed" headRef="943">marry</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bridge over</word>
+				<word number="2">span</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">tangle</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">thread</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="braze">
+			<sg number="1">
+				<word number="1">braze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pin</word>
+				<word number="2">nail</word>
+				<word number="3">bolt</word>
+				<word number="4">hasp</word>
+				<word number="5">clasp</word>
+				<word number="6">clamp</word>
+				<word number="7">crimp</word>
+				<word number="8">screw</word>
+				<word number="9">rivet</word>
+				<word number="10" new="1">weld</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impact</word>
+				<word number="2">solder</word>
+				<word number="3">set</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weld together</word>
+				<word number="2">fuse together</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wedge</word>
+				<word number="2">rabbet</word>
+				<word number="3">mortise</word>
+				<word number="4">miter</word>
+				<word number="5">jam</word>
+				<word number="6">dovetail</word>
+				<word number="7">enchase</word>
+			</sg>
+			<sg number="6">
+				<word number="1">graft</word>
+				<word number="2">ingraft</word>
+				<word number="3">inosculate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">entwine</word>
+				<word number="2">intwine</word>
+			</sg>
+			<sg number="8">
+				<word number="1">interlink</word>
+				<word number="2">interlace</word>
+				<word number="3">intertwine</word>
+				<word number="4">intertwist</word>
+				<word number="5">interweave</word>
+			</sg>
+			<sg number="9">
+				<word number="1">entangle</word>
+			</sg>
+			<sg number="10">
+				<word number="1">twine round</word>
+				<word number="2">belay</word>
+			</sg>
+			<sg number="11">
+				<word number="1">tighten</word>
+			</sg>
+			<sg number="12">
+				<word number="1">trice up</word>
+				<word number="2">screw up</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">loosen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="be joined">
+			<sg number="1">
+				<word number="1">be joined</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang together</word>
+				<word number="2">hold together</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cohere" headRef="49">cohere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="joined">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">joined</word>
+			</sg>
+			<sg number="2">
+				<word number="1">joint</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conjoint</word>
+				<word number="2">conjunct</word>
+			</sg>
+			<sg number="4">
+				<word number="1">corporate</word>
+				<word number="2">compact</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hand in hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="firm">
+			<sg number="1">
+				<word number="1">firm</word>
+				<word number="2">fast</word>
+				<word number="3">close</word>
+				<word number="4">tight</word>
+				<word number="5">taut</word>
+				<word number="6">taught</word>
+				<word number="7">secure</word>
+				<word number="8">set</word>
+				<word number="9">intervolved</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inseparable</word>
+				<word number="2">indissoluble</word>
+				<word number="3">insecable</word>
+				<word number="4">severable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="jointly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">jointly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="in addition" headRef="39">in conjunction with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fast</word>
+				<word number="2" paraRef="" posRef="adj.">firmly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intimately</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="tria juncta in uno">
+			<sg number="1">
+				<word number="1">tria juncta in uno</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

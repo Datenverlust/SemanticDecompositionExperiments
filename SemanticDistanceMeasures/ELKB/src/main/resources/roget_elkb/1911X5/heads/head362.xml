@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="362" name="Airpipe" origNum="#351." class="3" section="2" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="air pipe">
+			<sg number="1">
+				<word number="1">air pipe</word>
+				<word number="2">airpipe</word>
+				<word number="3">air tube</word>
+			</sg>
+			<sg number="2">
+				<word number="1">airhole</word>
+				<word number="2">blowhole</word>
+				<word number="3">breathinghole</word>
+				<word number="4">venthole</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shaft</word>
+				<word number="2">flue</word>
+				<word number="3">chimney</word>
+				<word number="4">funnel</word>
+				<word number="5">vent</word>
+				<word number="6">nostril</word>
+				<word number="7">nozzle</word>
+				<word number="8">throat</word>
+				<word number="9">weasand</word>
+				<word number="10">trachea</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bronchus</word>
+				<word number="2">bronchia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">larynx</word>
+				<word number="2">tonsils</word>
+				<word number="3">windpipe</word>
+				<word number="4">spiracle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ventiduct</word>
+				<word number="2">ventilator</word>
+			</sg>
+			<sg number="7">
+				<word number="1">louvre</word>
+				<word number="2">jalousie</word>
+				<word number="3">Venetian blinds</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="wind" headRef="360">blowpipe</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="tube" headRef="271">pipe</word>
+			</sg>
+			<sg number="10">
+				<word number="1">jhilmil</word>
+			</sg>
+			<sg number="11">
+				<word number="1">smokestack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="screen">
+			<sg number="1">
+				<word number="1">screen</word>
+				<word number="2">window screen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="artificial lung">
+			<sg number="1">
+				<word number="1">artificial lung</word>
+				<word number="2">iron lung</word>
+				<word number="3">heart and lung machine</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

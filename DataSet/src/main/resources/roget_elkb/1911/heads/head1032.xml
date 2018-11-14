@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1032" name="Impiety" origNum="#988." class="8" section="5" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impiety">
+			<sg number="1">
+				<word number="1">impiety</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sin" headRef="987">sin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">irreverence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">profaneness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">profanity</word>
+				<word number="2">profanation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blasphemy</word>
+				<word number="2">desecration</word>
+				<word number="3">sacrilege</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">scoffing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hypocrisy">
+			<sg number="1">
+				<word number="1" paraRef="falsehood" headRef="570">hypocrisy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pietism</word>
+				<word number="2">cant</word>
+				<word number="3">pious fraud</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lip devotion</word>
+				<word number="2">lip service</word>
+				<word number="3">lip reverence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">misdevotion</word>
+				<word number="2">formalism</word>
+				<word number="3">austerity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sanctimony</word>
+				<word number="2" paraRef="" posRef="adj.">sanctimoniousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pharisaism</word>
+				<word number="2">precisianism</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sabbatism</word>
+				<word number="2">sabbatarianism</word>
+			</sg>
+			<sg number="8">
+				<word number="1">odium theologicum</word>
+				<word number="2">sacerdotalism</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="obstinacy" headRef="633">bigotry</word>
+				<word number="2" paraRef="prejudice" headRef="505">prejudice</word>
+			</sg>
+			<sg number="10">
+				<word number="1">blue laws</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hardening">
+			<sg number="1">
+				<word number="1">hardening</word>
+				<word number="2">backsliding</word>
+				<word number="3">declension</word>
+				<word number="4">perversion</word>
+				<word number="5">reprobation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sinner">
+			<sg number="1">
+				<word number="1" paraRef="sinner" headRef="991">sinner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scoffer</word>
+				<word number="2">blasphemer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sacrilegist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sabbath breaker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">worldling</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="dissembler" headRef="574">hypocrite</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Tartufe</word>
+				<word number="2">Mawworm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bigot">
+			<sg number="1">
+				<word number="1">bigot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saint</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Pharisee</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sabbatarian</word>
+				<word number="2">formalist</word>
+				<word number="3">methodist</word>
+				<word number="4">puritan</word>
+				<word number="5">pietist</word>
+				<word number="6">precisian</word>
+				<word number="7">religionist</word>
+				<word number="8">devotee</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ranter</word>
+				<word number="2">fanatic</word>
+				<word number="3">juramentado</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="the wicked">
+			<sg number="1">
+				<word number="1">the wicked</word>
+				<word number="2">the evil</word>
+				<word number="3">the unjust</word>
+				<word number="4">the reprobate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sons of men</word>
+				<word number="2">sons of Belial</word>
+				<word number="3">the wicked one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">children of darkness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be impious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be impious</word>
+				<word number="2">profane</word>
+				<word number="3">desecrate</word>
+				<word number="4">blaspheme</word>
+				<word number="5">revile</word>
+				<word number="6">scoff</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="malediction" headRef="948">swear</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commit sacrilege</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="snuffle">
+			<sg number="1">
+				<word number="1">snuffle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn up  the whites of the eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">idolize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="impious">
+			<sg number="1">
+				<word number="1">impious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="irreligious" headRef="1033">irreligious</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">desecrating</word>
+			</sg>
+			<sg number="4">
+				<word number="1">profane</word>
+				<word number="2">irreverent</word>
+				<word number="3">sacrilegious</word>
+				<word number="4">blasphemous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="un-hallowed">
+			<sg number="1">
+				<word number="1">un-hallowed</word>
+				<word number="2">un-sanctified</word>
+				<word number="3">un-regenerate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hardened</word>
+				<word number="2">perverted</word>
+				<word number="3">reprobate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hypocritical">
+			<sg number="1">
+				<word number="1" paraRef="false" headRef="570">hypocritical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">canting</word>
+				<word number="2">pietistical</word>
+				<word number="3">sanctimonious</word>
+				<word number="4">unctuous</word>
+				<word number="5">pharisaical</word>
+				<word number="6">overrighteous</word>
+				<word number="7">righteous over much</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bigoted">
+			<sg number="1">
+				<word number="1">bigoted</word>
+				<word number="2">fanatical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">priest-ridden</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under the mask of religion">
+			<sg number="1">
+				<word number="1">under the mask of religion</word>
+				<word number="2">under the cloak of religion</word>
+				<word number="3">under the pretense of religion</word>
+				<word number="4">under the form of religion</word>
+				<word number="5">under the guise of religion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="giovane santo diavolo vecchio">
+			<sg number="1">
+				<word number="1">giovane santo diavolo vecchio</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

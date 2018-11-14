@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="428" name="Stridor" origNum="#410." class="3" section="3" subSection="2" headGroup="22">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="creak">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">creak</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">creaking</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="discord" headRef="432">discord</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stridor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">roughness</word>
+				<word number="2" paraRef="" posRef="adj.">sharpness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cacophony</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cacoepy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">harsh sound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acute note">
+			<sg number="1">
+				<word number="1">acute note</word>
+				<word number="2">high note</word>
+			</sg>
+			<sg number="2">
+				<word number="1">soprano</word>
+				<word number="2">treble</word>
+				<word number="3">tenor</word>
+				<word number="4">alto</word>
+				<word number="5">falsetto</word>
+				<word number="6">penny trumpet</word>
+				<word number="7">voce di testa</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="creak">
+			<sg number="1">
+				<word number="1">creak</word>
+				<word number="2">grate</word>
+				<word number="3">jar</word>
+				<word number="4">burr</word>
+				<word number="5">pipe</word>
+				<word number="6">twang</word>
+				<word number="7">jangle</word>
+				<word number="8">clank</word>
+				<word number="9">clink</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cry" headRef="429">scream</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="animal sounds" headRef="430">yelp</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hiss" headRef="427">buzz</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="set the teeth on edge">
+			<sg number="1">
+				<word number="1">set the teeth on edge</word>
+				<word number="2">écorcher les oreilles</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pierce the ears</word>
+				<word number="2">split the ears</word>
+				<word number="3">split the head</word>
+			</sg>
+			<sg number="3">
+				<word number="1">offend the ear</word>
+				<word number="2">grate upon the ear</word>
+				<word number="3">jar upon the ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="creaking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">creaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stridulous</word>
+				<word number="2">harsh</word>
+				<word number="3">coarse</word>
+				<word number="4">hoarse</word>
+				<word number="5">horrisonous</word>
+				<word number="6">rough</word>
+				<word number="7">gruff</word>
+				<word number="8">grum</word>
+				<word number="9">sepulchral</word>
+				<word number="10">hollow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sharp">
+			<sg number="1">
+				<word number="1">sharp</word>
+				<word number="2">high</word>
+				<word number="3">acute</word>
+				<word number="4">shrill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trumpet-toned</word>
+			</sg>
+			<sg number="3">
+				<word number="1">piercing</word>
+				<word number="2">ear-piercing</word>
+				<word number="3">high-pitched</word>
+				<word number="4">high-toned</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cracked</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="discordant" headRef="432">discordant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cacophonous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

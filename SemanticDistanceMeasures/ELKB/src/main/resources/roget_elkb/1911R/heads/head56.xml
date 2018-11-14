@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="56" name="Incompleteness" origNum="#53." class="1" section="3" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="incompleteness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">incompleteness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deficiency</word>
+				<word number="2">short measure</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="shortcoming" headRef="315">shortcoming</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="insufficiency" headRef="669">insufficiency</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="imperfection" headRef="680">imperfection</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="non-preparation" headRef="703">immaturity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">half measures</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="defect">
+			<sg number="1">
+				<word number="1">defect</word>
+				<word number="2">deficit</word>
+				<word number="3">defalcation</word>
+				<word number="4">omission</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caret</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shortage</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="interval" headRef="207">interval</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="discontinuity" headRef="74">break</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="noncompletion" headRef="759">noncompletion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">missing link</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="missing piece">
+			<sg number="1">
+				<word number="1">missing piece</word>
+				<word number="2">missing part</word>
+				<word number="3">gap</word>
+				<word number="4">hole</word>
+				<word number="5">lacuna</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be incomplete">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be incomplete</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fall short of" headRef="315">fall short of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be insufficient" headRef="669">lack</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="neglect" headRef="480">neglect</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="incomplete">
+			<sg number="1">
+				<word number="1">incomplete</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imperfect" headRef="680">imperfect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unfinished</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="complete" headRef="758">uncompleted</word>
+			</sg>
+			<sg number="5">
+				<word number="1">defective</word>
+				<word number="2">deficient</word>
+				<word number="3">wanting</word>
+				<word number="4">lacking</word>
+				<word number="5">failing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in default</word>
+				<word number="2">in arrear</word>
+			</sg>
+			<sg number="7">
+				<word number="1">short of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hollow</word>
+				<word number="2">meager</word>
+				<word number="3">lame</word>
+				<word number="4">halfand-half</word>
+				<word number="5">perfunctory</word>
+				<word number="6">sketchy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="unprepared" headRef="703">crude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mutilated">
+			<sg number="1">
+				<word number="1">mutilated</word>
+				<word number="2">garbled</word>
+				<word number="3">docked</word>
+				<word number="4">lopped</word>
+				<word number="5">truncated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in progress">
+			<sg number="1">
+				<word number="1">in progress</word>
+				<word number="2">in hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">going on</word>
+				<word number="2">proceeding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="incompletely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">incompletely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by halves</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="caetera desunt">
+			<sg number="1">
+				<word number="1">caetera desunt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caret</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

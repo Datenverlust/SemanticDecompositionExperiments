@@ -1,0 +1,739 @@
+getCorrectAnswerNumber_v1()
+terminationCriterion_v1()
+abductive==false
+
+wordType==NOUN
+
+Frage : 1
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: protozoan
+        tatsaechliche Antwort: mesophilic organisms
+    
+    - guessed :0
+        - correctly :0
+    - multiple Options :1
+        - correctly :0
+    - solved :0
+        - correctly :0
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 2
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: tropical
+        tatsaechliche Antwort: coriolis effect
+    
+    - guessed :0
+        - correctly :0
+    - multiple Options :1
+        - correctly :0
+    - solved :1
+        - correctly :0
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 3
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: unbalanced
+        tatsaechliche Antwort: exothermic
+    
+    - guessed :0
+        - correctly :0
+    - multiple Options :2
+        - correctly :0
+    - solved :1
+        - correctly :0
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 5
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: ash
+        tatsaechliche Antwort: smoke and ash
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :2
+        - correctly :0
+    - solved :2
+        - correctly :1
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 6
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: comet
+        tatsaechliche Antwort: meteorite
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :2
+        - correctly :0
+    - solved :3
+        - correctly :1
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 7
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: reaction
+        tatsaechliche Antwort: combustion reaction
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :2
+        - correctly :0
+    - solved :4
+        - correctly :2
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 8
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: species
+        tatsaechliche Antwort: ring species
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :2
+        - correctly :0
+    - solved :5
+        - correctly :3
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 9
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: radiation
+        tatsaechliche Antwort: radioactivity
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :3
+        - correctly :0
+    - solved :5
+        - correctly :3
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 10
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: larval
+        tatsaechliche Antwort: endosperm
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :4
+        - correctly :0
+    - solved :5
+        - correctly :3
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 11
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: metal
+        tatsaechliche Antwort: active metal
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :4
+        - correctly :0
+    - solved :6
+        - correctly :4
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 12
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: learn
+        tatsaechliche Antwort: animal behaviors
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :5
+        - correctly :0
+    - solved :6
+        - correctly :4
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 13
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: serve
+        tatsaechliche Antwort: serving size
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :5
+        - correctly :0
+    - solved :7
+        - correctly :4
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 14
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: radioactive
+        tatsaechliche Antwort: nuclear symbols
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :6
+        - correctly :0
+    - solved :7
+        - correctly :4
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 15
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: gene
+        tatsaechliche Antwort: gene transcription
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :6
+        - correctly :0
+    - solved :8
+        - correctly :5
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 16
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: oxygen
+        tatsaechliche Antwort: oxygen
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :7
+        - correctly :1
+    - solved :8
+        - correctly :5
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 17
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: circulatory
+        tatsaechliche Antwort: circulatory
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :8
+        - correctly :2
+    - solved :8
+        - correctly :5
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 18
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: allergy
+        tatsaechliche Antwort: allergy
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :8
+        - correctly :2
+    - solved :9
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 19
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: bacteriophage
+        tatsaechliche Antwort: a zygote
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :8
+        - correctly :2
+    - solved :10
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 20
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: simultaneously
+        tatsaechliche Antwort: reproduce asexually and sexually
+    
+    - guessed :1
+        - correctly :1
+    - multiple Options :9
+        - correctly :2
+    - solved :10
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 22
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: delivery
+        tatsaechliche Antwort: abortion
+    
+    - guessed :2
+        - correctly :1
+    - multiple Options :10
+        - correctly :2
+    - solved :10
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 24
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: intrinsic
+        tatsaechliche Antwort: intrinsic muscles
+    
+    - guessed :3
+        - correctly :1
+    - multiple Options :11
+        - correctly :3
+    - solved :10
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 26
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: seismic
+        tatsaechliche Antwort: kinetic
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :11
+        - correctly :3
+    - solved :11
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 27
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: seismic
+        tatsaechliche Antwort: geologic map
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :12
+        - correctly :3
+    - solved :11
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 28
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: generation
+        tatsaechliche Antwort: evolution
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :12
+        - correctly :3
+    - solved :12
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 29
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: testosterone
+        tatsaechliche Antwort: testosterone
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :13
+        - correctly :4
+    - solved :12
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 30
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: germ
+        tatsaechliche Antwort: ovaries
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :13
+        - correctly :4
+    - solved :13
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 31
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: energy
+        tatsaechliche Antwort: light energy
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :14
+        - correctly :5
+    - solved :13
+        - correctly :6
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 32
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: endothermic
+        tatsaechliche Antwort: endothermic tetrapod
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :14
+        - correctly :5
+    - solved :14
+        - correctly :7
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 33
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: regular
+        tatsaechliche Antwort: positive and negative
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :15
+        - correctly :5
+    - solved :14
+        - correctly :7
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 34
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: water
+        tatsaechliche Antwort: water
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :15
+        - correctly :5
+    - solved :15
+        - correctly :8
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 35
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: necrosis
+        tatsaechliche Antwort: nucleus
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :16
+        - correctly :5
+    - solved :15
+        - correctly :8
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 36
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: divergent
+        tatsaechliche Antwort: divergent
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :16
+        - correctly :5
+    - solved :16
+        - correctly :9
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 37
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: oxygen
+        tatsaechliche Antwort: carbon
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :17
+        - correctly :5
+    - solved :16
+        - correctly :9
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 38
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: decomposer
+        tatsaechliche Antwort: decomposers
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :17
+        - correctly :5
+    - solved :17
+        - correctly :10
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 39
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: chromosome
+        tatsaechliche Antwort: ribosomes
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :18
+        - correctly :5
+    - solved :17
+        - correctly :10
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 40
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: dna
+        tatsaechliche Antwort: dna
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :19
+        - correctly :6
+    - solved :17
+        - correctly :10
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 41
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: volcano
+        tatsaechliche Antwort: earthquake
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :20
+        - correctly :6
+    - solved :17
+        - correctly :10
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 42
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: ganglion
+        tatsaechliche Antwort: ganglion
+    
+    - guessed :4
+        - correctly :1
+    - multiple Options :20
+        - correctly :6
+    - solved :18
+        - correctly :11
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 44
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: absolute
+        tatsaechliche Antwort: low
+    
+    - guessed :5
+        - correctly :2
+    - multiple Options :20
+        - correctly :6
+    - solved :19
+        - correctly :11
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 45
+    Iterationen: 15
+    Ermittelte Antwort: 4 Marker-Ursprung: gravity
+        tatsaechliche Antwort: weathering
+    
+    - guessed :5
+        - correctly :2
+    - multiple Options :20
+        - correctly :6
+    - solved :20
+        - correctly :11
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 46
+    Iterationen: 15
+    Ermittelte Antwort: 1 Marker-Ursprung: d
+        tatsaechliche Antwort: vitamin d
+    
+    - guessed :5
+        - correctly :2
+    - multiple Options :20
+        - correctly :6
+    - solved :21
+        - correctly :12
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 48
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: hormone
+        tatsaechliche Antwort: enzymes
+    
+    - guessed :6
+        - correctly :2
+    - multiple Options :21
+        - correctly :6
+    - solved :21
+        - correctly :12
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 49
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: sweat
+        tatsaechliche Antwort: air and water
+    
+    - guessed :6
+        - correctly :2
+    - multiple Options :21
+        - correctly :6
+    - solved :22
+        - correctly :12
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 50
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: longitude
+        tatsaechliche Antwort: magnitude
+    
+    - guessed :6
+        - correctly :2
+    - multiple Options :21
+        - correctly :6
+    - solved :23
+        - correctly :12
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 51
+    Iterationen: 15
+    Ermittelte Antwort: 3 Marker-Ursprung: papilla
+        tatsaechliche Antwort: papillae
+    
+    - guessed :6
+        - correctly :2
+    - multiple Options :21
+        - correctly :6
+    - solved :24
+        - correctly :13
+    - abductive :0
+        - correctly :0
+
+--------------------- 
+
+Frage : 52
+    Iterationen: 15
+    Ermittelte Antwort: 2 Marker-Ursprung: gravity
+        tatsaechliche Antwort: gravity
+    
+    - guessed :6
+        - correctly :2
+    - multiple Options :21
+        - correctly :6
+    - solved :25
+        - correctly :14
+    - abductive :0
+        - correctly :0

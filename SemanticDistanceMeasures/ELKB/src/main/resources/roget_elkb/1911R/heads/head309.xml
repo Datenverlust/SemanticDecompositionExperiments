@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="309" name="Food" origNum="#298." class="2" section="4" subSection="4" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="eating">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">eating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deglutition</word>
+				<word number="2">gulp</word>
+				<word number="3">epulation</word>
+				<word number="4">mastication</word>
+				<word number="5">manducation</word>
+				<word number="6">rumination</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="gluttony" headRef="1000">gluttony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hippophagy">
+			<sg number="1">
+				<word number="1">hippophagy</word>
+				<word number="2">ichthyophagy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="appetite">
+			<sg number="1">
+				<word number="1" paraRef="appetite" headRef="904">appetite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mouth">
+			<sg number="1">
+				<word number="1">mouth</word>
+				<word number="2">jaws</word>
+				<word number="3">mandible</word>
+				<word number="4">mazard</word>
+				<word number="5">chops</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="drinking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">drinking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">potation</word>
+				<word number="2">draught</word>
+				<word number="3">libation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="amusement" headRef="878">carousal</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="drunkenness" headRef="1002">drunkenness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="food">
+			<sg number="1">
+				<word number="1">food</word>
+				<word number="2">pabulum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aliment</word>
+				<word number="2">nourishment</word>
+				<word number="3">nutriment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sustenance</word>
+				<word number="2">sustentation</word>
+				<word number="3">sustention</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nurture</word>
+				<word number="2">subsistence</word>
+				<word number="3">provender</word>
+				<word number="4">corn</word>
+				<word number="5">feed</word>
+				<word number="6">fodder</word>
+				<word number="7">provision</word>
+				<word number="8">ration</word>
+				<word number="9">keep</word>
+				<word number="10">commons</word>
+				<word number="11">board</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="provision" headRef="666">commissariat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">prey</word>
+				<word number="2">forage</word>
+				<word number="3">pasture</word>
+				<word number="4">pasturage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fare</word>
+				<word number="2">cheer</word>
+			</sg>
+			<sg number="8">
+				<word number="1">diet</word>
+				<word number="2">dietary</word>
+			</sg>
+			<sg number="9">
+				<word number="1">regimen</word>
+			</sg>
+			<sg number="10">
+				<word number="1">belly timber</word>
+				<word number="2">staff of life</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bread</word>
+				<word number="2">bread and cheese</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">claris</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="comestibles">
+			<sg number="1">
+				<word number="1">comestibles</word>
+				<word number="2">eatables</word>
+				<word number="3">victuals</word>
+				<word number="4">edibles</word>
+				<word number="5">ingesta</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grub</word>
+				<word number="2">grubstake</word>
+				<word number="3">prog</word>
+				<word number="4">meat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bread</word>
+				<word number="2">bread stuffs</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cerealia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cereals</word>
+			</sg>
+			<sg number="6">
+				<word number="1">viands</word>
+				<word number="2">cates</word>
+				<word number="3">delicacy</word>
+				<word number="4">dainty</word>
+				<word number="5">creature comforts</word>
+				<word number="6">contents of the larder</word>
+				<word number="7">fleshpots</word>
+			</sg>
+			<sg number="7">
+				<word number="1">festal board</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ambrosia</word>
+			</sg>
+			<sg number="9">
+				<word number="1">good cheer</word>
+				<word number="2">good living</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="beef">
+			<sg number="1">
+				<word number="1">beef</word>
+				<word number="2">bisquit</word>
+				<word number="3">bun</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cornstarch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cookie</word>
+				<word number="2">cooky</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cracker</word>
+				<word number="2">doughnut</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fatling</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hardtack</word>
+				<word number="2">hoecake</word>
+				<word number="3">hominy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mutton</word>
+				<word number="2">pilot bread</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pork</word>
+			</sg>
+			<sg number="9">
+				<word number="1">roti</word>
+				<word number="2">rusk</word>
+				<word number="3">ship biscuit</word>
+			</sg>
+			<sg number="10">
+				<word number="1">veal</word>
+			</sg>
+			<sg number="11">
+				<word number="1">joint</word>
+				<word number="2">piece de resistance</word>
+				<word number="3">roast and boiled</word>
+			</sg>
+			<sg number="12">
+				<word number="1">remove</word>
+				<word number="2">entremet</word>
+			</sg>
+			<sg number="13">
+				<word number="1">releve</word>
+				<word number="2">hash</word>
+				<word number="3">rechauffe</word>
+				<word number="4">stew</word>
+				<word number="5">ragout</word>
+				<word number="6">fricassee</word>
+				<word number="7">mince</word>
+			</sg>
+			<sg number="14">
+				<word number="1">pottage</word>
+				<word number="2">potage</word>
+				<word number="3">broth</word>
+				<word number="4">soup</word>
+				<word number="5">consomme</word>
+				<word number="6">puree</word>
+				<word number="7">spoonmeat</word>
+			</sg>
+			<sg number="15">
+				<word number="1">pie</word>
+				<word number="2">pasty</word>
+				<word number="3">volauvent</word>
+			</sg>
+			<sg number="16">
+				<word number="1">pudding</word>
+				<word number="2">omelet</word>
+			</sg>
+			<sg number="17">
+				<word number="1">pastry</word>
+			</sg>
+			<sg number="18">
+				<word number="1">sweets</word>
+			</sg>
+			<sg number="19">
+				<word number="1">kickshaws</word>
+			</sg>
+			<sg number="20">
+				<word number="1" paraRef="condiment" headRef="409">condiment</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">clapperboard</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">stricto</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">negro</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">taverna</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">bailli</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">middlegame</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">rocketship</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">subpeak</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="1">metamorphosis</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="1">helmsman</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="1">zamia</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="1">statuary</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="1">wrymouth</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="1">birch</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="1">grotesquerie</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="1">inaction</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="1">bombard</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="1">lampoon</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="1">shortlist</word>
+			</sg>
+			<sg number="40">
+				<word number="1" new="1">dualists</word>
+			</sg>
+			<sg number="41">
+				<word number="1" new="1">dixieland</word>
+			</sg>
+			<sg number="42">
+				<word number="1" new="1">missing</word>
+			</sg>
+			<sg number="43">
+				<word number="1" new="1">archil</word>
+			</sg>
+			<sg number="44">
+				<word number="1" new="1">paresthesia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="appetizer">
+			<sg number="1">
+				<word number="1">appetizer</word>
+				<word number="2">hors d'oeuvre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="main course">
+			<sg number="1">
+				<word number="1">main course</word>
+				<word number="2">entree</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="alligator pear">
+			<sg number="1">
+				<word number="1">alligator pear</word>
+				<word number="2">apple</word>
+				<word number="3">apple slump</word>
+			</sg>
+			<sg number="2">
+				<word number="1">artichoke</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ashcake</word>
+				<word number="2">griddlecake</word>
+				<word number="3">pancake</word>
+				<word number="4">flapjack</word>
+			</sg>
+			<sg number="4">
+				<word number="1">atole</word>
+				<word number="2">avocado</word>
+				<word number="3">banana</word>
+				<word number="4">beche de mer</word>
+				<word number="5">barbecue</word>
+				<word number="6">beefsteak</word>
+			</sg>
+			<sg number="5">
+				<word number="1">beet root</word>
+			</sg>
+			<sg number="6">
+				<word number="1">blackberry</word>
+				<word number="2">blancmange</word>
+				<word number="3">bloater</word>
+				<word number="4">bouilli</word>
+				<word number="5">bouillon</word>
+				<word number="6">breadfruit</word>
+				<word number="7">chop suey</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chowder</word>
+				<word number="2">chupatty</word>
+				<word number="3">clam</word>
+				<word number="4">compote</word>
+				<word number="5">damper</word>
+				<word number="6">fish</word>
+				<word number="7">frumenty</word>
+				<word number="8">grapes</word>
+				<word number="9">hasty pudding</word>
+				<word number="10">ice cream</word>
+				<word number="11">lettuce</word>
+				<word number="12">mango</word>
+				<word number="13">mangosteen</word>
+				<word number="14">mince pie</word>
+				<word number="15">oatmeal</word>
+				<word number="16">oyster</word>
+				<word number="17">pineapple</word>
+				<word number="18">porridge</word>
+				<word number="19">porterhouse steak</word>
+				<word number="20">salmis</word>
+				<word number="21">sauerkraut</word>
+				<word number="22">sea slug</word>
+				<word number="23">sturgeon ("Albany beef")</word>
+				<word number="24">succotash</word>
+				<word number="25">supawn</word>
+				<word number="26">trepang</word>
+				<word number="27">vanilla</word>
+				<word number="28">waffle</word>
+				<word number="29">walnut</word>
+				<word number="30" new="1">martyr</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">deciphering</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">mods</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">pata</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">halukkah</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">depopulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="table">
+			<sg number="1">
+				<word number="1">table</word>
+				<word number="2">cuisine</word>
+				<word number="3">bill of fare</word>
+				<word number="4">menu</word>
+				<word number="5">table d'hote</word>
+				<word number="6">ordinary</word>
+				<word number="7">entree</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="meal">
+			<sg number="1">
+				<word number="1">meal</word>
+				<word number="2">repast</word>
+				<word number="3">feed</word>
+				<word number="4">spread</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mess</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dish</word>
+				<word number="2">plate</word>
+				<word number="3">course</word>
+			</sg>
+			<sg number="4">
+				<word number="1">regale</word>
+			</sg>
+			<sg number="5">
+				<word number="1">regalement</word>
+				<word number="2">refreshment</word>
+				<word number="3">entertainment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">refection</word>
+				<word number="2">collation</word>
+				<word number="3">picnic</word>
+				<word number="4">feast</word>
+				<word number="5">banquet</word>
+				<word number="6">junket</word>
+			</sg>
+			<sg number="7">
+				<word number="1">breakfast</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lunch</word>
+				<word number="2">luncheon</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dejeuner</word>
+				<word number="2">bever</word>
+				<word number="3">tiffin</word>
+				<word number="4">dinner</word>
+				<word number="5">supper</word>
+				<word number="6">snack</word>
+				<word number="7">junk food</word>
+				<word number="8">fast food</word>
+				<word number="9">whet</word>
+				<word number="10">bait</word>
+				<word number="11">dessert</word>
+				<word number="12" new="1">shootout</word>
+				<word number="13" new="1">abseil</word>
+				<word number="14" new="1">cisplatin</word>
+			</sg>
+			<sg number="10">
+				<word number="1">potluck</word>
+				<word number="2">table d'hote</word>
+				<word number="3">dejeuner a la fourchette</word>
+			</sg>
+			<sg number="11">
+				<word number="1">hearty meal</word>
+				<word number="2">square meal</word>
+				<word number="3">substantial meal</word>
+				<word number="4">full meal</word>
+			</sg>
+			<sg number="12">
+				<word number="1">blowout*</word>
+			</sg>
+			<sg number="13">
+				<word number="1">light refreshment</word>
+			</sg>
+			<sg number="14">
+				<word number="1">bara</word>
+				<word number="2">chotahazri</word>
+			</sg>
+			<sg number="15">
+				<word number="1">bara khana</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">stymie</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">supertall</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">frazione</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">lahar</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">hay</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">buffalos</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">marshrutka</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">shrubland</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">ffolkes</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">lecteurs</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">rapier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="mouthful">
+			<sg number="1">
+				<word number="1">mouthful</word>
+				<word number="2">bolus</word>
+				<word number="3">gobbet</word>
+				<word number="4">morsel</word>
+				<word number="5">sop</word>
+				<word number="6">sippet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="drink">
+			<sg number="1">
+				<word number="1">drink</word>
+				<word number="2">beverage</word>
+				<word number="3">liquor</word>
+				<word number="4">broth</word>
+				<word number="5">soup</word>
+				<word number="6" new="1">pustule</word>
+				<word number="7" new="1">duomo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">potion</word>
+				<word number="2">dram</word>
+				<word number="3">draught</word>
+				<word number="4">drench</word>
+				<word number="5">swill*</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nip</word>
+				<word number="2">sip</word>
+				<word number="3">sup</word>
+				<word number="4">gulp</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="wine">
+			<sg number="1">
+				<word number="1">wine</word>
+				<word number="2">spirits</word>
+				<word number="3">liqueur</word>
+				<word number="4">beer</word>
+				<word number="5">ale</word>
+				<word number="6">malt liquor</word>
+				<word number="7">Sir John Barleycorn</word>
+				<word number="8">stingo</word>
+				<word number="9">heavy wet</word>
+				<word number="10" new="1">nacre</word>
+				<word number="11" new="1">icosicosidodecahedron</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grog</word>
+				<word number="2">toddy</word>
+				<word number="3">flip</word>
+				<word number="4">purl</word>
+				<word number="5">punch</word>
+				<word number="6">negus</word>
+				<word number="7">cup</word>
+				<word number="8">bishop</word>
+				<word number="9">wassail</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intoxication" headRef="1002">gin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coffee</word>
+				<word number="2">chocolate</word>
+				<word number="3">cocoa</word>
+				<word number="4">tea</word>
+				<word number="5">the cup that cheers but not inebriates</word>
+				<word number="6" new="1">matchday</word>
+				<word number="7" new="1">sheepdog</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bock beer</word>
+				<word number="2">lager beer</word>
+				<word number="3">Pilsener beer</word>
+				<word number="4">schenck beer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Brazil tea</word>
+				<word number="2">cider</word>
+				<word number="3">claret</word>
+				<word number="4">ice water</word>
+				<word number="5">mate</word>
+				<word number="6">mint julep</word>
+			</sg>
+			<sg number="7">
+				<word number="1">near beer</word>
+				<word number="2">3.2 beer</word>
+				<word number="3">non-alcoholic beverage</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">vault</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">ambit</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">diction</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">criminalization</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">snow</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">inclusiveness</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">billing</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">quinolone</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">colchicine</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">lyricism</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">kway</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">vindication</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="eating house">
+			<sg number="1">
+				<word number="1" paraRef="eating house" headRef="198">eating house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="diner">
+			<sg number="1">
+				<word number="1">diner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hippophage</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="glutton" headRef="1000">glutton</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="dukedom">
+			<sg number="1">
+				<word number="1" new="1">dukedom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="overestimation">
+			<sg number="1">
+				<word number="1" new="1">overestimation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="macrocycles">
+			<sg number="1">
+				<word number="1" new="1">macrocycles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="teletypes">
+			<sg number="1">
+				<word number="1" new="1">teletypes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="cephalofoil">
+			<sg number="1">
+				<word number="1" new="1">cephalofoil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="mammalogy">
+			<sg number="1">
+				<word number="1" new="1">mammalogy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="nephrology">
+			<sg number="1">
+				<word number="1" new="1">nephrology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="southside">
+			<sg number="1">
+				<word number="1" new="1">southside</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="malformation">
+			<sg number="1">
+				<word number="1" new="1">malformation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="sono">
+			<sg number="1">
+				<word number="1" new="1">sono</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="bton">
+			<sg number="1">
+				<word number="1" new="1">bton</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="scientific">
+			<sg number="1">
+				<word number="1" new="1">scientific</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="infraorder">
+			<sg number="1">
+				<word number="1" new="1">infraorder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="seizing">
+			<sg number="1">
+				<word number="1" new="1">seizing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="levelling">
+			<sg number="1">
+				<word number="1" new="1">levelling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="required">
+			<sg number="1">
+				<word number="1" new="1">required</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="dossier">
+			<sg number="1">
+				<word number="1" new="1">dossier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="herpes">
+			<sg number="1">
+				<word number="1" new="1">herpes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="imprint">
+			<sg number="1">
+				<word number="1" new="1">imprint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="38" name="sleet">
+			<sg number="1">
+				<word number="1" new="1">sleet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="39" name="frisk">
+			<sg number="1">
+				<word number="1" new="1">frisk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="40" name="combe">
+			<sg number="1">
+				<word number="1" new="1">combe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="41" name="galliard">
+			<sg number="1">
+				<word number="1" new="1">galliard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="42" name="bei">
+			<sg number="1">
+				<word number="1" new="1">bei</word>
+			</sg>
+		</paragraph>
+		<paragraph number="43" name="vaccinia">
+			<sg number="1">
+				<word number="1" new="1">vaccinia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="44" name="kiosk">
+			<sg number="1">
+				<word number="1" new="1">kiosk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="45" name="carers">
+			<sg number="1">
+				<word number="1" new="1">carers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="46" name="mentality">
+			<sg number="1">
+				<word number="1" new="1">mentality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="47" name="tankettes">
+			<sg number="1">
+				<word number="1" new="1">tankettes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="48" name="sadism">
+			<sg number="1">
+				<word number="1" new="1">sadism</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="eat">
+			<sg number="1">
+				<word number="1">eat</word>
+				<word number="2">feed</word>
+				<word number="3">fare</word>
+				<word number="4">devour</word>
+				<word number="5">swallow</word>
+				<word number="6">take</word>
+				<word number="7" new="1">swirl</word>
+				<word number="8" new="1">rerun</word>
+				<word number="9" new="1">victimise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gulp</word>
+				<word number="2">bolt</word>
+				<word number="3">snap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">despatch</word>
+				<word number="2">dispatch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">discuss</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take down</word>
+				<word number="2">get down</word>
+				<word number="3">gulp down</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay in</word>
+				<word number="2">tuck in*</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lick</word>
+				<word number="2">pick</word>
+				<word number="3">peck</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="gormandize" headRef="1000">gormandize</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bite</word>
+				<word number="2">champ</word>
+				<word number="3">munch</word>
+				<word number="4">cranch</word>
+				<word number="5">craunch</word>
+				<word number="6">crunch</word>
+				<word number="7">chew</word>
+				<word number="8">masticate</word>
+				<word number="9">nibble</word>
+				<word number="10">gnaw</word>
+				<word number="11">mumble</word>
+				<word number="12" new="1">elucidate</word>
+				<word number="13" new="1">outlast</word>
+				<word number="14" new="1">deodorize</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">bicker</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">accrete</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">glimmer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="live on">
+			<sg number="1">
+				<word number="1">live on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feed upon</word>
+				<word number="2">batten upon</word>
+				<word number="3">fatten upon</word>
+				<word number="4">feast upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">browse</word>
+				<word number="2">graze</word>
+				<word number="3">crop</word>
+				<word number="4">regale</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="make merry" headRef="878">carouse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eat heartily</word>
+				<word number="2">do justice to</word>
+				<word number="3">play a good knife and fork</word>
+				<word number="4">banquet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="break bread">
+			<sg number="1">
+				<word number="1">break bread</word>
+				<word number="2">break one's fast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">breakfast</word>
+				<word number="2">lunch</word>
+				<word number="3">dine</word>
+				<word number="4">take tea</word>
+				<word number="5">sup</word>
+				<word number="6" new="1">fraternize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="drink in">
+			<sg number="1">
+				<word number="1">drink in</word>
+				<word number="2">drink up</word>
+				<word number="3">drink one's fill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quaff</word>
+				<word number="2">sip</word>
+				<word number="3">sup</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suck</word>
+				<word number="2">suck up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lap</word>
+			</sg>
+			<sg number="5">
+				<word number="1">swig</word>
+			</sg>
+			<sg number="6">
+				<word number="1">swill*</word>
+				<word number="2">chugalug</word>
+				<word number="3" paraRef="be drunk" headRef="1002">tipple</word>
+			</sg>
+			<sg number="7">
+				<word number="1">empty one's glass</word>
+				<word number="2">drain the cup</word>
+			</sg>
+			<sg number="8">
+				<word number="1">toss off</word>
+				<word number="2">toss one's glass</word>
+			</sg>
+			<sg number="9">
+				<word number="1">wash down</word>
+				<word number="2">crack a bottle</word>
+				<word number="3">wet one's whistle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="purvey">
+			<sg number="1">
+				<word number="1" paraRef="purvey" headRef="666">purvey</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="eatable">
+			<sg number="1">
+				<word number="1">eatable</word>
+				<word number="2">edible</word>
+				<word number="3">esculent</word>
+				<word number="4">comestible</word>
+				<word number="5">alimentary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cereal</word>
+				<word number="2">cibarious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dietetic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">culinary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nutritive</word>
+				<word number="2">nutritious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gastric</word>
+			</sg>
+			<sg number="7">
+				<word number="1">succulent</word>
+			</sg>
+			<sg number="8">
+				<word number="1">potable</word>
+				<word number="2">potulent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bibulous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="omnivorous">
+			<sg number="1">
+				<word number="1">omnivorous</word>
+				<word number="2">carnivorous</word>
+				<word number="3">herbivorous</word>
+				<word number="4">granivorous</word>
+				<word number="5">graminivorous</word>
+				<word number="6">phytivorous</word>
+				<word number="7" new="1">raking</word>
+				<word number="8" new="1">hypothalamic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ichthyivorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">omophagic</word>
+				<word number="2">omophagous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pantophagous</word>
+				<word number="2">phytophagous</word>
+				<word number="3">xylophagous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="across the walnuts and the wine">
+			<sg number="1">
+				<word number="1">"across the walnuts and the wine"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"blessed hour of our dinners!"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"now good digestion wait on appetite</word>
+				<word number="2">and health on both!"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"who can cloy the hungry edge of appetite?"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

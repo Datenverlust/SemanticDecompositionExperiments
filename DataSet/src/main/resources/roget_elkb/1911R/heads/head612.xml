@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="612" name="Allocution" origNum="#586." class="5" section="3" subSection="2" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="allocution">
+			<sg number="1">
+				<word number="1">allocution</word>
+				<word number="2">alloquy</word>
+				<word number="3">address</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="speech" headRef="608">speech</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apostrophe</word>
+				<word number="2">interpellation</word>
+				<word number="3">appeal</word>
+				<word number="4">invocation</word>
+				<word number="5">salutation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">word in the ear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dialogism">
+			<sg number="1">
+				<word number="1">dialogism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="platform">
+			<sg number="1">
+				<word number="1" paraRef="platform" headRef="568">platform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plank</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="interview" headRef="614">audience</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="speak to">
+			<sg number="1">
+				<word number="1">speak to</word>
+				<word number="2">address</word>
+				<word number="3">accost</word>
+				<word number="4">make up to</word>
+				<word number="5">apostrophize</word>
+				<word number="6">appeal to</word>
+				<word number="7">invoke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ball</word>
+				<word number="2">salute</word>
+			</sg>
+			<sg number="3">
+				<word number="1">call to</word>
+				<word number="2">halloo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take aside">
+			<sg number="1">
+				<word number="1">take aside</word>
+				<word number="2">take by the button</word>
+			</sg>
+			<sg number="2">
+				<word number="1">talk to in private</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lecture">
+			<sg number="1">
+				<word number="1" paraRef="make a speech" headRef="608">lecture</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="soho">
+			<sg number="1">
+				<word number="1">soho!</word>
+				<word number="2">halloo!</word>
+				<word number="3">hey!</word>
+				<word number="4">hist!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

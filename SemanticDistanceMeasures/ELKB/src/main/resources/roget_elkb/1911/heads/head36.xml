@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="36" name="Inferiority" origNum="#34." class="1" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inferiority">
+			<sg number="1">
+				<word number="1">inferiority</word>
+				<word number="2">minority</word>
+				<word number="3">subordinacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shortcoming</word>
+				<word number="2">deficiency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">minimum</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="smallness" headRef="34">smallness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">imperfection</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lower quality</word>
+				<word number="2">lower worth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="commonalty">
+			<sg number="1">
+				<word number="1" paraRef="commonalty" headRef="915">commonalty</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inferior">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inferior</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall short of</word>
+				<word number="2">come short of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not pass</word>
+				<word number="2">not come up to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">want</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="become smaller">
+			<sg number="1">
+				<word number="1">become smaller</word>
+				<word number="2" paraRef="decrease" headRef="38">render smaller</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hide its diminished head</word>
+				<word number="2">retire into the shade</word>
+				<word number="3">yield the palm</word>
+				<word number="4">play second fiddle</word>
+				<word number="5">be upstaged</word>
+				<word number="6">take a back seat</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inferior">
+			<sg number="1">
+				<word number="1">inferior</word>
+				<word number="2">smaller</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="small" headRef="34">small</word>
+			</sg>
+			<sg number="3">
+				<word number="1">minor</word>
+				<word number="2">less</word>
+				<word number="3">lesser</word>
+				<word number="4">deficient</word>
+				<word number="5">minus</word>
+				<word number="6">lower</word>
+				<word number="7">subordinate</word>
+				<word number="8">secondary</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="imperfect" headRef="680">second-rate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sub</word>
+				<word number="2">subaltern</word>
+			</sg>
+			<sg number="6">
+				<word number="1">thrown into the shade</word>
+			</sg>
+			<sg number="7">
+				<word number="1">weighed in the balance and found wanting</word>
+			</sg>
+			<sg number="8">
+				<word number="1">not fit to hold a candle to</word>
+				<word number="2">can't hold a candle to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="least">
+			<sg number="1">
+				<word number="1">least</word>
+				<word number="2" paraRef="little" headRef="202">smallest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lowest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="diminished">
+			<sg number="1">
+				<word number="1" paraRef="decreased" headRef="38">diminished</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contracted" headRef="204">reduced</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unimportant" headRef="672">unimportant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="less">
+			<sg number="1">
+				<word number="1">less</word>
+			</sg>
+			<sg number="2">
+				<word number="1">under the mark</word>
+				<word number="2">below the mark</word>
+				<word number="3">below par</word>
+			</sg>
+			<sg number="3">
+				<word number="1">at the bottom of the scale</word>
+				<word number="2">at a low  ebb</word>
+				<word number="3">at a disadvantage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">short of</word>
+				<word number="2">under</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

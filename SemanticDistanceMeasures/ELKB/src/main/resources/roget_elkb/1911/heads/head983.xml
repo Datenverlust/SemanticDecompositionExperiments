@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="983" name="Knave" origNum="#941." class="8" section="4" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="knave">
+			<sg number="1">
+				<word number="1">knave</word>
+				<word number="2">rogue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Scapin</word>
+				<word number="2">rascal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Lazarillo de Tormes</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="bad man" headRef="991">bad man</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="blackguard" headRef="991">blackguard</word>
+			</sg>
+			<sg number="6">
+				<word number="1">barrater</word>
+				<word number="2">barrator</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shyster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="traitor">
+			<sg number="1">
+				<word number="1">traitor</word>
+				<word number="2">betrayer</word>
+				<word number="3">archtraitor</word>
+				<word number="4">conspirator</word>
+				<word number="5">Judas</word>
+				<word number="6">Catiline</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reptile</word>
+				<word number="2">serpent</word>
+				<word number="3">snake in the grass</word>
+				<word number="4">wolf in sheep's clothing</word>
+				<word number="5">sneak</word>
+				<word number="6">Jerry Sneak</word>
+				<word number="7">squealer*</word>
+				<word number="8">tell-tale</word>
+				<word number="9">mischief-maker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trimmer</word>
+				<word number="2">fence-sitter</word>
+				<word number="3" paraRef="tergiversation" headRef="634">renegade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">truant</word>
+				<word number="2">recreant</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="servility" headRef="925">sycophant</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

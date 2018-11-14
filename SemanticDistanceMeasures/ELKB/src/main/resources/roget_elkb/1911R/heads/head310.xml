@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="310" name="Excretion" origNum="#299." class="2" section="4" subSection="4" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="excretion">
+			<sg number="1">
+				<word number="1">excretion</word>
+				<word number="2">discharge</word>
+				<word number="3">emanation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exhalation</word>
+				<word number="2">exudation</word>
+				<word number="3">extrusion</word>
+				<word number="4">secretion</word>
+				<word number="5">effusion</word>
+				<word number="6">extravasation</word>
+				<word number="7">ecchymosis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">evacuation</word>
+				<word number="2">dejection</word>
+				<word number="3">faeces</word>
+				<word number="4">excrement</word>
+				<word number="5">shit</word>
+				<word number="6">stools</word>
+				<word number="7">crap</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bloody flux</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cacation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">coeliac-flux</word>
+				<word number="2">coeliac-passion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dysentery</word>
+			</sg>
+			<sg number="8">
+				<word number="1">perspiration</word>
+				<word number="2">sweat</word>
+			</sg>
+			<sg number="9">
+				<word number="1">subation</word>
+				<word number="2">exudation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">diaphoresis</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sewage</word>
+			</sg>
+			<sg number="12">
+				<word number="1">eccrinology</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">sporophyll</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="saliva">
+			<sg number="1">
+				<word number="1">saliva</word>
+				<word number="2">spittle</word>
+				<word number="3">rheum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ptyalism</word>
+				<word number="2">salivation</word>
+				<word number="3">catarrh</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diarrhoea</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ejecta</word>
+				<word number="2">egesta</word>
+				<word number="3">sputa</word>
+			</sg>
+			<sg number="5">
+				<word number="1">excreta</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lava</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="uncleanness" headRef="682">exuviae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hemorrhage">
+			<sg number="1">
+				<word number="1">hemorrhage</word>
+				<word number="2">bleeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="egress" headRef="306">outpouring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="crudeness">
+			<sg number="1">
+				<word number="1" new="1">crudeness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="excrete">
+			<sg number="1">
+				<word number="1" paraRef="eject" headRef="308">excrete</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="come out of" headRef="306">emanate</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

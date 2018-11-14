@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1013" name="Acquittal" origNum="#970." class="8" section="4" subSection="5" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="acquittal">
+			<sg number="1">
+				<word number="1">acquittal</word>
+				<word number="2">acquitment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clearance</word>
+				<word number="2">exculpation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acquittance</word>
+				<word number="2">clearance</word>
+				<word number="3">exoneration</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="release" headRef="781">discharge</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quietus</word>
+				<word number="2">absolution</word>
+				<word number="3">compurgation</word>
+				<word number="4">reprieve</word>
+				<word number="5">respite</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="forgiveness" headRef="959">pardon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="impunity">
+			<sg number="1">
+				<word number="1">impunity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diplomatic immunity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immunity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plea bargain</word>
+				<word number="2">deal with the prosecutor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="no cause for action">
+			<sg number="1">
+				<word number="1">no cause for action</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no damages</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="acquit">
+			<sg number="1">
+				<word number="1">acquit</word>
+				<word number="2">exculpate</word>
+				<word number="3">exonerate</word>
+				<word number="4">clear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">absolve</word>
+				<word number="2">whitewash</word>
+				<word number="3">assoil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discharge</word>
+				<word number="2">release</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="liberate" headRef="781">liberate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reprieve">
+			<sg number="1">
+				<word number="1">reprieve</word>
+				<word number="2">respite</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="forgive" headRef="959">pardon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">let off</word>
+				<word number="2">let off scot- free</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drop the charges">
+			<sg number="1">
+				<word number="1">drop the charges</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="plea bargain">
+			<sg number="1">
+				<word number="1">plea bargain</word>
+				<word number="2">strike a deal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="no-cause">
+			<sg number="1">
+				<word number="1">no-cause</word>
+			</sg>
+			<sg number="2">
+				<word number="1">get no-caused</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="acquitted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">acquitted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncondemned</word>
+				<word number="2">unpunished</word>
+				<word number="3">unchastised</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not guilty">
+			<sg number="1">
+				<word number="1">not guilty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not proven</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="not liable">
+			<sg number="1">
+				<word number="1">not liable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nemo bis punitur pro codem delicto">
+			<sg number="1">
+				<word number="1">nemo bis punitur pro codem delicto</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

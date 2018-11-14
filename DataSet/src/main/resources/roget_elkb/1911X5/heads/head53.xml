@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="53" name="Whole" origNum="#50." class="1" section="3" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="whole">
+			<sg number="1">
+				<word number="1">whole</word>
+				<word number="2">totality</word>
+				<word number="3">integrity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">totalness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">entirety</word>
+				<word number="2">ensemble</word>
+				<word number="3">collectiveness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unity" headRef="91">unity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="completeness" headRef="55">completeness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">indivisibility</word>
+				<word number="2">indiscerptibility</word>
+			</sg>
+			<sg number="7">
+				<word number="1">integration</word>
+				<word number="2">embodiment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">integer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="all">
+			<sg number="1">
+				<word number="1">all</word>
+				<word number="2">the whole</word>
+				<word number="3">total</word>
+				<word number="4">aggregate</word>
+				<word number="5">one and all</word>
+				<word number="6">gross amount</word>
+				<word number="7">sum</word>
+				<word number="8">sum total</word>
+				<word number="9">tout ensemble</word>
+				<word number="10">length and breadth of</word>
+				<word number="11">Alpha and Omega</word>
+				<word number="12">"be all and end all"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">complex</word>
+				<word number="2">complexus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lock stock and barrel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bulk">
+			<sg number="1">
+				<word number="1">bulk</word>
+				<word number="2">mass</word>
+				<word number="3">lump</word>
+				<word number="4">tissue</word>
+				<word number="5">staple</word>
+				<word number="6">body</word>
+				<word number="7">compages</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trunk</word>
+				<word number="2">torso</word>
+				<word number="3">bole</word>
+				<word number="4">hull</word>
+				<word number="5">hulk</word>
+				<word number="6">skeleton greater part</word>
+				<word number="7">major part</word>
+				<word number="8">best part</word>
+				<word number="9">principal part</word>
+				<word number="10">main part</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="importance" headRef="671">essential part</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lion's share</word>
+				<word number="2">Benjamin's mess</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the long and the short</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nearly</word>
+				<word number="2">all</word>
+				<word number="3">almost all</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="form a whole">
+			<sg number="1">
+				<word number="1">form a whole</word>
+				<word number="2">constitute a whole</word>
+			</sg>
+			<sg number="2">
+				<word number="1">integrate</word>
+				<word number="2">embody</word>
+				<word number="3">amass</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="assemble" headRef="76">aggregate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amount to</word>
+				<word number="2">come to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="whole">
+			<sg number="1">
+				<word number="1">whole</word>
+				<word number="2">total</word>
+				<word number="3">integral</word>
+				<word number="4">entire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="complete" headRef="55">complete</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one</word>
+				<word number="2">individual</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unbroken">
+			<sg number="1">
+				<word number="1">unbroken</word>
+				<word number="2">intact</word>
+				<word number="3">uncut</word>
+				<word number="4">undivided</word>
+				<word number="5">unsevered</word>
+				<word number="6">unclipped</word>
+				<word number="7">uncropped</word>
+				<word number="8">unshorn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seamless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undiminished</word>
+			</sg>
+			<sg number="4">
+				<word number="1">undemolished</word>
+				<word number="2">undissolved</word>
+				<word number="3">undestroyed</word>
+				<word number="4">unbruised</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="indivisible">
+			<sg number="1">
+				<word number="1">indivisible</word>
+				<word number="2">indissoluble</word>
+				<word number="3">indissolvable</word>
+				<word number="4">indiscerptible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wholesale">
+			<sg number="1">
+				<word number="1">wholesale</word>
+				<word number="2">sweeping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">comprehensive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="wholly">
+			<sg number="1">
+				<word number="1">wholly</word>
+				<word number="2">altogether</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="completely" headRef="55">totally</word>
+			</sg>
+			<sg number="3">
+				<word number="1">entirely</word>
+				<word number="2">all</word>
+				<word number="3">all in all</word>
+				<word number="4">as a whole</word>
+				<word number="5">wholesale</word>
+				<word number="6">in a body</word>
+				<word number="7">collectively</word>
+				<word number="8">all put together</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the aggregate</word>
+				<word number="2">in the lump</word>
+				<word number="3">in the mass</word>
+				<word number="4">in the gross</word>
+				<word number="5">in the main</word>
+				<word number="6">in the long run</word>
+			</sg>
+			<sg number="5">
+				<word number="1">en masse</word>
+				<word number="2">as a body</word>
+				<word number="3">on the whole</word>
+				<word number="4">bodily!</word>
+				<word number="5">en bloc</word>
+				<word number="6">in extenso</word>
+				<word number="7">throughout</word>
+				<word number="8">every inch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">substantially</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="tout bien ou rien">
+			<sg number="1">
+				<word number="1">tout bien ou rien</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="37" name="Increase" origNum="#35." class="1" section="3" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="increase">
+			<sg number="1">
+				<word number="1">increase</word>
+				<word number="2">augmentation</word>
+				<word number="3">enlargement</word>
+				<word number="4">extension</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expansion" headRef="203">dilatation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">increment</word>
+				<word number="2">accretion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="accession" headRef="39">accession</word>
+			</sg>
+			<sg number="5">
+				<word number="1">development</word>
+				<word number="2">growth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aggrandizement</word>
+				<word number="2">aggravation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rise</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ascent" headRef="316">ascent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">exaggeration</word>
+				<word number="2">exacerbation</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="dispersion" headRef="77">spread</word>
+			</sg>
+			<sg number="11">
+				<word number="1">flood tide</word>
+			</sg>
+			<sg number="12">
+				<word number="1">gain</word>
+				<word number="2">produce</word>
+				<word number="3">product</word>
+				<word number="4">profit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="increase">
+			<sg number="1">
+				<word number="1">increase</word>
+				<word number="2">augment</word>
+				<word number="3">add to</word>
+				<word number="4">enlarge</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expand" headRef="203">dilate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grow</word>
+				<word number="2">wax</word>
+				<word number="3">get ahead</word>
+				<word number="4">gain strength</word>
+			</sg>
+			<sg number="4">
+				<word number="1">advance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">run up</word>
+				<word number="2">shoot up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rise</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="ascend" headRef="316">ascend</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="sprout" headRef="203">sprout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aggrandize">
+			<sg number="1">
+				<word number="1">aggrandize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">raise</word>
+				<word number="2">exalt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deepen</word>
+				<word number="2">heighten</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strengthen</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intensify</word>
+				<word number="2">enhance</word>
+				<word number="3">magnify</word>
+				<word number="4">redouble</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aggravate</word>
+				<word number="2">exaggerate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">exasperate</word>
+				<word number="2">exacerbate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">add fuel to the flame</word>
+				<word number="2">oleum addere camino</word>
+				<word number="3" paraRef="add" headRef="39">superadd</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="disperse" headRef="77">spread</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="increased">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">increased</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the increase</word>
+				<word number="2">undiminished</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="added" headRef="39">additional</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="crescendo">
+			<sg number="1">
+				<word number="1">crescendo</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="vires acquirit eundo">
+			<sg number="1">
+				<word number="1">vires acquirit eundo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

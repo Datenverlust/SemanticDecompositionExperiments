@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="579" name="Recorder" origNum="#553." class="5" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="recorder">
+			<sg number="1">
+				<word number="1">recorder</word>
+				<word number="2">notary</word>
+				<word number="3">clerk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">registrar</word>
+				<word number="2">registrary</word>
+				<word number="3">register</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prothonotary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amanuensis</word>
+				<word number="2">secretary</word>
+				<word number="3">scribe</word>
+				<word number="4">babu</word>
+				<word number="5">remembrancer</word>
+				<word number="6">bookkeeper</word>
+				<word number="7">custos rotulorum</word>
+				<word number="8">Master of the Rolls</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="annalist">
+			<sg number="1">
+				<word number="1">annalist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">historian</word>
+				<word number="2">historiographer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chronicler</word>
+				<word number="2">journalist</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="narrator" headRef="558">biographer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="antiquity" headRef="128">antiquary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">memorialist</word>
+			</sg>
+			<sg number="7">
+				<word number="1">interviewer</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

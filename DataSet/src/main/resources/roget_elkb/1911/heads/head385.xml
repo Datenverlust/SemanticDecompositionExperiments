@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="385" name="Man" origNum="#373." class="3" section="3" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="man">
+			<sg number="1">
+				<word number="1">man</word>
+				<word number="2">male</word>
+				<word number="3">he</word>
+				<word number="4">him</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="adolescence" headRef="137">manhood</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gentleman</word>
+				<word number="2">sir</word>
+				<word number="3">master</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sahib</word>
+			</sg>
+			<sg number="5">
+				<word number="1">yeoman</word>
+				<word number="2">wight!</word>
+				<word number="3">swain</word>
+				<word number="4">fellow</word>
+				<word number="5">blade</word>
+				<word number="6">beau</word>
+				<word number="7">elf</word>
+				<word number="8">chap</word>
+				<word number="9">gaffer</word>
+				<word number="10">good man</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="married man" headRef="943">husband</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Mr</word>
+				<word number="2">mister</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="youth" headRef="135">boy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cock">
+			<sg number="1">
+				<word number="1">cock</word>
+				<word number="2">drake</word>
+				<word number="3">gander</word>
+				<word number="4">dog</word>
+				<word number="5">boar</word>
+				<word number="6">stag</word>
+				<word number="7">hart</word>
+				<word number="8">buck</word>
+				<word number="9">horse</word>
+				<word number="10">entire horse</word>
+				<word number="11">stallion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gibcat</word>
+				<word number="2">tomcat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">he goat</word>
+				<word number="2">Billy goat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ram</word>
+				<word number="2">tup</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bull</word>
+				<word number="2">bullock</word>
+			</sg>
+			<sg number="6">
+				<word number="1">capon</word>
+				<word number="2">ox</word>
+				<word number="3">gelding</word>
+				<word number="4">steer</word>
+				<word number="5">stot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="androgen">
+			<sg number="1">
+				<word number="1">androgen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="homosexual">
+			<sg number="1">
+				<word number="1">homosexual</word>
+				<word number="2">gay</word>
+				<word number="3">queen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="masculinize">
+			<sg number="1">
+				<word number="1">masculinize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="male">
+			<sg number="1">
+				<word number="1">male</word>
+				<word number="2">he-</word>
+				<word number="3">masculine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">manly</word>
+				<word number="2">virile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unwomanly</word>
+				<word number="2">unfeminine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="8" type="PRON.">
+		<paragraph number="1" name="he">
+			<sg number="1">
+				<word number="1">he</word>
+				<word number="2">him</word>
+				<word number="3">his</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="hominem pagina nostra sapit [Mar">
+			<sg number="1">
+				<word number="1">hominem pagina nostra sapit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homo homini aut deus aut lupus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">homo vitae commodatus non donatus est</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

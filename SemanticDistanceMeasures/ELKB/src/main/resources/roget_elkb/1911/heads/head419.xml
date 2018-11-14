@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="419" name="Sound" origNum="#402." class="3" section="3" subSection="2" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sound">
+			<sg number="1">
+				<word number="1">sound</word>
+				<word number="2">noise</word>
+				<word number="3">strain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accent</word>
+				<word number="2">twang</word>
+				<word number="3">intonation</word>
+				<word number="4">tone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cadence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">sonorousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">audibility</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="resonance" headRef="425">resonance</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="voice" headRef="606">voice</word>
+			</sg>
+			<sg number="8">
+				<word number="1">aspirate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ideophone</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rough breathing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="[Science">
+			<sg number="1">
+				<word number="1">acoustics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">phonics</word>
+				<word number="2">phonetics</word>
+				<word number="3">phonology</word>
+				<word number="4">phonography</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diacoustics</word>
+				<word number="2">diaphonics</word>
+			</sg>
+			<sg number="4">
+				<word number="1">phonetism</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="produce sound">
+			<sg number="1">
+				<word number="1">produce sound</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sound</word>
+				<word number="2">make a noise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give out sound</word>
+				<word number="2">emit sound</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="resound" headRef="425">resound</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sounding">
+			<sg number="1">
+				<word number="1">sounding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">soniferous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sonorous</word>
+				<word number="2">sonorific</word>
+			</sg>
+			<sg number="4">
+				<word number="1">resonant</word>
+				<word number="2">audible</word>
+				<word number="3">distinct</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stertorous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">phonetic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">phonic</word>
+				<word number="2">phonocamptic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a thousand trills and quivering sounds">
+			<sg number="1">
+				<word number="1">"a thousand trills and quivering sounds"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forensis strepitus</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="162" name="Attribution" origNum="#155." class="1" section="8" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="attribution">
+			<sg number="1">
+				<word number="1">attribution</word>
+				<word number="2">theory</word>
+				<word number="3">etiology</word>
+				<word number="4">ascription</word>
+				<word number="5">reference to</word>
+				<word number="6">rationale</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">accounting for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">palaetiology</word>
+				<word number="2">imputation</word>
+				<word number="3">derivation from</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="filiation">
+			<sg number="1">
+				<word number="1">filiation</word>
+				<word number="2">affiliation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="paternity" headRef="173">pedigree</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="explanation">
+			<sg number="1">
+				<word number="1" paraRef="interpretation" headRef="547">explanation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cause" headRef="160">reason why</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="attribute to">
+			<sg number="1">
+				<word number="1">attribute to</word>
+				<word number="2">ascribe to</word>
+				<word number="3">impute to</word>
+				<word number="4">refer to</word>
+				<word number="5">lay to</word>
+				<word number="6">point to</word>
+				<word number="7">trace to</word>
+				<word number="8">bring home to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put down  to</word>
+				<word number="2">set down  to</word>
+				<word number="3">blame</word>
+			</sg>
+			<sg number="3">
+				<word number="1">charge on</word>
+				<word number="2">ground on</word>
+			</sg>
+			<sg number="4">
+				<word number="1">invest with</word>
+				<word number="2">assign as cause</word>
+				<word number="3">lay at</word>
+				<word number="4">the door of</word>
+				<word number="5">father upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">account for</word>
+				<word number="2">derive from</word>
+				<word number="3" paraRef="reason" headRef="160">point out the reason</word>
+			</sg>
+			<sg number="6">
+				<word number="1">theorize</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tell how it comes</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put the saddle on the right horse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="attributed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">attributed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">attributable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">referable to</word>
+				<word number="2">referrible to</word>
+				<word number="3">due to</word>
+				<word number="4">derivable from</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="effect" headRef="161">owing to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">putative</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ecbatic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="hence">
+			<sg number="1">
+				<word number="1">hence</word>
+				<word number="2">thence</word>
+				<word number="3">therefore</word>
+				<word number="4">for</word>
+				<word number="5">since</word>
+				<word number="6">on account of</word>
+				<word number="7">because</word>
+				<word number="8">owing to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on that account</word>
+			</sg>
+			<sg number="3">
+				<word number="1">from this cause</word>
+				<word number="2">from that cause</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thanks to</word>
+				<word number="2">forasmuch as</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whence</word>
+				<word number="2">propter hoc</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="why? wherefore? whence? how comes it">
+			<sg number="1">
+				<word number="1">why? wherefore? whence? how comes it</word>
+				<word number="2">how  is it</word>
+				<word number="3">how happens it? how does it happen?      in some way</word>
+				<word number="4">in some such way</word>
+			</sg>
+			<sg number="2">
+				<word number="1">somehow</word>
+				<word number="2">somehow or other</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="that is why">
+			<sg number="1">
+				<word number="1">that is why</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hinc illae lachrymae</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

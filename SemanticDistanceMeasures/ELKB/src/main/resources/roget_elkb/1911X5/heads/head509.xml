@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="509" name="Unbelief" origNum="#485." class="4" section="5" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unbelief">
+			<sg number="1">
+				<word number="1">unbelief</word>
+				<word number="2">disbelief</word>
+				<word number="3">misbelief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discredit</word>
+				<word number="2">miscreance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="irreligion" headRef="1033">infidelity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="dissent" headRef="513">dissent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="opinion" headRef="508">change of opinion</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="retraction" headRef="634">retraction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="doubt">
+			<sg number="1">
+				<word number="1" paraRef="uncertainty" headRef="498">doubt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">skepticism</word>
+				<word number="2">scepticism</word>
+				<word number="3">misgiving</word>
+				<word number="4">demure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">distrust</word>
+				<word number="2">mistrust</word>
+				<word number="3">cynicism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">misdoubt</word>
+				<word number="2">suspicion</word>
+				<word number="3">jealousy</word>
+				<word number="4">scruple</word>
+				<word number="5">qualm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">onus probandi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="incredibility">
+			<sg number="1">
+				<word number="1">incredibility</word>
+				<word number="2">incredibleness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incredulity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="doubter">
+			<sg number="1">
+				<word number="1">doubter</word>
+				<word number="2">skeptic</word>
+				<word number="3">cynic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unbeliever" headRef="511">unbeliever</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disbelieve">
+			<sg number="1">
+				<word number="1">disbelieve</word>
+				<word number="2">discredit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="believe" headRef="508">not believe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">misbelieve</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="dissent" headRef="513">refuse to admit</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="incredulity" headRef="511">refuse to believe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="doubt">
+			<sg number="1">
+				<word number="1">doubt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncertain" headRef="498">be doubtful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">doubt the truth of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">be skeptical as to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diffide</word>
+			</sg>
+			<sg number="6">
+				<word number="1">distrust</word>
+				<word number="2">mistrust</word>
+			</sg>
+			<sg number="7">
+				<word number="1">suspect</word>
+				<word number="2">smoke</word>
+				<word number="3">scent</word>
+				<word number="4">smell a rat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">have doubts</word>
+				<word number="2">harbor doubts</word>
+				<word number="3">entertain doubts</word>
+				<word number="4">suspicions</word>
+			</sg>
+			<sg number="9">
+				<word number="1">have one's doubts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="demure">
+			<sg number="1">
+				<word number="1">demure</word>
+				<word number="2">stick at</word>
+				<word number="3">pause</word>
+				<word number="4">hesitate</word>
+				<word number="5">scruple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stop to consider</word>
+				<word number="2">waver</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hang in suspense">
+			<sg number="1">
+				<word number="1">hang in suspense</word>
+				<word number="2">hang in doubt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="throw doubt upon">
+			<sg number="1">
+				<word number="1">throw doubt upon</word>
+				<word number="2">raise a question</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring in</word>
+				<word number="2">call in question</word>
+			</sg>
+			<sg number="3">
+				<word number="1">question</word>
+				<word number="2">challenge</word>
+				<word number="3">dispute</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deny" headRef="562">deny</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cavil</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cause a doubt</word>
+				<word number="2">raise a doubt</word>
+				<word number="3">start a doubt</word>
+				<word number="4">suggest a doubt</word>
+				<word number="5">awake a doubt</word>
+				<word number="6">make suspicion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ergotize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="startle">
+			<sg number="1">
+				<word number="1">startle</word>
+				<word number="2">stagger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shake one's faith</word>
+				<word number="2">shake one's belief</word>
+				<word number="3">stagger one's faith</word>
+				<word number="4">stagger one's belief</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unbelieving">
+			<sg number="1">
+				<word number="1">unbelieving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">skeptical</word>
+				<word number="2">sceptical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="incredulous as to">
+			<sg number="1">
+				<word number="1">incredulous as to</word>
+				<word number="2">skeptical as to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">distrustful as to</word>
+				<word number="2">shy as to</word>
+				<word number="3">suspicious of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">doubting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="doubtful">
+			<sg number="1">
+				<word number="1" paraRef="uncertain" headRef="498">doubtful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disputable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unworthy of</word>
+				<word number="2" paraRef="belief" headRef="508">undeserving of belief</word>
+			</sg>
+			<sg number="4">
+				<word number="1">questionable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suspect</word>
+				<word number="2">suspicious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">open to suspicion</word>
+				<word number="2">open to doubt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">staggering</word>
+				<word number="2">hard to believe</word>
+				<word number="3">incredible</word>
+				<word number="4">unbelievable</word>
+				<word number="5">not to be believed</word>
+				<word number="6">inconceivable</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="impossible" headRef="494">impossible</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">debatable</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="2">dubious</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">uncertain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fallible">
+			<sg number="1">
+				<word number="1" paraRef="uncertain" headRef="498">fallible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undemonstrable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="untrue" headRef="519">controvertible</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="cum grano salis">
+			<sg number="1">
+				<word number="1">cum grano salis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with grains of allowance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="fronti nulla fides">
+			<sg number="1">
+				<word number="1">fronti nulla fides</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nimium ne crede colori</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"timeo Danaos et dona ferentes"</word>
+				<word number="2">beware of Greeks bearing gifts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">credat Judaeus Apella</word>
+			</sg>
+			<sg number="5">
+				<word number="1">let those believe who may</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ad tristem partem stenua est suspicio</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

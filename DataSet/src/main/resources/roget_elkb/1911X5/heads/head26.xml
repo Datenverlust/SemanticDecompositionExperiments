@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="26" name="Disagreement" origNum="#24." class="1" section="2" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disagreement">
+			<sg number="1">
+				<word number="1">disagreement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discord</word>
+				<word number="2">discordance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dissonance</word>
+				<word number="2">dissidence</word>
+				<word number="3">discrepancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unconformity" headRef="87">unconformity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">incongruity</word>
+				<word number="2">incongruence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">discongruity</word>
+				<word number="2">mesalliance</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">jarring</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="dissension" headRef="742">dissension</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="opposition" headRef="737">conflict</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bickering</word>
+				<word number="2">clashing</word>
+				<word number="3">misunderstanding</word>
+				<word number="4">wrangle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disparity">
+			<sg number="1">
+				<word number="1">disparity</word>
+				<word number="2">mismatch</word>
+				<word number="3">disproportion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissimilitude</word>
+				<word number="2">inequality</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">disproportionateness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">variance</word>
+				<word number="2">divergence</word>
+				<word number="3">repugnance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unfitness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">unfitness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inaptitude</word>
+				<word number="2">impropriety</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">inapplicability</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inconsistency</word>
+				<word number="2">inconcinnity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="irrelation" headRef="10">irrelevancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="misjoining">
+			<sg number="1">
+				<word number="1">misjoining</word>
+				<word number="2">misjoinder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">syncretism</word>
+				<word number="2">intrusion</word>
+				<word number="3">interference</word>
+			</sg>
+			<sg number="3">
+				<word number="1">concordia discors</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fish out of water">
+			<sg number="1">
+				<word number="1">fish out of water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="ambiguity">
+			<sg number="1">
+				<word number="1" new="1">ambiguity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disagree">
+			<sg number="1">
+				<word number="1">disagree</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clash</word>
+				<word number="2" paraRef="discord" headRef="742">jar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interfere</word>
+				<word number="2">intrude</word>
+				<word number="3">come amiss</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="not concern" headRef="10">not concern</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mismatch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">humano capiti cervicem jungere equinam</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disagreeing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disagreeing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discordant</word>
+				<word number="2">discrepant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">at variance</word>
+				<word number="2">at war</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hostile</word>
+				<word number="2">antagonistic</word>
+				<word number="3">repugnant</word>
+				<word number="4">incompatible</word>
+				<word number="5">irreconcilable</word>
+				<word number="6">inconsistent with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unconformable</word>
+				<word number="2" paraRef="exceptional" headRef="87">exceptional</word>
+			</sg>
+			<sg number="6">
+				<word number="1">intrusive</word>
+				<word number="2">incongruous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">disproportionate</word>
+				<word number="2">disproportionated</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inharmonious</word>
+				<word number="2">unharmonious</word>
+			</sg>
+			<sg number="9">
+				<word number="1">inconsonant</word>
+				<word number="2">unconsonant</word>
+			</sg>
+			<sg number="10">
+				<word number="1">divergent</word>
+				<word number="2">repugnant to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inapt">
+			<sg number="1">
+				<word number="1">inapt</word>
+				<word number="2">unapt</word>
+				<word number="3">inappropriate</word>
+				<word number="4">improper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsuited</word>
+				<word number="2">unsuitable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inapplicable</word>
+				<word number="2">not to the point</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unfit</word>
+				<word number="2">unfitting</word>
+				<word number="3">unbefitting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unbecoming</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ill-timed</word>
+				<word number="2">unseasonable</word>
+				<word number="3">mal a propos</word>
+				<word number="4">inadmissible</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="irrelevant" headRef="10">inapposite</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ill-assorted</word>
+				<word number="2">ill-sorted</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mismatched</word>
+				<word number="2">misjoined</word>
+				<word number="3">misplaced</word>
+				<word number="4">misclassified</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unaccommodating</word>
+				<word number="2">irreducible</word>
+				<word number="3">incommensurable</word>
+				<word number="4">uncommensurable</word>
+			</sg>
+			<sg number="11">
+				<word number="1">unsympathetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="out of character">
+			<sg number="1">
+				<word number="1">out of character</word>
+				<word number="2">out of keeping</word>
+				<word number="3">out of proportion</word>
+				<word number="4">out of joint</word>
+				<word number="5">out of tune</word>
+				<word number="6">out of place</word>
+				<word number="7">out of season</word>
+				<word number="8">out of its element</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at odds with</word>
+				<word number="2">at variance with</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in defiance">
+			<sg number="1">
+				<word number="1">in defiance</word>
+				<word number="2">in contempt</word>
+				<word number="3">in spite of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">discordantly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a tort et a travers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="asinus ad lyram">
+			<sg number="1">
+				<word number="1">asinus ad lyram</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

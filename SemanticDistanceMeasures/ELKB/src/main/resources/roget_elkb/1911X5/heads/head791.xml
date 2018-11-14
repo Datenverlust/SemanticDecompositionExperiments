@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="791" name="Permission" origNum="#760." class="7" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="permission">
+			<sg number="1">
+				<word number="1">permission</word>
+				<word number="2">leave</word>
+			</sg>
+			<sg number="2">
+				<word number="1">allowance</word>
+				<word number="2">sufferance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tolerance</word>
+				<word number="2">toleration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">liberty</word>
+				<word number="2">law</word>
+				<word number="3">license</word>
+				<word number="4">concession</word>
+				<word number="5">grace</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="lenity" headRef="771">indulgence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">favor</word>
+				<word number="2">dispensation</word>
+				<word number="3">exemption</word>
+				<word number="4">release</word>
+			</sg>
+			<sg number="7">
+				<word number="1">connivance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vouchsafement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="authorization">
+			<sg number="1">
+				<word number="1">authorization</word>
+				<word number="2">warranty</word>
+				<word number="3">accordance</word>
+				<word number="4">admission</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="permit">
+			<sg number="1">
+				<word number="1">permit</word>
+				<word number="2">warrant</word>
+				<word number="3">brevet</word>
+				<word number="4">precept</word>
+				<word number="5">sanction</word>
+				<word number="6">authority</word>
+				<word number="7">firman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hukm</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pass</word>
+				<word number="2">passport</word>
+			</sg>
+			<sg number="4">
+				<word number="1">furlough</word>
+				<word number="2">license</word>
+				<word number="3">carte blanche</word>
+				<word number="4">ticket of leave</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grant</word>
+				<word number="2">charter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">patent</word>
+				<word number="2">letters patent</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">registration</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">visa</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="2">copyright</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lease">
+			<sg number="1">
+				<word number="1" new="1">lease</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="permit">
+			<sg number="1">
+				<word number="1">permit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">give permission</word>
+				<word number="2">give power</word>
+			</sg>
+			<sg number="3">
+				<word number="1">let</word>
+				<word number="2">allow</word>
+				<word number="3">admit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">suffer</word>
+				<word number="2">bear with</word>
+				<word number="3">tolerate</word>
+				<word number="4">recognize</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="concede" headRef="793">concede</word>
+			</sg>
+			<sg number="6">
+				<word number="1">accord</word>
+				<word number="2">vouchsafe</word>
+				<word number="3">favor</word>
+				<word number="4">humor</word>
+				<word number="5">gratify</word>
+				<word number="6">indulge</word>
+				<word number="7">stretch a point</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wink at</word>
+				<word number="2">connive at</word>
+			</sg>
+			<sg number="8">
+				<word number="1">shut one's eyes to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="grant">
+			<sg number="1">
+				<word number="1">grant</word>
+				<word number="2">empower</word>
+				<word number="3">charter</word>
+				<word number="4">enfranchise</word>
+				<word number="5">privilege</word>
+				<word number="6">confer a privilege</word>
+				<word number="7">license</word>
+				<word number="8">authorize</word>
+				<word number="9">warrant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sanction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="commission" headRef="786">intrust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="give carte blanche">
+			<sg number="1">
+				<word number="1">give carte blanche</word>
+				<word number="2">give the reins to</word>
+				<word number="3" paraRef="freedom" headRef="779">give scope to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leave alone</word>
+				<word number="2">leave it to one</word>
+				<word number="3">leave the door open</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open the door to</word>
+				<word number="2">open the flood gates</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give a loose to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="let off">
+			<sg number="1">
+				<word number="1">let off</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="acquit" headRef="1013">absolve</word>
+			</sg>
+			<sg number="3">
+				<word number="1">release</word>
+				<word number="2">exonerate</word>
+				<word number="3">dispense with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ask permission">
+			<sg number="1">
+				<word number="1">ask permission</word>
+				<word number="2">beg permission</word>
+				<word number="3">request permission</word>
+				<word number="4">ask leave</word>
+				<word number="5">beg leave</word>
+				<word number="6">request leave</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="permitting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">permitting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">permissive</word>
+				<word number="2">indulgent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">permitted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">patent</word>
+				<word number="2">chartered</word>
+				<word number="3">permissible</word>
+				<word number="4">allowable</word>
+				<word number="5">lawful</word>
+				<word number="6">legitimate</word>
+				<word number="7">legal</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="law" headRef="1006">legalized</word>
+			</sg>
+			<sg number="6">
+				<word number="1">licit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unforbid</word>
+				<word number="2">unforbidden</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unconditional</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="by leave">
+			<sg number="1">
+				<word number="1">by leave</word>
+				<word number="2">with leave</word>
+				<word number="3" paraRef="" posRef="n.">on leave</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speciali gratia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under favor of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pace</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="freely" headRef="779">ad libitum</word>
+				<word number="2" paraRef="at will" headRef="626">at will</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="willingly" headRef="628">by all means</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="assent" headRef="512">yes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="avec permissin">
+			<sg number="1">
+				<word number="1">avec permissin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brevet d'invention</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

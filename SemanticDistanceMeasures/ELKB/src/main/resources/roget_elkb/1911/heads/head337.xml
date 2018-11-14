@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="337" name="Inelasticity" origNum="#326." class="3" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="want of elasticity">
+			<sg number="1">
+				<word number="1">want of elasticity</word>
+				<word number="2" paraRef="elasticity" headRef="336">absence of elasticity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="softness" headRef="335">inelasticity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unyielding">
+			<sg number="1">
+				<word number="1">unyielding</word>
+				<word number="2">inelastic</word>
+				<word number="3" paraRef="soft" headRef="335">inflexible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">irresilient</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="637" name="Absence of Choice" origNum="#609a." class="6" section="1" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="no choice">
+			<sg number="1">
+				<word number="1">no choice</word>
+				<word number="2">Hobson's choice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">first come first served</word>
+				<word number="2">random selection</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="necessity" headRef="627">necessity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="equality" headRef="29">not a pin to choose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">any</word>
+				<word number="2">the first that comes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">that or nothing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="neutrality">
+			<sg number="1">
+				<word number="1">neutrality</word>
+				<word number="2">indifference</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="irresolution" headRef="632">indecision</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arbitrariness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="coercion">
+			<sg number="1">
+				<word number="1" paraRef="compulsion" headRef="775">coercion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be neutral">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be neutral</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have no choice</word>
+				<word number="2">have no election</word>
+			</sg>
+			<sg number="3">
+				<word number="1">waive</word>
+				<word number="2">not vote</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abstain from voting</word>
+				<word number="2">refrain from voting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">leave undecided</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"make a virtue of necessity"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="neutral">
+			<sg number="1">
+				<word number="1">neutral</word>
+				<word number="2">neuter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indifferent</word>
+				<word number="2">uninterested</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="irresolute" headRef="632">undecided</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="either">
+			<sg number="1">
+				<word number="1" paraRef="choice" headRef="636">either</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="who cares?">
+			<sg number="1">
+				<word number="1">who cares?</word>
+				<word number="2">what difference does it make?</word>
+				<word number="3">"There's not a dime's worth of difference between them."</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

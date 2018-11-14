@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="267" name="Roughness" origNum="#256." class="2" section="3" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="roughness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">roughness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tooth</word>
+				<word number="2">grain</word>
+				<word number="3">texture</word>
+				<word number="4">ripple</word>
+			</sg>
+			<sg number="3">
+				<word number="1">asperity</word>
+				<word number="2">rugosity</word>
+				<word number="3">salebrosity</word>
+				<word number="4">corrugation</word>
+				<word number="5">nodosity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="arborescence" headRef="252">arborescence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pilosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="brush">
+			<sg number="1">
+				<word number="1">brush</word>
+				<word number="2">hair</word>
+				<word number="3">beard</word>
+				<word number="4">shag</word>
+				<word number="5">mane</word>
+				<word number="6">whisker</word>
+				<word number="7">moustache</word>
+				<word number="8">imperial</word>
+				<word number="9">tress</word>
+				<word number="10">lock</word>
+				<word number="11">curl</word>
+				<word number="12">ringlet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fimbriae</word>
+				<word number="2">pili</word>
+				<word number="3">cilia</word>
+				<word number="4">villi</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lovelock</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beaucatcher</word>
+			</sg>
+			<sg number="5">
+				<word number="1">curl paper</word>
+			</sg>
+			<sg number="6">
+				<word number="1">goatee</word>
+			</sg>
+			<sg number="7">
+				<word number="1">papillote</word>
+				<word number="2">scalp lock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="plumage">
+			<sg number="1">
+				<word number="1">plumage</word>
+				<word number="2">plumosity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plume</word>
+				<word number="2">panache</word>
+				<word number="3">crest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feather</word>
+				<word number="2">tuft</word>
+				<word number="3">fringe</word>
+				<word number="4">toupee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wool">
+			<sg number="1">
+				<word number="1">wool</word>
+				<word number="2">velvet</word>
+				<word number="3">plush</word>
+				<word number="4">nap</word>
+				<word number="5">pile</word>
+				<word number="6">floss</word>
+				<word number="7">fur</word>
+				<word number="8">down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">byssus</word>
+				<word number="2">moss</word>
+				<word number="3">bur</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fluff</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="knot">
+			<sg number="1">
+				<word number="1" paraRef="convolution" headRef="258">knot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be rough">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be rough</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go against the grain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render-rough">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render-rough</word>
+			</sg>
+			<sg number="2">
+				<word number="1">roughen</word>
+				<word number="2">ruffle</word>
+				<word number="3">crisp</word>
+				<word number="4">crumple</word>
+				<word number="5">corrugate</word>
+				<word number="6">set on edge</word>
+				<word number="7">stroke the wrong way</word>
+				<word number="8">rumple</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rough">
+			<sg number="1">
+				<word number="1">rough</word>
+				<word number="2">uneven</word>
+				<word number="3">scabrous</word>
+				<word number="4">scaly ,knotted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rugged</word>
+				<word number="2">rugose</word>
+				<word number="3">rugous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">knurly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">asperous</word>
+				<word number="2">crisp</word>
+				<word number="3">salebrous</word>
+				<word number="4">gnarled</word>
+				<word number="5">unpolished</word>
+				<word number="6">unsmooth</word>
+				<word number="7">roughhewn</word>
+			</sg>
+			<sg number="5">
+				<word number="1">craggy</word>
+				<word number="2">cragged</word>
+			</sg>
+			<sg number="6">
+				<word number="1">crankling</word>
+				<word number="2">scraggy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="sharp" headRef="264">prickly</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="arborescent" headRef="252">arborescent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">leafy</word>
+				<word number="2">well-wooded</word>
+			</sg>
+			<sg number="10">
+				<word number="1">feathery</word>
+			</sg>
+			<sg number="11">
+				<word number="1">plumose</word>
+				<word number="2">plumigerous</word>
+			</sg>
+			<sg number="12">
+				<word number="1">laciniate</word>
+				<word number="2">laciniform</word>
+				<word number="3">laciniose</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pappose</word>
+			</sg>
+			<sg number="14">
+				<word number="1">pileous</word>
+				<word number="2">pilose</word>
+			</sg>
+			<sg number="15">
+				<word number="1">trichogenous</word>
+				<word number="2">trichoid</word>
+			</sg>
+			<sg number="16">
+				<word number="1">tufted</word>
+				<word number="2">fimbriated</word>
+				<word number="3">hairy</word>
+				<word number="4">ciliated</word>
+				<word number="5">filamentous</word>
+				<word number="6">hirsute</word>
+			</sg>
+			<sg number="17">
+				<word number="1">crinose</word>
+				<word number="2">crinite</word>
+			</sg>
+			<sg number="18">
+				<word number="1">bushy</word>
+				<word number="2">hispid</word>
+				<word number="3">villous</word>
+				<word number="4">pappous</word>
+				<word number="5">bearded</word>
+				<word number="6">pilous</word>
+				<word number="7">shaggy</word>
+				<word number="8">shagged</word>
+			</sg>
+			<sg number="19">
+				<word number="1">fringed</word>
+				<word number="2">befringed</word>
+			</sg>
+			<sg number="20">
+				<word number="1">setous</word>
+				<word number="2">setose</word>
+				<word number="3">setaceous</word>
+			</sg>
+			<sg number="21">
+				<word number="1">"like quills upon the fretful porcupine"</word>
+			</sg>
+			<sg number="22">
+				<word number="1">rough as a nutmeg grater</word>
+				<word number="2">rough as a bear</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">spiky</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="downy">
+			<sg number="1">
+				<word number="1">downy</word>
+				<word number="2">velvety</word>
+				<word number="3">flocculent</word>
+				<word number="4">woolly</word>
+				<word number="5" new="1">matted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lanate</word>
+				<word number="2">lanated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lanuginous</word>
+				<word number="2">lanuginose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tomentose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fluffy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">glaucous</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">pubescent</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">toothed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="against the grain">
+			<sg number="1">
+				<word number="1">against the grain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cabello luengo y corto el seso">
+			<sg number="1">
+				<word number="1">cabello luengo y corto el seso</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

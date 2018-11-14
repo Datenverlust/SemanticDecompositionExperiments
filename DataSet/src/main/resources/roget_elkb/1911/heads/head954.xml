@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="954" name="Pity" origNum="#914." class="8" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pity">
+			<sg number="1">
+				<word number="1">pity</word>
+				<word number="2">compassion</word>
+				<word number="3">commiseration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bowels</word>
+				<word number="2">of compassion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sympathy</word>
+				<word number="2">fellow-feeling</word>
+				<word number="3">tenderness</word>
+				<word number="4">yearning</word>
+				<word number="5">forbearance</word>
+				<word number="6">humanity</word>
+				<word number="7">mercy</word>
+				<word number="8">clemency</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="lenity" headRef="771">leniency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">charity</word>
+				<word number="2">ruth</word>
+				<word number="3">long- suffering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="melting mood">
+			<sg number="1">
+				<word number="1">melting mood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">argumentum ad misericordiam</word>
+				<word number="2">quarter</word>
+				<word number="3">grace</word>
+				<word number="4">locus paenitentiae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sympathizer">
+			<sg number="1">
+				<word number="1">sympathizer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">advocate</word>
+				<word number="2">friend</word>
+				<word number="3">partisan</word>
+				<word number="4">patron</word>
+				<word number="5">wellwisher</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pity">
+			<sg number="1">
+				<word number="1">pity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have pity</word>
+				<word number="2">show pity</word>
+				<word number="3" paraRef="" posRef="n.">take pity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commiserate</word>
+				<word number="2">compassionate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="condolence" headRef="956">condole</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sympathize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">feel for</word>
+				<word number="2">be sorry for</word>
+				<word number="3">yearn for</word>
+			</sg>
+			<sg number="7">
+				<word number="1">weep</word>
+				<word number="2">melt</word>
+				<word number="3">thaw</word>
+				<word number="4">enter into the feelings of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="forbear">
+			<sg number="1">
+				<word number="1">forbear</word>
+				<word number="2">relent</word>
+				<word number="3">relax</word>
+				<word number="4">give quarter</word>
+				<word number="5">wipe the tears</word>
+				<word number="6">parcere subjectis</word>
+				<word number="7">give a coup de grace</word>
+				<word number="8">put out of one's misery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="raise pity">
+			<sg number="1">
+				<word number="1">raise pity</word>
+				<word number="2" paraRef="" posRef="n.">excite pity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">touch</word>
+				<word number="2">soften</word>
+			</sg>
+			<sg number="3">
+				<word number="1">melt</word>
+				<word number="2">melt the heart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">propitiate</word>
+				<word number="2">disarm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ask for mercy">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">ask for mercy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="request" headRef="796">supplicate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cry for quarter</word>
+				<word number="2">beg one's life</word>
+				<word number="3">kneel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deprecate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pitying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">pitying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pitiful</word>
+				<word number="2">compassionate</word>
+				<word number="3">sympathetic</word>
+				<word number="4">touched</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="merciful">
+			<sg number="1">
+				<word number="1">merciful</word>
+				<word number="2">clement</word>
+				<word number="3">ruthful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">humane</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="philanthropic" headRef="950">humanitarian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tender</word>
+				<word number="2">tender hearted</word>
+				<word number="3">tender  as a chicken</word>
+			</sg>
+			<sg number="5">
+				<word number="1">soft</word>
+				<word number="2">soft hearted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unhardened</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="lenient" headRef="771">lenient</word>
+			</sg>
+			<sg number="8">
+				<word number="1">exorable</word>
+				<word number="2">forbearing</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">melting</word>
+			</sg>
+			<sg number="10">
+				<word number="1">weak</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="for pity's sake">
+			<sg number="1">
+				<word number="1">for pity's sake!</word>
+				<word number="2">mercy!</word>
+				<word number="3">have mercy!</word>
+				<word number="4">cry you mercy!</word>
+				<word number="5">God help you!</word>
+				<word number="6">poor thing!</word>
+				<word number="7">poor dear!</word>
+				<word number="8">poor  fellow!</word>
+				<word number="9">woe betide!</word>
+				<word number="10">"quis talia fando temperet a lachrymiss!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's heart bleeding for">
+			<sg number="1">
+				<word number="1">one's heart bleeding for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">haud ignara mali miseris succurrere disco</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"a fellow feeling makes one wondrous kind"</word>
+				<word number="2">onor di bocca assai giova e poco costa</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

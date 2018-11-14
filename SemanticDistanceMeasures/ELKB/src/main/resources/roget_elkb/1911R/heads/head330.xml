@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="330" name="Gravity" origNum="#319." class="3" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="gravity">
+			<sg number="1">
+				<word number="1">gravity</word>
+				<word number="2">gravitation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weight</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">heaviness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">specific gravity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pondorosity</word>
+				<word number="2">pressure</word>
+				<word number="3">load</word>
+			</sg>
+			<sg number="6">
+				<word number="1">burden</word>
+				<word number="2">burthen</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ballast</word>
+				<word number="2">counterpoise</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lump of</word>
+				<word number="2">mass of</word>
+				<word number="3">weight of</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">honeyeaters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lead">
+			<sg number="1">
+				<word number="1">lead</word>
+				<word number="2">millstone</word>
+				<word number="3">mountain</word>
+				<word number="4">Ossa on Pelion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="weighing">
+			<sg number="1">
+				<word number="1">weighing</word>
+				<word number="2">ponderation</word>
+				<word number="3">trutination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weights</word>
+			</sg>
+			<sg number="3">
+				<word number="1">avoirdupois weight</word>
+				<word number="2">troy weight</word>
+				<word number="3">apothecaries' weight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grain</word>
+				<word number="2">scruple</word>
+				<word number="3">drachma</word>
+				<word number="4">ounce</word>
+				<word number="5">pound</word>
+				<word number="6">lb</word>
+				<word number="7">arroba</word>
+				<word number="8">load</word>
+				<word number="9">stone</word>
+				<word number="10">hundredweight</word>
+				<word number="11">cwt</word>
+				<word number="12">ton</word>
+				<word number="13">long ton</word>
+				<word number="14">metric ton</word>
+				<word number="15">quintal</word>
+				<word number="16">carat</word>
+				<word number="17">pennyweight</word>
+				<word number="18">tod</word>
+				<word number="19" new="1">cliens</word>
+				<word number="20" new="1">opposers</word>
+				<word number="21" new="1">stingray</word>
+				<word number="22" new="1">pao</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="gram">
+			<sg number="1">
+				<word number="1">gram</word>
+				<word number="2">centigram</word>
+				<word number="3">milligram</word>
+				<word number="4">microgram</word>
+				<word number="5">kilogram</word>
+				<word number="6" new="1">irrelevance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nanogram</word>
+				<word number="2">picogram</word>
+				<word number="3">femtogram</word>
+				<word number="4">attogram</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="balance">
+			<sg number="1">
+				<word number="1">balance</word>
+				<word number="2">scale</word>
+				<word number="3">scales</word>
+				<word number="4">steelyard</word>
+				<word number="5">beam</word>
+				<word number="6">weighbridge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spring balance</word>
+				<word number="2">piezoelectric balance</word>
+				<word number="3">analytical balance</word>
+				<word number="4">two-pan balance</word>
+				<word number="5">one-pan balance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">postal scale</word>
+				<word number="2">baby scale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="statics">
+			<sg number="1">
+				<word number="1">statics</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be heavy">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be heavy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gravitate</word>
+				<word number="2">weigh</word>
+				<word number="3">press</word>
+				<word number="4">cumber</word>
+				<word number="5">load</word>
+				<word number="6" new="1">caper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="weigh">
+			<sg number="1">
+				<word number="1">weigh</word>
+				<word number="2">poise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="weighty">
+			<sg number="1">
+				<word number="1">weighty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">weighing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heavy as lead</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ponderous</word>
+				<word number="2">ponderable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lumpish</word>
+				<word number="2">lumpy</word>
+				<word number="3">cumbersome</word>
+				<word number="4">burdensome</word>
+				<word number="5" new="1">neoclassic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cumbrous</word>
+				<word number="2">unwieldy</word>
+				<word number="3">massive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="incumbent">
+			<sg number="1">
+				<word number="1">incumbent</word>
+				<word number="2">superincumbent</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="318" name="Elevation" origNum="#307." class="2" section="4" subSection="4" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="elevation">
+			<sg number="1">
+				<word number="1">elevation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">raising</word>
+			</sg>
+			<sg number="3">
+				<word number="1">erection</word>
+				<word number="2">lift</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sublevation</word>
+				<word number="2">upheaval</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sublimation</word>
+				<word number="2">exaltation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="convexity" headRef="260">prominence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lever">
+			<sg number="1">
+				<word number="1" paraRef="lever" headRef="662">lever</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crane</word>
+				<word number="2">derrick</word>
+				<word number="3">windlass</word>
+				<word number="4">capstan</word>
+				<word number="5">winch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dredge</word>
+				<word number="2">dredger</word>
+				<word number="3">dredging machine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dumbwaiter">
+			<sg number="1">
+				<word number="1">dumbwaiter</word>
+				<word number="2">elevator</word>
+				<word number="3">escalator</word>
+				<word number="4">lift</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="heighten">
+			<sg number="1">
+				<word number="1">heighten</word>
+				<word number="2">elevate</word>
+				<word number="3">raise</word>
+				<word number="4">lift</word>
+				<word number="5">erect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set up</word>
+				<word number="2">stick up</word>
+				<word number="3">perch up</word>
+				<word number="4">perk up</word>
+				<word number="5">tilt up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rear</word>
+				<word number="2">hoist</word>
+				<word number="3">heave</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uplift</word>
+				<word number="2">upraise</word>
+				<word number="3">uprear</word>
+				<word number="4">upbear</word>
+				<word number="5">upcast</word>
+				<word number="6">uphoist</word>
+				<word number="7">upheave</word>
+			</sg>
+			<sg number="5">
+				<word number="1">buoy</word>
+				<word number="2">weigh mount</word>
+				<word number="3">give a lift</word>
+			</sg>
+			<sg number="6">
+				<word number="1">exalt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sublimate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">place on a pedestal</word>
+				<word number="2">set on a pedestal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="escalate">
+			<sg number="1">
+				<word number="1" paraRef="increase" headRef="37">escalate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="take up">
+			<sg number="1">
+				<word number="1">take up</word>
+				<word number="2">drag up</word>
+				<word number="3">fish up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dredge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="stand up">
+			<sg number="1">
+				<word number="1">stand up</word>
+				<word number="2">rise up</word>
+				<word number="3">get up</word>
+				<word number="4">jump up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spring to one's feet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold oneself</word>
+				<word number="2">hold one's head up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drawn oneself up to his full height</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="elevated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">elevated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stilted</word>
+				<word number="2">attollent</word>
+				<word number="3">rampant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on stilts">
+			<sg number="1">
+				<word number="1">on stilts</word>
+				<word number="2">on the shoulders of</word>
+				<word number="3">on one's legs</word>
+				<word number="4">on one's hind legs</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

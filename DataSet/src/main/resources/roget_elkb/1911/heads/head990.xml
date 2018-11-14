@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="990" name="Good Man" origNum="#948." class="8" section="4" subSection="3" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="good man">
+			<sg number="1">
+				<word number="1">good man</word>
+				<word number="2">honest man</word>
+				<word number="3">worthy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="good woman">
+			<sg number="1">
+				<word number="1">good woman</word>
+				<word number="2">perfect lady</word>
+				<word number="3">Madonna</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="model">
+			<sg number="1">
+				<word number="1">model</word>
+				<word number="2" paraRef="perfection" headRef="679">paragon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good example</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hero</word>
+				<word number="2">heroine</word>
+				<word number="3">demigod</word>
+				<word number="4">seraph</word>
+				<word number="5">angel</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="innocent" headRef="988">innocent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="piety" headRef="1031">saint</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="benefactor" headRef="952">benefactor</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="philanthropist" headRef="950">philanthropist</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Aristides</word>
+			</sg>
+			<sg number="9">
+				<word number="1">noble liver!</word>
+				<word number="2">pattern</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="brick*">
+			<sg number="1">
+				<word number="1">brick*</word>
+				<word number="2">trump*</word>
+				<word number="3">gem</word>
+				<word number="4">jewel</word>
+				<word number="5">good fellow</word>
+				<word number="6">prince</word>
+				<word number="7">diamond in the rough</word>
+				<word number="8">rough diamond</word>
+				<word number="9">ugly duckling!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="salt of the earth">
+			<sg number="1">
+				<word number="1">salt of the earth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">one in ten thousand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one in a million</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a gentleman and a scholar</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pillar of society</word>
+				<word number="2">pillar of the community</word>
+				<word number="3">a man among men</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="si sic omnes">
+			<sg number="1">
+				<word number="1">si sic omnes!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

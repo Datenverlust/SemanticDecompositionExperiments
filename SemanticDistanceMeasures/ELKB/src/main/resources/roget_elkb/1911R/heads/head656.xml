@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="656" name="Method" origNum="#627." class="6" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="method">
+			<sg number="1">
+				<word number="1">method</word>
+				<word number="2">way</word>
+				<word number="3">manner</word>
+				<word number="4">wise</word>
+				<word number="5">gait</word>
+				<word number="6">form</word>
+				<word number="7">mode</word>
+				<word number="8">fashion</word>
+				<word number="9">tone</word>
+				<word number="10">guise</word>
+				<word number="11" new="1">myeloblast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">modus operandi</word>
+				<word number="2">MO</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="line of conduct" headRef="721">procedure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="path">
+			<sg number="1">
+				<word number="1">path</word>
+				<word number="2">road</word>
+				<word number="3">route</word>
+				<word number="4">course</word>
+				<word number="5" new="1">vectorscope</word>
+				<word number="6" new="1">embolism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">line of way</word>
+				<word number="2">line of road</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trajectory</word>
+				<word number="2">orbit</word>
+				<word number="3">track</word>
+				<word number="4">beat</word>
+				<word number="5">tack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="steps">
+			<sg number="1">
+				<word number="1">steps</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stair</word>
+				<word number="2">staircase</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flight of stairs</word>
+				<word number="2">ladder</word>
+				<word number="3">stile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">perron</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bridge">
+			<sg number="1">
+				<word number="1">bridge</word>
+				<word number="2">footbridge</word>
+				<word number="3">viaduct</word>
+				<word number="4">pontoon</word>
+				<word number="5">steppingstone</word>
+				<word number="6">plank</word>
+				<word number="7">gangway</word>
+				<word number="8" new="1">dorsal</word>
+				<word number="9" new="1">locker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drawbridge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pass</word>
+				<word number="2">ford</word>
+				<word number="3">ferry</word>
+				<word number="4">tunnel</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pipe" headRef="271">pipe</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">bail</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">whiner</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">hyperboloids</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">maturing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="door">
+			<sg number="1">
+				<word number="1">door</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="opening" headRef="271">gateway</word>
+			</sg>
+			<sg number="3">
+				<word number="1">channel</word>
+				<word number="2">passage</word>
+				<word number="3">avenue</word>
+				<word number="4">means of access</word>
+				<word number="5">approach</word>
+				<word number="6">adit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">artery</word>
+				<word number="2">lane</word>
+				<word number="3">alley</word>
+				<word number="4">aisle</word>
+				<word number="5">lobby</word>
+				<word number="6">corridor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">back-door</word>
+				<word number="2">back-stairs</word>
+			</sg>
+			<sg number="6">
+				<word number="1">secret passage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">covert way</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vennel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="roadway">
+			<sg number="1">
+				<word number="1">roadway</word>
+				<word number="2">pathway</word>
+				<word number="3">stairway</word>
+			</sg>
+			<sg number="2">
+				<word number="1">express</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thoroughfare</word>
+			</sg>
+			<sg number="4">
+				<word number="1">highway</word>
+			</sg>
+			<sg number="5">
+				<word number="1">turnpike</word>
+				<word number="2">freeway</word>
+				<word number="3">royal road</word>
+				<word number="4">coach road</word>
+			</sg>
+			<sg number="6">
+				<word number="1">broad highway</word>
+				<word number="2">King's highway</word>
+				<word number="3">Queen's highway</word>
+			</sg>
+			<sg number="7">
+				<word number="1">beaten track</word>
+				<word number="2">beaten path</word>
+			</sg>
+			<sg number="8">
+				<word number="1">horse road</word>
+				<word number="2">bridle road</word>
+				<word number="3">bridle track</word>
+				<word number="4">bridle path</word>
+			</sg>
+			<sg number="9">
+				<word number="1">walk</word>
+				<word number="2">trottoir</word>
+				<word number="3">footpath</word>
+				<word number="4">pavement</word>
+				<word number="5">flags</word>
+				<word number="6">sidewalk</word>
+			</sg>
+			<sg number="10">
+				<word number="1">crossroad</word>
+				<word number="2">byroad</word>
+				<word number="3">bypath</word>
+				<word number="4">byway</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cut</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="mid-course" headRef="657">short cut</word>
+			</sg>
+			<sg number="13">
+				<word number="1">carrefour</word>
+			</sg>
+			<sg number="14">
+				<word number="1">private road</word>
+				<word number="2">occupation road</word>
+			</sg>
+			<sg number="15">
+				<word number="1">highways and byways</word>
+			</sg>
+			<sg number="16">
+				<word number="1">railroad</word>
+				<word number="2">railway</word>
+				<word number="3">tram road</word>
+				<word number="4">tramway</word>
+			</sg>
+			<sg number="17">
+				<word number="1">towpath</word>
+			</sg>
+			<sg number="18">
+				<word number="1">causeway</word>
+			</sg>
+			<sg number="19">
+				<word number="1" paraRef="conduit" headRef="361">canal</word>
+			</sg>
+			<sg number="20">
+				<word number="1" paraRef="abode" headRef="198">street</word>
+			</sg>
+			<sg number="21">
+				<word number="1">speedway</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">drawing</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">nearest</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">romano</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="1">puzzlement</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="1">frenzy</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="1">prom</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="1">retardants</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="1">epicentre</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="1">nikah</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="1">plastic</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="1">winger</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="1">eulogy</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="1">bib</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="1">bootloader</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="1">daikon</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="1">rear</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="1">scaphopod</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="1">puce</word>
+			</sg>
+			<sg number="40">
+				<word number="1" new="1">overbite</word>
+			</sg>
+			<sg number="41">
+				<word number="1" new="1">confederacy</word>
+			</sg>
+			<sg number="42">
+				<word number="1" new="1">supervisor</word>
+			</sg>
+			<sg number="43">
+				<word number="1" new="1">ethicist</word>
+			</sg>
+			<sg number="44">
+				<word number="1" new="1">tarot</word>
+			</sg>
+			<sg number="45">
+				<word number="1" new="1">phospholipid</word>
+			</sg>
+			<sg number="46">
+				<word number="1" new="1">nighthorse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="navel">
+			<sg number="1">
+				<word number="1" new="1">navel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="subdomain">
+			<sg number="1">
+				<word number="1" new="1">subdomain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="recruitment">
+			<sg number="1">
+				<word number="1" new="1">recruitment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="hawk">
+			<sg number="1">
+				<word number="1" new="1">hawk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="indices">
+			<sg number="1">
+				<word number="1" new="1">indices</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="laboratory">
+			<sg number="1">
+				<word number="1" new="1">laboratory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="qi">
+			<sg number="1">
+				<word number="1" new="1">qi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="catkin">
+			<sg number="1">
+				<word number="1" new="1">catkin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="swordsmith">
+			<sg number="1">
+				<word number="1" new="1">swordsmith</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="deposit">
+			<sg number="1">
+				<word number="1" new="1">deposit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="celesta">
+			<sg number="1">
+				<word number="1" new="1">celesta</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="how">
+			<sg number="1">
+				<word number="1">how</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in what way</word>
+				<word number="2">in what manner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by what mode</word>
+			</sg>
+			<sg number="4">
+				<word number="1">so</word>
+				<word number="2">in this way</word>
+				<word number="3">after this fashion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="one way or another">
+			<sg number="1">
+				<word number="1">one way or another</word>
+				<word number="2">anyhow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="instrumentality" headRef="660">somehow or other</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by way of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">via</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="in transitu" headRef="281">in transitu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">on the high road to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="hae tibi erunt artes">
+			<sg number="1">
+				<word number="1">hae tibi erunt artes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

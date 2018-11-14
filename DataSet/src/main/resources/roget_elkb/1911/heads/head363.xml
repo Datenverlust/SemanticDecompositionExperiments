@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="363" name="Semiliquidity" origNum="#352." class="3" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="semiliquidity">
+			<sg number="1">
+				<word number="1">semiliquidity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">stickiness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">viscidity</word>
+				<word number="2">viscosity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gummosity</word>
+				<word number="2">glutinosity</word>
+				<word number="3">mucosity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spissitude</word>
+				<word number="2">crassitude</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lentor</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="coherence" headRef="49">adhesiveness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inspissation">
+			<sg number="1">
+				<word number="1">inspissation</word>
+				<word number="2">incrassation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thickening</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="jelly">
+			<sg number="1">
+				<word number="1">jelly</word>
+				<word number="2">mucilage</word>
+				<word number="3">gelatin</word>
+				<word number="4">gluten</word>
+			</sg>
+			<sg number="2">
+				<word number="1">carlock</word>
+				<word number="2">fish glue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ichthyocol</word>
+				<word number="2">ichthycolla</word>
+			</sg>
+			<sg number="4">
+				<word number="1">isinglass</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mucus</word>
+				<word number="2">phlegm</word>
+				<word number="3">goo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pituite</word>
+				<word number="2">lava</word>
+			</sg>
+			<sg number="7">
+				<word number="1">glair</word>
+				<word number="2">starch</word>
+				<word number="3">gluten</word>
+				<word number="4">albumen</word>
+				<word number="5">milk</word>
+				<word number="6">cream</word>
+				<word number="7">protein!</word>
+			</sg>
+			<sg number="8">
+				<word number="1">treacle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">gum</word>
+				<word number="2">size</word>
+				<word number="3" paraRef="tenacity" headRef="338">glue</word>
+			</sg>
+			<sg number="10">
+				<word number="1">wax</word>
+				<word number="2">beeswax</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="emulsion">
+			<sg number="1">
+				<word number="1">emulsion</word>
+				<word number="2">soup</word>
+			</sg>
+			<sg number="2">
+				<word number="1">squash</word>
+				<word number="2">mud</word>
+				<word number="3">slush</word>
+				<word number="4">slime</word>
+				<word number="5">ooze</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="moisture" headRef="350">moisture</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="marsh" headRef="356">marsh</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="inspissate">
+			<sg number="1">
+				<word number="1">inspissate</word>
+				<word number="2">incrassate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thicken</word>
+				<word number="2">mash</word>
+				<word number="3">squash</word>
+				<word number="4">churn</word>
+				<word number="5">beat up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sinter">
+			<sg number="1">
+				<word number="1">sinter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="semifluid">
+			<sg number="1">
+				<word number="1">semifluid</word>
+				<word number="2">semiliquid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tremellose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">half melted</word>
+				<word number="2">half frozen</word>
+			</sg>
+			<sg number="4">
+				<word number="1">milky</word>
+				<word number="2" paraRef="" posRef="n.">muddy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lacteal</word>
+				<word number="2">lactean</word>
+				<word number="3">lacteous</word>
+				<word number="4">lactescent</word>
+				<word number="5">lactiferous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">emulsive</word>
+				<word number="2">curdled</word>
+				<word number="3">thick</word>
+				<word number="4">succulent</word>
+				<word number="5">uliginous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gelatinous">
+			<sg number="1">
+				<word number="1">gelatinous</word>
+				<word number="2">albuminous</word>
+				<word number="3">mucilaginous</word>
+				<word number="4">glutinous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glutenous</word>
+				<word number="2">gelatin</word>
+				<word number="3">mastic</word>
+				<word number="4">amylaceous</word>
+				<word number="5">ropy</word>
+				<word number="6">clammy</word>
+				<word number="7">clotted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">viscid</word>
+				<word number="2">viscous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sticky</word>
+				<word number="2">tacky</word>
+				<word number="3">gooey</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slab</word>
+				<word number="2">slabby</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lentous</word>
+				<word number="2">pituitous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mucid</word>
+				<word number="2">muculent</word>
+				<word number="3">mucous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gummy</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

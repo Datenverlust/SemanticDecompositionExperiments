@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="425" name="Resonance" origNum="#408." class="3" section="3" subSection="2" headGroup="21">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="resonance">
+			<sg number="1">
+				<word number="1">resonance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">ring</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ringing</word>
+				<word number="2" paraRef="" posRef="v.">tintinabulation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reflexion</word>
+				<word number="2">reflection</word>
+				<word number="3">reverberation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">echo</word>
+				<word number="2">reecho</word>
+			</sg>
+			<sg number="6">
+				<word number="1">zap</word>
+				<word number="2">zot</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="hiss" headRef="427">buzz</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="low note">
+			<sg number="1">
+				<word number="1">low note</word>
+				<word number="2">base note</word>
+				<word number="3">bass note</word>
+				<word number="4">flat note</word>
+				<word number="5">grave note</word>
+				<word number="6">deep note</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bass</word>
+			</sg>
+			<sg number="3">
+				<word number="1">basso</word>
+				<word number="2">basso profondo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">baritone</word>
+				<word number="2">barytone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contralto</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="echo chamber">
+			<sg number="1">
+				<word number="1">echo chamber</word>
+				<word number="2">resonator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tinnitus">
+			<sg number="1">
+				<word number="1">tinnitus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bell">
+			<sg number="1">
+				<word number="1">bell</word>
+				<word number="2">doorbell</word>
+				<word number="3">buzzer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gong</word>
+				<word number="2" paraRef="musical instruments" headRef="435">cymbals</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sympathetic vibrations">
+			<sg number="1">
+				<word number="1">sympathetic vibrations</word>
+			</sg>
+			<sg number="2">
+				<word number="1">natural frequency</word>
+				<word number="2">coupled vibration frequency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overtone</word>
+			</sg>
+			<sg number="4">
+				<word number="1">resonating cavity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sounding board</word>
+				<word number="2">tuning fork</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="tuning">
+			<sg number="1">
+				<word number="1">tuning</word>
+				<word number="2">squelch</word>
+				<word number="3">frequency selection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resonator</word>
+				<word number="2">resonator circuit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">radio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="resonant structure">
+			<sg number="1">
+				<word number="1">resonant structure</word>
+				<word number="2">aromaticity</word>
+				<word number="3">alternating double bonds</word>
+				<word number="4">non-bonded resonance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pi clouds</word>
+				<word number="2">unsaturation</word>
+				<word number="3">double bond</word>
+				<word number="4">valence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="resound">
+			<sg number="1">
+				<word number="1">resound</word>
+				<word number="2">reverberate</word>
+				<word number="3">reecho</word>
+				<word number="4">resonate</word>
+				<word number="5" new="1">awe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ring</word>
+				<word number="2">jingle</word>
+				<word number="3">gingle</word>
+				<word number="4">chink</word>
+				<word number="5">clink</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tink</word>
+				<word number="2">tinkle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chime</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="gurgle" headRef="422">gurgle</word>
+				<word number="2">goggle</word>
+				<word number="3">echo</word>
+				<word number="4">ring in the ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="resounding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">resounding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resonant</word>
+				<word number="2">reverberant</word>
+				<word number="3">tinnient</word>
+				<word number="4">tintinnabulary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sonorous</word>
+				<word number="2">booming</word>
+				<word number="3">deep-toned</word>
+				<word number="4">deep-sounding</word>
+				<word number="5">deep-mouthed</word>
+				<word number="6">vibrant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hollow</word>
+				<word number="2">sepulchral</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="harsh" headRef="428">gruff</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="sweet bells jangled">
+			<sg number="1">
+				<word number="1">"sweet bells jangled</word>
+				<word number="2">out of time and harsh"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">echoing down the mountain and through the dell</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="336" name="Elasticity" origNum="#325." class="3" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="elasticity">
+			<sg number="1">
+				<word number="1">elasticity</word>
+				<word number="2">springiness</word>
+				<word number="3">spring</word>
+				<word number="4">resilience</word>
+				<word number="5">renitency</word>
+				<word number="6">buoyancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rubber">
+			<sg number="1">
+				<word number="1">rubber</word>
+				<word number="2">India(n) rubber</word>
+				<word number="3">latex</word>
+				<word number="4">caoutchouc</word>
+				<word number="5">whalebone</word>
+				<word number="6">gum elastic</word>
+				<word number="7">baleen</word>
+				<word number="8">natural rubber</word>
+			</sg>
+			<sg number="2">
+				<word number="1">neoprene</word>
+				<word number="2">synthetic rubber</word>
+				<word number="3">Buna-S</word>
+				<word number="4">plastic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="flexibility">
+			<sg number="1">
+				<word number="1">flexibility</word>
+				<word number="2">Young's modulus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="stretch">
+			<sg number="1">
+				<word number="1">stretch</word>
+				<word number="2">flex</word>
+				<word number="3">extend</word>
+				<word number="4">distend</word>
+				<word number="5" paraRef="" posRef="adj.">be elastic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bounce</word>
+				<word number="2" paraRef="recoil" headRef="288">spring back</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="elastic">
+			<sg number="1">
+				<word number="1">elastic</word>
+				<word number="2">flexible</word>
+				<word number="3">tensile</word>
+				<word number="4">spring</word>
+				<word number="5">resilient</word>
+				<word number="6">renitent</word>
+				<word number="7">buoyant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ductile</word>
+				<word number="2">stretchable</word>
+				<word number="3">extendable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the stress is proportional to the strain">
+			<sg number="1">
+				<word number="1">the stress is proportional to the strain</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

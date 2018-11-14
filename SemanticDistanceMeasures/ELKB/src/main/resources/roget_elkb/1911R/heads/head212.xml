@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="212" name="Narrowness" origNum="#203." class="2" section="2" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="narrowness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">narrowness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">closeness</word>
+				<word number="2">exility</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="little" headRef="202">exiguity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="line">
+			<sg number="1">
+				<word number="1">line</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hair's breadth</word>
+				<word number="2">finger's breadth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strip</word>
+				<word number="2">streak</word>
+				<word number="3">vein</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="monolayer">
+			<sg number="1">
+				<word number="1">monolayer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">epitaxial deposition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="thinness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">thinness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tenuity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emaciation</word>
+				<word number="2">macilency</word>
+				<word number="3">marcor|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="shaving">
+			<sg number="1">
+				<word number="1">shaving</word>
+				<word number="2" paraRef="filament" headRef="214">slip</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thread paper</word>
+				<word number="2">skeleton</word>
+				<word number="3">shadow</word>
+				<word number="4">anatomy</word>
+				<word number="5">spindleshanks</word>
+				<word number="6">lantern jaws</word>
+				<word number="7">mere skin and bone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="middle constriction">
+			<sg number="1">
+				<word number="1">middle constriction</word>
+				<word number="2">stricture</word>
+				<word number="3">neck</word>
+				<word number="4">waist</word>
+				<word number="5">isthmus</word>
+				<word number="6">wasp</word>
+				<word number="7">hourglass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ridge</word>
+				<word number="2">ghaut</word>
+				<word number="3">ghat</word>
+				<word number="4">pass</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ravine" headRef="207">ravine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="narrowing">
+			<sg number="1">
+				<word number="1">narrowing</word>
+				<word number="2">coarctation</word>
+				<word number="3">angustation</word>
+				<word number="4">tapering</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contraction" headRef="204">contraction</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be narrow">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be narrow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">narrow</word>
+				<word number="2">taper</word>
+				<word number="3" paraRef="contract" headRef="204">contract</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">render narrow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">waste away</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="narrow">
+			<sg number="1">
+				<word number="1">narrow</word>
+				<word number="2">close</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slender</word>
+				<word number="2">thin</word>
+				<word number="3">fine</word>
+				<word number="4" new="1">horticulturally</word>
+				<word number="5" new="1">cadaveric</word>
+				<word number="6" new="1">barefaced</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="filament" headRef="214">thread-like</word>
+			</sg>
+			<sg number="4">
+				<word number="1">finespun</word>
+				<word number="2">gossamer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">paper-thin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">taper</word>
+				<word number="2">slim</word>
+				<word number="3">slight-made</word>
+			</sg>
+			<sg number="7">
+				<word number="1">scant</word>
+				<word number="2">scanty</word>
+			</sg>
+			<sg number="8">
+				<word number="1">spare</word>
+				<word number="2">delicate</word>
+				<word number="3">incapacious</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="contracted" headRef="204">contracted</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="expand" headRef="203">unexpanded</word>
+			</sg>
+			<sg number="11">
+				<word number="1">slender as a thread</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">ran</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">aesthetic</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">unconsolidated</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">trustworthy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="emaciated">
+			<sg number="1">
+				<word number="1">emaciated</word>
+				<word number="2">lean</word>
+				<word number="3">meager</word>
+				<word number="4">gaunt</word>
+				<word number="5">macilent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lank</word>
+				<word number="2">lanky</word>
+			</sg>
+			<sg number="3">
+				<word number="1">weedy</word>
+				<word number="2">skinny</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scrawny  slinky</word>
+			</sg>
+			<sg number="5">
+				<word number="1">starved</word>
+				<word number="2">starveling</word>
+			</sg>
+			<sg number="6">
+				<word number="1">herring gutted</word>
+			</sg>
+			<sg number="7">
+				<word number="1">worn to a shadow</word>
+				<word number="2">lean as a rake</word>
+			</sg>
+			<sg number="8">
+				<word number="1">thin as a lath</word>
+				<word number="2">thin as a whipping post</word>
+				<word number="3">thin as a wafer</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hatchet-faced</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lantern-jawed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="attenuated">
+			<sg number="1">
+				<word number="1">attenuated</word>
+				<word number="2">shriveled</word>
+				<word number="3">extenuated</word>
+				<word number="4">tabid</word>
+				<word number="5">marcid</word>
+				<word number="6">barebone</word>
+				<word number="7">rawboned</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="monomolecular">
+			<sg number="1">
+				<word number="1">monomolecular</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

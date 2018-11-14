@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="247" name="Contraposition" origNum="#237." class="2" section="2" subSection="3" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="contraposition">
+			<sg number="1">
+				<word number="1">contraposition</word>
+				<word number="2">opposition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">polarity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inversion" headRef="228">inversion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">opposite side</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reverse</word>
+				<word number="2">inverse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">counterpart</word>
+			</sg>
+			<sg number="7">
+				<word number="1">antipodes</word>
+			</sg>
+			<sg number="8">
+				<word number="1">opposite poles</word>
+				<word number="2">North and South</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="antonym">
+			<sg number="1">
+				<word number="1">antonym</word>
+				<word number="2" paraRef="contrariety" headRef="14">opposite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be opposite">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be opposite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subtend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="opposite">
+			<sg number="1">
+				<word number="1">opposite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reverse</word>
+				<word number="2">inverse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">converse</word>
+				<word number="2">antipodal</word>
+				<word number="3">subcontrary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fronting</word>
+				<word number="2">facing</word>
+				<word number="3">diametrically opposite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Northern">
+			<sg number="1">
+				<word number="1">Northern</word>
+				<word number="2">septentrional</word>
+				<word number="3">Boreal</word>
+				<word number="4">arctic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Southern</word>
+				<word number="2">Austral</word>
+				<word number="3">antarctic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="over">
+			<sg number="1">
+				<word number="1">over</word>
+				<word number="2">over the way</word>
+				<word number="3">over against</word>
+			</sg>
+			<sg number="2">
+				<word number="1">against</word>
+			</sg>
+			<sg number="3">
+				<word number="1">face to face</word>
+				<word number="2">vis-a- vis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">as poles asunder</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

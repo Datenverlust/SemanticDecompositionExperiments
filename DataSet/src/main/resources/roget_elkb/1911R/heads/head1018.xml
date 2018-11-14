@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1018" name="Scourge" origNum="#975." class="8" section="4" subSection="5" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="instrument of punishment">
+			<sg number="1">
+				<word number="1">instrument of punishment</word>
+				<word number="2">scourge</word>
+				<word number="3">rod</word>
+				<word number="4">cane</word>
+				<word number="5">stick</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ratan</word>
+				<word number="2">rattan</word>
+			</sg>
+			<sg number="3">
+				<word number="1">birch</word>
+				<word number="2">birch rod</word>
+			</sg>
+			<sg number="4">
+				<word number="1">azote</word>
+				<word number="2">blacksnake</word>
+				<word number="3">bullwhack</word>
+				<word number="4">chicote</word>
+				<word number="5">kurbash</word>
+				<word number="6">quirt</word>
+				<word number="7">rawhide</word>
+				<word number="8">sjambok</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rod in pickle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">switch</word>
+				<word number="2">ferule</word>
+				<word number="3">cudgel</word>
+				<word number="4">truncheon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="whip">
+			<sg number="1">
+				<word number="1">whip</word>
+				<word number="2">bullwhip</word>
+				<word number="3">lash</word>
+				<word number="4">strap</word>
+				<word number="5">thong</word>
+				<word number="6">cowhide</word>
+				<word number="7">knout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cat</word>
+				<word number="2">cat o'nine tails</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rope's end</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pillory">
+			<sg number="1">
+				<word number="1">pillory</word>
+				<word number="2">stocks</word>
+				<word number="3">whipping post</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cucking stool</word>
+				<word number="2">ducking stool</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brank</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trebuchet</word>
+				<word number="2">trebuket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="triangle">
+			<sg number="1">
+				<word number="1">triangle</word>
+				<word number="2">wooden horse</word>
+				<word number="3">iron maiden</word>
+				<word number="4">thumbscrew</word>
+				<word number="5">boot</word>
+				<word number="6">rack</word>
+				<word number="7">wheel</word>
+				<word number="8">iron heel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chinese water torture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="treadmill">
+			<sg number="1">
+				<word number="1">treadmill</word>
+				<word number="2">crank</word>
+				<word number="3">galleys</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="scaffold">
+			<sg number="1">
+				<word number="1">scaffold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">block</word>
+				<word number="2">ax</word>
+				<word number="3">guillotine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stake</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cross</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gallows</word>
+				<word number="2">gibbet</word>
+				<word number="3">tree</word>
+				<word number="4">drop</word>
+				<word number="5">noose</word>
+				<word number="6">rope</word>
+				<word number="7">halter</word>
+				<word number="8">bowstring</word>
+			</sg>
+			<sg number="6">
+				<word number="1">death chair</word>
+				<word number="2">electric chair</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gas chamber</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lethal injection</word>
+			</sg>
+			<sg number="9">
+				<word number="1">firing squad</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mecate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="house of correction">
+			<sg number="1">
+				<word number="1" paraRef="prison" headRef="783">house of correction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="goaler">
+			<sg number="1">
+				<word number="1">goaler</word>
+				<word number="2">jailer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">executioner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">electrocutioner</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lyncher</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hangman</word>
+			</sg>
+			<sg number="6">
+				<word number="1">headsman</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Jack Ketch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="encapsulation">
+			<sg number="1">
+				<word number="1" new="1">encapsulation</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

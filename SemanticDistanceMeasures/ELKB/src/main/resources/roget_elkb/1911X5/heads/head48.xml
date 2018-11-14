@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="48" name="Connection" origNum="#45." class="1" section="3" subSection="3" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vinculum">
+			<sg number="1">
+				<word number="1">vinculum</word>
+				<word number="2">link</word>
+			</sg>
+			<sg number="2">
+				<word number="1">connective</word>
+				<word number="2">connection</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="junction" headRef="46">junction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bond of union</word>
+				<word number="2">copula</word>
+				<word number="3">hyphen</word>
+				<word number="4">intermedium</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bracket</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bridge</word>
+				<word number="2">stepping-stone</word>
+				<word number="3">isthmus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bond">
+			<sg number="1">
+				<word number="1">bond</word>
+				<word number="2">tendon</word>
+				<word number="3">tendril</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fiber</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cord</word>
+				<word number="2">cordage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">riband</word>
+				<word number="2">ribbon</word>
+				<word number="3">rope</word>
+				<word number="4">guy</word>
+				<word number="5">cable</word>
+				<word number="6">line</word>
+				<word number="7">halser</word>
+				<word number="8">hawser</word>
+				<word number="9">painter</word>
+				<word number="10">moorings</word>
+				<word number="11">wire</word>
+				<word number="12">chain</word>
+				<word number="13" new="1">threads</word>
+				<word number="14" new="2">strand</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="filament" headRef="214">string</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">thread</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">twine</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">webbing</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="2">netting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fastener">
+			<sg number="1">
+				<word number="1">fastener</word>
+				<word number="2">fastening</word>
+				<word number="3">tie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ligament</word>
+				<word number="2">ligature</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strap</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tackle</word>
+				<word number="2">rigging</word>
+			</sg>
+			<sg number="5">
+				<word number="1">standing rigging</word>
+				<word number="2">running rigging</word>
+			</sg>
+			<sg number="6">
+				<word number="1">traces</word>
+				<word number="2">harness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">yoke</word>
+			</sg>
+			<sg number="8">
+				<word number="1">band ribband</word>
+				<word number="2">bandage</word>
+			</sg>
+			<sg number="9">
+				<word number="1">brace</word>
+				<word number="2">roller</word>
+				<word number="3">fillet</word>
+			</sg>
+			<sg number="10">
+				<word number="1">inkle</word>
+			</sg>
+			<sg number="11">
+				<word number="1">with</word>
+				<word number="2">withe</word>
+				<word number="3">withy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">thong</word>
+				<word number="2">braid</word>
+			</sg>
+			<sg number="13">
+				<word number="1">girder</word>
+				<word number="2">tiebeam</word>
+			</sg>
+			<sg number="14">
+				<word number="1">girth</word>
+				<word number="2">girdle</word>
+				<word number="3">cestus</word>
+				<word number="4">garter</word>
+				<word number="5">halter</word>
+				<word number="6">noose</word>
+				<word number="7">lasso</word>
+				<word number="8">surcingle</word>
+				<word number="9">knot</word>
+				<word number="10">running knot</word>
+			</sg>
+			<sg number="15">
+				<word number="1">cabestro</word>
+				<word number="2">cinch</word>
+				<word number="3">lariat</word>
+				<word number="4">legadero</word>
+				<word number="5">oxreim</word>
+			</sg>
+			<sg number="16">
+				<word number="1">suspenders</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">hitch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pin">
+			<sg number="1">
+				<word number="1">pin</word>
+				<word number="2">corking pin</word>
+				<word number="3">nail</word>
+				<word number="4">brad</word>
+				<word number="5">tack</word>
+				<word number="6">skewer</word>
+				<word number="7">staple</word>
+				<word number="8">corrugated fastener</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clamp</word>
+				<word number="2">U-clamp</word>
+				<word number="3">C-clamp</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cramp</word>
+				<word number="2">cramp iron</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ratchet</word>
+				<word number="2">detent</word>
+				<word number="3">larigo</word>
+				<word number="4">pawl</word>
+			</sg>
+			<sg number="5">
+				<word number="1">terret</word>
+				<word number="2">treenail</word>
+				<word number="3">screw</word>
+				<word number="4">button</word>
+				<word number="5">buckle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clasp</word>
+				<word number="2">hasp</word>
+				<word number="3">hinge</word>
+				<word number="4">hank</word>
+				<word number="5">catch</word>
+				<word number="6">latch</word>
+				<word number="7">bolt</word>
+				<word number="8">latchet</word>
+				<word number="9">tag</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tooth</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hook</word>
+				<word number="2">hook and eye</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lock</word>
+				<word number="2">holdfast</word>
+				<word number="3">padlock</word>
+				<word number="4">rivet</word>
+			</sg>
+			<sg number="10">
+				<word number="1">anchor</word>
+				<word number="2">grappling iron</word>
+				<word number="3">trennel</word>
+				<word number="4">stake</word>
+				<word number="5">post</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">peg</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cement">
+			<sg number="1">
+				<word number="1">cement</word>
+				<word number="2">glue</word>
+				<word number="3">gum</word>
+				<word number="4">paste</word>
+				<word number="5">size</word>
+				<word number="6">wafer</word>
+				<word number="7">solder</word>
+				<word number="8">lute</word>
+				<word number="9">putty</word>
+				<word number="10">birdlime</word>
+				<word number="11">mortar</word>
+				<word number="12">stucco</word>
+				<word number="13">plaster</word>
+				<word number="14">grout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">viscum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="shackle">
+			<sg number="1">
+				<word number="1">shackle</word>
+				<word number="2" paraRef="means of restraint" headRef="783">rein</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="support" headRef="224">prop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bushing">
+			<sg number="1">
+				<word number="1" new="1">bushing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="bridge over">
+			<sg number="1">
+				<word number="1">bridge over</word>
+				<word number="2">span</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="connect" headRef="46">connect</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hang" headRef="223">hang</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

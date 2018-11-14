@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="694" name="Danger" origNum="#665." class="6" section="2" subSection="2" headGroup="21">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="danger">
+			<sg number="1">
+				<word number="1">danger</word>
+				<word number="2">peril</word>
+				<word number="3">insecurity</word>
+				<word number="4">jeopardy</word>
+				<word number="5">risk</word>
+				<word number="6">hazard</word>
+				<word number="7">venture</word>
+				<word number="8">precariousness</word>
+				<word number="9">slipperiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="instability" headRef="156">instability</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">defenselessness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exposure">
+			<sg number="1">
+				<word number="1" paraRef="liability" headRef="185">exposure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vulnerability</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vulnerable point</word>
+				<word number="2">heel of Achilles</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hopelessness" headRef="898">forlorn hope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="leap in the dark">
+			<sg number="1">
+				<word number="1" paraRef="rashness" headRef="902">leap in the dark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">road to ruin</word>
+				<word number="2">faciles descensus Averni</word>
+				<word number="3">hairbreadth escape</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cause for alarm">
+			<sg number="1">
+				<word number="1">cause for alarm</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="source of danger" headRef="696">source of danger</word>
+				<word number="2">breakers ahead</word>
+			</sg>
+			<sg number="3">
+				<word number="1">storm brewing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clouds in the horizon</word>
+				<word number="2">clouds gathering</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="warning" headRef="697">warning</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="alarm" headRef="698">alarm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="apprehension">
+			<sg number="1">
+				<word number="1" paraRef="apprehension" headRef="899">apprehension</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in danger">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be in danger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be exposed to danger</word>
+				<word number="2">run into danger</word>
+				<word number="3">incur danger</word>
+				<word number="4" paraRef="" posRef="n.">encounter danger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run a risk</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="liability" headRef="185">lay oneself open to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lean on a broken reed</word>
+				<word number="2">trust to a broken reed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">feel the ground sliding from under one</word>
+				<word number="2">have to run for it</word>
+			</sg>
+			<sg number="7">
+				<word number="1">have the chances against one</word>
+				<word number="2">have the odds against one</word>
+				<word number="3">face long odds</word>
+			</sg>
+			<sg number="8">
+				<word number="1">be in deep trouble</word>
+				<word number="2">be between a rock and a hard place</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hang by a thread">
+			<sg number="1">
+				<word number="1">hang by a thread</word>
+				<word number="2">totter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sleep on a volcano</word>
+				<word number="2">stand on a volcano</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sit on a barrel of gunpowder</word>
+				<word number="2">live in a glass house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bring in danger">
+			<sg number="1">
+				<word number="1">bring in danger</word>
+				<word number="2">place in danger</word>
+				<word number="3">put in danger</word>
+				<word number="4">place in jeopardy</word>
+				<word number="5" paraRef="" posRef="n.">put in jeopardy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">endanger</word>
+				<word number="2">expose to danger</word>
+				<word number="3">imperil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jeopard</word>
+				<word number="2">jeopardize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">compromise</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="rash" headRef="902">sail too near the wind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="adventure">
+			<sg number="1">
+				<word number="1">adventure</word>
+				<word number="2">risk</word>
+				<word number="3">hazard</word>
+				<word number="4">venture</word>
+				<word number="5">stake</word>
+				<word number="6">set at hazard</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dare" headRef="900">run the gauntlet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">engage in a forlorn hope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="threaten danger">
+			<sg number="1">
+				<word number="1" paraRef="threaten" headRef="949">threaten danger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run one hard</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deceive" headRef="571">lay a trap for</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in danger">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in danger</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">endangered</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fraught with danger</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dangerous</word>
+				<word number="2">hazardous</word>
+				<word number="3">perilous</word>
+				<word number="4">parlous</word>
+				<word number="5">periculous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unsafe</word>
+				<word number="2" paraRef="safe" headRef="693">unprotected</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insecure</word>
+				<word number="2">untrustworthy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">built upon sand</word>
+				<word number="2">on a sandy basis</word>
+			</sg>
+			<sg number="8">
+				<word number="1">wildcat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="defenseless">
+			<sg number="1">
+				<word number="1">defenseless</word>
+				<word number="2">fenceless</word>
+				<word number="3">guardless</word>
+				<word number="4">harborless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unshielded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vulnerable</word>
+				<word number="2">expugnable</word>
+				<word number="3">exposed</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="liable" headRef="185">open to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aux abois">
+			<sg number="1">
+				<word number="1">aux abois</word>
+				<word number="2">at bay</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the wrong side of the wall</word>
+				<word number="2">on a lee shore</word>
+				<word number="3">on the rocks</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="at stake">
+			<sg number="1">
+				<word number="1">at stake</word>
+				<word number="2">in question</word>
+			</sg>
+			<sg number="2">
+				<word number="1">precarious</word>
+				<word number="2">critical</word>
+				<word number="3">ticklish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slippery</word>
+				<word number="2">slippy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">hanging by a thread</word>
+			</sg>
+			<sg number="5">
+				<word number="1">with a halter round one's neck</word>
+			</sg>
+			<sg number="6">
+				<word number="1">between the hammer and the anvil</word>
+				<word number="2">between  Scylla and Charybdis</word>
+				<word number="3">between a rock and a hard place</word>
+				<word number="4">between the devil and the deep blue sea</word>
+				<word number="5">between two fires</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on the edge of a precipice</word>
+				<word number="2">on the brink of a precipice</word>
+				<word number="3">on the verge of a precipice</word>
+				<word number="4">on the edge of a volcano</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in the lion's den</word>
+				<word number="2">on slippery ground</word>
+				<word number="3">under fire</word>
+			</sg>
+			<sg number="9">
+				<word number="1">not out of the wood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unwarned">
+			<sg number="1">
+				<word number="1">unwarned</word>
+				<word number="2">unadmonished</word>
+				<word number="3">unadvised</word>
+				<word number="4" paraRef="unprepared" headRef="703">unprepared</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inexpectant" headRef="532">off one's guard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="tottering">
+			<sg number="1">
+				<word number="1">tottering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unstable</word>
+				<word number="2">unsteady</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shaky</word>
+				<word number="2">top-heavy</word>
+				<word number="3">tumbledown</word>
+				<word number="4">ramshackle</word>
+				<word number="5">crumbling</word>
+				<word number="6">waterlogged</word>
+			</sg>
+			<sg number="4">
+				<word number="1">helpless</word>
+				<word number="2">guideless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in a bad way</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reduced to the last extremity</word>
+				<word number="2">at the last extremity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trembling in the balance</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="destruction" headRef="169">nodding to its fall</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ominous</word>
+				<word number="2">illomened</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="fear" headRef="899">alarming</word>
+			</sg>
+			<sg number="11">
+				<word number="1">explosive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="adventurous">
+			<sg number="1">
+				<word number="1" paraRef="rash" headRef="902">adventurous</word>
+				<word number="2" paraRef="bold" headRef="900">bold</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="incidit in Scyllam qui vult vitare Charybdim">
+			<sg number="1">
+				<word number="1">incidit in Scyllam qui vult vitare Charybdim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nam tua res agitur paries dum proximus ardet</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

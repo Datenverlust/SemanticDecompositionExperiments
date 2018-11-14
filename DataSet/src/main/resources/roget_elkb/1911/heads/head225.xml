@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="225" name="Parallelism" origNum="#216." class="2" section="2" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">parallelism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coextension</word>
+			</sg>
+			<sg number="3">
+				<word number="1">equidistance</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="similarity" headRef="18">similarity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="parallel">
+			<sg number="1">
+				<word number="1">parallel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coextensive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">equidistant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="alongside">
+			<sg number="1">
+				<word number="1" paraRef="laterally" headRef="246">alongside</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

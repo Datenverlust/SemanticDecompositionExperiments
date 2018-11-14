@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="913" name="Disrepute" origNum="#874." class="8" section="2" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disrepute">
+			<sg number="1">
+				<word number="1">disrepute</word>
+				<word number="2">discredit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill repute</word>
+				<word number="2">bad repute</word>
+				<word number="3">bad name</word>
+				<word number="4">bad odor</word>
+				<word number="5">bad favor</word>
+				<word number="6">ill name</word>
+				<word number="7">ill odor</word>
+				<word number="8">ill favor</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disapprobation" headRef="974">disapprobation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ingloriousness</word>
+				<word number="2">derogation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abasement</word>
+				<word number="2">debasement</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">abjectness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">degradation</word>
+				<word number="2">dedecoration</word>
+			</sg>
+			<sg number="8">
+				<word number="1">a long farewell to all my greatness</word>
+			</sg>
+			<sg number="9">
+				<word number="1">odium</word>
+				<word number="2">obloquy</word>
+				<word number="3">opprobrium</word>
+				<word number="4">ignominy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dishonor">
+			<sg number="1">
+				<word number="1">dishonor</word>
+				<word number="2">disgrace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shame</word>
+				<word number="2">humiliation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scandal</word>
+				<word number="2">baseness</word>
+				<word number="3">vileness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="improbity" headRef="982">turpitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1">infamy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tarnish">
+			<sg number="1">
+				<word number="1">tarnish</word>
+				<word number="2">taint</word>
+				<word number="3">defilement</word>
+				<word number="4">pollution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="stain">
+			<sg number="1">
+				<word number="1">stain</word>
+				<word number="2">blot</word>
+				<word number="3">spot</word>
+				<word number="4">blur</word>
+				<word number="5">stigma</word>
+				<word number="6">brand</word>
+				<word number="7">reproach</word>
+				<word number="8">imputation</word>
+				<word number="9">slur</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="crying shame">
+			<sg number="1">
+				<word number="1">crying shame</word>
+				<word number="2">burning shame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scandalum magnatum</word>
+				<word number="2">badge of infamy</word>
+				<word number="3">blot in one's escutcheon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bend sinister</word>
+				<word number="2">bar sinister</word>
+			</sg>
+			<sg number="4">
+				<word number="1">champain</word>
+				<word number="2">point champain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">byword of reproach</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Ichabod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="argumentum ad verecundiam">
+			<sg number="1">
+				<word number="1">argumentum ad verecundiam</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sense of shame" headRef="918">sense of shame</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inglorious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inglorious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">incur disgrace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have a bad name</word>
+				<word number="2">earn a bad name</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put a halter round one's neck</word>
+				<word number="2">wear a halter round one's neck</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disgrace oneself</word>
+				<word number="2">expose oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="play second fiddle">
+			<sg number="1">
+				<word number="1">play second fiddle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lose caste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pale one's ineffectual fire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">recede into the shade</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fall from one's high estate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="modesty" headRef="920">keep in the background</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="humility" headRef="918">be conscious of disgrace</word>
+			</sg>
+			<sg number="8">
+				<word number="1">look blue</word>
+				<word number="2">look foolish</word>
+				<word number="3">look  like a fool</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cut a poor figure</word>
+				<word number="2">cut a sorry figure</word>
+			</sg>
+			<sg number="10">
+				<word number="1">laugh on the wrong side of the mouth</word>
+			</sg>
+			<sg number="11">
+				<word number="1">make a sorry face</word>
+				<word number="2">go away with a flea in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="one's ear">
+			<sg number="1">
+				<word number="1">one's ear</word>
+				<word number="2">slink away</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cause shame">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">cause shame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shame</word>
+				<word number="2">disgrace</word>
+				<word number="3">put to shame</word>
+				<word number="4">dishonor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">throw dishonor upon</word>
+				<word number="2">cast dishonor upon</word>
+				<word number="3">fling dishonor upon</word>
+				<word number="4" paraRef="" posRef="n.">reflect dishonor upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">be a reproach</word>
+			</sg>
+			<sg number="5">
+				<word number="1">derogate from</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="tarnish">
+			<sg number="1">
+				<word number="1">tarnish</word>
+				<word number="2">stain</word>
+				<word number="3">blot sully</word>
+				<word number="4">taint</word>
+				<word number="5" new="1">chandelle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discredit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">degrade</word>
+				<word number="2">debase</word>
+				<word number="3">defile</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beggar</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="punish" headRef="1015">expel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="impute shame to">
+			<sg number="1">
+				<word number="1">impute shame to</word>
+				<word number="2">brand</word>
+				<word number="3">post</word>
+				<word number="4">stigmatize</word>
+				<word number="5">vilify</word>
+				<word number="6">defame</word>
+				<word number="7">slur</word>
+				<word number="8">cast a slur upon</word>
+				<word number="9">hold up to shame</word>
+				<word number="10">send to Coventry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tread under foot</word>
+				<word number="2">trample under foot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">show up</word>
+				<word number="2">drag through the mire</word>
+				<word number="3">heap dirt upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="reprehend" headRef="974">reprehend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bring low">
+			<sg number="1">
+				<word number="1">bring low</word>
+				<word number="2">put down</word>
+				<word number="3">snub</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take down a peg</word>
+				<word number="2">take down a peg lower</word>
+				<word number="3">take down a peg or two</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="obscure">
+			<sg number="1">
+				<word number="1">obscure</word>
+				<word number="2">eclipse</word>
+				<word number="3">outshine</word>
+				<word number="4">take the shine out of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">throw into the shade</word>
+				<word number="2">cast into the shade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overshadow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">leave in the background</word>
+				<word number="2">put in the background</word>
+			</sg>
+			<sg number="5">
+				<word number="1">push into a corner</word>
+				<word number="2">put one's nose out of joint</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put out</word>
+				<word number="2">put out of countenance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="upset">
+			<sg number="1">
+				<word number="1">upset</word>
+				<word number="2">throw off one's center</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discompose</word>
+				<word number="2">disconcert</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="humble" headRef="918">put to the blush</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disgraced">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disgraced</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blown upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"shorn of its beams"</word>
+				<word number="2">shorn of one's glory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">overcome</word>
+				<word number="2">downtrodden</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="n.">loaded with shame</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="n.">in bad repute</word>
+			</sg>
+			<sg number="7">
+				<word number="1">out of repute</word>
+				<word number="2">out of favor</word>
+				<word number="3">out of fashion</word>
+				<word number="4">out of countenance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at a discount</word>
+			</sg>
+			<sg number="9">
+				<word number="1">under a cloud</word>
+				<word number="2">under  an eclipse</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unable to show one's face</word>
+			</sg>
+			<sg number="11">
+				<word number="1">in the shade</word>
+				<word number="2">in the background</word>
+			</sg>
+			<sg number="12">
+				<word number="1">out at elbows</word>
+				<word number="2">down at the elbows</word>
+				<word number="3">down in the world</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inglorious">
+			<sg number="1">
+				<word number="1">inglorious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nameless</word>
+				<word number="2">renownless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obscure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unknown to fame</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unnoticed</word>
+				<word number="2">unnoted</word>
+				<word number="3">unhonored</word>
+				<word number="4">unglorified</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shameful">
+			<sg number="1">
+				<word number="1">shameful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disgraceful</word>
+				<word number="2">discreditable</word>
+				<word number="3">disreputable</word>
+				<word number="4" new="1">penciled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">despicable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">questionable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unbecoming</word>
+				<word number="2">unworthy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">derogatory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">degrading</word>
+				<word number="2">humiliating</word>
+				<word number="3">infra dignitatem</word>
+				<word number="4">dedecorous</word>
+				<word number="5" new="1">exportable</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scandalous</word>
+				<word number="2">infamous</word>
+				<word number="3">too bad</word>
+				<word number="4">unmentionable</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ribald</word>
+				<word number="2">opprobrious</word>
+			</sg>
+			<sg number="10">
+				<word number="1">errant</word>
+				<word number="2">shocking</word>
+				<word number="3">outrageous</word>
+				<word number="4">notorious</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">characterising</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">irrorated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ignominious">
+			<sg number="1">
+				<word number="1">ignominious</word>
+				<word number="2">scrubby</word>
+				<word number="3">dirty</word>
+				<word number="4">abject</word>
+				<word number="5">vile</word>
+				<word number="6">beggarly</word>
+				<word number="7">pitiful</word>
+				<word number="8">low</word>
+				<word number="9">mean</word>
+				<word number="10" paraRef="dishonorable" headRef="982">shabby base</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to one's shame be it spoken">
+			<sg number="1">
+				<word number="1">to one's shame be it spoken</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="fie">
+			<sg number="1">
+				<word number="1">fie!</word>
+				<word number="2">shame!</word>
+				<word number="3">for shame!</word>
+				<word number="4">proh pudor!</word>
+				<word number="5">O tempora!</word>
+				<word number="6">O mores!</word>
+				<word number="7">ough!</word>
+				<word number="8">sic transit gloria mundi!. -</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

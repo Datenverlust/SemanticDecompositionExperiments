@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="278" name="Navigation" origNum="#267." class="2" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="navigation">
+			<sg number="1">
+				<word number="1">navigation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aquatics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">boating</word>
+				<word number="2">yachting</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ship" headRef="284">ship</word>
+			</sg>
+			<sg number="5">
+				<word number="1">oar</word>
+				<word number="2">paddle</word>
+				<word number="3">screw</word>
+				<word number="4">sail</word>
+				<word number="5">canvas</word>
+				<word number="6">aileron</word>
+				<word number="7" new="1">rudder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="natation">
+			<sg number="1">
+				<word number="1">natation</word>
+				<word number="2">swimming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fin</word>
+				<word number="2">flipper</word>
+				<word number="3">fish's tail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aerostation">
+			<sg number="1">
+				<word number="1">aerostation</word>
+				<word number="2">aerostatics</word>
+				<word number="3">aeronautics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">balloonery</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="balloon" headRef="284">balloon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ballooning</word>
+				<word number="2">aviation</word>
+				<word number="3">airmanship</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flying</word>
+				<word number="2">flight</word>
+				<word number="3">volitation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wing</word>
+				<word number="2">pinion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rocketry</word>
+				<word number="2">space travel</word>
+				<word number="3">astronautics</word>
+				<word number="4">orbital mechanics</word>
+				<word number="5">orbiting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="voyage">
+			<sg number="1">
+				<word number="1">voyage</word>
+				<word number="2">sail</word>
+				<word number="3">cruise</word>
+				<word number="4">passage</word>
+				<word number="5">circumnavigation</word>
+				<word number="6">periplus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">headway</word>
+				<word number="2">sternway</word>
+				<word number="3">leeway</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fairway</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="mariner">
+			<sg number="1">
+				<word number="1" paraRef="mariner" headRef="280">mariner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="flight">
+			<sg number="1">
+				<word number="1">flight</word>
+				<word number="2">trip</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shuttle</word>
+				<word number="2">run</word>
+				<word number="3">airlift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="journey">
+			<sg number="1">
+				<word number="1" new="1">journey</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="sail">
+			<sg number="1">
+				<word number="1">sail</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="depart" headRef="304">put to sea</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take ship</word>
+				<word number="2">get under way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set sail</word>
+				<word number="2">spread sail</word>
+				<word number="3">spread canvas</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gather way</word>
+				<word number="2">have way on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make sail</word>
+				<word number="2">carry sail</word>
+			</sg>
+			<sg number="7">
+				<word number="1">plow the waves</word>
+				<word number="2">plow the deep</word>
+				<word number="3">plow the main</word>
+				<word number="4">plow the ocean</word>
+			</sg>
+			<sg number="8">
+				<word number="1">walk the waters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="navigate">
+			<sg number="1">
+				<word number="1">navigate</word>
+				<word number="2">warp</word>
+				<word number="3">luff</word>
+				<word number="4">scud</word>
+				<word number="5">boom</word>
+				<word number="6">kedge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drift</word>
+				<word number="2">course</word>
+				<word number="3">cruise</word>
+				<word number="4">coast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hug the shore</word>
+				<word number="2">hug the land</word>
+			</sg>
+			<sg number="4">
+				<word number="1">circumnavigate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ply the oar">
+			<sg number="1">
+				<word number="1">ply the oar</word>
+				<word number="2">row</word>
+				<word number="3">paddle</word>
+				<word number="4">pull</word>
+				<word number="5">scull</word>
+				<word number="6">punt</word>
+				<word number="7">steam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="swim">
+			<sg number="1">
+				<word number="1">swim</word>
+				<word number="2">float</word>
+			</sg>
+			<sg number="2">
+				<word number="1">buffet the waves</word>
+				<word number="2">ride the storm</word>
+				<word number="3">skim</word>
+				<word number="4">effleurer</word>
+				<word number="5">dive</word>
+				<word number="6">wade</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">leap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="fly">
+			<sg number="1">
+				<word number="1">fly</word>
+				<word number="2">be wafted</word>
+				<word number="3">hover</word>
+				<word number="4">soar</word>
+				<word number="5">flutter</word>
+				<word number="6">jet</word>
+				<word number="7">orbit</word>
+				<word number="8">rocket</word>
+				<word number="9" new="1">balloon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take wing</word>
+				<word number="2">take a flight</word>
+				<word number="3">take off</word>
+				<word number="4">ascend</word>
+				<word number="5">blast off</word>
+				<word number="6">land</word>
+				<word number="7">alight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wing one's flight</word>
+				<word number="2">wing one's way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aviate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">parachute</word>
+				<word number="2">jump</word>
+				<word number="3">glide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="anchor">
+			<sg number="1">
+				<word number="1" new="1">anchor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sailing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">sailing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">volant</word>
+				<word number="2">aerostatic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seafaring</word>
+				<word number="2">nautical</word>
+				<word number="3">maritime</word>
+				<word number="4">naval</word>
+				<word number="5" new="1">air</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seagoing</word>
+				<word number="2">coasting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">afloat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">navigable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aerial</word>
+				<word number="2">aeronautic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">grallatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="under way">
+			<sg number="1">
+				<word number="1">under way</word>
+				<word number="2">under sail</word>
+				<word number="3">under canvas</word>
+				<word number="4">under steam</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the wing</word>
+				<word number="2">in flight</word>
+				<word number="3">in orbit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="bon voyage">
+			<sg number="1">
+				<word number="1">bon voyage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"spread the thin oar and catch the driving gale"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

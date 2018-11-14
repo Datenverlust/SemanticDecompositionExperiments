@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="319" name="Depression" origNum="#308." class="2" section="4" subSection="4" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lowering">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lowering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depression</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="concavity" headRef="262">dip</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abasement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">detrusion</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reduction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="overthrow">
+			<sg number="1">
+				<word number="1">overthrow</word>
+				<word number="2">overset</word>
+				<word number="3">overturn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">upset</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prostration</word>
+				<word number="2">subversion</word>
+				<word number="3">precipitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bow">
+			<sg number="1">
+				<word number="1">bow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">courtesy</word>
+				<word number="2">curtsy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">genuflexion</word>
+				<word number="2">genuflection</word>
+				<word number="3">kowtow</word>
+				<word number="4">obeisance</word>
+				<word number="5">salaam</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="depress">
+			<sg number="1">
+				<word number="1">depress</word>
+				<word number="2">lower</word>
+				<word number="3">let down</word>
+				<word number="4">take down</word>
+				<word number="5">let down a peg</word>
+				<word number="6">take down a peg</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">let drop</word>
+				<word number="2">let fall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sink</word>
+				<word number="2">debase</word>
+				<word number="3">bring low</word>
+				<word number="4">abase</word>
+				<word number="5">reduce</word>
+				<word number="6">detrude</word>
+				<word number="7">pitch</word>
+				<word number="8">precipitate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="overthrow">
+			<sg number="1">
+				<word number="1">overthrow</word>
+				<word number="2">overturn</word>
+				<word number="3">overset</word>
+			</sg>
+			<sg number="2">
+				<word number="1">upset</word>
+				<word number="2">subvert</word>
+				<word number="3">prostate</word>
+				<word number="4">level</word>
+				<word number="5">fell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cast down</word>
+				<word number="2">take down</word>
+				<word number="3">throw down</word>
+				<word number="4">fling down</word>
+				<word number="5">dash down</word>
+				<word number="6">pull down</word>
+				<word number="7">cut down</word>
+				<word number="8">knock down</word>
+				<word number="9">hew down</word>
+			</sg>
+			<sg number="4">
+				<word number="1">raze</word>
+				<word number="2">raze to the ground</word>
+				<word number="3">rase to the ground</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trample in the dust</word>
+				<word number="2">pull about one's ears</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sit">
+			<sg number="1">
+				<word number="1">sit</word>
+				<word number="2">sit down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">couch</word>
+				<word number="2">squat</word>
+				<word number="3">crouch</word>
+				<word number="4">stoop</word>
+				<word number="5">bend</word>
+				<word number="6">bow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">courtesy</word>
+				<word number="2">curtsy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bob</word>
+				<word number="2">duck</word>
+				<word number="3">dip</word>
+				<word number="4">kneel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bend the knee</word>
+				<word number="2">bow the knee</word>
+				<word number="3">bend the head</word>
+				<word number="4">bow the head</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cower</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="be horizontal" headRef="222">recline</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">prostrate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="depressed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">depressed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at a low ebb</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="horizontal" headRef="222">prostrate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">detrusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="facinus quos inquinat aequat">
+			<sg number="1">
+				<word number="1">facinus quos inquinat aequat</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="506" name="Overestimation" origNum="#482." class="4" section="5" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="overestimation">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">overestimation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exaggeration" headRef="575">exaggeration</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="vanity" headRef="919">vanity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">optimism</word>
+				<word number="2">pessimism</word>
+				<word number="3">pessimist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="much cry and little wool">
+			<sg number="1">
+				<word number="1">much cry and little wool</word>
+				<word number="2">much ado about nothing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">storm in a teacup</word>
+				<word number="2">tempest in a teacup</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fine talking</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="overestimate">
+			<sg number="1">
+				<word number="1">overestimate</word>
+				<word number="2">overrate</word>
+				<word number="3">overvalue</word>
+				<word number="4">overprize</word>
+				<word number="5">overweigh</word>
+				<word number="6">overreckon</word>
+				<word number="7">overstrain</word>
+				<word number="8">overpraise</word>
+				<word number="9" new="1">refuel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eulogize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">estimate too highly</word>
+				<word number="2">attach too much importance to</word>
+				<word number="3">make mountains of molehills</word>
+				<word number="4">catch at straws</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strain</word>
+				<word number="2">magnify</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exaggerate" headRef="575">exaggerate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set too high a value upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">think much of</word>
+				<word number="2">make much of</word>
+				<word number="3">think too much of</word>
+				<word number="4">make too much of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">outreckon</word>
+			</sg>
+			<sg number="9">
+				<word number="1">panegyrize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="extol">
+			<sg number="1">
+				<word number="1">extol</word>
+				<word number="2">extol to the skies</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make the most of</word>
+				<word number="2">make the best of</word>
+				<word number="3">make the worst of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make two bites of a cherry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="have too high an opinion of oneself">
+			<sg number="1">
+				<word number="1" paraRef="vanity" headRef="919">have too high an opinion of oneself</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="overestimated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">overestimated</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sensibility" headRef="860">oversensitive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="all his geese are swans">
+			<sg number="1">
+				<word number="1">all his geese are swans</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parturiunt montes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

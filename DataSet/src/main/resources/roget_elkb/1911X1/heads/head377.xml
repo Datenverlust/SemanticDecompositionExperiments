@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="377" name="Vegetability|" origNum="#365." class="3" section="3" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vegetable life">
+			<sg number="1">
+				<word number="1">vegetable life</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vegetation</word>
+				<word number="2">vegetability</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vegetality</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="vegetate">
+			<sg number="1">
+				<word number="1">vegetate</word>
+				<word number="2">grow roots</word>
+				<word number="3">put down roots</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="rank">
+			<sg number="1">
+				<word number="1">rank</word>
+				<word number="2">lush</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vegetable</word>
+				<word number="2">vegetal</word>
+				<word number="3">vegetive</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

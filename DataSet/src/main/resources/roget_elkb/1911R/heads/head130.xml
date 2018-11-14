@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="130" name="Oldness" origNum="#124." class="1" section="6" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="oldness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">oldness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">age</word>
+				<word number="2">antiquity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cobwebs of antiquity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maturity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">decline</word>
+				<word number="2">decay</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="senility" headRef="134">senility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="seniority">
+			<sg number="1">
+				<word number="1">seniority</word>
+				<word number="2">eldership</word>
+				<word number="3">primogeniture</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="the past" headRef="128">archaism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thing of the past</word>
+				<word number="2">relic of the past</word>
+			</sg>
+			<sg number="4">
+				<word number="1">megatherium</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Sanskrit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tradition">
+			<sg number="1">
+				<word number="1">tradition</word>
+				<word number="2">prescription</word>
+				<word number="3">custom</word>
+				<word number="4">immemorial usage</word>
+				<word number="5">common law</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be old">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be old</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have had its day</word>
+				<word number="2">have seen its day</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">become old</word>
+			</sg>
+			<sg number="4">
+				<word number="1">age</word>
+				<word number="2">fade</word>
+				<word number="3">senesce</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="old">
+			<sg number="1">
+				<word number="1">old</word>
+				<word number="2">ancient</word>
+				<word number="3">antique</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of long standing</word>
+				<word number="2">time-honored</word>
+				<word number="3">venerable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elder</word>
+				<word number="2">eldest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">firstborn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prime">
+			<sg number="1">
+				<word number="1">prime</word>
+			</sg>
+			<sg number="2">
+				<word number="1">primitive</word>
+				<word number="2">primeval</word>
+				<word number="3">primigenous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paleolontological</word>
+				<word number="2">paleontologic</word>
+				<word number="3">paleoanthropological</word>
+				<word number="4">paleoanthropic</word>
+				<word number="5">paleolithic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">primordial</word>
+				<word number="2">primordinate</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="beginning" headRef="70">aboriginal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">diluvian</word>
+				<word number="2">antediluvian</word>
+			</sg>
+			<sg number="7">
+				<word number="1">protohistoric</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prehistoric</word>
+			</sg>
+			<sg number="9">
+				<word number="1">antebellum</word>
+				<word number="2">colonial</word>
+				<word number="3">precolumbian</word>
+			</sg>
+			<sg number="10">
+				<word number="1">patriarchal</word>
+				<word number="2">preadamite</word>
+			</sg>
+			<sg number="11">
+				<word number="1">paleocrystic</word>
+			</sg>
+			<sg number="12">
+				<word number="1">fossil</word>
+				<word number="2">paleozoolical</word>
+				<word number="3">paleozoic</word>
+				<word number="4">preglacial</word>
+				<word number="5">antemundane</word>
+			</sg>
+			<sg number="13">
+				<word number="1">archaic</word>
+				<word number="2">classic</word>
+				<word number="3">medieval</word>
+				<word number="4">Pre-Raphaelite</word>
+				<word number="5">ancestral</word>
+				<word number="6">black-letter</word>
+				<word number="7" new="1">defined</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">spammed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="immemorial">
+			<sg number="1">
+				<word number="1">immemorial</word>
+				<word number="2">traditional</word>
+				<word number="3">prescriptive</word>
+				<word number="4">customary</word>
+				<word number="5">whereof the memory of man runneth not to the contrary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inveterate</word>
+				<word number="2">rooted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="antiquated">
+			<sg number="1">
+				<word number="1">antiquated</word>
+				<word number="2">of other times</word>
+				<word number="3">rococo</word>
+				<word number="4">of the old school</word>
+				<word number="5">after-age</word>
+				<word number="6">obsolete</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out of date</word>
+				<word number="2">out of fashion</word>
+				<word number="3">out of it</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stale</word>
+				<word number="2">old-fashioned</word>
+				<word number="3">behind the age</word>
+			</sg>
+			<sg number="4">
+				<word number="1">old-world</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exploded</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gone out</word>
+				<word number="2">gone  by</word>
+			</sg>
+			<sg number="7">
+				<word number="1">passe</word>
+				<word number="2">run out</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="senile" headRef="134">senile</word>
+			</sg>
+			<sg number="9">
+				<word number="1">time worn</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="deteriorated" headRef="688">crumbling</word>
+			</sg>
+			<sg number="11">
+				<word number="1">secondhand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="old as the hills">
+			<sg number="1">
+				<word number="1">old as the hills</word>
+				<word number="2">old as Methuselah</word>
+				<word number="3">old as Adam</word>
+				<word number="4">old as history</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="[geological eras (list">
+			<sg number="1">
+				<word number="1">Archeozoic</word>
+				<word number="2">Proterozoic</word>
+				<word number="3">Paleozoic</word>
+				<word number="4">Mesozoic</word>
+				<word number="5">Cenozoic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="Precambrian">
+			<sg number="1">
+				<word number="1">Precambrian</word>
+				<word number="2">Cambrian</word>
+				<word number="3">Ordovician</word>
+				<word number="4">Silurian</word>
+				<word number="5">Devonian</word>
+				<word number="6">Mississippian</word>
+				<word number="7">Pennsylvanian</word>
+				<word number="8">Permian</word>
+				<word number="9">Triassic</word>
+				<word number="10">Jurassic</word>
+				<word number="11">Cretaceous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Tertiary</word>
+				<word number="2">Paleogene</word>
+				<word number="3">Neocene</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Quaternary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="[geological epochs (list">
+			<sg number="1">
+				<word number="1">Paleocene</word>
+				<word number="2">Eocene</word>
+				<word number="3">Oligocene</word>
+				<word number="4">Miocene</word>
+				<word number="5">Pliocene</word>
+				<word number="6">Pleistocene</word>
+				<word number="7">Recent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="operating">
+			<sg number="1">
+				<word number="1" new="1">operating</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="since the world was made">
+			<sg number="1">
+				<word number="1">since the world was made</word>
+				<word number="2">since the year one</word>
+				<word number="3">since the days of Methuselah</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="vetera extollimus recentium incuriosi">
+			<sg number="1">
+				<word number="1">vetera extollimus recentium incuriosi</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

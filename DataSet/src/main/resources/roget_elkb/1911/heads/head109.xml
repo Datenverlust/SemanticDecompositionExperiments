@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="109" name="Repetition" origNum="#104." class="1" section="5" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="repetition">
+			<sg number="1">
+				<word number="1">repetition</word>
+				<word number="2">iteration</word>
+				<word number="3">reiteration</word>
+				<word number="4">harping</word>
+				<word number="5">recurrence</word>
+				<word number="6">succession</word>
+				<word number="7">run</word>
+			</sg>
+			<sg number="2">
+				<word number="1">battology</word>
+				<word number="2">tautology</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monotony</word>
+				<word number="2">tautophony</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="rhythm" headRef="145">rhythm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diffuseness</word>
+				<word number="2">pleonasm</word>
+				<word number="3">redundancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chimes">
+			<sg number="1">
+				<word number="1">chimes</word>
+				<word number="2">repetend</word>
+				<word number="3">echo</word>
+				<word number="4">ritornello</word>
+				<word number="5">burden of a song</word>
+				<word number="6">refrain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rehearsal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rechauffe</word>
+				<word number="2">rifacimento</word>
+				<word number="3">recapitulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cuckoo">
+			<sg number="1">
+				<word number="1" paraRef="imitation" headRef="20">cuckoo</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="reverberation" headRef="425">reverberation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="roll" headRef="424">drumming</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="restoration" headRef="689">renewal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="twice-told tale">
+			<sg number="1">
+				<word number="1">twice-told tale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">old story</word>
+				<word number="2">old  song</word>
+			</sg>
+			<sg number="3">
+				<word number="1">second edition</word>
+				<word number="2">new edition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reappearance</word>
+				<word number="2">reproduction</word>
+				<word number="3">recursion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="periodicity" headRef="145">periodicity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="repeat">
+			<sg number="1">
+				<word number="1">repeat</word>
+				<word number="2">iterate</word>
+				<word number="3">reiterate</word>
+				<word number="4">reproduce</word>
+				<word number="5">echo</word>
+				<word number="6">reecho</word>
+				<word number="7">drum</word>
+				<word number="8">harp upon</word>
+				<word number="9">battologize</word>
+				<word number="10">hammer</word>
+				<word number="11">redouble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recur">
+			<sg number="1">
+				<word number="1">recur</word>
+				<word number="2">revert</word>
+				<word number="3">return</word>
+				<word number="4">reappear</word>
+				<word number="5">recurse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restore" headRef="689">renew</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rehearse">
+			<sg number="1">
+				<word number="1">rehearse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do over again</word>
+				<word number="2">say over again</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ring the changes on</word>
+			</sg>
+			<sg number="4">
+				<word number="1">harp on the same string</word>
+			</sg>
+			<sg number="5">
+				<word number="1">din in the ear</word>
+				<word number="2">drum in the ear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conjugate in all its moods tenses and inflexions</word>
+				<word number="2">begin again</word>
+				<word number="3">go over the same ground</word>
+				<word number="4">go the same round</word>
+				<word number="5">never hear the last of</word>
+			</sg>
+			<sg number="7">
+				<word number="1">resume</word>
+				<word number="2">return to</word>
+				<word number="3">recapitulate</word>
+				<word number="4">reword</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="repeated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">repeated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repetitional</word>
+				<word number="2">repetitionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recurrent</word>
+				<word number="2">recurring</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ever recurring</word>
+				<word number="2">thick coming</word>
+			</sg>
+			<sg number="5">
+				<word number="1">frequent</word>
+				<word number="2">incessant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">redundant</word>
+				<word number="2">pleonastic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="monotonous">
+			<sg number="1">
+				<word number="1">monotonous</word>
+				<word number="2">harping</word>
+				<word number="3">iterative</word>
+				<word number="4">recursive</word>
+				<word number="5">unvaried</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mocking</word>
+				<word number="2">chiming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retold</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aforesaid</word>
+				<word number="2">aforenamed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">above-mentioned</word>
+				<word number="2">above-said</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="habitual" headRef="641">habitual</word>
+			</sg>
+			<sg number="7">
+				<word number="1">another</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="repeatedly">
+			<sg number="1">
+				<word number="1">repeatedly</word>
+				<word number="2">often</word>
+				<word number="3">again</word>
+				<word number="4">anew</word>
+				<word number="5">over again</word>
+				<word number="6">afresh</word>
+				<word number="7">once more</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ding-dong</word>
+				<word number="2">ditto</word>
+				<word number="3">encore</word>
+				<word number="4">de novo</word>
+				<word number="5">bis</word>
+				<word number="6">da capo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="again and again">
+			<sg number="1">
+				<word number="1">again and again</word>
+			</sg>
+			<sg number="2">
+				<word number="1">over and over</word>
+				<word number="2">over and over again</word>
+			</sg>
+			<sg number="3">
+				<word number="1">recursively</word>
+			</sg>
+			<sg number="4">
+				<word number="1">many times over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">time and again</word>
+				<word number="2">time after time</word>
+			</sg>
+			<sg number="6">
+				<word number="1">year after year</word>
+			</sg>
+			<sg number="7">
+				<word number="1">day by day</word>
+			</sg>
+			<sg number="8">
+				<word number="1">many times</word>
+				<word number="2">several times</word>
+				<word number="3">a number of times</word>
+			</sg>
+			<sg number="9">
+				<word number="1">many a time</word>
+				<word number="2">full many a time</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="frequently" headRef="143">frequently</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ecce iterum Crispinus">
+			<sg number="1">
+				<word number="1">ecce iterum Crispinus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">toujours perdrix</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"cut and come again"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"tomorrow and tomorrow and tomorrow"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cantilenam eandem canis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nullum est jam dictum quod non dictum sit prius</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

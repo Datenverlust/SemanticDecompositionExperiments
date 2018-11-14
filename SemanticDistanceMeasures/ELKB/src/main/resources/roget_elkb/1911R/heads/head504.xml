@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="504" name="Discovery" origNum="#480a." class="4" section="5" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discovery">
+			<sg number="1">
+				<word number="1">discovery</word>
+				<word number="2">detection</word>
+				<word number="3">disenchantment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ascertainment</word>
+				<word number="2">disclosure</word>
+				<word number="3">find</word>
+				<word number="4">revelation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trover">
+			<sg number="1">
+				<word number="1" paraRef="recovery" headRef="807">trover</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="discover">
+			<sg number="1">
+				<word number="1">discover</word>
+				<word number="2">find</word>
+				<word number="3">determine</word>
+				<word number="4">evolve</word>
+				<word number="5" paraRef="learn" headRef="565">learn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fix upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pick up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">find out</word>
+				<word number="2">trace out</word>
+				<word number="3">make out</word>
+				<word number="4">hunt out</word>
+				<word number="5">fish out</word>
+				<word number="6">worm out</word>
+				<word number="7">ferret out</word>
+				<word number="8">root out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fathom</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bring out</word>
+				<word number="2">draw out</word>
+			</sg>
+			<sg number="7">
+				<word number="1">educe</word>
+				<word number="2">elicit</word>
+				<word number="3">bring to light</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dig out</word>
+				<word number="2">grub up</word>
+				<word number="3">fish up</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unearth</word>
+				<word number="2">disinter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="solve">
+			<sg number="1">
+				<word number="1">solve</word>
+				<word number="2">resolve</word>
+				<word number="3">elucidate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unriddle</word>
+				<word number="2">unravel</word>
+				<word number="3">unlock</word>
+				<word number="4">crack</word>
+				<word number="5">crack open</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pick up</word>
+				<word number="2">open the lock</word>
+			</sg>
+			<sg number="4">
+				<word number="1">find a clue</word>
+				<word number="2">find clew a to</word>
+				<word number="3">find the key to the riddle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="interpret" headRef="547">interpret</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="disclose" headRef="555">disclose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="trace">
+			<sg number="1">
+				<word number="1">trace</word>
+				<word number="2">get at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hit it</word>
+				<word number="2">have it</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay one's finger</word>
+				<word number="2">lay one's hands upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">get at the truth</word>
+				<word number="2" paraRef="truth" headRef="518">arrive at the truth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put the saddle on the right horse</word>
+				<word number="2">hit the right nail on the head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="be near the truth">
+			<sg number="1">
+				<word number="1">be near the truth</word>
+				<word number="2">be warm</word>
+				<word number="3">get warmer</word>
+				<word number="4">burn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smoke</word>
+				<word number="2">scent</word>
+				<word number="3">sniff</word>
+				<word number="4">catch a whiff of</word>
+				<word number="5">smell a rat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="open the eyes to">
+			<sg number="1">
+				<word number="1">open the eyes to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">see through</word>
+				<word number="2">see daylight</word>
+				<word number="3">see in its true colors</word>
+				<word number="4">see the cloven foot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">detect</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catch</word>
+				<word number="2">catch tripping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="pitch upon">
+			<sg number="1">
+				<word number="1">pitch upon</word>
+				<word number="2">fall upon</word>
+				<word number="3">light upon</word>
+				<word number="4">hit upon</word>
+				<word number="5">stumble upon</word>
+				<word number="6">pop upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come across</word>
+				<word number="2">come onto</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meet with</word>
+				<word number="2">meet up with</word>
+				<word number="3">fall in with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="recognize">
+			<sg number="1">
+				<word number="1">recognize</word>
+				<word number="2">realize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">verify</word>
+				<word number="2">make certain of</word>
+				<word number="3">identify</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="eureka">
+			<sg number="1">
+				<word number="1">eureka!</word>
+				<word number="2">aha!</word>
+				<word number="3">I've got it!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

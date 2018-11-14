@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="8" name="Circumstance" origNum="#8." class="1" section="1" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="circumstance">
+			<sg number="1">
+				<word number="1">circumstance</word>
+				<word number="2">situation</word>
+				<word number="3">phase</word>
+				<word number="4">position</word>
+				<word number="5">posture</word>
+				<word number="6">attitude</word>
+				<word number="7">place</word>
+				<word number="8">point</word>
+			</sg>
+			<sg number="2">
+				<word number="1">terms</word>
+			</sg>
+			<sg number="3">
+				<word number="1">regime</word>
+			</sg>
+			<sg number="4">
+				<word number="1">footing</word>
+				<word number="2">standing</word>
+				<word number="3">status</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">levity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="occasion">
+			<sg number="1">
+				<word number="1">occasion</word>
+				<word number="2">juncture</word>
+				<word number="3">conjunctive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="event" headRef="158">contingency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="predicament">
+			<sg number="1">
+				<word number="1">predicament</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emergence</word>
+				<word number="2">emergency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exigency</word>
+				<word number="2">crisis</word>
+				<word number="3">pinch</word>
+				<word number="4">pass</word>
+				<word number="5">push</word>
+			</sg>
+			<sg number="4">
+				<word number="1">occurrence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">turning point</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bearings">
+			<sg number="1">
+				<word number="1">bearings</word>
+				<word number="2">how the land lies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="surroundings">
+			<sg number="1">
+				<word number="1">surroundings</word>
+				<word number="2">context</word>
+				<word number="3">environment 229a</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="location" headRef="193">location</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="contingency">
+			<sg number="1">
+				<word number="1">contingency</word>
+				<word number="2" paraRef="uncertainty" headRef="498">dependence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="causation" headRef="160">causation</word>
+				<word number="2" paraRef="attribution" headRef="162">attribution</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="circumstantial">
+			<sg number="1">
+				<word number="1">circumstantial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">given</word>
+				<word number="2">conditional</word>
+				<word number="3">provisional</word>
+			</sg>
+			<sg number="3">
+				<word number="1">critical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">modal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contingent</word>
+				<word number="2">incidental</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="extrinsic" headRef="6">adventitious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">limitative</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in the circumstances">
+			<sg number="1">
+				<word number="1">in the circumstances</word>
+				<word number="2" paraRef="" posRef="n.">under the circumstances</word>
+				<word number="3">the circumstances</word>
+				<word number="4" paraRef="condition" headRef="7">conditions</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thus</word>
+				<word number="2">in such wise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="accordingly">
+			<sg number="1">
+				<word number="1">accordingly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">that being the case</word>
+				<word number="2">such being the case</word>
+				<word number="3">in view of the circumstances</word>
+			</sg>
+			<sg number="3">
+				<word number="1">that being so</word>
+				<word number="2">sith</word>
+				<word number="3">since</word>
+				<word number="4">seeing that</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="as matters stand">
+			<sg number="1">
+				<word number="1">as matters stand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as things go</word>
+				<word number="2">as times go</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="conditionally">
+			<sg number="1">
+				<word number="1">conditionally</word>
+				<word number="2">provided</word>
+				<word number="3">if</word>
+				<word number="4">in case</word>
+			</sg>
+			<sg number="2">
+				<word number="1">if so</word>
+				<word number="2">if so be</word>
+				<word number="3">if it be so</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depending on circumstances</word>
+				<word number="2">in certain circumstances</word>
+				<word number="3">under certain conditions</word>
+			</sg>
+			<sg number="4">
+				<word number="1">if it so happen</word>
+				<word number="2">if it so turn out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the event of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in such a contingency</word>
+				<word number="2">in such a case</word>
+				<word number="3">in such an event</word>
+			</sg>
+			<sg number="7">
+				<word number="1">provisionally</word>
+				<word number="2">unless</word>
+				<word number="3">without</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="according to circumstances">
+			<sg number="1">
+				<word number="1">according to circumstances</word>
+				<word number="2">according to the occasion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as it may happen</word>
+				<word number="2">as it may turn out</word>
+				<word number="3">as it may  be</word>
+			</sg>
+			<sg number="3">
+				<word number="1">as the case may be</word>
+				<word number="2">as the  wind blows</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pro re nata</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="yet are my sins not those of circumstance">
+			<sg number="1">
+				<word number="1">"yet are my sins not those of circumstance"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

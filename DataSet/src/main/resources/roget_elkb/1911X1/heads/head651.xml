@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="651" name="Pursuit" origNum="#622." class="6" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pursuit">
+			<sg number="1">
+				<word number="1">pursuit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">pursuing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prosecution</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pursuance</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="undertaking" headRef="705">enterprise</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="business" headRef="654">business</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="essay" headRef="704">adventure</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="search" headRef="481">quest</word>
+			</sg>
+			<sg number="9">
+				<word number="1">scramble</word>
+				<word number="2">hue and cry</word>
+				<word number="3">game</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hobby</word>
+			</sg>
+			<sg number="11">
+				<word number="1">still-hunt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chase">
+			<sg number="1">
+				<word number="1">chase</word>
+				<word number="2">hunt</word>
+				<word number="3">battue</word>
+				<word number="4">race</word>
+				<word number="5">steeple chase</word>
+				<word number="6">hunting</word>
+				<word number="7">coursing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">venation</word>
+				<word number="2">venery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fox chase</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sport</word>
+				<word number="2">sporting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shooting</word>
+				<word number="2">angling</word>
+				<word number="3">fishing</word>
+				<word number="4">hawking</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shikar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pursuer">
+			<sg number="1">
+				<word number="1">pursuer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hunter</word>
+				<word number="2">huntsman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shikari</word>
+				<word number="2">sportsman</word>
+				<word number="3">Nimrod</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hound" headRef="378">hound</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pursue">
+			<sg number="1">
+				<word number="1">pursue</word>
+				<word number="2">prosecute</word>
+				<word number="3">follow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run after</word>
+				<word number="2">make after</word>
+				<word number="3">be after</word>
+				<word number="4">hunt after</word>
+				<word number="5">prowl after</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shadow</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="do" headRef="709">carry on</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="undertake" headRef="705">engage in</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="begin" headRef="70">set about</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="endeavor" headRef="704">endeavor</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="request" headRef="796">court</word>
+				<word number="2" paraRef="search" headRef="481">seek</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="intention" headRef="649">aim at</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="trace" headRef="481">follow the trail</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="experiment" headRef="483">fish for</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="haste" headRef="713">press on</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="velocity" headRef="285">run a race</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chase">
+			<sg number="1">
+				<word number="1">chase</word>
+				<word number="2">give chase</word>
+				<word number="3">course</word>
+				<word number="4">dog</word>
+				<word number="5">hunt</word>
+				<word number="6">hound</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tread on the heels</word>
+				<word number="2" paraRef="sequence" headRef="292">follow on the heels of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rush upon">
+			<sg number="1">
+				<word number="1">rush upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="violence" headRef="180">rush headlong</word>
+				<word number="2">run full tilt at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make a leap at</word>
+				<word number="2">jump at</word>
+				<word number="3">snatch at run down</word>
+			</sg>
+			<sg number="4">
+				<word number="1">start game</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tread a path">
+			<sg number="1">
+				<word number="1">tread a path</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take a course</word>
+				<word number="2">hold- a course</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shape one's steps</word>
+				<word number="2">direct one's steps</word>
+				<word number="3">bend one's steps</word>
+				<word number="4">course</word>
+			</sg>
+			<sg number="4">
+				<word number="1">play a game</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fight one's way</word>
+				<word number="2">elbow one's way</word>
+			</sg>
+			<sg number="6">
+				<word number="1">follow up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take to</word>
+				<word number="2">take up</word>
+			</sg>
+			<sg number="8">
+				<word number="1">go in for</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ride one's hobby</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pursuing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">pursuing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inquiry" headRef="481">in quest of</word>
+				<word number="2">in full cry</word>
+				<word number="3">in hot pursuit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on the scent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in pursuance of">
+			<sg number="1">
+				<word number="1" paraRef="intention" headRef="649">in pursuance of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">after</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="tallyho">
+			<sg number="1">
+				<word number="1">tallyho!</word>
+				<word number="2">yoicks!</word>
+				<word number="3">soho!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

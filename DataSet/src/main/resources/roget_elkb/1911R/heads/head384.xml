@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="384" name="Mankind" origNum="#372." class="3" section="3" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="man">
+			<sg number="1">
+				<word number="1">man</word>
+				<word number="2">mankind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">human race</word>
+				<word number="2">human species</word>
+				<word number="3">human kind</word>
+				<word number="4">human nature</word>
+			</sg>
+			<sg number="3">
+				<word number="1">humanity</word>
+				<word number="2">mortality</word>
+				<word number="3">flesh</word>
+				<word number="4">generation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="anthropology">
+			<sg number="1">
+				<word number="1">anthropology</word>
+				<word number="2">anthropogeny</word>
+				<word number="3">anthropography</word>
+				<word number="4">anthroposophy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ethnology</word>
+				<word number="2">ethnography</word>
+			</sg>
+			<sg number="3">
+				<word number="1">humanitarian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="human being">
+			<sg number="1">
+				<word number="1">human being</word>
+			</sg>
+			<sg number="2">
+				<word number="1">person</word>
+				<word number="2">personage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">individual</word>
+				<word number="2">creature</word>
+				<word number="3">fellow creature</word>
+				<word number="4">mortal</word>
+				<word number="5">body</word>
+				<word number="6">somebody</word>
+			</sg>
+			<sg number="4">
+				<word number="1">one</word>
+			</sg>
+			<sg number="5">
+				<word number="1">such a one</word>
+				<word number="2">some one</word>
+			</sg>
+			<sg number="6">
+				<word number="1">soul</word>
+				<word number="2">living soul</word>
+			</sg>
+			<sg number="7">
+				<word number="1">earthling</word>
+			</sg>
+			<sg number="8">
+				<word number="1">party</word>
+				<word number="2">head</word>
+				<word number="3">hand</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dramatis personae</word>
+			</sg>
+			<sg number="10">
+				<word number="1">quidam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="people">
+			<sg number="1">
+				<word number="1">people</word>
+				<word number="2">persons</word>
+				<word number="3">folk</word>
+				<word number="4">public</word>
+				<word number="5">society</word>
+				<word number="6">world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">community</word>
+				<word number="2">community at large</word>
+			</sg>
+			<sg number="3">
+				<word number="1">general public</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nation</word>
+				<word number="2">nationality</word>
+			</sg>
+			<sg number="5">
+				<word number="1">state</word>
+				<word number="2">realm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">commonweal</word>
+				<word number="2">commonwealth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">republic</word>
+				<word number="2">body politic</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="commonalty" headRef="915">million</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="inhabitant" headRef="197">population</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">candida</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">charros</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">dixie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="tribe">
+			<sg number="1">
+				<word number="1">tribe</word>
+				<word number="2" paraRef="paternity" headRef="173">clan</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="consanguinity" headRef="11">family</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="cosmopolite">
+			<sg number="1">
+				<word number="1">cosmopolite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lords of the creation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ourselves</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="burqa">
+			<sg number="1">
+				<word number="1" new="1">burqa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="varmint">
+			<sg number="1">
+				<word number="1" new="1">varmint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="minecraft">
+			<sg number="1">
+				<word number="1" new="1">minecraft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="redcap">
+			<sg number="1">
+				<word number="1" new="1">redcap</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="human">
+			<sg number="1">
+				<word number="1">human</word>
+				<word number="2">mortal</word>
+				<word number="3">personal</word>
+				<word number="4">individual</word>
+				<word number="5">national</word>
+				<word number="6">civic</word>
+				<word number="7">public</word>
+				<word number="8">social</word>
+				<word number="9" new="1">conscientious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cosmopolitan</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anthropoid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="am I not a man and a brother?">
+			<sg number="1">
+				<word number="1">"am I not a man and a brother?"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

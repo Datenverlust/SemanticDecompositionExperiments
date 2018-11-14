@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="222" name="Horizontality" origNum="#213." class="2" section="2" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="horizontality">
+			<sg number="1">
+				<word number="1">horizontality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flatness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">level</word>
+				<word number="2">plane</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="stratum" headRef="213">stratum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dead level</word>
+				<word number="2">dead flat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">level plane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recumbency">
+			<sg number="1">
+				<word number="1">recumbency</word>
+				<word number="2" paraRef="" posRef="v.">lying down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reclination</word>
+				<word number="2">decumbence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decumbency</word>
+				<word number="2">discumbency</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">proneness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">accubation</word>
+				<word number="2">supination</word>
+				<word number="3">resupination</word>
+				<word number="4">prostration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">azimuth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="plain">
+			<sg number="1">
+				<word number="1">plain</word>
+				<word number="2">floor</word>
+				<word number="3">platform</word>
+				<word number="4">bowling green</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cricket ground</word>
+			</sg>
+			<sg number="3">
+				<word number="1">croquet ground</word>
+				<word number="2">croquet lawn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">billiard table</word>
+			</sg>
+			<sg number="5">
+				<word number="1">terrace</word>
+				<word number="2">estrade</word>
+				<word number="3">esplanade</word>
+				<word number="4">parterre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="table land">
+			<sg number="1">
+				<word number="1">table land</word>
+				<word number="2">plateau</word>
+				<word number="3">ledge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">butte</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="plain" headRef="355">mesa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="level">
+			<sg number="1">
+				<word number="1">level</word>
+				<word number="2">spirit level</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be horizontal">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be horizontal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lie</word>
+				<word number="2">recline</word>
+				<word number="3">couch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lie down</word>
+				<word number="2">lie flat</word>
+				<word number="3">lie prostrate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sprawl</word>
+				<word number="2">loll</word>
+				<word number="3">sit down</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render horizontal">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render horizontal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay down</word>
+				<word number="2">lay out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">level</word>
+				<word number="2">flatten</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prostrate</word>
+				<word number="2">knock down</word>
+				<word number="3">floor</word>
+				<word number="4">fell</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="horizontal">
+			<sg number="1">
+				<word number="1">horizontal</word>
+				<word number="2">level</word>
+				<word number="3">even</word>
+				<word number="4">plane</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="flat" headRef="261">flat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flat as a billiard table</word>
+				<word number="2">flat as a bowling green</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alluvial</word>
+			</sg>
+			<sg number="5">
+				<word number="1">calm</word>
+				<word number="2">calm as a mill pond</word>
+			</sg>
+			<sg number="6">
+				<word number="1">smooth</word>
+				<word number="2">smooth as glass</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recumbent">
+			<sg number="1">
+				<word number="1">recumbent</word>
+				<word number="2">decumbent</word>
+				<word number="3">procumbent</word>
+				<word number="4">accumbent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">lying</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prone</word>
+				<word number="2">supine</word>
+				<word number="3">couchant</word>
+				<word number="4">jacent</word>
+				<word number="5">prostrate</word>
+				<word number="6">recubant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="horizontally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">horizontally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on one's back</word>
+				<word number="2">on all fours</word>
+				<word number="3">on its beam ends</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="790" name="Deputy" origNum="#759." class="7" section="1" subSection="1" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deputy">
+			<sg number="1">
+				<word number="1">deputy</word>
+				<word number="2">substitute</word>
+				<word number="3">vice</word>
+				<word number="4">proxy</word>
+				<word number="5">locum tenens</word>
+				<word number="6">badli</word>
+				<word number="7">delegate</word>
+				<word number="8">representative</word>
+				<word number="9">next friend</word>
+				<word number="10">surrogate</word>
+				<word number="11">secondary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="regent">
+			<sg number="1">
+				<word number="1">regent</word>
+				<word number="2">viceregent</word>
+				<word number="3">vizier</word>
+				<word number="4">minister</word>
+				<word number="5">vicar</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="director" headRef="723">premier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chancellor</word>
+				<word number="2">prefect</word>
+				<word number="3">provost</word>
+				<word number="4">warden</word>
+				<word number="5">lieutenant</word>
+				<word number="6">archon</word>
+				<word number="7">consul</word>
+				<word number="8">proconsul</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="governor" headRef="776">viceroy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="commissioner" headRef="789">commissioner</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Tsung- li Yamen</word>
+				<word number="2">Wai Wu Pu</word>
+			</sg>
+			<sg number="7">
+				<word number="1">plenipotentiary</word>
+				<word number="2">alter ego</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="team">
+			<sg number="1">
+				<word number="1">team</word>
+				<word number="2">eight</word>
+				<word number="3">eleven</word>
+			</sg>
+			<sg number="2">
+				<word number="1">champion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be deputy">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">be deputy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand for</word>
+				<word number="2">appear for</word>
+				<word number="3">hold a brief for</word>
+				<word number="4">answer for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">represent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stand in the shoes of</word>
+				<word number="2">walk in the shoes of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stand in the stead of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ablegate">
+			<sg number="1">
+				<word number="1">ablegate</word>
+				<word number="2">accredit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="acting">
+			<sg number="1">
+				<word number="1">acting</word>
+				<word number="2">vice</word>
+				<word number="3">vice regal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accredited to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in behalf of">
+			<sg number="1">
+				<word number="1">in behalf of</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

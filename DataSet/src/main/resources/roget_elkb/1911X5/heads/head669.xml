@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="669" name="Insufficiency" origNum="#640." class="6" section="2" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="insufficiency">
+			<sg number="1">
+				<word number="1">insufficiency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inadequacy</word>
+				<word number="2">inadequateness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="impotence" headRef="165">incompetence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="incompleteness" headRef="56">deficiency</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="imperfection" headRef="680">imperfection</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="shortcoming" headRef="315">shortcoming</word>
+			</sg>
+			<sg number="7">
+				<word number="1">paucity</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stint</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="smallness" headRef="34">scantiness</word>
+			</sg>
+			<sg number="10">
+				<word number="1">none to spare</word>
+				<word number="2">bare subsistence</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">inexperience</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="scarcity">
+			<sg number="1">
+				<word number="1">scarcity</word>
+				<word number="2">dearth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">want</word>
+				<word number="2">need</word>
+				<word number="3">lack</word>
+				<word number="4">poverty</word>
+				<word number="5">exigency</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inanition</word>
+				<word number="2">starvation</word>
+				<word number="3">famine</word>
+				<word number="4">drought</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">shortage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="2">hunger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dole">
+			<sg number="1">
+				<word number="1">dole</word>
+				<word number="2">mite</word>
+				<word number="3">pittance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">short allowance</word>
+				<word number="2">short commons</word>
+			</sg>
+			<sg number="3">
+				<word number="1">half rations</word>
+			</sg>
+			<sg number="4">
+				<word number="1">banyan day</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="emptiness">
+			<sg number="1">
+				<word number="1">emptiness</word>
+				<word number="2" paraRef="" posRef="adj.">poorness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depletion</word>
+				<word number="2">vacancy</word>
+				<word number="3">flaccidity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ebb tide</word>
+			</sg>
+			<sg number="4">
+				<word number="1">low water</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"a beggarly account of empty boxes"</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="indigence" headRef="839">indigence</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="nonpayment" headRef="843">insolvency</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be insufficient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be insufficient</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="suffice" headRef="668">not suffice</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="come short of" headRef="315">come short of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="want">
+			<sg number="1">
+				<word number="1">want</word>
+				<word number="2">lack</word>
+				<word number="3">need</word>
+				<word number="4">require</word>
+			</sg>
+			<sg number="2">
+				<word number="1">caret</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="poor" headRef="839">be in want</word>
+				<word number="2">live from hand to mouth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render insufficient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render insufficient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drain of resources</word>
+				<word number="2" paraRef="waste" headRef="667">impoverish</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="begrudge" headRef="857">stint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put on short allowance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="do insufficiently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adv.">do insufficiently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scotch the snake</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="insufficient">
+			<sg number="1">
+				<word number="1">insufficient</word>
+				<word number="2">inadequate</word>
+				<word number="3" new="1">defective</word>
+				<word number="4" new="1">nonexistent</word>
+				<word number="5" new="1">weak</word>
+				<word number="6" new="2">lacking</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="little" headRef="34">too little</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="enough" headRef="668">not enough</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unequal to</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="impotent" headRef="165">incompetent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"weighed in the balance and found wanting"</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="neglect" headRef="480">perfunctory</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="incomplete" headRef="56">deficient</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">wanting</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="imperfect" headRef="680">imperfect</word>
+			</sg>
+			<sg number="11">
+				<word number="1">ill-furnished</word>
+				<word number="2">ill-provided</word>
+				<word number="3">ill- stored</word>
+				<word number="4">ill-off</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="slack">
+			<sg number="1">
+				<word number="1">slack</word>
+				<word number="2">at a low ebb</word>
+			</sg>
+			<sg number="2">
+				<word number="1">empty</word>
+				<word number="2">vacant</word>
+				<word number="3">bare</word>
+			</sg>
+			<sg number="3">
+				<word number="1">short of</word>
+				<word number="2">out of</word>
+				<word number="3">destitute of</word>
+				<word number="4">devoid of</word>
+				<word number="5" paraRef="bereft" headRef="822">bereft of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">denuded of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dry</word>
+				<word number="2">drained</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unprovided">
+			<sg number="1">
+				<word number="1">unprovided</word>
+				<word number="2">unsupplied</word>
+				<word number="3">unfurnished</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unreplenished</word>
+				<word number="2">unfed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unstored</word>
+				<word number="2">untreasured</word>
+			</sg>
+			<sg number="4">
+				<word number="1">empty-handed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="meager">
+			<sg number="1">
+				<word number="1">meager</word>
+				<word number="2">poor</word>
+				<word number="3">thin</word>
+				<word number="4">scrimp</word>
+				<word number="5">sparing</word>
+				<word number="6">spare</word>
+				<word number="7">stinted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">starved</word>
+				<word number="2">starving</word>
+			</sg>
+			<sg number="3">
+				<word number="1">halfstarved</word>
+				<word number="2">famine-stricken</word>
+				<word number="3">famished</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jejune</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="scant">
+			<sg number="1">
+				<word number="1" paraRef="small" headRef="34">scant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scarce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not to be had</word>
+				<word number="2">not to be had for love or money</word>
+				<word number="3">not to be had at any price</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scurvy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="stingy" headRef="857">stingy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at the end of one's tether</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="resources" headRef="661">without resources</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="poor" headRef="839">in want</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="in debt" headRef="841">in debt</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">scanty</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">sparse</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="3">spotty</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="4">sketchy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="insufficiently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">insufficiently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in default of</word>
+				<word number="2">for want of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">failing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="semper avarus eget">
+			<sg number="1">
+				<word number="1">semper avarus eget</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="345" name="Gaseity" origNum="#334." class="3" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="gaseity">
+			<sg number="1">
+				<word number="1">gaseity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">vaporousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flatulence</word>
+				<word number="2">flatulency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">volatility</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aeration</word>
+				<word number="2">aerification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="elastic fluid">
+			<sg number="1">
+				<word number="1">elastic fluid</word>
+				<word number="2">gas</word>
+				<word number="3">air</word>
+				<word number="4">vapor</word>
+				<word number="5">ether</word>
+				<word number="6">steam</word>
+				<word number="7">essence</word>
+				<word number="8">fume</word>
+				<word number="9">reek</word>
+				<word number="10">effluvium</word>
+				<word number="11">flatus</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cloud" headRef="364">cloud</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ammonia</word>
+				<word number="2">ammoniacal gas</word>
+			</sg>
+			<sg number="4">
+				<word number="1">volatile alkali</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vacuum</word>
+				<word number="2">partial vacuum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pneumatics">
+			<sg number="1">
+				<word number="1">pneumatics</word>
+				<word number="2">pneumatostatics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aerostatics</word>
+				<word number="2">aerodynamics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="gasmeter">
+			<sg number="1">
+				<word number="1">gasmeter</word>
+				<word number="2">gasometer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air bladder</word>
+				<word number="2">swimming bladder</word>
+				<word number="3">sound (of a fish)</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="vaporize">
+			<sg number="1">
+				<word number="1">vaporize</word>
+				<word number="2">evaporate</word>
+				<word number="3">evanesce</word>
+				<word number="4">gasify</word>
+				<word number="5" paraRef="emit vapor" headRef="347">emit vapor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diffuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="gaseous">
+			<sg number="1">
+				<word number="1">gaseous</word>
+				<word number="2">aeriform</word>
+				<word number="3">ethereal</word>
+				<word number="4">aerial</word>
+				<word number="5">airy</word>
+				<word number="6">vaporous</word>
+				<word number="7">volatile</word>
+				<word number="8">evaporable</word>
+				<word number="9">flatulent</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

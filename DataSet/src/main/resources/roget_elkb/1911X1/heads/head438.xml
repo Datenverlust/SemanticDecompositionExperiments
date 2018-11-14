@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="438" name="Light" origNum="#420." class="3" section="3" subSection="2" headGroup="27">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="light">
+			<sg number="1">
+				<word number="1">light</word>
+				<word number="2">ray</word>
+				<word number="3">beam</word>
+				<word number="4">stream</word>
+				<word number="5">gleam</word>
+				<word number="6">streak</word>
+				<word number="7">pencil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sunbeam</word>
+				<word number="2">moonbeam</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aurora</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="day">
+			<sg number="1">
+				<word number="1">day</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sunshine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">light of day</word>
+				<word number="2">light of heaven</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moonlight</word>
+				<word number="2">starlight</word>
+				<word number="3" paraRef="luminary" headRef="441">sun</word>
+			</sg>
+			<sg number="5">
+				<word number="1">daylight</word>
+				<word number="2">broad daylight</word>
+				<word number="3">noontide light</word>
+			</sg>
+			<sg number="6">
+				<word number="1">noontide</word>
+				<word number="2">noonday</word>
+				<word number="3">noonday sun</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="glow">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">glow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">glimmering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">glint</word>
+			</sg>
+			<sg number="4">
+				<word number="1">play of light</word>
+				<word number="2">flood of light</word>
+			</sg>
+			<sg number="5">
+				<word number="1">phosphorescence</word>
+				<word number="2">lambent flame</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="flush">
+			<sg number="1">
+				<word number="1">flush</word>
+				<word number="2">halo</word>
+				<word number="3">glory</word>
+				<word number="4">nimbus</word>
+				<word number="5">aureola</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="spark">
+			<sg number="1">
+				<word number="1">spark</word>
+				<word number="2">scintilla</word>
+			</sg>
+			<sg number="2">
+				<word number="1">facula</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">sparkling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">emication</word>
+				<word number="2">scintillation</word>
+				<word number="3">flash</word>
+				<word number="4">blaze</word>
+				<word number="5">coruscation</word>
+				<word number="6">fulguration</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fire" headRef="395">flame</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lightning</word>
+				<word number="2">levin</word>
+				<word number="3" paraRef="luminary" headRef="441">ignis fatuus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="luster">
+			<sg number="1">
+				<word number="1">luster</word>
+				<word number="2">sheen</word>
+				<word number="3">shimmer</word>
+				<word number="4">reflexion</word>
+				<word number="5">reflection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gloss</word>
+				<word number="2">tinsel</word>
+				<word number="3">spangle</word>
+				<word number="4">brightness</word>
+				<word number="5">brilliancy</word>
+				<word number="6">splendor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">effulgence</word>
+				<word number="2">refulgence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fulgor</word>
+				<word number="2">fulgidity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dazzlement</word>
+				<word number="2">resplendence</word>
+				<word number="3">transplendency</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">luminousness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">luminosity</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lucidity</word>
+			</sg>
+			<sg number="9">
+				<word number="1">renitency</word>
+				<word number="2">nitency</word>
+			</sg>
+			<sg number="10">
+				<word number="1">radiance,</word>
+				<word number="2">radiation</word>
+			</sg>
+			<sg number="11">
+				<word number="1">irradiation</word>
+				<word number="2">illumination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="actinic rays">
+			<sg number="1">
+				<word number="1">actinic rays</word>
+				<word number="2">actinism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Roentgen-ray</word>
+				<word number="2">Xray</word>
+			</sg>
+			<sg number="3">
+				<word number="1">photography</word>
+				<word number="2">heliography</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="photometer" headRef="464">photometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="optics">
+			<sg number="1">
+				<word number="1">optics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">photology</word>
+				<word number="2">photometry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dioptrics</word>
+				<word number="2">catoptrics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="chiaroscuro">
+			<sg number="1">
+				<word number="1">chiaroscuro</word>
+				<word number="2">clairobscur</word>
+				<word number="3">clear obscure</word>
+				<word number="4">breadth</word>
+				<word number="5">light and shade</word>
+				<word number="6">black and white</word>
+				<word number="7">tonality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="reflection">
+			<sg number="1">
+				<word number="1">reflection</word>
+				<word number="2">refraction</word>
+				<word number="3">dispersion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">refractivity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="shine">
+			<sg number="1">
+				<word number="1">shine</word>
+				<word number="2">glow</word>
+				<word number="3">glitter</word>
+				<word number="4" new="1">blink</word>
+				<word number="5" new="1">shin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glister</word>
+				<word number="2">glisten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">twinkle</word>
+				<word number="2">gleam</word>
+			</sg>
+			<sg number="4">
+				<word number="1">flare</word>
+				<word number="2">flare up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">glare</word>
+				<word number="2">beam</word>
+				<word number="3">shimmer</word>
+				<word number="4">glimmer</word>
+				<word number="5">flicker</word>
+				<word number="6">sparkle</word>
+				<word number="7">scintillate</word>
+				<word number="8">coruscate</word>
+				<word number="9">flash</word>
+				<word number="10">blaze</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">be bright</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reflect light</word>
+				<word number="2">daze</word>
+				<word number="3">dazzle</word>
+				<word number="4">bedazzle</word>
+				<word number="5">radiate</word>
+				<word number="6">shoot out beams</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fulgurate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clear up">
+			<sg number="1">
+				<word number="1">clear up</word>
+				<word number="2">brighten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lighten">
+			<sg number="1">
+				<word number="1">lighten</word>
+				<word number="2">enlighten</word>
+			</sg>
+			<sg number="2">
+				<word number="1">levin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">light</word>
+				<word number="2">light up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">irradiate</word>
+				<word number="2">shine upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give out a light</word>
+				<word number="2">hang out a light</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cast light upon</word>
+				<word number="2">cast light in</word>
+				<word number="3">throw light upon</word>
+				<word number="4">throw light in</word>
+				<word number="5">shed light upon</word>
+				<word number="6">shed luster upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">illume</word>
+				<word number="2">illumine</word>
+				<word number="3">illuminate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">relume</word>
+				<word number="2">strike a light</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="set fire to" headRef="397">kindle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="shining">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">shining</word>
+			</sg>
+			<sg number="2">
+				<word number="1">luminous</word>
+				<word number="2">luminiferous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lucid</word>
+				<word number="2">lucent</word>
+				<word number="3">luculent</word>
+				<word number="4">lucific</word>
+				<word number="5">luciferous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">light</word>
+				<word number="2">lightsome</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bright</word>
+				<word number="2">vivid</word>
+				<word number="3">splendent</word>
+				<word number="4">nitid</word>
+				<word number="5">lustrous</word>
+				<word number="6">shiny</word>
+				<word number="7">beamy</word>
+				<word number="8">scintillant</word>
+				<word number="9">radiant</word>
+				<word number="10">lambent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sheen</word>
+				<word number="2">sheeny</word>
+			</sg>
+			<sg number="7">
+				<word number="1">glossy</word>
+				<word number="2">burnished</word>
+				<word number="3">glassy</word>
+				<word number="4">sunny</word>
+				<word number="5">orient</word>
+				<word number="6">meridian</word>
+			</sg>
+			<sg number="8">
+				<word number="1">noonday</word>
+				<word number="2">tide</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cloudless</word>
+				<word number="2">clear</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unclouded</word>
+				<word number="2">unobscured</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gairish">
+			<sg number="1">
+				<word number="1">gairish</word>
+				<word number="2">garish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resplendent</word>
+				<word number="2">transplendent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">refulgent</word>
+				<word number="2">effulgent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fulgid</word>
+				<word number="2">fulgent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">relucent</word>
+				<word number="2">splendid</word>
+				<word number="3">blazing</word>
+				<word number="4">in a blaze</word>
+				<word number="5">ablaze</word>
+				<word number="6">rutilant</word>
+				<word number="7">meteoric</word>
+				<word number="8">phosphorescent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aglow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bright as silver">
+			<sg number="1">
+				<word number="1">bright as silver</word>
+			</sg>
+			<sg number="2">
+				<word number="1">light as day</word>
+				<word number="2">bright as day</word>
+				<word number="3">light  as noonday</word>
+				<word number="4">bright  as noonday</word>
+				<word number="5">bright  as the sun at noonday</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="actinic">
+			<sg number="1">
+				<word number="1">actinic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">photogenic</word>
+				<word number="2">graphic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heliographic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heliophagous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a day for gods to stoop and men to soar">
+			<sg number="1">
+				<word number="1">"a day for gods to stoop and men to soar"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"dark with excessive bright"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

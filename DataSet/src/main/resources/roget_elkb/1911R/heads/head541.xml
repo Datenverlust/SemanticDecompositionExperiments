@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="541" name="Meaning" origNum="#516." class="5" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="meaning">
+			<sg number="1">
+				<word number="1">meaning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">signification</word>
+				<word number="2">significance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sense</word>
+				<word number="2">expression</word>
+			</sg>
+			<sg number="4">
+				<word number="1">import</word>
+				<word number="2">purport</word>
+			</sg>
+			<sg number="5">
+				<word number="1">force</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drift</word>
+				<word number="2">tenor</word>
+				<word number="3">spirit</word>
+				<word number="4">bearing</word>
+				<word number="5">coloring</word>
+			</sg>
+			<sg number="7">
+				<word number="1">scope</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">gimmick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="substance">
+			<sg number="1">
+				<word number="1">substance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gist</word>
+				<word number="2">essence</word>
+				<word number="3">marrow</word>
+				<word number="4" paraRef="spirit" headRef="5">spirit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="matter">
+			<sg number="1">
+				<word number="1">matter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subject</word>
+				<word number="2">subject matter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">argument</word>
+				<word number="2">text</word>
+				<word number="3">sum and substance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="general meaning">
+			<sg number="1">
+				<word number="1">general meaning</word>
+				<word number="2">broad meaning</word>
+				<word number="3">substantial meaning</word>
+				<word number="4">colloquial meaning</word>
+				<word number="5">literal meaning</word>
+				<word number="6">plain meaning</word>
+				<word number="7">simple meaning</word>
+				<word number="8">natural meaning</word>
+				<word number="9">unstrained meaning</word>
+				<word number="10" paraRef="exact" headRef="518">true</word>
+				<word number="11" paraRef="honest" headRef="569">honest</word>
+				<word number="12" paraRef="manifest" headRef="550">prima facie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">letter of the law</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="literally">
+			<sg number="1">
+				<word number="1">literally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">after acceptation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="synonym">
+			<sg number="1">
+				<word number="1">synonym</word>
+			</sg>
+			<sg number="2">
+				<word number="1">implication</word>
+				<word number="2" paraRef="latency" headRef="551">allusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="information" headRef="552">suggestion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="figure of speech" headRef="546">figure of speech</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="interpretation" headRef="547">acceptation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="mean">
+			<sg number="1">
+				<word number="1">mean</word>
+				<word number="2">signify</word>
+				<word number="3">express</word>
+			</sg>
+			<sg number="2">
+				<word number="1">import</word>
+				<word number="2">purport</word>
+			</sg>
+			<sg number="3">
+				<word number="1">convey</word>
+				<word number="2">imply</word>
+				<word number="3">breathe</word>
+				<word number="4">indicate</word>
+				<word number="5">bespeak</word>
+				<word number="6">bear a sense</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tell of</word>
+				<word number="2">speak of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">touch on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">point to</word>
+				<word number="2">allude to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">drive at</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="latency" headRef="551">involve</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="affirm" headRef="561">declare</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="understand by">
+			<sg number="1">
+				<word number="1" paraRef="interpret" headRef="547">understand by</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="meaning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">meaning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expressive</word>
+				<word number="2">suggestive</word>
+				<word number="3">allusive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">significant</word>
+				<word number="2">significative</word>
+				<word number="3">significatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pithy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">full of meaning</word>
+				<word number="2">pregnant with meaning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="declaratory">
+			<sg number="1">
+				<word number="1" paraRef="declaratory" headRef="561">declaratory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="intelligible" headRef="543">intelligible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">literal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">synonymous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="equivalent" headRef="29">tantamount</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="latent" headRef="551">implied</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="explicit" headRef="550">explicit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to that effect">
+			<sg number="1">
+				<word number="1">to that effect</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="being interpreted" headRef="547">that is to say</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="298" name="Recession" origNum="#287." class="2" section="4" subSection="4" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="recession">
+			<sg number="1">
+				<word number="1">recession</word>
+				<word number="2">retirement</word>
+				<word number="3">withdrawal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retreat</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="retrocession" headRef="294">retrocession</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="departure" headRef="304">departure</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="recoil" headRef="288">recoil</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="avoidance" headRef="652">flight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="motion from">
+			<sg number="1">
+				<word number="1">motion from</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="recede">
+			<sg number="1">
+				<word number="1">recede</word>
+				<word number="2">go</word>
+				<word number="3">move back</word>
+				<word number="4">move from</word>
+				<word number="5">retire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">withdraw</word>
+				<word number="2">shrink</word>
+				<word number="3">back off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come away</word>
+				<word number="2">move away</word>
+				<word number="3">back away</word>
+				<word number="4">go away</word>
+				<word number="5">get away</word>
+				<word number="6">drift away</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="depart" headRef="304">depart</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="retreat" headRef="294">retreat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">move off</word>
+				<word number="2">stand off</word>
+				<word number="3">sheer off</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fall back</word>
+				<word number="2">stand aside</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="avoid" headRef="652">run away</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="remove">
+			<sg number="1">
+				<word number="1">remove</word>
+				<word number="2">shunt</word>
+				<word number="3">distance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="receding">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">receding</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="distance oneself from a person">
+			<sg number="1">
+				<word number="1">distance oneself from a person</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

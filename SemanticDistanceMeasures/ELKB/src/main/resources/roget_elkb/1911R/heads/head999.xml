@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="999" name="Fasting" origNum="#956." class="8" section="4" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fasting">
+			<sg number="1">
+				<word number="1">fasting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">xerophagy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">famishment</word>
+				<word number="2">starvation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fast">
+			<sg number="1">
+				<word number="1">fast</word>
+				<word number="2">jour maigre</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fast day</word>
+				<word number="2">banyan day</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Lent</word>
+				<word number="2">quadragesima</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Ramadan</word>
+				<word number="2">Ramazan</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spare diet</word>
+				<word number="2">meager diet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lenten diet</word>
+				<word number="2">lenten entertainment</word>
+			</sg>
+			<sg number="7">
+				<word number="1">soupe maigre</word>
+				<word number="2">short commons</word>
+				<word number="3">Barmecide feast</word>
+			</sg>
+			<sg number="8">
+				<word number="1">short rations</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fast">
+			<sg number="1">
+				<word number="1">fast</word>
+				<word number="2">starve</word>
+				<word number="3">clem</word>
+				<word number="4">famish</word>
+				<word number="5">perish with hunger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dine with Duke Humphrey</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make two bites of a cherry</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lenten">
+			<sg number="1">
+				<word number="1">lenten</word>
+				<word number="2">quadragesimal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">starved</word>
+			</sg>
+			<sg number="4">
+				<word number="1">half- starved</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">fasting</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="hungry" headRef="904">hungry</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

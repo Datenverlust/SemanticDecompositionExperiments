@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="108" name="Fewness" origNum="#103." class="1" section="5" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fewness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">fewness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">paucity</word>
+				<word number="2">small number</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="small quantity" headRef="34">small quantity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rarity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="infrequency" headRef="144">infrequency</word>
+			</sg>
+			<sg number="6">
+				<word number="1">handful</word>
+				<word number="2">maniple</word>
+			</sg>
+			<sg number="7">
+				<word number="1">minority</word>
+			</sg>
+			<sg number="8">
+				<word number="1">exiguity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reduction">
+			<sg number="1">
+				<word number="1">reduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">weeding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elimination</word>
+				<word number="2">sarculation</word>
+				<word number="3">decimation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eradication</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be few">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be few</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render few">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render few</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reduce</word>
+				<word number="2">diminish the number</word>
+				<word number="3">weed</word>
+				<word number="4">eliminate</word>
+				<word number="5">cull</word>
+				<word number="6">thin</word>
+				<word number="7">decimate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="few">
+			<sg number="1">
+				<word number="1">few</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scant</word>
+				<word number="2">scanty</word>
+				<word number="3" new="1">sparse</word>
+				<word number="4" new="2">scarce</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thin</word>
+				<word number="2">rare</word>
+				<word number="3">scattered</word>
+				<word number="4">thinly scattered</word>
+				<word number="5">spotty</word>
+				<word number="6">few and far between</word>
+				<word number="7">exiguous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="infrequent" headRef="144">infrequent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rari nantes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hardly any</word>
+				<word number="2">scarcely any</word>
+			</sg>
+			<sg number="7">
+				<word number="1">to be counted on one's fingers</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="v.">reduced</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unrepeated</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="rarely">
+			<sg number="1">
+				<word number="1">rarely</word>
+				<word number="2">here and there</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

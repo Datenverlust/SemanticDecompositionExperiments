@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="522" name="Intelligence" origNum="#498." class="4" section="5" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="intelligence">
+			<sg number="1">
+				<word number="1">intelligence</word>
+				<word number="2">capacity</word>
+				<word number="3">comprehension</word>
+				<word number="4">understanding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cuteness</word>
+				<word number="2">sabe *</word>
+				<word number="3">savvy *</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intellect" headRef="469">intellect</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nous</word>
+				<word number="2">parts</word>
+				<word number="3">sagacity</word>
+				<word number="4">mother wit</word>
+				<word number="5">wit</word>
+				<word number="6">esprit</word>
+				<word number="7">gumption</word>
+				<word number="8">quick parts</word>
+				<word number="9">grasp of intellect</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">acuteness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">acumen</word>
+				<word number="2">subtlety</word>
+				<word number="3">penetration</word>
+				<word number="4">perspicacy</word>
+				<word number="5">perspicacity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">discernment</word>
+				<word number="2">due sense of</word>
+				<word number="3">good judgment</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="discrimination" headRef="486">discrimination</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="cunning" headRef="731">cunning</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="taste" headRef="889">refinement</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">statesmanship</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">grasp</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="3">imagination</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="4">consciousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="head">
+			<sg number="1">
+				<word number="1">head</word>
+				<word number="2">brains</word>
+				<word number="3">headpiece</word>
+				<word number="4">upper story</word>
+				<word number="5">long head</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eagle eye</word>
+				<word number="2">eagle- glance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eye of a lynx</word>
+				<word number="2">eye of a hawk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wisdom">
+			<sg number="1">
+				<word number="1">wisdom</word>
+				<word number="2">sapience</word>
+				<word number="3">sense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good sense</word>
+				<word number="2">common sense</word>
+				<word number="3">horse sense</word>
+				<word number="4">plain sense</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rationality</word>
+				<word number="2">reason</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">reasonableness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">judgment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">solidity</word>
+				<word number="2">depth</word>
+				<word number="3">profundity</word>
+				<word number="4">caliber</word>
+			</sg>
+			<sg number="7">
+				<word number="1">enlarged views</word>
+			</sg>
+			<sg number="8">
+				<word number="1">reach of thought</word>
+				<word number="2">compass of thought</word>
+			</sg>
+			<sg number="9">
+				<word number="1">enlargement of mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="genius">
+			<sg number="1">
+				<word number="1">genius</word>
+				<word number="2">inspiration</word>
+				<word number="3">geist</word>
+				<word number="4">fire of genius</word>
+				<word number="5">heaven-born genius</word>
+				<word number="6">soul</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="aptitude" headRef="727">talent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="prudence">
+			<sg number="1">
+				<word number="1" paraRef="prudence" headRef="903">prudence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vigilance" headRef="479">vigilance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="tact" headRef="727">tact</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="foresight" headRef="534">foresight</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sobriety</word>
+				<word number="2">self-possession</word>
+				<word number="3">aplomb</word>
+				<word number="4">ballast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="a bright thought">
+			<sg number="1">
+				<word number="1">a bright thought</word>
+				<word number="2">not a bad idea</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="Solomon-like wisdom">
+			<sg number="1">
+				<word number="1">Solomon-like wisdom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="insight">
+			<sg number="1">
+				<word number="1" new="1">insight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="intuition">
+			<sg number="1">
+				<word number="1" new="2">intuition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="knowledge">
+			<sg number="1">
+				<word number="1" new="2">knowledge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="ability">
+			<sg number="1">
+				<word number="1" new="3">ability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="experience">
+			<sg number="1">
+				<word number="1" new="3">experience</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="knack">
+			<sg number="1">
+				<word number="1" new="4">knack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="mind">
+			<sg number="1">
+				<word number="1" new="4">mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="skill">
+			<sg number="1">
+				<word number="1" new="4">skill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="vision">
+			<sg number="1">
+				<word number="1" new="4">vision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="accomplishment">
+			<sg number="1">
+				<word number="1" new="5">accomplishment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="expertise">
+			<sg number="1">
+				<word number="1" new="5">expertise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="instinct">
+			<sg number="1">
+				<word number="1" new="5">instinct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="mastery">
+			<sg number="1">
+				<word number="1" new="5">mastery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="memory">
+			<sg number="1">
+				<word number="1" new="5">memory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="prowess">
+			<sg number="1">
+				<word number="1" new="5">prowess</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -intelligent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -intelligent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have all one's wits about one</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intelligible" headRef="543">understand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catch an idea</word>
+				<word number="2">take in  an idea</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take a joke</word>
+				<word number="2">take a hint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="see through">
+			<sg number="1">
+				<word number="1">see through</word>
+				<word number="2">see at a glance</word>
+				<word number="3">see with half an eye</word>
+				<word number="4">see far into</word>
+				<word number="5">see through a millstone</word>
+			</sg>
+			<sg number="2">
+				<word number="1">penetrate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="descry" headRef="460">discern</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="foresee" headRef="534">foresee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="discriminate">
+			<sg number="1">
+				<word number="1" paraRef="discriminate" headRef="486">discriminate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="know what's what" headRef="727">know what's what</word>
+			</sg>
+			<sg number="3">
+				<word number="1">listen to reason</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="intelligent">
+			<sg number="1">
+				<word number="1">intelligent</word>
+				<word number="2">quick of apprehension</word>
+				<word number="3">keen</word>
+				<word number="4">acute</word>
+				<word number="5">alive</word>
+				<word number="6">brainy</word>
+				<word number="7">awake</word>
+				<word number="8">bright</word>
+				<word number="9">quick</word>
+				<word number="10">sharp</word>
+				<word number="11" new="1">conscious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quick witted</word>
+				<word number="2">keen witted</word>
+				<word number="3">clear witted</word>
+				<word number="4">sharp- eyed</word>
+				<word number="5">sharp sighted</word>
+				<word number="6">sharp witted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wide-awake</word>
+			</sg>
+			<sg number="4">
+				<word number="1">canny</word>
+				<word number="2">shrewd</word>
+				<word number="3">astute</word>
+				<word number="4" new="1">adroit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">clear-headed</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="farsighted" headRef="534">farsighted</word>
+			</sg>
+			<sg number="7">
+				<word number="1">discerning</word>
+				<word number="2">perspicacious</word>
+				<word number="3">penetrating</word>
+				<word number="4">piercing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">argute</word>
+			</sg>
+			<sg number="9">
+				<word number="1">quick-witted</word>
+				<word number="2">nimble- witted</word>
+				<word number="3">needle-witted</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sharp as a needle</word>
+				<word number="2">sharp as a tack</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="cognizant of" headRef="514">alive to</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="apt" headRef="727">clever</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="cunning" headRef="731">arch</word>
+			</sg>
+			<sg number="14">
+				<word number="1">pas si bete</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="acute" headRef="731">acute</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">observant</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">smart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wise">
+			<sg number="1">
+				<word number="1">wise</word>
+				<word number="2">sage</word>
+				<word number="3">sapient</word>
+				<word number="4">sagacious</word>
+				<word number="5">reasonable</word>
+				<word number="6">rational</word>
+				<word number="7">sound</word>
+				<word number="8">in one's right mind</word>
+				<word number="9">sensible</word>
+				<word number="10">abnormis sapiens</word>
+				<word number="11">judicious</word>
+				<word number="12">strong-minded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unprejudiced">
+			<sg number="1">
+				<word number="1">unprejudiced</word>
+				<word number="2">unbiased</word>
+				<word number="3">unbigoted</word>
+				<word number="4">unprepossessed</word>
+				<word number="5" new="1">dispassionate</word>
+				<word number="6" new="1">evenhanded</word>
+				<word number="7" new="2">disinterested</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undazzled</word>
+				<word number="2">unperplexed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unwarped judgment</word>
+				<word number="2">impartial</word>
+				<word number="3">equitable</word>
+				<word number="4">fair</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">expeditious</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">reasoned</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="2">constructive</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="2">orderly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cool">
+			<sg number="1">
+				<word number="1">cool</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cool-headed</word>
+				<word number="2">long-headed</word>
+				<word number="3">hardheaded</word>
+				<word number="4">strong-headed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">long- sighted</word>
+				<word number="2">calculating</word>
+				<word number="3">thoughtful</word>
+				<word number="4">reflecting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">solid</word>
+				<word number="2">deep</word>
+				<word number="3">profound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="oracular">
+			<sg number="1">
+				<word number="1">oracular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heaven-directed</word>
+				<word number="2">heaven-born</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="prudent">
+			<sg number="1">
+				<word number="1" paraRef="cautious" headRef="903">prudent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sober</word>
+				<word number="2">stand</word>
+				<word number="3">solid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">considerate</word>
+				<word number="2">politic</word>
+				<word number="3">wise in one's generation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="watchful" headRef="479">watchful</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="prepared" headRef="702">provident</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in advance of one' age</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wise as a serpent</word>
+				<word number="2">wise as Solomon</word>
+				<word number="3">wise as Solon</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">circumspect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="wise">
+			<sg number="1">
+				<word number="1">wise</word>
+				<word number="2">sensible</word>
+				<word number="3">reasonable</word>
+				<word number="4">judicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">well- thought-out</word>
+				<word number="2">well-planned</word>
+				<word number="3">well-judged</word>
+				<word number="4">well-advised</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prudent</word>
+				<word number="2">politic</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="expedient" headRef="675">expedient</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">practicable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="informed">
+			<sg number="1">
+				<word number="1" new="1">informed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="tactful">
+			<sg number="1">
+				<word number="1" new="1">tactful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="businesslike">
+			<sg number="1">
+				<word number="1" new="2">businesslike</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="aut regem aut fatuum nasci oportet">
+			<sg number="1">
+				<word number="1">aut regem aut fatuum nasci oportet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"but with the morning cool reflection came"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flosculi sententiarum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">les affaires font les hommes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mas vale saber que haber</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mas vale ser necio que profiadol nemo solus sapit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nosce te</word>
+			</sg>
+			<sg number="8">
+				<word number="1">nullum magnum ingenium sine mixtura dementiae fuit</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sapere aude</word>
+			</sg>
+			<sg number="10">
+				<word number="1">victrix fortunae sapientia</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

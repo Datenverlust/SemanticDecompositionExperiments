@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="623" name="Poetry" origNum="#597." class="5" section="3" subSection="2" headGroup="26">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="poetry">
+			<sg number="1">
+				<word number="1">poetry</word>
+				<word number="2">poetics</word>
+				<word number="3">poesy</word>
+				<word number="4">Muse</word>
+				<word number="5">Calliope</word>
+				<word number="6">tuneful Nine</word>
+				<word number="7">Parnassus</word>
+				<word number="8">Helicon</word>
+				<word number="9">Pierides</word>
+				<word number="10">Pierian spring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="versification">
+			<sg number="1">
+				<word number="1">versification</word>
+				<word number="2">rhyming</word>
+				<word number="3">making verses</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prosody</word>
+				<word number="2">orthometry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="poem">
+			<sg number="1">
+				<word number="1">poem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">epic</word>
+				<word number="2">epic poem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">epopee</word>
+				<word number="2">epopoea</word>
+				<word number="3">ode</word>
+				<word number="4">epode</word>
+				<word number="5">idyl</word>
+				<word number="6">lyric</word>
+				<word number="7">eclogue</word>
+				<word number="8">pastoral</word>
+				<word number="9">bucolic</word>
+				<word number="10">dithyramb</word>
+				<word number="11">anacreontic</word>
+				<word number="12">sonnet</word>
+				<word number="13">roundelay</word>
+				<word number="14">rondeau</word>
+				<word number="15">rondo</word>
+				<word number="16">madrigal</word>
+				<word number="17">canzonet</word>
+				<word number="18">cento</word>
+				<word number="19">*monody</word>
+				<word number="20">elegy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amoebaeum</word>
+				<word number="2">ghazal</word>
+				<word number="3">palinode</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">lament</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dramatic poetry">
+			<sg number="1">
+				<word number="1">dramatic poetry</word>
+				<word number="2">lyric poetry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">opera</word>
+			</sg>
+			<sg number="3">
+				<word number="1">posy</word>
+				<word number="2">anthology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disjecta membra poetae      song</word>
+				<word number="2">ballad</word>
+				<word number="3">lay</word>
+			</sg>
+			<sg number="5">
+				<word number="1">love song</word>
+				<word number="2">drinking song</word>
+				<word number="3">war song</word>
+				<word number="4">sea song</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lullaby</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="music" headRef="433">music</word>
+			</sg>
+			<sg number="8">
+				<word number="1">nursery rhymes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="doggerel">
+			<sg number="1">
+				<word number="1">doggerel</word>
+				<word number="2">Hudibrastic verse</word>
+				<word number="3">prose run mad</word>
+			</sg>
+			<sg number="2">
+				<word number="1">macaronics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">macaronic verse</word>
+				<word number="2">leonine verse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">runes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="canto">
+			<sg number="1">
+				<word number="1">canto</word>
+				<word number="2">stanza</word>
+				<word number="3">distich</word>
+				<word number="4">verse</word>
+				<word number="5">line</word>
+				<word number="6">couplet</word>
+				<word number="7">triplet</word>
+				<word number="8">quatrain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strophe</word>
+				<word number="2">antistrophe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="verse">
+			<sg number="1">
+				<word number="1">verse</word>
+				<word number="2">rhyme</word>
+				<word number="3">assonance</word>
+				<word number="4">crambo</word>
+				<word number="5">meter</word>
+				<word number="6">measure</word>
+				<word number="7">foot</word>
+				<word number="8">numbers</word>
+				<word number="9">strain</word>
+				<word number="10">rhythm</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="voice" headRef="606">accentuation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dactyl</word>
+				<word number="2">spondee</word>
+				<word number="3">trochee</word>
+				<word number="4">anapest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hexameter</word>
+				<word number="2">pentameter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Alexandrine</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anacrusis</word>
+				<word number="2">antispast</word>
+				<word number="3">blank verse</word>
+				<word number="4">ictus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="elegiacs">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">elegiacs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">elegiac verse</word>
+				<word number="2">elegaic meter</word>
+				<word number="3">elegaic poetry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="poet">
+			<sg number="1">
+				<word number="1">poet</word>
+				<word number="2">poet laureate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laureate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bard</word>
+				<word number="2">lyrist</word>
+				<word number="3">scald</word>
+				<word number="4">skald</word>
+				<word number="5">troubadour</word>
+				<word number="6">trouvere</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minstrel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">minnesinger</word>
+				<word number="2">meistersinger</word>
+			</sg>
+			<sg number="6">
+				<word number="1">improvisatore</word>
+			</sg>
+			<sg number="7">
+				<word number="1">versifier</word>
+				<word number="2">sonneteer</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rhymer</word>
+				<word number="2">rhymist</word>
+				<word number="3">rhymester</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ballad monger</word>
+				<word number="2">runer</word>
+			</sg>
+			<sg number="10">
+				<word number="1">poetaster</word>
+			</sg>
+			<sg number="11">
+				<word number="1">genus irritabile vatum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="anthem">
+			<sg number="1">
+				<word number="1" new="1">anthem</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="hymn">
+			<sg number="1">
+				<word number="1" new="1">hymn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="prose">
+			<sg number="1">
+				<word number="1" new="1">prose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="proverb">
+			<sg number="1">
+				<word number="1" new="1">proverb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="refrain">
+			<sg number="1">
+				<word number="1" new="1">refrain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="song">
+			<sg number="1">
+				<word number="1" new="1">song</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="tune">
+			<sg number="1">
+				<word number="1" new="1">tune</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="poetize">
+			<sg number="1">
+				<word number="1">poetize</word>
+				<word number="2">sing</word>
+				<word number="3">versify</word>
+				<word number="4">make verses</word>
+				<word number="5">rhyme</word>
+				<word number="6">scan</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="poetic">
+			<sg number="1">
+				<word number="1">poetic</word>
+				<word number="2">poetical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lyric</word>
+				<word number="2">lyrical</word>
+				<word number="3">tuneful</word>
+				<word number="4">epic</word>
+				<word number="5" paraRef="" posRef="n.">dithyrambic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">metrical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a catalectin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">elegiac</word>
+				<word number="2">iambic</word>
+				<word number="3">trochaic</word>
+				<word number="4">anapestic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">amoebaeic</word>
+				<word number="2">Melibean</word>
+				<word number="3">skaldic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Ionic</word>
+				<word number="2">Sapphic</word>
+				<word number="3">Alcaic</word>
+				<word number="4">Pindaric</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a poem round and perfect as a star [Alex">
+			<sg number="1">
+				<word number="1">"a poem round and perfect as a star"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Dichtung und Wahrheit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">furor poeticus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"his virtues formed the magic of his song"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"I do but sing because I must"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"I learnt life from the poets"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">licentia vatum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mutum est pictura poema</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"O for a muse of fire!"</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"sweet food of sweetly uttered knowledge"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"the true poem is the poet's mind"</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Volk der Dichter und Denker</word>
+			</sg>
+			<sg number="13">
+				<word number="1">"wisdom married to immortal verse"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

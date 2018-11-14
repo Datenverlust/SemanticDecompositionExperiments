@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="537" name="Oracle" origNum="#513." class="4" section="6" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="oracle">
+			<sg number="1">
+				<word number="1">oracle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prophet</word>
+				<word number="2">prophesier</word>
+				<word number="3">seer</word>
+				<word number="4">soothsayer</word>
+				<word number="5">augur</word>
+				<word number="6">fortune teller</word>
+				<word number="7">crystal gazer</word>
+				<word number="8">witch</word>
+				<word number="9">geomancer</word>
+				<word number="10">aruspex</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aruspice</word>
+				<word number="2">haruspice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">haruspex</word>
+			</sg>
+			<sg number="5">
+				<word number="1">astrologer</word>
+				<word number="2">star gazer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Sibyl</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Python</word>
+				<word number="2">Pythoness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Pythia</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Pythian oracle</word>
+				<word number="2">Delphian oracle</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Monitor</word>
+				<word number="2">Sphinx</word>
+				<word number="3">Tiresias</word>
+				<word number="4">Cassandra</word>
+				<word number="5">Sibylline leaves</word>
+			</sg>
+			<sg number="11">
+				<word number="1">Zadkiel</word>
+				<word number="2">Old Moore</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="sorcerer" headRef="1038">sorcerer</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="interpreter" headRef="549">interpreter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="predictor">
+			<sg number="1">
+				<word number="1">predictor</word>
+				<word number="2">prognosticator</word>
+				<word number="3">forecaster</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weather forecaster</word>
+				<word number="2">weatherman</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a prophet is without honor in his own country">
+			<sg number="1">
+				<word number="1">a prophet is without honor in his own country</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"you don't need a weatherman to know which way the wind blows"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

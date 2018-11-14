@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="379" name="Vegetable" origNum="#367." class="3" section="3" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vegetable">
+			<sg number="1">
+				<word number="1">vegetable</word>
+				<word number="2">vegetable kingdom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flora</word>
+				<word number="2">verdure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plant">
+			<sg number="1">
+				<word number="1">plant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tree</word>
+				<word number="2">shrub</word>
+				<word number="3">bush</word>
+			</sg>
+			<sg number="3">
+				<word number="1">creeper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">herb</word>
+				<word number="2">herbage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grass</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">puncher</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">behavior</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">woolen</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">printworks</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">humankind</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">aeruginosa</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">water</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">protoplanets</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="annual">
+			<sg number="1">
+				<word number="1">annual</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perennial</word>
+				<word number="2">biennial</word>
+				<word number="3">triennial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exotic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="timber">
+			<sg number="1">
+				<word number="1">timber</word>
+				<word number="2">forest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wood</word>
+				<word number="2">woodlands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">timberland</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hurst</word>
+				<word number="2">frith</word>
+				<word number="3">holt</word>
+				<word number="4">weald</word>
+				<word number="5">park</word>
+				<word number="6">chase</word>
+				<word number="7">greenwood</word>
+				<word number="8">brake</word>
+				<word number="9">grove</word>
+				<word number="10">copse</word>
+				<word number="11">coppice</word>
+				<word number="12">bocage</word>
+				<word number="13">tope</word>
+				<word number="14">clump of trees</word>
+				<word number="15">thicket</word>
+				<word number="16">spinet</word>
+				<word number="17">spinney</word>
+			</sg>
+			<sg number="5">
+				<word number="1">underwood</word>
+				<word number="2">brushwood</word>
+			</sg>
+			<sg number="6">
+				<word number="1">scrub</word>
+			</sg>
+			<sg number="7">
+				<word number="1">boscage</word>
+				<word number="2">bosk</word>
+				<word number="3">ceja</word>
+				<word number="4">chaparral</word>
+				<word number="5">motte</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="arboretum" headRef="383">arboretum</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">lfwald</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">apg</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bush">
+			<sg number="1">
+				<word number="1">bush</word>
+				<word number="2">jungle</word>
+				<word number="3">prairie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heath</word>
+				<word number="2">heather</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fern</word>
+				<word number="2">bracken</word>
+			</sg>
+			<sg number="4">
+				<word number="1">furze</word>
+				<word number="2">gorse</word>
+				<word number="3">whin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grass</word>
+				<word number="2">turf</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pasture</word>
+				<word number="2">pasturage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">turbary</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sedge</word>
+				<word number="2">rush</word>
+				<word number="3">weed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fungus</word>
+				<word number="2">mushroom</word>
+				<word number="3">toadstool</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lichen</word>
+				<word number="2">moss</word>
+				<word number="3">conferva</word>
+				<word number="4">mold</word>
+			</sg>
+			<sg number="11">
+				<word number="1">growth</word>
+			</sg>
+			<sg number="12">
+				<word number="1">alfalfa</word>
+				<word number="2">alfilaria</word>
+				<word number="3">banyan</word>
+			</sg>
+			<sg number="13">
+				<word number="1">blow</word>
+				<word number="2">blowth</word>
+			</sg>
+			<sg number="14">
+				<word number="1">floret</word>
+				<word number="2">petiole</word>
+			</sg>
+			<sg number="15">
+				<word number="1">pin grass</word>
+				<word number="2">timothy</word>
+				<word number="3">yam</word>
+				<word number="4">yew</word>
+				<word number="5">zinnia</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">trainload</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">wildland</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">hierofalcons</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">envoi</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">antic</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">relvar</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">tepals</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">groomsman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="foliage">
+			<sg number="1">
+				<word number="1">foliage</word>
+				<word number="2">branch</word>
+				<word number="3">bough</word>
+				<word number="4">ramage</word>
+				<word number="5">stem</word>
+				<word number="6">tigella</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="spray" headRef="54">spray</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leaf</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">resolvent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">slave</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">wretchedness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">novellae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="flower">
+			<sg number="1">
+				<word number="1">flower</word>
+				<word number="2">blossom</word>
+				<word number="3">bine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flowering plant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">timber tree</word>
+				<word number="2">fruit tree</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pulse</word>
+				<word number="2">legume</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="integrifolia">
+			<sg number="1">
+				<word number="1" new="1">integrifolia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="tailwind">
+			<sg number="1">
+				<word number="1" new="1">tailwind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="scatterers">
+			<sg number="1">
+				<word number="1" new="1">scatterers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="enrollment">
+			<sg number="1">
+				<word number="1" new="1">enrollment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="sneezing">
+			<sg number="1">
+				<word number="1" new="1">sneezing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="franchiser">
+			<sg number="1">
+				<word number="1" new="1">franchiser</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="hadiths">
+			<sg number="1">
+				<word number="1" new="1">hadiths</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="headroom">
+			<sg number="1">
+				<word number="1" new="1">headroom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="lemming">
+			<sg number="1">
+				<word number="1" new="1">lemming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="autonomist">
+			<sg number="1">
+				<word number="1" new="1">autonomist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vegetable">
+			<sg number="1">
+				<word number="1">vegetable</word>
+				<word number="2">vegetal</word>
+				<word number="3">vegetive</word>
+				<word number="4">vegitous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">herbaceous</word>
+				<word number="2">herbal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">botanic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sylvan</word>
+				<word number="2">silvan</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arborary</word>
+				<word number="2">arboreous</word>
+				<word number="3">arborescent</word>
+				<word number="4">arborical</word>
+			</sg>
+			<sg number="6">
+				<word number="1">woody</word>
+				<word number="2">grassy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">verdant</word>
+				<word number="2">verdurous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">floral</word>
+				<word number="2">mossy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lignous</word>
+				<word number="2">ligneous</word>
+			</sg>
+			<sg number="10">
+				<word number="1">wooden</word>
+				<word number="2">leguminous</word>
+			</sg>
+			<sg number="11">
+				<word number="1">vosky</word>
+				<word number="2">cespitose</word>
+				<word number="3">turf-like</word>
+				<word number="4">turfy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">endogenous</word>
+				<word number="2">exogenous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="green-robed senators of mighty woods">
+			<sg number="1">
+				<word number="1">"green-robed senators of mighty woods"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"this is the forest primeval"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

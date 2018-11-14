@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="210" name="Shortness" origNum="#201." class="2" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="shortness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">shortness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brevity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="littleness" headRef="202">littleness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a span</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="shortening">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">shortening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abbreviation</word>
+				<word number="2">abbreviature</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abridgment</word>
+				<word number="2">concision</word>
+				<word number="3">retrenchment</word>
+				<word number="4">curtailment</word>
+				<word number="5">decurtation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="contraction" headRef="204">reduction</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="compendium" headRef="622">epitome</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="elision">
+			<sg number="1">
+				<word number="1">elision</word>
+				<word number="2">ellipsis</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="conciseness" headRef="598">conciseness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="abridger">
+			<sg number="1">
+				<word number="1">abridger</word>
+				<word number="2">epitomist</word>
+				<word number="3">epitomizer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be short">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be short</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">render short</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shorten</word>
+				<word number="2">curtail</word>
+				<word number="3">abridge</word>
+				<word number="4">abbreviate</word>
+				<word number="5">take in</word>
+				<word number="6">reduce</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="contract" headRef="204">compress</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="epitomize" headRef="622">epitomize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="retrench">
+			<sg number="1">
+				<word number="1">retrench</word>
+				<word number="2">cut short</word>
+				<word number="3">obtruncate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scrimp</word>
+				<word number="2">cut</word>
+				<word number="3">chop up</word>
+				<word number="4">hack</word>
+				<word number="5">hew</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cut down</word>
+				<word number="2">pare down</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clip</word>
+				<word number="2">dock</word>
+				<word number="3">lop</word>
+				<word number="4">prune</word>
+				<word number="5">shear</word>
+				<word number="6">shave</word>
+				<word number="7">mow</word>
+				<word number="8">reap</word>
+				<word number="9">crop</word>
+			</sg>
+			<sg number="5">
+				<word number="1">snub</word>
+			</sg>
+			<sg number="6">
+				<word number="1">truncate</word>
+				<word number="2">pollard</word>
+				<word number="3">stunt</word>
+				<word number="4">nip</word>
+				<word number="5">check the growth of</word>
+			</sg>
+			<sg number="7">
+				<word number="1">foreshorten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="short">
+			<sg number="1">
+				<word number="1">short</word>
+				<word number="2">brief</word>
+				<word number="3">curt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">compendious</word>
+				<word number="2">compact</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stubby</word>
+				<word number="2">scrimp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shorn</word>
+				<word number="2">stubbed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stumpy</word>
+				<word number="2">thickset</word>
+				<word number="3">pug</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chunky</word>
+				<word number="2">decurtate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">retrousse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stocky</word>
+			</sg>
+			<sg number="9">
+				<word number="1">squab</word>
+				<word number="2">squabby</word>
+			</sg>
+			<sg number="10">
+				<word number="1">squat</word>
+				<word number="2">dumpy</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="little" headRef="202">little</word>
+			</sg>
+			<sg number="12">
+				<word number="1">curtailed of its fair proportions</word>
+			</sg>
+			<sg number="13">
+				<word number="1">short by</word>
+			</sg>
+			<sg number="14">
+				<word number="1">oblate</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="concise" headRef="598">concise</word>
+			</sg>
+			<sg number="16">
+				<word number="1">summary</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">antireligious</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">customarily</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="shortly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">shortly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="concisely" headRef="598">in short</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

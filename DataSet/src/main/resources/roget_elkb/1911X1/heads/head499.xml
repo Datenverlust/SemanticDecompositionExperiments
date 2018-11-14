@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="499" name="Reasoning," origNum="#476." class="4" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">reasoning</word>
+				<word number="2">ratiocination</word>
+				<word number="3">rationalism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dialectics</word>
+				<word number="2">induction</word>
+				<word number="3">generalization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="discussion">
+			<sg number="1">
+				<word number="1">discussion</word>
+				<word number="2">comment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ventilation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inquiry" headRef="481">inquiry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="argumentation">
+			<sg number="1">
+				<word number="1">argumentation</word>
+				<word number="2">controversy</word>
+				<word number="3">debate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">polemics</word>
+				<word number="2">wrangling</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contention" headRef="749">contention</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disputation</word>
+				<word number="2">disceptation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">paper war</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="art of reasoning">
+			<sg number="1">
+				<word number="1">art of reasoning</word>
+				<word number="2">logic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="process of reasoning">
+			<sg number="1">
+				<word number="1">process of reasoning</word>
+				<word number="2">train of reasoning</word>
+				<word number="3">chain of reasoning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deduction</word>
+				<word number="2">induction</word>
+				<word number="3">abduction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">synthesis</word>
+				<word number="2">analysis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="argument">
+			<sg number="1">
+				<word number="1">argument</word>
+			</sg>
+			<sg number="2">
+				<word number="1">case</word>
+				<word number="2">plaidoyer</word>
+				<word number="3">opening</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lemma</word>
+				<word number="2">proposition</word>
+				<word number="3">terms</word>
+				<word number="4">premises</word>
+				<word number="5">postulate</word>
+				<word number="6">de.dailab.nsm.semanticDistanceMeasures.data</word>
+				<word number="7">starting point</word>
+				<word number="8">principle</word>
+				<word number="9" new="1">axiom</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="judgment" headRef="503">inference</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="prosyllogism">
+			<sg number="1">
+				<word number="1">prosyllogism</word>
+				<word number="2">syllogism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enthymeme</word>
+				<word number="2">sorites</word>
+				<word number="3">dilemma</word>
+				<word number="4">perilepsis</word>
+				<word number="5">a priori reasoning</word>
+				<word number="6">reductio ad absurdum</word>
+				<word number="7">horns of a dilemma</word>
+				<word number="8">argumentum ad hominem</word>
+				<word number="9">comprehensive argument</word>
+			</sg>
+			<sg number="3">
+				<word number="1">empirema</word>
+				<word number="2">epagoge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="reasoner">
+			<sg number="1">
+				<word number="1">reasoner</word>
+				<word number="2">logician</word>
+				<word number="3">dialectician</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disputant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">controversialist</word>
+				<word number="2">controvertist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wrangler</word>
+				<word number="2">arguer</word>
+				<word number="3">debater polemic</word>
+				<word number="4">casuist</word>
+				<word number="5">rationalist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scientist</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eristic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="logical sequence">
+			<sg number="1">
+				<word number="1">logical sequence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good case</word>
+			</sg>
+			<sg number="3">
+				<word number="1">correct just reasoning</word>
+				<word number="2">sound reasoning</word>
+				<word number="3">valid reasoning</word>
+				<word number="4">cogent reasoning</word>
+				<word number="5">logical reasoning</word>
+				<word number="6">forcible reasoning</word>
+				<word number="7">persuasive reasoning</word>
+				<word number="8">persuasory reasoning</word>
+				<word number="9">consectary  reasoning</word>
+				<word number="10" paraRef="conclusive" headRef="501">conclusive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subtle reasoning</word>
+			</sg>
+			<sg number="5">
+				<word number="1">force of argument</word>
+				<word number="2">strong point</word>
+				<word number="3">strong  argument</word>
+				<word number="4">persuasive argument</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="arguments">
+			<sg number="1">
+				<word number="1">arguments</word>
+				<word number="2">reasons</word>
+				<word number="3">pros and cons</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="reason">
+			<sg number="1">
+				<word number="1">reason</word>
+				<word number="2">argue</word>
+				<word number="3">discuss</word>
+				<word number="4">debate</word>
+				<word number="5">dispute</word>
+				<word number="6">wrangle- argufy</word>
+				<word number="7">bandy words</word>
+				<word number="8">bandy arguments</word>
+				<word number="9" new="1">question</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chop logic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold an argument</word>
+				<word number="2">carry on an argument</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="deny" headRef="562">controvert</word>
+			</sg>
+			<sg number="5">
+				<word number="1">canvass</word>
+			</sg>
+			<sg number="6">
+				<word number="1">comment upon</word>
+				<word number="2">moralize upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">spiritualize</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="examine" headRef="481">consider</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="open a discussion">
+			<sg number="1">
+				<word number="1">open a discussion</word>
+				<word number="2">open a case</word>
+			</sg>
+			<sg number="2">
+				<word number="1">try conclusions</word>
+			</sg>
+			<sg number="3">
+				<word number="1">join issue</word>
+				<word number="2">be at issue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come to the point</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stir a question</word>
+				<word number="2">agitate a question</word>
+				<word number="3">ventilate a question</word>
+				<word number="4">torture a question</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take up a side</word>
+				<word number="2">take up a case</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="contend">
+			<sg number="1">
+				<word number="1">contend</word>
+				<word number="2">take one's stand upon</word>
+				<word number="3">insist</word>
+				<word number="4">lay stress on</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inference" headRef="503">infer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="follow from">
+			<sg number="1">
+				<word number="1" paraRef="demonstration" headRef="501">follow from</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="reasoning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">reasoning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rationalistic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">argumentative</word>
+				<word number="2">controversial</word>
+				<word number="3">dialectic</word>
+				<word number="4">polemical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discursory</word>
+				<word number="2">discursive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disputatious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Aristotelian</word>
+				<word number="2">eristic</word>
+				<word number="3">eristical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="debatable">
+			<sg number="1">
+				<word number="1">debatable</word>
+				<word number="2">controvertible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="logical">
+			<sg number="1">
+				<word number="1">logical</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="relevant" headRef="25">relevant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="for">
+			<sg number="1">
+				<word number="1">for</word>
+				<word number="2">because</word>
+				<word number="3">hence</word>
+				<word number="4">whence</word>
+				<word number="5">seeing that</word>
+				<word number="6">since</word>
+				<word number="7">sith</word>
+				<word number="8">then thence so</word>
+			</sg>
+			<sg number="2">
+				<word number="1">for that reason</word>
+				<word number="2">for this reason</word>
+				<word number="3">for which reason</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for as</word>
+				<word number="2">inasmuch as</word>
+			</sg>
+			<sg number="4">
+				<word number="1">whereas</word>
+				<word number="2">ex concesso</word>
+				<word number="3">considering</word>
+				<word number="4">in consideration of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">therefore</word>
+				<word number="2">wherefore</word>
+			</sg>
+			<sg number="6">
+				<word number="1">consequently</word>
+				<word number="2">ergo</word>
+				<word number="3">thus</word>
+				<word number="4">accordingly</word>
+			</sg>
+			<sg number="7">
+				<word number="1">a fortiori</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in conclusion">
+			<sg number="1">
+				<word number="1">in conclusion</word>
+				<word number="2">in fine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">finally</word>
+				<word number="2">after all</word>
+				<word number="3">au bout du compt</word>
+				<word number="4">on the whole</word>
+				<word number="5">taking one thing with another</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ab actu ad posse valet consecutio">
+			<sg number="1">
+				<word number="1">ab actu ad posse valet consecutio</word>
+			</sg>
+			<sg number="2">
+				<word number="1">per troppo dibatter la verita si perde</word>
+			</sg>
+			<sg number="3">
+				<word number="1">troppo disputare la verita fa errare</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

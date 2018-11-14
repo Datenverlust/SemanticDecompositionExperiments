@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="549" name="Interpreter" origNum="#524." class="5" section="1" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="interpreter">
+			<sg number="1">
+				<word number="1">interpreter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expositor</word>
+				<word number="2">expounder</word>
+				<word number="3">exponent</word>
+				<word number="4">explainer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">demonstrator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="scholiast">
+			<sg number="1">
+				<word number="1">scholiast</word>
+				<word number="2">commentator</word>
+				<word number="3">annotator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metaphrast</word>
+				<word number="2">paraphrast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">glossarist</word>
+				<word number="2">prolocutor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="spokesman">
+			<sg number="1">
+				<word number="1">spokesman</word>
+				<word number="2">speaker</word>
+				<word number="3">mouthpiece</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dragoman">
+			<sg number="1">
+				<word number="1">dragoman</word>
+				<word number="2">courier</word>
+				<word number="3">valet de place</word>
+				<word number="4">cicerone</word>
+				<word number="5">showman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oneirocritic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">(Edipus</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="oracle" headRef="537">oracle</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

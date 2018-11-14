@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="883" name="Beauty" origNum="#845." class="8" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="beauty">
+			<sg number="1">
+				<word number="1">beauty</word>
+				<word number="2">the beautiful</word>
+				<word number="3">le beau ideal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aesthetics">
+			<sg number="1">
+				<word number="1">aesthetics</word>
+				<word number="2">callaesthetics!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pulchritude">
+			<sg number="1">
+				<word number="1">pulchritude</word>
+				<word number="2">form elegance</word>
+				<word number="3">grace</word>
+				<word number="4">beauty unadorned</word>
+				<word number="5">natural beauty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="symmetry" headRef="252">symmetry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">comeliness</word>
+				<word number="2" paraRef="" posRef="adj.">fairness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">polish</word>
+				<word number="2">gloss</word>
+			</sg>
+			<sg number="5">
+				<word number="1">good effect</word>
+				<word number="2">good looks</word>
+			</sg>
+			<sg number="6">
+				<word number="1">belle tournure</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trigness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bloom</word>
+				<word number="2">brilliancy</word>
+				<word number="3">radiance</word>
+				<word number="4">splendor</word>
+				<word number="5">gorgeousness</word>
+				<word number="6">magnificence</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sublimity</word>
+				<word number="2">sublimification|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="concinnity">
+			<sg number="1">
+				<word number="1">concinnity</word>
+				<word number="2">delicacy</word>
+				<word number="3">refinement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">charm</word>
+				<word number="2">je ne sais quoi</word>
+				<word number="3">style</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Venus">
+			<sg number="1">
+				<word number="1">Venus</word>
+				<word number="2">Aphrodite</word>
+				<word number="3">Hebe</word>
+				<word number="4">the Graces</word>
+				<word number="5">Peri</word>
+				<word number="6">Houri</word>
+				<word number="7">Cupid</word>
+				<word number="8">Apollo</word>
+				<word number="9">Hyperion</word>
+				<word number="10">Adonis</word>
+				<word number="11">Antionous</word>
+				<word number="12">Narcissus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="peacock">
+			<sg number="1">
+				<word number="1">peacock</word>
+				<word number="2">butterfly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">garden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flower of</word>
+				<word number="2">pink of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bijou</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="ornament" headRef="885">jewel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">work of art</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="flower">
+			<sg number="1">
+				<word number="1">flower</word>
+				<word number="2">flow'ret gay</word>
+				<word number="3">wildflower</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rose</word>
+				<word number="2">lily</word>
+				<word number="3">anemone</word>
+				<word number="4">asphodel</word>
+				<word number="5">buttercup</word>
+				<word number="6">crane's bill</word>
+				<word number="7">daffodil</word>
+				<word number="8">tulip</word>
+				<word number="9">tiger lily</word>
+				<word number="10">day lily</word>
+				<word number="11">begonia</word>
+				<word number="12">marigold</word>
+				<word number="13">geranium</word>
+				<word number="14">lily of the valley</word>
+				<word number="15">ranunculus</word>
+				<word number="16">rhododendron</word>
+				<word number="17">windflower</word>
+				<word number="18" new="1">inoculation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="pleasurableness">
+			<sg number="1">
+				<word number="1" paraRef="pleasurableness" headRef="867">pleasurableness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="beautifying">
+			<sg number="1">
+				<word number="1">beautifying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">landscaping</word>
+				<word number="2">landscape gardening</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="decoration" headRef="885">decoration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">calisthenics!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="beauty">
+			<sg number="1">
+				<word number="1">beauty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hunk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="triviality">
+			<sg number="1">
+				<word number="1" new="1">triviality</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be beautiful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be beautiful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shine</word>
+				<word number="2">beam</word>
+				<word number="3">bloom</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="accord" headRef="25">become one</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set off</word>
+				<word number="2">grace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render beautiful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render beautiful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beautify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">polish</word>
+				<word number="2">burnish</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="decorate" headRef="885">gild</word>
+			</sg>
+			<sg number="5">
+				<word number="1">set out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="snatch a grace beyond the reach of art">
+			<sg number="1">
+				<word number="1">"snatch a grace beyond the reach of art"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="beautiful">
+			<sg number="1">
+				<word number="1">beautiful</word>
+				<word number="2">beauteous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">handsome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gorgeous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pretty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lovely</word>
+				<word number="2">graceful</word>
+				<word number="3">elegant</word>
+				<word number="4">prepossessing</word>
+				<word number="5" new="1">fool</word>
+				<word number="6" new="1">insurgent</word>
+				<word number="7" new="1">outwardly</word>
+				<word number="8" new="1">interlacing</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="inviting" headRef="643">attractive</word>
+			</sg>
+			<sg number="7">
+				<word number="1">delicate</word>
+				<word number="2">dainty</word>
+				<word number="3">refined</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fair</word>
+				<word number="2">personable</word>
+				<word number="3">comely</word>
+				<word number="4">seemly</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bonny</word>
+			</sg>
+			<sg number="10">
+				<word number="1">good- looking</word>
+			</sg>
+			<sg number="11">
+				<word number="1">well-favored</word>
+				<word number="2">well-made</word>
+				<word number="3">well-formed</word>
+				<word number="4">well-proportioned</word>
+			</sg>
+			<sg number="12">
+				<word number="1">proper</word>
+				<word number="2">shapely</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="regular" headRef="252">symmetrical</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="color" headRef="447">harmonious</word>
+			</sg>
+			<sg number="15">
+				<word number="1">sightly</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">hemotoxic</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">lagging</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">contributory</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">helmeted</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">auditing</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">twofold</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">absorbing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fit to be seen">
+			<sg number="1">
+				<word number="1">fit to be seen</word>
+				<word number="2">passable</word>
+				<word number="3">not amiss</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="goodly">
+			<sg number="1">
+				<word number="1">goodly</word>
+				<word number="2">dapper</word>
+				<word number="3">tight</word>
+				<word number="4">jimp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gimp</word>
+			</sg>
+			<sg number="3">
+				<word number="1">janty</word>
+				<word number="2">jaunty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trig</word>
+				<word number="2">natty</word>
+				<word number="3">quaint</word>
+				<word number="4">trim</word>
+				<word number="5">tidy,neat</word>
+				<word number="6">spruce</word>
+				<word number="7">smart</word>
+				<word number="8">tricksy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bright">
+			<sg number="1">
+				<word number="1">bright</word>
+				<word number="2">bright eyed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rosy cheeked</word>
+				<word number="2">cherry cheeked</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rosy</word>
+				<word number="2">ruddy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blooming</word>
+				<word number="2">in full bloom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="brilliant">
+			<sg number="1">
+				<word number="1">brilliant</word>
+				<word number="2">shining</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beamy</word>
+				<word number="2">beaming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sparkling</word>
+				<word number="2">splendid</word>
+				<word number="3">resplendent</word>
+				<word number="4">dazzling</word>
+				<word number="5">glowing</word>
+				<word number="6" new="1">accurate</word>
+				<word number="7" new="1">improperly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">glossy</word>
+				<word number="2">sleek</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">heterosexual</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">conflictual</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rich">
+			<sg number="1">
+				<word number="1">rich</word>
+				<word number="2">superb</word>
+				<word number="3">magnificent</word>
+				<word number="4">grand</word>
+				<word number="5">fine</word>
+				<word number="6">sublime</word>
+				<word number="7">showy</word>
+				<word number="8">specious</word>
+				<word number="9" new="1">tail</word>
+				<word number="10" new="1">blocky</word>
+				<word number="11" new="1">orbicular</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="artistic">
+			<sg number="1">
+				<word number="1">artistic</word>
+				<word number="2">artistical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aesthetic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">picturesque</word>
+				<word number="2">pictorial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fait a peindre</word>
+			</sg>
+			<sg number="5">
+				<word number="1">well-composed</word>
+				<word number="2">well grouped</word>
+				<word number="3">well varied</word>
+			</sg>
+			<sg number="6">
+				<word number="1">curious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="enchanting">
+			<sg number="1">
+				<word number="1" paraRef="pleasure-giving" headRef="867">enchanting</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="accordant" headRef="25">becoming</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ornamental" headRef="885">ornamental</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="undeformed">
+			<sg number="1">
+				<word number="1">undeformed</word>
+				<word number="2">undefaced</word>
+				<word number="3">unspotted</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="perfect" headRef="679">spotless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="aversive">
+			<sg number="1">
+				<word number="1" new="1">aversive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="secured">
+			<sg number="1">
+				<word number="1" new="1">secured</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="auxilium non leve vultus habet">
+			<sg number="1">
+				<word number="1">auxilium non leve vultus habet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"beauty born of murmuring sound"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"flowers preach to us if we will hear"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gratior ac pulchro veniens in corpore virtus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"none but the brave deserve the fair"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"thou who hast the fatal gift of beauty"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

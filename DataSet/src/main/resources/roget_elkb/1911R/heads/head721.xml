@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="721" name="Conduct" origNum="#692." class="6" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="conduct">
+			<sg number="1">
+				<word number="1">conduct</word>
+			</sg>
+			<sg number="2">
+				<word number="1">behavior</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deportment</word>
+				<word number="2">comportment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">carriage</word>
+				<word number="2">maintien</word>
+				<word number="3">demeanor</word>
+				<word number="4">guise</word>
+				<word number="5">bearing</word>
+				<word number="6">manner</word>
+				<word number="7">observance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dealing">
+			<sg number="1">
+				<word number="1">dealing</word>
+				<word number="2" paraRef="action" headRef="709">transaction</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="business" headRef="654">business</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tactics">
+			<sg number="1">
+				<word number="1">tactics</word>
+				<word number="2">game</word>
+				<word number="3">game plan</word>
+				<word number="4">policy</word>
+				<word number="5">polity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">generalship</word>
+				<word number="2">statesmanship</word>
+				<word number="3">seamanship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strategy</word>
+				<word number="2">strategics</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="plan" headRef="655">plan</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">rancheras</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">dure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="management">
+			<sg number="1">
+				<word number="1">management</word>
+			</sg>
+			<sg number="2">
+				<word number="1">husbandry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">housekeeping</word>
+				<word number="2">housewifery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stewardship</word>
+			</sg>
+			<sg number="5">
+				<word number="1">menage</word>
+			</sg>
+			<sg number="6">
+				<word number="1">regime</word>
+			</sg>
+			<sg number="7">
+				<word number="1">economy</word>
+				<word number="2">economics</word>
+			</sg>
+			<sg number="8">
+				<word number="1">political economy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="direction" headRef="722">government</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">linea</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="execution">
+			<sg number="1">
+				<word number="1">execution</word>
+				<word number="2">manipulation</word>
+				<word number="3">treatment</word>
+				<word number="4">campaign</word>
+				<word number="5">career</word>
+				<word number="6">life</word>
+				<word number="7">course</word>
+				<word number="8">walk</word>
+				<word number="9">race</word>
+				<word number="10">record</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="course of conduct">
+			<sg number="1">
+				<word number="1">course of conduct</word>
+				<word number="2">line of conduct</word>
+				<word number="3">line of action</word>
+				<word number="4">line of proceeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">role</word>
+			</sg>
+			<sg number="3">
+				<word number="1">process</word>
+				<word number="2">ways</word>
+				<word number="3">practice</word>
+				<word number="4">procedure</word>
+				<word number="5">modus operandi</word>
+				<word number="6">MO</word>
+				<word number="7">method of operating</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="path" headRef="656">method</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">scandale</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">wheelhouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="maggidim">
+			<sg number="1">
+				<word number="1" new="1">maggidim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="quickfire">
+			<sg number="1">
+				<word number="1" new="1">quickfire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="transact">
+			<sg number="1">
+				<word number="1">transact</word>
+				<word number="2">execute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">despatch</word>
+				<word number="2">dispatch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proceed with</word>
+				<word number="2">discharge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">carry on</word>
+				<word number="2">carry through</word>
+				<word number="3">carry out</word>
+				<word number="4">carry into effect</word>
+				<word number="5">put into effect</word>
+			</sg>
+			<sg number="5">
+				<word number="1">work out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">go through</word>
+				<word number="2">get through</word>
+			</sg>
+			<sg number="7">
+				<word number="1">enact</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put into practice</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="do" headRef="709">do</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="officiate" headRef="654">officiate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bear oneself">
+			<sg number="1">
+				<word number="1">bear oneself</word>
+				<word number="2">behave oneself</word>
+				<word number="3">comport oneself</word>
+				<word number="4">demean oneself</word>
+				<word number="5">carry oneself</word>
+				<word number="6">conduct oneself</word>
+				<word number="7">acquit oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="run a race">
+			<sg number="1">
+				<word number="1">run a race</word>
+				<word number="2">lead a life</word>
+				<word number="3">play a game</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take a course</word>
+				<word number="2">adopt a course</word>
+			</sg>
+			<sg number="3">
+				<word number="1">steer one's course</word>
+				<word number="2">shape one's course</word>
+			</sg>
+			<sg number="4">
+				<word number="1">play one's paint</word>
+				<word number="2">play one's cards</word>
+				<word number="3">shift for oneself</word>
+			</sg>
+			<sg number="5">
+				<word number="1">paddle one's own canoe</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bail one's own boat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="conduct">
+			<sg number="1">
+				<word number="1">conduct</word>
+			</sg>
+			<sg number="2">
+				<word number="1">manage</word>
+				<word number="2" paraRef="direct" headRef="722">supervise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="participate">
+			<sg number="1">
+				<word number="1" paraRef="participate in" headRef="709">participate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="deal with">
+			<sg number="1">
+				<word number="1">deal with</word>
+				<word number="2">have to do with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">treat</word>
+				<word number="2">handle a case</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take steps</word>
+				<word number="2">take measures</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="conducting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">conducting</word>
+				<word number="2">businesslike</word>
+				<word number="3">practical</word>
+				<word number="4">executive</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

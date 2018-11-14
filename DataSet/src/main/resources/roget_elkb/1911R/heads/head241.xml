@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="241" name="Edge" origNum="#231." class="2" section="2" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="edge">
+			<sg number="1">
+				<word number="1">edge</word>
+				<word number="2">verge</word>
+				<word number="3">brink</word>
+				<word number="4">brow</word>
+				<word number="5">brim</word>
+				<word number="6">margin</word>
+				<word number="7">border</word>
+				<word number="8">confine</word>
+				<word number="9">skirt</word>
+				<word number="10">rim</word>
+				<word number="11">flange</word>
+				<word number="12">side</word>
+				<word number="13">mouth</word>
+				<word number="14" new="1">peasantry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jaws</word>
+				<word number="2">chops</word>
+				<word number="3">chaps</word>
+				<word number="4">fauces</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lip</word>
+				<word number="2">muzzle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="threshold">
+			<sg number="1">
+				<word number="1">threshold</word>
+				<word number="2">door</word>
+				<word number="3">porch</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="opening" headRef="271">portal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">coast</word>
+				<word number="2">shore</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="frame">
+			<sg number="1">
+				<word number="1">frame</word>
+				<word number="2">fringe</word>
+				<word number="3">flounce</word>
+				<word number="4">frill</word>
+				<word number="5">list</word>
+				<word number="6">trimming</word>
+				<word number="7">edging</word>
+				<word number="8">skirting</word>
+				<word number="9">hem</word>
+				<word number="10">selvedge</word>
+				<word number="11">welt</word>
+				<word number="12">furbelow</word>
+				<word number="13">valance</word>
+				<word number="14">gimp</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="masochism">
+			<sg number="1">
+				<word number="1" new="1">masochism</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="border">
+			<sg number="1">
+				<word number="1">border</word>
+				<word number="2">marginal</word>
+				<word number="3">skirting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">labial</word>
+				<word number="2">labiated</word>
+				<word number="3">marginated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

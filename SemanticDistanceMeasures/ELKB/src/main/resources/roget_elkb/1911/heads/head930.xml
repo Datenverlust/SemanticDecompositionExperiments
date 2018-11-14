@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="930" name="Enemy" origNum="#891." class="8" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="enemy">
+			<sg number="1">
+				<word number="1">enemy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">antagonist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">foe</word>
+				<word number="2">foeman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">open enemy</word>
+				<word number="2">bitter enemy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="opponent" headRef="739">opponent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">back friend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="public enemy">
+			<sg number="1">
+				<word number="1">public enemy</word>
+				<word number="2">enemy to society</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="every hand being against one">
+			<sg number="1">
+				<word number="1">every hand being against one</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"he makes no friend who never made a foe"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="with friends like that">
+			<sg number="1">
+				<word number="1">with friends like that</word>
+				<word number="2">who needs enemies?</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Lord protect me from my friends</word>
+			</sg>
+			<sg number="3">
+				<word number="1">I can protect myself from my enemies</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

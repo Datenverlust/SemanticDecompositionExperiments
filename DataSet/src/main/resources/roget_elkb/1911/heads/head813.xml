@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="813" name="Property" origNum="#780." class="7" section="4" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="property">
+			<sg number="1">
+				<word number="1">property</word>
+				<word number="2">possession</word>
+				<word number="3">suum cuique</word>
+				<word number="4">meum et tuum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ownership">
+			<sg number="1">
+				<word number="1">ownership</word>
+				<word number="2">proprietorship</word>
+				<word number="3">lordship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seignority</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dominion" headRef="767">empire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="interest">
+			<sg number="1">
+				<word number="1">interest</word>
+				<word number="2">stake</word>
+				<word number="3">estate</word>
+				<word number="4">right</word>
+				<word number="5">title</word>
+				<word number="6">claim</word>
+				<word number="7">demand</word>
+				<word number="8">holding</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="possession" headRef="809">tenure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vested interest</word>
+				<word number="2">contingent interest</word>
+				<word number="3">beneficial interest</word>
+				<word number="4">equitable interest</word>
+			</sg>
+			<sg number="4">
+				<word number="1">use</word>
+				<word number="2">trust</word>
+				<word number="3">benefit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">legal estate</word>
+				<word number="2">equitable estate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">seizin</word>
+				<word number="2">seisin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="absolute interest">
+			<sg number="1">
+				<word number="1">absolute interest</word>
+				<word number="2">paramount estate</word>
+				<word number="3">freehold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fee tail</word>
+				<word number="2">fee simple</word>
+			</sg>
+			<sg number="3">
+				<word number="1">estate in fee</word>
+				<word number="2">estate in tail</word>
+				<word number="3">estate tail</word>
+			</sg>
+			<sg number="4">
+				<word number="1">estate in tail male</word>
+				<word number="2">estate in tail female</word>
+				<word number="3">estate in tail general</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="limitation">
+			<sg number="1">
+				<word number="1">limitation</word>
+				<word number="2">term</word>
+				<word number="3">lease</word>
+				<word number="4">settlement</word>
+				<word number="5">strict settlement</word>
+				<word number="6">particular estate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">estate for life</word>
+				<word number="2">estate for years</word>
+				<word number="3">estate pur autre vie</word>
+			</sg>
+			<sg number="3">
+				<word number="1">remainder</word>
+				<word number="2">reversion</word>
+				<word number="3">expectancy</word>
+				<word number="4">possibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dower">
+			<sg number="1">
+				<word number="1">dower</word>
+				<word number="2">dowry</word>
+				<word number="3">jointure</word>
+				<word number="4">appanage</word>
+				<word number="5">inheritance</word>
+				<word number="6">heritage</word>
+				<word number="7">patrimony</word>
+				<word number="8">alimony</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="gift" headRef="817">legacy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Falcidian law</word>
+				<word number="2">paternal estate</word>
+				<word number="3">thirds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="assets">
+			<sg number="1">
+				<word number="1">assets</word>
+				<word number="2">belongings</word>
+				<word number="3">means</word>
+				<word number="4">resources</word>
+				<word number="5">circumstances</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wealth" headRef="838">wealth</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="money" headRef="835">money</word>
+			</sg>
+			<sg number="4">
+				<word number="1">what one is worth</word>
+				<word number="2">what one will cut up for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">estate and effects</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="landed property">
+			<sg number="1">
+				<word number="1">landed property</word>
+				<word number="2">landed real estate property</word>
+			</sg>
+			<sg number="2">
+				<word number="1">realty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">land</word>
+				<word number="2">lands</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tenements</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hereditaments</word>
+			</sg>
+			<sg number="6">
+				<word number="1">corporeal hereditaments</word>
+				<word number="2">incorporeal hereditaments</word>
+			</sg>
+			<sg number="7">
+				<word number="1">acres</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="earth" headRef="353">ground</word>
+			</sg>
+			<sg number="9">
+				<word number="1">acquest</word>
+				<word number="2">messuage</word>
+				<word number="3">toft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="territory">
+			<sg number="1">
+				<word number="1">territory</word>
+				<word number="2">state</word>
+				<word number="3">kingdom</word>
+				<word number="4">principality</word>
+				<word number="5">realm</word>
+				<word number="6">empire</word>
+				<word number="7">protectorate</word>
+				<word number="8">sphere of influence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="manor">
+			<sg number="1">
+				<word number="1">manor</word>
+				<word number="2">honor</word>
+				<word number="3">domain</word>
+				<word number="4">demesne</word>
+			</sg>
+			<sg number="2">
+				<word number="1">farm</word>
+				<word number="2">plantation</word>
+				<word number="3">hacienda</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="free" headRef="779">allodium</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fief</word>
+				<word number="2">fieff</word>
+				<word number="3">feoff</word>
+				<word number="4">feud</word>
+				<word number="5">zemindary</word>
+				<word number="6">dependency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arado</word>
+				<word number="2">merestead</word>
+				<word number="3">ranch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="free lease-holds">
+			<sg number="1">
+				<word number="1">free lease-holds</word>
+				<word number="2">copy lease-holds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">folkland</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chattels real</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fixtures</word>
+				<word number="2">plant</word>
+				<word number="3">heirloom</word>
+			</sg>
+			<sg number="5">
+				<word number="1">easement</word>
+			</sg>
+			<sg number="6">
+				<word number="1">right of common</word>
+				<word number="2">right of user</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="personal property">
+			<sg number="1">
+				<word number="1">personal property</word>
+				<word number="2">personal estate</word>
+				<word number="3">personal effects</word>
+			</sg>
+			<sg number="2">
+				<word number="1">personalty</word>
+				<word number="2">chattels</word>
+				<word number="3">goods</word>
+				<word number="4">effects</word>
+				<word number="5">movables</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stock</word>
+				<word number="2">stock in trade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">things</word>
+				<word number="2">traps</word>
+				<word number="3">rattletraps</word>
+				<word number="4">paraphernalia</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="equipment" headRef="662">equipage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="parcels">
+			<sg number="1">
+				<word number="1">parcels</word>
+				<word number="2">appurtenances</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="impedimenta">
+			<sg number="1">
+				<word number="1">impedimenta</word>
+			</sg>
+			<sg number="2">
+				<word number="1">luggage</word>
+				<word number="2">baggage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bag and baggage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pelf</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cargo</word>
+				<word number="2">lading</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="rent roll">
+			<sg number="1">
+				<word number="1">rent roll</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="receipt" headRef="845">income</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maul and wedges</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="patent">
+			<sg number="1">
+				<word number="1">patent</word>
+				<word number="2">copyright</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chose in action</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="credit" headRef="840">credit</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="debt" headRef="841">debt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="possess">
+			<sg number="1">
+				<word number="1" paraRef="possess" headRef="809">possess</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="possessor" headRef="812">be the possessor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">own</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have for one's own</word>
+				<word number="2">have for one's very own</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come in for</word>
+				<word number="2">inherit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="savor of the realty">
+			<sg number="1">
+				<word number="1">savor of the realty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be one's property">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">be one's property</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belong to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appertain to</word>
+				<word number="2">pertain to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="one's own">
+			<sg number="1">
+				<word number="1">one's own</word>
+			</sg>
+			<sg number="2">
+				<word number="1">landed</word>
+				<word number="2">predial</word>
+				<word number="3">manorial</word>
+				<word number="4">allodial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">free lease-hold</word>
+				<word number="2">copy lease-hold</word>
+			</sg>
+			<sg number="4">
+				<word number="1">feudal</word>
+				<word number="2">feodal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to one's credit">
+			<sg number="1">
+				<word number="1">to one's credit</word>
+				<word number="2">to one's account</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to the good</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="to one and his heirs for ever">
+			<sg number="1">
+				<word number="1">to one and his heirs for ever</word>
+				<word number="2">to one and the heirs of his body</word>
+				<word number="3">to one and his heirs and assigns</word>
+				<word number="4">to one and his executors administrators and assigns</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

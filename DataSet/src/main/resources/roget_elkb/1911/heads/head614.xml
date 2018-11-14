@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="614" name="Conversation" origNum="#588." class="5" section="3" subSection="2" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="conversation">
+			<sg number="1">
+				<word number="1">conversation</word>
+				<word number="2">interlocution</word>
+			</sg>
+			<sg number="2">
+				<word number="1">collocution</word>
+				<word number="2">colloquy</word>
+				<word number="3">converse</word>
+				<word number="4">confabulation</word>
+				<word number="5">talk</word>
+				<word number="6">discourse</word>
+				<word number="7">verbal intercourse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oral communication</word>
+				<word number="2">commerce</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dialogue</word>
+				<word number="2">duologue</word>
+				<word number="3">trialogue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="causerie">
+			<sg number="1">
+				<word number="1">causerie</word>
+				<word number="2">chat</word>
+				<word number="3">chitchat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">small talk</word>
+				<word number="2">table talk</word>
+				<word number="3">teatable talk</word>
+				<word number="4">town talk</word>
+				<word number="5">village talk</word>
+				<word number="6">idle talk</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tattle</word>
+				<word number="2">gossip</word>
+				<word number="3">tittle-tattle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">babble</word>
+				<word number="2">babblement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tripotage</word>
+				<word number="2">cackle</word>
+				<word number="3">prittle-prattle</word>
+				<word number="4">cancan</word>
+				<word number="5">on dit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">talk of the town</word>
+				<word number="2">talk of the village</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="conference">
+			<sg number="1">
+				<word number="1">conference</word>
+				<word number="2">parley</word>
+				<word number="3">interview</word>
+				<word number="4">audience</word>
+				<word number="5">pourparler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tete-a-tete</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reception</word>
+				<word number="2">conversazione</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="council" headRef="725">congress</word>
+			</sg>
+			<sg number="5">
+				<word number="1">powwow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hall of audience">
+			<sg number="1">
+				<word number="1">hall of audience</word>
+				<word number="2">durbar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="palaver">
+			<sg number="1">
+				<word number="1">palaver</word>
+				<word number="2">debate</word>
+				<word number="3">logomachy</word>
+				<word number="4">war of words</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="gossip">
+			<sg number="1">
+				<word number="1">gossip</word>
+				<word number="2">tattler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Paul Pry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tabby</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="loquacity" headRef="610">chatterer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="spokesman" headRef="608">interlocutor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conversationist</word>
+				<word number="2">dialogist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="the feast of reason and the flow of soul">
+			<sg number="1">
+				<word number="1">"the feast of reason and the flow of soul"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mollia tempora fandi</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="talk together">
+			<sg number="1">
+				<word number="1">talk together</word>
+				<word number="2">converse</word>
+				<word number="3">confabulate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold on a conversation</word>
+				<word number="2">carry on a conversation</word>
+				<word number="3">join in a conversation</word>
+				<word number="4">engage in a conversation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put in a word</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shine in conversation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bandy words</word>
+			</sg>
+			<sg number="6">
+				<word number="1">parley</word>
+			</sg>
+			<sg number="7">
+				<word number="1">palaver</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chat</word>
+				<word number="2">gossip</word>
+				<word number="3">tattle</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="loquacity" headRef="610">prate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">powwow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="discourse with">
+			<sg number="1">
+				<word number="1">discourse with</word>
+				<word number="2">confer with</word>
+				<word number="3">commune with</word>
+				<word number="4">commerce with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold converse</word>
+				<word number="2">hold conference</word>
+				<word number="3">hold intercourse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">talk it over</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be closeted with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">talk with one in private</word>
+				<word number="2">tete-a-tete</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="conversing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">conversing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">interlocutory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conversational</word>
+				<word number="2">conversable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discursive</word>
+				<word number="2">discoursive</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="sociable" headRef="931">chatty</word>
+			</sg>
+			<sg number="6">
+				<word number="1">colloquial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="with thee conversing I forget all time">
+			<sg number="1">
+				<word number="1">"with thee conversing I forget all time"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

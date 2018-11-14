@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="60" name="Extraneousness" origNum="#57." class="1" section="3" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="extraneousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">extraneousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="extrinsicality" headRef="6">extrinsicality</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="exteriority" headRef="230">exteriority</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alienage</word>
+				<word number="2">alienism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">foreign body</word>
+				<word number="2">foreign substance</word>
+				<word number="3">foreign element</word>
+			</sg>
+			<sg number="6">
+				<word number="1">alien</word>
+				<word number="2">stranger</word>
+				<word number="3">intruder</word>
+				<word number="4">interloper</word>
+				<word number="5">foreigner</word>
+				<word number="6">novus homo</word>
+				<word number="7">newcomer</word>
+				<word number="8">immigrant</word>
+				<word number="9">emigrant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">creole</word>
+				<word number="2">Africander</word>
+			</sg>
+			<sg number="8">
+				<word number="1">outsider</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Dago*</word>
+				<word number="2">wop</word>
+				<word number="3">mick</word>
+				<word number="4">polak</word>
+				<word number="5">greaser</word>
+				<word number="6">slant</word>
+				<word number="7">Easterner</word>
+				<word number="8">Dutchman</word>
+				<word number="9">tenderfoot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="extraneous">
+			<sg number="1">
+				<word number="1">extraneous</word>
+				<word number="2">foreign</word>
+				<word number="3">alien</word>
+				<word number="4">ulterior</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tramontane</word>
+				<word number="2">ultramontane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="excluded">
+			<sg number="1">
+				<word number="1" paraRef="excluded" headRef="58">excluded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inadmissible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exceptional</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in foreign parts">
+			<sg number="1">
+				<word number="1">in foreign parts</word>
+				<word number="2">in foreign lands</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abroad</word>
+				<word number="2">beyond seas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">over sea on one's travels</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>
