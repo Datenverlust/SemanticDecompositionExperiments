@@ -8,7 +8,7 @@
 
 package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
-import de.dailab.nsm.decompostion.graph.test.Rubenstein1965Test;
+
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 import org.junit.After;
 import org.junit.Assert;
@@ -43,11 +43,10 @@ public class SemantiDistanceMeasureTest {
         markerPassingTest.testSynonymPairs.addAll(dataset.ReadExampleDataSet());
         //Run the test
         markerPassingTest.testSynonyms();
-        Assert.assertTrue(markerPassingTest.getCumulativeResultError()<31);
+        Assert.assertTrue(markerPassingTest.getCumulativeResultError() < 31);
         Assert.assertTrue(markerPassingTest.getPearsonCorrelation() > 0.78);
         Assert.assertTrue(markerPassingTest.getSpearmanCorrelation() > 0.62);
     }
-
 
 
 }

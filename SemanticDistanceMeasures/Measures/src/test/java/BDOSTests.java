@@ -7,8 +7,10 @@
  */
 
 import de.dailab.nsm.decomposition.Concept;
+import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.data.*;
+import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
+import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import de.dailab.nsm.semanticDistanceMeasures.measures.BDOS;
 
 import java.util.ArrayList;
@@ -21,10 +23,10 @@ import java.util.Iterator;
 public class BDOSTests {
 
     static Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
-    static Collection<SimilarityPair> testSimilarityPairs = new ArrayList<>();
+    static Collection<DataExample> testSimilarityPairs = new ArrayList<DataExample>();
     BDOS bdos = null;
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("welcome to BDOS Tests");
         BDOSTests test = new BDOSTests();
         test.init();
@@ -65,12 +67,12 @@ public class BDOSTests {
         double averageFailure = 0;
         double i = 0;
 
-        for (SimilarityPair pair : testSimilarityPairs) {
-            Concept word = new Concept(pair.getString1());
-            Concept synonym = new Concept(pair.getString2());
+        for (DataExample pair : testSimilarityPairs) {
+            Concept word = new Concept(((SimilarityPair) pair).getString1());
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             pair.setResult(bdos.compareConcepts(word, synonym));
             System.out.println(pair.getResult());
-            failure = Math.abs(pair.getDistance() - pair.getResult());
+            failure = Math.abs(((SimilarityPair) pair).getDistance() - pair.getResult());
             totalFailure = totalFailure + failure;
             i++;
         }
@@ -102,14 +104,14 @@ public class BDOSTests {
             TestHelpers.filterFar(testSimilarityPairs);
             //System.out.println("Testing Dataset number " + i);
             comparisonTest();
-            testSimilarityPairs = new ArrayList<>();
+            testSimilarityPairs = new ArrayList<de.dailab.nsm.semanticDistanceMeasures.DataExample>();
         }
         /*System.out.println("Failure for all Datasets");
         for (WordSimilarityDataSet dataSet : datasets) {
             testSynonymPairs.addAll(dataSet.ReadExampleDataSet());
         }
         comparisonTest();*/
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<de.dailab.nsm.semanticDistanceMeasures.DataExample>();
     }
 
 }

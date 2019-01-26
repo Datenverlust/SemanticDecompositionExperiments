@@ -9,7 +9,7 @@
 package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.util.*;
 
@@ -68,7 +68,7 @@ public class TestHelpers {
 
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             DataExample pair = (DataExample) iterator.next();
-            if (wordsToFilter.contains(((SynonymPair)pair).getWord()) || wordsToFilter.contains(((SynonymPair)pair).getSynonym())) {
+            if (wordsToFilter.contains(((SimilarityPair) pair).getString1()) || wordsToFilter.contains(((SimilarityPair) pair).getString2())) {
                 iterator.remove();
             }
         }return testSimilarityPairs;

@@ -7,7 +7,7 @@
  */
 
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 
 import java.util.ArrayList;
@@ -37,7 +37,7 @@ public class NfoldCrossValidation {
             int subsamplesCount = Math.round(training.size() / folds);
             for (int i = 0; i < subsamplesCount; i++) {
                 int index = rand.nextInt(training.size());
-                SynonymPair change = (SynonymPair) training.get(index);
+                SimilarityPair change = (SimilarityPair) training.get(index);
                 test.add(change);
                 training.remove(change);
             }
@@ -52,11 +52,11 @@ public class NfoldCrossValidation {
         }
 
 
-        public List<SynonymPair> getTrainingPairs() {
-            ArrayList<SynonymPair> clone = new ArrayList<>(training.size());
+    public List<SimilarityPair> getTrainingPairs() {
+        ArrayList<SimilarityPair> clone = new ArrayList<>(training.size());
 
             for (DataExample pair:training) {
-                clone.add((SynonymPair)pair.clone());
+                clone.add((SimilarityPair) pair.clone());
             }
             return clone;
         }

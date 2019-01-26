@@ -11,9 +11,9 @@ package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.WordType;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.SemanticDistanceTest;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
+import org.deeplearning4j.word2vec.SynonymPair;
 import org.jgrapht.Graph;
 
 import java.util.ArrayList;
@@ -102,7 +102,7 @@ public class SemanticNetworkTest extends SemanticDistanceTest {
                 //     public void run() {
                 //spreadActivation(this.word1, this.wordType1, this.word2, this.wordType2, this.decompositionDepth);
 
-                Graph commonGraph = testDistance(((SynonymPair)pair).getWord(), WordType.NN, ((SynonymPair)pair).getSynonym(), WordType.NN, decompositionDepth);
+                Graph commonGraph = testDistance(((SimilarityPair) pair).getString1(), WordType.NN, ((SimilarityPair) pair).getString2(), WordType.NN, decompositionDepth);
                 //     }
                 // });
             } catch (Exception e) {
@@ -145,13 +145,13 @@ public class SemanticNetworkTest extends SemanticDistanceTest {
         return commonGraph;
     }
 
-    private List<Graph> getWordGraphs(int decompositionDepth, List<SynonymPair> testSet) {
+    private List<Graph> getWordGraphs(int decompositionDepth, List<SimilarityPair> testSet) {
         List<Graph> wordGraphs = new ArrayList<>();
         ArrayList<Future> futures = new ArrayList<Future>();
         ExecutorService pool = Executors.newCachedThreadPool();
-        for (SynonymPair pair : testSet) {
+        for (SimilarityPair pair : testSet) {
             DecompositionCallable callable = new DecompositionCallable();
-            callable.setDecompositionWord(pair.getWord());
+            callable.setDecompositionWord(pair.getString1());
             callable.setWordType(WordType.NN);
             callable.setDecompositionDepth(decompositionDepth);
             Callable<Graph> runnable = callable;

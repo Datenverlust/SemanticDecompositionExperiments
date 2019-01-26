@@ -7,10 +7,10 @@
  */
 
 import de.dailab.nsm.decomposition.Concept;
+import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.*;
 import de.dailab.nsm.semanticDistanceMeasures.measures.ELKB;
-
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -21,7 +21,7 @@ import java.util.Iterator;
  */
 public class ELKBTest {
     static Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
-    static Collection<SimilarityPair> testSimilarityPairs = new ArrayList<>();
+    static Collection<DataExample> testSimilarityPairs = new ArrayList<DataExample>();
 
     public static double averageFailureTest(){
         System.out.println("average Failure Test");
@@ -35,7 +35,7 @@ public class ELKBTest {
             //testSynonymPairs = TestHelpers.filterSynonymPairs(testSynonymPairs);
             System.out.println("Testing Dataset number " + i);
             result = comparisonTest();
-            testSimilarityPairs = new ArrayList<>();
+            testSimilarityPairs = new ArrayList<DataExample>();
         }
     return result;
     }
@@ -53,10 +53,10 @@ public class ELKBTest {
             testSimilarityPairs = TestHelpers.filterFar(testSimilarityPairs);
             //System.out.println("Testing Dataset number " + i);
             result = comparisonTest();
-            testSimilarityPairs = new ArrayList<>();
+            testSimilarityPairs = new ArrayList<DataExample>();
         }
 
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
 
@@ -72,9 +72,9 @@ public class ELKBTest {
             TestHelpers.filterMiddle(testSimilarityPairs);
             //System.out.println("Testing Dataset number " + i);
             result = comparisonTest();
-            testSimilarityPairs = new ArrayList<>();
+            testSimilarityPairs = new ArrayList<DataExample>();
         }
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
 
@@ -90,14 +90,14 @@ public class ELKBTest {
             TestHelpers.filterNear(testSimilarityPairs);
             System.out.println("Testing Dataset number " + i);
             comparisonTest();
-            testSimilarityPairs = new ArrayList<>();
+            testSimilarityPairs = new ArrayList<DataExample>();
         }
         //System.out.println("Failure for all Datasets");
         for (WordSimilarityDataSet dataSet : datasets) {
             testSimilarityPairs.addAll(dataSet.ReadExampleDataSet());
         }
         result = comparisonTest();
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
 
@@ -137,7 +137,7 @@ public class ELKBTest {
         WordSim353DataSet dataSet = new WordSim353DataSet();
             testSimilarityPairs.addAll(dataSet.ReadExampleDataSet());
             result = comparisonTest();
-            testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
 
@@ -153,7 +153,7 @@ public class ELKBTest {
         Rubenstein1965Dataset dataSet = new Rubenstein1965Dataset();
         testSimilarityPairs.addAll(dataSet.ReadExampleDataSet());
         result = comparisonTest();
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
 
@@ -169,7 +169,7 @@ public class ELKBTest {
         MENDataSet dataSet = new MENDataSet();
         testSimilarityPairs.addAll(dataSet.ReadExampleDataSet());
         result = comparisonTest();
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
     /**
@@ -183,7 +183,7 @@ public class ELKBTest {
         MtrukDataSet dataSet = new MtrukDataSet();
         testSimilarityPairs.addAll(dataSet.ReadExampleDataSet());
         result = comparisonTest();
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
     /**
@@ -197,7 +197,7 @@ public class ELKBTest {
         StanfordRareWordSimilarityDataset dataSet = new StanfordRareWordSimilarityDataset();
         testSimilarityPairs.addAll(dataSet.ReadExampleDataSet());
         result = comparisonTest();
-        testSimilarityPairs = new ArrayList<>();
+        testSimilarityPairs = new ArrayList<DataExample>();
         return result;
     }
 
@@ -206,34 +206,19 @@ public class ELKBTest {
     public static double comparisonTest() {
         ELKB conceptCompare = new ELKB();
         conceptCompare.init();
-        /*if (testSynonymPairs.size() < 1) {
-            init();
-        }*/
         double failure = 0;
         double totalFailure = 0;
         double averageFailure = 0;
         double i = 0;
-        for (SimilarityPair pair : testSimilarityPairs) {
-
-            Concept word = new Concept(pair.getString1());
-            Concept synonym = new Concept(pair.getString2());
+        for (DataExample pair : testSimilarityPairs) {
+            Concept word = new Concept(((SimilarityPair) pair).getString1());
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             pair.setResult(conceptCompare.compareConcepts(word, synonym));
-            failure = Math.abs(pair.getResult() -pair.getDistance());
-            //System.out.println(pair.getDistance());
-            //System.out.println(pair.getResult());
-            //System.out.println(i);
-            //System.out.print("\""+ pair.getString1() + "\"" + ","+ "\""+ pair.getString2()+"\""+",");
-            //System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getDistance());
-            //System.out.println("failure " + failure);
+            failure = Math.abs(pair.getResult() - ((SimilarityPair) pair).getDistance());
             totalFailure = totalFailure + failure;
             i ++;
         }
-        //System.out.println("total Failure " + totalFailure);
         averageFailure = totalFailure/i;
-        //System.out.println("average Failure " + averageFailure);
-        /*for (de.dailab.nsm.semanticDistanceMeasures.SynonymPair pair : testSynonymPairs) {
-            System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getDistance());
-        }*/
     return averageFailure;
     }
 }

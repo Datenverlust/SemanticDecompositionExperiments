@@ -9,25 +9,22 @@
 package de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner;
 
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.DataSet;
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-import java.util.function.Consumer;
 
 /**
  * Created by faehndrich on 03.04.16.
  */
 public class NfoldCrossvalidation {
-    private static NfoldCrossvalidation instance;
     static List<DataExample> training = new ArrayList<>(65);
     static List<DataExample> test = new ArrayList<>(65);
+    private static NfoldCrossvalidation instance;
     Rubenstein1965Dataset dataset = new Rubenstein1965Dataset();
-//    WordSim353DataSet dataset = new WordSim353DataSet();
+    //    WordSim353DataSet dataset = new WordSim353DataSet();
     private Random rand = new Random();
 
     private NfoldCrossvalidation() {
@@ -53,7 +50,7 @@ public class NfoldCrossvalidation {
 
 
     public static synchronized NfoldCrossvalidation getInstance(int folds, DataSet dataset) {
-        if(instance == null){
+        if (instance == null) {
             instance = new NfoldCrossvalidation(folds, dataset);
         }
         return instance;
@@ -62,8 +59,8 @@ public class NfoldCrossvalidation {
 
     public List<DataExample> getTrainingPairs() {
         ArrayList<DataExample> clone = new ArrayList<>(training.size());
-        for (DataExample pair:training) {
-            clone.add((DataExample)pair.clone());
+        for (DataExample pair : training) {
+            clone.add((DataExample) pair.clone());
         }
         return clone;
     }

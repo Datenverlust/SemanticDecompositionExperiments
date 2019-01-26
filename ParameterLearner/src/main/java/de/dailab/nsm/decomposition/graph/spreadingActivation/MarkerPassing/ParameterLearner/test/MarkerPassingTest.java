@@ -19,7 +19,7 @@ import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.Doubl
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.SemanticDistanceTest;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.TestRunnable;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.tuberlin.spreadalgo.Marker;
 import de.tuberlin.spreadalgo.Node;
 import org.jgrapht.Graph;
@@ -209,19 +209,18 @@ public class MarkerPassingTest extends SemanticDistanceTest {
         return doubleActiveNodes;
     }
 
-
     @Override
     public void test() {
         for (DataExample p : testSynonymPairs) {
             try {
-                SynonymPair pair = (SynonymPair)p;
+                SimilarityPair pair = (SimilarityPair) p;
                 TestRunnable test = new TestRunnable() {
                     int decompositionDepth = 1;
                     @Override
                     public void run() {
                         //spreadActivation(this.word1, this.wordType1, this.word2, this.wordType2, this.decompositionDepth);
-                        pair.setResult(passMarker(pair.getWord(), WordType.NN, pair.getSynonym(), WordType.NN, decompositionDepth,100,2.0,2.0, DoubleNodeWithMultipleThresholds.class));
-                        System.out.println(pair.getWord() + ";" + pair.getSynonym() + ";" + pair.getResult() + ";" + pair.getResult());
+                        pair.setResult(passMarker(pair.getString1(), WordType.NN, pair.getString2(), WordType.NN, decompositionDepth, 100, 2.0, 2.0, DoubleNodeWithMultipleThresholds.class));
+                        System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getResult());
                     }
                 };
                 test.setPair(pair);

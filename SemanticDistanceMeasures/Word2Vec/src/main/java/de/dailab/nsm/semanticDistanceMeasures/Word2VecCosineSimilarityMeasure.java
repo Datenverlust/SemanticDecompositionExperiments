@@ -27,7 +27,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -46,7 +45,8 @@ public class Word2VecCosineSimilarityMeasure {
     String path2writeVector = null;
     String path2writeMatrix = null;
     WordVectors wordVectors = null;
-    public Word2VecCosineSimilarityMeasure(){
+
+    public Word2VecCosineSimilarityMeasure() {
         this.init();
     }
 
@@ -66,11 +66,11 @@ public class Word2VecCosineSimilarityMeasure {
         } catch (Exception e) {
             e.printStackTrace();
             try {
-                DictUtil.deleteFile(path2writeVector+ File.separator + currentCorpus);
-                DictUtil.downloadFileParalell(source + corpusName, path2writeVector+ File.separator + corpusName);
-                ReadWriteTextFile.cleanCorpus(path2writeVector+ File.separator + corpusName, path2writeVector + File.separator + currentCorpus);
-                wordVectors = WordVectorSerializer.loadTxtVectors(new File( path2writeVector + File.separator + currentCorpus));
-                DictUtil.deleteFile(path2writeVector+ File.separator + corpusName);
+                DictUtil.deleteFile(path2writeVector + File.separator + currentCorpus);
+                DictUtil.downloadFileParalell(source + corpusName, path2writeVector + File.separator + corpusName);
+                ReadWriteTextFile.cleanCorpus(path2writeVector + File.separator + corpusName, path2writeVector + File.separator + currentCorpus);
+                wordVectors = WordVectorSerializer.loadTxtVectors(new File(path2writeVector + File.separator + currentCorpus));
+                DictUtil.deleteFile(path2writeVector + File.separator + corpusName);
 
             } catch (IOException e1) {
                 e1.printStackTrace();
@@ -133,6 +133,7 @@ public class Word2VecCosineSimilarityMeasure {
 
     /**
      * Find the similarity as cosine similarity with the deeplearning4j framework.
+     *
      * @param c1 the concept which should be
      * @param c2
      * @return

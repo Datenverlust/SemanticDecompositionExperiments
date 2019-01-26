@@ -9,7 +9,6 @@
 package de.dailab.nsm.semanticDistanceMeasures;
 
 
-
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
 import org.deeplearning4j.models.embeddings.wordvectors.WordVectors;
 import org.deeplearning4j.word2vec.SynonymPair;
@@ -23,24 +22,24 @@ import java.util.*;
 public class littleTest {
 
     static Collection<SynonymPair> testSynonymPairs = new ArrayList<>();
-    public static void main(String... aArgs){
+
+    public static void main(String... aArgs) {
 
 
         try {
-        WordVectors wordVectors = WordVectorSerializer.loadTxtVectors(new File("words.txt"));
+            WordVectors wordVectors = WordVectorSerializer.loadTxtVectors(new File("words.txt"));
             //Collection<String> lst = wordVectors.wordsNearest("cat", 10);
             //System.out.println("10 closest to cat:"+lst);
             Collection<SynonymPair> myPairs = SynonymPair.fillTestOnlyFarWords();
             //Collection<SynonymPair> myPairs = filterSynonymPairs(myPairs1);
-
-            for (SynonymPair pair : myPairs){
+            for (SynonymPair pair : myPairs) {
                 String word = pair.getWord();
                 String synonym = pair.getSynonym();
                 pair.setResult(wordVectors.similarity(word, synonym));
                 System.out.println(pair.getResult());
             }
 
-        }catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
@@ -57,6 +56,7 @@ public class littleTest {
             if (wordsToFilter.contains(pair.getWord()) || wordsToFilter.contains(pair.getSynonym())) {
                 iterator.remove();
             }
-        }return testSynonymPairs;
+        }
+        return testSynonymPairs;
     }
 }

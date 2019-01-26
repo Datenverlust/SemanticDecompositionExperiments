@@ -10,12 +10,12 @@ package de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.Para
 
 import de.dailab.nsm.decomposition.Decomposition;
 import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.SemanticNetworkVisualizer;
+import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
@@ -57,9 +57,9 @@ public abstract class SemanticDistanceTest {
         /*
         Sort the synonym pairs so that they are sortet from more likely to less likely.
          */
-        Collections.sort((List)testSynonymPairs, new Comparator<SynonymPair>() {
+        Collections.sort((List) testSynonymPairs, new Comparator<SimilarityPair>() {
             @Override
-            public int compare(SynonymPair o1, SynonymPair o2) {
+            public int compare(SimilarityPair o1, SimilarityPair o2) {
                 if (o1.getResult() - o2.getResult() < 0) {
                     return 1;
                 } else if (o1.getResult() == o2.getResult()) {

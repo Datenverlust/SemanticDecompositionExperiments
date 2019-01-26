@@ -6,14 +6,14 @@
  *
  */
 
-package de.dailab.nsm.semanticDistanceMeasures.tests;
+package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
-import de.dailab.nsm.semanticDistanceMeasures.data.*;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
+import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import de.dailab.nsm.semanticDistanceMeasures.measures.BDOS;
-import de.dailab.nsm.semanticDistanceMeasures.measures.test.TestHelpers;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -28,7 +28,7 @@ public class BDOSTests {
     static Collection<DataExample> testSynonymPairs = new ArrayList<DataExample>();
     BDOS bdos = null;
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("welcome to BDOS Tests");
         BDOSTests test = new BDOSTests();
         test.init();
@@ -70,8 +70,8 @@ public class BDOSTests {
         double i = 0;
 
         for (DataExample pair : testSynonymPairs) {
-            Concept word = new Concept(((SynonymPair)pair).getWord());
-            Concept synonym = new Concept(((SynonymPair)pair).getSynonym());
+            Concept word = new Concept(((SimilarityPair) pair).getString1());
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             pair.setResult(bdos.compareConcepts(word, synonym));
             System.out.println(pair.getResult());
             failure = Math.abs(pair.getTrueResult() - pair.getResult());

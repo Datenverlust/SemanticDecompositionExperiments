@@ -11,7 +11,7 @@ package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.graph.Evaluation;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
 import org.junit.After;
 import org.junit.Assert;
@@ -44,81 +44,80 @@ public class EvaluationTest {
      */
     @Test
     public void testPearsonCorrelation() {
-        List<SynonymPair> testpairs = createPearsonExampleDataCorrelated();
+        List<SimilarityPair> testpairs = createPearsonExampleDataCorrelated();
         double pearsonCorrelation = Evaluation.PearsonCorrelation(testpairs);
         double realPearson = (1);
         Assert.assertEquals(realPearson, pearsonCorrelation, 0.00000000001);
-
     }
 
-    private List<SynonymPair> createPearsonExampleDataCorrelated() {
-        List<SynonymPair> testpairs = new ArrayList<>(5);
-        SynonymPair p1 = new SynonymPair("", "", 1);
+    private List<SimilarityPair> createPearsonExampleDataCorrelated() {
+        List<SimilarityPair> testpairs = new ArrayList<>(5);
+        SimilarityPair p1 = new SimilarityPair("", "", 1);
         p1.setResult(0.11);
         testpairs.add(p1);
-        SynonymPair p2 = new SynonymPair("", "", 2);
+        SimilarityPair p2 = new SimilarityPair("", "", 2);
         p2.setResult(0.12);
         testpairs.add(p2);
-        SynonymPair p3 = new SynonymPair("", "", 3);
+        SimilarityPair p3 = new SimilarityPair("", "", 3);
         p3.setResult(0.13);
         testpairs.add(p3);
-        SynonymPair p4 = new SynonymPair("", "", 5);
+        SimilarityPair p4 = new SimilarityPair("", "", 5);
         p4.setResult(0.15);
         testpairs.add(p4);
-        SynonymPair p5 = new SynonymPair("", "", 8);
+        SimilarityPair p5 = new SimilarityPair("", "", 8);
         p5.setResult(0.18);
         testpairs.add(p5);
         return testpairs;
     }
 
     /**
-     * Method: SpearmanCorrelation(Collection<SynonymPair> experimantResult)
+     * Method: SpearmanCorrelation(Collection<SimilarityPair> experimantResult)
      */
     @Test
     public void testSpearmanCorrelation() {
-        List<SynonymPair> testpairs = CreateSpearmanExampleData();
+        List<SimilarityPair> testpairs = CreateSpearmanExampleData();
         double spearmanCorrelation = Evaluation.SpearmanCorrelation(testpairs);
         double realsSpearson = (-29d / 165d);
         Assert.assertEquals(realsSpearson, spearmanCorrelation, 0.00000000001);
     }
 
-    private List<SynonymPair> CreateSpearmanExampleData() {
-        List<SynonymPair> testpairs = new ArrayList<>(10);
-        SynonymPair p1 = new SynonymPair("", "", 86);
+    private List<SimilarityPair> CreateSpearmanExampleData() {
+        List<SimilarityPair> testpairs = new ArrayList<>(10);
+        SimilarityPair p1 = new SimilarityPair("", "", 86);
         p1.setResult(0);
         testpairs.add(p1);
-        SynonymPair p2 = new SynonymPair("", "", 97);
+        SimilarityPair p2 = new SimilarityPair("", "", 97);
         p2.setResult(20);
         testpairs.add(p2);
-        SynonymPair p3 = new SynonymPair("", "", 99);
+        SimilarityPair p3 = new SimilarityPair("", "", 99);
         p3.setResult(28);
         testpairs.add(p3);
-        SynonymPair p4 = new SynonymPair("", "", 100);
+        SimilarityPair p4 = new SimilarityPair("", "", 100);
         p4.setResult(27);
         testpairs.add(p4);
-        SynonymPair p5 = new SynonymPair("", "", 101);
+        SimilarityPair p5 = new SimilarityPair("", "", 101);
         p5.setResult(50);
         testpairs.add(p5);
-        SynonymPair p6 = new SynonymPair("", "", 103);
+        SimilarityPair p6 = new SimilarityPair("", "", 103);
         p6.setResult(29);
         testpairs.add(p6);
-        SynonymPair p7 = new SynonymPair("", "", 106);
+        SimilarityPair p7 = new SimilarityPair("", "", 106);
         p7.setResult(7);
         testpairs.add(p7);
-        SynonymPair p8 = new SynonymPair("", "", 110);
+        SimilarityPair p8 = new SimilarityPair("", "", 110);
         p8.setResult(17);
         testpairs.add(p8);
-        SynonymPair p9 = new SynonymPair("", "", 112);
+        SimilarityPair p9 = new SimilarityPair("", "", 112);
         p9.setResult(6);
         testpairs.add(p9);
-        SynonymPair p10 = new SynonymPair("", "", 113);
+        SimilarityPair p10 = new SimilarityPair("", "", 113);
         p10.setResult(12);
         testpairs.add(p10);
         return testpairs;
     }
 
     /**
-     * Method: normalize(Collection<SynonymPair> experimantResult)
+     * Method: normalize(Collection<SimilarityPair> experimantResult)
      */
     @Test
     public void testNormalize() {

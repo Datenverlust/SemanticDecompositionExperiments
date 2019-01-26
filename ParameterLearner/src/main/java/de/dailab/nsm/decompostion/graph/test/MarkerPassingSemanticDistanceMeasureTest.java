@@ -14,7 +14,7 @@ import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.Marke
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.MarkerPassingSemanticDistanceMeasure;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.SemanticDistanceTest;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.TestRunnable;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.util.List;
 
@@ -31,15 +31,15 @@ public class MarkerPassingSemanticDistanceMeasureTest extends SemanticDistanceTe
 
     @Override
     public void test() {
-        List<SynonymPair> test = (List)testSynonymPairs;
-        for (SynonymPair pair : test) {
+        List<SimilarityPair> test = (List) testSynonymPairs;
+        for (SimilarityPair pair : test) {
             try {
                 TestRunnable testr = new TestRunnable() {
                     @Override
                     public void run() {
                         //spreadActivation(this.word1, this.wordType1, this.word2, this.wordType2, this.decompositionDepth);
-                        pair.setResult(MarkerPassingSemanticDistanceMeasure.passMarker(pair.getWord(), WordType.NN, pair.getSynonym(), WordType.NN, MarkerPassingConfig.getDecompositionDepth(), MarkerPassingConfig.getStartActivation(), MarkerPassingConfig.getThreshold(), MarkerPassingConfig.getThreshold(), DoubleNodeWithMultipleThresholds.class));
-                        System.out.println(pair.getWord() + ";" + pair.getSynonym() + ";" + pair.getResult() + ";" + pair.getResult());
+                        pair.setResult(MarkerPassingSemanticDistanceMeasure.passMarker(pair.getString1(), WordType.NN, pair.getString2(), WordType.NN, MarkerPassingConfig.getDecompositionDepth(), MarkerPassingConfig.getStartActivation(), MarkerPassingConfig.getThreshold(), MarkerPassingConfig.getThreshold(), DoubleNodeWithMultipleThresholds.class));
+                        System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getResult());
                     }
                 };
                 testr.setPair(pair);

@@ -8,8 +8,9 @@
 
 import de.dailab.nsm.decomposition.WordType;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.measures.SemanticDistanceTest;
+import de.dailab.nsm.semanticDistanceMeasures.measures.test.SemanticDistanceTest;
 import org.jgrapht.Graph;
 
 import java.util.ArrayList;
@@ -90,7 +91,7 @@ public class SemanticNetworkTest extends SemanticDistanceTest {
     @Override
     public void test() {
         System.out.println("Word;Synonym;WordVerteces;SynonymVerteces;WordEdges;SynonymEdges;CommonVerteces;ComonEdges");
-        for (SimilarityPair pair : testSimilarityPairs) {
+        for (DataExample pair : testSynonymPairs) {
             try {
                 //threadPoolExecutor.submit(new TestRunnable() {
                 int decompositionDepth = 2;
@@ -98,7 +99,7 @@ public class SemanticNetworkTest extends SemanticDistanceTest {
                 //     public void run() {
                 //spreadActivation(this.word1, this.wordType1, this.word2, this.wordType2, this.decompositionDepth);
 
-                Graph commonGraph = testDistance(pair.getString1(), WordType.NN, pair.getString2(), WordType.NN, decompositionDepth);
+                Graph commonGraph = testDistance(((SimilarityPair) pair).getString1(), WordType.NN, ((SimilarityPair) pair).getString2(), WordType.NN, decompositionDepth);
                 //     }
                 // });
             } catch (Exception e) {

@@ -8,13 +8,8 @@
 
 package de.dailab.nsm.decompostion.ssd;
 
-import de.dailab.nsm.decomposition.graph.Evaluation;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.MarkerPassingConfigurationEvaluator;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.NfoldCrossvalidation;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
-import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 
 import java.util.List;
 
@@ -36,6 +31,7 @@ public class MarkerPassingConfigurationEvaluation4SentenceSimilarity extends Mar
                              List<? extends MarkerPassingConfig> population) {
         return evaluateIndividual(candidate);
     }
+
     @Override
     public double evaluateIndividual(MarkerPassingConfig candidate) {
         //TODO: unclear which data set to use here. The unclear which concrete DataExample implementation (subclass) to use

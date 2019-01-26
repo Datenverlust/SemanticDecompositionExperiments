@@ -7,10 +7,11 @@
  */
 
 import de.dailab.nsm.decomposition.Concept;
+import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
-import de.dailab.nsm.semanticDistanceMeasures.data.*;
-
+import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
+import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -21,9 +22,10 @@ import java.util.Collection;
 public class Word2VecTest {
 
     static Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
-    static Collection<SimilarityPair> testSimilarityPairs = new ArrayList<>();
+    static Collection<DataExample> testSimilarityPairs = new ArrayList<>();
     Word2VecCosineSimilarityMeasure word2VecCosineSimilarityMeasure = null;
-    public static void main(String args[]) {
+
+    public static void main(String[] args) {
         System.out.println("Welcome to Word2Vec Comparison Test");
         Word2VecTest test = new Word2VecTest();
         test.init();
@@ -64,17 +66,17 @@ public Word2VecTest(){
         double totalFailure = 0;
         double averageFailure = 0;
         double i = 0;
-        for (SimilarityPair pair : testSimilarityPairs) {
+        for (DataExample pair : testSimilarityPairs) {
 
-            Concept word = new Concept(pair.getString1());
-            Concept synonym = new Concept(pair.getString2());
+            Concept word = new Concept(((SimilarityPair) pair).getString1());
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             try {
                 pair.setResult(word2VecCosineSimilarityMeasure.findSim(word, synonym));
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            failure = Math.abs(pair.getResult() - pair.getDistance());
-            System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getDistance());
+            failure = Math.abs(pair.getResult() - ((SimilarityPair) pair).getDistance());
+            System.out.println(((SimilarityPair) pair).getString1() + ";" + ((SimilarityPair) pair).getString2() + ";" + pair.getResult() + ";" + ((SimilarityPair) pair).getDistance());
             totalFailure = totalFailure + failure;
             i++;
         }

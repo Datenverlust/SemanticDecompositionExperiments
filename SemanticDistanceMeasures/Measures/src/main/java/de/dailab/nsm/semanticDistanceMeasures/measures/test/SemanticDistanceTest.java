@@ -6,16 +6,15 @@
  *
  */
 
-package de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner;
+package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.Decomposition;
 import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.SemanticNetworkVisualizer;
+import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import org.jgrapht.Graph;
@@ -32,7 +31,7 @@ import java.util.concurrent.Executors;
 public abstract class SemanticDistanceTest {
     static MarkerPassingConfig markerPassingConfig = new MarkerPassingConfig();
     static SemanticNetworkVisualizer graphVirtualizer;
-    protected Collection<DataExample> testSynonymPairs = new ArrayList<>();
+    public Collection<DataExample> testSynonymPairs = new ArrayList<>();
     protected ExecutorService threadPoolExecutor = Executors.newFixedThreadPool(1);//Runtime.getRuntime().availableProcessors());
     Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
 
@@ -84,6 +83,10 @@ public abstract class SemanticDistanceTest {
      * @param decompositionDepth the decomposition depth of the words decomposition
      */
     private static void drawGraph(Graph graph, String decompositionWord, int decompositionDepth) {
+        visulizGraph(graph, decompositionWord, decompositionDepth, graphVirtualizer);
+    }
+
+    public static void visulizGraph(Graph graph, String decompositionWord, int decompositionDepth, SemanticNetworkVisualizer graphVirtualizer) {
         graphVirtualizer.setGraph(graph);
         graphVirtualizer.init(decompositionWord, WordType.UNKNOWN, decompositionDepth);
         JFrame frame = new JFrame();
@@ -107,11 +110,8 @@ public abstract class SemanticDistanceTest {
         Graph commonGraph = new ListenableDirectedGraph(WeightedEdge.class);
 
         //add all nodes which the two graphs have in common.
-        for (Object g1 : graphword1.vertexSet()) {
-            if (graphword2.containsVertex(g1)) {
-                commonGraph.addVertex(g1);
-            }
-        }
+        for (Object g1 : graphword1.vertexSet())
+            if (graphword2.containsVertex(g1)) commonGraph.addVertex(g1);
         //add all edges the two graphs have in common.
         for (WeightedEdge edge : GraphUtil.getCommonEdges(graphword1, graphword2)) {
             commonGraph.addEdge(edge.getSource(), edge.getTarget(), edge);

@@ -8,9 +8,11 @@
 
 package de.dailab.nsm.decompostion.ssd;
 
+import de.dailab.nsm.decomposition.graph.Evaluation;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.MSRvid;
+import org.apache.log4j.Logger;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -19,19 +21,18 @@ import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.List;
-import org.apache.log4j.Logger;
-import de.dailab.nsm.decomposition.graph.Evaluation;
 
 
 public class MSRVidGoldStandard {
     private static final Logger logger = Logger.getLogger(MSRVidGoldStandard.class);
+
     /**
      * Runs the MSRvid gold standard data set from STS-12
      * and write the results to MSRvid_Result.txt and console.
      *
-     * @param top                The number of test data pairs which should be processed.
+     * @param top The number of test data pairs which should be processed.
      */
-    private void runGoldStandard( int top, String gsFile, String inputFile) {
+    private void runGoldStandard(int top, String gsFile, String inputFile) {
 
         SentenceSemanticSimilarityMeasure sssm = new SentenceSemanticSimilarityMeasure();
 
@@ -43,16 +44,15 @@ public class MSRVidGoldStandard {
         double cumulativeResultError = 0;
         // run data set
 
-        for (SynonymPair pair : ((List<SynonymPair>)dataSet)) {
-            double result = sssm.compare(pair.getWord(), pair.getSynonym());
-            if(Double.isNaN(result)){
+        for (SimilarityPair pair : ((List<SimilarityPair>) dataSet)) {
+            double result = sssm.compare(pair.getString1(), pair.getString2());
+            if (Double.isNaN(result)) {
                 result = 0.5;
             }
             pair.setResult(result);
-            logger.info(pair.getWord() + ";" + pair.getSynonym() + ";" + df.format(pair.getTrueResult()) + ";" + df.format((pair.getResult())));
+            logger.info(pair.getString1() + ";" + pair.getString2() + ";" + df.format(pair.getTrueResult()) + ";" + df.format((pair.getResult())));
             cumulativeResultError += (Math.abs(pair.getTrueResult() - pair.getResult()));
         }
-
 
         System.out.println("SpearmanCorrelation: " + Evaluation.SpearmanCorrelation(dataSet));
         System.out.println("PearsonCorrelation: " + Evaluation.PearsonCorrelation(dataSet));
@@ -64,10 +64,10 @@ public class MSRVidGoldStandard {
             //String rulstPath = System.getProperty("user.home").toString() + File.separator + ".Decomposition" + File.separator + "Experiments"+ File.separator + "SentenceSimilarity";
             PrintWriter writer = new PrintWriter(timeStamp + "_MSRvid_Result.csv", "UTF-8");
             writer.println("Sentence1;Sentence2;STS12Distance;OurResult");
-            for (SynonymPair pair : ((List<SynonymPair>)dataSet)) {
+            for (SimilarityPair pair : ((List<SimilarityPair>) dataSet)) {
                 double should = pair.getTrueResult();
                 double is = pair.getResult();
-                String result = pair.getWord() + ";" + pair.getSynonym() + ";" + df.format(should) + ";" + df.format(is);
+                String result = pair.getString1() + ";" + pair.getString2() + ";" + df.format(should) + ";" + df.format(is);
                 writer.println(result);
             }
             writer.close();

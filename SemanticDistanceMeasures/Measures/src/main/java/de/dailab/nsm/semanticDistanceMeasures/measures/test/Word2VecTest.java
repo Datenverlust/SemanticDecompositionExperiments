@@ -10,7 +10,7 @@ package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
@@ -27,17 +27,24 @@ public class Word2VecTest {
     static Collection<DataExample> testSynonymPairs = new ArrayList<>();
     Word2VecCosineSimilarityMeasure word2VecCosineSimilarityMeasure = null;
 
-    public static void main(String args[]) {
-        System.out.println("Welcome to Word2Vec Comparison Test");
-        Word2VecTest test = new Word2VecTest();
-        test.init();
-        test.VecTest();
-    }
-
     public Word2VecTest() {
         this.init();
     }
 
+    public static void main(String[] args) {
+        System.out.println("Welcome to Word2Vec Comparison Test");
+        Word2VecTest test = new Word2VecTest();
+        test.init();
+        test.W2VTest();
+    }
+
+    /**
+     * Initialize the data sets you want to use in your test. Data sets availiable are:
+     * Rubenstein1965Dataset
+     * MENDataSet
+     * MtrukDataSet
+     * StanfordRareWordSimilarityDataset
+     */
     public void init() {
         //Load de.dailab.nsm.semanticDistanceMeasures.data sets
         //1
@@ -62,7 +69,10 @@ public class Word2VecTest {
         word2VecCosineSimilarityMeasure = new Word2VecCosineSimilarityMeasure();
     }
 
-    public void VecTest() {
+    /**
+     * This test the Word 2 Vec implementation. It put the result out to the terminal.
+     */
+    public void W2VTest() {
 
         double failure = 0;
         double totalFailure = 0;
@@ -70,24 +80,20 @@ public class Word2VecTest {
         double i = 0;
         for (DataExample pair : testSynonymPairs) {
 
-            Concept word = new Concept(((SynonymPair) pair).getWord());
-            Concept synonym = new Concept(((SynonymPair) pair).getSynonym());
+            Concept word = new Concept(((SimilarityPair) pair).getString1());
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             try {
                 pair.setResult(word2VecCosineSimilarityMeasure.findSim(word, synonym));
             } catch (Exception e) {
                 e.printStackTrace();
             }
             failure = Math.abs(pair.getResult() - pair.getTrueResult());
-            System.out.println(((SynonymPair) pair).getWord() + ";" + ((SynonymPair) pair).getSynonym() + ";" + pair.getResult() + ";" + pair.getResult());
+            System.out.println(((SimilarityPair) pair).getString1() + ";" + ((SimilarityPair) pair).getString2() + ";" + pair.getResult() + ";" + pair.getResult());
             totalFailure = totalFailure + failure;
             i++;
         }
         System.out.println("total Failure " + totalFailure);
         averageFailure = totalFailure / i;
         System.out.println("average Failure " + averageFailure);
-        /*for (de.dailab.nsm.semanticDistanceMeasures.SynonymPair pair : testSynonymPairs) {
-            System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getDistance());
-        }*/
-
     }
 }

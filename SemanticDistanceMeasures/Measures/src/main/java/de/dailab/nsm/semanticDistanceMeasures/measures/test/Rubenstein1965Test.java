@@ -5,8 +5,7 @@
  * Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
  *
  */
-
-package de.dailab.nsm.decompostion.graph.test;
+package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.decomposition.WordType;
@@ -14,17 +13,15 @@ import de.dailab.nsm.decomposition.graph.Evaluation;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.MarkerPassingSemanticDistanceMeasure;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import de.dailab.nsm.semanticDistanceMeasures.measures.BDOS;
 import de.dailab.nsm.semanticDistanceMeasures.measures.ELKB;
 import org.apache.log4j.Logger;
 
-import javax.xml.crypto.Data;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
@@ -35,8 +32,8 @@ import java.util.concurrent.TimeUnit;
 public class Rubenstein1965Test {
 
     static final Logger logger = Logger.getLogger(Rubenstein1965Test.class);
-    Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
     public Collection<DataExample> testSynonymPairs = new ArrayList<>();
+    Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
     ELKB elkb = null;
     BDOS bdos = null;
     //Word2VecSemanticDistanceMeasure word2VecSemanticDistanceMeasure = null;
@@ -47,7 +44,7 @@ public class Rubenstein1965Test {
     private double pearsonCorrelation;
     private MarkerPassingConfig markerPassingConfig = new MarkerPassingConfig();
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Welcome to rubenstein1965Dataset Comparison Test");
         Rubenstein1965Test test = new Rubenstein1965Test();
         test.init();
@@ -127,8 +124,8 @@ public class Rubenstein1965Test {
         double cumulativeResultError = 0.0;
         for (DataExample pair : testSynonymPairs) {
 
-            Concept word = new Concept(((SynonymPair) pair).getWord(), WordType.UNKNOWN); //TODO: OK, for Rubenstein1965 but for other thest the POS is not fix
-            Concept synonym = new Concept(((SynonymPair) pair).getSynonym(), WordType.UNKNOWN); //TODO: OK, for Rubenstein1965 but for other thest the POS is not fix
+            Concept word = new Concept(((SimilarityPair) pair).getString1(), WordType.UNKNOWN); //TODO: OK, for Rubenstein1965 but for other thest the POS is not fix
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2(), WordType.UNKNOWN); //TODO: OK, for Rubenstein1965 but for other thest the POS is not fix
             long bevorTest = System.nanoTime();
 //            double bdosResult = bdos.compareConcepts(word, synonym);
             long afterTest = System.nanoTime();
@@ -144,13 +141,13 @@ public class Rubenstein1965Test {
             bevorTest = System.nanoTime();
             double markerPassingResult = semanticDistanceMarkerPassing.compareConcepts(word, synonym);
             afterTest = System.nanoTime();
-            logger.info("MP took " + Long.toString(afterTest - bevorTest) + "ns to compare " + word.getLitheral() + " and " + synonym.getLitheral() + "to: " + markerPassingResult);
+            logger.info("MP took " + (afterTest - bevorTest) + "ns to compare " + word.getLitheral() + " and " + synonym.getLitheral() + "to: " + markerPassingResult);
             pair.setResult(markerPassingResult);
 //            System.out.println(pair.getWord() + ";" + pair.getSynonym() + ";" + pair.getTrueResult() + ";" + bdosResult + ";" + elkBresult + ";" + word2VecResult + ";" + pair.getResult());
-            System.out.println(((SynonymPair) pair).getWord() + ";" + ((SynonymPair) pair).getSynonym() + ";" + pair.getTrueResult() + ";" + pair.getResult());
+            System.out.println(((SimilarityPair) pair).getString1() + ";" + ((SimilarityPair) pair).getString2() + ";" + pair.getTrueResult() + ";" + pair.getResult());
             cumulativeResultError += (Math.abs(pair.getTrueResult() - pair.getResult()));
         }
-        Evaluation.normalize((List<DataExample>) testSynonymPairs);
+        Evaluation.normalize(testSynonymPairs);
         System.out.println("SpearmanCorrelation: " + Evaluation.SpearmanCorrelation(testSynonymPairs));
         System.out.println("PearsonCorrelation: " + Evaluation.PearsonCorrelation(testSynonymPairs));
         return cumulativeResultError;
@@ -164,16 +161,20 @@ public class Rubenstein1965Test {
      */
     public double calculateCorrelationCoefficient() {
         double cumulativeResultError = getCumulativeResultError();
+        calculateCorrelations();
+        return cumulativeResultError;
+    }
+
+    private void calculateCorrelations() {
         spearmanCorrelation = Evaluation.SpearmanCorrelation(testSynonymPairs);
         pearsonCorrelation = Evaluation.PearsonCorrelation(testSynonymPairs);
         System.out.println("SpearmanCorrelation: " + spearmanCorrelation);
         System.out.println("PearsonCorrelation: " + pearsonCorrelation);
-        return cumulativeResultError;
     }
 
     /**
      * Test the given test collection with a marker passing algorithm and normalizes the results. The calculated
-     * semantic distance is stored in the test data set {@see SynonymPair}.
+     * semantic distance is stored in the test data set {@see SimilarityPair}.
      *
      * @return the cumulative distance from the test data (human prediction of semantic similarity) to the
      * results of the algorithm.
@@ -182,7 +183,7 @@ public class Rubenstein1965Test {
         double cumulativeResultError = 0.0;
         int counter = 0;
         for (DataExample pair : testSynonymPairs) {
-            double markerPassingResult = semanticDistanceMarkerPassing.compareConcepts(new Concept(((SynonymPair) pair).getWord(), WordType.NN), new Concept(((SynonymPair) pair).getSynonym(), WordType.NN));
+            double markerPassingResult = semanticDistanceMarkerPassing.compareConcepts(new Concept(((SimilarityPair) pair).getString1(), WordType.NN), new Concept(((SimilarityPair) pair).getString2(), WordType.NN));
             pair.setResult(markerPassingResult);
             System.out.print('\r');
             System.out.print("Progress: " + ++counter + " of " + testSynonymPairs.size());
@@ -205,13 +206,13 @@ public class Rubenstein1965Test {
         //System.out.println("Word" + ";" + "Synonym" + ";" + "Humans" + ";" + "BDOS" + ";" + "ELKB" + ";" + "Word2Vec" + ";" + "MarkerPassing");
         //The graph cache is not thread save. We want to disable it here.
 
-        markerPassingConfig.setUseGraphCache(false);
+        MarkerPassingConfig.setUseGraphCache(false);
         for (DataExample pair : testSynonymPairs) {
             //wordGraphs.add(getGraph(pair.getWord(), WordType.NN, decompositionDepth));
             //synonymGraphs.add(getGraph(pair.getSynonym(), WordType.NN, decompositionDepth));
             //Graph commonGraph = testDistance(pair.getWord(), WordType.NN, pair.getSynonym(), WordType.NN, decompositionDepth);
             threadPoolExecutor.submit(new Runnable() {
-                SynonymPair pair;
+                SimilarityPair pair;
 
                 @Override
                 public void run() {
@@ -220,16 +221,16 @@ public class Rubenstein1965Test {
                     double bdosResult = 0.0;//bdos.compareConcepts(new Concept(pair.getWord()), new Concept(pair.getSynonym()));
                     double elkBresult = 0.0;//elkb.compareConcepts(new Concept(pair.getWord()), new Concept(pair.getSynonym()));
                     double word2VecResult = 0.0;//word2VecSemanticDistanceMeasure.compareConcepts(new Concept(pair.getWord()), new Concept(pair.getSynonym()));
-                    double markerPassingResult = semanticDistanceMarkerPassing.compareConcepts(new Concept(pair.getWord(), WordType.NN), new Concept(pair.getSynonym(), WordType.NN));
+                    double markerPassingResult = semanticDistanceMarkerPassing.compareConcepts(new Concept(pair.getString1(), WordType.NN), new Concept(pair.getString2(), WordType.NN));
                     pair.setResult(markerPassingResult);
 
                 }
 
-                public Runnable init(SynonymPair pair) {
+                public Runnable init(SimilarityPair pair) {
                     this.pair = pair;
                     return (this);
                 }
-            }.init((SynonymPair) pair));
+            }.init((SimilarityPair) pair));
         }
         threadPoolExecutor.shutdown();
         try {
@@ -240,10 +241,7 @@ public class Rubenstein1965Test {
             e.printStackTrace();
         }
         Evaluation.normalize(testSynonymPairs);
-        spearmanCorrelation = Evaluation.SpearmanCorrelation(testSynonymPairs);
-        pearsonCorrelation = Evaluation.PearsonCorrelation(testSynonymPairs);
-        System.out.println("SpearmanCorrelation: " + spearmanCorrelation);
-        System.out.println("PearsonCorrelation: " + pearsonCorrelation);
+        calculateCorrelations();
 
         double cumulativeResultError = 0.0;
         for (DataExample pair : testSynonymPairs) {

@@ -10,12 +10,10 @@ package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 
 import de.dailab.nsm.decomposition.Concept;
-
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.*;
 import de.dailab.nsm.semanticDistanceMeasures.measures.ELKB;
-
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -220,8 +218,8 @@ public class ELKBTest {
         double i = 0;
         for (DataExample pair : testSimilarityPairs) {
 
-            Concept word = new Concept(((SynonymPair)pair).getWord());
-            Concept synonym = new Concept(((SynonymPair)pair).getSynonym());
+            Concept word = new Concept(((SimilarityPair) pair).getString1());
+            Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             pair.setResult(conceptCompare.compareConcepts(word, synonym));
             failure = Math.abs(pair.getResult() -pair.getTrueResult());
             //System.out.println(pair.getDistance());

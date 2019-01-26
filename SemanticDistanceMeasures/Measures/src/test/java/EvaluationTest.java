@@ -7,6 +7,7 @@
  */
 
 import de.dailab.nsm.decomposition.graph.Evaluation;
+import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
 import org.junit.After;
@@ -35,17 +36,6 @@ public class EvaluationTest {
     public void after() {
     }
 
-    /**
-     * Method: PearsonCorrelation(Collection<SynonymPair> experimantResult)
-     */
-    @Test
-    public void testPearsonCorrelation() {
-        List<SimilarityPair> testpairs = createPearsonExampleDataCorrelated();
-        double pearsonCorrelation = Evaluation.PearsonCorrelation(testpairs);
-        double realPearson = (1);
-        Assert.assertEquals(realPearson, pearsonCorrelation, 0.00000000001);
-
-    }
 
     private List<SimilarityPair> createPearsonExampleDataCorrelated() {
         List<SimilarityPair> testpairs = new ArrayList<>(5);
@@ -120,10 +110,10 @@ public class EvaluationTest {
     public void testNormalize() {
         Random rand = new Random();
         WordSim353DataSet wordSim353DataSet = new WordSim353DataSet();
-        List<SimilarityPair> pairs = wordSim353DataSet.ReadExampleDataSet();
-        for (SimilarityPair pair : pairs) pair.setResult(rand.nextDouble());
+        List<DataExample> pairs = wordSim353DataSet.ReadExampleDataSet();
+        for (DataExample pair : pairs) pair.setResult(rand.nextDouble());
         Evaluation.normalize(pairs);
-        for (SimilarityPair pair : pairs) {
+        for (DataExample pair : pairs) {
             Assert.assertTrue(pair.getResult() <= 1);
         }
     }

@@ -9,7 +9,7 @@
 package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import com.opencsv.CSVReader;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -24,17 +24,17 @@ import java.util.List;
 public class SynonymTestDataset {
 
 
-    public List<SynonymPair> ReadExampleDataSet() {
+    public List<SimilarityPair> ReadExampleDataSet() {
         //String u = System.getProperty("user.home") + File.separator + ".decomposition" + File.separator + "DataSet" + File.separator+ "Rubenstein1965.csv";
         String u = this.getClass().getResource("../Rubenstein1965.csv").getPath();
-        List<SynonymPair> result = new ArrayList<>(70);
+        List<SimilarityPair> result = new ArrayList<>(70);
         CSVReader reader = null;
         try {
             reader = new CSVReader(new FileReader(u));
             String[] nextLine;
             while((nextLine=reader.readNext())!=null)
             {
-                SynonymPair pair = new SynonymPair(nextLine[0], nextLine[1], Double.valueOf(nextLine[2]));
+                SimilarityPair pair = new SimilarityPair(nextLine[0], nextLine[1], Double.valueOf(nextLine[2]));
                 result.add(pair);
             }
         } catch (FileNotFoundException e) {

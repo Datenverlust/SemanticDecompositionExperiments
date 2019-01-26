@@ -6,6 +6,7 @@
  *
  */
 
+import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.util.*;
@@ -17,7 +18,7 @@ public class TestHelpers {
     //static Collection<SynonymPair> testSynonymPairs = new ArrayList<>();
 
 
-    public static Collection<SimilarityPair> filterFar(Collection<SimilarityPair> testSimilarityPairs){
+    public static Collection<DataExample> filterFar(Collection<DataExample> testSimilarityPairs) {
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             SimilarityPair pair = (SimilarityPair) iterator.next();
             if ((pair.getDistance() >= 0.3)) {
@@ -26,7 +27,7 @@ public class TestHelpers {
         } return testSimilarityPairs;
     }
 
-    public static void filterMiddle(Collection<SimilarityPair> testSimilarityPairs){
+    public static void filterMiddle(Collection<DataExample> testSimilarityPairs) {
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             SimilarityPair pair = (SimilarityPair) iterator.next();
             if ((pair.getDistance() < 0.3) || pair.getDistance()>= 0.6) {
@@ -35,7 +36,7 @@ public class TestHelpers {
         }
     }
 
-    public static void filterNear(Collection<SimilarityPair> testSimilarityPairs){
+    public static void filterNear(Collection<DataExample> testSimilarityPairs) {
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             SimilarityPair pair = (SimilarityPair) iterator.next();
             if ((pair.getDistance() < 0.6)) {
