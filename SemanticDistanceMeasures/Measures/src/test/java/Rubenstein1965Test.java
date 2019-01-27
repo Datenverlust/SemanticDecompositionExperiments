@@ -128,7 +128,7 @@ public class Rubenstein1965Test {
             long afterTest = System.nanoTime();
             logger.info("ELKB took " + (afterTest - bevorTest) + "ns to compare " + word.getLitheral() + " and " + synonym.getLitheral() + "to: " + elkBresult);
             pair.setResult(elkBresult);
-            cumulativeResultError += (Math.abs(((SimilarityPair) pair).getDistance() - pair.getResult()));
+            cumulativeResultError += (Math.abs(pair.getTrueResult() - pair.getResult()));
         }
         Evaluation.normalize(testSimilarityPairs);
         this.pearsonCorrelation = Evaluation.PearsonCorrelation(testSimilarityPairs);
@@ -183,7 +183,7 @@ public class Rubenstein1965Test {
         this.pearsonCorrelation = Evaluation.PearsonCorrelation(testSimilarityPairs);
         this.spearmanCorrelation = Evaluation.SpearmanCorrelation(testSimilarityPairs);
         this.setCumulativeError(cumulativeResultError);
-        Assert.assertTrue(this.calculateCorrelationCoefficient() > 27);
+        Assert.assertTrue(this.calculateCumulativeError() > 27);
     }
 
 
@@ -194,12 +194,21 @@ public class Rubenstein1965Test {
         for (DataExample pair : testSimilarityPairs) {
             Concept word = new Concept(((SimilarityPair) pair).getString1(), WordType.UNKNOWN); //TODO: OK, for Rubenstein1965 but for other thest the POS is not fix
             Concept synonym = new Concept(((SimilarityPair) pair).getString2(), WordType.UNKNOWN); //TODO: OK, for Rubenstein1965 but for other thest the POS is not fix
-            long bevorTest = System.nanoTime();
-            double word2VecResult = word2VecSemanticDistanceMeasure.findSim(word, synonym);
-            long afterTest = System.nanoTime();
-            logger.info("W2V took " + (afterTest - bevorTest) + "ns to compare " + word.getLitheral() + " and " + synonym.getLitheral() + "to: " + word2VecResult);
-            pair.setResult(word2VecResult);
-            cumulativeResultError += (Math.abs(((SimilarityPair) pair).getDistance() - pair.getResult()));
+            double word2VecResult = 0.5;
+            try {
+                long bevorTest = System.nanoTime();
+                word2VecResult = word2VecSemanticDistanceMeasure.findSim(word, synonym);
+                long afterTest = System.nanoTime();
+                logger.info("W2V took " + (afterTest - bevorTest) + "ns to compare " + word.getLitheral() + " and " + synonym.getLitheral() + "to: " + word2VecResult);
+
+            } catch (NullPointerException e) {
+                logger.trace(e.getMessage(), e);
+                logger.info("The following concepts where out of vocabulary: " + ((SimilarityPair) pair).getString1() + " and " + ((SimilarityPair) pair).getString2());
+            } finally {
+                pair.setResult(word2VecResult);
+                cumulativeResultError += (Math.abs(pair.getTrueResult() - pair.getResult()));
+            }
+
         }
         Evaluation.normalize(testSimilarityPairs);
         this.pearsonCorrelation = Evaluation.PearsonCorrelation(testSimilarityPairs);
@@ -207,7 +216,9 @@ public class Rubenstein1965Test {
         //System.out.println("SpearmanCorrelation: " + this.spearmanCorrelation);
         //System.out.println("PearsonCorrelation: " + this.pearsonCorrelation);
         this.setCumulativeError(cumulativeResultError);
-        Assert.assertTrue(this.calculateCorrelationCoefficient() > 31);
+        Assert.assertTrue(this.pearsonCorrelation > 0.45);
+        Assert.assertTrue(this.spearmanCorrelation > 0.42);
+        Assert.assertTrue(this.getCumulativeError() < 20);
     }
 
 
@@ -217,12 +228,8 @@ public class Rubenstein1965Test {
      * @return the cumulative distance from the test data (human prediction of semantic similarity) to the
      * results of the algorithm.
      */
-    private double calculateCorrelationCoefficient() {
+    private double calculateCumulativeError() {
         double cumulativeResultError = getCumulativeResultError();
-        spearmanCorrelation = Evaluation.SpearmanCorrelation(testSimilarityPairs);
-        pearsonCorrelation = Evaluation.PearsonCorrelation(testSimilarityPairs);
-        System.out.println("SpearmanCorrelation: " + spearmanCorrelation);
-        System.out.println("PearsonCorrelation: " + pearsonCorrelation);
         return cumulativeResultError;
     }
 
@@ -244,7 +251,7 @@ public class Rubenstein1965Test {
         }
         Evaluation.normalize(testSimilarityPairs);
         for (DataExample pair : testSimilarityPairs) {
-            cumulativeResultError += Math.abs(((SimilarityPair) pair).getDistance() - pair.getResult());
+            cumulativeResultError += Math.abs(pair.getTrueResult() - pair.getResult());
         }
         System.out.print('\r');
         return cumulativeResultError;
@@ -302,7 +309,7 @@ public class Rubenstein1965Test {
 
         double cumulativeResultError = 0.0;
         for (DataExample pair : testSimilarityPairs) {
-            cumulativeResultError += Math.abs(((SimilarityPair) pair).getDistance() - pair.getResult());
+            cumulativeResultError += Math.abs(pair.getTrueResult() - pair.getResult());
         }
         //threadPoolExecutor.shutdown();
         return cumulativeResultError;

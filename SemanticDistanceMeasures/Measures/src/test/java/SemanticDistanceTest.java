@@ -6,11 +6,7 @@
  *
  */
 
-package de.dailab.nsm.semanticDistanceMeasures.measures.test;
-
 import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.SemanticNetworkVisualizer;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
@@ -20,7 +16,6 @@ import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 
-import javax.swing.*;
 import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -30,7 +25,7 @@ import java.util.concurrent.Executors;
  */
 public abstract class SemanticDistanceTest {
     static MarkerPassingConfig markerPassingConfig = new MarkerPassingConfig();
-    static SemanticNetworkVisualizer graphVirtualizer;
+    //static SemanticNetworkVisualizer graphVirtualizer;
     public Collection<DataExample> testSynonymPairs = new ArrayList<>();
     protected ExecutorService threadPoolExecutor = Executors.newFixedThreadPool(1);//Runtime.getRuntime().availableProcessors());
     Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
@@ -78,11 +73,11 @@ public abstract class SemanticDistanceTest {
      * draw the given graph in a JFrame. This is a first test implementation and should be detailed
      * in further work.
      *
-     * @param graph              the jgrapht to draw
-     * @param decompositionWord  the word which decomposition should be drawn
-     * @param decompositionDepth the decomposition depth of the words decomposition
+     //* @param graph              the jgrapht to draw
+     //* @param decompositionWord  the word which decomposition should be drawn
+     //* @param decompositionDepth the decomposition depth of the words decomposition
      */
-    private static void drawGraph(Graph graph, String decompositionWord, int decompositionDepth) {
+    /*private static void drawGraph(Graph graph, String decompositionWord, int decompositionDepth) {
         visulizGraph(graph, decompositionWord, decompositionDepth, graphVirtualizer);
     }
 
@@ -94,7 +89,7 @@ public abstract class SemanticDistanceTest {
         frame.pack();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
-    }
+    }*/
 
     public abstract void test();
 
@@ -111,7 +106,9 @@ public abstract class SemanticDistanceTest {
 
         //add all nodes which the two graphs have in common.
         for (Object g1 : graphword1.vertexSet())
-            if (graphword2.containsVertex(g1)) commonGraph.addVertex(g1);
+            if (graphword2.containsVertex(g1)) {
+                commonGraph.addVertex(g1);
+            }
         //add all edges the two graphs have in common.
         for (WeightedEdge edge : GraphUtil.getCommonEdges(graphword1, graphword2)) {
             commonGraph.addEdge(edge.getSource(), edge.getTarget(), edge);

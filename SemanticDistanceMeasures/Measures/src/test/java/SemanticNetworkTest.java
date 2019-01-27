@@ -10,7 +10,6 @@ import de.dailab.nsm.decomposition.WordType;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.measures.test.SemanticDistanceTest;
 import org.jgrapht.Graph;
 
 import java.util.ArrayList;

@@ -5,7 +5,6 @@
  * Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
  *
  */
-
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 import org.junit.After;
 import org.junit.Assert;

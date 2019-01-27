@@ -9,7 +9,7 @@ package de.dailab.nsm.semanticDistanceMeasures.data;
 
 import com.opencsv.CSVReader;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -39,7 +39,7 @@ public class MtrukDataSet implements WordSimilarityDataSet {
             String[] nextLine;
             while((nextLine=reader.readNext())!=null)
             {
-                SynonymPair pair = new SynonymPair(nextLine[0], nextLine[1], Double.valueOf(nextLine[2]));
+                SimilarityPair pair = new SimilarityPair(nextLine[0], nextLine[1], Double.valueOf(nextLine[2]));
                 result.add(pair);
             }
         } catch (FileNotFoundException e) {
@@ -51,7 +51,7 @@ public class MtrukDataSet implements WordSimilarityDataSet {
     }
 
     @Override
-    public List<SynonymPair> Normalize(List<SynonymPair> list2Normlize) {
+    public List<SimilarityPair> Normalize(List<SimilarityPair> list2Normlize) {
         return null;
     }
 }

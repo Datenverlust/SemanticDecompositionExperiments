@@ -4,7 +4,10 @@
  * prohibited Proprietary and confidential.
  * Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
  *
- */
+ *//*
+
+
+package de.dailab.nsm.semanticDistanceMeasures.measures.test;
 
 import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.decomposition.WordType;
@@ -18,9 +21,11 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+*/
 /**
  * Created by faehndrich on 09.03.16.
- */
+ *//*
+
 public class OCEANTest extends SemanticNetworkTest {
 
     public static void main(String[] args) {
@@ -74,3 +79,4 @@ public Graph oneWord(){
     }
 
 }
+*/

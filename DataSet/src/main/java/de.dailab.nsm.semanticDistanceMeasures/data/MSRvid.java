@@ -7,7 +7,7 @@
 package de.dailab.nsm.semanticDistanceMeasures.data;
 
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SynonymPair;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import org.apache.log4j.Logger;
 
 import java.io.BufferedReader;
@@ -57,7 +57,7 @@ public class MSRvid implements WordSimilarityDataSet{
                 String[] sentencePair = line.split("\t", 2);
                 double distance = distanceSet.get(i);
                 logger.info("load sentence: " + sentencePair[0] + " " + sentencePair[1] + " " + distance);
-                msrvid.add(new SynonymPair(sentencePair[0], sentencePair[1], distance));
+                msrvid.add(new SimilarityPair(sentencePair[0], sentencePair[1], distance));
                 i++;
             }
             sentenceReader.close();
@@ -89,7 +89,7 @@ public class MSRvid implements WordSimilarityDataSet{
     }
 
     @Override
-    public Collection<SynonymPair> Normalize(List<SynonymPair> list2Normlize) {
+    public Collection<SimilarityPair> Normalize(List<SimilarityPair> list2Normlize) {
         return null;
     }
 }

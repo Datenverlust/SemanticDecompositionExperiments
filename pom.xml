@@ -21,7 +21,9 @@
     <groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>
     <artifactId>Experiments</artifactId>
 
+
     <modules>
+        <module>DataSet</module>
         <module>SentenceSenseDisambiguation</module>
         <module>SentenceSemanticSimilarityMeasure</module>
         <module>SemanticDistanceMeasures</module>
