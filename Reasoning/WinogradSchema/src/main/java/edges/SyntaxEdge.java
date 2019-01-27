@@ -19,7 +19,7 @@ public class SyntaxEdge extends WeightedEdge {
     private String specific;
 
     public SyntaxEdge(){
-        this.setEdgeType(EdgeType.Unknown);
+        setEdgeType(EdgeType.Unknown);
     }
 
     public void setRelationName(String relationName) {

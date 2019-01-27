@@ -9,8 +9,6 @@
 package de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner;
 
 import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.SemanticNetworkVisualizer;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
@@ -20,7 +18,6 @@ import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 
-import javax.swing.*;
 import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -30,7 +27,7 @@ import java.util.concurrent.Executors;
  */
 public abstract class SemanticDistanceTest {
     static MarkerPassingConfig markerPassingConfig = new MarkerPassingConfig();
-    static SemanticNetworkVisualizer graphVirtualizer;
+    //static SemanticNetworkVisualizer graphVirtualizer;
     protected List<DataExample> testSynonymPairs = new ArrayList<>();
     protected ExecutorService threadPoolExecutor = Executors.newFixedThreadPool(1);//Runtime.getRuntime().availableProcessors());
     Collection<WordSimilarityDataSet> datasets = new ArrayList<>();
@@ -77,21 +74,20 @@ public abstract class SemanticDistanceTest {
     /**
      * draw the given graph in a JFrame. This is a first test implementation and should be detailed
      * in further work.
-     *
-     * @param graph              the jgrapht to draw
-     * @param decompositionWord  the word which decomposition should be drawn
-     * @param decompositionDepth the decomposition depth of the words decomposition
+     * <p>
+     * //@param graph              the jgrapht to draw
+     * //@param decompositionWord  the word which decomposition should be drawn
+     * //@param decompositionDepth the decomposition depth of the words decomposition
      */
-    private static void drawGraph(Graph graph, String decompositionWord, int decompositionDepth) {
-        graphVirtualizer.setGraph(graph);
-        graphVirtualizer.init(decompositionWord, WordType.UNKNOWN, decompositionDepth);
-        JFrame frame = new JFrame();
-        frame.add(graphVirtualizer);
-        frame.pack();
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
-    }
-
+//    private static void drawGraph(Graph graph, String decompositionWord, int decompositionDepth) {
+//        graphVirtualizer.setGraph(graph);
+//        graphVirtualizer.init(decompositionWord, WordType.UNKNOWN, decompositionDepth);
+//        JFrame frame = new JFrame();
+//        frame.add(graphVirtualizer);
+//        frame.pack();
+//        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        frame.setVisible(true);
+//    }
     public abstract void test();
 
 

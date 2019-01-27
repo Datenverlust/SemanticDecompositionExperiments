@@ -72,7 +72,7 @@ public class BDOSTests {
             Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             pair.setResult(bdos.compareConcepts(word, synonym));
             System.out.println(pair.getResult());
-            failure = Math.abs(((SimilarityPair) pair).getDistance() - pair.getResult());
+            failure = Math.abs(pair.getTrueResult() - pair.getResult());
             totalFailure = totalFailure + failure;
             i++;
         }

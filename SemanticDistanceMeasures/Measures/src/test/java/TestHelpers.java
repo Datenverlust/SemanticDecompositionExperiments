@@ -21,7 +21,7 @@ public class TestHelpers {
     public static Collection<DataExample> filterFar(Collection<DataExample> testSimilarityPairs) {
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             SimilarityPair pair = (SimilarityPair) iterator.next();
-            if ((pair.getDistance() >= 0.3)) {
+            if ((pair.getTrueResult() >= 0.3)) {
                 iterator.remove();
             }
         } return testSimilarityPairs;
@@ -30,7 +30,7 @@ public class TestHelpers {
     public static void filterMiddle(Collection<DataExample> testSimilarityPairs) {
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             SimilarityPair pair = (SimilarityPair) iterator.next();
-            if ((pair.getDistance() < 0.3) || pair.getDistance()>= 0.6) {
+            if ((pair.getTrueResult() < 0.3) || pair.getTrueResult() >= 0.6) {
                 iterator.remove();
             }
         }
@@ -39,7 +39,7 @@ public class TestHelpers {
     public static void filterNear(Collection<DataExample> testSimilarityPairs) {
         for (Iterator iterator = testSimilarityPairs.iterator(); iterator.hasNext(); ) {
             SimilarityPair pair = (SimilarityPair) iterator.next();
-            if ((pair.getDistance() < 0.6)) {
+            if ((pair.getTrueResult() < 0.6)) {
                 iterator.remove();
             }
         }

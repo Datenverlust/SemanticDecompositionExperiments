@@ -20,7 +20,7 @@ import java.util.Comparator;
 import java.util.List;
 
 
-public class MSRvid implements WordSimilarityDataSet{
+public class MSRvid extends WordSimilarityDataSet {
 
     private static final Logger logger = Logger.getLogger(MSRvid.class);
     List<DataExample> msrvid = new ArrayList<>();

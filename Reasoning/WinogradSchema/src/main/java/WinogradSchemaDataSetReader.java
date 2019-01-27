@@ -7,6 +7,7 @@
  */
 
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
+import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.DataSet;
 
 import javax.xml.stream.XMLInputFactory;
@@ -242,7 +243,7 @@ public class WinogradSchemaDataSetReader implements WinogradSchemaSet, DataSet {
             line = br.readLine();
             String[] answersArray = line.trim().split(",");
             List<String> answers = new ArrayList<>();
-            for (String answer: answersArray) {
+            for (String answer : answersArray) {
                 answers.add(answer);
             }
             //read correct answer
@@ -277,5 +278,10 @@ public class WinogradSchemaDataSetReader implements WinogradSchemaSet, DataSet {
 
 
         return result;
+    }
+
+    @Override
+    public Collection<SimilarityPair> Normalize(List<SimilarityPair> list2Normlize) {
+        return null;
     }
 }

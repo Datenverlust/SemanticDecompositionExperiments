@@ -23,6 +23,7 @@ public class ELKBTest {
     static Collection<WordSimilarityDataSet> datasets = new ArrayList<>(5);
     static Collection<DataExample> testSimilarityPairs = new ArrayList<DataExample>();
 
+
     public static double averageFailureTest(){
         System.out.println("average Failure Test");
         init();
@@ -214,7 +215,7 @@ public class ELKBTest {
             Concept word = new Concept(((SimilarityPair) pair).getString1());
             Concept synonym = new Concept(((SimilarityPair) pair).getString2());
             pair.setResult(conceptCompare.compareConcepts(word, synonym));
-            failure = Math.abs(pair.getResult() - ((SimilarityPair) pair).getDistance());
+            failure = Math.abs(pair.getResult() - pair.getTrueResult());
             totalFailure = totalFailure + failure;
             i ++;
         }

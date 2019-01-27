@@ -12,7 +12,6 @@ import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.decomposition.Decomposition;
 import de.dailab.nsm.decomposition.Definition;
 import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.SemanticNetworkVisualizer;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.entities.marker.DoubleMarkerWithOrigin;
 import de.dailab.nsm.decomposition.graph.entities.nodes.DoubleNodeWithMultipleThresholds;
@@ -31,7 +30,6 @@ import edu.stanford.nlp.util.CoreMap;
 import org.apache.log4j.Logger;
 import org.jgrapht.Graph;
 
-import javax.swing.*;
 import java.util.*;
 
 public class SentenceSemanticSimilarityMeasure {
@@ -40,7 +38,7 @@ public class SentenceSemanticSimilarityMeasure {
     //CoreNLP fields
     private static StanfordCoreNLP pipeline = null;
     Decomposition decomposition;
-    SemanticNetworkVisualizer graphVirtualizer;
+    //SemanticNetworkVisualizer graphVirtualizer;
     List<Concept> originConceptsSentence1;
     List<Concept> originConceptsSentence2;
     MarkerPassingSemanticDistanceMeasure semanticDistanceMeasure = new MarkerPassingSemanticDistanceMeasure();
@@ -56,7 +54,7 @@ public class SentenceSemanticSimilarityMeasure {
             pipeline = new StanfordCoreNLP(props);
         }
         this.decomposition = new Decomposition();
-        this.graphVirtualizer = new SemanticNetworkVisualizer();
+        //this.graphVirtualizer = new SemanticNetworkVisualizer();
     }
 
     public static void main(String[] args) {
@@ -177,7 +175,7 @@ public class SentenceSemanticSimilarityMeasure {
      * @param root2                  The current root element of the dependency graph two  for which to analyze the sub tree.
      * @param sentence1              The sentence for which dependency graph one has been created.
      * @param sentence2              The sentence for which dependency graph two has been created.
-     * @return sum(max(matchInTreeLayer(root1, root2))
+     * @return sum(max ( matchInTreeLayer ( root1, root2))
      */
     private double checkTreeSimilarity(SemanticGraph semanticGraphSentence1, SemanticGraph semanticGraphSentence2, IndexedWord root1, IndexedWord root2, List<Concept> sentence1, List<Concept> sentence2) {
 
@@ -221,7 +219,7 @@ public class SentenceSemanticSimilarityMeasure {
             rootSimilarity = 0;
         }
 
-        return (0.8*rootSimilarity + 0.2*((childSimilarity.stream().mapToDouble(value -> value).sum()) /childSimilarity.size()))/2; //(Math.max(children1.size(), children2.size())))); \\Math.max(rootSimilarity,((childSimilarity.stream().mapToDouble(value -> value).sum()) ));//
+        return (0.8 * rootSimilarity + 0.2 * ((childSimilarity.stream().mapToDouble(value -> value).sum()) / childSimilarity.size())) / 2; //(Math.max(children1.size(), children2.size())))); \\Math.max(rootSimilarity,((childSimilarity.stream().mapToDouble(value -> value).sum()) ));//
     }
 
 
@@ -349,20 +347,19 @@ public class SentenceSemanticSimilarityMeasure {
         MarkerPassingConfig config = new MarkerPassingConfig();
 
 
-
         Graph commonGraph = GraphUtil.mergeGraph(graph1, graph2);
 
         Map<Concept, List<? extends Marker>> conceptMarkerMap = new HashMap<>();
         Map<Concept, Double> threshold = new HashMap<>();
 
         // create start marker for sentence1
-        createStartMarker4Sentence(originConceptsSentence1, config.getStartActivation(), config.getThreshold(), conceptMarkerMap, threshold);
+        createStartMarker4Sentence(originConceptsSentence1, MarkerPassingConfig.getStartActivation(), MarkerPassingConfig.getThreshold(), conceptMarkerMap, threshold);
         //set start markers
         List<Map<Concept, List<? extends Marker>>> startActivation = new ArrayList<>();
         startActivation.add(conceptMarkerMap);
 
         // create start marker for sentence2
-        createStartMarker4Sentence(originConceptsSentence2, config.getStartActivation(), config.getThreshold(), conceptMarkerMap, threshold);
+        createStartMarker4Sentence(originConceptsSentence2, MarkerPassingConfig.getStartActivation(), MarkerPassingConfig.getThreshold(), conceptMarkerMap, threshold);
 
         //set start markers
         startActivation.add(conceptMarkerMap);
@@ -391,9 +388,9 @@ public class SentenceSemanticSimilarityMeasure {
 
         logger.info("distinctOriginConcepsFired:     " + countOforiginConcepsFired);
         logger.info("rateOfOriginConcepIntersection: " + rateOfOriginConcepIntersection);
-        logger.info("rateOfSentenseSimilarity: 		 " + (avgActivation / (countOforiginConcepsFired * config.getStartActivation())));
+        logger.info("rateOfSentenseSimilarity: 		 " + (avgActivation / (countOforiginConcepsFired * MarkerPassingConfig.getStartActivation())));
 
-        return rateOfOriginConcepIntersection + (avgActivation / (countOforiginConcepsFired * config.getStartActivation()));
+        return rateOfOriginConcepIntersection + (avgActivation / (countOforiginConcepsFired * MarkerPassingConfig.getStartActivation()));
     }
 
     private void createStartMarker4Sentence(List<Concept> originConceptsSentence, double startActivationLevel, double thresholdNode, Map<Concept, List<? extends Marker>> conceptMarkerMap, Map<Concept, Double> threshold) {
@@ -495,21 +492,21 @@ public class SentenceSemanticSimilarityMeasure {
         return rateOfIntersection;
     }
 
-    /**
-     * Draw a graph to a JFrame.
-     * TODO: should save the JFrame as an image.
-     *
-     * @param graph The graph of a word or sentence.
-     */
-    private void drawGraph(Graph graph) {
-        graphVirtualizer.setGraph(graph);
-        graphVirtualizer.init("", WordType.UNKNOWN, MarkerPassingConfig.getDecompositionDepth());
-        JFrame frame = new JFrame();
-        frame.add(graphVirtualizer);
-        frame.pack();
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
-    }
+//    /**
+//     * Draw a graph to a JFrame.
+//     * TODO: should save the JFrame as an image.
+//     *
+//     * @param graph The graph of a word or sentence.
+//     */
+//    private void drawGraph(Graph graph) {
+//        graphVirtualizer.setGraph(graph);
+//        graphVirtualizer.init("", WordType.UNKNOWN, MarkerPassingConfig.getDecompositionDepth());
+//        JFrame frame = new JFrame();
+//        frame.add(graphVirtualizer);
+//        frame.pack();
+//        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        frame.setVisible(true);
+//    }
 
     /**
      * Runs some simple and short test sentence and
@@ -542,7 +539,6 @@ public class SentenceSemanticSimilarityMeasure {
      *  This was done to get rid of the msvid dependency and seems to be more logical to split this gold standard test/exüeriment
      *  from the actual code base
      */
-
 
 
     /**

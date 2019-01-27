@@ -75,8 +75,8 @@ public Word2VecTest(){
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            failure = Math.abs(pair.getResult() - ((SimilarityPair) pair).getDistance());
-            System.out.println(((SimilarityPair) pair).getString1() + ";" + ((SimilarityPair) pair).getString2() + ";" + pair.getResult() + ";" + ((SimilarityPair) pair).getDistance());
+            failure = Math.abs(pair.getResult() - pair.getTrueResult());
+            System.out.println(((SimilarityPair) pair).getString1() + ";" + ((SimilarityPair) pair).getString2() + ";" + pair.getResult() + ";" + pair.getTrueResult());
             totalFailure = totalFailure + failure;
             i++;
         }

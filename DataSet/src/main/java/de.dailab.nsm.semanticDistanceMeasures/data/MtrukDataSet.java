@@ -7,47 +7,27 @@
 package de.dailab.nsm.semanticDistanceMeasures.data;
 
 
-import com.opencsv.CSVReader;
 import de.dailab.nsm.semanticDistanceMeasures.DataExample;
 import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by faehndrich on 31.07.15.
  * taken from: http://www.technion.ac.il/~kirar/Datasets.html
- * @book{Radinsky2011,
-    author = {Radinsky, Kira and Agichtein, Eugene and Gabrilovich, Evgeniy and Markovitch, Shaul},
-    title = {{A word at a time: computing word relatedness using temporal semantic analysis}},
-    publisher = {ACM},
-    year = {2011}
-    }
+ *
+ * @book{Radinsky2011, author = {Radinsky, Kira and Agichtein, Eugene and Gabrilovich, Evgeniy and Markovitch, Shaul},
+ * title = {{A word at a time: computing word relatedness using temporal semantic analysis}},
+ * publisher = {ACM},
+ * year = {2011}
+ * }
  */
-public class MtrukDataSet implements WordSimilarityDataSet {
+public class MtrukDataSet extends WordSimilarityDataSet {
     @Override
     public List<DataExample> ReadExampleDataSet() {
         String u = this.getClass().getResource("/Mtruk.csv").getPath();
         //String u = System.getProperty("user.home") + File.separator + ".decomposition" + File.separator + "DataSet" + File.separator+ "Rubenstein1965.csv";
-        List<DataExample> result = new ArrayList<>(70);
-        CSVReader reader = null;
-        try {
-            reader = new CSVReader(new FileReader(u));
-            String[] nextLine;
-            while((nextLine=reader.readNext())!=null)
-            {
-                SimilarityPair pair = new SimilarityPair(nextLine[0], nextLine[1], Double.valueOf(nextLine[2]));
-                result.add(pair);
-            }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return result;
+        return getDataExamples(u);
     }
 
     @Override

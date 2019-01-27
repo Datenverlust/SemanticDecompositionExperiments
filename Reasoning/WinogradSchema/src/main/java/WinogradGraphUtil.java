@@ -7,7 +7,6 @@
  */
 
 import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Definition;
 import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
 import edges.NerEdge;
@@ -20,14 +19,13 @@ import org.jgrapht.graph.ListenableDirectedGraph;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Set;
 
 /**
  * Created by Hannes on 04.04.2017.
  */
 public class WinogradGraphUtil {
 
-    public static Graph mergeDecGraphs (List<Graph> graphs) {
+    public static Graph mergeDecGraphs(List<Graph> graphs) {
         Graph mergedGraph = new ListenableDirectedGraph(WeightedEdge.class);
         for (Graph wordGraph :
                 graphs) {
@@ -36,18 +34,18 @@ public class WinogradGraphUtil {
         return mergedGraph;
     }
 
-    public static List<Graph> synEdgesToGraphs(List<List<SemanticGraphEdge>> edgeList, PronConcept pron){
-        List<Graph> graphs=new ArrayList<>();
+    public static List<Graph> synEdgesToGraphs(List<List<SemanticGraphEdge>> edgeList, PronConcept pron) {
+        List<Graph> graphs = new ArrayList<>();
 
         //Für jeden Satz, i ist SatzNr
-        for(int i=0;i<edgeList.size();i++) {
-            List<SemanticGraphEdge> sentenceEdges=edgeList.get(i);
+        for (int i = 0; i < edgeList.size(); i++) {
+            List<SemanticGraphEdge> sentenceEdges = edgeList.get(i);
 
             for (SemanticGraphEdge edge : sentenceEdges) {
                 if (!edge.getRelation().getShortName().equals("punct")) {
                     Concept source;
-                    if(edge.getRelation().getShortName().equals("neg")){
-                        source=new NegatedConcept(edge.getSource().lemma());
+                    if (edge.getRelation().getShortName().equals("neg")) {
+                        source = new NegatedConcept(edge.getSource().lemma());
                     } else {
                         source = new Concept(edge.getSource().lemma());
                     }
@@ -65,7 +63,7 @@ public class WinogradGraphUtil {
                     String relation = edge.getRelation().getShortName();
                     String specific = edge.getRelation().getSpecific();
 
-                    ListenableDirectedGraph graph = new ListenableDirectedGraph(SyntaxEdge.class);
+                    ListenableDirectedGraph graph = new ListenableDirectedGraph<>(SyntaxEdge.class);
                     graph.addVertex(source);
                     graph.addVertex(target);
 
@@ -87,7 +85,7 @@ public class WinogradGraphUtil {
         return graphs;
     }
 
-    public static Graph mergeAllSynGraphs(List<Graph> graphs){
+    public static Graph mergeAllSynGraphs(List<Graph> graphs) {
         Graph mergedGraph = new ListenableDirectedGraph(SyntaxEdge.class);
 
         for (Graph wordGraph : graphs) {
@@ -96,9 +94,9 @@ public class WinogradGraphUtil {
         return mergedGraph;
     }
 
-    public static Graph mergeSynGraphs(Graph graph1, Graph graph2){
+    public static Graph mergeSynGraphs(Graph graph1, Graph graph2) {
         ListenableDirectedGraph result = null;
-        if(result == null) {
+        if (result == null) {
             result = new ListenableDirectedGraph(SyntaxEdge.class);
             // Get all vertex from the graph1
             Iterator iterator = graph1.vertexSet().iterator();
@@ -119,7 +117,7 @@ public class WinogradGraphUtil {
         return result;
     }
 
-    public static Graph mergeAllRoleGraphs(List<Graph> graphs){
+    public static Graph mergeAllRoleGraphs(List<Graph> graphs) {
         Graph mergedGraph = new ListenableDirectedGraph(RoleEdge.class);
         for (Graph wordGraph : graphs) {
             mergedGraph = mergeRoleGraphs(mergedGraph, wordGraph);
@@ -127,9 +125,9 @@ public class WinogradGraphUtil {
         return mergedGraph;
     }
 
-    public static Graph mergeRoleGraphs(Graph graph1, Graph graph2){
+    public static Graph mergeRoleGraphs(Graph graph1, Graph graph2) {
         ListenableDirectedGraph result = null;
-        if(result == null) {
+        if (result == null) {
             result = new ListenableDirectedGraph(RoleEdge.class);
             // Get all vertex from the graph1
             Iterator iterator = graph1.vertexSet().iterator();
@@ -150,7 +148,7 @@ public class WinogradGraphUtil {
         return result;
     }
 
-    public static Graph mergeAllNerGraphs(List<Graph> graphs){
+    public static Graph mergeAllNerGraphs(List<Graph> graphs) {
         Graph mergedGraph = new ListenableDirectedGraph(NerEdge.class);
         for (Graph wordGraph : graphs) {
             mergedGraph = mergeNerGraphs(mergedGraph, wordGraph);
@@ -158,9 +156,9 @@ public class WinogradGraphUtil {
         return mergedGraph;
     }
 
-    public static Graph mergeNerGraphs(Graph graph1, Graph graph2){
+    public static Graph mergeNerGraphs(Graph graph1, Graph graph2) {
         ListenableDirectedGraph result = null;
-        if(result == null) {
+        if (result == null) {
             result = new ListenableDirectedGraph(RoleEdge.class);
             // Get all vertex from the graph1
             Iterator iterator = graph1.vertexSet().iterator();
@@ -192,36 +190,33 @@ public class WinogradGraphUtil {
     }
 
     private static void AddSynEdgesOfGraph(ListenableDirectedGraph result, Iterator iterator) {
-        while (iterator.hasNext())
-        {
+        while (iterator.hasNext()) {
             Object sourceEdge = iterator.next();
             if (sourceEdge instanceof SyntaxEdge) {
 
-                result.addEdge(((SyntaxEdge) sourceEdge).getSource(),((SyntaxEdge) sourceEdge).getTarget(), sourceEdge);
+                result.addEdge(((SyntaxEdge) sourceEdge).getSource(), ((SyntaxEdge) sourceEdge).getTarget(), sourceEdge);
 
             }
         }
     }
 
     private static void AddRoleEdgesOfGraph(ListenableDirectedGraph result, Iterator iterator) {
-        while (iterator.hasNext())
-        {
+        while (iterator.hasNext()) {
             Object sourceEdge = iterator.next();
             if (sourceEdge instanceof RoleEdge) {
 
-                result.addEdge(((RoleEdge) sourceEdge).getSource(),((RoleEdge) sourceEdge).getTarget(), sourceEdge);
+                result.addEdge(((RoleEdge) sourceEdge).getSource(), ((RoleEdge) sourceEdge).getTarget(), sourceEdge);
 
             }
         }
     }
 
-    private static void AddNerEdgesOfGraph(ListenableDirectedGraph result, Iterator iterator){
-        while (iterator.hasNext())
-        {
+    private static void AddNerEdgesOfGraph(ListenableDirectedGraph result, Iterator iterator) {
+        while (iterator.hasNext()) {
             Object sourceEdge = iterator.next();
             if (sourceEdge instanceof NerEdge) {
 
-                result.addEdge(((NerEdge) sourceEdge).getSource(),((NerEdge) sourceEdge).getTarget(), sourceEdge);
+                result.addEdge(((NerEdge) sourceEdge).getSource(), ((NerEdge) sourceEdge).getTarget(), sourceEdge);
 
             }
         }

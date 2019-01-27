@@ -135,6 +135,11 @@
             <artifactId>ParameterLearner</artifactId>
             <version>0.2-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>org.jgrapht</groupId>
+            <artifactId>jgrapht-core</artifactId>
+            <version>1.1-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
 

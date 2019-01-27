@@ -28,11 +28,7 @@
             <artifactId>SemanticDistanceMeasureAPI</artifactId>
             <version>${project.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.opencsv</groupId>
-            <artifactId>opencsv</artifactId>
-            <version>3.3</version>
-        </dependency>
+
         <!--<dependency>-->
             <!--<groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>-->
             <!--<artifactId>SemanticEmoji</artifactId>-->
