@@ -22,6 +22,30 @@ public class PathMarker implements Marker{
     private int answerNo=-1;
     private boolean abduktiveNode;
 
+    public PathMarker(Concept origin){
+        this.origin=origin;
+        this.activation=1;
+        this.inferencePath=new InferencePath();
+    }
+
+    public PathMarker(Concept origin,Link firstLink){
+        PathMarker newMarker=new PathMarker(origin);
+        newMarker.inferencePath=new InferencePath(firstLink);
+        if(PathMarkerPassingConfig.bAbductiveInference)
+            this.inferencePath.setAbductiveLinkNumber(firstLink,startsAtAnswer);
+    }
+
+    public PathMarker(PathMarker marker, Link nextLink){
+        this.startsAtAnswer=marker.startsAtAnswer;
+        this.inferencePath=new InferencePath(marker.getInferencePath());
+        this.inferencePath.addLinkToPath(nextLink);
+        this.activation=1;
+        this.answerNo=marker.answerNo;
+        this.origin=marker.origin;
+        if(PathMarkerPassingConfig.bAbductiveInference)
+            this.inferencePath.setAbductiveLinkNumber(nextLink,startsAtAnswer);
+    }
+
     public void setStartsAtAnswer(boolean startsAtAnswer){this.startsAtAnswer=startsAtAnswer;}
 
     public boolean startsAtAnswer(){
@@ -41,30 +65,6 @@ public class PathMarker implements Marker{
     public double getActivation(){return this.activation;}
 
     public void setActivation(Double activation){this.activation=activation;}
-
-    public PathMarker(PathMarker marker, Link nextLink){
-        this.startsAtAnswer=marker.startsAtAnswer;
-        this.inferencePath=new InferencePath(marker.getInferencePath());
-        this.inferencePath.addLinkToPath(nextLink);
-        this.activation=1;
-        this.answerNo=marker.answerNo;
-        this.origin=marker.origin;
-        if(PathMarkerPassingConfig.bAbductiveInference)
-            this.inferencePath.setAbductiveLinkNumber(nextLink,startsAtAnswer);
-    }
-
-    public PathMarker(Concept origin,Link firstLink){
-        PathMarker newMarker=new PathMarker(origin);
-        newMarker.inferencePath=new InferencePath(firstLink);
-        if(PathMarkerPassingConfig.bAbductiveInference)
-            this.inferencePath.setAbductiveLinkNumber(firstLink,startsAtAnswer);
-    }
-
-    public PathMarker(Concept origin){
-        this.origin=origin;
-        this.activation=1;
-        this.inferencePath=new InferencePath();
-    }
 
     public String toString(){
         StringBuilder res = new StringBuilder();

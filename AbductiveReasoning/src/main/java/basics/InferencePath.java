@@ -34,6 +34,12 @@ public class InferencePath {
         visitedNodes=new ArrayList<>();
     }
 
+    public InferencePath(InferencePath path){
+        this.pathType=new ArrayList<>(path.pathType);
+        this.visitedNodes=new ArrayList<>(path.visitedNodes);
+        nabductiveLinkSize=0;
+    }
+
     public InferencePath(Link link){
         pathType=new ArrayList<>();
         pathType.add(link);
@@ -42,6 +48,13 @@ public class InferencePath {
         visitedNodes.add(link.getSource());
         visitedNodes.add(link.getTarget());
         nabductiveLinkSize=0;
+    }
+
+    public void addLinkToPath(Link link){
+        visitedNodes.add(link.getTarget());
+//        if( pathType.size() == 0 || ! link.getClass().equals(pathType.get(pathType.size()-1).getClass()))
+        pathType.add(link);
+        setContainLinkBoolean(link);
     }
 
     private void setContainLinkBoolean(Link link) {
@@ -61,17 +74,11 @@ public class InferencePath {
         containsMeronymLink=true;
     }
 
-    public InferencePath(InferencePath path){
-        this.pathType=new ArrayList<>(path.pathType);
-        this.visitedNodes=new ArrayList<>(path.visitedNodes);
-        nabductiveLinkSize=0;
-    }
-
-    public void addLinkToPath(Link link){
-        visitedNodes.add(link.getTarget());
-//        if( pathType.size() == 0 || ! link.getClass().equals(pathType.get(pathType.size()-1).getClass()))
-            pathType.add(link);
-        setContainLinkBoolean(link);
+    /*
+    //todo-semantic : equality refers to semantically identity
+     */
+    public boolean equals(InferencePath path2){
+        return this.pathType.equals(path2.pathType) && this.visitedNodes.equals(path2.visitedNodes);
     }
 
     public List<Link> getInferencePath(){return pathType;}
@@ -80,27 +87,9 @@ public class InferencePath {
         return visitedNodes.contains(node);
     }
 
-    @Override
-    public String toString(){
-        StringBuilder str = new StringBuilder();
-        str.append("Pathtype: ");
-        pathType.forEach(link->{str.append(link.getClass().toString() + "; ");});
-        str.append("visitedNodes: ");
-        visitedNodes.forEach(link->{str.append(link.getClass().toString() + "; ");});
-        str.append("\n");
-        return new String(str);
-    }
-
-    public String printHistory() {
-        StringBuilder res = new StringBuilder();
-        res.append(" [ ");
-        visitedNodes.forEach(node -> {
-            res.append(((PathNode)node).getConcept() +" -> ");
-        });
-        res.append("]");
-        return res.toString();
-    }
-
+    /*
+    //todo-refactoring : part of what experiment
+     */
     public static boolean pathMatchesWhiteListWithAdditionalLink_v001(InferencePath path, Link link){
         if (link instanceof AntonymLink )
             return false;
@@ -118,6 +107,9 @@ public class InferencePath {
                 path.containsMeronymLink);
     }
 
+    /*
+    //todo-refactoring : part of what experiment
+     */
     public static boolean pathMatchesWhiteListWithAdditionalLink(InferencePath path, Link link){
         if (link instanceof AntonymLink )
             return false;
@@ -128,6 +120,9 @@ public class InferencePath {
             return true;
     }
 
+    /*
+    //todo-refactoring : part of what experiment
+     */
     public static boolean matchesWhiteList(InferencePath path){
         if (PathMarkerPassingConfig.bAbductiveInference) {
             return (path.containsSynonymLink
@@ -150,9 +145,6 @@ public class InferencePath {
         }
     }
 
-    public boolean equals(InferencePath path2){
-        return this.pathType.equals(path2.pathType) && this.visitedNodes.equals(path2.visitedNodes);
-    }
 
     public void setAbductiveLinkNumber(Link newLink, boolean isAnswer) {
         if(!isAnswer){
@@ -164,13 +156,15 @@ public class InferencePath {
                     || newLink instanceof MeronymLink)
                 nabductiveLinkSize++;
         }
-
     }
 
     public int getAbductiveLinkSize() {
         return nabductiveLinkSize;
     }
 
+    /*
+    //todo: verify abduction is shown that way
+     */
     public double getAbductiveValue(){
         return nabductiveLinkSize/getPathSize();
     }
@@ -200,4 +194,26 @@ public class InferencePath {
             return definitionSpec;
         return 0D;
     }
+
+    @Override
+    public String toString(){
+        StringBuilder str = new StringBuilder();
+        str.append("Pathtype: ");
+        pathType.forEach(link->{str.append(link.getClass().toString() + "; ");});
+        str.append("visitedNodes: ");
+        visitedNodes.forEach(link->{str.append(link.getClass().toString() + "; ");});
+        str.append("\n");
+        return new String(str);
+    }
+
+    public String printHistory() {
+        StringBuilder res = new StringBuilder();
+        res.append(" [ ");
+        visitedNodes.forEach(node -> {
+            res.append(((PathNode)node).getConcept() +" -> ");
+        });
+        res.append("]");
+        return res.toString();
+    }
+
 }

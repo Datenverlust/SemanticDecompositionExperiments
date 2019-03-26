@@ -72,5 +72,11 @@ public class PathMarkerTest {
         marker2=createMarker(marker1,link1);
         assertEquals(markerList.size(),2);
         assertEquals(marker2.getOrigin().getLemma().toString(),marker1.getOrigin().getLemma().toString());
+        assertEquals(marker1.inferencePath.size(),0);
+        assertEquals(marker2.inferencePath.size(),1);
+    }
+
+    @Test void toTestOnlyOneMarkerIsPassedThroughTheSameLink(){
+
     }
 }
