@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="57" name="Composition" origNum="#54." class="1" section="3" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="composition">
+			<sg number="1">
+				<word number="1">composition</word>
+				<word number="2">constitution</word>
+				<word number="3">crasis</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="combination" headRef="51">combination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inclusion</word>
+				<word number="2">admission</word>
+				<word number="3">comprehension</word>
+				<word number="4">reception</word>
+			</sg>
+			<sg number="4">
+				<word number="1">embodiment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">formation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be composed of">
+			<sg number="1">
+				<word number="1">be composed of</word>
+				<word number="2">be made of</word>
+				<word number="3">be formed of</word>
+				<word number="4">be made up of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">consist of</word>
+				<word number="2">be resolved into</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="include">
+			<sg number="1">
+				<word number="1" paraRef="include" headRef="80">include</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contain</word>
+				<word number="2">hold</word>
+				<word number="3">comprehend</word>
+				<word number="4">take in</word>
+				<word number="5">admit</word>
+				<word number="6">embrace</word>
+				<word number="7">embody</word>
+			</sg>
+			<sg number="3">
+				<word number="1">involve</word>
+				<word number="2">implicate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drag into</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="compose">
+			<sg number="1">
+				<word number="1">compose</word>
+				<word number="2">constitute</word>
+				<word number="3">form</word>
+				<word number="4">make</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make up</word>
+				<word number="2">fill up</word>
+				<word number="3">build up</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be a component" headRef="59">enter into the composition of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="containing">
+			<sg number="1">
+				<word number="1">containing</word>
+				<word number="2" paraRef="" posRef="v.">constituting</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

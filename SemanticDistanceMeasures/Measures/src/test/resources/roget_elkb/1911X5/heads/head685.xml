@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="685" name="Salubrity" origNum="#656." class="6" section="2" subSection="2" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="salubrity">
+			<sg number="1">
+				<word number="1">salubrity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">healthiness</word>
+				<word number="2">fine climate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eudiometer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hygiene">
+			<sg number="1">
+				<word number="1">hygiene</word>
+			</sg>
+			<sg number="2">
+				<word number="1">valetudinarian</word>
+				<word number="2">valetudinarianism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sanitarian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sanitarium</word>
+				<word number="2">sanitorium</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be salubrious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be salubrious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agree with</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="assimilate" headRef="25">assimilate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="salubrious">
+			<sg number="1">
+				<word number="1">salubrious</word>
+				<word number="2">salutary</word>
+				<word number="3">salutiferous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wholesome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">healthy</word>
+				<word number="2">healthful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sanitary</word>
+				<word number="2">prophYlactic</word>
+				<word number="3">benign</word>
+				<word number="4">bracing</word>
+				<word number="5">tonic</word>
+				<word number="6">invigorating</word>
+				<word number="7">good for</word>
+				<word number="8">nutritious</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hygeian</word>
+				<word number="2">hygienic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="innoxious">
+			<sg number="1">
+				<word number="1">innoxious</word>
+				<word number="2">innocuous</word>
+				<word number="3">innocent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harmless</word>
+				<word number="2">uninjurious</word>
+				<word number="3">uninfectious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sanative">
+			<sg number="1">
+				<word number="1" paraRef="remedial" headRef="691">sanative</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="reinstate" headRef="689">restorative</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="useful" headRef="673">useful</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

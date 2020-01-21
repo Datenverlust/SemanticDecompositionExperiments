@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="369" name="Organization" origNum="#357." class="3" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="organized world">
+			<sg number="1">
+				<word number="1">organized world</word>
+				<word number="2">organized nature</word>
+			</sg>
+			<sg number="2">
+				<word number="1">living nature</word>
+				<word number="2">animated nature</word>
+			</sg>
+			<sg number="3">
+				<word number="1">living beings</word>
+			</sg>
+			<sg number="4">
+				<word number="1">organic remains</word>
+				<word number="2">fossils</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="protoplasm">
+			<sg number="1">
+				<word number="1">protoplasm</word>
+				<word number="2">cytoplasm</word>
+				<word number="3">protein</word>
+			</sg>
+			<sg number="2">
+				<word number="1">albumen</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="structure" headRef="340">structure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">organization</word>
+				<word number="2">organism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="biology">
+			<sg number="1">
+				<word number="1">biology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">natural history</word>
+				<word number="2">organic chemistry</word>
+				<word number="3">anatomy</word>
+				<word number="4">physiology</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="zoology" headRef="380">zoology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">botany</word>
+			</sg>
+			<sg number="5">
+				<word number="1">microbiology</word>
+				<word number="2">virology</word>
+				<word number="3">bacteriology</word>
+				<word number="4" paraRef="mycology" headRef="381">mycology</word>
+				<word number="5" new="1">kepi</word>
+			</sg>
+			<sg number="6">
+				<word number="1">naturalist</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">deadlift</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">transpose</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">organized</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">clap</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">mos</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">flexible</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">studio</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">trie</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">shogunate</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">maltose</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">nontotient</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="archegenesis">
+			<sg number="1">
+				<word number="1" paraRef="production" headRef="168">archegenesis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">antherozoid</word>
+				<word number="2">bioplasm</word>
+				<word number="3">biotaxy</word>
+				<word number="4">chromosome</word>
+				<word number="5">dysmeromorph</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ecology</word>
+				<word number="2">oecology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">erythroblast</word>
+				<word number="2">gametangium</word>
+				<word number="3">gamete</word>
+				<word number="4">germinal matter</word>
+				<word number="5">invagination</word>
+			</sg>
+			<sg number="5">
+				<word number="1">isogamy</word>
+				<word number="2">oogamy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">karyaster</word>
+			</sg>
+			<sg number="7">
+				<word number="1">macrogamete</word>
+				<word number="2">microgamete</word>
+			</sg>
+			<sg number="8">
+				<word number="1">metabolism</word>
+				<word number="2">anabolism</word>
+				<word number="3">catabolism</word>
+			</sg>
+			<sg number="9">
+				<word number="1">metaplasm</word>
+				<word number="2">ontogeny</word>
+				<word number="3">ovary</word>
+				<word number="4">ovum</word>
+				<word number="5">oxidation</word>
+				<word number="6">phylogeny</word>
+				<word number="7">polymorphism</word>
+				<word number="8">protozoa</word>
+				<word number="9">spermary</word>
+				<word number="10">spermatozoon</word>
+				<word number="11">trophoplasm</word>
+				<word number="12">vacuole</word>
+				<word number="13">vertebration</word>
+				<word number="14">zoogloea</word>
+				<word number="15">zygote</word>
+				<word number="16" new="1">turaco</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Darwinism">
+			<sg number="1">
+				<word number="1">Darwinism</word>
+				<word number="2">neo-Darwinism</word>
+				<word number="3">Lamarkism</word>
+				<word number="4">neoLamarkism</word>
+				<word number="5">Weismannism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="morphology">
+			<sg number="1">
+				<word number="1">morphology</word>
+				<word number="2">taxonomy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="rudeness">
+			<sg number="1">
+				<word number="1" new="1">rudeness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="organic">
+			<sg number="1">
+				<word number="1">organic</word>
+				<word number="2">organized</word>
+			</sg>
+			<sg number="2">
+				<word number="1">karyoplasmic</word>
+				<word number="2">unsegmentic</word>
+				<word number="3">vacuolar</word>
+				<word number="4">zoogloeic</word>
+				<word number="5">zoogloeoid</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

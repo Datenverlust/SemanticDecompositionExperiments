@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="783" name="Prison" origNum="#752." class="7" section="1" subSection="1" headGroup="13">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prison">
+			<sg number="1">
+				<word number="1">prison</word>
+				<word number="2">prison house</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jail</word>
+				<word number="2">gaol</word>
+				<word number="3">cage</word>
+				<word number="4">coop</word>
+				<word number="5">den</word>
+				<word number="6">cell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stronghold</word>
+				<word number="2">fortress</word>
+				<word number="3">keep</word>
+				<word number="4">donjon</word>
+				<word number="5">dungeon</word>
+				<word number="6">Bastille</word>
+				<word number="7">oubliette</word>
+				<word number="8">bridewell</word>
+				<word number="9">house of correction</word>
+				<word number="10">hulks</word>
+				<word number="11">tollbooth</word>
+				<word number="12">panopticon</word>
+				<word number="13">penitentiary</word>
+				<word number="14">guardroom</word>
+				<word number="15">lockup</word>
+				<word number="16">hold</word>
+			</sg>
+			<sg number="4">
+				<word number="1">round house</word>
+				<word number="2">watch house</word>
+				<word number="3">station house</word>
+				<word number="4">sponging house</word>
+			</sg>
+			<sg number="5">
+				<word number="1">station</word>
+			</sg>
+			<sg number="6">
+				<word number="1">house of detention</word>
+				<word number="2">black hole</word>
+				<word number="3">pen</word>
+				<word number="4">fold</word>
+				<word number="5">pound</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="inclosure" headRef="242">inclosure</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="exclusion" headRef="932">isolation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">penal settlement</word>
+				<word number="2">penal colony</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bilboes</word>
+				<word number="2">stocks</word>
+				<word number="3">limbo</word>
+				<word number="4">quod*</word>
+			</sg>
+			<sg number="11">
+				<word number="1">calaboose</word>
+				<word number="2">chauki</word>
+				<word number="3">choky</word>
+				<word number="4">thana</word>
+			</sg>
+			<sg number="12">
+				<word number="1">workhouse</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">asylum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="means of restraint">
+			<sg number="1">
+				<word number="1">means of restraint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Newgate">
+			<sg number="1">
+				<word number="1">Newgate</word>
+				<word number="2">Fleet</word>
+				<word number="3">Marshalsea</word>
+			</sg>
+			<sg number="2">
+				<word number="1">King's (or Queen's) Bench</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bond">
+			<sg number="1">
+				<word number="1">bond</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bandage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">irons</word>
+				<word number="2">pinion</word>
+				<word number="3">gyve</word>
+				<word number="4">fetter</word>
+				<word number="5">shackle</word>
+				<word number="6">trammel</word>
+				<word number="7">manacle</word>
+				<word number="8">handcuff</word>
+				<word number="9">straight jacket</word>
+				<word number="10">strait jacket</word>
+				<word number="11">strait-jacket</word>
+				<word number="12">strait-waistcoat</word>
+				<word number="13">hopples</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vice</word>
+				<word number="2">vise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="yoke">
+			<sg number="1">
+				<word number="1">yoke</word>
+				<word number="2">collar</word>
+				<word number="3">halter</word>
+				<word number="4">harness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">muzzle</word>
+				<word number="2">gag</word>
+				<word number="3">bit</word>
+				<word number="4">brake</word>
+				<word number="5">curb</word>
+				<word number="6">snaffle</word>
+				<word number="7">bridle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rein</word>
+				<word number="2">reins</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bearing rein</word>
+			</sg>
+			<sg number="5">
+				<word number="1">martingale</word>
+			</sg>
+			<sg number="6">
+				<word number="1">leading string</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tether</word>
+				<word number="2">picket</word>
+				<word number="3">band</word>
+				<word number="4">guy</word>
+				<word number="5">chain</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="fastening" headRef="48">cord</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cavesson</word>
+				<word number="2">hackamore</word>
+				<word number="3">headstall</word>
+				<word number="4">jaquima</word>
+				<word number="5">lines</word>
+				<word number="6">ribbons</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">saddle</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">stirrup</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="bolt">
+			<sg number="1">
+				<word number="1">bolt</word>
+				<word number="2">deadbolt</word>
+				<word number="3">bar</word>
+				<word number="4">lock</word>
+				<word number="5">police lock</word>
+				<word number="6">combination lock</word>
+				<word number="7">padlock</word>
+				<word number="8">rail</word>
+				<word number="9">wall</word>
+				<word number="10">stone wall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">paling</word>
+				<word number="2">palisade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fence</word>
+				<word number="2">picket fence</word>
+				<word number="3">barbed wire fence</word>
+				<word number="4">Cyclone fence</word>
+				<word number="5">stockade fence</word>
+				<word number="6">chain-link fence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barrier</word>
+				<word number="2">barricade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="drag">
+			<sg number="1">
+				<word number="1" paraRef="hindrance" headRef="735">drag</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

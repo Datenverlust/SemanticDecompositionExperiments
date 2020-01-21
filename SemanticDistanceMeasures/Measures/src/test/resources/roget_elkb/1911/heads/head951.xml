@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="951" name="Misanthropy" origNum="#911." class="8" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="misanthropy">
+			<sg number="1">
+				<word number="1">misanthropy</word>
+				<word number="2">incivism</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="selfishness" headRef="985">egotism</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="morose" headRef="941">moroseness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cynicism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="misanthrope">
+			<sg number="1">
+				<word number="1">misanthrope</word>
+				<word number="2">misanthropist</word>
+				<word number="3">egotist</word>
+				<word number="4">cynic</word>
+				<word number="5">man hater</word>
+				<word number="6">Timon</word>
+				<word number="7">Diogenes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="woman hater">
+			<sg number="1">
+				<word number="1">woman hater</word>
+				<word number="2">misogynist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misanthropic">
+			<sg number="1">
+				<word number="1">misanthropic</word>
+				<word number="2">antisocial</word>
+				<word number="3">unpatriotic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="selfish" headRef="985">egotistical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="morose" headRef="941">morose</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

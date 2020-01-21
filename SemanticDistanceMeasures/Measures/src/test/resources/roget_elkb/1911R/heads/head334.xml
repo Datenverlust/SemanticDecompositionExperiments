@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="334" name="Hardness" origNum="#323." class="3" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="hardness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">hardness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rigidity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">renitence</word>
+				<word number="2">renitency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inflexibility</word>
+				<word number="2">temper</word>
+				<word number="3">callosity</word>
+				<word number="4">durity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="induration">
+			<sg number="1">
+				<word number="1">induration</word>
+				<word number="2">petrifaction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lapidification</word>
+				<word number="2">lapidescence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vitrification</word>
+				<word number="2">ossification</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crystallization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stone">
+			<sg number="1">
+				<word number="1">stone</word>
+				<word number="2">pebble</word>
+				<word number="3">flint</word>
+				<word number="4">marble</word>
+				<word number="5">rock</word>
+				<word number="6">fossil</word>
+				<word number="7">crag</word>
+				<word number="8">crystal</word>
+				<word number="9">quartz</word>
+				<word number="10">granite</word>
+				<word number="11">adamant</word>
+				<word number="12" new="1">clot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bone</word>
+				<word number="2">cartilage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hardware</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heart of oak</word>
+				<word number="2">block</word>
+				<word number="3">board</word>
+				<word number="4">deal board</word>
+			</sg>
+			<sg number="5">
+				<word number="1">iron</word>
+				<word number="2">steel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cast iron</word>
+				<word number="2">decarbonized iron</word>
+				<word number="3">wrought iron</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nail</word>
+			</sg>
+			<sg number="8">
+				<word number="1">brick</word>
+				<word number="2">concrete</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cement</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">capelin</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">mutantkind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render hard">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render hard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harden</word>
+				<word number="2">stiffen</word>
+				<word number="3">indurate</word>
+				<word number="4">petrify</word>
+				<word number="5">temper</word>
+				<word number="6">ossify</word>
+				<word number="7">vitrify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accrust</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="hard">
+			<sg number="1">
+				<word number="1">hard</word>
+				<word number="2">rigid</word>
+				<word number="3">stubborn</word>
+				<word number="4">stiff</word>
+				<word number="5">firm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">starch</word>
+				<word number="2">starched</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stark</word>
+				<word number="2">unbending</word>
+				<word number="3">unlimber</word>
+				<word number="4">unyielding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inflexible</word>
+				<word number="2">tense</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indurate</word>
+				<word number="2">indurated</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gritty</word>
+				<word number="2">proof</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="adamant">
+			<sg number="1">
+				<word number="1">adamant</word>
+				<word number="2">adamantine</word>
+				<word number="3">adamantean</word>
+			</sg>
+			<sg number="2">
+				<word number="1">concrete</word>
+				<word number="2">stony</word>
+				<word number="3">granitic</word>
+				<word number="4">calculous</word>
+				<word number="5">lithic</word>
+				<word number="6">vitreous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">horny</word>
+				<word number="2">corneous</word>
+				<word number="3" new="1">stationed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bony</word>
+			</sg>
+			<sg number="5">
+				<word number="1">osseous</word>
+				<word number="2">ossific</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cartilaginous</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="n.">hard as a rock</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stiff as buckram</word>
+				<word number="2">stiff as a poker</word>
+			</sg>
+			<sg number="9">
+				<word number="1">stiff as starch</word>
+				<word number="2">stiff as a board</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">riparian</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

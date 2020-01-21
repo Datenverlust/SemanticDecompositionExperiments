@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="548" name="Misinterpretation" origNum="#523." class="5" section="1" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="misinterpretation">
+			<sg number="1">
+				<word number="1">misinterpretation</word>
+				<word number="2">misapprehension</word>
+				<word number="3">misunderstanding</word>
+				<word number="4">misacceptation</word>
+				<word number="5">misconstruction</word>
+				<word number="6">misapplication</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catachresis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">eisegesis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cross-reading</word>
+				<word number="2">cross-purposes</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="mistake" headRef="519">mistake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="misrepresentation">
+			<sg number="1">
+				<word number="1">misrepresentation</word>
+				<word number="2">perversion</word>
+				<word number="3" paraRef="exaggeration" headRef="575">exaggeration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">false coloring</word>
+				<word number="2">false construction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abuse of terms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">parody</word>
+				<word number="2">travesty</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="lying" headRef="570">falsification</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="misinterpret">
+			<sg number="1">
+				<word number="1">misinterpret</word>
+				<word number="2">misapprehend</word>
+				<word number="3">misunderstand</word>
+				<word number="4">misconceive</word>
+				<word number="5">misspell</word>
+				<word number="6">mistranslate</word>
+				<word number="7">misconstrue</word>
+				<word number="8">misapply</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mistake" headRef="519">mistake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="misrepresent">
+			<sg number="1">
+				<word number="1">misrepresent</word>
+				<word number="2">pervert</word>
+			</sg>
+			<sg number="2">
+				<word number="1">explain wrongly</word>
+				<word number="2">misstate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="falsify" headRef="570">garble</word>
+			</sg>
+			<sg number="4">
+				<word number="1">distort</word>
+				<word number="2">detort</word>
+			</sg>
+			<sg number="5">
+				<word number="1">travesty</word>
+				<word number="2">play upon words</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stretch the sense</word>
+				<word number="2">strain the sense</word>
+				<word number="3">stretch the meaning</word>
+				<word number="4">strain the meaning</word>
+				<word number="5">wrest the sense</word>
+				<word number="6">wrest the meaning</word>
+			</sg>
+			<sg number="7">
+				<word number="1">explain away</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put a bad construction on</word>
+				<word number="2">put a false construction on</word>
+			</sg>
+			<sg number="9">
+				<word number="1">give a false coloring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be at cross purposes">
+			<sg number="1">
+				<word number="1">be at cross purposes</word>
+				<word number="2">play at cross purposes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="misinterpreted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">misinterpreted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">untranslated</word>
+				<word number="2">untranslatable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

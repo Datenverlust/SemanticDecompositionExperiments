@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="191" name="Place" origNum="#182." class="2" section="1" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="place">
+			<sg number="1">
+				<word number="1">place</word>
+				<word number="2">lieu</word>
+				<word number="3">spot</word>
+				<word number="4">point</word>
+				<word number="5">dot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">niche</word>
+				<word number="2" paraRef="corner" headRef="254">nook</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hole</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="receptacle" headRef="200">pigeonhole</word>
+			</sg>
+			<sg number="5">
+				<word number="1">compartment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">premises</word>
+				<word number="2">precinct</word>
+				<word number="3">station</word>
+			</sg>
+			<sg number="7">
+				<word number="1">area</word>
+				<word number="2">courtyard</word>
+				<word number="3">square</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="abode" headRef="198">abode</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="situation" headRef="192">locality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="limited space">
+			<sg number="1">
+				<word number="1">limited space</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ins and outs">
+			<sg number="1">
+				<word number="1">ins and outs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">every hole and corner</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="somewhere">
+			<sg number="1">
+				<word number="1">somewhere</word>
+				<word number="2">in some place</word>
+				<word number="3">wherever it may be</word>
+				<word number="4">here and there</word>
+				<word number="5">in various places</word>
+				<word number="6">passim</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

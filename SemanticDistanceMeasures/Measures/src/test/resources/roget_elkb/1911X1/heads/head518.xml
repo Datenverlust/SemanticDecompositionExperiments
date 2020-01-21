@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="518" name="Truth" origNum="#494." class="4" section="5" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fact">
+			<sg number="1">
+				<word number="1">fact</word>
+				<word number="2" paraRef="existence" headRef="1">reality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plain fact</word>
+				<word number="2">plain matter of fact</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="principle" headRef="5">nature</word>
+			</sg>
+			<sg number="4">
+				<word number="1">truth</word>
+				<word number="2">verity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gospel</word>
+				<word number="2">gospel truth</word>
+				<word number="3">God's honest truth</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="orthodoxy" headRef="1027">orthodoxy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">authenticity</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="veracity" headRef="569">veracity</word>
+			</sg>
+			<sg number="9">
+				<word number="1">correctness</word>
+				<word number="2">correctitude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="accuracy">
+			<sg number="1">
+				<word number="1">accuracy</word>
+				<word number="2">exactitude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exactness</word>
+				<word number="2" paraRef="" posRef="adj.">preciseness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">precision</word>
+				<word number="2">delicacy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rigor</word>
+				<word number="2">mathematical precision</word>
+				<word number="3">punctuality</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="normality" headRef="84">clockwork precision</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conformity to rule</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nicety</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="orthology">
+			<sg number="1">
+				<word number="1">orthology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ipsissima verba</word>
+			</sg>
+			<sg number="3">
+				<word number="1">realism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="plain truth">
+			<sg number="1">
+				<word number="1">plain truth</word>
+				<word number="2">honest truth</word>
+				<word number="3">sober truth</word>
+				<word number="4">naked truth</word>
+				<word number="5">unalloyed truth</word>
+				<word number="6">unqualified truth</word>
+				<word number="7">stern truth</word>
+				<word number="8">exact truth</word>
+				<word number="9">intrinsic truth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nuda veritas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the very thing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="illusion" headRef="519">not an illusion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">real Simon Pure</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unvarnished tale</word>
+				<word number="2">unvarnished  truth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">the truth the whole truth and nothing but the truth</word>
+			</sg>
+			<sg number="8">
+				<word number="1">just the thing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be true">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be true</word>
+				<word number="2">be the case</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sand the test</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have the true ring</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hold good</word>
+				<word number="2">hold true</word>
+				<word number="3">hold water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render true">
+			<sg number="1">
+				<word number="1">render true</word>
+				<word number="2" paraRef="" posRef="adj.">prove true</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="evidence" headRef="490">substantiate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="get at the truth">
+			<sg number="1">
+				<word number="1" paraRef="discover" headRef="504">get at the truth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="real">
+			<sg number="1">
+				<word number="1">real</word>
+				<word number="2" paraRef="existing" headRef="1">actual</word>
+			</sg>
+			<sg number="2">
+				<word number="1">veritable</word>
+				<word number="2">true</word>
+			</sg>
+			<sg number="3">
+				<word number="1">right</word>
+				<word number="2">correct</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="certain" headRef="497">certain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">substantially true</word>
+				<word number="2">categorically true</word>
+				<word number="3">definitively true</word>
+			</sg>
+			<sg number="6">
+				<word number="1">true to the letter</word>
+				<word number="2">true as gospel</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unimpeachable</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="veracious" headRef="569">veracious</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unreconfuted</word>
+				<word number="2">unconfuted</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unideal</word>
+				<word number="2">unimagined</word>
+			</sg>
+			<sg number="11">
+				<word number="1">realistic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exact">
+			<sg number="1">
+				<word number="1">exact</word>
+				<word number="2">accurate</word>
+				<word number="3">definite</word>
+				<word number="4">precise</word>
+				<word number="5">well-defined</word>
+				<word number="6">just</word>
+				<word number="7">just so</word>
+				<word number="8">so</word>
+				<word number="9" new="1">approximate</word>
+				<word number="10" new="1">unambiguous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strict</word>
+				<word number="2">severe</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="similar" headRef="18">close</word>
+			</sg>
+			<sg number="4">
+				<word number="1">literal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rigid</word>
+				<word number="2">rigorous</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="conscientious" headRef="981">scrupulous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">religiously exact</word>
+				<word number="2">punctual</word>
+				<word number="3">mathematical</word>
+				<word number="4">scientific</word>
+			</sg>
+			<sg number="8">
+				<word number="1">faithful</word>
+				<word number="2">constant</word>
+				<word number="3">unerring</word>
+			</sg>
+			<sg number="9">
+				<word number="1">curious</word>
+				<word number="2">particular</word>
+				<word number="3">nice</word>
+				<word number="4">delicate</word>
+				<word number="5">fine</word>
+			</sg>
+			<sg number="10">
+				<word number="1">clean-cut</word>
+				<word number="2">clear-cut</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">intuitive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="verified">
+			<sg number="1">
+				<word number="1">verified</word>
+				<word number="2">empirically true</word>
+				<word number="3">experimentally verified</word>
+				<word number="4">substantiated</word>
+				<word number="5" paraRef="demonstrated" headRef="501">proven</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="rigorously true">
+			<sg number="1">
+				<word number="1">rigorously true</word>
+				<word number="2">unquestionably true</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="true by definition">
+			<sg number="1">
+				<word number="1">true by definition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="genuine">
+			<sg number="1">
+				<word number="1">genuine</word>
+				<word number="2">authentic</word>
+				<word number="3">legitimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="orthodox" headRef="1027">orthodox</word>
+			</sg>
+			<sg number="3">
+				<word number="1">official</word>
+				<word number="2">ex officio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="pure">
+			<sg number="1">
+				<word number="1">pure</word>
+				<word number="2">natural</word>
+				<word number="3">sound</word>
+				<word number="4">sterling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsophisticated</word>
+				<word number="2">unadulterated</word>
+				<word number="3">unvarnished</word>
+				<word number="4">unalloyed</word>
+				<word number="5">uncolored</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in its true colors</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pukka</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="well-grounded">
+			<sg number="1">
+				<word number="1">well-grounded</word>
+				<word number="2">well founded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">solid</word>
+				<word number="2">substantial</word>
+				<word number="3">tangible</word>
+				<word number="4">valid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undistorted</word>
+				<word number="2">undisguised</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unaffected</word>
+				<word number="2">unexaggerated</word>
+				<word number="3">unromantic</word>
+				<word number="4">unflattering</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="truly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">truly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">verily</word>
+				<word number="2">indeed</word>
+				<word number="3">really</word>
+				<word number="4">in reality</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="veracity" headRef="569">with truth</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="certain" headRef="497">certainly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="existence" headRef="1">actually</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="intrinsically" headRef="5">in effect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exactly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">exactly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ad amussim</word>
+			</sg>
+			<sg number="3">
+				<word number="1">verbatim</word>
+				<word number="2">verbatim et literatim</word>
+			</sg>
+			<sg number="4">
+				<word number="1">word for word</word>
+				<word number="2">literally</word>
+				<word number="3">literatim</word>
+				<word number="4">totidem vervis</word>
+				<word number="5">sic</word>
+				<word number="6">to the letter</word>
+				<word number="7">chapter and verse</word>
+				<word number="8">ipsissimis verbis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ad unguem</word>
+			</sg>
+			<sg number="6">
+				<word number="1">to an inch</word>
+			</sg>
+			<sg number="7">
+				<word number="1">to a nicety</word>
+				<word number="2">to a hair</word>
+				<word number="3">to a tittle</word>
+				<word number="4">to a turn</word>
+				<word number="5">to a T</word>
+			</sg>
+			<sg number="8">
+				<word number="1">au pied de la lettre</word>
+			</sg>
+			<sg number="9">
+				<word number="1">neither more nor less</word>
+			</sg>
+			<sg number="10">
+				<word number="1">in every respect</word>
+				<word number="2">in all respects</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sous tous les rapports</word>
+			</sg>
+			<sg number="12">
+				<word number="1">at any rate</word>
+				<word number="2">at all events</word>
+			</sg>
+			<sg number="13">
+				<word number="1">strictly speaking</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the truth is">
+			<sg number="1">
+				<word number="1">the truth is</word>
+				<word number="2">the fact is</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rem acu tetigisti</word>
+			</sg>
+			<sg number="3">
+				<word number="1">en suivant la verite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ex facto jus oritur</word>
+			</sg>
+			<sg number="5">
+				<word number="1">la verita e figlia del empo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">locos y ninos dicen la verdad</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nihil est veritatis luce dulcius</word>
+			</sg>
+			<sg number="8">
+				<word number="1">veritas nunquam perit</word>
+			</sg>
+			<sg number="9">
+				<word number="1">veritatem dies aperit</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"the truth</word>
+				<word number="2">the whole truth</word>
+				<word number="3">and nothing but the truth"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"just the facts</word>
+				<word number="2">ma'am</word>
+				<word number="3">just the facts."</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

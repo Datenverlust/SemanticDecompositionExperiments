@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="94" name="Duplication" origNum="#90." class="1" section="5" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="duplication">
+			<sg number="1">
+				<word number="1">duplication</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">doubling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gemination</word>
+				<word number="2">ingemination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reduplication</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="repetition" headRef="109">iteration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">renewal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="double">
+			<sg number="1">
+				<word number="1">double</word>
+				<word number="2">redouble</word>
+				<word number="3">duplicate</word>
+				<word number="4">reduplicate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">geminate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="repeat" headRef="109">repeat</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="renew" headRef="689">renew</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="double">
+			<sg number="1">
+				<word number="1">double</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">doubled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bicipital</word>
+				<word number="2">bicephalous</word>
+				<word number="3">bidental</word>
+				<word number="4">bilabiate</word>
+				<word number="5">bivalve</word>
+				<word number="6">bivalvular</word>
+				<word number="7">bifold</word>
+				<word number="8">biform</word>
+				<word number="9">bilateral</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bifarious</word>
+				<word number="2">bifacial</word>
+			</sg>
+			<sg number="5">
+				<word number="1">twofold</word>
+				<word number="2">two- sided</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disomatous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">duplex</word>
+			</sg>
+			<sg number="8">
+				<word number="1">double-faced</word>
+				<word number="2">double-headed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">twin</word>
+				<word number="2">duplicate</word>
+				<word number="3">ingeminate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">second</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="twice">
+			<sg number="1">
+				<word number="1">twice</word>
+				<word number="2">once more</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="repeatedly" headRef="109">over again</word>
+			</sg>
+			<sg number="3">
+				<word number="1">as much again</word>
+				<word number="2">twofold</word>
+			</sg>
+			<sg number="4">
+				<word number="1">secondly</word>
+				<word number="2">in the second place</word>
+				<word number="3">again</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

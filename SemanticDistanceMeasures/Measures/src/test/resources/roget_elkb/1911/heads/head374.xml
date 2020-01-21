@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="374" name="Corpse" origNum="#362." class="3" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="corpse">
+			<sg number="1">
+				<word number="1">corpse</word>
+				<word number="2">corse</word>
+				<word number="3">carcass</word>
+				<word number="4">cadaver</word>
+				<word number="5">bones</word>
+				<word number="6">skeleton</word>
+				<word number="7">dry bones</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defunct</word>
+				<word number="2">relics</word>
+				<word number="3">reliquiae</word>
+				<word number="4">remains</word>
+				<word number="5">mortal remains</word>
+				<word number="6">dust</word>
+				<word number="7">ashes</word>
+				<word number="8">earth</word>
+				<word number="9">clay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mummy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">carrion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">food for worms</word>
+				<word number="2">food for fishes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tenement of clay this mortal coil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="shade">
+			<sg number="1">
+				<word number="1">shade</word>
+				<word number="2">ghost</word>
+				<word number="3">manes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="organic remains">
+			<sg number="1">
+				<word number="1">organic remains</word>
+				<word number="2">fossils</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cadaverous">
+			<sg number="1">
+				<word number="1">cadaverous</word>
+				<word number="2">corpse-like</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="buried" headRef="375">unburied</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sapromyiophyllous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

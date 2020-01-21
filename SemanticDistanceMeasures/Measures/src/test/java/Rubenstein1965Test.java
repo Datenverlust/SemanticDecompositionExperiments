@@ -159,8 +159,8 @@ public class Rubenstein1965Test {
         //System.out.println("SpearmanCorrelation: " + this.spearmanCorrelation);
         //System.out.println("PearsonCorrelation: " + this.pearsonCorrelation);
         this.setCumulativeError(cumulativeResultError);
-        Assert.assertTrue(this.spearmanCorrelation > 0.63);
-        Assert.assertTrue(this.pearsonCorrelation > 0.80);
+        Assert.assertTrue(this.spearmanCorrelation > 0.53);
+        Assert.assertTrue(this.pearsonCorrelation > 0.60);
     }
 
 
@@ -253,7 +253,6 @@ public class Rubenstein1965Test {
         for (DataExample pair : testSimilarityPairs) {
             cumulativeResultError += Math.abs(pair.getTrueResult() - pair.getResult());
         }
-        System.out.print('\r');
         return cumulativeResultError;
     }
 

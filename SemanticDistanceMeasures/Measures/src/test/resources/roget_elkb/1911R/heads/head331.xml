@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="331" name="Levity" origNum="#320." class="3" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="levity">
+			<sg number="1">
+				<word number="1">levity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">lightness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imponderability</word>
+				<word number="2">buoyancy</word>
+				<word number="3">volatility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="feather">
+			<sg number="1">
+				<word number="1">feather</word>
+				<word number="2">dust</word>
+				<word number="3">mote</word>
+				<word number="4">down</word>
+				<word number="5">thistle</word>
+				<word number="6">down</word>
+				<word number="7">flue</word>
+				<word number="8">cobweb</word>
+				<word number="9">gossamer</word>
+				<word number="10">straw</word>
+				<word number="11">cork</word>
+				<word number="12">bubble</word>
+				<word number="13">balloon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">float</word>
+				<word number="2">buoy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ether</word>
+				<word number="2">air</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="leaven">
+			<sg number="1">
+				<word number="1">leaven</word>
+				<word number="2">ferment</word>
+				<word number="3">barm</word>
+				<word number="4">yeast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lighter-than-air balloon">
+			<sg number="1">
+				<word number="1">lighter-than-air balloon</word>
+				<word number="2">helium balloon</word>
+				<word number="3">hydrogen balloon</word>
+				<word number="4">hot air balloon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="convection">
+			<sg number="1">
+				<word number="1">convection</word>
+				<word number="2">thermal draft</word>
+				<word number="3">thermal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be light">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be light</word>
+			</sg>
+			<sg number="2">
+				<word number="1">float</word>
+				<word number="2">rise</word>
+				<word number="3">swim</word>
+				<word number="4">be buoyed up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render light">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render light</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lighten</word>
+				<word number="2">leaven</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="light">
+			<sg number="1">
+				<word number="1">light</word>
+				<word number="2">subtile</word>
+				<word number="3">airy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">imponderous</word>
+				<word number="2">imponderable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">astatic</word>
+				<word number="2">weightless</word>
+				<word number="3">ethereal</word>
+				<word number="4">sublimated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gossamery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suberose</word>
+				<word number="2">suberous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">uncompressed</word>
+				<word number="2">volatile</word>
+			</sg>
+			<sg number="7">
+				<word number="1">buoyant</word>
+				<word number="2" paraRef="" posRef="v.">floating</word>
+			</sg>
+			<sg number="8">
+				<word number="1">portable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="light as a feather">
+			<sg number="1">
+				<word number="1">light as a feather</word>
+				<word number="2">light as a thistle</word>
+				<word number="3">light as air</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lighter than air</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rise like a balloon</word>
+				<word number="2">float like a balloon</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

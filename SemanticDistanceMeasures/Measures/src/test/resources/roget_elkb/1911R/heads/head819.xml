@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="819" name="Apportionment" origNum="#786." class="7" section="4" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="apportionment">
+			<sg number="1">
+				<word number="1">apportionment</word>
+				<word number="2">allotment</word>
+				<word number="3">consignment</word>
+				<word number="4">assignment</word>
+				<word number="5">appointment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">appropriation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dispensation</word>
+				<word number="2">distribution</word>
+			</sg>
+			<sg number="4">
+				<word number="1">division</word>
+				<word number="2">deal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">repartition</word>
+				<word number="2">partition</word>
+			</sg>
+			<sg number="6">
+				<word number="1">administration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dividend">
+			<sg number="1">
+				<word number="1">dividend</word>
+				<word number="2">portion</word>
+				<word number="3">contingent</word>
+				<word number="4">share</word>
+				<word number="5">allotment</word>
+				<word number="6">fair share</word>
+				<word number="7">allocation</word>
+				<word number="8">lot</word>
+				<word number="9">measure</word>
+				<word number="10">dose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dole</word>
+				<word number="2">meed</word>
+				<word number="3">pittance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quantum</word>
+				<word number="2">ration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ratio</word>
+				<word number="2">proportion</word>
+				<word number="3">quota</word>
+				<word number="4">modicum</word>
+				<word number="5">mess</word>
+				<word number="6">allowance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suerte</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="apportion">
+			<sg number="1">
+				<word number="1">apportion</word>
+				<word number="2">divide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">distribute</word>
+				<word number="2">administer</word>
+				<word number="3">dispense</word>
+			</sg>
+			<sg number="3">
+				<word number="1">billet</word>
+				<word number="2">allot</word>
+				<word number="3">detail</word>
+				<word number="4">cast</word>
+				<word number="5">share</word>
+				<word number="6">mete</word>
+			</sg>
+			<sg number="4">
+				<word number="1">portion out</word>
+				<word number="2">parcel out</word>
+				<word number="3">dole out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deal</word>
+				<word number="2">carve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="allocate">
+			<sg number="1">
+				<word number="1">allocate</word>
+				<word number="2">ration</word>
+				<word number="3">ration out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assign</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="separate" headRef="47">separate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">graft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="partition">
+			<sg number="1">
+				<word number="1">partition</word>
+				<word number="2">assign</word>
+				<word number="3">appropriate</word>
+				<word number="4">appoint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="come in for one's share">
+			<sg number="1">
+				<word number="1" paraRef="participate" headRef="811">come in for one's share</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="apportioning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">apportioning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">respective</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="respectively">
+			<sg number="1">
+				<word number="1">respectively</word>
+				<word number="2">each to each</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

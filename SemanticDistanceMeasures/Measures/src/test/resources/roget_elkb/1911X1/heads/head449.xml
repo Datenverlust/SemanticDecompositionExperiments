@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="449" name="Whiteness" origNum="#430." class="3" section="3" subSection="2" headGroup="32">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="whiteness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">whiteness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">argent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="albification">
+			<sg number="1">
+				<word number="1">albification</word>
+				<word number="2">etiolation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lactescence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="snow">
+			<sg number="1">
+				<word number="1">snow</word>
+				<word number="2">paper</word>
+				<word number="3">chalk</word>
+				<word number="4">milk</word>
+				<word number="5">lily</word>
+				<word number="6">ivory</word>
+				<word number="7">alabaster</word>
+			</sg>
+			<sg number="2">
+				<word number="1">albata</word>
+				<word number="2">eburin</word>
+				<word number="3">German silver</word>
+				<word number="4">white metal</word>
+				<word number="5">barium sulphate</word>
+				<word number="6">titanium oxide</word>
+				<word number="7">blanc fixe</word>
+				<word number="8">ceruse</word>
+				<word number="9">pearl white</word>
+			</sg>
+			<sg number="3">
+				<word number="1">white lead</word>
+				<word number="2">carbonate of lead</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be white">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be white</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render white">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render white</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whiten</word>
+				<word number="2">bleach</word>
+				<word number="3">blanch</word>
+				<word number="4">etiolate</word>
+				<word number="5">whitewash</word>
+				<word number="6">silver</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="white">
+			<sg number="1">
+				<word number="1">white</word>
+			</sg>
+			<sg number="2">
+				<word number="1">milk-white</word>
+				<word number="2">snow-white</word>
+			</sg>
+			<sg number="3">
+				<word number="1">snowy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">niveous</word>
+				<word number="2">candid</word>
+				<word number="3">chalky</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hoar</word>
+				<word number="2">hoary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">silvery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">argent</word>
+				<word number="2">argentine</word>
+			</sg>
+			<sg number="8">
+				<word number="1">canescent</word>
+				<word number="2">cretaceous</word>
+				<word number="3">lactescent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="whitish">
+			<sg number="1">
+				<word number="1">whitish</word>
+				<word number="2">creamy</word>
+				<word number="3">pearly</word>
+				<word number="4">fair</word>
+				<word number="5">blond</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">blanched</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high in tone</word>
+				<word number="2">light</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="white as a sheet">
+			<sg number="1">
+				<word number="1">white as a sheet</word>
+				<word number="2">white as driven snow</word>
+				<word number="3">white as a lily</word>
+				<word number="4">white as silver</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">like ivory</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

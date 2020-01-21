@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="727" name="Skill" origNum="#698." class="6" section="3" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="skill">
+			<sg number="1">
+				<word number="1">skill</word>
+				<word number="2">skillfulness</word>
+				<word number="3">address</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dexterity</word>
+				<word number="2">dexterousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adroitness</word>
+				<word number="2" paraRef="" posRef="adj.">expertness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">proficiency</word>
+				<word number="2">competence</word>
+				<word number="3">technical competence</word>
+				<word number="4">craft</word>
+				<word number="5">callidity</word>
+				<word number="6">facility</word>
+				<word number="7">knack</word>
+				<word number="8">trick</word>
+				<word number="9">sleight</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mastery</word>
+				<word number="2">mastership</word>
+				<word number="3">excellence</word>
+				<word number="4">panurgy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ambidexterity</word>
+				<word number="2">ambidextrousness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="deception" headRef="571">sleight of hand</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">competency</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">expertise</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">fluency</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="2">credentials</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">savvy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="seamanship">
+			<sg number="1">
+				<word number="1">seamanship</word>
+				<word number="2">airmanship</word>
+				<word number="3">marksmanship</word>
+				<word number="4">horsemanship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rope-dancing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="accomplishment">
+			<sg number="1">
+				<word number="1">accomplishment</word>
+				<word number="2">acquirement</word>
+				<word number="3">attainment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">art</word>
+				<word number="2">science</word>
+			</sg>
+			<sg number="3">
+				<word number="1">technicality</word>
+				<word number="2">technology</word>
+			</sg>
+			<sg number="4">
+				<word number="1">practical knowledge</word>
+				<word number="2">technical knowledge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="knowledge of the world">
+			<sg number="1">
+				<word number="1">knowledge of the world</word>
+				<word number="2">world wisdom</word>
+				<word number="3">savoir faire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tact</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sagacity" headRef="522">mother wit</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="caution" headRef="903">discretion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">finesse</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="cunning" headRef="731">craftiness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="conduct" headRef="721">management</word>
+			</sg>
+			<sg number="8">
+				<word number="1">self-help</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cleverness">
+			<sg number="1">
+				<word number="1">cleverness</word>
+				<word number="2">talent</word>
+				<word number="3">ability</word>
+				<word number="4">ingenuity</word>
+				<word number="5">capacity</word>
+				<word number="6">parts</word>
+				<word number="7">talents</word>
+				<word number="8">faculty</word>
+				<word number="9">endowment</word>
+				<word number="10">forte</word>
+				<word number="11">turn</word>
+				<word number="12">gift</word>
+				<word number="13">genius</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="intelligence" headRef="522">intelligence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sharpness</word>
+				<word number="2" paraRef="activity" headRef="711">readiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="invention" headRef="540">invention</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aptness</word>
+				<word number="2">aptitude</word>
+			</sg>
+			<sg number="6">
+				<word number="1">turn for</word>
+				<word number="2">capacity for</word>
+				<word number="3">genius for</word>
+			</sg>
+			<sg number="7">
+				<word number="1">felicity</word>
+				<word number="2">capability</word>
+				<word number="3">curiosa felicitas</word>
+				<word number="4">qualification</word>
+				<word number="5">habilitation</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">prowess</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="proficient">
+			<sg number="1">
+				<word number="1" paraRef="proficient" headRef="729">proficient</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="masterpiece">
+			<sg number="1">
+				<word number="1">masterpiece</word>
+				<word number="2">coup de maitre</word>
+				<word number="3">chef d'euvre</word>
+				<word number="4">tour de force</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="plan" headRef="655">good stroke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="achievement">
+			<sg number="1">
+				<word number="1" new="1">achievement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="acumen">
+			<sg number="1">
+				<word number="1" new="2">acumen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="feat">
+			<sg number="1">
+				<word number="1" new="2">feat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="knowledge">
+			<sg number="1">
+				<word number="1" new="2">knowledge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="merit">
+			<sg number="1">
+				<word number="1" new="2">merit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="erudition">
+			<sg number="1">
+				<word number="1" new="3">erudition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="exploit">
+			<sg number="1">
+				<word number="1" new="3">exploit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="familiarity">
+			<sg number="1">
+				<word number="1" new="3">familiarity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="grasp">
+			<sg number="1">
+				<word number="1" new="3">grasp</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="innovation">
+			<sg number="1">
+				<word number="1" new="3">innovation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="insight">
+			<sg number="1">
+				<word number="1" new="3">insight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="intellect">
+			<sg number="1">
+				<word number="1" new="3">intellect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="cunning">
+			<sg number="1">
+				<word number="1" new="4">cunning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="experience">
+			<sg number="1">
+				<word number="1" new="4">experience</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="imagination">
+			<sg number="1">
+				<word number="1" new="4">imagination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="instinct">
+			<sg number="1">
+				<word number="1" new="4">instinct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="vision">
+			<sg number="1">
+				<word number="1" new="5">vision</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be skillful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be skillful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">excel in</word>
+				<word number="2">be master of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">have a turn for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="know what's what">
+			<sg number="1">
+				<word number="1">know what's what</word>
+				<word number="2">know a hawk from a handsaw</word>
+				<word number="3">know what one is about</word>
+				<word number="4">know on which side one's bread is buttered</word>
+				<word number="5">know  what's o'clock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have cut one's eye teeth</word>
+				<word number="2">have cut one's wisdom teeth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="see one's way">
+			<sg number="1">
+				<word number="1">see one's way</word>
+				<word number="2">see where the wind lies</word>
+				<word number="3">see which way the wind blows</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have all one's wits about one</word>
+				<word number="2">have one's hand in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">savoir vivre</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scire quid valeant humeri quid ferre recusent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="look after the main chance">
+			<sg number="1">
+				<word number="1">look after the main chance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cut one's coat according to one's cloth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">live by one's wits</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exercise one's discretion</word>
+				<word number="2">feather the oar</word>
+				<word number="3">sail near the wind</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="cunning" headRef="731">stoop to conquer</word>
+			</sg>
+			<sg number="6">
+				<word number="1">play one's cards well</word>
+				<word number="2">play one's best card</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hit the right nail on the head</word>
+				<word number="2">put the saddle on the right horse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="take advantage of">
+			<sg number="1">
+				<word number="1">take advantage of</word>
+				<word number="2">make the most of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="use" headRef="706">profit by</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="succeed" headRef="760">make a hit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make a virtue of necessity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="occasion" headRef="141">make hay while the sun shines</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="skillful">
+			<sg number="1">
+				<word number="1">skillful</word>
+				<word number="2">dexterous</word>
+				<word number="3">adroit</word>
+				<word number="4">expert</word>
+				<word number="5">apt</word>
+				<word number="6">handy</word>
+				<word number="7">quick</word>
+				<word number="8">deft</word>
+				<word number="9">ready</word>
+				<word number="10">gain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slick</word>
+				<word number="2" paraRef="active" headRef="711">smart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proficient</word>
+				<word number="2">good at</word>
+				<word number="3">up to</word>
+				<word number="4">at home in</word>
+				<word number="5">master of</word>
+				<word number="6">a good hand at</word>
+				<word number="7">au fait</word>
+				<word number="8">thoroughbred</word>
+				<word number="9">masterly</word>
+				<word number="10">crack</word>
+				<word number="11">accomplished</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="knowing" headRef="514">conversant</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">master</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">professional</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">promising</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="experienced">
+			<sg number="1">
+				<word number="1">experienced</word>
+				<word number="2">practiced</word>
+				<word number="3">skilled</word>
+				<word number="4">hackneyed</word>
+				<word number="5" new="1">avid</word>
+				<word number="6" new="1">novice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">up in</word>
+				<word number="2">well up in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in practice</word>
+				<word number="2">in proper cue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">competent</word>
+				<word number="2">efficient</word>
+				<word number="3">qualified</word>
+				<word number="4">capable</word>
+				<word number="5">fitted</word>
+				<word number="6">fit for</word>
+				<word number="7">up to the mark</word>
+				<word number="8">trained</word>
+				<word number="9">initiated</word>
+				<word number="10">prepared</word>
+				<word number="11">primed</word>
+				<word number="12">finished</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="clever">
+			<sg number="1">
+				<word number="1">clever</word>
+				<word number="2">cute</word>
+				<word number="3">able</word>
+				<word number="4">ingenious</word>
+				<word number="5">felicitous</word>
+				<word number="6">gifted</word>
+				<word number="7">talented</word>
+				<word number="8">endowed</word>
+				<word number="9" new="1">aspiring</word>
+				<word number="10" new="1">brilliant</word>
+				<word number="11" new="1">precocious</word>
+				<word number="12" new="1">prolific</word>
+				<word number="13" new="1">versatile</word>
+				<word number="14" new="2">regarded</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inventive" headRef="540">inventive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shrewd</word>
+				<word number="2">sharp</word>
+				<word number="3" paraRef="intelligent" headRef="522">on the ball</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cunning" headRef="731">cunning</word>
+			</sg>
+			<sg number="5">
+				<word number="1">alive to</word>
+				<word number="2">up to snuff</word>
+				<word number="3">not to be caught with chaff</word>
+			</sg>
+			<sg number="6">
+				<word number="1">discreet</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">astute</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">crafty</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">wily</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="2">canny</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="neat-handed">
+			<sg number="1">
+				<word number="1">neat-handed</word>
+				<word number="2">fine-fingered</word>
+				<word number="3">nimble-fingered</word>
+				<word number="4">ambidextrous</word>
+				<word number="5">sure- footed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cut out for</word>
+				<word number="2">fitted for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="technical">
+			<sg number="1">
+				<word number="1">technical</word>
+				<word number="2">artistic</word>
+				<word number="3">scientific</word>
+				<word number="4">daedalian</word>
+				<word number="5">shipshape</word>
+			</sg>
+			<sg number="2">
+				<word number="1">workman- like</word>
+				<word number="2">business-like</word>
+				<word number="3">statesman-like</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="respected">
+			<sg number="1">
+				<word number="1" new="1">respected</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="influential">
+			<sg number="1">
+				<word number="1" new="2">influential</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="esteemed">
+			<sg number="1">
+				<word number="1" new="3">esteemed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="distinguished">
+			<sg number="1">
+				<word number="1" new="4">distinguished</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="reputable">
+			<sg number="1">
+				<word number="1" new="4">reputable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="reputed">
+			<sg number="1">
+				<word number="1" new="4">reputed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="illustrious">
+			<sg number="1">
+				<word number="1" new="5">illustrious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="outstanding">
+			<sg number="1">
+				<word number="1" new="5">outstanding</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="prestigious">
+			<sg number="1">
+				<word number="1" new="5">prestigious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="renowned">
+			<sg number="1">
+				<word number="1" new="5">renowned</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="skillfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">skillfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="well" headRef="647">well</word>
+			</sg>
+			<sg number="3">
+				<word number="1">artistically</word>
+			</sg>
+			<sg number="4">
+				<word number="1">with  skill</word>
+				<word number="2">with consummate skill</word>
+			</sg>
+			<sg number="5">
+				<word number="1">secundum artem</word>
+				<word number="2">suo Marte</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="exertion" headRef="715">to the best of one's abilities</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ars celare artem">
+			<sg number="1">
+				<word number="1">ars celare artem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">artes honorabit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">celui qui veut celui-la peut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">c'est une grande habilite que de savoir cacher sonhabilite</word>
+			</sg>
+			<sg number="5">
+				<word number="1">expertus metuit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">es bildet ein Talent sich in der Stille sich ein Charakter in dem Strom der Welt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"heart to conceive the understanding to direct</word>
+				<word number="2">or the hand to execute"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">if you have lemons</word>
+				<word number="2">make lemonade</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

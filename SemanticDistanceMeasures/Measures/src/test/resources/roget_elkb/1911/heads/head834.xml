@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="834" name="Securities" origNum="#799b." class="7" section="4" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="securities">
+			<sg number="1">
+				<word number="1">securities</word>
+				<word number="2">stocks</word>
+				<word number="3">common stock</word>
+				<word number="4">preferred stock</word>
+				<word number="5">bonds</word>
+				<word number="6">puts</word>
+				<word number="7">calls</word>
+				<word number="8">options</word>
+				<word number="9">option contract</word>
+				<word number="10">warrants</word>
+				<word number="11">commercial paper</word>
+				<word number="12">bearer bond</word>
+				<word number="13">tax-exempt bond</word>
+				<word number="14">callable bond</word>
+				<word number="15">convertable bond</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="share">
+			<sg number="1">
+				<word number="1">share</word>
+				<word number="2">stock certificate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coupon</word>
+				<word number="2">bond coupon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="liquid assets">
+			<sg number="1">
+				<word number="1">liquid assets</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

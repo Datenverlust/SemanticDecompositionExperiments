@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="631" name="Perseverance" origNum="#604a." class="6" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="perseverance">
+			<sg number="1">
+				<word number="1">perseverance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="continuance" headRef="150">continuance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="absence of change" headRef="148">permanence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="stability" headRef="157">firmness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="constancy">
+			<sg number="1">
+				<word number="1">constancy</word>
+				<word number="2">steadiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">singleness of purpose</word>
+				<word number="2">tenacity of purpose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">persistence</word>
+				<word number="2">plodding</word>
+				<word number="3">patience</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="industry" headRef="711">sedulity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pertinacy</word>
+				<word number="2">pertinacity</word>
+				<word number="3">pertinaciousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="iteration" headRef="109">iteration</word>
+				<word number="2">game</word>
+				<word number="3">pluck</word>
+				<word number="4">stamina</word>
+				<word number="5">backbone</word>
+				<word number="6">grit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">indefatigability</word>
+				<word number="2">indefatigableness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bulldog courage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="persevere">
+			<sg number="1">
+				<word number="1">persevere</word>
+				<word number="2">persist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold on</word>
+				<word number="2">hold out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">die in the last ditch</word>
+				<word number="2">be in at the death</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stick to</word>
+				<word number="2">cling to</word>
+				<word number="3">adhere to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stick to one's text</word>
+				<word number="2">keep on</word>
+			</sg>
+			<sg number="6">
+				<word number="1">keep to one's course</word>
+				<word number="2">keep to one's ground</word>
+				<word number="3">maintain one's course</word>
+				<word number="4">maintain one's ground</word>
+			</sg>
+			<sg number="7">
+				<word number="1">go all lengths</word>
+				<word number="2">go through fire and water</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bear up</word>
+				<word number="2">keep up</word>
+				<word number="3">hold up</word>
+			</sg>
+			<sg number="9">
+				<word number="1">plod</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="work" headRef="715">stick to work</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="continue" headRef="150">continue</word>
+			</sg>
+			<sg number="12">
+				<word number="1">follow up</word>
+			</sg>
+			<sg number="13">
+				<word number="1">die in harness</word>
+				<word number="2">die at one's post</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="persevering">
+			<sg number="1">
+				<word number="1">persevering</word>
+				<word number="2">constant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">steady</word>
+				<word number="2">steadfast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undeviating</word>
+				<word number="2">unwavering</word>
+				<word number="3">unfaltering</word>
+				<word number="4">unswerving</word>
+				<word number="5">unflinching</word>
+				<word number="6">unsleeping</word>
+				<word number="7">unflagging</word>
+				<word number="8">undrooping</word>
+				<word number="9" new="1">uncompromising</word>
+				<word number="10" new="1">undying</word>
+				<word number="11" new="1">unerring</word>
+				<word number="12" new="1">unfailing</word>
+				<word number="13" new="1">unshakable</word>
+				<word number="14" new="1">unstinting</word>
+				<word number="15" new="2">slavish</word>
+				<word number="16" new="2">unbending</word>
+				<word number="17" new="2">unshaken</word>
+				<word number="18" new="3">misplaced</word>
+			</sg>
+			<sg number="4">
+				<word number="1">steady as time</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unrelenting</word>
+				<word number="2">unintermitting</word>
+				<word number="3">unremitting</word>
+				<word number="4" new="1">unceasing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">plodding</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="industrious" headRef="711">industrious</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="strenuous" headRef="715">strenuous</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pertinacious</word>
+			</sg>
+			<sg number="10">
+				<word number="1">persisting</word>
+				<word number="2">persistent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="solid">
+			<sg number="1">
+				<word number="1">solid</word>
+				<word number="2">sturdy</word>
+				<word number="3">staunch</word>
+				<word number="4">stanch</word>
+				<word number="5">true to oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unchangeable" headRef="157">unchangeable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="strong" headRef="166">unconquerable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">indomitable</word>
+				<word number="2">game to the last</word>
+				<word number="3">indefatigable</word>
+				<word number="4">untiring</word>
+				<word number="5">unwearied</word>
+				<word number="6">never tiring</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="through evil report and good report">
+			<sg number="1">
+				<word number="1">through evil report and good report</word>
+				<word number="2">through thick and thin</word>
+				<word number="3">through fire and water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">per fas et nefas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">without fail</word>
+				<word number="2">sink or swim</word>
+				<word number="3">at any price</word>
+				<word number="4">vogue la galere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="never say die">
+			<sg number="1">
+				<word number="1">never say die</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give it the old college try</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vestigia nulla retrorsum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aut vincer aut mori</word>
+			</sg>
+			<sg number="5">
+				<word number="1">la garde meurt et ne se rend pas</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tout vient a temps pour qui sait attendre</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

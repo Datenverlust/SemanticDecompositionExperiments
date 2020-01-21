@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="254" name="Angularity" origNum="#244." class="2" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="angularity">
+			<sg number="1">
+				<word number="1">angularity</word>
+				<word number="2">angularness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aduncity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">angle</word>
+				<word number="2">cusp</word>
+				<word number="3">bend</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="fold" headRef="269">fold</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="notch" headRef="268">notch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fork</word>
+				<word number="2">bifurcation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="elbow">
+			<sg number="1">
+				<word number="1">elbow</word>
+				<word number="2">knee</word>
+				<word number="3">knuckle</word>
+				<word number="4">ankle</word>
+				<word number="5">groin</word>
+				<word number="6">crotch</word>
+				<word number="7">crutch</word>
+				<word number="8">crane</word>
+				<word number="9">fluke</word>
+				<word number="10">scythe</word>
+				<word number="11">sickle</word>
+				<word number="12">zigzag</word>
+				<word number="13">kimbo</word>
+				<word number="14">akimbo</word>
+				<word number="15" new="1">hip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="corner">
+			<sg number="1">
+				<word number="1">corner</word>
+				<word number="2">nook</word>
+				<word number="3">recess</word>
+				<word number="4">niche</word>
+				<word number="5">oriel</word>
+				<word number="6">coign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="right angle">
+			<sg number="1">
+				<word number="1" paraRef="perpendicular" headRef="226">right angle</word>
+				<word number="2" paraRef="right angle" headRef="221">right angle</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="obliquity" headRef="227">obliquity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">angle of 45x</word>
+				<word number="2">miter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acute angle</word>
+				<word number="2">obtuse angle</word>
+				<word number="3">salient angle</word>
+				<word number="4">reentering angle</word>
+				<word number="5">spherical angle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="angular measurement">
+			<sg number="1">
+				<word number="1">angular measurement</word>
+				<word number="2">angular elevation</word>
+				<word number="3">angular distance</word>
+				<word number="4">angular velocity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trigonometry</word>
+				<word number="2">goniometry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">altimetry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clinometer</word>
+				<word number="2">graphometer</word>
+				<word number="3">goniometer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">theodolite</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sextant</word>
+				<word number="2">quadrant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dichotomy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="triangle">
+			<sg number="1">
+				<word number="1">triangle</word>
+				<word number="2">trigon</word>
+				<word number="3">wedge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rectangle</word>
+				<word number="2">square</word>
+				<word number="3">lozenge</word>
+				<word number="4">diamond</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rhomb</word>
+				<word number="2">rhombus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quadrangle</word>
+				<word number="2">quadrilateral</word>
+			</sg>
+			<sg number="5">
+				<word number="1">parallelogram</word>
+			</sg>
+			<sg number="6">
+				<word number="1">quadrature</word>
+			</sg>
+			<sg number="7">
+				<word number="1">polygon</word>
+				<word number="2">pentagon</word>
+				<word number="3">hexagon</word>
+				<word number="4">heptagon</word>
+				<word number="5">octagon</word>
+				<word number="6">oxygon</word>
+				<word number="7">decagon</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">circle</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">semicircle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="pyramid">
+			<sg number="1">
+				<word number="1">pyramid</word>
+				<word number="2">cone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="Platonic bodies">
+			<sg number="1">
+				<word number="1">Platonic bodies</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cube</word>
+				<word number="2">rhomboid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tetrahedron</word>
+				<word number="2">pentahedron</word>
+				<word number="3">hexahedron</word>
+				<word number="4">octahedron</word>
+				<word number="5">dodecahedron</word>
+				<word number="6">icosahedron</word>
+				<word number="7">eicosahedron</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prism</word>
+				<word number="2">pyramid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">parallelopiped</word>
+			</sg>
+			<sg number="6">
+				<word number="1">curb roof</word>
+				<word number="2">gambrel roof</word>
+				<word number="3">mansard roof</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="bend">
+			<sg number="1">
+				<word number="1">bend</word>
+				<word number="2">fork</word>
+				<word number="3">bifurcate</word>
+				<word number="4">crinkle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="angular">
+			<sg number="1">
+				<word number="1">angular</word>
+				<word number="2">bent</word>
+				<word number="3">crooked</word>
+				<word number="4">aduncous</word>
+				<word number="5">uncinated</word>
+				<word number="6">aquiline</word>
+				<word number="7">jagged</word>
+				<word number="8">serrated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">falciform</word>
+				<word number="2">falcated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">furcated</word>
+				<word number="2">forked</word>
+				<word number="3">bifurcate</word>
+				<word number="4">zigzag</word>
+			</sg>
+			<sg number="4">
+				<word number="1">furcular</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hooked</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dovetailed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">knock kneed</word>
+				<word number="2">crinkled</word>
+				<word number="3">akimbo</word>
+				<word number="4">kimbo</word>
+				<word number="5">geniculated</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="obliquity" headRef="227">oblique</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fusiform">
+			<sg number="1">
+				<word number="1">fusiform</word>
+				<word number="2">wedge-shaped</word>
+				<word number="3">cuneiform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cuneate</word>
+				<word number="2">multangular</word>
+				<word number="3">oxygonal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">triangular</word>
+				<word number="2">trigonal</word>
+				<word number="3">trilateral</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quadrangular</word>
+				<word number="2">quadrilateral</word>
+			</sg>
+			<sg number="5">
+				<word number="1">foursquare</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rectangular</word>
+				<word number="2">square</word>
+				<word number="3">multilateral</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="n.">polygonal</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cubical</word>
+				<word number="2">rhomboid</word>
+				<word number="3">rhomboidal</word>
+				<word number="4">pyramidal</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">semicircular</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

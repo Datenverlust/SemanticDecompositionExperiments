@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="83" name="Speciality" origNum="#79." class="1" section="4" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{opp">
+			<sg number="1">
+				<word number="1">speciality</word>
+				<word number="2">specialite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">individuality</word>
+				<word number="2">individuity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">particularity</word>
+				<word number="2">peculiarity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="tendency" headRef="184">idiocrasy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">personality</word>
+				<word number="2">characteristic</word>
+				<word number="3">mannerism</word>
+				<word number="4">idiosyncrasy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">specificness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="unconformity" headRef="87">singularity</word>
+			</sg>
+			<sg number="8">
+				<word number="1">reading</word>
+				<word number="2">version</word>
+				<word number="3">lection</word>
+			</sg>
+			<sg number="9">
+				<word number="1">state</word>
+			</sg>
+			<sg number="10">
+				<word number="1">trait</word>
+			</sg>
+			<sg number="11">
+				<word number="1">distinctive feature</word>
+			</sg>
+			<sg number="12">
+				<word number="1">technicality</word>
+			</sg>
+			<sg number="13">
+				<word number="1">differentia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="particulars">
+			<sg number="1">
+				<word number="1">particulars</word>
+				<word number="2">details</word>
+				<word number="3">items</word>
+				<word number="4">counts</word>
+			</sg>
+			<sg number="2">
+				<word number="1">minutiae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="I">
+			<sg number="1">
+				<word number="1">I</word>
+				<word number="2">self</word>
+				<word number="3">I myself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">myself</word>
+				<word number="2">himself</word>
+				<word number="3">herself</word>
+				<word number="4">itself</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="specify">
+			<sg number="1">
+				<word number="1">specify</word>
+				<word number="2">particularize</word>
+				<word number="3">individualize</word>
+				<word number="4">realize</word>
+				<word number="5">specialize</word>
+				<word number="6">designate</word>
+				<word number="7">determine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">denote</word>
+				<word number="2">indicate</word>
+				<word number="3">point out</word>
+				<word number="4">select</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="descend to particulars">
+			<sg number="1">
+				<word number="1">descend to particulars</word>
+				<word number="2">enter into detail</word>
+				<word number="3">go into detail</word>
+				<word number="4">come to the point</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="special">
+			<sg number="1">
+				<word number="1">special</word>
+				<word number="2">particular</word>
+				<word number="3">individual</word>
+				<word number="4">specific</word>
+				<word number="5">proper</word>
+				<word number="6">personal</word>
+				<word number="7">original</word>
+				<word number="8">private</word>
+				<word number="9">respective</word>
+				<word number="10">definite</word>
+				<word number="11">determinate</word>
+				<word number="12">especial</word>
+				<word number="13">certain</word>
+				<word number="14">esoteric</word>
+				<word number="15">endemic</word>
+				<word number="16">partial</word>
+				<word number="17">party</word>
+				<word number="18">peculiar</word>
+				<word number="19">appropriate</word>
+				<word number="20">several</word>
+				<word number="21">characteristic</word>
+				<word number="22">diagnostic</word>
+				<word number="23">exclusive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exceptional" headRef="87">singular</word>
+			</sg>
+			<sg number="3">
+				<word number="1">idiomatic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">idiotypical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">typical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="this">
+			<sg number="1">
+				<word number="1">this</word>
+				<word number="2">that</word>
+			</sg>
+			<sg number="2">
+				<word number="1">yon</word>
+				<word number="2">yonder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="specially">
+			<sg number="1">
+				<word number="1">specially</word>
+				<word number="2">especially</word>
+				<word number="3" paraRef="" posRef="adj.">particularly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in particular</word>
+				<word number="2">in propria persona</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ad hominem</word>
+			</sg>
+			<sg number="4">
+				<word number="1">for my part</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="each">
+			<sg number="1">
+				<word number="1">each</word>
+				<word number="2">apiece</word>
+				<word number="3">one by one</word>
+				<word number="4">one at a time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">severally</word>
+				<word number="2">respectively</word>
+				<word number="3">each to each</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seriatim</word>
+				<word number="2">in detail</word>
+				<word number="3">in great detail</word>
+				<word number="4">in excruciating detail</word>
+				<word number="5">in mind-numbing detail</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bit by bit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pro hac vice</word>
+				<word number="2">pro re nata</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="namely">
+			<sg number="1">
+				<word number="1">namely</word>
+				<word number="2">that is to say</word>
+				<word number="3">for example</word>
+				<word number="4">id est</word>
+				<word number="5">exemplia gratia</word>
+				<word number="6">e.g</word>
+				<word number="7">i.e</word>
+				<word number="8">videlicet</word>
+				<word number="9">viz</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to wit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="le style est l'homme meme">
+			<sg number="1">
+				<word number="1">le style est l'homme meme</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

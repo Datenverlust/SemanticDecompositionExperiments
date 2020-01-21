@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="737" name="Opposition" origNum="#708." class="6" section="4" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="opposition">
+			<sg number="1">
+				<word number="1">opposition</word>
+				<word number="2">antagonism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oppugnancy</word>
+				<word number="2">oppugnation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impugnation!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contrariety</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contravention</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="counteraction" headRef="187">counteraction</word>
+			</sg>
+			<sg number="7">
+				<word number="1">counterplot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cross fire">
+			<sg number="1">
+				<word number="1">cross fire</word>
+				<word number="2">undercurrent</word>
+				<word number="3">head wind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="clashing">
+			<sg number="1">
+				<word number="1">clashing</word>
+				<word number="2">collision</word>
+				<word number="3">conflict</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="competition">
+			<sg number="1">
+				<word number="1">competition</word>
+				<word number="2">two of a trade</word>
+				<word number="3">rivalry</word>
+				<word number="4">emulation</word>
+				<word number="5">race</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="absence of aid">
+			<sg number="1">
+				<word number="1" paraRef="absence of aid" headRef="737">absence of aid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="resistance" headRef="748">resistance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="restraint" headRef="782">restraint</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hindrance" headRef="735">hindrance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="oppose">
+			<sg number="1">
+				<word number="1">oppose</word>
+				<word number="2">counteract</word>
+				<word number="3">run counter to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="resist" headRef="748">withstand</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="restrain" headRef="782">control</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hinder" headRef="735">hinder</word>
+			</sg>
+			<sg number="5">
+				<word number="1">antagonize</word>
+				<word number="2">oppugn</word>
+				<word number="3">fly in the face of</word>
+				<word number="4">go dead against</word>
+				<word number="5">kick against</word>
+				<word number="6">fall afoul of</word>
+				<word number="7">run afoul of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set against</word>
+				<word number="2">pit against</word>
+			</sg>
+			<sg number="7">
+				<word number="1">face</word>
+				<word number="2">confront</word>
+				<word number="3">cope with</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make a stand</word>
+				<word number="2">make a dead set against</word>
+			</sg>
+			<sg number="9">
+				<word number="1">set oneself against</word>
+				<word number="2">set one's face against</word>
+			</sg>
+			<sg number="10">
+				<word number="1">protest against</word>
+				<word number="2">vote against</word>
+				<word number="3">raise one's voice against</word>
+			</sg>
+			<sg number="11">
+				<word number="1">disfavor</word>
+				<word number="2">turn one's back upon</word>
+			</sg>
+			<sg number="12">
+				<word number="1">set at naught</word>
+				<word number="2">slap in the face</word>
+				<word number="3">slam the door in one's face</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be at cross purposes">
+			<sg number="1">
+				<word number="1">be at cross purposes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">play at cross purposes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">counterwork</word>
+				<word number="2">countermine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thwart</word>
+				<word number="2">overthwart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">work against</word>
+				<word number="2">undermine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stem">
+			<sg number="1">
+				<word number="1">stem</word>
+				<word number="2">breast</word>
+				<word number="3">encounter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stem the tide</word>
+				<word number="2">breast the tide</word>
+				<word number="3">stem the current</word>
+				<word number="4">stem the flood</word>
+			</sg>
+			<sg number="3">
+				<word number="1">buffet the waves</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beat up against</word>
+				<word number="2">make head against</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grapple with</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="resist" headRef="748">kick against the pricks</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="contend" headRef="749">contend</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="warfare" headRef="751">do battle</word>
+				<word number="2">do battle against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="contradict">
+			<sg number="1">
+				<word number="1">contradict</word>
+				<word number="2">contravene</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belie</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go against</word>
+				<word number="2">run against</word>
+				<word number="3">beat against</word>
+				<word number="4">militate against</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come in conflict with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="emulate">
+			<sg number="1">
+				<word number="1" paraRef="compete with" headRef="749">emulate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rival</word>
+				<word number="2">spoil one's trade</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="opposing">
+			<sg number="1">
+				<word number="1">opposing</word>
+				<word number="2" paraRef="" posRef="v.">opposed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adverse</word>
+				<word number="2">antagonistic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contrary" headRef="14">contrary</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="at variance" headRef="26">at variance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">at issue</word>
+				<word number="2">at war with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unfavorable">
+			<sg number="1">
+				<word number="1">unfavorable</word>
+				<word number="2">unfriendly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hostile</word>
+				<word number="2">inimical</word>
+				<word number="3">cross</word>
+				<word number="4">unpropitious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in hostile array">
+			<sg number="1">
+				<word number="1">in hostile array</word>
+				<word number="2">front to front</word>
+				<word number="3">with crossed bayonets</word>
+				<word number="4">at daggers drawn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">up in arms</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="resistant" headRef="748">resistant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="competitive">
+			<sg number="1">
+				<word number="1">competitive</word>
+				<word number="2">emulous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="against">
+			<sg number="1">
+				<word number="1">against</word>
+				<word number="2">versus</word>
+				<word number="3">counter to</word>
+				<word number="4">in conflict with</word>
+				<word number="5">at cross purposes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="against the grain">
+			<sg number="1">
+				<word number="1">against the grain</word>
+				<word number="2">against the current</word>
+				<word number="3">against the stream</word>
+				<word number="4">against the wind</word>
+				<word number="5">against the tide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with a headwind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with the wind ahead</word>
+				<word number="2">with the wind in one's teeth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in spite">
+			<sg number="1">
+				<word number="1">in spite</word>
+				<word number="2">in despite</word>
+				<word number="3">in defiance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the way</word>
+				<word number="2">in the teeth of</word>
+				<word number="3">in the face of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">across</word>
+			</sg>
+			<sg number="4">
+				<word number="1">athwart</word>
+				<word number="2">overthwart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">where the shoe pinches</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in spite of one's teeth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="though">
+			<sg number="1">
+				<word number="1" paraRef="though" headRef="32">though</word>
+			</sg>
+			<sg number="2">
+				<word number="1">even</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quand meme</word>
+			</sg>
+			<sg number="4">
+				<word number="1">per contra</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nitor in adversum">
+			<sg number="1">
+				<word number="1">nitor in adversum</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

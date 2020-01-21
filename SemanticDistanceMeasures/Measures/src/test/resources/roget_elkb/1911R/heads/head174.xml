@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="174" name="Posterity" origNum="#167." class="1" section="8" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="posterity">
+			<sg number="1">
+				<word number="1">posterity</word>
+				<word number="2">progeny</word>
+				<word number="3">breed</word>
+				<word number="4">issue</word>
+				<word number="5">offspring</word>
+				<word number="6">brood</word>
+				<word number="7">litter</word>
+				<word number="8">seed</word>
+				<word number="9">farrow</word>
+				<word number="10">spawn</word>
+				<word number="11">spat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">family</word>
+				<word number="2">grandchildren</word>
+				<word number="3">heirs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">great-grandchild</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="child">
+			<sg number="1">
+				<word number="1">child</word>
+				<word number="2">son</word>
+				<word number="3">daughter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">butcha</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bantling</word>
+				<word number="2">scion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acrospire</word>
+				<word number="2">plumule</word>
+				<word number="3">shoot</word>
+				<word number="4">sprout</word>
+				<word number="5">olive-branch</word>
+				<word number="6">sprit</word>
+				<word number="7">branch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">off-shoot</word>
+				<word number="2">off-set</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ramification</word>
+			</sg>
+			<sg number="7">
+				<word number="1">descendant</word>
+			</sg>
+			<sg number="8">
+				<word number="1">heir</word>
+				<word number="2">heiress</word>
+			</sg>
+			<sg number="9">
+				<word number="1">heir-apparent</word>
+				<word number="2">heir- presumptive</word>
+			</sg>
+			<sg number="10">
+				<word number="1">chip off the old block</word>
+			</sg>
+			<sg number="11">
+				<word number="1">heredity</word>
+			</sg>
+			<sg number="12">
+				<word number="1">rising generation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="straight descent">
+			<sg number="1">
+				<word number="1">straight descent</word>
+				<word number="2">sonship</word>
+				<word number="3">line</word>
+				<word number="4">lineage</word>
+				<word number="5">filiation</word>
+				<word number="6">primogeniture</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="filial">
+			<sg number="1">
+				<word number="1">filial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diphyletic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the child is father of the man">
+			<sg number="1">
+				<word number="1">"the child is father of the man"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the fruit doesn't fall far from the tree"</word>
+				<word number="2">"like father</word>
+				<word number="3">like son"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

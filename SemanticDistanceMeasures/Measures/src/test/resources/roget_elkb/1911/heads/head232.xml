@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="232" name="Centrality" origNum="#222." class="2" section="2" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="centrality">
+			<sg number="1">
+				<word number="1">centrality</word>
+				<word number="2">centricalness</word>
+				<word number="3">center</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="middle" headRef="72">middle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="focus" headRef="78">focus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="core">
+			<sg number="1">
+				<word number="1">core</word>
+				<word number="2">kernel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nucleus</word>
+				<word number="2">nucleolus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heart</word>
+				<word number="2">pole axis</word>
+				<word number="3">bull's eye</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nave</word>
+				<word number="2">navel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">umbilicus</word>
+				<word number="2">backbone</word>
+				<word number="3">marrow</word>
+				<word number="4">pith</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vertebra</word>
+				<word number="2">vertebral column</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hotbed</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="convergence" headRef="301">concentration</word>
+			</sg>
+			<sg number="9">
+				<word number="1">centralization</word>
+			</sg>
+			<sg number="10">
+				<word number="1">symmetry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="center of gravity">
+			<sg number="1">
+				<word number="1">center of gravity</word>
+				<word number="2">center of pressure</word>
+				<word number="3">center of percussion</word>
+				<word number="4">center of oscillation</word>
+				<word number="5">center of buoyancy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metacenter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be central">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be central</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="converge" headRef="301">converge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render central">
+			<sg number="1">
+				<word number="1">render central</word>
+				<word number="2">centralize</word>
+				<word number="3">concentrate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring to a focus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="central">
+			<sg number="1">
+				<word number="1">central</word>
+				<word number="2">centrical</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="middle" headRef="72">middle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">azygous</word>
+				<word number="2">axial</word>
+				<word number="3">focal</word>
+				<word number="4">umbilical</word>
+				<word number="5">concentric</word>
+			</sg>
+			<sg number="4">
+				<word number="1">middlemost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rachidian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spinal</word>
+				<word number="2">vertebral</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="middle">
+			<sg number="1">
+				<word number="1">middle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">midst</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">centrally</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

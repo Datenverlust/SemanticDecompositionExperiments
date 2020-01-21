@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="674" name="Inutility" origNum="#645." class="6" section="2" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inutility">
+			<sg number="1">
+				<word number="1">inutility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">uselessness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inefficacy</word>
+				<word number="2">futility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ineptitude</word>
+				<word number="2">inaptitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unsubservience</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="insufficiency" headRef="669">inadequacy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="incompetence" headRef="165">inefficiency</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="unskillfulness" headRef="728">unskillfulness</word>
+			</sg>
+			<sg number="9">
+				<word number="1">disservice</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="unproductiveness" headRef="176">unfruitfulness</word>
+			</sg>
+			<sg number="11">
+				<word number="1">labor in vain</word>
+				<word number="2">labor lost</word>
+				<word number="3">labor of Sisyphus</word>
+			</sg>
+			<sg number="12">
+				<word number="1">lost trouble</word>
+				<word number="2">lost labor</word>
+			</sg>
+			<sg number="13">
+				<word number="1">work of Penelope</word>
+			</sg>
+			<sg number="14">
+				<word number="1">sleeveless errand</word>
+				<word number="2">wild goose chase</word>
+				<word number="3">mere farce</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tautology">
+			<sg number="1">
+				<word number="1" paraRef="repetition" headRef="109">tautology</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="redundancy" headRef="670">supererogation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vanitas vanitatum">
+			<sg number="1">
+				<word number="1">vanitas vanitatum</word>
+				<word number="2">vanity</word>
+				<word number="3">inanity</word>
+				<word number="4">worthlessness</word>
+				<word number="5">nugacity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unimportance" headRef="672">triviality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="caput mortuum">
+			<sg number="1">
+				<word number="1">caput mortuum</word>
+				<word number="2">waste paper</word>
+				<word number="3">dead letter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blunt tool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="litter">
+			<sg number="1">
+				<word number="1">litter</word>
+				<word number="2">rubbish</word>
+				<word number="3">junk</word>
+				<word number="4">lumber</word>
+				<word number="5">odds and ends</word>
+				<word number="6">cast-off clothes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">button top</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shoddy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rags</word>
+				<word number="2">orts</word>
+				<word number="3">trash</word>
+				<word number="4">refuse</word>
+				<word number="5">sweepings</word>
+				<word number="6">scourings</word>
+				<word number="7">offscourings</word>
+				<word number="8">waste</word>
+				<word number="9">rubble</word>
+				<word number="10">debris</word>
+				<word number="11">detritus</word>
+				<word number="12" new="1">garbage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stubble</word>
+				<word number="2">leavings</word>
+			</sg>
+			<sg number="6">
+				<word number="1">broken meat</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="dirt" headRef="682">dregs</word>
+			</sg>
+			<sg number="8">
+				<word number="1">weeds</word>
+				<word number="2">tares</word>
+			</sg>
+			<sg number="9">
+				<word number="1">rubbish heap</word>
+				<word number="2">dust hole</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rudera</word>
+				<word number="2">deads</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="fruges consumere natus">
+			<sg number="1">
+				<word number="1" paraRef="drone" headRef="712">fruges consumere natus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be useless">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be useless</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="redundant" headRef="670">go a begging</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fail" headRef="761">fail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="seek after impossibilities">
+			<sg number="1">
+				<word number="1">seek after impossibilities</word>
+				<word number="2">strive after impossibilities</word>
+			</sg>
+			<sg number="2">
+				<word number="1">use vain efforts</word>
+				<word number="2">labor in vain</word>
+				<word number="3">roll the stone of Sisyphus</word>
+				<word number="4">beat the air</word>
+				<word number="5">lash the waves</word>
+				<word number="6">battre l'eau avec un baton</word>
+				<word number="7">donner un coup d'epee dans l'eau</word>
+				<word number="8">fish in the air</word>
+				<word number="9">milk the ram</word>
+				<word number="10">drop a bucket into an empty well</word>
+				<word number="11">sow the sand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bay the moon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">preach to the winds</word>
+				<word number="2">speak to the winds</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whistle jigs to a milestone</word>
+			</sg>
+			<sg number="6">
+				<word number="1">kick against the pricks</word>
+				<word number="2">se battre contre des moulins</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lock the stable door when the steed is stolen</word>
+				<word number="2" paraRef="too late for" headRef="142">lock the barn door after the horse is stolen</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hold a farthing candle to the sun</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="waste" headRef="667">cast pearls before swine</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="redundancy" headRef="670">carry coals to Newcastle</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="impossible" headRef="494">wash a blackamoor white</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render useless">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render useless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dismantle</word>
+				<word number="2">dismast</word>
+				<word number="3">dismount</word>
+				<word number="4">disqualify</word>
+				<word number="5">disable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unrig</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cripple</word>
+				<word number="2" paraRef="injure" headRef="688">lame</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spike guns</word>
+				<word number="2">clip the wings</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put out of gear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="useless">
+			<sg number="1">
+				<word number="1">useless</word>
+				<word number="2">inutile</word>
+				<word number="3">inefficacious</word>
+				<word number="4">futile</word>
+				<word number="5">unavailing</word>
+				<word number="6">bootless</word>
+				<word number="7" new="1">hopeless</word>
+				<word number="8" new="1">pointless</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inoperative" headRef="165">inoperative</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="insufficient" headRef="669">inadequate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inservient</word>
+				<word number="2">unsubservient</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inept</word>
+				<word number="2" paraRef="impotent" headRef="165">inefficient</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="use" headRef="673">of no avail</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="failure" headRef="761">ineffectual</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="unskillful" headRef="728">incompetent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"stale</word>
+				<word number="2">flat and unprofitable"</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="redundant" headRef="670">superfluous</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dispensable</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="wasted" headRef="667">thrown away</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="immature" headRef="703">abortive</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">ineffective</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="worthless">
+			<sg number="1">
+				<word number="1">worthless</word>
+				<word number="2">valueless</word>
+				<word number="3">priceless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsalable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="trifling" headRef="672">not worth a straw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vain">
+			<sg number="1">
+				<word number="1">vain</word>
+				<word number="2">empty</word>
+				<word number="3">inane</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gainless</word>
+				<word number="2">profitless</word>
+				<word number="3">fruitless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unserviceable</word>
+				<word number="2">unprofitable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ill-spent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unproductive" headRef="176">unproductive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hors de combat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">effete</word>
+				<word number="2" paraRef="impair" headRef="688">past work</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="old" headRef="130">obsolete</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fit for the dust hole</word>
+			</sg>
+			<sg number="10">
+				<word number="1">good for nothing</word>
+			</sg>
+			<sg number="11">
+				<word number="1">of no earthly use</word>
+			</sg>
+			<sg number="12">
+				<word number="1">not worth having</word>
+				<word number="2">not worth powder and shot</word>
+			</sg>
+			<sg number="13">
+				<word number="1">leading to no end</word>
+				<word number="2">uncalled for</word>
+			</sg>
+			<sg number="14">
+				<word number="1">unnecessary</word>
+				<word number="2">unneeded</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">redundant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="uselessly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">uselessly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to little purpose</word>
+				<word number="2">to no purpose</word>
+				<word number="3">to little or no purpose</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="cui bono?">
+			<sg number="1">
+				<word number="1">cui bono?</word>
+			</sg>
+			<sg number="2">
+				<word number="1">what's the good!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="actum ne agas">
+			<sg number="1">
+				<word number="1">actum ne agas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chercher une aiguille dans une botte de foin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tanto buon che val niente</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

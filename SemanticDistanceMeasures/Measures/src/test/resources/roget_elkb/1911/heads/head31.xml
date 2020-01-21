@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="31" name="Mean" origNum="#29." class="1" section="3" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="mean">
+			<sg number="1">
+				<word number="1">mean</word>
+				<word number="2">average</word>
+			</sg>
+			<sg number="2">
+				<word number="1">median</word>
+				<word number="2">mode</word>
+			</sg>
+			<sg number="3">
+				<word number="1">balance</word>
+				<word number="2">medium</word>
+				<word number="3">mediocrity</word>
+				<word number="4">generality</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="mid-course" headRef="657">golden mean</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="middle" headRef="72">middle</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="compromise" headRef="806">compromise</word>
+			</sg>
+			<sg number="7">
+				<word number="1">middle course</word>
+				<word number="2">middle state</word>
+			</sg>
+			<sg number="8">
+				<word number="1">neutrality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mediocrity">
+			<sg number="1">
+				<word number="1">mediocrity</word>
+				<word number="2">least common denominator</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="split the difference">
+			<sg number="1">
+				<word number="1">split the difference</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">take the average</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">reduce to a mean</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strike a balance</word>
+				<word number="2">pair off</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="mean">
+			<sg number="1">
+				<word number="1">mean</word>
+				<word number="2">intermediate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="middle" headRef="72">middle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">average</word>
+			</sg>
+			<sg number="4">
+				<word number="1">neutral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mediocre">
+			<sg number="1">
+				<word number="1">mediocre</word>
+				<word number="2">middle-class</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unimportant" headRef="672">commonplace</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on an average">
+			<sg number="1">
+				<word number="1">on an average</word>
+				<word number="2">in the long run</word>
+			</sg>
+			<sg number="2">
+				<word number="1">taking one with another</word>
+				<word number="2">taking all things together</word>
+				<word number="3">taking it for all in all</word>
+			</sg>
+			<sg number="3">
+				<word number="1">communibus annis</word>
+				<word number="2">in round numbers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="medium tenuere beati">
+			<sg number="1">
+				<word number="1">medium tenuere beati</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

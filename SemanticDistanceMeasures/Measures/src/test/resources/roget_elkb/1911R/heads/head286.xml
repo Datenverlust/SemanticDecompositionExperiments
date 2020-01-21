@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="286" name="Slowness" origNum="#275." class="2" section="4" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="slowness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">slowness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inactivity" headRef="712">languor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drawl</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">creeping</word>
+				<word number="2">lentor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="retardation">
+			<sg number="1">
+				<word number="1">retardation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">slackening</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lateness" headRef="140">delay</word>
+			</sg>
+			<sg number="4">
+				<word number="1">claudication|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="jog trot">
+			<sg number="1">
+				<word number="1">jog trot</word>
+				<word number="2">dog trot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mincing steps</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slow march</word>
+				<word number="2">slow time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="slow goer">
+			<sg number="1">
+				<word number="1">slow goer</word>
+				<word number="2">slow coach</word>
+				<word number="3">slow back</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lingerer</word>
+				<word number="2">loiterer</word>
+				<word number="3">sluggard</word>
+				<word number="4">tortoise</word>
+				<word number="5">snail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">poke*</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="inactive" headRef="712">dawdle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="move slowly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adv.">move slowly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">creep</word>
+				<word number="2">crawl</word>
+				<word number="3">lag</word>
+				<word number="4">slug</word>
+				<word number="5">drawl</word>
+				<word number="6">linger</word>
+				<word number="7">loiter</word>
+				<word number="8">saunter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plod</word>
+				<word number="2">trudge</word>
+				<word number="3">stump along</word>
+				<word number="4">lumber</word>
+				<word number="5" new="1">peg</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trail</word>
+				<word number="2">drag</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="be inactive" headRef="712">dawdle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grovel</word>
+				<word number="2">worm one's way</word>
+				<word number="3">steal along</word>
+			</sg>
+			<sg number="7">
+				<word number="1">job on</word>
+				<word number="2">rub on</word>
+				<word number="3">bundle on</word>
+			</sg>
+			<sg number="8">
+				<word number="1">toddle</word>
+				<word number="2">waddle</word>
+				<word number="3">wabble</word>
+				<word number="4">slug</word>
+				<word number="5">traipse</word>
+				<word number="6">slouch</word>
+				<word number="7">shuffle</word>
+				<word number="8">halt</word>
+				<word number="9">hobble</word>
+				<word number="10">limp</word>
+				<word number="11">caludicate</word>
+				<word number="12">shamble</word>
+			</sg>
+			<sg number="9">
+				<word number="1">flag</word>
+				<word number="2">falter</word>
+				<word number="3">trotter</word>
+				<word number="4">stagger</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mince</word>
+				<word number="2">step short</word>
+			</sg>
+			<sg number="11">
+				<word number="1">march in slow time</word>
+				<word number="2">march in funeral procession</word>
+			</sg>
+			<sg number="12">
+				<word number="1">take one's time</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="be late" headRef="140">hang fire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="retard">
+			<sg number="1">
+				<word number="1">retard</word>
+				<word number="2">relax</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slacken</word>
+				<word number="2">check</word>
+				<word number="3">moderate</word>
+				<word number="4">rein in</word>
+				<word number="5">curb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reef</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strike sail</word>
+				<word number="2">shorten sail</word>
+				<word number="3">take in sail</word>
+			</sg>
+			<sg number="5">
+				<word number="1">put on the drag</word>
+				<word number="2">apply the brake</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clip the wings</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reduce the speed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slacken speed</word>
+				<word number="2">slacken one's pace</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lose ground</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="slow">
+			<sg number="1">
+				<word number="1">slow</word>
+				<word number="2">slack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tardy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inactive" headRef="712">dilatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gentle</word>
+				<word number="2">easy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">leisurely</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deliberate</word>
+				<word number="2">gradual</word>
+			</sg>
+			<sg number="7">
+				<word number="1">insensible</word>
+				<word number="2">imperceptible</word>
+			</sg>
+			<sg number="8">
+				<word number="1">glacial</word>
+				<word number="2">languid</word>
+				<word number="3">sluggish</word>
+				<word number="4">slow paced</word>
+				<word number="5">tardigrade!</word>
+				<word number="6">snail-like</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">creeping</word>
+			</sg>
+			<sg number="10">
+				<word number="1">reptatorial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="slowly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">slowly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leisurely</word>
+			</sg>
+			<sg number="3">
+				<word number="1">piano</word>
+				<word number="2">adagio</word>
+			</sg>
+			<sg number="4">
+				<word number="1">largo</word>
+				<word number="2">larghetto</word>
+			</sg>
+			<sg number="5">
+				<word number="1">at half speed</word>
+				<word number="2">under easy sail</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at a foots pace</word>
+				<word number="2">at a snail's pace</word>
+				<word number="3">at a funeral pace</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in slow time</word>
+				<word number="2">with mincing steps</word>
+				<word number="3">with clipped wings</word>
+			</sg>
+			<sg number="8">
+				<word number="1">haud passibus aequis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gradually">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">gradually</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gradatim</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by degrees</word>
+				<word number="2">by slow degrees</word>
+				<word number="3">by inches</word>
+				<word number="4">by little and little</word>
+			</sg>
+			<sg number="4">
+				<word number="1">step by step</word>
+				<word number="2">one step at a time</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inch by inch</word>
+				<word number="2">bit by bit</word>
+				<word number="3">little by little</word>
+				<word number="4">seriatim</word>
+			</sg>
+			<sg number="6">
+				<word number="1">consecutively</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="dum Roma deliberat Saguntum perit">
+			<sg number="1">
+				<word number="1">dum Roma deliberat Saguntum perit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at a glacial pace</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

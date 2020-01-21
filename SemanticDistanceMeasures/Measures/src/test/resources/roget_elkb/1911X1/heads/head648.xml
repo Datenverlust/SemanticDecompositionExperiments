@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="648" name="Evil" origNum="#619." class="6" section="1" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="evil">
+			<sg number="1">
+				<word number="1">evil</word>
+				<word number="2">ill</word>
+				<word number="3">harm</word>
+				<word number="4">hurt</word>
+				<word number="5">mischief</word>
+				<word number="6">nuisance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">machinations of the devil</word>
+				<word number="2">Pandora's box</word>
+				<word number="3">ills that flesh is heir to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="blow">
+			<sg number="1">
+				<word number="1">blow</word>
+				<word number="2">buffet</word>
+				<word number="3">stroke</word>
+				<word number="4">scratch</word>
+				<word number="5">bruise</word>
+				<word number="6">wound</word>
+				<word number="7">gash</word>
+				<word number="8">mutilation</word>
+				<word number="9" new="1">scar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mortal blow</word>
+				<word number="2">wound</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immedicabile vulnus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">damage</word>
+				<word number="2" paraRef="deterioration" headRef="688">loss</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">bite</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">burn</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">laceration</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">tear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="disadvantage">
+			<sg number="1">
+				<word number="1">disadvantage</word>
+				<word number="2">prejudice</word>
+				<word number="3">drawback</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="disaster">
+			<sg number="1">
+				<word number="1">disaster</word>
+				<word number="2">accident</word>
+				<word number="3">casualty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="misfortune" headRef="764">mishap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bad job</word>
+				<word number="2">devil to pay</word>
+			</sg>
+			<sg number="4">
+				<word number="1">calamity</word>
+				<word number="2">bale</word>
+				<word number="3">catastrophe</word>
+				<word number="4">tragedy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="destruction" headRef="169">ruin</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="adversity" headRef="764">adversity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="mental suffering">
+			<sg number="1">
+				<word number="1" paraRef="mental suffering" headRef="866">mental suffering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="demon">
+			<sg number="1">
+				<word number="1" paraRef="demon" headRef="1023">demon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bane">
+			<sg number="1">
+				<word number="1" paraRef="bane" headRef="692">bane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="badness">
+			<sg number="1">
+				<word number="1" paraRef="badness" headRef="678">badness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="painfulness" headRef="868">painfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="evil doer" headRef="953">evil doer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="outrage">
+			<sg number="1">
+				<word number="1">outrage</word>
+				<word number="2">wrong</word>
+				<word number="3">injury</word>
+				<word number="4">foul play</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bad turn</word>
+				<word number="2">ill turn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disservice</word>
+				<word number="2" paraRef="spoliation" headRef="824">spoliation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grievance</word>
+				<word number="2">crying evil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in trouble">
+			<sg number="1">
+				<word number="1" paraRef="adversity" headRef="764">be in trouble</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disastrous">
+			<sg number="1">
+				<word number="1">disastrous</word>
+				<word number="2" paraRef="bad" headRef="678">bad</word>
+			</sg>
+			<sg number="2">
+				<word number="1">awry</word>
+				<word number="2">out of joint</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disadvantageous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="amis">
+			<sg number="1">
+				<word number="1">amis</word>
+				<word number="2">wrong</word>
+				<word number="3">ill</word>
+				<word number="4">to one's cost</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="moving accidents by flood and field">
+			<sg number="1">
+				<word number="1">"moving accidents by flood and field"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="373" name="Killing" origNum="#361." class="3" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="killing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">killing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homicide</word>
+				<word number="2">manslaughter</word>
+				<word number="3">murder</word>
+				<word number="4">assassination</word>
+				<word number="5">trucidation</word>
+				<word number="6">iccusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">effusion of blood</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blood</word>
+				<word number="2">blood shed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gore</word>
+				<word number="2">slaughter</word>
+				<word number="3">carnage</word>
+				<word number="4">butchery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">battue</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">disappearance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="destruction of life">
+			<sg number="1">
+				<word number="1">destruction of life</word>
+			</sg>
+			<sg number="2">
+				<word number="1">violent death      massacre</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fusillade</word>
+				<word number="2">noyade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thuggery</word>
+				<word number="2">Thuggism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="deathblow">
+			<sg number="1">
+				<word number="1">deathblow</word>
+				<word number="2">finishing stroke</word>
+				<word number="3">coup de grace</word>
+				<word number="4">quietus</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="capital punishment" headRef="1015">execution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">judicial murder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">martyrdom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="killer">
+			<sg number="1">
+				<word number="1">killer</word>
+				<word number="2">butcher</word>
+				<word number="3">slayer</word>
+				<word number="4">murderer</word>
+				<word number="5">Cain</word>
+				<word number="6">assassin</word>
+				<word number="7">terrorist</word>
+				<word number="8">cutthroat</word>
+				<word number="9">garroter</word>
+				<word number="10">bravo</word>
+				<word number="11">Thug</word>
+				<word number="12">Moloch</word>
+				<word number="13">matador</word>
+				<word number="14">sabreur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guet-a-pens</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gallows</word>
+				<word number="2" paraRef="executioner" headRef="1018">executioner</word>
+			</sg>
+			<sg number="4">
+				<word number="1">man-eater</word>
+				<word number="2">apache</word>
+				<word number="3">hatchet man</word>
+				<word number="4">highbinder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="regicide">
+			<sg number="1">
+				<word number="1">regicide</word>
+				<word number="2">parricide</word>
+				<word number="3">matricide</word>
+				<word number="4">fratricide</word>
+				<word number="5">infanticide</word>
+				<word number="6">feticide</word>
+				<word number="7">foeticide</word>
+				<word number="8">uxoricide</word>
+				<word number="9">vaticide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="suicide">
+			<sg number="1">
+				<word number="1">suicide</word>
+				<word number="2">felo de se</word>
+				<word number="3">hara-kiri</word>
+				<word number="4">suttee</word>
+				<word number="5">Juggernath</word>
+			</sg>
+			<sg number="2">
+				<word number="1">immolation</word>
+				<word number="2">auto da fe</word>
+				<word number="3">holocaust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="suffocation">
+			<sg number="1">
+				<word number="1">suffocation</word>
+				<word number="2">strangulation</word>
+				<word number="3">garrote</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">hanging</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lapidation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="deadly weapon">
+			<sg number="1">
+				<word number="1" paraRef="arms" headRef="756">deadly weapon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Aceldama</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="slaughtering">
+			<sg number="1">
+				<word number="1">slaughtering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">phthisozoics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sport</word>
+				<word number="2">sporting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the chase</word>
+				<word number="2">venery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hunting</word>
+				<word number="2">coursing</word>
+				<word number="3">shooting</word>
+				<word number="4">fishing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pig- sticking</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sportsman</word>
+				<word number="2">huntsman</word>
+				<word number="3">fisherman</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hunter</word>
+				<word number="2">Nimrod</word>
+			</sg>
+			<sg number="9">
+				<word number="1">slaughterhouse</word>
+				<word number="2">meat packing plant</word>
+				<word number="3">shambles</word>
+				<word number="4">abattoir</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="fatal accident">
+			<sg number="1">
+				<word number="1">fatal accident</word>
+				<word number="2">violent death</word>
+				<word number="3">casualty</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="kill">
+			<sg number="1">
+				<word number="1">kill</word>
+				<word number="2">put to death</word>
+				<word number="3">slay</word>
+				<word number="4">shed blood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">murder</word>
+				<word number="2">assassinate</word>
+				<word number="3">butcher</word>
+				<word number="4">slaughter</word>
+				<word number="5">victimize</word>
+				<word number="6">immolate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">massacre</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take away life</word>
+				<word number="2">deprive of life</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make away with</word>
+				<word number="2">put an end to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">despatch</word>
+				<word number="2">dispatch</word>
+			</sg>
+			<sg number="7">
+				<word number="1">burke</word>
+				<word number="2">settle</word>
+				<word number="3">do for</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">poison</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">sacrifice</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">starve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="strangle">
+			<sg number="1">
+				<word number="1">strangle</word>
+				<word number="2">garrote</word>
+				<word number="3">hang</word>
+				<word number="4">throttle</word>
+				<word number="5">choke</word>
+				<word number="6">stifle</word>
+				<word number="7">suffocate</word>
+				<word number="8">stop the breath</word>
+				<word number="9">smother</word>
+				<word number="10">asphyxiate</word>
+				<word number="11">drown</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="saber">
+			<sg number="1">
+				<word number="1">saber</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cut down</word>
+				<word number="2">cut to pieces</word>
+				<word number="3">cut the throat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jugulate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stab</word>
+				<word number="2">run through the body</word>
+				<word number="3">bayonet</word>
+				<word number="4">eviscerate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">put to the sword</word>
+				<word number="2">put to the edge of the sword</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="shoot dead">
+			<sg number="1">
+				<word number="1">shoot dead</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blow one's brains out</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brain</word>
+				<word number="2">knock on the head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stone</word>
+				<word number="2">lapidate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give a deathblow</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deal a deathblow</word>
+			</sg>
+			<sg number="7">
+				<word number="1">give a quietus</word>
+				<word number="2">give a coupe de grace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="behead">
+			<sg number="1">
+				<word number="1">behead</word>
+				<word number="2">bowstring</word>
+				<word number="3">electrocute</word>
+				<word number="4" paraRef="execute" headRef="1015">gas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="hunt">
+			<sg number="1">
+				<word number="1">hunt</word>
+				<word number="2" paraRef="" posRef="n.">shoot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cut off">
+			<sg number="1">
+				<word number="1">cut off</word>
+				<word number="2">nip in the bud</word>
+				<word number="3">launch into eternity</word>
+				<word number="4">send to one's last account</word>
+				<word number="5">sign one's death warrant</word>
+				<word number="6">strike the death knell of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="give no quarter">
+			<sg number="1">
+				<word number="1">give no quarter</word>
+				<word number="2">pour out blood like water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decimate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run amuck</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wade knee deep in blood</word>
+				<word number="2">imbrue one's hands in blood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="die a violent death">
+			<sg number="1">
+				<word number="1">die a violent death</word>
+				<word number="2">welter in one's blood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dash out one's brains</word>
+				<word number="2">blow out one's brains</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commit suicide</word>
+			</sg>
+			<sg number="4">
+				<word number="1">kill oneself</word>
+				<word number="2">make away with oneself</word>
+				<word number="3">put an end to oneself</word>
+				<word number="4">put an end to it all</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="decapitate">
+			<sg number="1">
+				<word number="1" new="1">decapitate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="disembowel">
+			<sg number="1">
+				<word number="1" new="1">disembowel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="wound">
+			<sg number="1">
+				<word number="1" new="1">wound</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="killing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">killing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">murderous</word>
+				<word number="2">slaughterous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sanguinary</word>
+				<word number="2">sanguinolent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blood stained</word>
+				<word number="2">blood thirsty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">homicidal</word>
+				<word number="2">red handed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bloody</word>
+				<word number="2">bloody minded</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ensanguined</word>
+				<word number="2">gory</word>
+			</sg>
+			<sg number="8">
+				<word number="1">thuggish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mortal">
+			<sg number="1">
+				<word number="1">mortal</word>
+				<word number="2">fatal</word>
+				<word number="3">lethal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dead</word>
+				<word number="2">deadly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mortiferous</word>
+				<word number="2">lethiferous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unhealthy" headRef="686">unhealthy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">internecine</word>
+			</sg>
+			<sg number="6">
+				<word number="1">suicidal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sporting">
+			<sg number="1">
+				<word number="1">sporting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">piscatorial</word>
+				<word number="2">piscatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in at the death">
+			<sg number="1">
+				<word number="1">in at the death</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="assassination has never changed the history of the world">
+			<sg number="1">
+				<word number="1">"assassination has never changed the history of the world"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

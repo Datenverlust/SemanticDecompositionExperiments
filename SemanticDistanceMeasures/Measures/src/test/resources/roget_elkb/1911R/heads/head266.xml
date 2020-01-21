@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="266" name="Smoothness" origNum="#255." class="2" section="3" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="smoothness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">smoothness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">polish</word>
+				<word number="2">gloss</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lubricity</word>
+				<word number="2">lubrication</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="down">
+			<sg number="1">
+				<word number="1">down</word>
+				<word number="2">velvet</word>
+				<word number="3">velure</word>
+				<word number="4">silk</word>
+				<word number="5">satin</word>
+				<word number="6" new="1">founder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">velveteen</word>
+				<word number="2">velour</word>
+				<word number="3">velours</word>
+				<word number="4">velumen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">glass</word>
+				<word number="2">ice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="slide">
+			<sg number="1">
+				<word number="1">slide</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="level" headRef="222">bowling green</word>
+			</sg>
+			<sg number="3">
+				<word number="1">asphalt</word>
+				<word number="2">wood pavement</word>
+				<word number="3">flagstone</word>
+				<word number="4">flags</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="roller">
+			<sg number="1">
+				<word number="1">roller</word>
+				<word number="2">steam roller</word>
+				<word number="3">lawn roller</word>
+				<word number="4">rolling pin</word>
+				<word number="5">rolling mill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sand paper</word>
+				<word number="2">emery paper</word>
+				<word number="3">emery cloth</word>
+				<word number="4">sander</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flat iron</word>
+				<word number="2">sad iron</word>
+			</sg>
+			<sg number="4">
+				<word number="1">burnisher</word>
+				<word number="2">turpentine and beeswax</word>
+			</sg>
+			<sg number="5">
+				<word number="1">polish</word>
+				<word number="2">shoe polish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="lapidary">
+			<sg number="1">
+				<word number="1">lapidary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="lapidary">
+			<sg number="1">
+				<word number="1">lapidary</word>
+				<word number="2">lapidarian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="smooth">
+			<sg number="1">
+				<word number="1">smooth</word>
+				<word number="2">smoothen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plane</word>
+			</sg>
+			<sg number="3">
+				<word number="1">file</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mow</word>
+				<word number="2">shave</word>
+			</sg>
+			<sg number="5">
+				<word number="1">level</word>
+				<word number="2">roll</word>
+			</sg>
+			<sg number="6">
+				<word number="1">macadamize</word>
+			</sg>
+			<sg number="7">
+				<word number="1">polish</word>
+				<word number="2">burnish</word>
+				<word number="3">calender</word>
+				<word number="4">glaze</word>
+			</sg>
+			<sg number="8">
+				<word number="1">iron</word>
+				<word number="2">hot-press</word>
+				<word number="3">mangle</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="oil" headRef="343">lubricate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="smooth">
+			<sg number="1">
+				<word number="1">smooth</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">polished</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leiodermatous</word>
+				<word number="2">slick</word>
+				<word number="3">velutinous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">even</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="level" headRef="222">level</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="flat" headRef="261">plane</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sleek</word>
+				<word number="2">glossy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">silken</word>
+				<word number="2">silky</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lanate</word>
+				<word number="2">downy</word>
+				<word number="3">velvety</word>
+			</sg>
+			<sg number="10">
+				<word number="1">glabrous</word>
+				<word number="2">slippery</word>
+				<word number="3">glassy</word>
+				<word number="4">lubricous</word>
+				<word number="5">oily</word>
+				<word number="6">soft</word>
+				<word number="7">unwrinkled</word>
+				<word number="8" new="1">embittered</word>
+			</sg>
+			<sg number="11">
+				<word number="1">smooth as glass</word>
+				<word number="2">smooth as ice</word>
+				<word number="3">smooth as monumental alabaster</word>
+				<word number="4">smooth as velvet</word>
+				<word number="5">smooth as oil</word>
+			</sg>
+			<sg number="12">
+				<word number="1">slippery as an eel</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="feathery" headRef="267">woolly</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">melodic</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">incandescent</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">stepped</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">basilican</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">evil</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">furthest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="smooth as silk">
+			<sg number="1">
+				<word number="1">smooth as silk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slippery as coonshit on a pump handle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slippery as a greased pig</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="355" name="Plain" origNum="#344." class="3" section="2" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="plain">
+			<sg number="1">
+				<word number="1">plain</word>
+				<word number="2">table-land</word>
+				<word number="3">face of the country</word>
+			</sg>
+			<sg number="2">
+				<word number="1">open country</word>
+				<word number="2">champaign country</word>
+			</sg>
+			<sg number="3">
+				<word number="1">basin</word>
+				<word number="2">downs</word>
+				<word number="3">waste</word>
+				<word number="4">weary waste</word>
+				<word number="5">desert</word>
+				<word number="6">wild</word>
+				<word number="7">steppe</word>
+				<word number="8">pampas</word>
+				<word number="9">savanna</word>
+				<word number="10">prairie</word>
+				<word number="11">heath</word>
+				<word number="12">common</word>
+				<word number="13">wold</word>
+				<word number="14">veldt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moor</word>
+				<word number="2">moorland</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bush</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="level" headRef="222">plateau</word>
+			</sg>
+			<sg number="7">
+				<word number="1">campagna</word>
+			</sg>
+			<sg number="8">
+				<word number="1">alkali flat</word>
+				<word number="2">llano</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mesa</word>
+				<word number="2">mesilla</word>
+				<word number="3">playa</word>
+			</sg>
+			<sg number="10">
+				<word number="1">shaking prairie</word>
+				<word number="2">trembling prairie</word>
+			</sg>
+			<sg number="11">
+				<word number="1">vega</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="meadow">
+			<sg number="1">
+				<word number="1">meadow</word>
+				<word number="2">mead</word>
+				<word number="3">haugh</word>
+				<word number="4">pasturage</word>
+				<word number="5">park</word>
+				<word number="6">field</word>
+				<word number="7">lawn</word>
+				<word number="8">green</word>
+				<word number="9">plat</word>
+				<word number="10">plot</word>
+				<word number="11">grassplat</word>
+				<word number="12">greensward</word>
+				<word number="13">sward</word>
+				<word number="14">turf</word>
+				<word number="15">sod</word>
+				<word number="16">heather</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lea</word>
+				<word number="2">ley</word>
+				<word number="3">lay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grounds</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maidan</word>
+				<word number="2">agostadero</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="champaign">
+			<sg number="1">
+				<word number="1">champaign</word>
+				<word number="2">alluvial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">campestral</word>
+				<word number="2">campestrial</word>
+				<word number="3">campestrian</word>
+				<word number="4">campestrine</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

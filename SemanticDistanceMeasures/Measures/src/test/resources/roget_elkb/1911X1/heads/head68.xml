@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="68" name="Precursor" origNum="#64." class="1" section="4" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="precursor">
+			<sg number="1">
+				<word number="1">precursor</word>
+				<word number="2">antecedent</word>
+				<word number="3">precedent</word>
+				<word number="4">predecessor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forerunner</word>
+				<word number="2">vancourier</word>
+				<word number="3">avant-coureur</word>
+				<word number="4">pioneer</word>
+				<word number="5">prodrome</word>
+				<word number="6">prodromos</word>
+				<word number="7">prodromus</word>
+				<word number="8">outrider</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leader</word>
+				<word number="2">bellwether</word>
+			</sg>
+			<sg number="4">
+				<word number="1">herald</word>
+				<word number="2">harbinger</word>
+			</sg>
+			<sg number="5">
+				<word number="1">foreboding</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dawn</word>
+			</sg>
+			<sg number="7">
+				<word number="1">avant-courier</word>
+				<word number="2">avant-garde</word>
+				<word number="3">bellmare</word>
+				<word number="4">forelooper</word>
+				<word number="5">foreloper</word>
+				<word number="6">stalking-horse</word>
+				<word number="7">voorlooper</word>
+				<word number="8">voortrekker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prelude">
+			<sg number="1">
+				<word number="1">prelude</word>
+				<word number="2">preamble</word>
+				<word number="3">preface</word>
+				<word number="4">prologue</word>
+				<word number="5">foreword</word>
+				<word number="6">avant-propos</word>
+				<word number="7">protasis</word>
+				<word number="8">proemium</word>
+				<word number="9">prolusion</word>
+				<word number="10">proem</word>
+				<word number="11">prolepsis</word>
+				<word number="12">prolegomena</word>
+				<word number="13">prefix</word>
+				<word number="14">introduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heading</word>
+				<word number="2">frontispiece</word>
+				<word number="3">groundwork</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="preparation" headRef="702">preparation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">overture</word>
+				<word number="2">exordium</word>
+				<word number="3">symphony</word>
+			</sg>
+			<sg number="5">
+				<word number="1">premises</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prefigurement">
+			<sg number="1">
+				<word number="1" paraRef="prefigurement" headRef="535">prefigurement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="omen" headRef="536">omen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="precursory">
+			<sg number="1">
+				<word number="1">precursory</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prelusive</word>
+				<word number="2">prelusory</word>
+				<word number="3">preludious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">proemial</word>
+				<word number="2">introductory</word>
+				<word number="3">prefatory</word>
+				<word number="4">prodromous</word>
+				<word number="5">inaugural</word>
+				<word number="6">preliminary</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="prior" headRef="122">precedent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a precedent embalms a principle">
+			<sg number="1">
+				<word number="1">"a precedent embalms a principle"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

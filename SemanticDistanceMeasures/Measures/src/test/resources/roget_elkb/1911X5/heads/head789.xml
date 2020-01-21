@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="789" name="Consignee" origNum="#758." class="7" section="1" subSection="1" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="consignee">
+			<sg number="1">
+				<word number="1">consignee</word>
+				<word number="2">trustee</word>
+				<word number="3">nominee</word>
+				<word number="4">committee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="agent">
+			<sg number="1">
+				<word number="1">agent</word>
+				<word number="2">delegate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commissary</word>
+				<word number="2">commissioner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emissary</word>
+				<word number="2">envoy</word>
+				<word number="3">commissionaire</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="messenger" headRef="560">messenger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="diplomatist">
+			<sg number="1">
+				<word number="1">diplomatist</word>
+				<word number="2">diplomat(e)</word>
+				<word number="3">corps diplomatique</word>
+				<word number="4">embassy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ambassador</word>
+				<word number="2">embassador</word>
+			</sg>
+			<sg number="3">
+				<word number="1">representative</word>
+				<word number="2">resident</word>
+				<word number="3">consul</word>
+				<word number="4">legate</word>
+				<word number="5">nuncio</word>
+				<word number="6">internuncio</word>
+				<word number="7">charge d'affaires</word>
+				<word number="8">attache</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="vicegerent">
+			<sg number="1">
+				<word number="1" paraRef="deputy" headRef="790">vicegerent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plenipotentiary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="functionary">
+			<sg number="1">
+				<word number="1">functionary</word>
+				<word number="2">placeman</word>
+				<word number="3">curator</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="treasurer" headRef="836">treasurer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">factor</word>
+				<word number="2">bailiff</word>
+				<word number="3">clerk</word>
+				<word number="4">secretary</word>
+				<word number="5">attorney</word>
+				<word number="6">advocate</word>
+				<word number="7">solicitor</word>
+				<word number="8">proctor</word>
+				<word number="9">broker</word>
+				<word number="10">underwriter</word>
+				<word number="11">commission agent</word>
+				<word number="12">auctioneer</word>
+				<word number="13">one's man of business</word>
+				<word number="14" new="1">counsel</word>
+				<word number="15" new="1">notary</word>
+				<word number="16" new="1">procurator</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="director" headRef="723">factotum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">caretaker</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dalal</word>
+				<word number="2">dubash</word>
+				<word number="3">garnishee</word>
+				<word number="4">gomashta</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">assessor</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">auditor</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">comptroller</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">custodian</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">keeper</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">magistrate</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">sheriff</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">steward</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">superintendent</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">bursar</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="2">constable</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="2">coroner</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="2">inspector</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="2">marshal</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="2">overseer</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="2">paymaster</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="2">selectman</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="2">warden</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="3">adjutant</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="3">commandant</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="3">dean</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="3">prosecutor</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="3">provost</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="3">seneschal</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="4">brigadier</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="4">examiner</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="4">juror</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="4">quartermaster</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="5">sergeant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="negotiator">
+			<sg number="1">
+				<word number="1">negotiator</word>
+				<word number="2">go-between</word>
+			</sg>
+			<sg number="2">
+				<word number="1">middleman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under agent</word>
+				<word number="2">employe</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="servant" headRef="777">servant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">referee</word>
+				<word number="2" paraRef="judge" headRef="1010">arbitrator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="traveler">
+			<sg number="1">
+				<word number="1">traveler</word>
+				<word number="2">bagman</word>
+				<word number="3">commis-voyageur</word>
+				<word number="4">touter</word>
+				<word number="5">commercial traveler</word>
+				<word number="6">drummer</word>
+				<word number="7">traveling man</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="newspaper correspondent">
+			<sg number="1">
+				<word number="1">newspaper correspondent</word>
+				<word number="2">own correspondent</word>
+				<word number="3">special correspondent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="chairman">
+			<sg number="1">
+				<word number="1" new="1">chairman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="chairperson">
+			<sg number="1">
+				<word number="1" new="1">chairperson</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="delegation">
+			<sg number="1">
+				<word number="1" new="1">delegation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="deputation">
+			<sg number="1">
+				<word number="1" new="1">deputation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="deputy">
+			<sg number="1">
+				<word number="1" new="1">deputy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="legation">
+			<sg number="1">
+				<word number="1" new="1">legation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="registrar">
+			<sg number="1">
+				<word number="1" new="1">registrar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="candidate">
+			<sg number="1">
+				<word number="1" new="2">candidate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="chair">
+			<sg number="1">
+				<word number="1" new="2">chair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="chairwoman">
+			<sg number="1">
+				<word number="1" new="2">chairwoman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="chancellor">
+			<sg number="1">
+				<word number="1" new="2">chancellor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="mayor">
+			<sg number="1">
+				<word number="1" new="2">mayor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="prefect">
+			<sg number="1">
+				<word number="1" new="2">prefect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="bearer">
+			<sg number="1">
+				<word number="1" new="3">bearer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="premier">
+			<sg number="1">
+				<word number="1" new="3">premier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="president">
+			<sg number="1">
+				<word number="1" new="3">president</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="proconsul">
+			<sg number="1">
+				<word number="1" new="3">proconsul</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="governor">
+			<sg number="1">
+				<word number="1" new="4">governor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="judge">
+			<sg number="1">
+				<word number="1" new="4">judge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="minister">
+			<sg number="1">
+				<word number="1" new="4">minister</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="senator">
+			<sg number="1">
+				<word number="1" new="4">senator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="arbiter">
+			<sg number="1">
+				<word number="1" new="5">arbiter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="chief">
+			<sg number="1">
+				<word number="1" new="5">chief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="congressman">
+			<sg number="1">
+				<word number="1" new="5">congressman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="councilman">
+			<sg number="1">
+				<word number="1" new="5">councilman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="jury">
+			<sg number="1">
+				<word number="1" new="5">jury</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="justice">
+			<sg number="1">
+				<word number="1" new="5">justice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="36" name="leader">
+			<sg number="1">
+				<word number="1" new="5">leader</word>
+			</sg>
+		</paragraph>
+		<paragraph number="37" name="umpire">
+			<sg number="1">
+				<word number="1" new="5">umpire</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

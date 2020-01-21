@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="126" name="Synchronism" origNum="#120." class="1" section="6" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="synchronism">
+			<sg number="1">
+				<word number="1">synchronism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coexistence</word>
+				<word number="2">coincidence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">simultaneousness</word>
+				<word number="2" paraRef="" posRef="adj.">simultaneity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">concurrence</word>
+				<word number="2">concomitance</word>
+				<word number="3">unity of time</word>
+				<word number="4">interim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="isochronism">
+			<sg number="1">
+				<word number="1">isochronism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="contemporary">
+			<sg number="1">
+				<word number="1">contemporary</word>
+				<word number="2">coetanian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="coexist">
+			<sg number="1">
+				<word number="1">coexist</word>
+				<word number="2">concur</word>
+				<word number="3">accompany</word>
+				<word number="4">go hand in hand</word>
+				<word number="5">keep pace with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">synchronize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="synchronous">
+			<sg number="1">
+				<word number="1">synchronous</word>
+				<word number="2">synchronal</word>
+				<word number="3">synchronic</word>
+				<word number="4">synchronical</word>
+				<word number="5">synchronistical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">simultaneous</word>
+				<word number="2">coexisting</word>
+				<word number="3">coincident</word>
+				<word number="4">concomitant</word>
+				<word number="5">concurrent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">coeval</word>
+				<word number="2">coevous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contemporary</word>
+				<word number="2">contemporaneous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">coetaneous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">coeternal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">isochronous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at the same time">
+			<sg number="1">
+				<word number="1">at the same time</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">simultaneously</word>
+			</sg>
+			<sg number="3">
+				<word number="1">together</word>
+				<word number="2">in concert</word>
+				<word number="3">during the same time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the same breath</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pari passu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in the interim</word>
+			</sg>
+			<sg number="7">
+				<word number="1">as one</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="at the very moment">
+			<sg number="1">
+				<word number="1" paraRef="moment" headRef="119">at the very moment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">just as</word>
+				<word number="2">as soon as</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="while" headRef="111">meanwhile</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

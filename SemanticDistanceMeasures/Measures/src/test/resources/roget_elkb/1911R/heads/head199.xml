@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="199" name="Contents" origNum="#190." class="2" section="1" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="contents">
+			<sg number="1">
+				<word number="1">contents</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cargo</word>
+				<word number="2">lading</word>
+				<word number="3">freight</word>
+				<word number="4">shipment</word>
+				<word number="5">load</word>
+				<word number="6">bale</word>
+				<word number="7">burden</word>
+				<word number="8">jag</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cartload</word>
+				<word number="2">shipload</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cup of</word>
+				<word number="2" paraRef="receptacle" headRef="200">basket of</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inside" headRef="231">inside</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stuffing</word>
+				<word number="2">ullage</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

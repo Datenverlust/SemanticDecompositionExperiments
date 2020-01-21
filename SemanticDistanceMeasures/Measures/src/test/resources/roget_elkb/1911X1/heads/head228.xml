@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="228" name="Inversion" origNum="#218." class="2" section="2" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inversion">
+			<sg number="1">
+				<word number="1">inversion</word>
+				<word number="2">eversion</word>
+				<word number="3">subversion</word>
+				<word number="4">reversion</word>
+				<word number="5">retroversion</word>
+				<word number="6">introversion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contraposition" headRef="247">contraposition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="contrariety" headRef="14">contrariety</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reversal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">turn of the tide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="overturn">
+			<sg number="1">
+				<word number="1">overturn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">somersault</word>
+				<word number="2">somerset</word>
+			</sg>
+			<sg number="3">
+				<word number="1">summerset</word>
+			</sg>
+			<sg number="4">
+				<word number="1">culbute</word>
+			</sg>
+			<sg number="5">
+				<word number="1">revulsion</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pirouette</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="transposition">
+			<sg number="1">
+				<word number="1">transposition</word>
+				<word number="2">transposal</word>
+				<word number="3">anastrophy</word>
+				<word number="4">metastasis</word>
+				<word number="5">hyperbaton</word>
+				<word number="6">anastrophe</word>
+				<word number="7">hysteron proteron</word>
+				<word number="8">hypallage</word>
+				<word number="9">synchysis</word>
+				<word number="10">tmesis</word>
+				<word number="11">parenthesis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">metathesis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">palindrome</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pronation and supination">
+			<sg number="1">
+				<word number="1">pronation and supination</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inverted">
+			<sg number="1">
+				<word number="1">be inverted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn round</word>
+				<word number="2">turn about</word>
+				<word number="3">turn to the right about</word>
+				<word number="4">go round</word>
+				<word number="5">go about</word>
+				<word number="6">go to the right about</word>
+				<word number="7">wheel round</word>
+				<word number="8">wheel about</word>
+				<word number="9">wheel to the right about</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turn over</word>
+				<word number="2">go over</word>
+				<word number="3">tilt over</word>
+				<word number="4">topple over</word>
+			</sg>
+			<sg number="4">
+				<word number="1">capsize</word>
+				<word number="2">turn turtle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="invert">
+			<sg number="1">
+				<word number="1">invert</word>
+				<word number="2">subvert</word>
+				<word number="3">retrovert</word>
+				<word number="4">introvert</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reverse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">up turn</word>
+				<word number="2">over turn</word>
+				<word number="3">up set</word>
+				<word number="4">over set</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">turn topsy turvy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">culbuter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">transpose</word>
+				<word number="2">put the cart before the horse</word>
+				<word number="3">turn the tables</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inverted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">inverted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wrong side out</word>
+				<word number="2">wrong side up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inside out</word>
+				<word number="2">upside down</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bottom upwards</word>
+				<word number="2">keel upwards</word>
+			</sg>
+			<sg number="5">
+				<word number="1">supine</word>
+				<word number="2">on one's head</word>
+				<word number="3">topsy- turvy</word>
+				<word number="4">sens dessus dessous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inverse">
+			<sg number="1">
+				<word number="1">inverse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="contrary" headRef="14">reverse</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="opposite" headRef="247">opposite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="top heavy">
+			<sg number="1">
+				<word number="1">top heavy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="inversely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">inversely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hirdy-girdy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heels over head</word>
+				<word number="2">head over heels</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

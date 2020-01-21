@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="471" name="Thought" origNum="#451." class="4" section="1" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="thought">
+			<sg number="1">
+				<word number="1">thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exercitation of the intellect</word>
+				<word number="2">exercise of the intellect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">intellection</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reflection</word>
+				<word number="2">cogitation</word>
+				<word number="3">consideration</word>
+				<word number="4">meditation</word>
+				<word number="5">study</word>
+				<word number="6">lucubration</word>
+				<word number="7">speculation</word>
+				<word number="8">deliberation</word>
+				<word number="9">pondering</word>
+			</sg>
+			<sg number="5">
+				<word number="1">head work</word>
+				<word number="2">brain work</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cerebration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">deep reflection</word>
+			</sg>
+			<sg number="8">
+				<word number="1">close study</word>
+				<word number="2" paraRef="attention" headRef="477">application</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="abstract thought">
+			<sg number="1">
+				<word number="1">abstract thought</word>
+				<word number="2">abstraction contemplation</word>
+				<word number="3">musing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inattention" headRef="478">brown study</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reverie</word>
+				<word number="2">Platonism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">depth of thought</word>
+				<word number="2">workings of the mind</word>
+				<word number="3">thoughts</word>
+				<word number="4">inmost thoughts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">self-counsel self-communing</word>
+				<word number="2">self- consultation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">philosophy of the Absolute</word>
+				<word number="2">philosophy of the Academy</word>
+				<word number="3">philosophy of the Garden</word>
+				<word number="4">philosophy of the lyceum</word>
+				<word number="5">philosophy of the Porch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="association of thought">
+			<sg number="1">
+				<word number="1">association of thought</word>
+				<word number="2">succession of thought</word>
+				<word number="3">flow of thought</word>
+				<word number="4">train of thought</word>
+				<word number="5">current of thought</word>
+				<word number="6">association of ideas</word>
+				<word number="7">succession of ideas</word>
+				<word number="8">flow of ideas</word>
+				<word number="9">train of ideas</word>
+				<word number="10">current of ideas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="after thought">
+			<sg number="1">
+				<word number="1">after thought</word>
+				<word number="2">mature thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reconsideration</word>
+				<word number="2">second thoughts</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="memory" headRef="529">retrospection</word>
+			</sg>
+			<sg number="4">
+				<word number="1">excogitation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inquiry" headRef="481">examination</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="imagination" headRef="540">invention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="thoughtfulness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">thoughtfulness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="think">
+			<sg number="1">
+				<word number="1">think</word>
+				<word number="2">reflect</word>
+				<word number="3">cogitate</word>
+				<word number="4">excogitate</word>
+				<word number="5">consider</word>
+				<word number="6">deliberate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bestow thought upon</word>
+				<word number="2">bestow consideration upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">speculate</word>
+				<word number="2">contemplate</word>
+				<word number="3">meditate</word>
+				<word number="4">ponder</word>
+				<word number="5">muse</word>
+				<word number="6">dream</word>
+				<word number="7">ruminate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">brood over</word>
+				<word number="2">con over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">animadvert</word>
+				<word number="2">study</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bend -</word>
+				<word number="2" paraRef="attend" headRef="477">apply mind</word>
+			</sg>
+			<sg number="7">
+				<word number="1">digest</word>
+				<word number="2">discuss</word>
+				<word number="3">hammer at</word>
+				<word number="4">weigh</word>
+				<word number="5">perpend</word>
+			</sg>
+			<sg number="8">
+				<word number="1">realize</word>
+				<word number="2">appreciate</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="imagine" headRef="540">fancy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">trow</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">depress</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">harness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take into consideration">
+			<sg number="1">
+				<word number="1">take into consideration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be advised by" headRef="724">take counsel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commune with oneself</word>
+				<word number="2">bethink oneself</word>
+			</sg>
+			<sg number="4">
+				<word number="1">collect one's thoughts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">revolve in the mind</word>
+				<word number="2">turn over in the mind</word>
+				<word number="3">run over in the mind</word>
+			</sg>
+			<sg number="6">
+				<word number="1">chew the cud upon</word>
+				<word number="2">sleep upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">take counsel of one's pillow</word>
+				<word number="2">advise with one's pillow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rack one's brains">
+			<sg number="1">
+				<word number="1">rack one's brains</word>
+				<word number="2">ransack one's brains</word>
+				<word number="3">crack one's brains</word>
+				<word number="4">beat one's brains</word>
+				<word number="5">cudgel one's brains</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set one's brain to work</word>
+				<word number="2">set one's wits to work</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="harbor an idea">
+			<sg number="1">
+				<word number="1">harbor an idea</word>
+				<word number="2">entertain an idea</word>
+				<word number="3">cherish an idea</word>
+				<word number="4" paraRef="idea" headRef="473">nurture an idea</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take into one's head</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear in mind</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reconsider</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="occur">
+			<sg number="1">
+				<word number="1">occur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">present itself</word>
+				<word number="2">suggest itself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come into one's head</word>
+				<word number="2">get into one's head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strike one</word>
+				<word number="2">flit across the view</word>
+				<word number="3">come uppermost</word>
+				<word number="4">run in one's head</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enter the mind</word>
+				<word number="2">pass in the mind</word>
+				<word number="3">cross the mind</word>
+				<word number="4">flash on the mind</word>
+				<word number="5">flash across the mind</word>
+				<word number="6">float in the mind</word>
+				<word number="7">fasten itself on the mind</word>
+				<word number="8">be uppermost in the mind</word>
+				<word number="9">occupy the mind</word>
+			</sg>
+			<sg number="6">
+				<word number="1">have in one's mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="make an impression">
+			<sg number="1">
+				<word number="1">make an impression</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sink into the mind</word>
+				<word number="2">penetrate into the mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">engross the thoughts</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="thinking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">thinking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thoughtful</word>
+				<word number="2">pensive</word>
+				<word number="3">meditative</word>
+				<word number="4">reflective</word>
+				<word number="5">museful</word>
+				<word number="6">wistful</word>
+				<word number="7">contemplative</word>
+				<word number="8">speculative</word>
+				<word number="9">deliberative</word>
+				<word number="10">studious</word>
+				<word number="11">sedate</word>
+				<word number="12">introspective</word>
+				<word number="13">Platonic</word>
+				<word number="14">philosophical</word>
+				<word number="15" new="1">concise</word>
+				<word number="16" new="1">toasted</word>
+				<word number="17" new="1">uploaded</word>
+				<word number="18" new="1">adrenergic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lost in thought">
+			<sg number="1">
+				<word number="1" paraRef="inattentive" headRef="478">lost in thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="intentness" headRef="477">deep musing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in the mind">
+			<sg number="1">
+				<word number="1">in the mind</word>
+				<word number="2">under consideration</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="all things considered">
+			<sg number="1">
+				<word number="1">all things considered</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the mind being on the stretch">
+			<sg number="1">
+				<word number="1">the mind being on the stretch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the mind turning upon</word>
+				<word number="2">the head turning upon</word>
+				<word number="3">the mind  running upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"divinely</word>
+				<word number="2">bent to meditation"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">en toute chose il faut considerer la fin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"fresh- pluckt from bowers of never-failing thought"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"go speed the stars of Thought"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"in maiden meditation fancy-free"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"so sweet is zealous contemplation"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"the power of thought is the magic of the Mind"</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"those that think must govern those that toil"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"thought is parent of the deed"</word>
+			</sg>
+			<sg number="12">
+				<word number="1">"thoughts in attitudes imperious"</word>
+			</sg>
+			<sg number="13">
+				<word number="1">"thoughts that breathe and words that burn"</word>
+			</sg>
+			<sg number="14">
+				<word number="1">vivere est cogitare</word>
+			</sg>
+			<sg number="15">
+				<word number="1">Volk der Dichter und Denker</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

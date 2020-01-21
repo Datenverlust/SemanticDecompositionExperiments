@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="840" name="Credit" origNum="#805." class="7" section="4" subSection="4" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="credit">
+			<sg number="1">
+				<word number="1">credit</word>
+				<word number="2">trust</word>
+				<word number="3">tick</word>
+				<word number="4">score</word>
+				<word number="5">tally</word>
+				<word number="6">account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="letter of credit">
+			<sg number="1">
+				<word number="1">letter of credit</word>
+				<word number="2">circular note</word>
+			</sg>
+			<sg number="2">
+				<word number="1">duplicate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mortgage</word>
+				<word number="2">lien</word>
+				<word number="3">debenture</word>
+				<word number="4">paper credit</word>
+				<word number="5">floating capital</word>
+			</sg>
+			<sg number="4">
+				<word number="1">draft</word>
+				<word number="2">lettre de creance</word>
+				<word number="3">securities</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="creditor">
+			<sg number="1">
+				<word number="1">creditor</word>
+				<word number="2">lender</word>
+				<word number="3">lessor</word>
+				<word number="4">mortgagee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dun</word>
+			</sg>
+			<sg number="3">
+				<word number="1">usurer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="credit account">
+			<sg number="1">
+				<word number="1">credit account</word>
+				<word number="2">line of credit</word>
+				<word number="3">open line of credit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="credit card">
+			<sg number="1">
+				<word number="1">credit card</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="keep an account with">
+			<sg number="1">
+				<word number="1">keep an account with</word>
+				<word number="2">run up an account with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intrust</word>
+				<word number="2">credit</word>
+				<word number="3">accredit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="place to one's credit">
+			<sg number="1">
+				<word number="1">place to one's credit</word>
+				<word number="2">credit to one's account</word>
+				<word number="3">place to one's account!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give credit</word>
+				<word number="2">take credit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fly a kite!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="crediting">
+			<sg number="1">
+				<word number="1">crediting</word>
+				<word number="2">credited</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accredited</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on credit">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">on credit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on account</word>
+			</sg>
+			<sg number="3">
+				<word number="1">to the account of</word>
+				<word number="2">to the credit of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a compte</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

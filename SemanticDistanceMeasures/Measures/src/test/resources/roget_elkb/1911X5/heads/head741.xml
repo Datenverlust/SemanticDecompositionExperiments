@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="741" name="Party" origNum="#712." class="6" section="4" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="party">
+			<sg number="1">
+				<word number="1">party</word>
+				<word number="2">faction</word>
+				<word number="3">side</word>
+				<word number="4">denomination</word>
+				<word number="5">communion</word>
+				<word number="6">set</word>
+				<word number="7">crew</word>
+				<word number="8">band</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="horde">
+			<sg number="1">
+				<word number="1">horde</word>
+				<word number="2">posse</word>
+				<word number="3">phalanx</word>
+			</sg>
+			<sg number="2">
+				<word number="1">family</word>
+				<word number="2" paraRef="clan" headRef="173">clan</word>
+			</sg>
+			<sg number="3">
+				<word number="1">team</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tong</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="council">
+			<sg number="1">
+				<word number="1" paraRef="council" headRef="725">council</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="community">
+			<sg number="1">
+				<word number="1">community</word>
+				<word number="2">body</word>
+				<word number="3">fellowship</word>
+				<word number="4">sodality</word>
+				<word number="5">solidarity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confraternity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">familistere</word>
+				<word number="2">familistery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">brotherhood</word>
+				<word number="2">sisterhood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="knot">
+			<sg number="1">
+				<word number="1">knot</word>
+				<word number="2">gang</word>
+				<word number="3">clique</word>
+				<word number="4">ring</word>
+				<word number="5">circle</word>
+				<word number="6">group</word>
+				<word number="7">crowd</word>
+				<word number="8">in-crowd</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coterie</word>
+				<word number="2">club</word>
+				<word number="3">casino!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">machine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Tammany</word>
+				<word number="2">Tammany Hall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="corporation">
+			<sg number="1">
+				<word number="1">corporation</word>
+				<word number="2">corporate body</word>
+				<word number="3">guild</word>
+			</sg>
+			<sg number="2">
+				<word number="1">establishment</word>
+				<word number="2">company</word>
+			</sg>
+			<sg number="3">
+				<word number="1">copartnership</word>
+				<word number="2">partnership</word>
+			</sg>
+			<sg number="4">
+				<word number="1">firm</word>
+				<word number="2">house</word>
+			</sg>
+			<sg number="5">
+				<word number="1">joint concern</word>
+				<word number="2">joint-stock company</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cahoot</word>
+				<word number="2">combine</word>
+				<word number="3">trust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="society">
+			<sg number="1">
+				<word number="1">society</word>
+				<word number="2">association</word>
+			</sg>
+			<sg number="2">
+				<word number="1">institute</word>
+				<word number="2">institution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">union</word>
+			</sg>
+			<sg number="4">
+				<word number="1">trades union</word>
+			</sg>
+			<sg number="5">
+				<word number="1">league</word>
+				<word number="2">syndicate</word>
+				<word number="3">alliance</word>
+				<word number="4">Verein</word>
+				<word number="5">Bund</word>
+				<word number="6">Zollverein</word>
+				<word number="7">combination</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Turnverein</word>
+			</sg>
+			<sg number="7">
+				<word number="1">league offensive and defensive</word>
+				<word number="2">alliance offensive and defensive</word>
+			</sg>
+			<sg number="8">
+				<word number="1">coalition</word>
+			</sg>
+			<sg number="9">
+				<word number="1">federation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">confederation</word>
+				<word number="2">confederacy</word>
+			</sg>
+			<sg number="11">
+				<word number="1">junto</word>
+				<word number="2">cabal</word>
+				<word number="3">camarilla</word>
+				<word number="4">camorra</word>
+				<word number="5">brigue</word>
+			</sg>
+			<sg number="12">
+				<word number="1">freemasonry</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="cooperation" headRef="738">party spirit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="Confederates">
+			<sg number="1">
+				<word number="1">Confederates</word>
+				<word number="2">Conservatives</word>
+				<word number="3">Democrats</word>
+				<word number="4">Federalists</word>
+				<word number="5">Federals</word>
+				<word number="6">Freemason</word>
+				<word number="7">Knight Templar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Kuklux</word>
+				<word number="2">Kuklux Klan</word>
+				<word number="3">KKK</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Liberals</word>
+				<word number="2">Luddites</word>
+				<word number="3">Republicans</word>
+				<word number="4">Socialists</word>
+				<word number="5">Tories</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="staff">
+			<sg number="1">
+				<word number="1">staff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dramatis personae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="foundation">
+			<sg number="1">
+				<word number="1" new="1">foundation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="unite">
+			<sg number="1">
+				<word number="1">unite</word>
+				<word number="2">join</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cooperate" headRef="738">club together</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cement a party</word>
+				<word number="2" paraRef="" posRef="n.">form a party</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="assemble" headRef="76">associate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enleague</word>
+				<word number="2">federalize</word>
+				<word number="3">go cahoots</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in league">
+			<sg number="1">
+				<word number="1">in league</word>
+				<word number="2">in  partnership</word>
+				<word number="3" paraRef="" posRef="n.">in alliance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bonded together">
+			<sg number="1">
+				<word number="1">bonded together</word>
+				<word number="2">banded together</word>
+				<word number="3" paraRef="joined" headRef="46">linked</word>
+			</sg>
+			<sg number="2">
+				<word number="1">embattled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">confederated</word>
+				<word number="2">federative</word>
+				<word number="3">joint</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="hand in hand">
+			<sg number="1">
+				<word number="1">hand in hand</word>
+				<word number="2">side by side</word>
+				<word number="3">shoulder to shoulder</word>
+				<word number="4">en masse</word>
+				<word number="5">in the same boat</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

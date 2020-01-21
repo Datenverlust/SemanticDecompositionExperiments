@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1033" name="Irreligion" origNum="#989." class="8" section="5" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="irreligion">
+			<sg number="1">
+				<word number="1">irreligion</word>
+				<word number="2">indevotion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">godlessness</word>
+				<word number="2" paraRef="" posRef="adj.">ungodliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">laxity</word>
+				<word number="2">quietism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="skepticism">
+			<sg number="1">
+				<word number="1">skepticism</word>
+				<word number="2">doubt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbelief</word>
+				<word number="2">disbelief</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incredulity</word>
+				<word number="2" paraRef="" posRef="adj.">incredulousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">want of faith</word>
+				<word number="2">want of belief</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pyrrhonism</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="doubt" headRef="509">doubt</word>
+			</sg>
+			<sg number="7">
+				<word number="1">agnosticism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="atheism">
+			<sg number="1">
+				<word number="1">atheism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hylotheism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">materialism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">positivism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nihilism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="infidelity">
+			<sg number="1">
+				<word number="1">infidelity</word>
+				<word number="2">freethinking</word>
+				<word number="3">antichristianity</word>
+				<word number="4">rationalism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">neology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="atheist">
+			<sg number="1">
+				<word number="1">atheist</word>
+				<word number="2">skeptic</word>
+				<word number="3">unbeliever</word>
+				<word number="4">deist</word>
+				<word number="5">infidel</word>
+				<word number="6">pyrrhonist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">giaour</word>
+				<word number="2">heathen</word>
+				<word number="3">alien</word>
+				<word number="4">gentile</word>
+				<word number="5">Nazarene</word>
+			</sg>
+			<sg number="3">
+				<word number="1">espri fort</word>
+				<word number="2">freethinker</word>
+				<word number="3">latitudinarian</word>
+				<word number="4">rationalist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">materialist</word>
+				<word number="2">positivist</word>
+				<word number="3">nihilist</word>
+				<word number="4">agnostic</word>
+				<word number="5">somatist</word>
+				<word number="6">theophobist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be irreligious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be irreligious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disbelieve</word>
+				<word number="2">lack faith</word>
+			</sg>
+			<sg number="3">
+				<word number="1">doubt</word>
+				<word number="2" paraRef="question" headRef="509">question</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dechristianize">
+			<sg number="1">
+				<word number="1">dechristianize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="irreligious">
+			<sg number="1">
+				<word number="1">irreligious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indevout</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undevout</word>
+			</sg>
+			<sg number="4">
+				<word number="1">devoutless</word>
+				<word number="2">godless</word>
+				<word number="3">graceless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ungodly</word>
+				<word number="2">unholy</word>
+				<word number="3">unsanctified</word>
+				<word number="4">unhallowed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">atheistic</word>
+				<word number="2">without God</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="skeptical">
+			<sg number="1">
+				<word number="1">skeptical</word>
+				<word number="2">freethinking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbelieving</word>
+				<word number="2">unconverted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incredulous</word>
+				<word number="2">faithless</word>
+				<word number="3">lacking faith</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deistical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unchristian</word>
+				<word number="2">antichristian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="worldly">
+			<sg number="1">
+				<word number="1">worldly</word>
+				<word number="2">mundane</word>
+				<word number="3">earthly</word>
+				<word number="4">carnal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">worldly</word>
+				<word number="2">minded</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="irreligiously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">irreligiously</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

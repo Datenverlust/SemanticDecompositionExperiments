@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="72" name="Middle" origNum="#68." class="1" section="4" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="middle">
+			<sg number="1">
+				<word number="1">middle</word>
+				<word number="2">midst</word>
+				<word number="3">mediety</word>
+				<word number="4" paraRef="mean" headRef="31">mean</word>
+			</sg>
+			<sg number="2">
+				<word number="1">medium</word>
+				<word number="2">middle term</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="center" headRef="232">center</word>
+				<word number="2" paraRef="mid-course" headRef="657">mid-course</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mezzo termine</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="juste milieu" headRef="657">juste milieu</word>
+			</sg>
+			<sg number="6">
+				<word number="1">halfway house</word>
+				<word number="2">nave</word>
+				<word number="3">navel</word>
+				<word number="4">omphalos</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nucleus</word>
+				<word number="2">nucleolus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="equidistance">
+			<sg number="1">
+				<word number="1">equidistance</word>
+				<word number="2">bisection</word>
+				<word number="3">half distance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">equator</word>
+				<word number="2">diaphragm</word>
+				<word number="3">midriff</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intermediate" headRef="238">intermediate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="middle">
+			<sg number="1">
+				<word number="1">middle</word>
+				<word number="2">medial</word>
+				<word number="3">mesial</word>
+				<word number="4">mean</word>
+				<word number="5">mid</word>
+				<word number="6">median</word>
+				<word number="7">average</word>
+			</sg>
+			<sg number="2">
+				<word number="1">middlemost</word>
+				<word number="2">midmost</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mediate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="interjacent" headRef="238">intermediate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">equidistant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="central" headRef="232">central</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mediterranean</word>
+				<word number="2">equatorial</word>
+			</sg>
+			<sg number="8">
+				<word number="1">homocentric</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in the middle">
+			<sg number="1">
+				<word number="1">in the middle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">midway</word>
+				<word number="2">halfway</word>
+			</sg>
+			<sg number="3">
+				<word number="1">midships</word>
+				<word number="2">amidships</word>
+				<word number="3">in medias res</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

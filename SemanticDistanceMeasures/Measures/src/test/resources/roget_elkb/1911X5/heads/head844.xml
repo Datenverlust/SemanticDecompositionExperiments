@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="844" name="Expenditure" origNum="#809." class="7" section="4" subSection="4" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="expenditure">
+			<sg number="1">
+				<word number="1">expenditure</word>
+				<word number="2">money going out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">out goings</word>
+				<word number="2">out lay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">expenses</word>
+				<word number="2">disbursement</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="price" headRef="847">prime cost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">circulation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">run upon a bank</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="payment">
+			<sg number="1">
+				<word number="1" paraRef="payment" headRef="842">payment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="remuneration" headRef="1016">pay</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bribe" headRef="1016">bribe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fee</word>
+				<word number="2">footing</word>
+				<word number="3">garnish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">subsidy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tribute</word>
+			</sg>
+			<sg number="7">
+				<word number="1">contingent</word>
+				<word number="2">quota</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="donation" headRef="817">donation</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">allowance</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">funding</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">loan</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="2">cash</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="2">credit</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="2">expense</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">financing</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">fund</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="2">grant</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="2">incentive</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="2">money</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="2">patronage</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="2">sponsorship</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="2">stipend</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="2">subscription</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="3">bounty</word>
+			</sg>
+			<sg number="25">
+				<word number="1" new="3">contract</word>
+			</sg>
+			<sg number="26">
+				<word number="1" new="3">equity</word>
+			</sg>
+			<sg number="27">
+				<word number="1" new="3">gratuity</word>
+			</sg>
+			<sg number="28">
+				<word number="1" new="3">guarantee</word>
+			</sg>
+			<sg number="29">
+				<word number="1" new="3">inducement</word>
+			</sg>
+			<sg number="30">
+				<word number="1" new="3">mortgage</word>
+			</sg>
+			<sg number="31">
+				<word number="1" new="3">rebate</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="3">reimbursement</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="3">remuneration</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="3">repayment</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="4">bond</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="4">collateral</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="4">debit</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="4">deduction</word>
+			</sg>
+			<sg number="39">
+				<word number="1" new="4">discount</word>
+			</sg>
+			<sg number="40">
+				<word number="1" new="4">insurance</word>
+			</sg>
+			<sg number="41">
+				<word number="1" new="4">lease</word>
+			</sg>
+			<sg number="42">
+				<word number="1" new="4">lien</word>
+			</sg>
+			<sg number="43">
+				<word number="1" new="4">reward</word>
+			</sg>
+			<sg number="44">
+				<word number="1" new="4">saving</word>
+			</sg>
+			<sg number="45">
+				<word number="1" new="5">benefit</word>
+			</sg>
+			<sg number="46">
+				<word number="1" new="5">compensation</word>
+			</sg>
+			<sg number="47">
+				<word number="1" new="5">easements</word>
+			</sg>
+			<sg number="48">
+				<word number="1" new="5">exemption</word>
+			</sg>
+			<sg number="49">
+				<word number="1" new="5">liability</word>
+			</sg>
+			<sg number="50">
+				<word number="1" new="5">sum</word>
+			</sg>
+			<sg number="51">
+				<word number="1" new="5">tax</word>
+			</sg>
+			<sg number="52">
+				<word number="1" new="5">ticket</word>
+			</sg>
+			<sg number="53">
+				<word number="1" new="5">tuition</word>
+			</sg>
+			<sg number="54">
+				<word number="1" new="5">warranty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pay in advance">
+			<sg number="1">
+				<word number="1">pay in advance</word>
+				<word number="2">earnest</word>
+				<word number="3">handsel</word>
+				<word number="4">deposit</word>
+				<word number="5">installment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="investment">
+			<sg number="1">
+				<word number="1">investment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="purchase" headRef="828">purchase</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="remittance">
+			<sg number="1">
+				<word number="1" new="1">remittance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="borrowing">
+			<sg number="1">
+				<word number="1" new="2">borrowing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="debt">
+			<sg number="1">
+				<word number="1" new="2">debt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="transaction">
+			<sg number="1">
+				<word number="1" new="2">transaction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="budget">
+			<sg number="1">
+				<word number="1" new="3">budget</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="lending">
+			<sg number="1">
+				<word number="1" new="3">lending</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="surplus">
+			<sg number="1">
+				<word number="1" new="3">surplus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="cost">
+			<sg number="1">
+				<word number="1" new="4">cost</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="deal">
+			<sg number="1">
+				<word number="1" new="4">deal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="expend">
+			<sg number="1">
+				<word number="1">expend</word>
+				<word number="2">spend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run through</word>
+				<word number="2">get through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pay</word>
+				<word number="2">disburse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ante</word>
+				<word number="2">ante up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pony up*</word>
+			</sg>
+			<sg number="6">
+				<word number="1">open the purse strings</word>
+				<word number="2">loose the purse strings</word>
+				<word number="3">untie the purse strings</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay out</word>
+				<word number="2">shell out*</word>
+				<word number="3">fork out*</word>
+				<word number="4">fork over</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bleed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">make up a sum</word>
+				<word number="2">invest</word>
+				<word number="3">sink money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="run up debts">
+			<sg number="1">
+				<word number="1">run up debts</word>
+				<word number="2" paraRef="debt" headRef="841">run up bills</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fee">
+			<sg number="1">
+				<word number="1" paraRef="reward" headRef="1016">fee</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pay" headRef="842">pay one's way</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="give" headRef="817">subscribe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subsidize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="expending">
+			<sg number="1">
+				<word number="1">expending</word>
+				<word number="2" paraRef="" posRef="v.">expended</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sumptuary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="vectigalia nervos esse reipublicae">
+			<sg number="1">
+				<word number="1">vectigalia nervos esse reipublicae</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

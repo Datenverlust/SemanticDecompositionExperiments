@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="567" name="Learner" origNum="#541." class="5" section="2" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="learner">
+			<sg number="1">
+				<word number="1">learner</word>
+				<word number="2">scholar</word>
+				<word number="3">student</word>
+				<word number="4">pupil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">apprentice</word>
+				<word number="2">prentice</word>
+				<word number="3">journeyman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">articled clerk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beginner</word>
+				<word number="2">tyro</word>
+				<word number="3">amateur</word>
+				<word number="4">rank amateur</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abecedarian</word>
+				<word number="2">alphabetarian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">alumnus</word>
+				<word number="2">eleve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="recruit">
+			<sg number="1">
+				<word number="1">recruit</word>
+				<word number="2">raw recruit</word>
+				<word number="3">novice</word>
+				<word number="4">neophyte</word>
+				<word number="5">inceptor</word>
+				<word number="6">catechumen</word>
+				<word number="7">probationer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">seminarian</word>
+				<word number="2">chela</word>
+				<word number="3">fellow-commoner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">debutant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="intern">
+			<sg number="1">
+				<word number="1">intern</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resident</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="schoolboy">
+			<sg number="1">
+				<word number="1">schoolboy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fresh</word>
+				<word number="2">freshman</word>
+				<word number="3">frosh</word>
+			</sg>
+			<sg number="3">
+				<word number="1">junior soph</word>
+				<word number="2">junior</word>
+			</sg>
+			<sg number="4">
+				<word number="1">senior soph</word>
+				<word number="2">senior</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sophister</word>
+				<word number="2">sophomore</word>
+			</sg>
+			<sg number="6">
+				<word number="1">questionist</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">investment</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">tetrachords</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">impertinence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="undergraduate">
+			<sg number="1">
+				<word number="1">undergraduate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">graduate student</word>
+			</sg>
+			<sg number="3">
+				<word number="1">law student</word>
+			</sg>
+			<sg number="4">
+				<word number="1">medical student</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pre-med</word>
+			</sg>
+			<sg number="6">
+				<word number="1">post-doctoral student</word>
+				<word number="2">post-doc</word>
+			</sg>
+			<sg number="7">
+				<word number="1">matriculated student</word>
+			</sg>
+			<sg number="8">
+				<word number="1">part-time student</word>
+				<word number="2">night student</word>
+				<word number="3">auditor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="class">
+			<sg number="1">
+				<word number="1">class</word>
+				<word number="2">grade</word>
+				<word number="3">seminar</word>
+				<word number="4">form</word>
+				<word number="5">remove</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="learning" headRef="565">pupilage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="disciple">
+			<sg number="1">
+				<word number="1">disciple</word>
+				<word number="2">follower</word>
+				<word number="3">apostle</word>
+				<word number="4">proselyte</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fellow-student</word>
+				<word number="2">condisciple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="school">
+			<sg number="1">
+				<word number="1" paraRef="school" headRef="568">school</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="empire">
+			<sg number="1">
+				<word number="1" new="1">empire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="indicus">
+			<sg number="1">
+				<word number="1" new="1">indicus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="sneak">
+			<sg number="1">
+				<word number="1" new="1">sneak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="cassowary">
+			<sg number="1">
+				<word number="1" new="1">cassowary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="learn">
+			<sg number="1">
+				<word number="1">learn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">practise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in statu pupillari">
+			<sg number="1">
+				<word number="1">in statu pupillari</word>
+				<word number="2">in leading strings</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="practise makes perfect">
+			<sg number="1">
+				<word number="1">practise makes perfect</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

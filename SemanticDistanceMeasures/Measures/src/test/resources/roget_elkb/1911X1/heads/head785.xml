@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="785" name="Prisoner" origNum="#754." class="7" section="1" subSection="1" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prisoner">
+			<sg number="1">
+				<word number="1">prisoner</word>
+				<word number="2">prisoner of war</word>
+				<word number="3">POW</word>
+				<word number="4">captive</word>
+				<word number="5">inmate</word>
+				<word number="6">detainee</word>
+				<word number="7">hostage</word>
+				<word number="8">abductee</word>
+				<word number="9">detenu</word>
+				<word number="10">close prisoner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="jail bird">
+			<sg number="1">
+				<word number="1">jail bird</word>
+				<word number="2">ticket of leave man</word>
+				<word number="3">chevronne</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="stand committed">
+			<sg number="1">
+				<word number="1">stand committed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imprisoned" headRef="782">be imprisoned</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take prisoner">
+			<sg number="1">
+				<word number="1">take prisoner</word>
+				<word number="2" paraRef="capture" headRef="822">take hostage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="imprisoned">
+			<sg number="1">
+				<word number="1" paraRef="imprisoned" headRef="782">imprisoned</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in prison</word>
+				<word number="2">in quod*</word>
+				<word number="3">in durance vile</word>
+				<word number="4">in limbo</word>
+				<word number="5">in custody</word>
+				<word number="6">doing time</word>
+				<word number="7">in charge</word>
+				<word number="8">in chains</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under lock and key</word>
+				<word number="2">under hatches</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on parole</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

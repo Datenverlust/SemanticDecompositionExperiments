@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="193" name="Location" origNum="#184." class="2" section="1" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="location">
+			<sg number="1">
+				<word number="1">location</word>
+				<word number="2">localization</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lodgment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deposition</word>
+				<word number="2">reposition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stowage</word>
+				<word number="2">package</word>
+			</sg>
+			<sg number="5">
+				<word number="1">collocation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">packing</word>
+				<word number="2">lading</word>
+			</sg>
+			<sg number="7">
+				<word number="1">establishment</word>
+				<word number="2">settlement</word>
+				<word number="3">installation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fixation</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="insertion" headRef="311">insertion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="habitat">
+			<sg number="1">
+				<word number="1">habitat</word>
+				<word number="2">environment</word>
+				<word number="3" paraRef="situation" headRef="192">surroundings</word>
+				<word number="4" new="1">locale</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="circumjacence" headRef="237">circumjacence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="anchorage">
+			<sg number="1">
+				<word number="1">anchorage</word>
+				<word number="2">mooring</word>
+				<word number="3">encampment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="plantation">
+			<sg number="1">
+				<word number="1">plantation</word>
+				<word number="2">colony</word>
+				<word number="3">settlement</word>
+				<word number="4">cantonment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">colonization</word>
+				<word number="2">domestication</word>
+				<word number="3">situation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="abode" headRef="198">habitation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cohabitation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"a local habitation and a name"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">endenization</word>
+				<word number="2">naturalization</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="place">
+			<sg number="1">
+				<word number="1">place</word>
+				<word number="2">situate</word>
+				<word number="3">locate</word>
+				<word number="4">localize</word>
+				<word number="5">make a place for</word>
+				<word number="6">put</word>
+				<word number="7">lay</word>
+				<word number="8">set</word>
+				<word number="9">seat</word>
+				<word number="10">station</word>
+				<word number="11">lodge</word>
+				<word number="12">quarter</word>
+				<word number="13">post</word>
+				<word number="14">install</word>
+			</sg>
+			<sg number="2">
+				<word number="1">house</word>
+				<word number="2">stow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">establish</word>
+				<word number="2">fix</word>
+				<word number="3">pin</word>
+				<word number="4">root</word>
+			</sg>
+			<sg number="4">
+				<word number="1">graft</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="insert" headRef="311">plant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">shelve</word>
+				<word number="2">pitch</word>
+				<word number="3">camp</word>
+				<word number="4">lay down</word>
+				<word number="5">deposit</word>
+				<word number="6">reposit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cradle</word>
+			</sg>
+			<sg number="8">
+				<word number="1">moor</word>
+				<word number="2">tether</word>
+				<word number="3">picket</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pack</word>
+				<word number="2">tuck in</word>
+			</sg>
+			<sg number="10">
+				<word number="1">embed</word>
+				<word number="2">imbed</word>
+			</sg>
+			<sg number="11">
+				<word number="1">vest</word>
+				<word number="2">invest in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="billet on">
+			<sg number="1">
+				<word number="1">billet on</word>
+				<word number="2">quarter upon</word>
+				<word number="3">saddle with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">load</word>
+				<word number="2">lade</word>
+				<word number="3">freight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pocket</word>
+				<word number="2">put up</word>
+				<word number="3">bag</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inhabit">
+			<sg number="1">
+				<word number="1" paraRef="be present" headRef="195">inhabit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be located</word>
+			</sg>
+			<sg number="3">
+				<word number="1">domesticate</word>
+				<word number="2">colonize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take root</word>
+				<word number="2">strike root</word>
+			</sg>
+			<sg number="5">
+				<word number="1">anchor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cast anchor</word>
+				<word number="2">come to an anchor</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sit down</word>
+				<word number="2">settle down</word>
+			</sg>
+			<sg number="8">
+				<word number="1">settle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">take up one's abode</word>
+				<word number="2">take up one's quarters</word>
+			</sg>
+			<sg number="10">
+				<word number="1">plant oneself</word>
+				<word number="2">establish oneself</word>
+				<word number="3">locate oneself</word>
+			</sg>
+			<sg number="11">
+				<word number="1">squat</word>
+				<word number="2">perch</word>
+				<word number="3">hive</word>
+				<word number="4">se nicher</word>
+				<word number="5">bivouac</word>
+				<word number="6">burrow</word>
+				<word number="7">get a footing</word>
+			</sg>
+			<sg number="12">
+				<word number="1">encamp</word>
+				<word number="2">pitch one's tent</word>
+			</sg>
+			<sg number="13">
+				<word number="1">put up at</word>
+				<word number="2">put up one's horses at</word>
+			</sg>
+			<sg number="14">
+				<word number="1">keep house</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="endenizen">
+			<sg number="1">
+				<word number="1">endenizen</word>
+				<word number="2">naturalize</word>
+				<word number="3">adopt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="put back">
+			<sg number="1">
+				<word number="1">put back</word>
+				<word number="2" paraRef="restore" headRef="689">replace</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="placed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">placed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">situate</word>
+				<word number="2">posited</word>
+				<word number="3">ensconced</word>
+				<word number="4">imbedded</word>
+				<word number="5">embosomed</word>
+				<word number="6">rooted</word>
+			</sg>
+			<sg number="3">
+				<word number="1">domesticated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vested in</word>
+				<word number="2">unremoved</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="moored">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">moored</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at anchor</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

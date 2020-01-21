@@ -12,6 +12,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 
+/**
+ * These tests are configured depending on the marker passing and decomposition configuration.
+ * Here a minimal assertion is given.
+ */
 public class SemantiDistanceMeasureTest {
 
     @Before
@@ -39,9 +43,9 @@ public class SemantiDistanceMeasureTest {
         markerPassingTest.testSimilarityPairs.addAll(dataset.ReadExampleDataSet());
         //Run the test
         markerPassingTest.testMP();
-        Assert.assertTrue(markerPassingTest.getCumulativeError()<31);
-        Assert.assertTrue(markerPassingTest.getPearsonCorrelation() > 0.78);
-        Assert.assertTrue(markerPassingTest.getSpearmanCorrelation() > 0.62);
+        Assert.assertTrue(markerPassingTest.getCumulativeError()<32);
+        Assert.assertTrue(markerPassingTest.getPearsonCorrelation() > 0.79);
+        Assert.assertTrue(markerPassingTest.getSpearmanCorrelation() > 0.58);
     }
 
 

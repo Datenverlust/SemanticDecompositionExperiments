@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="724" name="Advice" origNum="#695." class="6" section="3" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="advice">
+			<sg number="1">
+				<word number="1">advice</word>
+				<word number="2">counsel</word>
+				<word number="3">adhortation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">word to the wise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suggestion</word>
+				<word number="2">submonition</word>
+				<word number="3">recommendation</word>
+				<word number="4">advocacy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">advisement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exhortation">
+			<sg number="1">
+				<word number="1" paraRef="persuasion" headRef="643">exhortation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dissuasion" headRef="645">expostulation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="warning" headRef="697">admonition</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="direction" headRef="722">guidance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="instruction">
+			<sg number="1">
+				<word number="1">instruction</word>
+				<word number="2">charge</word>
+				<word number="3">injunction</word>
+				<word number="4">obtestation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Governor's message</word>
+				<word number="2">President's message</word>
+			</sg>
+			<sg number="3">
+				<word number="1">King's message</word>
+				<word number="2">Queen's speech</word>
+			</sg>
+			<sg number="4">
+				<word number="1">message</word>
+				<word number="2">speech from the throne</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="adviser">
+			<sg number="1">
+				<word number="1">adviser</word>
+				<word number="2">prompter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">counsel</word>
+				<word number="2">counselor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monitor</word>
+				<word number="2">mentor</word>
+				<word number="3">Nestor</word>
+				<word number="4">magnus Apollo</word>
+				<word number="5">senator</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="teacher" headRef="566">teacher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="guide">
+			<sg number="1">
+				<word number="1">guide</word>
+				<word number="2">manual</word>
+				<word number="3" paraRef="information" headRef="552">chart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="physician">
+			<sg number="1">
+				<word number="1">physician</word>
+				<word number="2">doctor</word>
+				<word number="3">leech!</word>
+				<word number="4">archiater</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="arbiter">
+			<sg number="1">
+				<word number="1" paraRef="judge" headRef="1010">arbiter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="reference">
+			<sg number="1">
+				<word number="1">reference</word>
+				<word number="2">referment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">consultation</word>
+				<word number="2">conference</word>
+				<word number="3">pourparler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="nurse">
+			<sg number="1">
+				<word number="1" new="1">nurse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="advise">
+			<sg number="1">
+				<word number="1">advise</word>
+				<word number="2">counsel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give advice</word>
+				<word number="2">give counsel</word>
+				<word number="3">give a piece of advice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suggest</word>
+				<word number="2">prompt</word>
+				<word number="3">submonish</word>
+				<word number="4">recommend</word>
+				<word number="5">prescribe</word>
+				<word number="6">advocate</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="persuade" headRef="643">exhort</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="enjoin">
+			<sg number="1">
+				<word number="1">enjoin</word>
+				<word number="2">enforce</word>
+				<word number="3">charge</word>
+				<word number="4">instruct</word>
+				<word number="5">call</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="request" headRef="796">call upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dictate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="expostulate">
+			<sg number="1">
+				<word number="1" paraRef="dissuade" headRef="645">expostulate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="warn" headRef="697">admonish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="advise with">
+			<sg number="1">
+				<word number="1">advise with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lay heads together</word>
+				<word number="2">consult together</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compare notes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hold a council</word>
+				<word number="2">deliberate</word>
+				<word number="3">be closeted with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="confer">
+			<sg number="1">
+				<word number="1">confer</word>
+				<word number="2">consult</word>
+				<word number="3">refer to</word>
+				<word number="4">call in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take advice</word>
+				<word number="2">follow advice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be advised by</word>
+				<word number="2">have at one's elbow</word>
+				<word number="3">take one's cue from</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="recommendatory">
+			<sg number="1">
+				<word number="1">recommendatory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="persuasive" headRef="643">hortative</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dissuasive" headRef="645">dehortatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="warning" headRef="697">admonitory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="go to">
+			<sg number="1">
+				<word number="1">go to!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="give every man thine ear but few thy voice">
+			<sg number="1">
+				<word number="1">"give every man thine ear but few thy voice"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"I pray thee cease thy counsel"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"my guide</word>
+				<word number="2">philosopher</word>
+				<word number="3">and friend"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"'twas good advice and meant</word>
+				<word number="2">my son be good"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">verbum sat sapienti</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vive memor leti</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"we</word>
+				<word number="2">ask advice but we mean approbation"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

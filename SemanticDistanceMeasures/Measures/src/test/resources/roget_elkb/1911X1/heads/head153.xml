@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="153" name="Revolution" origNum="#146." class="1" section="7" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="revolution">
+			<sg number="1">
+				<word number="1">revolution</word>
+				<word number="2">bouleversement</word>
+				<word number="3">subversion</word>
+				<word number="4">break up</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destruction" headRef="169">destruction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sudden change</word>
+				<word number="2">radical change</word>
+				<word number="3">sweeping organic change</word>
+			</sg>
+			<sg number="4">
+				<word number="1">change of state</word>
+				<word number="2">phase change</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quantum leap</word>
+				<word number="2">quantum jump</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clean sweep</word>
+				<word number="2">coup d'etat</word>
+				<word number="3">counter revolution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="jump">
+			<sg number="1">
+				<word number="1">jump</word>
+				<word number="2">leap</word>
+				<word number="3">plunge</word>
+				<word number="4">jerk</word>
+				<word number="5">start</word>
+				<word number="6">transilience</word>
+			</sg>
+			<sg number="2">
+				<word number="1">explosion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spasm</word>
+				<word number="2">convulsion</word>
+				<word number="3">throe</word>
+				<word number="4">revulsion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">storm</word>
+				<word number="2">earthquake</word>
+				<word number="3">cataclysm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="legerdemain">
+			<sg number="1">
+				<word number="1" paraRef="trick" headRef="571">legerdemain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="revolutionize">
+			<sg number="1">
+				<word number="1">revolutionize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">new model</word>
+				<word number="2">remodel</word>
+				<word number="3">recast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strike out something new</word>
+				<word number="2">break with the past</word>
+			</sg>
+			<sg number="4">
+				<word number="1">change the face of</word>
+				<word number="2">unsex</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unrecognizable">
+			<sg number="1">
+				<word number="1">unrecognizable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">revolutionary</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

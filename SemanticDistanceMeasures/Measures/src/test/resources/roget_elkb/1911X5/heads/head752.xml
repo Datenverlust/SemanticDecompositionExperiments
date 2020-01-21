@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="752" name="Pacification" origNum="#723." class="6" section="4" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pacification">
+			<sg number="1">
+				<word number="1">pacification</word>
+				<word number="2">conciliation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reconciliation</word>
+				<word number="2">reconcilement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shaking of hands</word>
+				<word number="2">accommodation</word>
+				<word number="3">arrangement</word>
+				<word number="4">adjustment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">terms</word>
+				<word number="2">compromise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">amnesty</word>
+				<word number="2">deed of release</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="peace offering">
+			<sg number="1">
+				<word number="1">peace offering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">olive branch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calumet of peace</word>
+				<word number="2">preliminaries of peace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="truce">
+			<sg number="1">
+				<word number="1">truce</word>
+				<word number="2">armistice</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suspension of arms</word>
+				<word number="2">suspension of hostilities</word>
+				<word number="3">stand-down</word>
+			</sg>
+			<sg number="3">
+				<word number="1">breathing time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">convention</word>
+			</sg>
+			<sg number="5">
+				<word number="1">modus vivendi</word>
+			</sg>
+			<sg number="6">
+				<word number="1">flag of truce</word>
+				<word number="2">white flag</word>
+				<word number="3">parlementaire</word>
+				<word number="4">cartel!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hollow truce">
+			<sg number="1">
+				<word number="1">hollow truce</word>
+				<word number="2">pax in bello</word>
+			</sg>
+			<sg number="2">
+				<word number="1">drawn battle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pacify">
+			<sg number="1">
+				<word number="1">pacify</word>
+				<word number="2">tranquilize</word>
+				<word number="3">compose</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="moderate" headRef="181">allay</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reconcile</word>
+				<word number="2">propitiate</word>
+				<word number="3">placate</word>
+				<word number="4">conciliate</word>
+				<word number="5">meet halfway</word>
+				<word number="6">hold out the olive branch</word>
+				<word number="7">heal the breach</word>
+				<word number="8">make peace</word>
+				<word number="9">restore harmony</word>
+				<word number="10">bring to terms</word>
+				<word number="11" new="1">appease</word>
+				<word number="12" new="2">mollify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="settle matters">
+			<sg number="1">
+				<word number="1">settle matters</word>
+				<word number="2">arrange matters</word>
+				<word number="3">accommodate matters</word>
+				<word number="4">accommodate differences</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set straight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make up a quarrel</word>
+				<word number="2">tantas componere lites</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come to an understanding</word>
+				<word number="2">come to terms</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bridge over</word>
+				<word number="2">hush up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make it</word>
+				<word number="2">make matters up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shake hands</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mend one's fences</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="raise a siege">
+			<sg number="1">
+				<word number="1">raise a siege</word>
+				<word number="2">lift a siege</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put up the sword</word>
+				<word number="2">sheathe the sword</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bury the hatchet</word>
+				<word number="2">lay down one's arms</word>
+				<word number="3">turn swords into plowshares</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smoke the calumet of peace</word>
+				<word number="2">close the temple of Janus</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="concord" headRef="743">keep the peace</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be pacified</word>
+			</sg>
+			<sg number="7">
+				<word number="1">come round</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="conciliatory">
+			<sg number="1">
+				<word number="1">conciliatory</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">composing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">pacified</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="requiescat in pace">
+			<sg number="1">
+				<word number="1">requiescat in pace</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

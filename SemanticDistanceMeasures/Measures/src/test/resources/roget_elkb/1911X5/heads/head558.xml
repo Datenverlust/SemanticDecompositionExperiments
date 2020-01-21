@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="558" name="News" origNum="#532." class="5" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="news">
+			<sg number="1">
+				<word number="1">news</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="information" headRef="552">information</word>
+			</sg>
+			<sg number="3">
+				<word number="1">piece of news</word>
+				<word number="2">budget of news</word>
+				<word number="3">budget of information</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intelligence</word>
+				<word number="2">tidings</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="word">
+			<sg number="1">
+				<word number="1">word</word>
+				<word number="2">advice</word>
+				<word number="3">aviso</word>
+				<word number="4">message</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dispatch</word>
+				<word number="2">despatch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">telegram</word>
+				<word number="2">cable</word>
+				<word number="3">marconigram</word>
+				<word number="4">wire</word>
+				<word number="5">communication</word>
+				<word number="6">errand</word>
+				<word number="7">embassy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="report">
+			<sg number="1">
+				<word number="1">report</word>
+				<word number="2">rumor</word>
+				<word number="3">hearsay</word>
+				<word number="4">on dit</word>
+				<word number="5">flying rumor</word>
+				<word number="6">news stirring</word>
+				<word number="7">cry</word>
+				<word number="8">buzz</word>
+				<word number="9">bruit</word>
+				<word number="10">fame</word>
+			</sg>
+			<sg number="2">
+				<word number="1">talk</word>
+				<word number="2">oui dire</word>
+				<word number="3">scandal</word>
+				<word number="4">eavesdropping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">town tattle</word>
+				<word number="2">table talk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tittle tattle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">canard</word>
+				<word number="2">topic of the day</word>
+				<word number="3">idea afloat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bulletin">
+			<sg number="1">
+				<word number="1">bulletin</word>
+				<word number="2">fresh news</word>
+				<word number="3">stirring news</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glad tidings</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flash</word>
+				<word number="2">news just in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on-the-spot coverage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">live coverage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="old story">
+			<sg number="1">
+				<word number="1">old story</word>
+				<word number="2">old news</word>
+				<word number="3">stale news</word>
+				<word number="4">stale story</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chestnut*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="narrator">
+			<sg number="1">
+				<word number="1" paraRef="describe" headRef="620">narrator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">newsmonger</word>
+				<word number="2">scandalmonger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">talebearer</word>
+				<word number="2">telltale</word>
+				<word number="3">gossip</word>
+				<word number="4">tattler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="journalism">
+			<sg number="1">
+				<word number="1">journalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="media">
+			<sg number="1">
+				<word number="1">media</word>
+				<word number="2">news media</word>
+				<word number="3">the press</word>
+				<word number="4">the information industry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">newspaper</word>
+				<word number="2">magazine</word>
+				<word number="3">tract</word>
+				<word number="4">journal</word>
+				<word number="5">gazette</word>
+				<word number="6" paraRef="publication" headRef="557">publication</word>
+				<word number="7" new="1">daily</word>
+				<word number="8" new="1">monthly</word>
+				<word number="9" new="1">paper</word>
+				<word number="10" new="1">periodical</word>
+				<word number="11" new="1">times</word>
+				<word number="12" new="2">broadsheet</word>
+				<word number="13" new="2">digest</word>
+				<word number="14" new="2">yearbook</word>
+			</sg>
+			<sg number="3">
+				<word number="1">radio</word>
+				<word number="2">television</word>
+				<word number="3">ticker (electronic information transmission)</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="United Press International">
+			<sg number="1">
+				<word number="1">United Press International</word>
+				<word number="2">UPI</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Associated Press</word>
+				<word number="2">AP</word>
+			</sg>
+			<sg number="3">
+				<word number="1">The Dow Jones News Service</word>
+				<word number="2">DJ</word>
+			</sg>
+			<sg number="4">
+				<word number="1">The New York Times News Service</word>
+				<word number="2">NYT</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Reuters</word>
+			</sg>
+			<sg number="6">
+				<word number="1">TASS</word>
+			</sg>
+			<sg number="7">
+				<word number="1">The Nikkei</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="newscaster">
+			<sg number="1">
+				<word number="1">newscaster</word>
+				<word number="2">newsman</word>
+				<word number="3">newswoman</word>
+				<word number="4">reporter</word>
+				<word number="5">journalist</word>
+				<word number="6">correspondent</word>
+				<word number="7">foreign correspondent</word>
+				<word number="8">special correspondent</word>
+				<word number="9">war correspondent</word>
+				<word number="10">news team</word>
+				<word number="11">news department</word>
+				<word number="12" new="1">interviewer</word>
+				<word number="13" new="1">presenter</word>
+				<word number="14" new="2">cameraman</word>
+				<word number="15" new="2">jockey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anchorman</word>
+				<word number="2">anchorwoman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sportscaster</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weatherman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="press secretary">
+			<sg number="1">
+				<word number="1">press secretary</word>
+				<word number="2">public relations department</word>
+				<word number="3">public relations man</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="press">
+			<sg number="1">
+				<word number="1" new="1">press</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="transpire">
+			<sg number="1">
+				<word number="1" paraRef="be disclosed" headRef="555">transpire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="publish" headRef="557">rumor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="many-tongued">
+			<sg number="1">
+				<word number="1">many-tongued</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rumored</word>
+			</sg>
+			<sg number="3">
+				<word number="1">publicly rumored</word>
+				<word number="2">currently rumored</word>
+				<word number="3">currently reported</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rife</word>
+				<word number="2">current</word>
+				<word number="3">floating</word>
+				<word number="4">afloat</word>
+				<word number="5">going about</word>
+				<word number="6">in circulation</word>
+				<word number="7">in every one's mouth</word>
+				<word number="8">all over the town</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in progress">
+			<sg number="1">
+				<word number="1">in progress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">live</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on the spot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in person</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="as the story goes">
+			<sg number="1">
+				<word number="1">as the story goes</word>
+				<word number="2">as the story runs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as they say</word>
+				<word number="2">it is said</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by telegraph</word>
+				<word number="2">by wireless</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="airy tongues that syllable men's names">
+			<sg number="1">
+				<word number="1">"airy tongues that syllable men's names"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">what's up?</word>
+			</sg>
+			<sg number="3">
+				<word number="1">what's the latest?</word>
+			</sg>
+			<sg number="4">
+				<word number="1">what's new?</word>
+			</sg>
+			<sg number="5">
+				<word number="1">what's the latest poop?</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

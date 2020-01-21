@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="183" name="Absence of Influence" origNum="#175a." class="1" section="8" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impotence">
+			<sg number="1">
+				<word number="1" paraRef="impotence" headRef="165">impotence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">powerlessness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inertness" headRef="179">inertness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="irrelevancy" headRef="10">irrelevancy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have no influence">
+			<sg number="1">
+				<word number="1" paraRef="influence" headRef="182">have no influence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="uninfluential">
+			<sg number="1">
+				<word number="1">uninfluential</word>
+				<word number="2">ineffective</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inconsequential</word>
+				<word number="2">nugatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unconducing</word>
+				<word number="2">unconducive</word>
+				<word number="3">unconducting to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="powerless" headRef="165">powerless</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="irrelevant" headRef="10">irrelevant</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

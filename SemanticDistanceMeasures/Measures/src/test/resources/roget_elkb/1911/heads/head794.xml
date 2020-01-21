@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="794" name="Offer" origNum="#763." class="7" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="offer">
+			<sg number="1">
+				<word number="1">offer</word>
+				<word number="2">proffer</word>
+				<word number="3">presentation</word>
+				<word number="4">tender</word>
+				<word number="5">bid</word>
+				<word number="6">overture</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proposal</word>
+				<word number="2">proposition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">motion</word>
+				<word number="2">invitation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">candidature</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="gift" headRef="817">offering</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="offer">
+			<sg number="1">
+				<word number="1">offer</word>
+				<word number="2">proffer</word>
+				<word number="3">present</word>
+				<word number="4">tender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">propose</word>
+				<word number="2">move</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make a motion</word>
+				<word number="2">make advances</word>
+			</sg>
+			<sg number="5">
+				<word number="1">start</word>
+			</sg>
+			<sg number="6">
+				<word number="1">invite</word>
+				<word number="2">hold out</word>
+				<word number="3">place in one's way</word>
+				<word number="4">put forward</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hawk about">
+			<sg number="1">
+				<word number="1">hawk about</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="offer for sale" headRef="829">offer for sale</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="request" headRef="796">press</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lay at one's feet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="offer oneself">
+			<sg number="1">
+				<word number="1">offer oneself</word>
+				<word number="2">present oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">volunteer</word>
+				<word number="2">come forward</word>
+				<word number="3">be a candidate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stand for</word>
+				<word number="2">bid for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seek</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be at one's service</word>
+			</sg>
+			<sg number="6">
+				<word number="1">go a begging</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="give" headRef="817">bribe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="offering">
+			<sg number="1">
+				<word number="1">offering</word>
+				<word number="2" paraRef="" posRef="v.">offered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the market</word>
+				<word number="2">for sale</word>
+				<word number="3">to let</word>
+				<word number="4">disengaged</word>
+				<word number="5">on hire</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

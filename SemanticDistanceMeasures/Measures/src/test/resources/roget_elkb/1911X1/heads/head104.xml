@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="104" name="Plurality" origNum="#100." class="1" section="5" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="plurality">
+			<sg number="1">
+				<word number="1">plurality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a number</word>
+				<word number="2">a certain number</word>
+			</sg>
+			<sg number="3">
+				<word number="1">one or two</word>
+				<word number="2">two or three</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a few</word>
+				<word number="2">several</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="multitude" headRef="107">multitude</word>
+			</sg>
+			<sg number="6">
+				<word number="1">majority</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="multitude">
+			<sg number="1">
+				<word number="1" paraRef="multitude" headRef="107">multitude</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="plural">
+			<sg number="1">
+				<word number="1">plural</word>
+				<word number="2">more than one</word>
+				<word number="3">upwards of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">some</word>
+				<word number="2">several</word>
+				<word number="3">a few</word>
+			</sg>
+			<sg number="3">
+				<word number="1">certain</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="alone" headRef="91">not alone</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="et cetera">
+			<sg number="1">
+				<word number="1">et cetera</word>
+				<word number="2">etc</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="among other things">
+			<sg number="1">
+				<word number="1">among other things</word>
+				<word number="2">inter alia</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non deficit alter">
+			<sg number="1">
+				<word number="1">non deficit alter</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

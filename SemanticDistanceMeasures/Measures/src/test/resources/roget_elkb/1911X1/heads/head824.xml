@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="824" name="Stealing" origNum="#791." class="7" section="4" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="stealing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">stealing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">theft</word>
+				<word number="2">thievery</word>
+				<word number="3">latrociny</word>
+				<word number="4">direption</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abstraction</word>
+				<word number="2">appropriation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plagiary</word>
+				<word number="2">plagiarism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">autoplagiarism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">latrocinium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spoliation">
+			<sg number="1">
+				<word number="1">spoliation</word>
+				<word number="2">plunder</word>
+				<word number="3">pillage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sack</word>
+				<word number="2">sackage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rapine</word>
+				<word number="2">brigandage</word>
+				<word number="3">foray</word>
+				<word number="4">razzia</word>
+				<word number="5">rape</word>
+				<word number="6">depredation</word>
+				<word number="7">raid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blackmail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="piracy">
+			<sg number="1">
+				<word number="1">piracy</word>
+				<word number="2">privateering</word>
+				<word number="3">buccaneering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">license to plunder</word>
+				<word number="2">letters of marque</word>
+				<word number="3">letters of mark and reprisal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="filibustering">
+			<sg number="1">
+				<word number="1">filibustering</word>
+				<word number="2">filibusterism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burglary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">housebreaking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">badger game*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="robbery">
+			<sg number="1">
+				<word number="1">robbery</word>
+				<word number="2">highway robbery</word>
+				<word number="3">hold-up*</word>
+				<word number="4">mugging</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="peculation">
+			<sg number="1">
+				<word number="1">peculation</word>
+				<word number="2">embezzlement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fraud" headRef="571">fraud</word>
+			</sg>
+			<sg number="3">
+				<word number="1">larceny</word>
+				<word number="2">petty larceny</word>
+				<word number="3">grand larceny</word>
+				<word number="4">shoplifting</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">evasion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">forgery</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">tampering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="thievishness">
+			<sg number="1">
+				<word number="1">thievishness</word>
+				<word number="2">rapacity</word>
+				<word number="3">kleptomania</word>
+				<word number="4">Alsatia</word>
+				<word number="5">den of Cacus</word>
+				<word number="6">den of thieves</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="blackmail">
+			<sg number="1">
+				<word number="1">blackmail</word>
+				<word number="2">extortion</word>
+				<word number="3">shakedown</word>
+				<word number="4">Black Hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="thief">
+			<sg number="1">
+				<word number="1" paraRef="thief" headRef="825">thief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="abduction">
+			<sg number="1">
+				<word number="1" new="1">abduction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="affray">
+			<sg number="1">
+				<word number="1" new="1">affray</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="arson">
+			<sg number="1">
+				<word number="1" new="1">arson</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="assault">
+			<sg number="1">
+				<word number="1" new="1">assault</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="bribery">
+			<sg number="1">
+				<word number="1" new="1">bribery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="coercion">
+			<sg number="1">
+				<word number="1" new="1">coercion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="conspiracy">
+			<sg number="1">
+				<word number="1" new="1">conspiracy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="corruption">
+			<sg number="1">
+				<word number="1" new="1">corruption</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="crime">
+			<sg number="1">
+				<word number="1" new="1">crime</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="homicide">
+			<sg number="1">
+				<word number="1" new="1">homicide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="manslaughter">
+			<sg number="1">
+				<word number="1" new="1">manslaughter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="smuggling">
+			<sg number="1">
+				<word number="1" new="1">smuggling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="stalking">
+			<sg number="1">
+				<word number="1" new="1">stalking</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="steal">
+			<sg number="1">
+				<word number="1">steal</word>
+				<word number="2">thieve</word>
+				<word number="3">rob</word>
+				<word number="4">mug</word>
+				<word number="5">purloin</word>
+				<word number="6">pilfer</word>
+				<word number="7">filch</word>
+				<word number="8">prig</word>
+				<word number="9">bag</word>
+				<word number="10">nim</word>
+				<word number="11">crib</word>
+				<word number="12">cabbage</word>
+				<word number="13">palm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abstract</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appropriate</word>
+				<word number="2">plagiarize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="convey away">
+			<sg number="1">
+				<word number="1">convey away</word>
+				<word number="2">carry off</word>
+				<word number="3">abduct</word>
+				<word number="4">kidnap</word>
+				<word number="5">crimp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make off with</word>
+				<word number="2">walk off with</word>
+				<word number="3">run off with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run away with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spirit away</word>
+				<word number="2" paraRef="lay violent hands on" headRef="822">seize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="plunder">
+			<sg number="1">
+				<word number="1">plunder</word>
+				<word number="2">pillage</word>
+				<word number="3">rifle</word>
+				<word number="4">sack</word>
+				<word number="5">loot</word>
+				<word number="6">ransack</word>
+				<word number="7">spoil</word>
+				<word number="8">spoliate</word>
+				<word number="9">despoil</word>
+				<word number="10">strip</word>
+				<word number="11">sweep</word>
+				<word number="12">gut</word>
+				<word number="13">forage</word>
+				<word number="14">levy blackmail</word>
+				<word number="15">pirate</word>
+				<word number="16">pickeer</word>
+				<word number="17">maraud</word>
+				<word number="18">lift cattle</word>
+				<word number="19">poach</word>
+				<word number="20" new="1">torch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smuggle</word>
+				<word number="2">run</word>
+			</sg>
+			<sg number="3">
+				<word number="1">badger*</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bail up</word>
+				<word number="2">hold up</word>
+				<word number="3">stick up</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bunco</word>
+				<word number="2">bunko</word>
+				<word number="3">filibuster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="swindle">
+			<sg number="1">
+				<word number="1">swindle</word>
+				<word number="2">peculate</word>
+				<word number="3">embezzle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sponge</word>
+				<word number="2">mulct</word>
+				<word number="3">rook</word>
+				<word number="4">bilk</word>
+				<word number="5">pluck</word>
+				<word number="6">pigeon</word>
+				<word number="7">fleece</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="defraud" headRef="571">defraud</word>
+			</sg>
+			<sg number="4">
+				<word number="1">obtain under false pretenses</word>
+			</sg>
+			<sg number="5">
+				<word number="1">live by one's wits</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="rob Peter to pay Paul">
+			<sg number="1">
+				<word number="1">rob Peter to pay Paul</word>
+				<word number="2">borrow of Peter to pay Paul</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set a thief to catch a thief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="disregard the distinction between meum and tuum">
+			<sg number="1">
+				<word number="1">disregard the distinction between meum and tuum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="fence">
+			<sg number="1">
+				<word number="1">fence</word>
+				<word number="2">launder</word>
+				<word number="3">launder money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="extort">
+			<sg number="1">
+				<word number="1" new="1">extort</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="thieving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">thieving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thievish</word>
+				<word number="2">light-fingered</word>
+			</sg>
+			<sg number="3">
+				<word number="1">furacious</word>
+				<word number="2">furtive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">piratical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">predaceous</word>
+				<word number="2">predal</word>
+				<word number="3">predatory</word>
+				<word number="4">predatorial</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="rapacious" headRef="822">raptorial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stolen">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">stolen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="sic vos non vobis">
+			<sg number="1">
+				<word number="1">sic vos non vobis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

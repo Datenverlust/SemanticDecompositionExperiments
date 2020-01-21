@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="479" name="Care" origNum="#459." class="4" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="care">
+			<sg number="1">
+				<word number="1">care</word>
+				<word number="2">solicitude</word>
+				<word number="3">heed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">heedfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="probity" headRef="981">scruple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="watchfulness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">watchfulness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vigilance</word>
+				<word number="2">surveillance</word>
+				<word number="3">eyes of Argus</word>
+				<word number="4">watch</word>
+				<word number="5">vigil</word>
+				<word number="6">look out</word>
+				<word number="7">watch and ward</word>
+				<word number="8">loeil du maitre</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="alertness">
+			<sg number="1">
+				<word number="1" paraRef="activity" headRef="711">alertness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="attention" headRef="477">attention</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="prudence" headRef="903">prudence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="circumspection">
+			<sg number="1">
+				<word number="1" paraRef="caution" headRef="903">circumspection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anxiety</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="forethought" headRef="534">forethought</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="preparation" headRef="702">precaution</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="order" headRef="61">tidiness</word>
+				<word number="2" paraRef="cleanliness" headRef="681">cleanliness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="exactness" headRef="518">accuracy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">minuteness</word>
+				<word number="2">attention to detail</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be careful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be careful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reck</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be cautious" headRef="903">take care</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pay attention to" headRef="477">pay attention to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take care of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">look to</word>
+				<word number="2">look after</word>
+				<word number="3">see to</word>
+				<word number="4">see after</word>
+			</sg>
+			<sg number="7">
+				<word number="1">keep an eye on</word>
+				<word number="2">keep a sharp eye on</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chaperon</word>
+				<word number="2">matronize</word>
+				<word number="3">play gooseberry</word>
+			</sg>
+			<sg number="9">
+				<word number="1">keep watch</word>
+				<word number="2">keep watch and ward</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mount guard</word>
+				<word number="2">set watch</word>
+				<word number="3">watch</word>
+			</sg>
+			<sg number="11">
+				<word number="1">keep in sight</word>
+				<word number="2">keep in view</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mind</word>
+				<word number="2">mind one's business</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="look sharp">
+			<sg number="1">
+				<word number="1">look sharp</word>
+				<word number="2">look about one</word>
+			</sg>
+			<sg number="2">
+				<word number="1">look with one's own eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep a good lookout</word>
+				<word number="2">keep a sharp lookout</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have all one's wits about one</word>
+				<word number="2">have all one's eyes about one</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="expect" headRef="531">watch for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">keep one's eyes open</word>
+				<word number="2">have the eyes open</word>
+				<word number="3">sleep with one's eye open</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="careful">
+			<sg number="1">
+				<word number="1">careful</word>
+				<word number="2">regardful</word>
+				<word number="3">heedful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">taking care</word>
+			</sg>
+			<sg number="3">
+				<word number="1">particular</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cautious" headRef="903">prudent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">considerate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="deliberative" headRef="471">thoughtful</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="prepared" headRef="702">provident</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="active" headRef="711">alert</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sure-footed</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">cautious</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">judicious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="guarded">
+			<sg number="1">
+				<word number="1">guarded</word>
+				<word number="2">on one's guard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the qui vivre</word>
+				<word number="2">on the alert</word>
+				<word number="3">on watch</word>
+				<word number="4">on the lookout</word>
+			</sg>
+			<sg number="3">
+				<word number="1">awake</word>
+				<word number="2">broad awake</word>
+				<word number="3">vigilant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">watchful</word>
+				<word number="2">wakeful</word>
+				<word number="3">wistful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Argus-eyed</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="intelligent" headRef="522">wide awake</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="expectant" headRef="531">on the watch for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tidy">
+			<sg number="1">
+				<word number="1" paraRef="orderly" headRef="61">tidy</word>
+				<word number="2" paraRef="clean" headRef="681">clean</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exact" headRef="518">accurate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="conscientious" headRef="981">scrupulous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="safe" headRef="693">cavendo tutus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="carefully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">carefully</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with care</word>
+				<word number="2">gingerly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="quis custodiet istos custodes?">
+			<sg number="1">
+				<word number="1">quis custodiet istos custodes?</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"care will kill a cat"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ni bebas agua que no veas</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"O polished perturbation! Golden care!"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"the incessant care and labor of his mind"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="611" name="Taciturnity" origNum="#585." class="5" section="3" subSection="2" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="silence">
+			<sg number="1">
+				<word number="1">silence</word>
+				<word number="2">muteness</word>
+				<word number="3">obmutescence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">taciturnity</word>
+				<word number="2">pauciloquy</word>
+				<word number="3">costiveness</word>
+				<word number="4">curtness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reserve</word>
+				<word number="2" paraRef="concealment" headRef="554">reticence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="man of few words">
+			<sg number="1">
+				<word number="1">man of few words</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be silent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be silent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep silence</word>
+				<word number="2">keep mum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold one's tongue</word>
+				<word number="2">hold one's peace</word>
+				<word number="3">hold one's jaw</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="speak" headRef="608">not speak</word>
+			</sg>
+			<sg number="5">
+				<word number="1">say nothing</word>
+				<word number="2">keep one's counsel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">seal the lips</word>
+				<word number="2">close the lips</word>
+				<word number="3">button the lips</word>
+				<word number="4">zipper the lips</word>
+				<word number="5">put a padlock on the lips</word>
+				<word number="6">put a padlock on the mouth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">put a bridle on one's tongue</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bite one's tongue</word>
+				<word number="2">keep one's tongue between one's teeth</word>
+			</sg>
+			<sg number="9">
+				<word number="1">make no sign</word>
+				<word number="2">not let a word escape one</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="keep a secret" headRef="554">keep a secret</word>
+			</sg>
+			<sg number="11">
+				<word number="1">not have a word to say</word>
+			</sg>
+			<sg number="12">
+				<word number="1">hush up</word>
+				<word number="2">hush</word>
+				<word number="3">lay the finger on the lips</word>
+				<word number="4">place the finger on the lips</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="render mute" headRef="607">render mute</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stick in one's throat">
+			<sg number="1">
+				<word number="1">stick in one's throat</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="silent">
+			<sg number="1">
+				<word number="1">silent</word>
+				<word number="2">mute</word>
+				<word number="3">mum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">silent as a post</word>
+				<word number="2">silent as a stone</word>
+				<word number="3" paraRef="still" headRef="420">silent as the grave</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dumb" headRef="607">dumb</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unconversable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="taciturn">
+			<sg number="1">
+				<word number="1">taciturn</word>
+				<word number="2">sparing of words</word>
+			</sg>
+			<sg number="2">
+				<word number="1">closetongued</word>
+			</sg>
+			<sg number="3">
+				<word number="1">costive</word>
+				<word number="2">inconversable</word>
+				<word number="3">curt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reserved</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="conceal" headRef="554">reticent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="shush">
+			<sg number="1">
+				<word number="1">shush!</word>
+				<word number="2">tush!</word>
+				<word number="3">silence!</word>
+				<word number="4">mum!</word>
+				<word number="5">hush!</word>
+				<word number="6">chut!</word>
+				<word number="7">hist!</word>
+				<word number="8">tut!</word>
+				<word number="9">chup!</word>
+				<word number="10">mum's the word</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep your mouth shut!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cave quid dicis quando et cui">
+			<sg number="1">
+				<word number="1">cave quid dicis quando et cui</word>
+			</sg>
+			<sg number="2">
+				<word number="1">volto sciolto i pensieri stretti</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

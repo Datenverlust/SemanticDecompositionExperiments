@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="270" name="Furrow" origNum="#259." class="2" section="3" subSection="3" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="furrow">
+			<sg number="1">
+				<word number="1">furrow</word>
+				<word number="2">groove</word>
+				<word number="3">rut</word>
+				<word number="4">sulcus</word>
+				<word number="5">scratch</word>
+				<word number="6">streak</word>
+				<word number="7">striae</word>
+				<word number="8">crack</word>
+				<word number="9">score</word>
+				<word number="10">incision</word>
+				<word number="11">slit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chamfer</word>
+				<word number="2">fluting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">corduroy road</word>
+				<word number="2">cradle hole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="channel">
+			<sg number="1">
+				<word number="1">channel</word>
+				<word number="2">gutter</word>
+				<word number="3">trench</word>
+				<word number="4">ditch</word>
+				<word number="5">dike</word>
+				<word number="6">dyke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">moat</word>
+				<word number="2">fosse</word>
+				<word number="3">trough</word>
+				<word number="4">kennel</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="interval" headRef="207">ravine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tajo</word>
+				<word number="2">thank-ye-ma'am</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="furrow">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">furrow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flute</word>
+				<word number="2">plow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incise</word>
+				<word number="2">engrave</word>
+				<word number="3">etch</word>
+				<word number="4">bite in</word>
+				<word number="5" new="1">wrest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="furrowed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">furrowed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ribbed</word>
+				<word number="2">striated</word>
+				<word number="3">sulcated</word>
+				<word number="4">fluted</word>
+				<word number="5">canaliculated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bisulcous</word>
+				<word number="2">bisulcate</word>
+				<word number="3">bisulcated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">canaliferous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trisulcate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">corduroy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unisulcate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">costate</word>
+				<word number="2">rimiform</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

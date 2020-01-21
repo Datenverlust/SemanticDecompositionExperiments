@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="451" name="Gray" origNum="#432." class="3" section="3" subSection="2" headGroup="33">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="gray">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">gray</word>
+			</sg>
+			<sg number="2">
+				<word number="1">neutral tint</word>
+				<word number="2">silver</word>
+				<word number="3">pepper and salt</word>
+				<word number="4">chiaroscuro</word>
+				<word number="5">grisaille</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Payne's gray">
+			<sg number="1">
+				<word number="1">Payne's gray</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="black" headRef="450">black</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="gray">
+			<sg number="1">
+				<word number="1">gray</word>
+				<word number="2">grey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">iron-gray</word>
+				<word number="2">dun</word>
+				<word number="3">drab</word>
+				<word number="4">dingy</word>
+				<word number="5">leaden</word>
+				<word number="6">livid</word>
+				<word number="7">somber</word>
+				<word number="8">sad</word>
+				<word number="9">pearly</word>
+				<word number="10">russet</word>
+				<word number="11">roan</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calcareous</word>
+				<word number="2">limy</word>
+				<word number="3">favillous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">silver</word>
+				<word number="2">silvery</word>
+				<word number="3">silvered</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ashen</word>
+				<word number="2">ashy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cinereous</word>
+				<word number="2">cineritious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">grizzly</word>
+				<word number="2">grizzled</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slate-colored</word>
+				<word number="2">stone-colored</word>
+				<word number="3">mouse-colored</word>
+				<word number="4">ash- colored</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cool</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

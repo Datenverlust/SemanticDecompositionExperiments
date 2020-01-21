@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="173" name="Paternity" origNum="#166." class="1" section="8" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="paternity">
+			<sg number="1">
+				<word number="1">paternity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parentage</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="consanguinity" headRef="11">consanguinity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="parent">
+			<sg number="1">
+				<word number="1">parent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">father</word>
+				<word number="2">sire</word>
+				<word number="3">dad</word>
+				<word number="4">papa</word>
+				<word number="5">paterfamilias</word>
+				<word number="6">abba</word>
+			</sg>
+			<sg number="3">
+				<word number="1">genitor</word>
+				<word number="2">progenitor</word>
+				<word number="3">procreator</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ancestor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grandsire</word>
+				<word number="2">grandfather</word>
+			</sg>
+			<sg number="6">
+				<word number="1">great- grandfather</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fathership</word>
+				<word number="2">fatherhood</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mabap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="house">
+			<sg number="1">
+				<word number="1">house</word>
+				<word number="2">stem</word>
+				<word number="3">trunk</word>
+				<word number="4">tree</word>
+				<word number="5">stock</word>
+				<word number="6">stirps</word>
+				<word number="7">pedigree</word>
+				<word number="8">lineage</word>
+				<word number="9">line</word>
+				<word number="10">family</word>
+				<word number="11">tribe</word>
+				<word number="12">sept</word>
+				<word number="13">race</word>
+				<word number="14">clan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">genealogy</word>
+				<word number="2">descent</word>
+				<word number="3">extraction</word>
+				<word number="4">birth</word>
+				<word number="5">ancestry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">forefathers</word>
+				<word number="2">forbears</word>
+				<word number="3">patriarchs</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="motherhood">
+			<sg number="1">
+				<word number="1">motherhood</word>
+				<word number="2">maternity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mother</word>
+				<word number="2">dam</word>
+				<word number="3">mamma</word>
+				<word number="4">materfamilias</word>
+				<word number="5">grandmother</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="paternal">
+			<sg number="1">
+				<word number="1">paternal</word>
+				<word number="2">parental</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maternal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">family</word>
+				<word number="2">ancestral</word>
+				<word number="3">linear</word>
+				<word number="4">patriarchal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="avi numerantur avorum">
+			<sg number="1">
+				<word number="1">avi numerantur avorum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"happy he with such a mother"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hombre bueno no le busquen abolengo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">philosophia stemma non inspicit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

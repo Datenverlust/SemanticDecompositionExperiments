@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="589" name="Neologism" origNum="#563." class="5" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="neology">
+			<sg number="1">
+				<word number="1">neology</word>
+				<word number="2">neologism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">newfangled expression</word>
+				<word number="2">nonce expression</word>
+			</sg>
+			<sg number="3">
+				<word number="1">back-formation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">caconym</word>
+			</sg>
+			<sg number="5">
+				<word number="1">barbarism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="archaism">
+			<sg number="1">
+				<word number="1">archaism</word>
+				<word number="2">black letter</word>
+				<word number="3">monkish Latin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="corruption">
+			<sg number="1">
+				<word number="1">corruption</word>
+				<word number="2">missaying</word>
+				<word number="3">malapropism</word>
+				<word number="4">antiphrasis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pun">
+			<sg number="1">
+				<word number="1">pun</word>
+				<word number="2">paranomasia</word>
+				<word number="3">play upon words</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wit" headRef="880">word play</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ambiguity" headRef="545">double-entendre</word>
+			</sg>
+			<sg number="4">
+				<word number="1">palindrome</word>
+				<word number="2">paragram</word>
+				<word number="3">anagram</word>
+				<word number="4">clinch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abuse of language</word>
+				<word number="2">abuse of terms</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dialect">
+			<sg number="1">
+				<word number="1">dialect</word>
+				<word number="2">brogue</word>
+				<word number="3">idiom</word>
+				<word number="4">accent</word>
+				<word number="5">patois</word>
+			</sg>
+			<sg number="2">
+				<word number="1">provincialism</word>
+				<word number="2">regionalism</word>
+				<word number="3">localism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">broken English</word>
+				<word number="2">lingua franca</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Anglicism</word>
+				<word number="2">Briticism</word>
+				<word number="3">Gallicism</word>
+				<word number="4">Scotticism</word>
+				<word number="5">Hibernicism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Americanism</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Gypsy lingo</word>
+				<word number="2">Romany</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pidgin</word>
+				<word number="2">pidgin English</word>
+				<word number="3">pigeon English</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Volapuk</word>
+				<word number="2">Chinook</word>
+				<word number="3">Esperanto</word>
+				<word number="4">Hindustani</word>
+				<word number="5">kitchen Kaffir</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dog Latin">
+			<sg number="1">
+				<word number="1">dog Latin</word>
+				<word number="2">macaronics</word>
+				<word number="3">gibberish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confusion of tongues</word>
+				<word number="2">Babel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">babu English</word>
+				<word number="2">chi-chi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="figure of speech">
+			<sg number="1">
+				<word number="1" paraRef="metaphor" headRef="546">figure of speech</word>
+			</sg>
+			<sg number="2">
+				<word number="1">byword</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="colloquialism">
+			<sg number="1">
+				<word number="1">colloquialism</word>
+				<word number="2">informal speech</word>
+				<word number="3">informal language</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="substandard language">
+			<sg number="1">
+				<word number="1">substandard language</word>
+				<word number="2">vernacular</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="vulgar language">
+			<sg number="1">
+				<word number="1">vulgar language</word>
+				<word number="2">obscene language</word>
+				<word number="3">obscenity</word>
+				<word number="4">vulgarity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="jargon">
+			<sg number="1">
+				<word number="1">jargon</word>
+				<word number="2">technical terms</word>
+				<word number="3">technicality</word>
+				<word number="4">lingo</word>
+				<word number="5">slang</word>
+				<word number="6">cant</word>
+				<word number="7">argot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">St. Gile's Greek</word>
+				<word number="2">thieves' Latin</word>
+				<word number="3">peddler's French</word>
+				<word number="4">flash tongue</word>
+				<word number="5">Billingsgate</word>
+				<word number="6">Wall Street slang</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="pseudology">
+			<sg number="1">
+				<word number="1">pseudology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="pseudonym">
+			<sg number="1">
+				<word number="1" paraRef="misnomer" headRef="591">pseudonym</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Mr. So-and-so</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wha d'ye call 'em</word>
+				<word number="2">whatchacallim</word>
+				<word number="3">what's his name</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thingummy</word>
+				<word number="2">thingumbob</word>
+			</sg>
+			<sg number="5">
+				<word number="1">je ne sais quoi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="neologist">
+			<sg number="1">
+				<word number="1">neologist</word>
+				<word number="2">coiner of words</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="coin words">
+			<sg number="1">
+				<word number="1">coin words</word>
+				<word number="2">coin a term</word>
+			</sg>
+			<sg number="2">
+				<word number="1">backform</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Americanize</word>
+				<word number="2">Anglicize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="neologic">
+			<sg number="1">
+				<word number="1">neologic</word>
+				<word number="2">neological</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archaic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="old" headRef="130">obsolete</word>
+			</sg>
+			<sg number="4">
+				<word number="1">colloquial</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Anglice</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="994" name="Atonement" origNum="#952." class="8" section="4" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="atonement">
+			<sg number="1">
+				<word number="1">atonement</word>
+				<word number="2">reparation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">compromise</word>
+				<word number="2">composition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="compensation" headRef="32">compensation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quittance</word>
+				<word number="2">quits</word>
+			</sg>
+			<sg number="5">
+				<word number="1">expiation</word>
+				<word number="2">redemption</word>
+				<word number="3">reclamation</word>
+				<word number="4">conciliation</word>
+				<word number="5">propitiation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">indemnification</word>
+				<word number="2">redress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="amends">
+			<sg number="1">
+				<word number="1">amends</word>
+				<word number="2">apology</word>
+				<word number="3">amende honorable</word>
+				<word number="4">satisfaction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">peace offering</word>
+				<word number="2">sin offering</word>
+				<word number="3">burnt offering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scapegoat</word>
+				<word number="2">sacrifice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="penance">
+			<sg number="1">
+				<word number="1">penance</word>
+				<word number="2">fasting</word>
+				<word number="3">maceration</word>
+				<word number="4">sackcloth and ashes</word>
+				<word number="5">white sheet</word>
+				<word number="6">shrift</word>
+				<word number="7">flagellation</word>
+				<word number="8">lustration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">purgation</word>
+				<word number="2">purgatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="atone">
+			<sg number="1">
+				<word number="1">atone</word>
+				<word number="2">atone for</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expiate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">propitiate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make amends</word>
+				<word number="2">make good</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reclaim</word>
+				<word number="2">redeem</word>
+				<word number="3">repair</word>
+				<word number="4">ransom</word>
+				<word number="5">absolve</word>
+				<word number="6">purge</word>
+				<word number="7">shrive</word>
+				<word number="8">do penance</word>
+				<word number="9">stand in a white sheet</word>
+				<word number="10">repent in sackcloth and ashes</word>
+				<word number="11">wear a hairshirt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="set one's house in order">
+			<sg number="1">
+				<word number="1">set one's house in order</word>
+				<word number="2">wipe off old scores</word>
+				<word number="3">make matters up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay the forfeit</word>
+				<word number="2">pay the penalty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="apologize">
+			<sg number="1">
+				<word number="1">apologize</word>
+				<word number="2">beg pardon</word>
+				<word number="3">fair l'amende honorable</word>
+				<word number="4">give satisfaction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come down on one's knees</word>
+				<word number="2">fall down on one's knees</word>
+				<word number="3">down on one's marrow bones</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

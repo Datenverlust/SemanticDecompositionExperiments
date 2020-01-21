@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="179" name="Physical Inertness" origNum="#172." class="1" section="8" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inertness">
+			<sg number="1">
+				<word number="1">inertness</word>
+				<word number="2" paraRef="" posRef="adj.">dullness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inertia</word>
+				<word number="2">vis inertiae</word>
+				<word number="3">inertion</word>
+				<word number="4">inactivity</word>
+				<word number="5">torpor</word>
+				<word number="6">languor</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="quiescence" headRef="276">quiescence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">latency</word>
+				<word number="2">inaction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">passivity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mental inertness">
+			<sg number="1">
+				<word number="1">mental inertness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inactivity" headRef="712">sloth</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inexcitability" headRef="864">inexcitability</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="irresolution" headRef="632">irresolution</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="obstinacy" headRef="633">obstinacy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="permanence" headRef="148">permanence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rare gas">
+			<sg number="1">
+				<word number="1">rare gas</word>
+				<word number="2">paraffin</word>
+				<word number="3">noble metal</word>
+				<word number="4">unreactivity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -inert">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -inert</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang fire</word>
+				<word number="2">smolder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inert">
+			<sg number="1">
+				<word number="1">inert</word>
+				<word number="2">inactive</word>
+				<word number="3">passive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="torpid" headRef="712">torpid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sluggish</word>
+				<word number="2">dull</word>
+				<word number="3">heavy</word>
+				<word number="4">flat</word>
+				<word number="5">slack</word>
+				<word number="6">tame</word>
+				<word number="7">slow</word>
+				<word number="8">blunt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unreactive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lifeless</word>
+				<word number="2">dead</word>
+				<word number="3">uninfluential</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="latent">
+			<sg number="1">
+				<word number="1">latent</word>
+				<word number="2">dormant</word>
+				<word number="3">smoldering</word>
+				<word number="4">unexerted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="inactively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">inactively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in suspense</word>
+				<word number="2">in abeyance</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

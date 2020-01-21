@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!ELEMENT thesaurus (class+)>
+<!ATTLIST thesaurus year CDATA "1911">
+
+<!ELEMENT class (section+)>
+<!ATTLIST class number CDATA #REQUIRED name CDATA #REQUIRED>
+
+<!ELEMENT section (subsection+)>
+<!ATTLIST section number CDATA #REQUIRED name CDATA #REQUIRED>
+
+<!ELEMENT subsection (headGroup+)>
+<!ATTLIST subsection number CDATA #REQUIRED name CDATA #REQUIRED>
+
+<!ELEMENT headGroup (head+)>
+<!ATTLIST headGroup number CDATA #REQUIRED first CDATA #REQUIRED last CDATA #REQUIRED>
+
+<!ELEMENT head EMPTY>
+<!ATTLIST head number CDATA #REQUIRED name CDATA #REQUIRED origNum CDATA #REQUIRED>

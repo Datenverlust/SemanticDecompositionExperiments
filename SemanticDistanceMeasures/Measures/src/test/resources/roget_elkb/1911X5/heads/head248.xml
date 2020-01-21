@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="248" name="Dextrality" origNum="#238." class="2" section="2" subSection="3" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dextrality">
+			<sg number="1">
+				<word number="1">dextrality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">right</word>
+				<word number="2">right hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dexter</word>
+				<word number="2">offside</word>
+				<word number="3">starboard</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dextral">
+			<sg number="1">
+				<word number="1">dextral</word>
+				<word number="2">right-handed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dexter</word>
+				<word number="2">dextrorsal</word>
+				<word number="3">dextrorse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ambidextral</word>
+				<word number="2">ambidextrous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dextro-</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="dextrad">
+			<sg number="1">
+				<word number="1">dextrad</word>
+				<word number="2">dextrally</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

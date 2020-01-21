@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="251" name="Amorphism" origNum="#241." class="2" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="amorphism">
+			<sg number="1">
+				<word number="1">amorphism</word>
+				<word number="2">informity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unlicked cub</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rudis indigestaque moles</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disorder" headRef="62">disorder</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deformity" headRef="253">deformity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disfigurement">
+			<sg number="1">
+				<word number="1">disfigurement</word>
+				<word number="2">defacement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mutilation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deforming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="chaos">
+			<sg number="1">
+				<word number="1">chaos</word>
+				<word number="2" paraRef="disorder" headRef="62">randomness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fluid">
+			<sg number="1">
+				<word number="1" paraRef="fluid" headRef="344">fluid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="deface">
+			<sg number="1">
+				<word number="1">deface</word>
+				<word number="2">disfigure</word>
+				<word number="3">deform</word>
+				<word number="4">mutilate</word>
+				<word number="5">truncate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="derange" headRef="65">derange</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blemish</word>
+				<word number="2">mar</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="shapeless">
+			<sg number="1">
+				<word number="1">shapeless</word>
+				<word number="2">amorphous</word>
+				<word number="3">formless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unformed</word>
+				<word number="2">unhewn</word>
+				<word number="3">unfashioned</word>
+				<word number="4">unshaped</word>
+				<word number="5">unshapen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rough</word>
+				<word number="2">rude</word>
+				<word number="3">Gothic</word>
+				<word number="4">barbarous</word>
+				<word number="5">rugged</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

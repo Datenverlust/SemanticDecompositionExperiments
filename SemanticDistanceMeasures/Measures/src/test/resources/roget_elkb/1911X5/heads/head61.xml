@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="61" name="Order" origNum="#58." class="1" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="order">
+			<sg number="1">
+				<word number="1">order</word>
+				<word number="2">regularity</word>
+				<word number="3">uniformity</word>
+				<word number="4">symmetry</word>
+				<word number="5">lucidus ordo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">music of the spheres</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gradation">
+			<sg number="1">
+				<word number="1">gradation</word>
+				<word number="2">progression</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="continuity" headRef="73">series</word>
+			</sg>
+			<sg number="3">
+				<word number="1">course</word>
+				<word number="2">even tenor</word>
+				<word number="3">routine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">method</word>
+				<word number="2">disposition</word>
+				<word number="3">arrangement</word>
+				<word number="4">array</word>
+				<word number="5">system</word>
+				<word number="6">economy</word>
+				<word number="7" paraRef="" posRef="adj.">discipline orderliness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rank">
+			<sg number="1">
+				<word number="1">rank</word>
+				<word number="2" paraRef="term" headRef="75">place</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in order">
+			<sg number="1">
+				<word number="1">be in order</word>
+				<word number="2" paraRef="" posRef="adj.">become in order</word>
+			</sg>
+			<sg number="2">
+				<word number="1">form</word>
+				<word number="2">fall in</word>
+				<word number="3">draw up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arrange itself</word>
+				<word number="2">range itself</word>
+				<word number="3">place itself</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fall into one's place</word>
+				<word number="2">take one's place</word>
+				<word number="3">take one's rank</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rally round</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="adjust">
+			<sg number="1">
+				<word number="1">adjust</word>
+				<word number="2">methodize</word>
+				<word number="3">regulate</word>
+				<word number="4">systematize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="orderly">
+			<sg number="1">
+				<word number="1">orderly</word>
+				<word number="2">regular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in order</word>
+				<word number="2">in trim</word>
+				<word number="3">in apple-pie order</word>
+				<word number="4">in its proper place</word>
+			</sg>
+			<sg number="3">
+				<word number="1">neat</word>
+				<word number="2">tidy</word>
+				<word number="3">en regle</word>
+				<word number="4">well regulated</word>
+				<word number="5">correct</word>
+				<word number="6">methodical</word>
+				<word number="7">uniform</word>
+				<word number="8">symmetrical</word>
+				<word number="9">shipshape</word>
+				<word number="10">businesslike</word>
+				<word number="11">systematic</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="confuse" headRef="65">unconfused</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="arranged" headRef="64">arranged</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in order">
+			<sg number="1">
+				<word number="1">in order</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">methodically</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in -turn</word>
+				<word number="2">- its turn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">step by step</word>
+			</sg>
+			<sg number="5">
+				<word number="1">by regular -steps</word>
+				<word number="2">-gradations</word>
+				<word number="3">-stages</word>
+				<word number="4">-intervals</word>
+			</sg>
+			<sg number="6">
+				<word number="1">seriatim</word>
+				<word number="2">systematically</word>
+				<word number="3">by clockwork</word>
+				<word number="4">gradatim</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="periodically" headRef="145">at stated periods</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="natura non facit saltum">
+			<sg number="1">
+				<word number="1">natura non facit saltum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"order is heaven's first law"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"order from disorder sprung"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ordo est parium dispariumque rerum sua loca tribuens dispositio</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="957" name="Gratitude" origNum="#916." class="8" section="3" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="gratitude">
+			<sg number="1">
+				<word number="1">gratitude</word>
+				<word number="2">thankfulness</word>
+				<word number="3">feeling of obligation</word>
+				<word number="4">sense of obligation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acknowledgment">
+			<sg number="1">
+				<word number="1">acknowledgment</word>
+				<word number="2">recognition</word>
+				<word number="3">thanksgiving</word>
+				<word number="4">thanksgiving</word>
+				<word number="5">giving thanks</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thankful good will</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="thanks">
+			<sg number="1">
+				<word number="1">thanks</word>
+				<word number="2">praise</word>
+				<word number="3">benediction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">paean</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="worship" headRef="1034">Te Deum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grace</word>
+				<word number="2">grace before meat</word>
+				<word number="3">grace after meat</word>
+				<word number="4">grace before meals</word>
+				<word number="5">grace after meals</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thank offering</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="requital">
+			<sg number="1">
+				<word number="1">requital</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be grateful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be grateful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thank</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give thanks</word>
+				<word number="2">render thanks</word>
+				<word number="3">return thanks</word>
+				<word number="4">offer thanks</word>
+				<word number="5" paraRef="" posRef="n.">tender thanks</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acknowledge</word>
+				<word number="2">requite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="feel under an obligation">
+			<sg number="1">
+				<word number="1">feel under an obligation</word>
+				<word number="2">be under an obligation</word>
+				<word number="3">lie under an obligation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">savoir gré</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not look a gift horse in the mouth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">never forget</word>
+				<word number="2">overflow with gratitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thank one's stars</word>
+				<word number="2">thank one's lucky stars</word>
+				<word number="3">bless one's stars</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fall on one's knees</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="grateful">
+			<sg number="1">
+				<word number="1">grateful</word>
+				<word number="2">thankful</word>
+				<word number="3">obliged</word>
+				<word number="4">beholden</word>
+				<word number="5">indebted to</word>
+				<word number="6">under obligation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="thanks">
+			<sg number="1">
+				<word number="1">thanks!</word>
+				<word number="2">many thanks!</word>
+				<word number="3">gramercy!</word>
+				<word number="4">much obliged!</word>
+				<word number="5">thank you!</word>
+				<word number="6">thank you very much!</word>
+				<word number="7">thanks a lot!</word>
+				<word number="8">thanks a heap</word>
+				<word number="9">thanks loads</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thank Heaven!</word>
+				<word number="2">Heaven be praised!</word>
+				<word number="3">Gott sei Dank!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

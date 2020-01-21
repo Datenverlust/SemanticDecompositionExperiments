@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="229" name="Crossing" origNum="#219." class="2" section="2" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="crossing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">crossing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intersection</word>
+				<word number="2">interdigitation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decussation</word>
+				<word number="2">transversion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="convolution" headRef="258">convolution</word>
+			</sg>
+			<sg number="5">
+				<word number="1">level crossing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reticulation">
+			<sg number="1">
+				<word number="1">reticulation</word>
+				<word number="2">network</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inosculation</word>
+				<word number="2">anastomosis</word>
+				<word number="3">intertexture</word>
+				<word number="4">mortise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="net">
+			<sg number="1">
+				<word number="1">net</word>
+				<word number="2">plexus</word>
+				<word number="3">web</word>
+				<word number="4">mesh</word>
+				<word number="5">twill</word>
+				<word number="6">skein</word>
+				<word number="7">sleeve</word>
+				<word number="8">felt</word>
+				<word number="9">lace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wicker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mat</word>
+				<word number="2">matting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plait</word>
+				<word number="2">trellis</word>
+				<word number="3">wattle</word>
+				<word number="4">lattice</word>
+				<word number="5">grating</word>
+				<word number="6">grille</word>
+				<word number="7">gridiron</word>
+				<word number="8">tracery</word>
+				<word number="9">fretwork</word>
+				<word number="10">filigree</word>
+				<word number="11">reticle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tissue</word>
+				<word number="2">netting</word>
+				<word number="3">mokes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rivulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cross">
+			<sg number="1">
+				<word number="1">cross</word>
+				<word number="2">chain</word>
+				<word number="3">wreath</word>
+				<word number="4">braid</word>
+				<word number="5">cat's cradle</word>
+				<word number="6">knot</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disorder" headRef="62">entangle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cloth">
+			<sg number="1">
+				<word number="1">cloth</word>
+				<word number="2">linen</word>
+				<word number="3">muslin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="webfoot">
+			<sg number="1">
+				<word number="1">webfoot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cross">
+			<sg number="1">
+				<word number="1">cross</word>
+				<word number="2">decussate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intersect</word>
+				<word number="2">interlace</word>
+				<word number="3">intertwine</word>
+				<word number="4">intertwist</word>
+				<word number="5">interweave</word>
+				<word number="6">interdigitate</word>
+				<word number="7">interlink</word>
+				<word number="8" new="1">jaywalk</word>
+				<word number="9" new="1">dote</word>
+				<word number="10" new="1">apprize</word>
+				<word number="11" new="1">rebroadcast</word>
+				<word number="12" new="1">articulate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="twine">
+			<sg number="1">
+				<word number="1">twine</word>
+				<word number="2">entwine</word>
+				<word number="3">weave</word>
+				<word number="4">inweave</word>
+				<word number="5">twist</word>
+				<word number="6">wreathe</word>
+				<word number="7" new="1">strangulate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anastomose</word>
+				<word number="2">inosculate</word>
+				<word number="3">dovetail</word>
+				<word number="4">splice</word>
+				<word number="5">link</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lace</word>
+				<word number="2">tat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mat">
+			<sg number="1">
+				<word number="1">mat</word>
+				<word number="2">plait</word>
+				<word number="3">plat</word>
+				<word number="4">braid</word>
+				<word number="5">felt</word>
+				<word number="6">twill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tangle</word>
+				<word number="2">entangle</word>
+				<word number="3">ravel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">net</word>
+				<word number="2">knot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dishevel</word>
+				<word number="2">raddle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">tiptoe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="crossing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">crossing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crossed</word>
+				<word number="2" paraRef="" posRef="v.">matted</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cross">
+			<sg number="1">
+				<word number="1">cross</word>
+				<word number="2">cruciform</word>
+				<word number="3">crucial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retiform</word>
+				<word number="2">reticular</word>
+				<word number="3">reticulated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">areolar</word>
+				<word number="2">cancellated</word>
+				<word number="3">grated</word>
+				<word number="4">barred</word>
+				<word number="5">streaked</word>
+			</sg>
+			<sg number="4">
+				<word number="1">textile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crossbarred</word>
+				<word number="2">cruciate</word>
+				<word number="3">palmiped</word>
+				<word number="4">secant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">web-footed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="cross">
+			<sg number="1">
+				<word number="1">cross</word>
+				<word number="2">thwart</word>
+				<word number="3">athwart</word>
+				<word number="4">transversely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at grade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crosswise</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

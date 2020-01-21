@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="839" name="Poverty" origNum="#804." class="7" section="4" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="poverty">
+			<sg number="1">
+				<word number="1">poverty</word>
+				<word number="2">indigence</word>
+				<word number="3">penury</word>
+				<word number="4">pauperism</word>
+				<word number="5">destitution</word>
+				<word number="6">want</word>
+			</sg>
+			<sg number="2">
+				<word number="1">need</word>
+				<word number="2">neediness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lack</word>
+				<word number="2">necessity</word>
+				<word number="3">privation</word>
+				<word number="4">distress</word>
+				<word number="5">difficulties</word>
+				<word number="6">wolf at the door</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bad circumstances">
+			<sg number="1">
+				<word number="1">bad circumstances</word>
+				<word number="2">poor circumstances</word>
+				<word number="3">need circumstances</word>
+				<word number="4">embarrassed circumstances</word>
+				<word number="5">reduced circumstances</word>
+				<word number="6">straightened circumstances</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slender means</word>
+				<word number="2">narrow means</word>
+			</sg>
+			<sg number="3">
+				<word number="1">straits</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hand to mouth existence</word>
+				<word number="2">res angusta domi</word>
+				<word number="3">low water</word>
+				<word number="4">impecuniosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="beggary">
+			<sg number="1">
+				<word number="1">beggary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mendicancy</word>
+				<word number="2">mendicity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">broken fortune</word>
+				<word number="2">loss of fortune</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="nonpayment" headRef="843">insolvency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="empty pocket">
+			<sg number="1">
+				<word number="1">empty pocket</word>
+				<word number="2">empty purse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">light purse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">beggarly account of empty boxes</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="poor man">
+			<sg number="1">
+				<word number="1">poor man</word>
+				<word number="2">pauper</word>
+				<word number="3">mendicant</word>
+				<word number="4">mumper</word>
+				<word number="5">beggar</word>
+				<word number="6">starveling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pauvre diable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fakir!</word>
+				<word number="2">schnorrer!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">homeless person</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be poor">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be poor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">want</word>
+				<word number="2">lack</word>
+				<word number="3">starve</word>
+				<word number="4">live from hand to mouth</word>
+				<word number="5">have seen better days</word>
+				<word number="6">go down in the world</word>
+				<word number="7">come upon the parish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go to the dogs</word>
+				<word number="2">go to wrack and ruin</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="money" headRef="835">not have a penny</word>
+				<word number="2">not have a shot in one's locker</word>
+			</sg>
+			<sg number="5">
+				<word number="1">beg one's bread</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tirer le diable par la queue</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="debt" headRef="841">run into debt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render poor">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render poor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impoverish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reduce</word>
+				<word number="2">reduce to poverty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pauperize</word>
+				<word number="2">fleece</word>
+				<word number="3">ruin</word>
+				<word number="4">bring to the parish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="poor">
+			<sg number="1">
+				<word number="1">poor</word>
+				<word number="2">indigent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">poverty-stricken</word>
+			</sg>
+			<sg number="3">
+				<word number="1">badly off</word>
+				<word number="2">poorly off</word>
+				<word number="3">ill off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">poor as a rat</word>
+				<word number="2">poor as a church mouse</word>
+				<word number="3">poor as a Job</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fortuneless</word>
+				<word number="2">dowerless</word>
+				<word number="3">moneyless</word>
+				<word number="4">penniless</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unportioned</word>
+				<word number="2">unmoneyed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">impecunious</word>
+			</sg>
+			<sg number="8">
+				<word number="1">out of money</word>
+				<word number="2">out of cash</word>
+				<word number="3">short of money</word>
+				<word number="4">short of cash</word>
+			</sg>
+			<sg number="9">
+				<word number="1">without a rap</word>
+				<word number="2" paraRef="money" headRef="835">not worth a rap</word>
+			</sg>
+			<sg number="10">
+				<word number="1">qui n'a pas le sou</word>
+				<word number="2">out of pocket</word>
+				<word number="3">hard up</word>
+			</sg>
+			<sg number="11">
+				<word number="1">out at elbows</word>
+				<word number="2">out at heels</word>
+			</sg>
+			<sg number="12">
+				<word number="1">seedy</word>
+				<word number="2">bare-footed</word>
+			</sg>
+			<sg number="13">
+				<word number="1">beggarly</word>
+				<word number="2">beggared</word>
+			</sg>
+			<sg number="14">
+				<word number="1">destitute</word>
+			</sg>
+			<sg number="15">
+				<word number="1">fleeced</word>
+				<word number="2">stripped</word>
+			</sg>
+			<sg number="16">
+				<word number="1">bereft</word>
+				<word number="2">bereaved</word>
+			</sg>
+			<sg number="17">
+				<word number="1">reduced</word>
+			</sg>
+			<sg number="18">
+				<word number="1">homeless</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">friendless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in want">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in want</word>
+			</sg>
+			<sg number="2">
+				<word number="1">needy</word>
+				<word number="2">necessitous</word>
+				<word number="3">distressed</word>
+				<word number="4">pinched</word>
+				<word number="5">straitened</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put to one's shifts</word>
+				<word number="2">put to one's last shifts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unable to keep the wolf from the door</word>
+				<word number="2">unable to make both ends meet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">embarrassed</word>
+				<word number="2">under hatches</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="in debt" headRef="841">involved</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="not paying" headRef="843">insolvent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in forma pauperis">
+			<sg number="1">
+				<word number="1">in forma pauperis</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="zonam perdidit">
+			<sg number="1">
+				<word number="1">zonam perdidit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"a penniless lass wi' a lang pedigree"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a pobreza no hay verguenza</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"he that is down can fall no lower"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">poca roba poco pensiero</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"steeped . . . in poverty to the very lips"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the short and simple annals of the poor"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

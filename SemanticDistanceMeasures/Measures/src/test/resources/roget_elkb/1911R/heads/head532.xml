@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="532" name="Inexpectation" origNum="#508." class="4" section="6" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inexpectation">
+			<sg number="1">
+				<word number="1">inexpectation</word>
+				<word number="2">non-expectation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disappointment" headRef="533">false expectation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="miscalculation" headRef="505">miscalculation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="surprise">
+			<sg number="1">
+				<word number="1">surprise</word>
+				<word number="2">sudden burst</word>
+				<word number="3">thunderclap</word>
+				<word number="4">blow</word>
+				<word number="5">shock</word>
+				<word number="6">start</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bolt out of the blue</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="wonder" headRef="909">wonder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eye opener</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unpleasant surprise">
+			<sg number="1">
+				<word number="1">unpleasant surprise</word>
+				<word number="2">pleasant surprise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not expect">
+			<sg number="1">
+				<word number="1" paraRef="expect" headRef="531">not expect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be taken by surprise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">start</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="miscalculate" headRef="505">miscalculate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not bargain for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">come upon</word>
+				<word number="2">fall upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be unexpected">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be unexpected</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adv.">come unawares</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turn up</word>
+				<word number="2">pop</word>
+				<word number="3">drop from the clouds</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come upon one</word>
+				<word number="2">burst upon one</word>
+				<word number="3">flash upon one</word>
+				<word number="4">bounce upon one</word>
+				<word number="5">steal upon one</word>
+				<word number="6">creep upon one</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come like a thunder clap</word>
+				<word number="2">burst like a thunderclap</word>
+				<word number="3">thunder bolt</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take by surprise</word>
+				<word number="2">catch by surprise</word>
+				<word number="3">catch unawares</word>
+				<word number="4">catch napping</word>
+			</sg>
+			<sg number="7">
+				<word number="1">yach</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pounce upon">
+			<sg number="1">
+				<word number="1">pounce upon</word>
+				<word number="2">spring a mine upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="surprise">
+			<sg number="1">
+				<word number="1">surprise</word>
+				<word number="2">startle</word>
+				<word number="3">take aback</word>
+				<word number="4">electrify</word>
+				<word number="5">stun</word>
+				<word number="6">stagger</word>
+				<word number="7">take away one's breath</word>
+				<word number="8">throw off one's guard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">astonish</word>
+				<word number="2" paraRef="strike with wonder" headRef="909">dumbfound</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="nonexpectant">
+			<sg number="1">
+				<word number="1">nonexpectant</word>
+				<word number="2">inexpectant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">surprised</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unwarned</word>
+				<word number="2">unaware</word>
+			</sg>
+			<sg number="4">
+				<word number="1">off one's guard</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inattentive" headRef="478">inattentive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unexpected">
+			<sg number="1">
+				<word number="1">unexpected</word>
+				<word number="2">unanticipated</word>
+				<word number="3">unpredicted</word>
+				<word number="4">unlooked for</word>
+				<word number="5">unforeseen</word>
+				<word number="6">unhoped for</word>
+				<word number="7" new="1">filmmaking</word>
+				<word number="8" new="1">fordable</word>
+				<word number="9" new="1">idealistic</word>
+				<word number="10" new="1">propositional</word>
+				<word number="11" new="1">determined</word>
+				<word number="12" new="1">roadless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dropped from the clouds</word>
+			</sg>
+			<sg number="3">
+				<word number="1">beyond expectation</word>
+				<word number="2">contrary to expectation</word>
+				<word number="3">against expectation</word>
+				<word number="4">against all expectation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of one's reckoning</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exceptional" headRef="87">unheard of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">startling</word>
+				<word number="2">surprising</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="instantaneous" headRef="119">sudden</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unpredictable">
+			<sg number="1">
+				<word number="1">unpredictable</word>
+				<word number="2" paraRef="unknowable" headRef="544">unforeseeable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="abruptly">
+			<sg number="1">
+				<word number="1">abruptly</word>
+				<word number="2">unexpectedly</word>
+				<word number="3">surprisingly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plump</word>
+				<word number="2">pop</word>
+				<word number="3">a l'improviste</word>
+				<word number="4">unawares</word>
+			</sg>
+			<sg number="3">
+				<word number="1">without notice</word>
+				<word number="2">without warning</word>
+				<word number="3">without a "by your leave"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">like a thief in the night</word>
+				<word number="2">like a thunderbolt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in an unguarded moment</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="instantaneously" headRef="119">suddenly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="heydey">
+			<sg number="1">
+				<word number="1" paraRef="wonder" headRef="909">heydey!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="little did one think">
+			<sg number="1">
+				<word number="1">little did one think</word>
+				<word number="2">little did one expect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nobody would ever suppose</word>
+				<word number="2">nobody would ever think</word>
+				<word number="3">nobody would ever expect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">who would have thought? it beats the Dutch!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

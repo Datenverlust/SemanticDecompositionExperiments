@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="100" name="Quadruplication" origNum="#96." class="1" section="5" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="quadruplication">
+			<sg number="1">
+				<word number="1">quadruplication</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="multiply by four">
+			<sg number="1">
+				<word number="1">multiply by four</word>
+				<word number="2">quadruplicate</word>
+				<word number="3">biquadrate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fourfold">
+			<sg number="1">
+				<word number="1">fourfold</word>
+				<word number="2">four times</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quadrable</word>
+				<word number="2">quadrumanous</word>
+				<word number="3">quadruple</word>
+				<word number="4">quadruplicate</word>
+				<word number="5">quadrible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fourth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="quadrifoliate">
+			<sg number="1">
+				<word number="1">quadrifoliate</word>
+				<word number="2">quadrifoliolate</word>
+				<word number="3">quadrigeminal</word>
+				<word number="4">quadrigeminate</word>
+				<word number="5">quadriplanar</word>
+				<word number="6">quadriserial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="four times">
+			<sg number="1">
+				<word number="1">four times</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the fourth place</word>
+				<word number="2">fourthly</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

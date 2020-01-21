@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="209" name="Length" origNum="#200." class="2" section="2" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="length">
+			<sg number="1">
+				<word number="1">length</word>
+				<word number="2">longitude</word>
+				<word number="3">span</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mileage</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="distance" headRef="205">distance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="line">
+			<sg number="1">
+				<word number="1">line</word>
+				<word number="2">bar</word>
+				<word number="3">rule</word>
+				<word number="4">stripe</word>
+				<word number="5">streak</word>
+				<word number="6">spoke</word>
+				<word number="7">radius</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lengthening">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lengthening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prolongation</word>
+				<word number="2">production</word>
+				<word number="3">protraction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tension</word>
+				<word number="2">tensure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extension</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="line">
+			<sg number="1">
+				<word number="1">line</word>
+				<word number="2">nail</word>
+				<word number="3">inch</word>
+				<word number="4">hand</word>
+				<word number="5">palm</word>
+				<word number="6">foot</word>
+				<word number="7">cubit</word>
+				<word number="8">yard</word>
+				<word number="9">ell</word>
+				<word number="10">fathom</word>
+				<word number="11">rood</word>
+				<word number="12">pole</word>
+				<word number="13">furlong</word>
+				<word number="14">mile</word>
+				<word number="15">league</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chain</word>
+				<word number="2">link</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arpent</word>
+				<word number="2">handbreadth</word>
+				<word number="3">jornada</word>
+				<word number="4">kos</word>
+				<word number="5">vara</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="astronomical unit">
+			<sg number="1">
+				<word number="1">astronomical unit</word>
+				<word number="2">AU</word>
+				<word number="3">light-year</word>
+				<word number="4">parsec</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="nanometer">
+			<sg number="1">
+				<word number="1">nanometer</word>
+				<word number="2">nm</word>
+				<word number="3">micron</word>
+				<word number="4">micrometer</word>
+				<word number="5">millimicron</word>
+				<word number="6">millimeter</word>
+				<word number="7">mm</word>
+				<word number="8">centimeter</word>
+				<word number="9">cm</word>
+				<word number="10">meter</word>
+				<word number="11">kilometer</word>
+				<word number="12">km</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="pedometer">
+			<sg number="1">
+				<word number="1">pedometer</word>
+				<word number="2">perambulator</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="measurement" headRef="489">scale</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be long">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be long</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stretch out</word>
+				<word number="2">sprawl</word>
+			</sg>
+			<sg number="3">
+				<word number="1">extend to</word>
+				<word number="2">reach to</word>
+				<word number="3">stretch to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make a long arm</word>
+				<word number="2">"drag its slow length along"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render long">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render long</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lengthen</word>
+				<word number="2">extend</word>
+				<word number="3">elongate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stretch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prolong</word>
+				<word number="2">produce</word>
+				<word number="3">protract</word>
+			</sg>
+			<sg number="5">
+				<word number="1">let out</word>
+				<word number="2">draw out</word>
+				<word number="3">spin out!</word>
+			</sg>
+			<sg number="6">
+				<word number="1">drawl</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="enfilade">
+			<sg number="1">
+				<word number="1">enfilade</word>
+				<word number="2">look along</word>
+				<word number="3">view in perspective</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="distend">
+			<sg number="1">
+				<word number="1" paraRef="expand" headRef="203">distend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="long">
+			<sg number="1">
+				<word number="1">long</word>
+				<word number="2">longsome</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lengthy</word>
+				<word number="2">wiredrawn</word>
+				<word number="3">outstretched</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">lengthened</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sesquipedalian" headRef="603">sesquipedalian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">interminable</word>
+				<word number="2">no end of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">macrocolous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="linear">
+			<sg number="1">
+				<word number="1">linear</word>
+				<word number="2">lineal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">longitudinal</word>
+				<word number="2">oblong</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="as long as my arm">
+			<sg number="1">
+				<word number="1">as long as my arm</word>
+				<word number="2">as long as today and tomorrow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="shorten" headRef="210">unshortened</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="lengthwise">
+			<sg number="1">
+				<word number="1">lengthwise</word>
+				<word number="2">at length</word>
+				<word number="3">longitudinally</word>
+				<word number="4">endlong</word>
+				<word number="5">along</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tandem</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="continuously" headRef="73">in a line</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in perspective</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="from end to end">
+			<sg number="1">
+				<word number="1">from end to end</word>
+				<word number="2">from stem to stern</word>
+				<word number="3">from head to foot</word>
+				<word number="4">from the crown of the head to the sole of the foot</word>
+				<word number="5">from top to toe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fore and aft</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

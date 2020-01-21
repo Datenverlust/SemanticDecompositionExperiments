@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="597" name="Obscurity" origNum="#571." class="5" section="3" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="obscurity">
+			<sg number="1">
+				<word number="1" paraRef="unintelligibility" headRef="544">obscurity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">involution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard words</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ambiguity" headRef="545">ambiguity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unintelligibleness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="vagueness" headRef="498">vagueness</word>
+				<word number="2" paraRef="inexactness" headRef="519">inexactness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="neologism" headRef="589">what d'ye call 'em</word>
+			</sg>
+			<sg number="8">
+				<word number="1">darkness of meaning</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="obscure">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">obscure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">crabbed</word>
+				<word number="2">involved</word>
+				<word number="3">confused</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

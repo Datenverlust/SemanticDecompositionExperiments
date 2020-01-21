@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="801" name="Compact" origNum="#769." class="7" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="compact">
+			<sg number="1">
+				<word number="1">compact</word>
+				<word number="2">contract</word>
+				<word number="3">agreement</word>
+				<word number="4">bargain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affidation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pact</word>
+				<word number="2">paction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bond</word>
+				<word number="2">covenant</word>
+				<word number="3">indenture</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bundobast</word>
+				<word number="2">deal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stipulation">
+			<sg number="1">
+				<word number="1">stipulation</word>
+				<word number="2">settlement</word>
+				<word number="3">convention</word>
+			</sg>
+			<sg number="2">
+				<word number="1">compromise</word>
+				<word number="2">cartel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Protocol">
+			<sg number="1">
+				<word number="1">Protocol</word>
+				<word number="2">treaty</word>
+				<word number="3">concordat</word>
+				<word number="4">Zollverein</word>
+				<word number="5">Sonderbund</word>
+				<word number="6">charter</word>
+				<word number="7">Magna Charta</word>
+				<word number="8">Progmatic Sanction</word>
+				<word number="9">customs union</word>
+				<word number="10">free trade region</word>
+			</sg>
+			<sg number="2">
+				<word number="1">General Agreement on Tariffs and Trade</word>
+				<word number="2">GATT</word>
+			</sg>
+			<sg number="3">
+				<word number="1">most favored nation status</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="negotiation">
+			<sg number="1">
+				<word number="1" paraRef="bargain" headRef="827">negotiation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mediation" headRef="753">diplomacy</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="agent" headRef="789">negotiator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ratification">
+			<sg number="1">
+				<word number="1">ratification</word>
+				<word number="2">completion</word>
+				<word number="3">signature</word>
+				<word number="4">seal</word>
+				<word number="5">sigil</word>
+				<word number="6">signet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="contract">
+			<sg number="1">
+				<word number="1">contract</word>
+				<word number="2">covenant</word>
+				<word number="3">agree for</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="promise" headRef="799">engage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="treat">
+			<sg number="1">
+				<word number="1">treat</word>
+				<word number="2">negotiate</word>
+				<word number="3">stipulate</word>
+				<word number="4">make terms</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="barter" headRef="827">bargain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="make a bargain">
+			<sg number="1">
+				<word number="1">make a bargain</word>
+				<word number="2">strike a bargain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come to terms</word>
+				<word number="2">come to an understanding</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="compromise" headRef="806">compromise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set at rest</word>
+			</sg>
+			<sg number="5">
+				<word number="1">close</word>
+				<word number="2">close with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conclude</word>
+				<word number="2">complete</word>
+				<word number="3">settle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">confirm</word>
+				<word number="2">ratify</word>
+				<word number="3">clench</word>
+				<word number="4">subscribe</word>
+				<word number="5">underwrite</word>
+			</sg>
+			<sg number="8">
+				<word number="1">endorse</word>
+				<word number="2">indorse</word>
+			</sg>
+			<sg number="9">
+				<word number="1">put the seal to</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sign</word>
+				<word number="2" paraRef="attest" headRef="490">seal</word>
+			</sg>
+			<sg number="11">
+				<word number="1">indent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="take one at one's word">
+			<sg number="1">
+				<word number="1">take one at one's word</word>
+				<word number="2">bargain by inch of candle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="agreed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">agreed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conventional</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under hand and seal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="caveat emptor">
+			<sg number="1">
+				<word number="1">caveat emptor</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

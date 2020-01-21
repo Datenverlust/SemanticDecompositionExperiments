@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="119" name="Instantaneity" origNum="#113." class="1" section="6" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="instantaneity">
+			<sg number="1">
+				<word number="1">instantaneity</word>
+				<word number="2">instantaneousness</word>
+				<word number="3">immediacy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suddenness</word>
+				<word number="2">abruptness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="moment">
+			<sg number="1">
+				<word number="1">moment</word>
+				<word number="2">instant</word>
+				<word number="3">second</word>
+				<word number="4">minute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">twinkling</word>
+				<word number="2">trice</word>
+				<word number="3">flash</word>
+				<word number="4">breath</word>
+				<word number="5">crack</word>
+				<word number="6">jiffy</word>
+				<word number="7">coup</word>
+				<word number="8">burst</word>
+				<word number="9">flash of lightning</word>
+				<word number="10">stroke of time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="epoch">
+			<sg number="1">
+				<word number="1">epoch</word>
+				<word number="2">time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">time of day</word>
+				<word number="2">time of night</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hour</word>
+				<word number="2">minute</word>
+			</sg>
+			<sg number="4">
+				<word number="1">very minute</word>
+				<word number="2">very time</word>
+				<word number="3">very  hour</word>
+			</sg>
+			<sg number="5">
+				<word number="1">present time</word>
+				<word number="2">right time</word>
+				<word number="3">true time</word>
+				<word number="4">exact correct time</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be instantaneous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be instantaneous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">twinkle</word>
+				<word number="2">flash</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="instantaneous">
+			<sg number="1">
+				<word number="1">instantaneous</word>
+				<word number="2">momentary</word>
+				<word number="3">sudden</word>
+				<word number="4">immediate</word>
+				<word number="5">instant</word>
+				<word number="6">abrupt</word>
+				<word number="7">discontinuous</word>
+				<word number="8">precipitous</word>
+				<word number="9">precipitant</word>
+				<word number="10">precipitate</word>
+				<word number="11" new="1">druidic</word>
+				<word number="12" new="1">impermanent</word>
+				<word number="13" new="1">treeless</word>
+				<word number="14" new="1">score</word>
+				<word number="15" new="1">adopted</word>
+				<word number="16" new="1">foolproof</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subitaneous</word>
+				<word number="2">hasty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quick as thought</word>
+				<word number="2">quick as lightning</word>
+				<word number="3">quick as a flash</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rapid as electricity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="speedy">
+			<sg number="1">
+				<word number="1">speedy</word>
+				<word number="2">quick</word>
+				<word number="3">fast</word>
+				<word number="4">fleet</word>
+				<word number="5">swift</word>
+				<word number="6">lively</word>
+				<word number="7">blitz</word>
+				<word number="8" new="1">apsidal</word>
+				<word number="9" new="1">ethological</word>
+				<word number="10" new="1">easy</word>
+				<word number="11" new="1">redundantly</word>
+				<word number="12" new="1">repaving</word>
+				<word number="13" new="1">adjective</word>
+				<word number="14" new="1">scenic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="velocity" headRef="285">rapid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="instantaneously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">instantaneously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in no time</word>
+				<word number="2">in less than no time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">presto</word>
+				<word number="2">subito</word>
+				<word number="3">instanter</word>
+				<word number="4">suddenly</word>
+				<word number="5">at a stroke</word>
+				<word number="6">like a shot</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">in a moment</word>
+				<word number="2">in the twinkling of an eye</word>
+				<word number="3">in a trice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in one's tracks</word>
+			</sg>
+			<sg number="6">
+				<word number="1">right away</word>
+			</sg>
+			<sg number="7">
+				<word number="1">toute a l'heure</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at one jump</word>
+				<word number="2">in the same breath</word>
+				<word number="3">per saltum</word>
+				<word number="4">uno saltu</word>
+			</sg>
+			<sg number="9">
+				<word number="1">at once</word>
+				<word number="2">all at once</word>
+			</sg>
+			<sg number="10">
+				<word number="1">plump</word>
+				<word number="2">slap</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"at one fell swoop"</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="" posRef="n.">at the same instant</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="early" headRef="138">immediately</word>
+			</sg>
+			<sg number="14">
+				<word number="1">extempore</word>
+				<word number="2">on the moment</word>
+				<word number="3">on the spot</word>
+				<word number="4">on the spur of the moment</word>
+			</sg>
+			<sg number="15">
+				<word number="1">no sooner said than done</word>
+			</sg>
+			<sg number="16">
+				<word number="1">just then</word>
+			</sg>
+			<sg number="17">
+				<word number="1" paraRef="haste" headRef="713">slap-dash</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="touch and go">
+			<sg number="1">
+				<word number="1">touch and go</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no sooner said than done</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

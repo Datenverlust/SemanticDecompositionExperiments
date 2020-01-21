@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="269" name="Fold" origNum="#258." class="2" section="3" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fold">
+			<sg number="1">
+				<word number="1">fold</word>
+				<word number="2">plicature</word>
+				<word number="3">plait</word>
+				<word number="4">pleat</word>
+				<word number="5">ply</word>
+				<word number="6">crease</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tuck</word>
+				<word number="2">gather</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flexion</word>
+				<word number="2">flexure</word>
+				<word number="3">joint</word>
+				<word number="4">elbow</word>
+				<word number="5">double</word>
+				<word number="6">doubling</word>
+				<word number="7">duplicature</word>
+				<word number="8">gather</word>
+				<word number="9">wrinkle</word>
+				<word number="10">rimple</word>
+				<word number="11">crinkle</word>
+				<word number="12">crankle</word>
+				<word number="13">crumple</word>
+				<word number="14">rumple</word>
+				<word number="15">rivel</word>
+				<word number="16">ruck</word>
+				<word number="17">ruffle</word>
+				<word number="18">dog's ear</word>
+				<word number="19">corrugation</word>
+				<word number="20">frounce</word>
+				<word number="21">flounce</word>
+				<word number="22">lapel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pucker</word>
+				<word number="2">crow's feet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">plication</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fold">
+			<sg number="1">
+				<word number="1">fold</word>
+				<word number="2">double</word>
+				<word number="3">plicate</word>
+				<word number="4">plait</word>
+				<word number="5">crease</word>
+				<word number="6">wrinkle</word>
+				<word number="7">crinkle</word>
+				<word number="8">crankle</word>
+				<word number="9">curl</word>
+				<word number="10">cockle up</word>
+				<word number="11">cocker</word>
+				<word number="12">rimple</word>
+				<word number="13">rumple</word>
+				<word number="14">flute</word>
+				<word number="15">frizzle</word>
+				<word number="16">frounce</word>
+				<word number="17">rivel</word>
+				<word number="18">twill</word>
+				<word number="19">corrugate</word>
+				<word number="20">ruffle</word>
+				<word number="21">crimple</word>
+				<word number="22">crumple</word>
+				<word number="23">pucker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn down</word>
+				<word number="2">double down</word>
+				<word number="3">down under</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tuck</word>
+				<word number="2">ruck</word>
+				<word number="3">hem</word>
+				<word number="4">gather</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="folded">
+			<sg number="1">
+				<word number="1">folded</word>
+				<word number="2">fluted</word>
+				<word number="3" paraRef="" posRef="v.">pleated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

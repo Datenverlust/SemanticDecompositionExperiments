@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="201" name="Size" origNum="#192." class="2" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="size">
+			<sg number="1">
+				<word number="1">size</word>
+				<word number="2">magnitude</word>
+				<word number="3">dimension</word>
+				<word number="4">bulk</word>
+				<word number="5">volume</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">largeness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="great quantity" headRef="33">greatness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="space" headRef="188">expanse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">amplitude</word>
+				<word number="2">mass</word>
+			</sg>
+			<sg number="6">
+				<word number="1">proportions</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="capacity">
+			<sg number="1">
+				<word number="1">capacity</word>
+				<word number="2">tonnage</word>
+				<word number="3">tunnage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cordage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">caliber</word>
+				<word number="2">scantling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="turgidity">
+			<sg number="1">
+				<word number="1" paraRef="expansion" headRef="203">turgidity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corpulence</word>
+				<word number="2">obesity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">plumpness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">embonpoint</word>
+				<word number="2">corporation</word>
+				<word number="3">flesh and blood</word>
+				<word number="4">lustihood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="hugeness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">hugeness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enormity</word>
+				<word number="2">immensity</word>
+				<word number="3">monstrosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="giant">
+			<sg number="1">
+				<word number="1">giant</word>
+				<word number="2">Brobdingnagian</word>
+				<word number="3">Antaeus</word>
+				<word number="4">Goliath</word>
+				<word number="5">Gog and Magog</word>
+				<word number="6">Gargantua</word>
+				<word number="7">monster</word>
+				<word number="8">mammoth</word>
+				<word number="9">Cyclops</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cachalot</word>
+				<word number="2">whale</word>
+				<word number="3">porpoise</word>
+				<word number="4">behemoth</word>
+				<word number="5">leviathan</word>
+				<word number="6">elephant</word>
+				<word number="7">hippopotamus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">colossus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tun</word>
+				<word number="2">cord</word>
+				<word number="3">lump</word>
+				<word number="4">bulk</word>
+				<word number="5">block</word>
+				<word number="6">loaf</word>
+				<word number="7">mass</word>
+				<word number="8">swad</word>
+				<word number="9">clod</word>
+				<word number="10">nugget</word>
+				<word number="11">bushel</word>
+				<word number="12">thumper</word>
+				<word number="13">whooper</word>
+				<word number="14">spanker</word>
+				<word number="15">strapper</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"Triton among the minnows"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="mountain">
+			<sg number="1">
+				<word number="1">mountain</word>
+				<word number="2">mound</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="assemblage" headRef="76">heap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="largest portion">
+			<sg number="1">
+				<word number="1" paraRef="portion" headRef="54">largest portion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">full size</word>
+				<word number="2">life size</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be large">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be large</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="expand" headRef="203">become large</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="large">
+			<sg number="1">
+				<word number="1">large</word>
+				<word number="2">big</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="great quantity" headRef="33">great</word>
+			</sg>
+			<sg number="3">
+				<word number="1">considerable</word>
+				<word number="2">bulky</word>
+				<word number="3">voluminous</word>
+				<word number="4">ample</word>
+				<word number="5">massive</word>
+				<word number="6">massy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">capacious</word>
+				<word number="2">comprehensive</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="spacious" headRef="188">spacious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mighty</word>
+				<word number="2">towering</word>
+				<word number="3">fine</word>
+				<word number="4">magnificent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="corpulent">
+			<sg number="1">
+				<word number="1">corpulent</word>
+				<word number="2">stout</word>
+				<word number="3">fat</word>
+				<word number="4">obese</word>
+				<word number="5">plump</word>
+				<word number="6">squab</word>
+				<word number="7">full</word>
+				<word number="8">lusty</word>
+				<word number="9">strapping</word>
+				<word number="10">bouncing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">portly</word>
+				<word number="2">burly</word>
+				<word number="3">well-fed</word>
+				<word number="4">full-grown</word>
+			</sg>
+			<sg number="3">
+				<word number="1">corn fed</word>
+				<word number="2">gram fed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stalwart</word>
+				<word number="2">brawny</word>
+				<word number="3">fleshy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">goodly</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in good case</word>
+				<word number="2">in good condition</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in condition</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chopping</word>
+				<word number="2">jolly</word>
+			</sg>
+			<sg number="9">
+				<word number="1">chub faced</word>
+				<word number="2">chubby faced</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lubberly">
+			<sg number="1">
+				<word number="1">lubberly</word>
+				<word number="2">hulky</word>
+				<word number="3">unwieldy</word>
+				<word number="4">lumpish</word>
+				<word number="5">gaunt</word>
+				<word number="6">spanking</word>
+				<word number="7">whacking</word>
+				<word number="8">whopping</word>
+				<word number="9">walloping</word>
+				<word number="10">thumping</word>
+				<word number="11">thundering</word>
+				<word number="12">hulking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overgrown</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="swollen" headRef="203">puffy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="huge">
+			<sg number="1">
+				<word number="1">huge</word>
+				<word number="2">immense</word>
+				<word number="3">enormous</word>
+				<word number="4">mighty</word>
+				<word number="5" new="1">tremendous</word>
+				<word number="6" new="1">veritable</word>
+				<word number="7" new="2">limitless</word>
+				<word number="8" new="2">profound</word>
+				<word number="9" new="2">sheer</word>
+				<word number="10" new="2">unlimited</word>
+				<word number="11" new="3">inexhaustible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vast</word>
+				<word number="2">vasty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">amplitudinous</word>
+				<word number="2">stupendous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">monster</word>
+				<word number="2">monstrous</word>
+				<word number="3">humongous</word>
+				<word number="4">monumental</word>
+			</sg>
+			<sg number="5">
+				<word number="1">elephantine</word>
+				<word number="2">jumbo</word>
+				<word number="3">mammoth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gigantic</word>
+				<word number="2">gigantean</word>
+				<word number="3">giant</word>
+				<word number="4">giant like</word>
+				<word number="5">titanic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">prodigious</word>
+				<word number="2">colossal</word>
+				<word number="3">Cyclopean</word>
+				<word number="4">Brobdingnagian</word>
+				<word number="5">Bunyanesque</word>
+				<word number="6">Herculean</word>
+				<word number="7">Gargantuan</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="infinite" headRef="110">infinite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="large as life">
+			<sg number="1">
+				<word number="1">large as life</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plump as a dumpling</word>
+				<word number="2">plump as a partridge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fat as a pig</word>
+				<word number="2">fat as a quail</word>
+				<word number="3">fat as butter</word>
+				<word number="4">fat as brawn</word>
+				<word number="5">fat as bacon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="immeasurable">
+			<sg number="1">
+				<word number="1">immeasurable</word>
+				<word number="2">unfathomable</word>
+				<word number="3">unplumbed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inconceivable</word>
+				<word number="2">unimaginable</word>
+				<word number="3">unheard-of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="of cosmic proportions">
+			<sg number="1">
+				<word number="1">of cosmic proportions</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of epic proportions</word>
+				<word number="2">the mother of all</word>
+				<word number="3">the granddaddy of all</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

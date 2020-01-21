@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="744" name="Defiance" origNum="#715." class="6" section="4" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="defiance">
+			<sg number="1">
+				<word number="1">defiance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">daring</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dare</word>
+			</sg>
+			<sg number="4">
+				<word number="1">challenge</word>
+				<word number="2">cartel!</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="threat" headRef="949">threat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">war cry</word>
+				<word number="2">war whoop</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="chest-beating">
+			<sg number="1">
+				<word number="1">chest-beating</word>
+				<word number="2">chest-thumping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saber rattling</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="defy">
+			<sg number="1">
+				<word number="1">defy</word>
+				<word number="2">dare</word>
+				<word number="3">beard</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="courage" headRef="900">brave</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bid defiance to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set at defiance</word>
+				<word number="2">set at naught</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hurl defiance at</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dance the war dance</word>
+				<word number="2">beat the war drums</word>
+			</sg>
+			<sg number="7">
+				<word number="1">snap the fingers at</word>
+				<word number="2">laugh to scorn</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="disobey" headRef="773">disobey</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="show fight">
+			<sg number="1">
+				<word number="1">show fight</word>
+				<word number="2">show one's teeth</word>
+				<word number="3">show a bold front</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bluster</word>
+				<word number="2">look big</word>
+				<word number="3">stand akimbo</word>
+				<word number="4">beat one's chest</word>
+			</sg>
+			<sg number="3">
+				<word number="1">double the fist</word>
+				<word number="2">shake the fist</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="threaten" headRef="949">threaten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="challenge">
+			<sg number="1">
+				<word number="1">challenge</word>
+				<word number="2">call out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">throw down the gauntlet</word>
+				<word number="2">fling down the gauntlet</word>
+				<word number="3">fling down the gage</word>
+				<word number="4">fling down the glove</word>
+				<word number="5">throw down the glove</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="defiant">
+			<sg number="1">
+				<word number="1">defiant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">defying</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"with arms akimbo"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in defiance of">
+			<sg number="1">
+				<word number="1">in defiance of</word>
+				<word number="2">in the teeth of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">under one's very nose</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="do your worst">
+			<sg number="1">
+				<word number="1">do your worst!</word>
+				<word number="2">come if you dare!</word>
+				<word number="3">come on!</word>
+				<word number="4">marry come up!</word>
+				<word number="5">hoity toity!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="noli me tangere">
+			<sg number="1">
+				<word number="1">noli me tangere</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nemo me impune lacessit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">don't tread on me</word>
+			</sg>
+			<sg number="4">
+				<word number="1">don't you dare</word>
+			</sg>
+			<sg number="5">
+				<word number="1">don't even think of it</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"Go ahead</word>
+				<word number="2">make my day!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1007" name="Illegality" origNum="#964." class="8" section="4" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lawlessness">
+			<sg number="1">
+				<word number="1">lawlessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">illicitness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">breach of law</word>
+				<word number="2">violation of law</word>
+				<word number="3">infraction of the law</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disobedience" headRef="773">disobedience</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unconformity" headRef="87">unconformity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="arbitrariness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">arbitrariness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">antinomy</word>
+				<word number="2">violence</word>
+				<word number="3">brute force</word>
+				<word number="4">despotism</word>
+				<word number="5">outlawry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mob law">
+			<sg number="1">
+				<word number="1">mob law</word>
+				<word number="2">lynch law</word>
+				<word number="3">club law</word>
+				<word number="4">Lydford law</word>
+				<word number="5">martial law</word>
+				<word number="6">drumhead law</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coup d'etat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">le droit du plus fort</word>
+			</sg>
+			<sg number="4">
+				<word number="1">argumentum baculinum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="illegality">
+			<sg number="1">
+				<word number="1">illegality</word>
+				<word number="2">informality</word>
+				<word number="3">unlawfulness</word>
+				<word number="4">illegitimacy</word>
+				<word number="5">bar sinister</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="trover and conversion">
+			<sg number="1">
+				<word number="1">trover and conversion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smuggling</word>
+				<word number="2">poaching</word>
+			</sg>
+			<sg number="3">
+				<word number="1">simony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="outlaw">
+			<sg number="1">
+				<word number="1">outlaw</word>
+				<word number="2" paraRef="bad man" headRef="991">bad man</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="offend against the law">
+			<sg number="1">
+				<word number="1">offend against the law</word>
+			</sg>
+			<sg number="2">
+				<word number="1">violate the law</word>
+				<word number="2">infringe the law</word>
+				<word number="3">break the law</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set the law at defiance</word>
+				<word number="2">ride roughshod over</word>
+				<word number="3">drive a coach and six through a statute</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ignore the law</word>
+				<word number="2">make the law a dead letter</word>
+				<word number="3">take the law into one's own hands</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="smuggle">
+			<sg number="1">
+				<word number="1">smuggle</word>
+				<word number="2">run</word>
+				<word number="3">poach</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="illegal">
+			<sg number="1">
+				<word number="1">illegal</word>
+				<word number="2">unlawful</word>
+				<word number="3">illegitimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not allowed</word>
+				<word number="2" paraRef="prohibited" headRef="792">prohibited</word>
+			</sg>
+			<sg number="3">
+				<word number="1">illicit</word>
+				<word number="2">contraband</word>
+			</sg>
+			<sg number="4">
+				<word number="1">actionable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unwarranted">
+			<sg number="1">
+				<word number="1">unwarranted</word>
+				<word number="2">unwarrantable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unauthorized</word>
+			</sg>
+			<sg number="3">
+				<word number="1">informal</word>
+				<word number="2">unofficial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">injudicial</word>
+				<word number="2">extrajudicial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lawless">
+			<sg number="1">
+				<word number="1">lawless</word>
+				<word number="2">arbitrary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">despotic</word>
+				<word number="2">despotical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">corrupt</word>
+				<word number="2">summary</word>
+				<word number="3">irresponsible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unanswerable</word>
+				<word number="2">unaccountable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="expired">
+			<sg number="1">
+				<word number="1">expired</word>
+				<word number="2">invalid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unchartered</word>
+				<word number="2">unconstitutional</word>
+			</sg>
+			<sg number="3">
+				<word number="1">null and void</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a dead letter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="lawless">
+			<sg number="1">
+				<word number="1">lawless</word>
+				<word number="2">unregulated</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="illegally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">illegally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with a high hand</word>
+				<word number="2">in violation of law</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

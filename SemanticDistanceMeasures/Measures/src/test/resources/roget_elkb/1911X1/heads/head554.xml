@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="554" name="Concealment" origNum="#528." class="5" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="concealment">
+			<sg number="1">
+				<word number="1">concealment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">hiding</word>
+			</sg>
+			<sg number="3">
+				<word number="1">occultation</word>
+				<word number="2">mystification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="seal of secrecy">
+			<sg number="1">
+				<word number="1">seal of secrecy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="screen" headRef="556">screen</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disguise" headRef="556">disguise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">masquerade</word>
+			</sg>
+			<sg number="5">
+				<word number="1">masked battery</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="hiding place" headRef="556">hiding place</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cryptography</word>
+				<word number="2">steganography</word>
+			</sg>
+			<sg number="8">
+				<word number="1">freemasonry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stealth">
+			<sg number="1">
+				<word number="1">stealth</word>
+				<word number="2">stealthiness</word>
+				<word number="3">sneakiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obreption</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cunning" headRef="731">slyness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="latitancy">
+			<sg number="1">
+				<word number="1">latitancy</word>
+				<word number="2">latitation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="seclusion" headRef="932">seclusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">privacy</word>
+				<word number="2">secrecy</word>
+				<word number="3">secretness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incognita</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="reticence">
+			<sg number="1">
+				<word number="1">reticence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reserve</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mental reserve</word>
+				<word number="2">reservation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arriere pensee</word>
+				<word number="2">suppression</word>
+				<word number="3">evasion</word>
+				<word number="4">white lie</word>
+				<word number="5">misprision</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="taciturnity" headRef="611">silence</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="suppression of truth" headRef="570">suppression of truth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">underhand dealing</word>
+			</sg>
+			<sg number="8">
+				<word number="1">closeness</word>
+				<word number="2" paraRef="" posRef="adj.">secretiveness</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mystery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="latency">
+			<sg number="1">
+				<word number="1" paraRef="latency" headRef="551">latency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snake in the grass</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="secret" headRef="559">secret</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stowaway</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="conceal">
+			<sg number="1">
+				<word number="1">conceal</word>
+				<word number="2">hide</word>
+				<word number="3">secrete</word>
+				<word number="4">put out of sight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lock up</word>
+				<word number="2">seal up</word>
+				<word number="3">bottle up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="encrypt">
+			<sg number="1">
+				<word number="1">encrypt</word>
+				<word number="2">encode</word>
+				<word number="3">cipher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cover">
+			<sg number="1">
+				<word number="1">cover</word>
+				<word number="2">screen</word>
+				<word number="3">cloak</word>
+				<word number="4">veil</word>
+				<word number="5">shroud</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cover up one's tracks</word>
+			</sg>
+			<sg number="3">
+				<word number="1">screen from sight</word>
+				<word number="2">screen from observation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drawing the veil</word>
+			</sg>
+			<sg number="5">
+				<word number="1">draw the curtain</word>
+				<word number="2">close the curtain</word>
+			</sg>
+			<sg number="6">
+				<word number="1">curtain</word>
+				<word number="2">shade</word>
+				<word number="3">eclipse</word>
+				<word number="4">throw a view over</word>
+			</sg>
+			<sg number="7">
+				<word number="1">becloud</word>
+				<word number="2">bemask</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mask</word>
+				<word number="2">disguise</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ensconce</word>
+				<word number="2">muffle</word>
+				<word number="3">smother</word>
+			</sg>
+			<sg number="10">
+				<word number="1">befog</word>
+			</sg>
+			<sg number="11">
+				<word number="1">whisper</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">obscure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="keep from">
+			<sg number="1">
+				<word number="1">keep from</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep back</word>
+				<word number="2">keep to oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep snug</word>
+				<word number="2">keep close</word>
+				<word number="3">keep secret</word>
+				<word number="4">keep dark</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bury</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sink</word>
+				<word number="2">suppress</word>
+			</sg>
+			<sg number="6">
+				<word number="1">keep from</word>
+				<word number="2">keep from out of view</word>
+				<word number="3">keep from out of sight</word>
+			</sg>
+			<sg number="7">
+				<word number="1">keep in the shade</word>
+				<word number="2">throw into the shade</word>
+				<word number="3">throw into background</word>
+			</sg>
+			<sg number="8">
+				<word number="1">stifle</word>
+				<word number="2">hush up</word>
+				<word number="3">smother</word>
+				<word number="4">withhold</word>
+				<word number="5">reserve</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fence with a question</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="ignore" headRef="480">ignore</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="keep a secret">
+			<sg number="1">
+				<word number="1">keep a secret</word>
+				<word number="2">keep one's own counsel</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="silence" headRef="611">hold one's tongue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make no sign</word>
+				<word number="2">not let it go further</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not breathe a word</word>
+				<word number="2">not breathe a syllable about</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not let the right hand know what the left is doing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hide one's light under a bushel</word>
+				<word number="2">bury one's talent in a napkin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="keep in the dark">
+			<sg number="1">
+				<word number="1">keep in the dark</word>
+				<word number="2">leave in the dark</word>
+				<word number="3">keep in the ignorance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blind</word>
+				<word number="2">blind the eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blindfold</word>
+				<word number="2">hoodwink</word>
+				<word number="3">mystify</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="render uncertain" headRef="498">puzzle</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deceive" headRef="571">bamboozle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="be concealed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">be concealed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suffer an eclipse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retire from sight</word>
+				<word number="2">couch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hide oneself</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lie hid</word>
+				<word number="2">lie in perdu</word>
+				<word number="3">lie in close</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="ambush" headRef="556">lie in ambush</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="seclude oneself" headRef="932">seclude oneself</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lurk</word>
+				<word number="2">sneak</word>
+				<word number="3">skulk</word>
+				<word number="4">slink</word>
+				<word number="5">prowl</word>
+			</sg>
+			<sg number="9">
+				<word number="1">steal into</word>
+				<word number="2">steal out of</word>
+				<word number="3">steal by</word>
+				<word number="4">steal along</word>
+			</sg>
+			<sg number="10">
+				<word number="1">play at bopeep</word>
+				<word number="2">play at hide and seek</word>
+			</sg>
+			<sg number="11">
+				<word number="1">hide in holes and corners</word>
+			</sg>
+			<sg number="12">
+				<word number="1">still hunt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="concealed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">concealed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hidden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">secret</word>
+				<word number="2">recondite</word>
+				<word number="3">mystic</word>
+				<word number="4">cabalistic</word>
+				<word number="5">occult</word>
+				<word number="6">dark</word>
+				<word number="7" new="1">mystical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cryptic</word>
+				<word number="2">cryptical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">private</word>
+				<word number="2">privy</word>
+				<word number="3">in petto</word>
+				<word number="4">auricular</word>
+				<word number="5">clandestine</word>
+				<word number="6">close</word>
+				<word number="7">inviolate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tortuous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="behind a screen">
+			<sg number="1">
+				<word number="1" paraRef="screen" headRef="556">behind a screen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undercover</word>
+				<word number="2">under an eclipse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in ambush</word>
+				<word number="2">in hiding</word>
+				<word number="3">in disguise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in a cloud</word>
+				<word number="2">in a fog</word>
+				<word number="3">in a mist</word>
+				<word number="4">in a haze</word>
+				<word number="5">in a dark corner</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the shade</word>
+				<word number="2">in the dark</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clouded</word>
+				<word number="2">wrapped in clouds</word>
+				<word number="3">wrapt in clouds</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="invisible" headRef="466">invisible</word>
+			</sg>
+			<sg number="8">
+				<word number="1">buried</word>
+				<word number="2">underground</word>
+				<word number="3">perdu</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="secluded" headRef="932">secluded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="undisclosed">
+			<sg number="1">
+				<word number="1" paraRef="disclosed" headRef="555">undisclosed</word>
+				<word number="2" paraRef="told" headRef="552">untold</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="latent" headRef="551">covert</word>
+			</sg>
+			<sg number="3">
+				<word number="1">untraceable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unintelligible" headRef="544">mysterious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="irrevealable">
+			<sg number="1">
+				<word number="1">irrevealable</word>
+				<word number="2">inviolable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confidential</word>
+			</sg>
+			<sg number="3">
+				<word number="1">esoteric</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not to be spoken of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unmentionable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="obreptitious">
+			<sg number="1">
+				<word number="1">obreptitious</word>
+				<word number="2">furtive</word>
+				<word number="3">stealthy</word>
+				<word number="4">feline</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">skulking</word>
+			</sg>
+			<sg number="3">
+				<word number="1">surreptitious</word>
+				<word number="2">underhand</word>
+				<word number="3">hole and corner</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cunning" headRef="731">sly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">secretive</word>
+				<word number="2">evasive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">reserved</word>
+				<word number="2">reticent</word>
+				<word number="3">uncommunicative</word>
+				<word number="4">buttoned up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">close</word>
+				<word number="2">close as wax</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="taciturn" headRef="611">taciturn</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">elusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="secretly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">secretly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in secret</word>
+				<word number="2">in private</word>
+				<word number="3">in one's sleeve</word>
+				<word number="4">in holes and corners</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">in the dark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="januis clausis">
+			<sg number="1">
+				<word number="1">januis clausis</word>
+				<word number="2">with closed doors</word>
+				<word number="3">a huis clos</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hugger mugger</word>
+				<word number="2">a la derobee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under the cloak of</word>
+				<word number="2">under the rose</word>
+				<word number="3">under the table</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sub rosa</word>
+				<word number="2">en tapinois</word>
+				<word number="3">in the background</word>
+				<word number="4">aside</word>
+				<word number="5">on the sly</word>
+				<word number="6">with bated breath</word>
+				<word number="7">sotto voce</word>
+				<word number="8">in a whisper</word>
+				<word number="9">without beat of drum</word>
+				<word number="10">a la sourdine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="behind the veil">
+			<sg number="1">
+				<word number="1">behind the veil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beyond mortal ken</word>
+				<word number="2">beyond the grave</word>
+				<word number="3">beyond the veil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hid from mortal vision</word>
+			</sg>
+			<sg number="4">
+				<word number="1">into the eternal secret</word>
+				<word number="2">into the realms supersensible</word>
+				<word number="3">into the supreme mystery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="in confidence">
+			<sg number="1">
+				<word number="1">in confidence</word>
+				<word number="2">in strict confidence</word>
+				<word number="3">in strictest confidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">confidentially</word>
+			</sg>
+			<sg number="3">
+				<word number="1">between ourselves</word>
+				<word number="2">between you and me</word>
+			</sg>
+			<sg number="4">
+				<word number="1">between you and me and the bedpost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">entre nous</word>
+				<word number="2">inter nos</word>
+				<word number="3">under the seal of secrecy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">a couvert</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="underhand">
+			<sg number="1">
+				<word number="1">underhand</word>
+				<word number="2">by stealth</word>
+				<word number="3">like a thief in the night</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">stealthily</word>
+			</sg>
+			<sg number="3">
+				<word number="1">behind the scenes</word>
+				<word number="2">behind the curtain</word>
+				<word number="3">behind one's back</word>
+				<word number="4" paraRef="screen" headRef="556">behind a screen</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incognito</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in camera</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="it must go no further">
+			<sg number="1">
+				<word number="1">it must go no further</word>
+				<word number="2">it will go no further</word>
+			</sg>
+			<sg number="2">
+				<word number="1">don't tell a soul</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"tell it not in Gath"</word>
+				<word number="2">nobody the wiser</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alitur vitium vivitque tegendo</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"let it be tenable in your silence still"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="background information">
+			<sg number="1">
+				<word number="1">background information</word>
+				<word number="2">deep background information</word>
+				<word number="3">deep background</word>
+			</sg>
+			<sg number="2">
+				<word number="1">background session</word>
+				<word number="2">backgrounder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not for attribution</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

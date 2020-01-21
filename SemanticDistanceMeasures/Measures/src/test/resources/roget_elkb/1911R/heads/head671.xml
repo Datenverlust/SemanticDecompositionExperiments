@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="671" name="Importance" origNum="#642." class="6" section="2" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="importance">
+			<sg number="1">
+				<word number="1">importance</word>
+				<word number="2">consequence</word>
+				<word number="3">moment</word>
+				<word number="4">prominence</word>
+				<word number="5">consideration</word>
+				<word number="6">mark</word>
+				<word number="7">materialness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="import">
+			<sg number="1">
+				<word number="1">import</word>
+				<word number="2">significance</word>
+				<word number="3">concern</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emphasis</word>
+				<word number="2">interest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="greatness">
+			<sg number="1">
+				<word number="1" paraRef="greatness" headRef="33">greatness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="superiority" headRef="35">superiority</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="repute" headRef="912">notability</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="influence" headRef="182">weight</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="goodness" headRef="677">value</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="usefulness" headRef="673">usefulness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="gravity">
+			<sg number="1">
+				<word number="1">gravity</word>
+				<word number="2">seriousness</word>
+				<word number="3">solemnity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no joke</word>
+				<word number="2">no laughing matter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pressure</word>
+				<word number="2">urgency</word>
+				<word number="3">stress</word>
+			</sg>
+			<sg number="4">
+				<word number="1">matter of life and death</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="memorabilia">
+			<sg number="1">
+				<word number="1">memorabilia</word>
+				<word number="2">notabilia</word>
+				<word number="3">great doings</word>
+			</sg>
+			<sg number="2">
+				<word number="1">red-letter day</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="great thing">
+			<sg number="1">
+				<word number="1">great thing</word>
+				<word number="2">great point</word>
+			</sg>
+			<sg number="2">
+				<word number="1">main chance</word>
+				<word number="2">"the be all and the end all"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cardinal point</word>
+			</sg>
+			<sg number="4">
+				<word number="1">substance</word>
+				<word number="2" paraRef="essence" headRef="5">gist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sum and substance</word>
+				<word number="2">gravamen</word>
+				<word number="3">head and front</word>
+			</sg>
+			<sg number="6">
+				<word number="1">important part</word>
+				<word number="2">principal part</word>
+				<word number="3">prominent part</word>
+				<word number="4">essential part</word>
+			</sg>
+			<sg number="7">
+				<word number="1">half the battle</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sine qua non</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="life" headRef="371">breath of one's nostrils</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cream</word>
+				<word number="2">salt</word>
+				<word number="3">core</word>
+				<word number="4">kernel</word>
+				<word number="5">heart</word>
+				<word number="6">nucleus</word>
+			</sg>
+			<sg number="11">
+				<word number="1">keynote</word>
+				<word number="2">keystone</word>
+			</sg>
+			<sg number="12">
+				<word number="1">corner stone</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="device" headRef="655">trump card</word>
+			</sg>
+			<sg number="14">
+				<word number="1">salient points</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="top sawyer">
+			<sg number="1">
+				<word number="1">top sawyer</word>
+				<word number="2">first fiddle</word>
+				<word number="3">prima donna</word>
+				<word number="4">chief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">triton among the minnows</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"it"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be important">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be important</word>
+				<word number="2">be somebody</word>
+				<word number="3">be something</word>
+			</sg>
+			<sg number="2">
+				<word number="1">import</word>
+				<word number="2">signify</word>
+				<word number="3">matter</word>
+				<word number="4">boot</word>
+				<word number="5">be an object</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="influence" headRef="182">carry weight</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="repute" headRef="912">make a figure</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be in the ascendant</word>
+				<word number="2">come to the front</word>
+				<word number="3">lead the way</word>
+				<word number="4">take the lead</word>
+				<word number="5">play first fiddle</word>
+				<word number="6">throw all else into the shade</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lie at the root of</word>
+			</sg>
+			<sg number="7">
+				<word number="1">deserve notice</word>
+				<word number="2">merit notice</word>
+				<word number="3">be worthy of notice</word>
+				<word number="4">be worthy of regard</word>
+				<word number="5">be worthy of consideration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attach importance to">
+			<sg number="1">
+				<word number="1">attach importance to</word>
+				<word number="2">ascribe importance to</word>
+				<word number="3" paraRef="" posRef="n.">give importance to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">value</word>
+				<word number="2">care for</word>
+				<word number="3">set store upon</word>
+				<word number="4">set store by</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="mark" headRef="576">mark</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mark with a white stone</word>
+				<word number="2">underline</word>
+			</sg>
+			<sg number="5">
+				<word number="1">write in italics</word>
+				<word number="2">put in italics</word>
+				<word number="3">print in italics</word>
+				<word number="4">print in capitals</word>
+				<word number="5">print in large letters</word>
+				<word number="6">put in large type</word>
+				<word number="7">put in letters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="of gold">
+			<sg number="1">
+				<word number="1">of gold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accentuate</word>
+				<word number="2">emphasize</word>
+				<word number="3">lay stress on</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="make a fuss about">
+			<sg number="1">
+				<word number="1">make a fuss about</word>
+				<word number="2">make a fuss over</word>
+				<word number="3">make a stir about</word>
+				<word number="4">make a piece of work about</word>
+				<word number="5">make much ado about</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make much ado of</word>
+				<word number="2">make much of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="important">
+			<sg number="1">
+				<word number="1">important</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">of importance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">momentous</word>
+				<word number="2">material</word>
+			</sg>
+			<sg number="4">
+				<word number="1">to the point</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not to be overlooked</word>
+				<word number="2">not to be despised</word>
+				<word number="3">not to be sneezed at</word>
+			</sg>
+			<sg number="6">
+				<word number="1">egregious</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="influential" headRef="182">weighty</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="repute" headRef="912">of note</word>
+			</sg>
+			<sg number="9">
+				<word number="1">notable</word>
+				<word number="2">prominent</word>
+				<word number="3">salient</word>
+				<word number="4">signal</word>
+			</sg>
+			<sg number="10">
+				<word number="1">memorable</word>
+				<word number="2">remarkable</word>
+				<word number="3" new="1">embryonal</word>
+			</sg>
+			<sg number="11">
+				<word number="1">unforgettable</word>
+			</sg>
+			<sg number="12">
+				<word number="1">worthy of remark</word>
+				<word number="2">worthy of notice</word>
+			</sg>
+			<sg number="13">
+				<word number="1">never to be forgotten</word>
+			</sg>
+			<sg number="14">
+				<word number="1">stirring</word>
+				<word number="2">eventful</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">descriptively</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="grave">
+			<sg number="1">
+				<word number="1">grave</word>
+				<word number="2">serious</word>
+				<word number="3">earnest</word>
+				<word number="4">noble</word>
+				<word number="5">grand</word>
+				<word number="6">solemn</word>
+				<word number="7">impressive</word>
+				<word number="8">commanding</word>
+				<word number="9">imposing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="urgent">
+			<sg number="1">
+				<word number="1">urgent</word>
+				<word number="2">pressing</word>
+				<word number="3">critical</word>
+				<word number="4">instant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="paramount">
+			<sg number="1">
+				<word number="1">paramount</word>
+				<word number="2">essential</word>
+				<word number="3">vital</word>
+				<word number="4">all-absorbing</word>
+				<word number="5">radical</word>
+				<word number="6">cardinal</word>
+				<word number="7">chief</word>
+				<word number="8">main</word>
+				<word number="9">prime</word>
+				<word number="10">primary</word>
+				<word number="11">principal</word>
+				<word number="12">leading</word>
+				<word number="13">capital</word>
+				<word number="14">foremost</word>
+				<word number="15">overruling</word>
+				<word number="16" new="1">christlike</word>
+				<word number="17" new="1">noncommissioned</word>
+				<word number="18" new="1">unproductive</word>
+				<word number="19" new="1">membered</word>
+				<word number="20" new="1">matrilineal</word>
+				<word number="21" new="1">exasperating</word>
+				<word number="22" new="1">territorially</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of vital importance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="in the front rank">
+			<sg number="1">
+				<word number="1">in the front rank</word>
+				<word number="2">first-rate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="superior" headRef="35">superior</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="great" headRef="33">considerable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">marked</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="rare" headRef="144">rare</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="significant">
+			<sg number="1">
+				<word number="1">significant</word>
+				<word number="2">telling</word>
+				<word number="3">trenchant</word>
+				<word number="4">emphatic</word>
+				<word number="5">pregnant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tanti</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="materially">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">materially</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the main</word>
+			</sg>
+			<sg number="3">
+				<word number="1">above all</word>
+				<word number="2">par excellence</word>
+				<word number="3">to crown all</word>
+				<word number="4">to beat all</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="expende Hannibalem">
+			<sg number="1">
+				<word number="1">expende Hannibalem!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

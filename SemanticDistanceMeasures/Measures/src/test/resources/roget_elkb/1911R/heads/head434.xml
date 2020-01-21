@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="434" name="Musician" origNum="#416." class="3" section="3" subSection="2" headGroup="25">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="musician">
+			<sg number="1">
+				<word number="1">musician</word>
+				<word number="2">artiste</word>
+				<word number="3">performer</word>
+				<word number="4">player</word>
+				<word number="5">minstrel</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="poet" headRef="623">bard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">accompanist</word>
+				<word number="2">accordionist</word>
+				<word number="3">instrumentalist</word>
+				<word number="4">organist</word>
+				<word number="5">pianist</word>
+				<word number="6">violinist</word>
+				<word number="7">flautist</word>
+				<word number="8" new="1">treasure</word>
+				<word number="9" new="1">capitulars</word>
+				<word number="10" new="1">minimal</word>
+				<word number="11" new="1">gentis</word>
+				<word number="12" new="1">manganese</word>
+				<word number="13" new="1">rave</word>
+				<word number="14" new="1">range</word>
+				<word number="15" new="1">tulku</word>
+			</sg>
+			<sg number="4">
+				<word number="1">harper</word>
+				<word number="2">fiddler</word>
+				<word number="3">fifer</word>
+				<word number="4">trumpeter</word>
+				<word number="5">piper</word>
+				<word number="6">drummer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">catgut scraper</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">longa</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">sex</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">longitude</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">redirects</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">lava</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">hunk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="band">
+			<sg number="1">
+				<word number="1">band</word>
+				<word number="2">orchestral waits</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vocalist">
+			<sg number="1">
+				<word number="1">vocalist</word>
+				<word number="2">melodist</word>
+			</sg>
+			<sg number="2">
+				<word number="1">singer</word>
+				<word number="2">warbler</word>
+			</sg>
+			<sg number="3">
+				<word number="1">songster</word>
+				<word number="2">chaunter</word>
+				<word number="3">chauntress</word>
+				<word number="4">songstress</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cantatrice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="choir">
+			<sg number="1">
+				<word number="1">choir</word>
+				<word number="2">quire</word>
+				<word number="3">chorister</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chorus</word>
+				<word number="2">chorus singer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">liedertafel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="nightingale">
+			<sg number="1">
+				<word number="1">nightingale</word>
+				<word number="2">philomel</word>
+				<word number="3">thrush</word>
+			</sg>
+			<sg number="2">
+				<word number="1">siren</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bulbul</word>
+				<word number="2">mavis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Pierides</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sacred nine</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Orpheus</word>
+				<word number="2">Apollo</word>
+				<word number="3">the Muses Erato</word>
+				<word number="4">Euterpe</word>
+				<word number="5">Terpsichore</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tuneful nine</word>
+				<word number="2">tuneful quire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="composer">
+			<sg number="1">
+				<word number="1" paraRef="composer" headRef="431">composer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="performance">
+			<sg number="1">
+				<word number="1">performance</word>
+				<word number="2">execution</word>
+				<word number="3">touch</word>
+				<word number="4">expression</word>
+				<word number="5">solmization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="latissimus">
+			<sg number="1">
+				<word number="1" new="1">latissimus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="trie">
+			<sg number="1">
+				<word number="1" new="1">trie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="quiescence">
+			<sg number="1">
+				<word number="1" new="1">quiescence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="play">
+			<sg number="1">
+				<word number="1">play</word>
+				<word number="2">pipe</word>
+				<word number="3">strike up</word>
+				<word number="4">sweep the chords</word>
+				<word number="5">tweedle</word>
+				<word number="6">fiddle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strike the lyre</word>
+				<word number="2">beat the drum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blow the horn</word>
+				<word number="2">sound the horn</word>
+				<word number="3">wind the horn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">doodle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grind the organ</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="musical instruments" headRef="435">touch the guitar</word>
+			</sg>
+			<sg number="7">
+				<word number="1">thrum</word>
+				<word number="2">strum</word>
+				<word number="3">beat time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="execute">
+			<sg number="1">
+				<word number="1">execute</word>
+				<word number="2">perform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accompany</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sing a second</word>
+				<word number="2">play a second</word>
+			</sg>
+			<sg number="4">
+				<word number="1">compose</word>
+				<word number="2">set to music</word>
+				<word number="3">arrange</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">author</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sing">
+			<sg number="1">
+				<word number="1">sing</word>
+				<word number="2">chaunt</word>
+				<word number="3">chant</word>
+				<word number="4">hum</word>
+				<word number="5">warble</word>
+				<word number="6">carol</word>
+				<word number="7">chirp</word>
+				<word number="8">chirrup</word>
+				<word number="9">lilt</word>
+				<word number="10">purl</word>
+				<word number="11">quaver</word>
+				<word number="12">trill</word>
+				<word number="13">shake</word>
+				<word number="14">twitter</word>
+				<word number="15">whistle</word>
+				<word number="16" new="1">splotch</word>
+				<word number="17" new="1">sentimentalise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sol-fa</word>
+			</sg>
+			<sg number="3">
+				<word number="1">intone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="have an ear for music">
+			<sg number="1">
+				<word number="1">have an ear for music</word>
+				<word number="2">have  a musical ear</word>
+				<word number="3">have  a correct ear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="playing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">playing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">musical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="adagio">
+			<sg number="1">
+				<word number="1">adagio</word>
+				<word number="2" paraRef="music" headRef="433">andante</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

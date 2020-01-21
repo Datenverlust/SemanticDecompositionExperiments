@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="713" name="Haste" origNum="#684." class="6" section="3" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="haste">
+			<sg number="1">
+				<word number="1">haste</word>
+				<word number="2">urgency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">despatch</word>
+				<word number="2">dispatch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acceleration</word>
+				<word number="2">spurt</word>
+				<word number="3">spirt</word>
+				<word number="4">forced march</word>
+				<word number="5">rush</word>
+				<word number="6">dash</word>
+			</sg>
+			<sg number="4">
+				<word number="1">speed</word>
+				<word number="2" paraRef="velocity" headRef="285">velocity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">precipitancy</word>
+				<word number="2">precipitation</word>
+				<word number="3" paraRef="" posRef="adj.">precipitousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">impetuosity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">brusquerie</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hurry</word>
+				<word number="2">drive</word>
+				<word number="3">scramble</word>
+				<word number="4">bustle</word>
+				<word number="5">fuss</word>
+				<word number="6">fidget</word>
+				<word number="7">flurry</word>
+				<word number="8">flutter</word>
+				<word number="9">splutter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="haste">
+			<sg number="1">
+				<word number="1">haste</word>
+				<word number="2">hasten</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make haste</word>
+				<word number="2" paraRef="" posRef="n.">make a dash</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hurry on</word>
+				<word number="2">dash on</word>
+				<word number="3">whip on</word>
+				<word number="4">push on</word>
+				<word number="5">press on</word>
+				<word number="6">press forward</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hurry</word>
+				<word number="2">skurry</word>
+				<word number="3">scuttle along</word>
+				<word number="4">barrel along</word>
+				<word number="5">bundle on</word>
+				<word number="6">dart to and fro</word>
+				<word number="7">bustle</word>
+				<word number="8">flutter</word>
+				<word number="9">scramble</word>
+			</sg>
+			<sg number="5">
+				<word number="1">plunge</word>
+				<word number="2">plunge headlong</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dash off</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="violence" headRef="180">rush</word>
+			</sg>
+			<sg number="8">
+				<word number="1">express</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bestir oneself">
+			<sg number="1">
+				<word number="1" paraRef="be active" headRef="711">bestir oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lose no time</word>
+				<word number="2">lose not a moment</word>
+				<word number="3">lose not an instant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make short work of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make the best of one's time</word>
+				<word number="2">make the best of one's way</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be precipitate">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be precipitate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jump at</word>
+				<word number="2">be in haste</word>
+				<word number="3" paraRef="" posRef="n.">be in a hurry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have no time</word>
+				<word number="2">have not a moment to lose</word>
+				<word number="3">have not a moment to spare</word>
+			</sg>
+			<sg number="4">
+				<word number="1">work against time</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="quicken">
+			<sg number="1">
+				<word number="1" paraRef="quicken" headRef="285">quicken</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accelerate</word>
+				<word number="2">expedite</word>
+				<word number="3">put on</word>
+				<word number="4">precipitate</word>
+				<word number="5">urge</word>
+				<word number="6">whip</word>
+			</sg>
+			<sg number="3">
+				<word number="1">railroad</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="hasty">
+			<sg number="1">
+				<word number="1">hasty</word>
+				<word number="2">hurried</word>
+				<word number="3">brusque</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scrambling</word>
+				<word number="2">cursory</word>
+				<word number="3">precipitate</word>
+				<word number="4">headlong</word>
+				<word number="5">furious</word>
+				<word number="6">boisterous</word>
+				<word number="7">impetuous</word>
+				<word number="8">hotheaded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">feverish</word>
+				<word number="2">fussy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pushing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in haste">
+			<sg number="1">
+				<word number="1">in haste</word>
+				<word number="2" paraRef="" posRef="n.">in a hurry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in hot haste</word>
+				<word number="2">in all haste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">breathless</word>
+				<word number="2">pressed for time</word>
+				<word number="3">hard pressed</word>
+				<word number="4">urgent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with haste">
+			<sg number="1">
+				<word number="1">with haste</word>
+				<word number="2">with all haste</word>
+				<word number="3">with breathless speed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">in haste</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="swiftly" headRef="285">apace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amain</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="instantaneously" headRef="119">all at once</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="early" headRef="138">at short notice</word>
+				<word number="2" paraRef="early" headRef="138">immediately</word>
+			</sg>
+			<sg number="7">
+				<word number="1">posthaste</word>
+			</sg>
+			<sg number="8">
+				<word number="1">by cable</word>
+				<word number="2">by express</word>
+				<word number="3">by telegraph</word>
+				<word number="4">by forced marches</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hastily">
+			<sg number="1">
+				<word number="1">hastily</word>
+				<word number="2" paraRef="" posRef="adj.">precipitately</word>
+			</sg>
+			<sg number="2">
+				<word number="1">helter-skelter</word>
+				<word number="2">hurry-skurry</word>
+				<word number="3">holus-bolus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slapdash</word>
+				<word number="2">slap-bang</word>
+			</sg>
+			<sg number="4">
+				<word number="1">full-tilt</word>
+				<word number="2">full drive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heels over head</word>
+				<word number="2">head and shoulders</word>
+				<word number="3">headlong</word>
+				<word number="4">a corps perdu</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="by fits and starts">
+			<sg number="1">
+				<word number="1">by fits and starts</word>
+				<word number="2">by spurts</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hop skip and jump</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="sauve qui peut">
+			<sg number="1">
+				<word number="1">sauve qui peut</word>
+				<word number="2">devil take the hindmost</word>
+				<word number="3">no time to be lost</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="early" headRef="138">no sooner said than done</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a word and a blow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">haste makes waste</word>
+				<word number="2">maggiore  fretta minore atto</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ohne Hast aber ohne Rast</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"stand not upon the order of your going but go at once"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"swift</word>
+				<word number="2">swift</word>
+				<word number="3">you dragons of the night"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

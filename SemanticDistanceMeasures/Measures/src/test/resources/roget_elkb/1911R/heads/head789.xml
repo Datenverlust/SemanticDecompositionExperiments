@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="789" name="Consignee" origNum="#758." class="7" section="1" subSection="1" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="consignee">
+			<sg number="1">
+				<word number="1">consignee</word>
+				<word number="2">trustee</word>
+				<word number="3">nominee</word>
+				<word number="4">committee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="agent">
+			<sg number="1">
+				<word number="1">agent</word>
+				<word number="2">delegate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commissary</word>
+				<word number="2">commissioner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">emissary</word>
+				<word number="2">envoy</word>
+				<word number="3">commissionaire</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="messenger" headRef="560">messenger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="diplomatist">
+			<sg number="1">
+				<word number="1">diplomatist</word>
+				<word number="2">diplomat(e)</word>
+				<word number="3">corps diplomatique</word>
+				<word number="4">embassy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ambassador</word>
+				<word number="2">embassador</word>
+			</sg>
+			<sg number="3">
+				<word number="1">representative</word>
+				<word number="2">resident</word>
+				<word number="3">consul</word>
+				<word number="4">legate</word>
+				<word number="5">nuncio</word>
+				<word number="6">internuncio</word>
+				<word number="7">charge d'affaires</word>
+				<word number="8">attache</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">urinalysis</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">nonet</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">sophistry</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">stonework</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="vicegerent">
+			<sg number="1">
+				<word number="1" paraRef="deputy" headRef="790">vicegerent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plenipotentiary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="functionary">
+			<sg number="1">
+				<word number="1">functionary</word>
+				<word number="2">placeman</word>
+				<word number="3">curator</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="treasurer" headRef="836">treasurer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">factor</word>
+				<word number="2">bailiff</word>
+				<word number="3">clerk</word>
+				<word number="4">secretary</word>
+				<word number="5">attorney</word>
+				<word number="6">advocate</word>
+				<word number="7">solicitor</word>
+				<word number="8">proctor</word>
+				<word number="9">broker</word>
+				<word number="10">underwriter</word>
+				<word number="11">commission agent</word>
+				<word number="12">auctioneer</word>
+				<word number="13">one's man of business</word>
+				<word number="14" new="1">voseo</word>
+				<word number="15" new="1">haunch</word>
+				<word number="16" new="1">stereo</word>
+				<word number="17" new="1">shaper</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="director" headRef="723">factotum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">caretaker</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dalal</word>
+				<word number="2">dubash</word>
+				<word number="3">garnishee</word>
+				<word number="4">gomashta</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">visionary</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">amanuensis</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">splatter</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">venule</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">superteam</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">registration</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">jawline</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">mammy</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">leidang</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="negotiator">
+			<sg number="1">
+				<word number="1">negotiator</word>
+				<word number="2">go-between</word>
+			</sg>
+			<sg number="2">
+				<word number="1">middleman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under agent</word>
+				<word number="2">employe</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="servant" headRef="777">servant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">referee</word>
+				<word number="2" paraRef="judge" headRef="1010">arbitrator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="traveler">
+			<sg number="1">
+				<word number="1">traveler</word>
+				<word number="2">bagman</word>
+				<word number="3">commis-voyageur</word>
+				<word number="4">touter</word>
+				<word number="5">commercial traveler</word>
+				<word number="6">drummer</word>
+				<word number="7">traveling man</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="newspaper correspondent">
+			<sg number="1">
+				<word number="1">newspaper correspondent</word>
+				<word number="2">own correspondent</word>
+				<word number="3">special correspondent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="digit">
+			<sg number="1">
+				<word number="1" new="1">digit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="crankshaft">
+			<sg number="1">
+				<word number="1" new="1">crankshaft</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="subchannel">
+			<sg number="1">
+				<word number="1" new="1">subchannel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="summarise">
+			<sg number="1">
+				<word number="1" new="1">summarise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="pollen">
+			<sg number="1">
+				<word number="1" new="1">pollen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="unicycle">
+			<sg number="1">
+				<word number="1" new="1">unicycle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="gamas">
+			<sg number="1">
+				<word number="1" new="1">gamas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="objectivity">
+			<sg number="1">
+				<word number="1" new="1">objectivity</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

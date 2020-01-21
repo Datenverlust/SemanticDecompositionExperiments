@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="683" name="Health" origNum="#654." class="6" section="2" subSection="2" headGroup="16">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="health">
+			<sg number="1">
+				<word number="1">health</word>
+				<word number="2">sanity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">soundness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vigor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good health</word>
+				<word number="2">perfect health</word>
+				<word number="3">excellent health</word>
+				<word number="4">rude health</word>
+				<word number="5">robust health</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bloom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mens sana in corpore sano">
+			<sg number="1">
+				<word number="1">mens sana in corpore sano</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Hygeia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incorruption</word>
+				<word number="2">incorruptibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good state of health</word>
+				<word number="2">clean bill of health</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eupepsia</word>
+			</sg>
+			<sg number="6">
+				<word number="1">euphoria</word>
+				<word number="2">euphory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">St Anthony's fire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be in health">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be in health</word>
+				<word number="2">flourish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep body and soul together">
+			<sg number="1">
+				<word number="1">keep body and soul together</word>
+				<word number="2">keep on one's legs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enjoy good health</word>
+				<word number="2">enjoy a good state of health</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have a clean bill of health</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="return to health">
+			<sg number="1">
+				<word number="1">return to health</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recover" headRef="689">recover</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="improve" headRef="687">get better</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take a new lease of life</word>
+				<word number="2">fresh lease of life</word>
+			</sg>
+			<sg number="5">
+				<word number="1">recruit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">restore to health</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="restore" headRef="689">cure</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tinker</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="healthy">
+			<sg number="1">
+				<word number="1">healthy</word>
+				<word number="2">healthful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">in health</word>
+			</sg>
+			<sg number="3">
+				<word number="1">well</word>
+				<word number="2">sound</word>
+				<word number="3">hearty</word>
+				<word number="4">hale</word>
+				<word number="5">fresh</word>
+				<word number="6">green</word>
+				<word number="7">whole</word>
+			</sg>
+			<sg number="4">
+				<word number="1">florid</word>
+				<word number="2">flush</word>
+				<word number="3">hardy</word>
+				<word number="4">stanch</word>
+				<word number="5">staunch</word>
+				<word number="6">brave</word>
+				<word number="7">robust</word>
+				<word number="8">vigorous</word>
+				<word number="9">weatherproof</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unscathed">
+			<sg number="1">
+				<word number="1">unscathed</word>
+				<word number="2">uninjured</word>
+				<word number="3">unmaimed</word>
+				<word number="4">unmarred</word>
+				<word number="5">untainted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sound of wind and limb</word>
+				<word number="2">safe and sound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="on one's legs">
+			<sg number="1">
+				<word number="1">on one's legs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sound as a roach</word>
+				<word number="2">sound as a bell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fresh as a daisy</word>
+				<word number="2">fresh as a rose</word>
+				<word number="3">fresh as April</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hearty as a buck</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in fine feather</word>
+				<word number="2">in high feather</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in good case</word>
+				<word number="2">in full bloom</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pretty bobbish</word>
+				<word number="2">tolerably well</word>
+				<word number="3">as well as can be expected</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sanitary">
+			<sg number="1">
+				<word number="1" paraRef="healthful" headRef="685">sanitary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="remedial" headRef="691">sanatory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="health that snuffs the morning air">
+			<sg number="1">
+				<word number="1">"health that snuffs the morning air"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">non est vivere sed valere vita</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

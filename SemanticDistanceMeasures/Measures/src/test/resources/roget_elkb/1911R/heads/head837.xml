@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="837" name="Treasury" origNum="#802." class="7" section="4" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="treasury">
+			<sg number="1">
+				<word number="1">treasury</word>
+				<word number="2">bank</word>
+				<word number="3">exchequer</word>
+				<word number="4">fisc</word>
+				<word number="5">hanaper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cash register</word>
+				<word number="2">kutcherry</word>
+				<word number="3">bursary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strong box</word>
+				<word number="2">strong hold</word>
+				<word number="3">strong room</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coffer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="receptacle" headRef="200">chest</word>
+			</sg>
+			<sg number="6">
+				<word number="1">safe</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bank vault</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="depository" headRef="665">depository</word>
+			</sg>
+			<sg number="9">
+				<word number="1">till</word>
+				<word number="2">tiller</word>
+			</sg>
+			<sg number="10">
+				<word number="1">purse</word>
+			</sg>
+			<sg number="11">
+				<word number="1">money bag</word>
+				<word number="2">money box</word>
+			</sg>
+			<sg number="12">
+				<word number="1">porte-monnaie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="purse strings">
+			<sg number="1">
+				<word number="1">purse strings</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pocket</word>
+				<word number="2">breeches pocket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sinking fund">
+			<sg number="1">
+				<word number="1">sinking fund</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stocks</word>
+			</sg>
+			<sg number="3">
+				<word number="1">public stocks</word>
+				<word number="2">public funds</word>
+				<word number="3">public securities</word>
+				<word number="4">parliamentary stocks</word>
+				<word number="5">parliamentary funds</word>
+				<word number="6">parliamentary securities</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Consols</word>
+				<word number="2">credit mobilier</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bonds</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

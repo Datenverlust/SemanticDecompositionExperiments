@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="877" name="Lamentation" origNum="#839." class="8" section="2" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lament">
+			<sg number="1">
+				<word number="1">lament</word>
+				<word number="2">lamentation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wail</word>
+				<word number="2">complaint</word>
+				<word number="3">plaint</word>
+				<word number="4">murmur</word>
+				<word number="5">mutter</word>
+				<word number="6">grumble</word>
+				<word number="7">groan</word>
+				<word number="8">moan</word>
+				<word number="9">whine</word>
+				<word number="10">whimper</word>
+				<word number="11">sob</word>
+				<word number="12">sigh</word>
+				<word number="13">suspiration</word>
+				<word number="14">heaving</word>
+				<word number="15">deep sigh</word>
+				<word number="16" new="1">topgallant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cry">
+			<sg number="1">
+				<word number="1" paraRef="vociferation" headRef="429">cry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scream</word>
+				<word number="2">howl</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outcry</word>
+				<word number="2">wail of woe</word>
+				<word number="3">ululation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">frown</word>
+				<word number="2">scowl</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">madwoman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tear">
+			<sg number="1">
+				<word number="1">tear</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">weeping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flood of tears</word>
+				<word number="2">fit of crying</word>
+				<word number="3">lacrimation</word>
+				<word number="4">lachrymation</word>
+				<word number="5">melting mood</word>
+				<word number="6">weeping and gnashing of teeth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="plaintiveness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">plaintiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">languishment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="condolence" headRef="956">condolence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="mourning">
+			<sg number="1">
+				<word number="1">mourning</word>
+				<word number="2">weeds</word>
+				<word number="3">willow</word>
+				<word number="4">cypress</word>
+				<word number="5">crape</word>
+				<word number="6">deep mourning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sackcloth and ashes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lachrymatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="toll the knell" headRef="375">knell</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deep death song</word>
+				<word number="2">dirge</word>
+				<word number="3">coronach</word>
+				<word number="4">nenia</word>
+				<word number="5">requiem</word>
+				<word number="6">elegy</word>
+				<word number="7">epicedium</word>
+			</sg>
+			<sg number="6">
+				<word number="1">threne</word>
+			</sg>
+			<sg number="7">
+				<word number="1">monody</word>
+				<word number="2">threnody</word>
+			</sg>
+			<sg number="8">
+				<word number="1">jeremiad</word>
+				<word number="2">jeremiade!</word>
+			</sg>
+			<sg number="9">
+				<word number="1">ullalulla</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="mourner">
+			<sg number="1">
+				<word number="1">mourner</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discontent" headRef="870">grumbler</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Noobe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Heraclitus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="multipoint">
+			<sg number="1">
+				<word number="1" new="1">multipoint</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="pathogen">
+			<sg number="1">
+				<word number="1" new="1">pathogen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="lament">
+			<sg number="1">
+				<word number="1">lament</word>
+				<word number="2">mourn</word>
+				<word number="3">deplore</word>
+				<word number="4">grieve</word>
+				<word number="5">weep over</word>
+				<word number="6" new="1">destroy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bewail</word>
+				<word number="2">bemoan</word>
+				<word number="3" new="1">surrender</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="condole with" headRef="956">condole with</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="suffer" headRef="866">fret</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wear mourning</word>
+				<word number="2">go into mourning</word>
+				<word number="3">put on mourning</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wear the willow</word>
+				<word number="2">wear sackcloth and ashes</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="regret" headRef="871">infandum renovare dolorem</word>
+			</sg>
+			<sg number="8">
+				<word number="1">give sorrow words</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sigh">
+			<sg number="1">
+				<word number="1">sigh</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give a sigh</word>
+				<word number="2">heave</word>
+				<word number="3">fetch a sigh</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"waft a sigh from Indus to the pole"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sigh "like a furnace"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cry">
+			<sg number="1">
+				<word number="1">cry</word>
+				<word number="2">weep</word>
+				<word number="3">sob</word>
+				<word number="4">greet</word>
+				<word number="5">blubber</word>
+				<word number="6">pipe</word>
+				<word number="7">snivel</word>
+				<word number="8">bibber</word>
+				<word number="9">whimper</word>
+				<word number="10">pule</word>
+				<word number="11" new="1">peroxide</word>
+				<word number="12" new="1">suburbanize</word>
+				<word number="13" new="1">brainstorm</word>
+				<word number="14" new="1">station</word>
+				<word number="15" new="1">rape</word>
+				<word number="16" new="1">founder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pipe one's eye</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drop tears</word>
+				<word number="2">shed tears</word>
+				<word number="3">drop a tear</word>
+				<word number="4">shed a tear</word>
+			</sg>
+			<sg number="4">
+				<word number="1">melt into tears</word>
+				<word number="2">burst into tears</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fondre en larmes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cry oneself blind</word>
+				<word number="2">cry one's eyes out</word>
+			</sg>
+			<sg number="7">
+				<word number="1">yammer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="scream">
+			<sg number="1">
+				<word number="1" paraRef="cry out" headRef="429">scream</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="animal sounds" headRef="430">mew</word>
+			</sg>
+			<sg number="3">
+				<word number="1">groan</word>
+				<word number="2">moan</word>
+				<word number="3">whine</word>
+				<word number="4" new="1">unclasp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">roar</word>
+			</sg>
+			<sg number="5">
+				<word number="1">roar like a bull</word>
+				<word number="2">bellow like a bull</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cry out lustily</word>
+				<word number="2">rend the air</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">overcharge</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">rave</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">userfy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="frown">
+			<sg number="1">
+				<word number="1">frown</word>
+				<word number="2">scowl</word>
+				<word number="3">make a wry face</word>
+				<word number="4">gnash one's teeth</word>
+				<word number="5">wring one's hands</word>
+				<word number="6">tear one's hair</word>
+				<word number="7">beat one's breast</word>
+				<word number="8">roll on the ground</word>
+				<word number="9">burst with grief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="complain">
+			<sg number="1">
+				<word number="1">complain</word>
+				<word number="2">murmur</word>
+				<word number="3">mutter</word>
+				<word number="4">grumble</word>
+				<word number="5">growl</word>
+				<word number="6">clamor</word>
+				<word number="7">make a fuss about</word>
+				<word number="8">croak</word>
+				<word number="9">grunt</word>
+				<word number="10">maunder</word>
+				<word number="11" new="1">collimate</word>
+				<word number="12" new="1">broadcast</word>
+				<word number="13" new="1">deemphasize</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disapprove" headRef="974">deprecate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cry out before one is hurt">
+			<sg number="1">
+				<word number="1">cry out before one is hurt</word>
+				<word number="2">complain without cause</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="interoperate">
+			<sg number="1">
+				<word number="1" new="1">interoperate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lamenting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lamenting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in mourning</word>
+				<word number="2">in sackcloth and ashes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sorrowing</word>
+				<word number="2" paraRef="unhappy" headRef="866">sorrowful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mournful</word>
+				<word number="2">tearful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lachrymose</word>
+			</sg>
+			<sg number="6">
+				<word number="1">plaintive</word>
+				<word number="2">plaintful</word>
+			</sg>
+			<sg number="7">
+				<word number="1">querulous</word>
+				<word number="2">querimonious</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in the melting mood</word>
+			</sg>
+			<sg number="9">
+				<word number="1">threnetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in tears">
+			<sg number="1">
+				<word number="1">in tears</word>
+				<word number="2">with tears in one's eyes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with moistened eyes</word>
+				<word number="2">with watery eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bathed in tears</word>
+				<word number="2">dissolved in tears</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"like Niobe all tears"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="elegiac">
+			<sg number="1">
+				<word number="1">elegiac</word>
+				<word number="2">epicedial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="de profundis">
+			<sg number="1">
+				<word number="1">de profundis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">les larmes aux yeux</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="heigh-ho">
+			<sg number="1">
+				<word number="1">heigh-ho!</word>
+				<word number="2">alas!</word>
+				<word number="3">alack!</word>
+				<word number="4">O dear!</word>
+				<word number="5">ah me!</word>
+				<word number="6">woe is me!</word>
+				<word number="7">lackadaisy!</word>
+				<word number="8">well a day!</word>
+				<word number="9">lack a day!</word>
+				<word number="10">alack a day!</word>
+				<word number="11">wellaway!</word>
+				<word number="12">alas the day!</word>
+				<word number="13">O tempora O mores!</word>
+				<word number="14">what a pity!</word>
+				<word number="15">miserabile dictu!</word>
+				<word number="16">O lud lud!</word>
+				<word number="17">too true!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="tears standing in the eyes">
+			<sg number="1">
+				<word number="1">tears standing in the eyes</word>
+				<word number="2">tears starting from the eyes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eyes suffused</word>
+				<word number="2">eyes swimming</word>
+				<word number="3">eyes brimming</word>
+				<word number="4">eyes overflowing with tears</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"if you have tears prepare to shed them now"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">interdum lacrymae pondera vocis habent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"strangled his language in his tears"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"tears such as angels weep"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

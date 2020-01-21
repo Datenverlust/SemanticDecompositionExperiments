@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="382" name="Husbandry" origNum="#370." class="3" section="3" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="husbandry">
+			<sg number="1">
+				<word number="1">husbandry</word>
+				<word number="2" paraRef="" posRef="v.">taming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">circuration</word>
+				<word number="2">zoohygiantics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">domestication</word>
+				<word number="2">domesticity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">manege</word>
+				<word number="2">veterinary art</word>
+			</sg>
+			<sg number="5">
+				<word number="1">farriery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">breeding</word>
+				<word number="2">pisciculture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="menagerie">
+			<sg number="1">
+				<word number="1">menagerie</word>
+				<word number="2">vivarium</word>
+				<word number="3">zoological garden</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bear pit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aviary</word>
+				<word number="2">apiary</word>
+				<word number="3">alveary</word>
+				<word number="4">beehive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aquarium</word>
+				<word number="2">fishery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">duck pond</word>
+				<word number="2">fish pond</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="phthisozoics">
+			<sg number="1">
+				<word number="1" paraRef="killing" headRef="373">phthisozoics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">euthanasia</word>
+				<word number="2">sacrifice</word>
+				<word number="3">humane destruction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="neatherd">
+			<sg number="1">
+				<word number="1">neatherd</word>
+				<word number="2">cowherd</word>
+				<word number="3">shepherd</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grazier</word>
+				<word number="2">drover</word>
+				<word number="3">cowkeeper</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trainer</word>
+				<word number="2">breeder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">apiarian</word>
+				<word number="2">apiarist</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bull whacker</word>
+				<word number="2">cowboy</word>
+				<word number="3">cow puncher</word>
+				<word number="4">farrier</word>
+			</sg>
+			<sg number="6">
+				<word number="1">horse leech</word>
+				<word number="2">horse doctor</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vaquero</word>
+				<word number="2">veterinarian</word>
+				<word number="3">vet</word>
+				<word number="4">veterinary surgeon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cage">
+			<sg number="1">
+				<word number="1" paraRef="prison" headRef="783">cage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hencoop</word>
+				<word number="2">bird cage</word>
+				<word number="3">cauf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">range</word>
+				<word number="2" paraRef="inclosure" headRef="242">sheepfold</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="tame">
+			<sg number="1">
+				<word number="1">tame</word>
+				<word number="2">domesticate</word>
+				<word number="3">acclimatize</word>
+				<word number="4">breed</word>
+				<word number="5">tend</word>
+				<word number="6">break in</word>
+				<word number="7">train</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cage</word>
+				<word number="2" paraRef="restrain" headRef="782">bridle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pastoral">
+			<sg number="1">
+				<word number="1">pastoral</word>
+				<word number="2">bucolic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tame</word>
+				<word number="2">domestic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

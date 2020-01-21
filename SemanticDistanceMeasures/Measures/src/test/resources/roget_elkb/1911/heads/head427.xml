@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="427" name="Sibilation" origNum="#409." class="3" section="3" subSection="2" headGroup="22">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sibilance">
+			<sg number="1">
+				<word number="1">sibilance</word>
+				<word number="2">sibilation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">zip</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">hiss</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sternutation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="high note" headRef="428">high note</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="goose">
+			<sg number="1">
+				<word number="1">goose</word>
+				<word number="2">serpent</word>
+				<word number="3" paraRef="animal sounds" headRef="430">snake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="insect">
+			<sg number="1">
+				<word number="1">insect</word>
+				<word number="2">bug</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bee</word>
+				<word number="2">mosquito</word>
+				<word number="3">wasp</word>
+				<word number="4">fly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tea kettle">
+			<sg number="1">
+				<word number="1">tea kettle</word>
+				<word number="2">pressure cooker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air valve</word>
+				<word number="2">pressure release valve</word>
+				<word number="3">safety valve</word>
+				<word number="4">tires</word>
+				<word number="5">air escaping from tires</word>
+				<word number="6">punctured tire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">escaping steam</word>
+				<word number="2">steam</word>
+				<word number="3">steam radiator</word>
+				<word number="4">steam release valve</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="hiss">
+			<sg number="1">
+				<word number="1">hiss</word>
+				<word number="2">buzz</word>
+				<word number="3">whiz</word>
+				<word number="4">rustle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fizz</word>
+				<word number="2">fizzle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wheeze</word>
+				<word number="2">whistle</word>
+				<word number="3">snuffle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">squash</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sneeze</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sizzle</word>
+				<word number="2">swish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sibilant">
+			<sg number="1">
+				<word number="1">sibilant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">hissing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wheezy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sternutative</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

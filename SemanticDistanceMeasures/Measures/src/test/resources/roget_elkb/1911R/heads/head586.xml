@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="586" name="Language" origNum="#560." class="5" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="language">
+			<sg number="1">
+				<word number="1">language</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="phraseology" headRef="595">phraseology</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="speech" headRef="608">speech</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tongue</word>
+				<word number="2">lingo</word>
+				<word number="3">vernacular</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mother tongue</word>
+				<word number="2">vulgar tongue</word>
+				<word number="3">native tongue</word>
+			</sg>
+			<sg number="6">
+				<word number="1">household words</word>
+			</sg>
+			<sg number="7">
+				<word number="1">King's English</word>
+				<word number="2">Queen's English</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="dialect" headRef="589">dialect</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="confusion of tongues">
+			<sg number="1">
+				<word number="1">confusion of tongues</word>
+				<word number="2">Babel</word>
+				<word number="3">pasigraphie</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sign" headRef="576">pantomime</word>
+			</sg>
+			<sg number="3">
+				<word number="1">onomatopoeia</word>
+			</sg>
+			<sg number="4">
+				<word number="1">betacism</word>
+				<word number="2">mimmation</word>
+				<word number="3">myatism</word>
+				<word number="4">nunnation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pasigraphy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lexicology">
+			<sg number="1">
+				<word number="1">lexicology</word>
+				<word number="2">philology</word>
+				<word number="3">glossology</word>
+				<word number="4">glottology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">linguistics</word>
+				<word number="2">chrestomathy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paleology</word>
+				<word number="2">paleography</word>
+			</sg>
+			<sg number="4">
+				<word number="1">comparative grammar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="literature">
+			<sg number="1">
+				<word number="1">literature</word>
+				<word number="2">letters</word>
+				<word number="3">polite literature</word>
+				<word number="4">belles lettres</word>
+				<word number="5">muses</word>
+				<word number="6">humanities</word>
+				<word number="7">literae humaniores</word>
+				<word number="8">republic of letters</word>
+				<word number="9">dead languages</word>
+				<word number="10">classics</word>
+			</sg>
+			<sg number="2">
+				<word number="1">genius of language</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="scholar" headRef="516">scholarship</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="express by words">
+			<sg number="1">
+				<word number="1" paraRef="express by words" headRef="592">express by words</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lingual">
+			<sg number="1">
+				<word number="1">lingual</word>
+				<word number="2">linguistic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dialectic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vernacular</word>
+				<word number="2">current</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bilingual</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diglot</word>
+				<word number="2">hexaglot</word>
+				<word number="3">polyglot</word>
+			</sg>
+			<sg number="6">
+				<word number="1">literary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="syllables govern the world">
+			<sg number="1">
+				<word number="1">"syllables govern the world"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

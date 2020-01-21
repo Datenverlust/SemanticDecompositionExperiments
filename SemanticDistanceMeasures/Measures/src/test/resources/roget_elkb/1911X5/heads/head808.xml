@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="808" name="Loss" origNum="#776." class="7" section="4" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="loss">
+			<sg number="1">
+				<word number="1">loss</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deperdition</word>
+				<word number="2">perdition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">forfeiture</word>
+				<word number="2">lapse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="privation">
+			<sg number="1">
+				<word number="1">privation</word>
+				<word number="2">bereavement</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dispossession" headRef="822">deprivation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">riddance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">damage</word>
+				<word number="2">squandering</word>
+				<word number="3">waste</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="lose">
+			<sg number="1">
+				<word number="1">lose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incur a loss</word>
+				<word number="2">experience a loss</word>
+				<word number="3">meet with a loss</word>
+			</sg>
+			<sg number="3">
+				<word number="1">miss</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mislay</word>
+				<word number="2">let slip</word>
+				<word number="3">allow to slip through the fingers</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exemption" headRef="810">be without</word>
+			</sg>
+			<sg number="6">
+				<word number="1">forfeit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="get rid of">
+			<sg number="1">
+				<word number="1" paraRef="get rid of" headRef="815">get rid of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="waste" headRef="667">waste</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be lost">
+			<sg number="1">
+				<word number="1">be lost</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lapse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="losing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">losing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="not having" headRef="810">not having</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="shorn of">
+			<sg number="1">
+				<word number="1">shorn of</word>
+				<word number="2">deprived of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">denuded</word>
+				<word number="2">bereaved</word>
+				<word number="3">bereft</word>
+				<word number="4">minus</word>
+				<word number="5">cut off</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dispossession" headRef="822">dispossessed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rid of</word>
+				<word number="2">quit of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of pocket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lost">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lost</word>
+			</sg>
+			<sg number="2">
+				<word number="1">long lost</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hopeless" headRef="898">irretrievable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">off one's hands</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="farewell to">
+			<sg number="1">
+				<word number="1">farewell to!</word>
+				<word number="2">adieu to</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

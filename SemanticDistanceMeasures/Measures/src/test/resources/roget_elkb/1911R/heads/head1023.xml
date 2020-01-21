@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1023" name="Demon" origNum="#980." class="8" section="5" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="demon">
+			<sg number="1">
+				<word number="1">demon</word>
+				<word number="2">daemon</word>
+				<word number="3">demonry</word>
+				<word number="4">demonology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evil genius</word>
+				<word number="2">fiend</word>
+				<word number="3">familiar</word>
+				<word number="4">daeva</word>
+				<word number="5">devil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bad spirit</word>
+				<word number="2">unclean spirit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cacodemon</word>
+				<word number="2">incubus</word>
+				<word number="3">Eblis</word>
+				<word number="4">shaitan</word>
+				<word number="5">succubus</word>
+				<word number="6">succuba</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Frankenstein's monster</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Titan</word>
+				<word number="2">Shedim</word>
+				<word number="3">Mephistopheles</word>
+				<word number="4">Asmodeus</word>
+				<word number="5">Moloch</word>
+				<word number="6">Belial</word>
+				<word number="7">Ahriman</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fury</word>
+				<word number="2">harpy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Friar Rush</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vampire">
+			<sg number="1">
+				<word number="1">vampire</word>
+				<word number="2">ghoul</word>
+			</sg>
+			<sg number="2">
+				<word number="1">afreet</word>
+				<word number="2">barghest</word>
+				<word number="3">Loki</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ogre</word>
+				<word number="2">ogress</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gnome</word>
+				<word number="2">gin</word>
+				<word number="3">jinn</word>
+				<word number="4">imp</word>
+				<word number="5">deev</word>
+				<word number="6">lamia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bogie</word>
+				<word number="2">bogeyman</word>
+				<word number="3">bogle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nis</word>
+				<word number="2">kobold</word>
+				<word number="3">flibbertigibbet</word>
+				<word number="4">fairy</word>
+				<word number="5">brownie</word>
+				<word number="6">pixy</word>
+				<word number="7">elf</word>
+				<word number="8">dwarf</word>
+				<word number="9">urchin</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Puck</word>
+				<word number="2">Robin Goodfellow</word>
+			</sg>
+			<sg number="8">
+				<word number="1">leprechaun</word>
+				<word number="2">Cluricaune</word>
+				<word number="3">troll</word>
+				<word number="4">dwerger</word>
+				<word number="5">sprite</word>
+				<word number="6">ouphe</word>
+				<word number="7">bad fairy</word>
+				<word number="8">nix</word>
+				<word number="9">nixie</word>
+				<word number="10">pigwidgeon</word>
+				<word number="11">will-o'-the wisp</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">lobelia</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">remailer</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">runnerup</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">heavenly</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">convenor</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">divorcee</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">oatcake</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">voyageur</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">spun</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">infertility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ghost">
+			<sg number="1">
+				<word number="1">ghost</word>
+				<word number="2">revenant</word>
+				<word number="3">specter</word>
+				<word number="4">apparition</word>
+				<word number="5">spirit</word>
+				<word number="6">shade</word>
+				<word number="7">shadow</word>
+				<word number="8">vision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hobglobin</word>
+				<word number="2">goblin</word>
+				<word number="3">orc</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wraith</word>
+				<word number="2">spook</word>
+				<word number="3">boggart</word>
+				<word number="4">banshee</word>
+				<word number="5">loup-garou</word>
+				<word number="6">lemures</word>
+			</sg>
+			<sg number="4">
+				<word number="1">evil eye</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">mycelium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="merman">
+			<sg number="1">
+				<word number="1">merman</word>
+				<word number="2">mermaid</word>
+				<word number="3">merfolk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">siren</word>
+			</sg>
+			<sg number="3">
+				<word number="1">satyr</word>
+				<word number="2">faun</word>
+			</sg>
+			<sg number="4">
+				<word number="1">manito</word>
+				<word number="2">manitou</word>
+				<word number="3">manitu</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">psychoacoustics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="possession">
+			<sg number="1">
+				<word number="1">possession</word>
+				<word number="2">demonic possession</word>
+				<word number="3">diabolic possession</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insanity" headRef="527">insanity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="[in jest">
+			<sg number="1">
+				<word number="1">Maxwell's demon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="demoniac">
+			<sg number="1">
+				<word number="1">demoniac</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="hew">
+			<sg number="1">
+				<word number="1" new="1">hew</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="arteriole">
+			<sg number="1">
+				<word number="1" new="1">arteriole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="distillates">
+			<sg number="1">
+				<word number="1" new="1">distillates</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="kenong">
+			<sg number="1">
+				<word number="1" new="1">kenong</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="demonic">
+			<sg number="1">
+				<word number="1">demonic</word>
+				<word number="2">demonical</word>
+				<word number="3">impish</word>
+				<word number="4">demoniacal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fiendish</word>
+				<word number="2">fiend-like</word>
+			</sg>
+			<sg number="3">
+				<word number="1">supernatural</word>
+				<word number="2">weird</word>
+				<word number="3">uncanny</word>
+				<word number="4">unearthly</word>
+				<word number="5">spectral</word>
+				<word number="6" new="1">anarchical</word>
+				<word number="7" new="1">unabridged</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ghostly</word>
+				<word number="2">ghost-like</word>
+			</sg>
+			<sg number="5">
+				<word number="1">elfin</word>
+				<word number="2">elvin</word>
+				<word number="3">elfish</word>
+				<word number="4">elflike</word>
+			</sg>
+			<sg number="6">
+				<word number="1">haunted</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pokerish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="possessed">
+			<sg number="1">
+				<word number="1">possessed</word>
+				<word number="2">possessed by a devil</word>
+				<word number="3">possessed by a demon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="demonically">
+			<sg number="1">
+				<word number="1">demonically</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

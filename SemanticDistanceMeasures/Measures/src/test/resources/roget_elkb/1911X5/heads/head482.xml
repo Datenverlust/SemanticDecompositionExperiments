@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="482" name="Answer" origNum="#462." class="4" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="answer">
+			<sg number="1">
+				<word number="1">answer</word>
+				<word number="2">response</word>
+				<word number="3">reply</word>
+				<word number="4">replication</word>
+				<word number="5">riposte</word>
+				<word number="6">rejoinder</word>
+				<word number="7">surrejoinder</word>
+				<word number="8">rebutter</word>
+				<word number="9">surrebutter</word>
+				<word number="10">retort</word>
+				<word number="11">repartee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rescript</word>
+				<word number="2">rescription</word>
+			</sg>
+			<sg number="3">
+				<word number="1">antiphon</word>
+				<word number="2">antiphony</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acknowledgment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">password</word>
+			</sg>
+			<sg number="6">
+				<word number="1">echo</word>
+			</sg>
+			<sg number="7">
+				<word number="1">counter statement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="discovery">
+			<sg number="1">
+				<word number="1" paraRef="discovery" headRef="504">discovery</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="explanation" headRef="547">solution</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cause" headRef="160">rationale</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="indication" headRef="576">clue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Oedipus">
+			<sg number="1">
+				<word number="1">Oedipus</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="oracle" headRef="537">oracle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="record" headRef="577">return</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="answer">
+			<sg number="1">
+				<word number="1">answer</word>
+				<word number="2">respond</word>
+				<word number="3">reply</word>
+				<word number="4">rebut</word>
+				<word number="5">retort</word>
+				<word number="6">rejoin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give for answer</word>
+				<word number="2">return for answer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acknowledge</word>
+				<word number="2">echo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="explain">
+			<sg number="1">
+				<word number="1" paraRef="interpret" headRef="547">explain</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unriddle" headRef="504">solve</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="discover" headRef="504">discover</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fathom</word>
+				<word number="2" paraRef="inquire" headRef="481">hunt out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">satisfy</word>
+				<word number="2">set at rest</word>
+				<word number="3">determine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="answering">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">answering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">responsive</word>
+				<word number="2">respondent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conclusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="because">
+			<sg number="1">
+				<word number="1" paraRef="cause" headRef="160">because</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the scent</word>
+				<word number="2">on the right scent</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="eureka">
+			<sg number="1">
+				<word number="1">eureka!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

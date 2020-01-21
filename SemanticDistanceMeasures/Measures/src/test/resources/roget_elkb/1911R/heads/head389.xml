@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="389" name="Physical Insensibility" origNum="#376." class="3" section="3" subSection="2" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="insensibility">
+			<sg number="1">
+				<word number="1">insensibility</word>
+				<word number="2">physical insensibility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">obtuseness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">palsy</word>
+				<word number="2">paralysis</word>
+				<word number="3">paraesthesia</word>
+				<word number="4">anaesthesia</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="sleep" headRef="861">sleep</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hemiplegia</word>
+				<word number="2">motor paralysis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vegetable state</word>
+			</sg>
+			<sg number="7">
+				<word number="1">coma</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="anaesthetic agent">
+			<sg number="1">
+				<word number="1">anaesthetic agent</word>
+				<word number="2">opium</word>
+				<word number="3">ether</word>
+				<word number="4">chloroform</word>
+				<word number="5">chloral</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nitrous oxide</word>
+				<word number="2">laughing gas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exhilarating gas</word>
+				<word number="2">protoxide of nitrogen</word>
+			</sg>
+			<sg number="4">
+				<word number="1">refrigeration</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be insensible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be insensible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a thick skin</word>
+				<word number="2">have a rhinoceros hide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render insensible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render insensible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anaesthetize</word>
+				<word number="2">blunt</word>
+				<word number="3">pall</word>
+				<word number="4">obtund</word>
+				<word number="5">benumb</word>
+				<word number="6">paralyze</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">put under the influence of chloroform</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stupefy</word>
+				<word number="2">stun</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="insensible">
+			<sg number="1">
+				<word number="1">insensible</word>
+				<word number="2">unfeeling</word>
+				<word number="3">senseless</word>
+				<word number="4">impercipient</word>
+				<word number="5">callous</word>
+				<word number="6">thick-skinned</word>
+				<word number="7">pachydermatous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard</word>
+				<word number="2">hardened</word>
+			</sg>
+			<sg number="3">
+				<word number="1">case hardened</word>
+			</sg>
+			<sg number="4">
+				<word number="1">proof</word>
+				<word number="2">obtuse</word>
+				<word number="3">dull</word>
+			</sg>
+			<sg number="5">
+				<word number="1">anaesthetic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">comatose</word>
+				<word number="2">paralytic</word>
+				<word number="3">palsied</word>
+				<word number="4">numb</word>
+				<word number="5">dead</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

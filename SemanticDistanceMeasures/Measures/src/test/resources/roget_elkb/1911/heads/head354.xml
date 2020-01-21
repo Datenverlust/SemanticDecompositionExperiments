@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="354" name="Gulf" origNum="#343." class="3" section="2" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="land covered with water">
+			<sg number="1">
+				<word number="1">land covered with water</word>
+				<word number="2">gulf</word>
+				<word number="3">gulph</word>
+				<word number="4">bay</word>
+				<word number="5">inlet</word>
+				<word number="6">bight</word>
+				<word number="7">estuary</word>
+				<word number="8">arm of the sea</word>
+				<word number="9">bayou</word>
+				<word number="10">fiord</word>
+				<word number="11">armlet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frith</word>
+				<word number="2">firth</word>
+				<word number="3">ostiary</word>
+				<word number="4">mouth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lagune</word>
+				<word number="2">lagoon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">indraught</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cove</word>
+				<word number="2">creek</word>
+			</sg>
+			<sg number="6">
+				<word number="1">natural harbor</word>
+			</sg>
+			<sg number="7">
+				<word number="1">roads</word>
+			</sg>
+			<sg number="8">
+				<word number="1">strait</word>
+			</sg>
+			<sg number="9">
+				<word number="1">narrows</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Euripus</word>
+			</sg>
+			<sg number="11">
+				<word number="1">sound</word>
+				<word number="2">belt</word>
+				<word number="3">gut</word>
+				<word number="4">kyles</word>
+			</sg>
+			<sg number="12">
+				<word number="1">continental slope</word>
+				<word number="2">continental shelf</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lake">
+			<sg number="1">
+				<word number="1">lake</word>
+				<word number="2">loch</word>
+				<word number="3">lough</word>
+				<word number="4">mere</word>
+				<word number="5">tarn</word>
+				<word number="6">plash</word>
+				<word number="7">broad</word>
+				<word number="8">pond</word>
+				<word number="9">pool</word>
+				<word number="10">lin</word>
+				<word number="11">puddle</word>
+				<word number="12">slab</word>
+				<word number="13">well</word>
+				<word number="14">artesian well</word>
+			</sg>
+			<sg number="2">
+				<word number="1">standing water</word>
+				<word number="2">dead water</word>
+				<word number="3">sheet of water</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fish pond</word>
+				<word number="2">mill pond</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ditch</word>
+				<word number="2">dike</word>
+				<word number="3">dyke</word>
+				<word number="4">dam</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="store" headRef="665">reservoir</word>
+			</sg>
+			<sg number="6">
+				<word number="1">alberca</word>
+				<word number="2">barachois</word>
+				<word number="3">hog wallow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lacustrine">
+			<sg number="1">
+				<word number="1">lacustrine</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

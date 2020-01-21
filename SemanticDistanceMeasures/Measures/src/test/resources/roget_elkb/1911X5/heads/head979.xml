@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="979" name="Vindication" origNum="#937." class="8" section="4" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="vindication">
+			<sg number="1">
+				<word number="1">vindication</word>
+				<word number="2">justification</word>
+				<word number="3">warrant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exoneration</word>
+				<word number="2">exculpation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="acquittal" headRef="1013">acquittal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">whitewashing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="extenuation">
+			<sg number="1">
+				<word number="1">extenuation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">palliation</word>
+				<word number="2">palliative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">softening</word>
+				<word number="2">mitigation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="reply">
+			<sg number="1">
+				<word number="1">reply</word>
+				<word number="2">defense</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="recrimination" headRef="980">recrimination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="apology">
+			<sg number="1">
+				<word number="1">apology</word>
+				<word number="2">gloss</word>
+				<word number="3">varnish</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="plea" headRef="646">plea</word>
+			</sg>
+			<sg number="3">
+				<word number="1">salvo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">excuse</word>
+				<word number="2">extenuating circumstances</word>
+			</sg>
+			<sg number="5">
+				<word number="1">allowance</word>
+				<word number="2">allowance to be made</word>
+			</sg>
+			<sg number="6">
+				<word number="1">locus paenitentiae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="apologist">
+			<sg number="1">
+				<word number="1">apologist</word>
+				<word number="2">vindicator</word>
+				<word number="3">justifier</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="defendant" headRef="980">defendant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="justifiable charge">
+			<sg number="1">
+				<word number="1">justifiable charge</word>
+				<word number="2">true bill</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="justify">
+			<sg number="1">
+				<word number="1">justify</word>
+				<word number="2">warrant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">be an excuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lend a color</word>
+				<word number="2">furnish a handle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vindicate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exculpate</word>
+				<word number="2">disculpate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="acquit" headRef="1013">acquit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">clear</word>
+				<word number="2">set right</word>
+				<word number="3">exonerate</word>
+				<word number="4">whitewash</word>
+			</sg>
+			<sg number="8">
+				<word number="1">clear the skirts of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="extenuate">
+			<sg number="1">
+				<word number="1">extenuate</word>
+				<word number="2">palliate</word>
+				<word number="3">excuse</word>
+				<word number="4">soften</word>
+				<word number="5">apologize</word>
+				<word number="6">varnish</word>
+				<word number="7">slur</word>
+				<word number="8">gloze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put a gloss</word>
+				<word number="2">put a good face upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mince</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gloss over</word>
+				<word number="2">bolster up</word>
+				<word number="3">help a lame dog over a stile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="advocate">
+			<sg number="1">
+				<word number="1">advocate</word>
+				<word number="2">defend</word>
+				<word number="3">plead one's cause</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand up for</word>
+				<word number="2">stick up for</word>
+				<word number="3">speak up for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contend for</word>
+				<word number="2">speak for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bear out</word>
+				<word number="2">keep in countenance</word>
+				<word number="3">support</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="plead" headRef="646">plead</word>
+			</sg>
+			<sg number="6">
+				<word number="1">say in defense</word>
+			</sg>
+			<sg number="7">
+				<word number="1">plead ignorance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">confess and avoid</word>
+				<word number="2">propugn</word>
+				<word number="3">put in a good word for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="take the will for the deed">
+			<sg number="1">
+				<word number="1">take the will for the deed</word>
+				<word number="2">make allowance for</word>
+				<word number="3">give credit for</word>
+				<word number="4">do justice to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give one his due</word>
+				<word number="2">give the Devil his due</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="make good">
+			<sg number="1">
+				<word number="1">make good</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prove the truth of</word>
+				<word number="2">prove one's case</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be justified by the event</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vindicated">
+			<sg number="1">
+				<word number="1">vindicated</word>
+				<word number="2" paraRef="" posRef="v.">vindicating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exculpatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apologetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="excusable">
+			<sg number="1">
+				<word number="1">excusable</word>
+				<word number="2">defensible</word>
+				<word number="3">pardonable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">venial</word>
+				<word number="2">veniable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">specious</word>
+				<word number="2">plausible</word>
+				<word number="3">justifiable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="honi sot qui mal y pense">
+			<sg number="1">
+				<word number="1">"honi sot qui mal y pense"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"good wine needs no bush"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="515" name="Ignorance" origNum="#491." class="4" section="5" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ignorance">
+			<sg number="1">
+				<word number="1">ignorance</word>
+				<word number="2">nescience</word>
+				<word number="3">tabula rasa</word>
+				<word number="4">crass ignorance</word>
+				<word number="5">ignorance crasse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfamiliarity</word>
+				<word number="2">unacquaintance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">unconsciousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">darkness</word>
+				<word number="2">blindness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">incomprehension</word>
+				<word number="2">inexperience</word>
+				<word number="3">simplicity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unknown quantities">
+			<sg number="1">
+				<word number="1">unknown quantities</word>
+				<word number="2">x</word>
+				<word number="3">y</word>
+				<word number="4">z</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sealed book">
+			<sg number="1">
+				<word number="1">sealed book</word>
+				<word number="2">terra incognita</word>
+				<word number="3">virgin soil</word>
+				<word number="4">unexplored ground</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dark ages</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="smattering">
+			<sg number="1">
+				<word number="1">smattering</word>
+				<word number="2">sciolism</word>
+				<word number="3">glimmering</word>
+				<word number="4">dilettantism</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="uncertainty" headRef="498">bewilderment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incapacity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pedantry">
+			<sg number="1">
+				<word number="1">pedantry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">charlatanry</word>
+				<word number="2">charlatism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Philister</word>
+				<word number="2">Philistine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be ignorant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be ignorant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="know" headRef="514">not know</word>
+			</sg>
+			<sg number="3">
+				<word number="1">know not</word>
+				<word number="2">know not what</word>
+				<word number="3">know nothing of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have no idea</word>
+				<word number="2">have no notion</word>
+				<word number="3">have no conception</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not have the remotest idea</word>
+			</sg>
+			<sg number="6">
+				<word number="1">not know chalk from cheese</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ignore">
+			<sg number="1">
+				<word number="1">ignore</word>
+				<word number="2">be blind to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="conceal" headRef="554">keep in ignorance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="see through a glass darkly">
+			<sg number="1">
+				<word number="1">see through a glass darkly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a film over the eyes</word>
+				<word number="2" paraRef="" posRef="n.">have a glimmering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wonder whether</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unintelligibility" headRef="544">not know what to make of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not pretend to take upon</word>
+				<word number="2">not take upon one self to say</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ignorant">
+			<sg number="1">
+				<word number="1">ignorant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nescient</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unknowing</word>
+				<word number="2">unaware</word>
+				<word number="3">unacquainted</word>
+				<word number="4">unapprised</word>
+				<word number="5">unapprized</word>
+				<word number="6">unwitting</word>
+				<word number="7">unweeting</word>
+				<word number="8">unconscious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">witless</word>
+				<word number="2">weetless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">a stranger to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unconversant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="uninformed">
+			<sg number="1">
+				<word number="1">uninformed</word>
+				<word number="2">uncultivated</word>
+				<word number="3">unversed</word>
+				<word number="4">uninstructed</word>
+				<word number="5">untaught</word>
+				<word number="6">uninitiated</word>
+				<word number="7">untutored</word>
+				<word number="8">unschooled</word>
+				<word number="9">misguided</word>
+				<word number="10">unenlightened</word>
+				<word number="11" new="1">untrained</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Philistine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">behind the age</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shallow">
+			<sg number="1">
+				<word number="1">shallow</word>
+				<word number="2">superficial</word>
+				<word number="3">green</word>
+				<word number="4">rude</word>
+				<word number="5">empty</word>
+				<word number="6">half-learned</word>
+				<word number="7">illiterate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unread</word>
+				<word number="2">uninformed</word>
+				<word number="3">uneducated</word>
+				<word number="4">unlearned</word>
+				<word number="5">unlettered</word>
+				<word number="6">unbookish</word>
+				<word number="7" new="1">unsophisticated</word>
+				<word number="8" new="2">uncouth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">empty- headed</word>
+				<word number="2">dizzy</word>
+				<word number="3">wooly-headed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pedantic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the dark</word>
+			</sg>
+			<sg number="6">
+				<word number="1">benighted</word>
+				<word number="2">belated</word>
+			</sg>
+			<sg number="7">
+				<word number="1">blinded</word>
+				<word number="2">blindfolded</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hoodwinked</word>
+			</sg>
+			<sg number="9">
+				<word number="1">misinformed</word>
+			</sg>
+			<sg number="10">
+				<word number="1">au bout de son latin</word>
+				<word number="2">at the end of his tether</word>
+				<word number="3">at fault</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="uncertain" headRef="498">at sea</word>
+			</sg>
+			<sg number="12">
+				<word number="1">caught tripping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unknown">
+			<sg number="1">
+				<word number="1">unknown</word>
+				<word number="2">unapprehended</word>
+				<word number="3">unexplained</word>
+				<word number="4">unascertained</word>
+				<word number="5">uninvestigated</word>
+				<word number="6">unexplored</word>
+				<word number="7">unheard of</word>
+				<word number="8">not perceived</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="concealed" headRef="554">concealed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">novel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ignorantly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">ignorantly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unawares</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for anything</word>
+				<word number="2">for aught one knows</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not that one knows</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="God knows">
+			<sg number="1">
+				<word number="1">God knows</word>
+				<word number="2">Heaven knows</word>
+				<word number="3">the Lord knows</word>
+				<word number="4">who knows</word>
+				<word number="5">nobody knows</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ignorance never settles a question">
+			<sg number="1">
+				<word number="1">"ignorance never settles a question"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quantum animis erroris inest!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"small Latin and less Greek"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"that unlettered small-knowing soul"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"there is no darkness but ignorance"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

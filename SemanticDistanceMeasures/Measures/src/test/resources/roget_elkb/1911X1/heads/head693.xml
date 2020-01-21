@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="693" name="Safety" origNum="#664." class="6" section="2" subSection="2" headGroup="21">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="safety">
+			<sg number="1">
+				<word number="1">safety</word>
+				<word number="2">security</word>
+				<word number="3">surety</word>
+				<word number="4">impregnability</word>
+			</sg>
+			<sg number="2">
+				<word number="1">invulnerability</word>
+				<word number="2" paraRef="" posRef="adj.">invulnerableness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">danger past</word>
+				<word number="2">danger  over</word>
+			</sg>
+			<sg number="4">
+				<word number="1">storm blown over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">coast clear</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="escape" headRef="700">escape</word>
+			</sg>
+			<sg number="7">
+				<word number="1">means of escape</word>
+			</sg>
+			<sg number="8">
+				<word number="1">blow valve</word>
+				<word number="2">safety valve</word>
+				<word number="3">release valve</word>
+				<word number="4">sniffing valve</word>
+			</sg>
+			<sg number="9">
+				<word number="1">safeguard</word>
+				<word number="2">palladium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="guardianship">
+			<sg number="1">
+				<word number="1">guardianship</word>
+				<word number="2">wardship</word>
+				<word number="3">wardenship</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tutelage</word>
+				<word number="2">custody</word>
+				<word number="3">safekeeping</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="preservation" headRef="699">preservation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">protection</word>
+				<word number="2">auspices</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="safe-conduct">
+			<sg number="1">
+				<word number="1">safe-conduct</word>
+				<word number="2">escort</word>
+				<word number="3">convoy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guard</word>
+				<word number="2" paraRef="defense" headRef="746">shield</word>
+			</sg>
+			<sg number="3">
+				<word number="1">guardian angel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tutelary god</word>
+				<word number="2">tutelary deity</word>
+				<word number="3">tutelary  saint</word>
+			</sg>
+			<sg number="5">
+				<word number="1">genius loci</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="protector">
+			<sg number="1">
+				<word number="1">protector</word>
+				<word number="2">guardian</word>
+			</sg>
+			<sg number="2">
+				<word number="1">warden</word>
+				<word number="2">warder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">preserver</word>
+				<word number="2">custodian</word>
+				<word number="3">duenna</word>
+				<word number="4">chaperon</word>
+				<word number="5">third person</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="watchdog">
+			<sg number="1">
+				<word number="1">watchdog</word>
+				<word number="2">bandog</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Cerberus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">watchman</word>
+				<word number="2">patrolman</word>
+				<word number="3">policeman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cop</word>
+				<word number="2">dick</word>
+				<word number="3">fuzz</word>
+				<word number="4">smokey</word>
+				<word number="5">peeler</word>
+				<word number="6">zarp</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sentinel</word>
+				<word number="2">sentry</word>
+				<word number="3" paraRef="warning" headRef="697">scout</word>
+			</sg>
+			<sg number="6">
+				<word number="1">garrison</word>
+			</sg>
+			<sg number="7">
+				<word number="1">guardship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="refuge">
+			<sg number="1">
+				<word number="1" paraRef="anchor" headRef="695">refuge</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="preparation" headRef="702">precaution</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quarantine</word>
+				<word number="2">cordon sanitaire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="confidence">
+			<sg number="1">
+				<word number="1" paraRef="confidence" headRef="897">confidence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be safe">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be safe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep one's head above water</word>
+				<word number="2">tide over</word>
+				<word number="3">save one's bacon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ride out the storm</word>
+				<word number="2">weather the storm</word>
+			</sg>
+			<sg number="4">
+				<word number="1">light upon one's feet</word>
+				<word number="2">land on one's feet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bear a charmed life</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="escape" headRef="700">escape</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="make safe">
+			<sg number="1">
+				<word number="1">make safe</word>
+				<word number="2" paraRef="" posRef="adj.">render safe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">protect</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="care" headRef="479">take care of</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="preserve" headRef="699">preserve</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cover</word>
+				<word number="2">screen</word>
+				<word number="3">shelter</word>
+				<word number="4">shroud</word>
+				<word number="5">flank</word>
+				<word number="6">ward</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="defend" headRef="746">guard</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="restrain" headRef="782">secure</word>
+			</sg>
+			<sg number="8">
+				<word number="1">entrench</word>
+				<word number="2">intrench</word>
+				<word number="3" paraRef="circumscribe" headRef="239">fence round</word>
+			</sg>
+			<sg number="9">
+				<word number="1">house</word>
+				<word number="2">nestle</word>
+				<word number="3">ensconce</word>
+			</sg>
+			<sg number="10">
+				<word number="1">take charge of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="escort">
+			<sg number="1">
+				<word number="1">escort</word>
+				<word number="2">convoy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">garrison</word>
+			</sg>
+			<sg number="3">
+				<word number="1">watch</word>
+				<word number="2">mount guard</word>
+				<word number="3">patrol</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="make assurance doubly sure">
+			<sg number="1">
+				<word number="1" paraRef="caution" headRef="903">make assurance doubly sure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take up a loose thread</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="prepare for" headRef="702">take precautions</word>
+			</sg>
+			<sg number="4">
+				<word number="1">double reef topsails</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="seek safety">
+			<sg number="1">
+				<word number="1">seek safety</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take shelter</word>
+				<word number="2" paraRef="shelter" headRef="695">find shelter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="safe">
+			<sg number="1">
+				<word number="1">safe</word>
+				<word number="2">secure</word>
+				<word number="3">sure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in safety</word>
+				<word number="2">in security</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on the safe side</word>
+			</sg>
+			<sg number="4">
+				<word number="1">under the shield of</word>
+				<word number="2">under the shade of</word>
+				<word number="3">under the wing of</word>
+				<word number="4">under the shadow of one's wing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">under cover</word>
+				<word number="2">under  lock and key</word>
+			</sg>
+			<sg number="6">
+				<word number="1">out of danger</word>
+				<word number="2">out of the woods</word>
+				<word number="3">out of the meshes</word>
+				<word number="4">out of harm's way</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unharmed</word>
+				<word number="2">unscathed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">on sure ground</word>
+				<word number="2">at anchor</word>
+				<word number="3">high and dry</word>
+				<word number="4">above water</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unthreatened</word>
+				<word number="2">unmolested</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="" posRef="v.">protected</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cavendo tutus</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="defended" headRef="746">panoplied</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="snug">
+			<sg number="1">
+				<word number="1">snug</word>
+				<word number="2">seaworthy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weatherproof</word>
+				<word number="2">waterproof</word>
+				<word number="3">fireproof</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="defensible">
+			<sg number="1">
+				<word number="1">defensible</word>
+				<word number="2">tenable</word>
+				<word number="3">proof against</word>
+				<word number="4">invulnerable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unassailable</word>
+				<word number="2">unattackable</word>
+				<word number="3">impenetrable</word>
+				<word number="4" new="1">unbreakable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impregnable</word>
+				<word number="2">imperdible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inexpugnable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Achillean</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">indestructible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="safe and sound">
+			<sg number="1">
+				<word number="1" paraRef="preserved" headRef="699">safe and sound</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="perfect" headRef="679">scathless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unhazarded</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="dangerous" headRef="694">not dangerous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unthreatening">
+			<sg number="1">
+				<word number="1">unthreatening</word>
+				<word number="2">harmless</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cooperative" headRef="738">friendly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="protecting">
+			<sg number="1">
+				<word number="1">protecting</word>
+				<word number="2" paraRef="" posRef="v.">protective</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guardian</word>
+				<word number="2">tutelary</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="preservative" headRef="699">preservative</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="trustworthy" headRef="981">trustworthy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ex abundanti cautela">
+			<sg number="1">
+				<word number="1">ex abundanti cautela</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with impunity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="all's well">
+			<sg number="1">
+				<word number="1">all's well</word>
+			</sg>
+			<sg number="2">
+				<word number="1">salva res est</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suave mari magno</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a couvert</word>
+			</sg>
+			<sg number="5">
+				<word number="1">e terra alterius spectare laborem</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Dieu vous garde</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

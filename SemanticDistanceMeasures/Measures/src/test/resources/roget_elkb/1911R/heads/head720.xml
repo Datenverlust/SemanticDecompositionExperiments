@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="720" name="Workshop" origNum="#691." class="6" section="3" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="workshop">
+			<sg number="1">
+				<word number="1">workshop</word>
+				<word number="2">workhouse</word>
+				<word number="3">workplace</word>
+				<word number="4">shop</word>
+				<word number="5">place of business</word>
+			</sg>
+			<sg number="2">
+				<word number="1">manufactory</word>
+				<word number="2">mill</word>
+				<word number="3">plant</word>
+				<word number="4">works</word>
+				<word number="5">factory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cabinet</word>
+				<word number="2">studio</word>
+			</sg>
+			<sg number="4">
+				<word number="1">office</word>
+				<word number="2">branch office bureau</word>
+				<word number="3">atelier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hive">
+			<sg number="1">
+				<word number="1">hive</word>
+				<word number="2">hive of industry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nursery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hothouse</word>
+				<word number="2">hotbed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">kitchen</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mint</word>
+				<word number="2">forge</word>
+				<word number="3">loom</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dock</word>
+				<word number="2">dockyard</word>
+			</sg>
+			<sg number="7">
+				<word number="1">alveary</word>
+			</sg>
+			<sg number="8">
+				<word number="1">armory</word>
+			</sg>
+			<sg number="9">
+				<word number="1">laboratory</word>
+				<word number="2">lab</word>
+				<word number="3">research institute</word>
+			</sg>
+			<sg number="10">
+				<word number="1">refinery</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cannery</word>
+			</sg>
+			<sg number="12">
+				<word number="1">power plant</word>
+			</sg>
+			<sg number="13">
+				<word number="1">beauty parlor</word>
+			</sg>
+			<sg number="14">
+				<word number="1">beehive</word>
+				<word number="2">bindery</word>
+				<word number="3">forcing pit</word>
+				<word number="4">nailery</word>
+				<word number="5">usine</word>
+				<word number="6">slip</word>
+				<word number="7">yard</word>
+				<word number="8">wharf</word>
+			</sg>
+			<sg number="15">
+				<word number="1">foundry</word>
+				<word number="2">foundery</word>
+			</sg>
+			<sg number="16">
+				<word number="1">furnace</word>
+			</sg>
+			<sg number="17">
+				<word number="1">vineyard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="crucible">
+			<sg number="1">
+				<word number="1">crucible</word>
+				<word number="2">alembic</word>
+				<word number="3">caldron</word>
+				<word number="4">matrix</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="chad">
+			<sg number="1">
+				<word number="1" new="1">chad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="yabbies">
+			<sg number="1">
+				<word number="1" new="1">yabbies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="strict">
+			<sg number="1">
+				<word number="1" new="1">strict</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="at work">
+			<sg number="1">
+				<word number="1">at work</word>
+				<word number="2">at the office</word>
+				<word number="3">at the shop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">working</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

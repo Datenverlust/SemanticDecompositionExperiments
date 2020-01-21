@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="523" name="Imbecility" origNum="#499." class="4" section="5" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="want of intelligence">
+			<sg number="1">
+				<word number="1" paraRef="intelligence" headRef="522">want of intelligence</word>
+				<word number="2" paraRef="intellect" headRef="469">want of intellect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shadowness</word>
+				<word number="2">silliness</word>
+				<word number="3" paraRef="" posRef="adj.">foolishness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imbecility</word>
+				<word number="2">incapacity</word>
+				<word number="3">vacancy of mind</word>
+				<word number="4">poverty of intellect</word>
+				<word number="5">weakness of intellect</word>
+				<word number="6">clouded perception</word>
+				<word number="7">poor head</word>
+				<word number="8">apartments to let</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stupidity</word>
+				<word number="2">stolidity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hebetude</word>
+				<word number="2">dull understanding</word>
+				<word number="3">meanest capacity</word>
+				<word number="4">shortsightedness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="unskillfulness" headRef="728">incompetence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="one's weak side">
+			<sg number="1">
+				<word number="1">one's weak side</word>
+				<word number="2">not one's strong point</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bias" headRef="505">bias</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="insanity" headRef="527">infatuation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="simplicity">
+			<sg number="1">
+				<word number="1">simplicity</word>
+				<word number="2">puerility</word>
+				<word number="3">babyhood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dotage</word>
+				<word number="2">anility</word>
+				<word number="3">second childishness</word>
+				<word number="4">fatuity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">idiocy</word>
+				<word number="2">idiotism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">driveling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="folly">
+			<sg number="1">
+				<word number="1">folly</word>
+				<word number="2">frivolity</word>
+				<word number="3">irrationality</word>
+				<word number="4">trifling</word>
+				<word number="5">ineptitude</word>
+				<word number="6">nugacity</word>
+				<word number="7">inconsistency</word>
+				<word number="8">lip wisdom</word>
+				<word number="9">conceit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sophistry" headRef="500">sophistry</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inattention" headRef="478">giddiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="eccentricity" headRef="527">eccentricity</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="absurdity" headRef="521">extravagance</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="rashness" headRef="902">rashness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="act of folly">
+			<sg number="1">
+				<word number="1" paraRef="act of folly" headRef="728">act of folly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be imbecile">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be imbecile</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have no brains</word>
+				<word number="2" paraRef="sense" headRef="522">have no sense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trifle">
+			<sg number="1">
+				<word number="1">trifle</word>
+				<word number="2">drivel</word>
+				<word number="3">radoter</word>
+				<word number="4">dote</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="madness" headRef="527">ramble</word>
+			</sg>
+			<sg number="3">
+				<word number="1">play the fool</word>
+				<word number="2">play the monkey</word>
+				<word number="3">monkey around</word>
+				<word number="4">fool around</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="insanity" headRef="527">take leave of one's senses</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not see an inch beyond one's nose</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="stultify oneself" headRef="728">stultify oneself</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="talk nonsense" headRef="521">talk nonsense</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unintelligent">
+			<sg number="1">
+				<word number="1">unintelligent</word>
+				<word number="2">unintellectual</word>
+				<word number="3">unreasoning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mindless</word>
+				<word number="2">witless</word>
+				<word number="3">reasoningless</word>
+				<word number="4">brainless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">halfbaked</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="head" headRef="522">having no head</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="bright" headRef="522">not bright</word>
+			</sg>
+			<sg number="6">
+				<word number="1">inapprehensible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="weak headed">
+			<sg number="1">
+				<word number="1">weak headed</word>
+				<word number="2">addle headed</word>
+				<word number="3">puzzle headed</word>
+				<word number="4">blunder headed</word>
+				<word number="5">muddle headed</word>
+				<word number="6">muddy headed</word>
+				<word number="7">pig headed</word>
+				<word number="8">beetle headed</word>
+				<word number="9">buffle headed</word>
+				<word number="10">chuckle headed</word>
+				<word number="11">mutton headed</word>
+				<word number="12">maggoty headed</word>
+				<word number="13">grossheaded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beef headed</word>
+				<word number="2">fat witted</word>
+				<word number="3">fat-headed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="weak-minded">
+			<sg number="1">
+				<word number="1">weak-minded</word>
+				<word number="2">feeble-minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dull minded</word>
+				<word number="2">shallow minded</word>
+				<word number="3">lack-brained</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rattle-brained</word>
+				<word number="2">rattle headed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">half witted</word>
+				<word number="2">lean witted</word>
+				<word number="3">short witted</word>
+				<word number="4">dull witted</word>
+				<word number="5">blunt-witted</word>
+				<word number="6">shallow-pated</word>
+				<word number="7">clod-pated</word>
+				<word number="8">addle- pated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dim-sighted</word>
+				<word number="2">short-sighted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">thick-skulled</word>
+			</sg>
+			<sg number="7">
+				<word number="1">weak in the upper story</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="shallow">
+			<sg number="1">
+				<word number="1">shallow</word>
+				<word number="2">borne</word>
+				<word number="3">weak</word>
+				<word number="4">wanting</word>
+				<word number="5">soft</word>
+				<word number="6">sappy</word>
+				<word number="7">spoony</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dull</word>
+				<word number="2">dull as a beetle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stupid</word>
+				<word number="2">heavy</word>
+				<word number="3">insulse</word>
+				<word number="4">obtuse</word>
+				<word number="5">blunt</word>
+				<word number="6">stolid</word>
+				<word number="7">doltish</word>
+			</sg>
+			<sg number="4">
+				<word number="1">asinine</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inapt" headRef="728">inapt</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="prosaic" headRef="881">prosaic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hebetudinous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="childish">
+			<sg number="1">
+				<word number="1">childish</word>
+				<word number="2">child-like</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infantine</word>
+				<word number="2">infantile</word>
+				<word number="3">babyish</word>
+				<word number="4">babish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">puerile</word>
+				<word number="2">anile</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="credulous" headRef="510">simple</word>
+			</sg>
+			<sg number="5">
+				<word number="1">old-womanish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="fatuous">
+			<sg number="1">
+				<word number="1">fatuous</word>
+				<word number="2">idiotic</word>
+				<word number="3">imbecile</word>
+				<word number="4">driveling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blatant</word>
+				<word number="2">babbling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vacant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sottish</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="bewilder" headRef="498">bewildered</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="blockish">
+			<sg number="1">
+				<word number="1">blockish</word>
+				<word number="2">unteachable Boeotian</word>
+				<word number="3">Boeotic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bovine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ungifted</word>
+				<word number="2">undiscerning</word>
+				<word number="3">unenlightened</word>
+				<word number="4">unwise</word>
+				<word number="5">unphilosophical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">apish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">simious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="foolish">
+			<sg number="1">
+				<word number="1">foolish</word>
+				<word number="2">silly</word>
+				<word number="3">senseless</word>
+				<word number="4">irrational</word>
+				<word number="5">insensate</word>
+				<word number="6">nonsensical</word>
+				<word number="7">inept</word>
+				<word number="8" new="1">humorless</word>
+				<word number="9" new="1">squealing</word>
+				<word number="10" new="1">depicted</word>
+				<word number="11" new="1">phylogenetic</word>
+				<word number="12" new="1">lonesome</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maudlin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="narrow-minded">
+			<sg number="1">
+				<word number="1" paraRef="narrow-minded" headRef="505">narrow-minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="obstinate" headRef="633">bigoted</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="thoughtless" headRef="478">giddy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="rash" headRef="902">rash</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="crazed" headRef="527">eccentric</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="foolish">
+			<sg number="1">
+				<word number="1">foolish</word>
+				<word number="2">unwise</word>
+				<word number="3">injudicious</word>
+				<word number="4">improper</word>
+				<word number="5">unreasonable</word>
+				<word number="6">without reason</word>
+				<word number="7">ridiculous</word>
+				<word number="8">absurd</word>
+				<word number="9">idiotic</word>
+				<word number="10">silly</word>
+				<word number="11">stupid</word>
+				<word number="12">asinine</word>
+				<word number="13" new="1">considered</word>
+				<word number="14" new="1">meningeal</word>
+				<word number="15" new="1">sooty</word>
+				<word number="16" new="1">aesthetic</word>
+				<word number="17" new="1">brushy</word>
+				<word number="18" new="1">honey</word>
+				<word number="19" new="1">unconverted</word>
+				<word number="20" new="1">bow</word>
+				<word number="21" new="1">longingly</word>
+				<word number="22" new="1">unloaded</word>
+				<word number="23" new="1">sugared</word>
+				<word number="24" new="1">theorized</word>
+				<word number="25" new="1">epitomised</word>
+				<word number="26" new="1">conversational</word>
+				<word number="27" new="1">curative</word>
+				<word number="28" new="1">antislavery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-imagined</word>
+				<word number="2">ill-advised</word>
+				<word number="3">ill-judged</word>
+				<word number="4">ill-devised</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mal entendu</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inconsistent</word>
+				<word number="2">irrational</word>
+				<word number="3">unphilosophical</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="nonsensical" headRef="521">extravagant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sleeveless</word>
+				<word number="2">idle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pointless</word>
+				<word number="2" paraRef="useless" headRef="674">useless</word>
+				<word number="3" new="1">demagogic</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="inexpedient" headRef="676">inexpedient</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="trivial" headRef="672">frivolous</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">quixotic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="gorgeous">
+			<sg number="1">
+				<word number="1" new="1">gorgeous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="standby">
+			<sg number="1">
+				<word number="1" new="1">standby</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="nacreous">
+			<sg number="1">
+				<word number="1" new="1">nacreous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="rampant">
+			<sg number="1">
+				<word number="1" new="1">rampant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Davus sum non">
+			<sg number="1">
+				<word number="1">Davus sum non</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"a fool's bolt is soon shot"</word>
+				<word number="2">clitellae bovi sunt impositae</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"fools rush in where angels fear to tread"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">il n' a ni bouche ni eperon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"the bookful blockhead</word>
+				<word number="2">ignorantly read"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"to varnish nonsense with the charms of sound"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

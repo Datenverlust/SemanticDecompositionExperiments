@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="169" name="Destruction" origNum="#162." class="1" section="8" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">destruction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">waste</word>
+				<word number="2">dissolution</word>
+				<word number="3">breaking up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diruption</word>
+				<word number="2">disruption</word>
+			</sg>
+			<sg number="4">
+				<word number="1">consumption</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disorganization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fall">
+			<sg number="1">
+				<word number="1">fall</word>
+				<word number="2">downfall</word>
+				<word number="3">devastation</word>
+				<word number="4">ruin</word>
+				<word number="5">perdition</word>
+				<word number="6">crash</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eboulement</word>
+				<word number="2">smash</word>
+				<word number="3">havoc</word>
+				<word number="4">delabrement</word>
+				<word number="5">debacle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break down</word>
+				<word number="2">break up</word>
+				<word number="3">fall apart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prostration</word>
+			</sg>
+			<sg number="5">
+				<word number="1">desolation</word>
+				<word number="2">bouleversement</word>
+				<word number="3">wreck</word>
+				<word number="4">wrack</word>
+				<word number="5">shipwreck</word>
+				<word number="6">cataclysm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">washout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="extinction">
+			<sg number="1">
+				<word number="1">extinction</word>
+				<word number="2">annihilation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destruction of life" headRef="373">destruction of life</word>
+			</sg>
+			<sg number="3">
+				<word number="1">knock-down blow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">doom</word>
+				<word number="2">crack of doom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="destroying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">destroying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">demolition</word>
+				<word number="2">demolishment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">overthrow</word>
+				<word number="2">subversion</word>
+				<word number="3">suppression</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="abrogation" headRef="787">abolition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">biblioclasm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sacrifice</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ravage</word>
+				<word number="2">razzia</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inactivation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">incendiarism</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="revolution" headRef="153">revolution</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="extraction" headRef="312">extirpation</word>
+			</sg>
+			<sg number="12">
+				<word number="1">beginning of the end</word>
+				<word number="2">commencement de la fin</word>
+				<word number="3">road to ruin</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="deterioration" headRef="688">dilapidation</word>
+			</sg>
+			<sg number="14">
+				<word number="1">sabotage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be destroyed">
+			<sg number="1">
+				<word number="1">be destroyed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall to the ground</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tumble</word>
+				<word number="2">topple</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go to pieces</word>
+				<word number="2">fall to pieces</word>
+			</sg>
+			<sg number="6">
+				<word number="1">break up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">crumble to dust</word>
+			</sg>
+			<sg number="8">
+				<word number="1">go to the dogs</word>
+				<word number="2">go to the wall</word>
+				<word number="3">go to smash</word>
+				<word number="4">go to shivers</word>
+				<word number="5">go to wreck</word>
+				<word number="6">go to pot</word>
+				<word number="7">go to wrack and ruin</word>
+			</sg>
+			<sg number="9">
+				<word number="1">go by the board</word>
+				<word number="2">go all to smash</word>
+			</sg>
+			<sg number="10">
+				<word number="1">be all over</word>
+				<word number="2">be all up</word>
+				<word number="3">be all with</word>
+			</sg>
+			<sg number="11">
+				<word number="1">totter to its fall</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="destroy">
+			<sg number="1">
+				<word number="1">destroy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do away with</word>
+				<word number="2">make away with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nullify</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="annul" headRef="787">annul</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sacrifice</word>
+				<word number="2">demolish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tear up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">overturn</word>
+				<word number="2">overthrow</word>
+				<word number="3">overwhelm</word>
+			</sg>
+			<sg number="8">
+				<word number="1">upset</word>
+				<word number="2">subvert</word>
+				<word number="3">put an end to</word>
+			</sg>
+			<sg number="9">
+				<word number="1">seal the doom of</word>
+				<word number="2">do in</word>
+				<word number="3">do for</word>
+				<word number="4">dish*</word>
+				<word number="5">undo</word>
+			</sg>
+			<sg number="10">
+				<word number="1">break up</word>
+				<word number="2">cut up</word>
+			</sg>
+			<sg number="11">
+				<word number="1">break down</word>
+				<word number="2">cut down</word>
+				<word number="3">pull down</word>
+				<word number="4">mow down</word>
+				<word number="5">blow down</word>
+				<word number="6">beat down</word>
+			</sg>
+			<sg number="12">
+				<word number="1">suppress</word>
+				<word number="2">quash</word>
+				<word number="3">put down</word>
+				<word number="4">do a job on</word>
+			</sg>
+			<sg number="13">
+				<word number="1">cut short</word>
+				<word number="2">take off</word>
+				<word number="3">blot out</word>
+			</sg>
+			<sg number="14">
+				<word number="1">dispel</word>
+				<word number="2">dissipate</word>
+				<word number="3">dissolve</word>
+			</sg>
+			<sg number="15">
+				<word number="1">consume</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">damage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="smash">
+			<sg number="1">
+				<word number="1">smash</word>
+				<word number="2">crash</word>
+				<word number="3">quell</word>
+				<word number="4">squash</word>
+				<word number="5">squelch</word>
+				<word number="6">crumple up</word>
+				<word number="7">shatter</word>
+				<word number="8">shiver</word>
+			</sg>
+			<sg number="2">
+				<word number="1">batter to pieces</word>
+				<word number="2">tear to pieces</word>
+				<word number="3">crush to pieces</word>
+				<word number="4">cut to pieces</word>
+				<word number="5">shake to pieces</word>
+				<word number="6">pull to pieces</word>
+				<word number="7">pick to pieces</word>
+			</sg>
+			<sg number="3">
+				<word number="1">laniate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nip</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tear to rags</word>
+				<word number="2">tear to tatters</word>
+			</sg>
+			<sg number="6">
+				<word number="1">crush to atoms</word>
+				<word number="2">knock to atoms</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ruin</word>
+			</sg>
+			<sg number="8">
+				<word number="1">strike out</word>
+			</sg>
+			<sg number="9">
+				<word number="1">throw over</word>
+				<word number="2">knock down over</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fell</word>
+				<word number="2">sink</word>
+				<word number="3">swamp</word>
+				<word number="4">scuttle</word>
+				<word number="5">wreck</word>
+				<word number="6">shipwreck</word>
+				<word number="7">engulf</word>
+				<word number="8">ingulf</word>
+				<word number="9">submerge</word>
+				<word number="10" new="1">capsize</word>
+				<word number="11" new="1">ram</word>
+			</sg>
+			<sg number="11">
+				<word number="1">lay in ashes</word>
+				<word number="2">lay in ruins</word>
+			</sg>
+			<sg number="12">
+				<word number="1">sweep away</word>
+				<word number="2">erase</word>
+				<word number="3">wipe out</word>
+				<word number="4">expunge</word>
+				<word number="5">raze</word>
+			</sg>
+			<sg number="13">
+				<word number="1">level with the dust</word>
+				<word number="2">level with the ground</word>
+			</sg>
+			<sg number="14">
+				<word number="1">waste</word>
+			</sg>
+			<sg number="15">
+				<word number="1">atomize</word>
+				<word number="2">vaporize</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">incinerate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="deal destruction">
+			<sg number="1">
+				<word number="1">deal destruction</word>
+				<word number="2">desolate</word>
+				<word number="3">devastate</word>
+				<word number="4">lay waste</word>
+				<word number="5">ravage gut</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disorganize</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="render useless" headRef="674">dismantle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">devour</word>
+				<word number="2">swallow up</word>
+				<word number="3">sap</word>
+				<word number="4">mine</word>
+				<word number="5">blast</word>
+				<word number="6">bomb</word>
+				<word number="7">blow to smithereens</word>
+				<word number="8">drop the big one</word>
+				<word number="9">confound</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exterminate</word>
+				<word number="2">extinguish</word>
+				<word number="3">quench</word>
+				<word number="4">annihilate</word>
+				<word number="5" new="1">wipe</word>
+			</sg>
+			<sg number="6">
+				<word number="1">snuff out</word>
+				<word number="2">put out</word>
+				<word number="3">stamp out</word>
+				<word number="4">trample out</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay in the dust</word>
+				<word number="2">trample in the dust</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prostrate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tread under foot</word>
+			</sg>
+			<sg number="10">
+				<word number="1">crush under foot</word>
+				<word number="2">trample under foot</word>
+			</sg>
+			<sg number="11">
+				<word number="1">lay the ax to the root of</word>
+			</sg>
+			<sg number="12">
+				<word number="1">make short work of</word>
+				<word number="2">make clean sweep of</word>
+				<word number="3">make mincemeat of</word>
+			</sg>
+			<sg number="13">
+				<word number="1">cut up root and branch</word>
+				<word number="2">chop into pieces</word>
+				<word number="3">cut into ribbons</word>
+			</sg>
+			<sg number="14">
+				<word number="1">fling to the winds</word>
+				<word number="2">scatter to the winds</word>
+			</sg>
+			<sg number="15">
+				<word number="1">throw overboard</word>
+			</sg>
+			<sg number="16">
+				<word number="1">strike at the root of</word>
+				<word number="2">sap the foundations of</word>
+				<word number="3">spring a mine</word>
+				<word number="4">blow up</word>
+				<word number="5">ravage with fire and sword</word>
+			</sg>
+			<sg number="17">
+				<word number="1">cast to the dogs</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="eradicate" headRef="312">eradicate</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">purge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bulldoze">
+			<sg number="1">
+				<word number="1" new="1">bulldoze</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="crush">
+			<sg number="1">
+				<word number="1" new="1">crush</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="uproot">
+			<sg number="1">
+				<word number="1" new="1">uproot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="destroyed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">destroyed</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">perishing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trembling to its fall</word>
+				<word number="2">nodding to its fall</word>
+				<word number="3">tottering to its fall</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">in course of destruction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">extinct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="all-destroying">
+			<sg number="1">
+				<word number="1">all-destroying</word>
+				<word number="2">all-devouring</word>
+				<word number="3">all-engulfing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="destructive">
+			<sg number="1">
+				<word number="1">destructive</word>
+				<word number="2">subversive</word>
+				<word number="3">ruinous</word>
+				<word number="4">devastating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incendiary</word>
+				<word number="2">deletory</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">destroying</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="killing" headRef="373">deadly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with crushing effect">
+			<sg number="1">
+				<word number="1">with crushing effect</word>
+				<word number="2">with a sledge hammer</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="delenda est Carthago">
+			<sg number="1">
+				<word number="1">delenda est Carthago</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dum Roma deliberat Saguntum perit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ecrasez l'infame</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

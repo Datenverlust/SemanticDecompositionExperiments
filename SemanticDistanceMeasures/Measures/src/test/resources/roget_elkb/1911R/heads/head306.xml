@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="306" name="Egress" origNum="#295." class="2" section="4" subSection="4" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="egress">
+			<sg number="1">
+				<word number="1">egress</word>
+				<word number="2">exit</word>
+				<word number="3">issue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emersion</word>
+				<word number="2">emergence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outbreak</word>
+				<word number="2">outburst</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eruption</word>
+				<word number="2">proruption</word>
+			</sg>
+			<sg number="5">
+				<word number="1">emanation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">egression</word>
+			</sg>
+			<sg number="7">
+				<word number="1">evacuation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">exudation</word>
+				<word number="2">transudation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">extravasation</word>
+				<word number="2">perspiration</word>
+				<word number="3">sweating</word>
+				<word number="4">leakage</word>
+				<word number="5">percolation</word>
+				<word number="6">distillation</word>
+				<word number="7">oozing</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="water in motion" headRef="359">gush</word>
+			</sg>
+			<sg number="11">
+				<word number="1">outpour</word>
+				<word number="2">outpouring</word>
+			</sg>
+			<sg number="12">
+				<word number="1">effluence</word>
+				<word number="2">effusion</word>
+			</sg>
+			<sg number="13">
+				<word number="1">effluxion</word>
+				<word number="2">drain</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="" posRef="v.">dribbling</word>
+			</sg>
+			<sg number="15">
+				<word number="1">defluxion</word>
+			</sg>
+			<sg number="16">
+				<word number="1">drainage</word>
+			</sg>
+			<sg number="17">
+				<word number="1">outcome</word>
+				<word number="2">output</word>
+			</sg>
+			<sg number="18">
+				<word number="1" paraRef="excretion" headRef="310">discharge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="export">
+			<sg number="1">
+				<word number="1">export</word>
+				<word number="2">expatriation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">emigration</word>
+				<word number="2">remigration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">debouch</word>
+				<word number="2">debouche</word>
+			</sg>
+			<sg number="4">
+				<word number="1">emunctory</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="departure" headRef="304">exodus</word>
+			</sg>
+			<sg number="6">
+				<word number="1">emigrant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="outlet">
+			<sg number="1">
+				<word number="1">outlet</word>
+				<word number="2">vent</word>
+				<word number="3">spout</word>
+				<word number="4">tap</word>
+				<word number="5">sluice</word>
+				<word number="6">floodgate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vomitory</word>
+				<word number="2">outgate</word>
+				<word number="3">sally port</word>
+			</sg>
+			<sg number="4">
+				<word number="1">way out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mouth</word>
+				<word number="2" paraRef="opening" headRef="271">door</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="way" headRef="656">path</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="conduit" headRef="361">conduit</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="airpipe" headRef="362">airpipe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="emerge">
+			<sg number="1">
+				<word number="1">emerge</word>
+				<word number="2">emanate</word>
+				<word number="3">issue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">egress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go out of</word>
+				<word number="2">come out of</word>
+				<word number="3">move out of</word>
+				<word number="4">pass out of</word>
+				<word number="5">pour out of</word>
+				<word number="6">flow out of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass out of</word>
+				<word number="2">evacuate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exude">
+			<sg number="1">
+				<word number="1">exude</word>
+				<word number="2">transude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leak</word>
+				<word number="2">run through</word>
+				<word number="3">out through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">percolate</word>
+				<word number="2">transcolate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">egurgitate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">strain</word>
+				<word number="2">distill</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perspire</word>
+				<word number="2">sweat</word>
+				<word number="3">drain</word>
+				<word number="4">ooze</word>
+			</sg>
+			<sg number="7">
+				<word number="1">filter</word>
+				<word number="2">filtrate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dribble</word>
+				<word number="2">gush</word>
+				<word number="3">spout</word>
+				<word number="4">flow out</word>
+			</sg>
+			<sg number="9">
+				<word number="1">well</word>
+				<word number="2">well out</word>
+			</sg>
+			<sg number="10">
+				<word number="1">pour</word>
+				<word number="2" paraRef="water in motion" headRef="359">trickle</word>
+			</sg>
+			<sg number="11">
+				<word number="1">effuse</word>
+				<word number="2">extravasate</word>
+				<word number="3">disembogue</word>
+				<word number="4">discharge itself</word>
+				<word number="5">debouch</word>
+			</sg>
+			<sg number="12">
+				<word number="1">come forth</word>
+				<word number="2">break forth</word>
+			</sg>
+			<sg number="13">
+				<word number="1">burst out</word>
+				<word number="2">burst through</word>
+			</sg>
+			<sg number="14">
+				<word number="1">find vent</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="escape" headRef="700">escape</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="effused">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">effused</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outgoing</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

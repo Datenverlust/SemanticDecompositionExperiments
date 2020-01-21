@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="777" name="Servant" origNum="#746." class="7" section="1" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="subject">
+			<sg number="1">
+				<word number="1">subject</word>
+				<word number="2">liegeman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">servant</word>
+				<word number="2">retainer</word>
+				<word number="3">follower</word>
+				<word number="4">henchman</word>
+				<word number="5">servitor</word>
+				<word number="6">domestic</word>
+				<word number="7">menial</word>
+				<word number="8">help</word>
+				<word number="9">lady help</word>
+				<word number="10">employe</word>
+				<word number="11">attache</word>
+			</sg>
+			<sg number="3">
+				<word number="1">official</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="retinue">
+			<sg number="1">
+				<word number="1">retinue</word>
+				<word number="2">suite</word>
+				<word number="3">cortege</word>
+				<word number="4">staff</word>
+				<word number="5">court</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="attendant">
+			<sg number="1">
+				<word number="1">attendant</word>
+				<word number="2">squire</word>
+				<word number="3">usher</word>
+				<word number="4">page</word>
+				<word number="5">donzel</word>
+				<word number="6">footboy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">train bearer</word>
+				<word number="2">cup bearer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">waiter</word>
+				<word number="2">lapster</word>
+				<word number="3">butler</word>
+				<word number="4">livery servant</word>
+				<word number="5">lackey</word>
+				<word number="6">footman</word>
+				<word number="7">flunky</word>
+				<word number="8">flunkey</word>
+				<word number="9">valet</word>
+				<word number="10">valet de chambre</word>
+			</sg>
+			<sg number="4">
+				<word number="1">equerry</word>
+				<word number="2">groom</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jockey</word>
+				<word number="2">hostler</word>
+				<word number="3">ostler</word>
+				<word number="4">tiger</word>
+				<word number="5">orderly</word>
+				<word number="6">messenger</word>
+				<word number="7">cad</word>
+				<word number="8">gillie</word>
+				<word number="9">herdsman</word>
+				<word number="10">swineherd</word>
+			</sg>
+			<sg number="6">
+				<word number="1">barkeeper</word>
+				<word number="2">bartender</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bell boy</word>
+				<word number="2">boots</word>
+				<word number="3">boy</word>
+				<word number="4">counterjumper</word>
+			</sg>
+			<sg number="8">
+				<word number="1">khansamah</word>
+				<word number="2">khansaman</word>
+			</sg>
+			<sg number="9">
+				<word number="1">khitmutgar</word>
+			</sg>
+			<sg number="10">
+				<word number="1">yardman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bailiff">
+			<sg number="1">
+				<word number="1">bailiff</word>
+				<word number="2">castellan</word>
+				<word number="3">seneschal</word>
+				<word number="4">chamberlain</word>
+				<word number="5">major-domo</word>
+				<word number="6">groom of the chambers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="secretary">
+			<sg number="1">
+				<word number="1">secretary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">under secretary</word>
+				<word number="2">assistant secretary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clerk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subsidiary</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="agent" headRef="789">agent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">subaltern</word>
+			</sg>
+			<sg number="7">
+				<word number="1">underling</word>
+				<word number="2">understrapper</word>
+			</sg>
+			<sg number="8">
+				<word number="1">man</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="maid">
+			<sg number="1">
+				<word number="1">maid</word>
+				<word number="2">maidservant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">handmaid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">confidente</word>
+				<word number="2">lady's maid</word>
+				<word number="3">abigail</word>
+				<word number="4">soubrette</word>
+			</sg>
+			<sg number="4">
+				<word number="1">amah</word>
+				<word number="2">biddy</word>
+				<word number="3">nurse</word>
+				<word number="4">bonne</word>
+				<word number="5">ayah</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nursemaid</word>
+				<word number="2">nursery maid</word>
+				<word number="3">house maid</word>
+				<word number="4">parlor maid</word>
+				<word number="5">waiting maid</word>
+				<word number="6">chamber maid</word>
+				<word number="7">kitchen maid</word>
+				<word number="8">scullery maid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">femme de chambre</word>
+				<word number="2">femme fille</word>
+			</sg>
+			<sg number="7">
+				<word number="1">camarista</word>
+			</sg>
+			<sg number="8">
+				<word number="1">chef de cuisine,cordon bleu</word>
+				<word number="2">cook</word>
+				<word number="3">scullion</word>
+				<word number="4">Cinderella</word>
+			</sg>
+			<sg number="9">
+				<word number="1">potwalloper</word>
+			</sg>
+			<sg number="10">
+				<word number="1">maid of all work</word>
+				<word number="2">servant of all work</word>
+			</sg>
+			<sg number="11">
+				<word number="1">laundress</word>
+				<word number="2">bedmaker</word>
+			</sg>
+			<sg number="12">
+				<word number="1">journeyman</word>
+				<word number="2" paraRef="worker" headRef="719">charwoman</word>
+			</sg>
+			<sg number="13">
+				<word number="1">bearer</word>
+				<word number="2">chokra</word>
+				<word number="3">gyp</word>
+				<word number="4">hamal</word>
+				<word number="5">scout</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">olam</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">subplot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="serf">
+			<sg number="1">
+				<word number="1">serf</word>
+				<word number="2">vassal</word>
+				<word number="3">slave</word>
+				<word number="4">negro</word>
+				<word number="5">helot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bondsman</word>
+				<word number="2">bondswoman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bondslave</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ame damnee</word>
+				<word number="2">odalisque</word>
+				<word number="3">ryot</word>
+				<word number="4">adscriptus gleboe</word>
+			</sg>
+			<sg number="5">
+				<word number="1">villian</word>
+				<word number="2">villein</word>
+			</sg>
+			<sg number="6">
+				<word number="1">beadsman</word>
+				<word number="2">bedesman</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sizar</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pensioner</word>
+				<word number="2">pensionary</word>
+			</sg>
+			<sg number="9">
+				<word number="1">client</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dependant</word>
+				<word number="2">dependent</word>
+			</sg>
+			<sg number="11">
+				<word number="1">hanger on</word>
+				<word number="2">satellite</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="servility" headRef="925">parasite</word>
+			</sg>
+			<sg number="13">
+				<word number="1">led captain</word>
+			</sg>
+			<sg number="14">
+				<word number="1">protege</word>
+				<word number="2">ward</word>
+				<word number="3">hireling</word>
+				<word number="4">mercenary</word>
+				<word number="5">puppet</word>
+				<word number="6">tool</word>
+				<word number="7">creature</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="badge of slavery">
+			<sg number="1">
+				<word number="1">badge of slavery</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bond" headRef="783">bonds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="sampan">
+			<sg number="1">
+				<word number="1" new="1">sampan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="malpractice">
+			<sg number="1">
+				<word number="1" new="1">malpractice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="housekeeper">
+			<sg number="1">
+				<word number="1" new="1">housekeeper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="mammy">
+			<sg number="1">
+				<word number="1" new="1">mammy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="mastership">
+			<sg number="1">
+				<word number="1" new="1">mastership</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="serve">
+			<sg number="1">
+				<word number="1">serve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wait upon</word>
+				<word number="2">attend upon</word>
+				<word number="3">dance attendance upon</word>
+				<word number="4">pin oneself upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">squire</word>
+				<word number="2">tend</word>
+				<word number="3">hang on the sleeve of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chore</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in the train of">
+			<sg number="1">
+				<word number="1">in the train of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in one's pay</word>
+				<word number="2">in one's employ</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="obedient" headRef="774">at one's call</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in bonds</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

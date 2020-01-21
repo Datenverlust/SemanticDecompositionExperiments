@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1004" name="Impurity" origNum="#961." class="8" section="4" subSection="4" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impurity">
+			<sg number="1">
+				<word number="1">impurity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="filth" headRef="682">uncleanness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immodesty</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">grossness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indelicacy</word>
+				<word number="2">indecency</word>
+			</sg>
+			<sg number="6">
+				<word number="1">impudicity</word>
+			</sg>
+			<sg number="7">
+				<word number="1">obscenity</word>
+				<word number="2">ribaldry</word>
+				<word number="3">Fescennine</word>
+				<word number="4">smut</word>
+				<word number="5">bawdry</word>
+				<word number="6">double entente</word>
+				<word number="7">equivoque</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="concupiscence">
+			<sg number="1">
+				<word number="1">concupiscence</word>
+				<word number="2">lust</word>
+				<word number="3">carnality</word>
+				<word number="4">flesh</word>
+				<word number="5">salacity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pruriency</word>
+				<word number="2">lechery</word>
+				<word number="3">lasciviency</word>
+				<word number="4">lubricity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Sadism</word>
+				<word number="2">sapphism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="incontinence">
+			<sg number="1">
+				<word number="1">incontinence</word>
+				<word number="2">intrigue</word>
+				<word number="3">faux pas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amour</word>
+				<word number="2">amourette</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gallantry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">debauchery</word>
+				<word number="2">libertinish</word>
+				<word number="3">libertinage</word>
+				<word number="4">fornication</word>
+			</sg>
+			<sg number="5">
+				<word number="1">liaison</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wenching</word>
+				<word number="2">venery</word>
+				<word number="3">dissipation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="seduction">
+			<sg number="1">
+				<word number="1">seduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defloration</word>
+				<word number="2">defilement</word>
+				<word number="3">abuse</word>
+				<word number="4">violation</word>
+				<word number="5">rape</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incest</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">homosexuality</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">infidelity</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">molestation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="prostitution">
+			<sg number="1">
+				<word number="1">prostitution</word>
+				<word number="2">social evil</word>
+				<word number="3">harlotry</word>
+				<word number="4">stupration</word>
+				<word number="5">whoredom</word>
+				<word number="6">concubinage</word>
+				<word number="7">cuckoldom</word>
+				<word number="8">adultery</word>
+				<word number="9">advoutry</word>
+				<word number="10">crim con</word>
+			</sg>
+			<sg number="2">
+				<word number="1">free love</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="seraglio">
+			<sg number="1">
+				<word number="1">seraglio</word>
+				<word number="2">harem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brothel</word>
+				<word number="2">bagnio</word>
+				<word number="3">stew</word>
+				<word number="4">bawdyhouse</word>
+				<word number="5">cat house</word>
+				<word number="6">lupanar</word>
+				<word number="7">house of ill fame</word>
+				<word number="8">bordel</word>
+				<word number="9">bordello</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="drunkenness">
+			<sg number="1">
+				<word number="1" new="1">drunkenness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="infanticide">
+			<sg number="1">
+				<word number="1" new="1">infanticide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="sodomy">
+			<sg number="1">
+				<word number="1" new="1">sodomy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="suicide">
+			<sg number="1">
+				<word number="1" new="1">suicide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="bigamy">
+			<sg number="1">
+				<word number="1" new="2">bigamy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="euthanasia">
+			<sg number="1">
+				<word number="1" new="2">euthanasia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="polygamy">
+			<sg number="1">
+				<word number="1" new="2">polygamy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="sex">
+			<sg number="1">
+				<word number="1" new="2">sex</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="abortion">
+			<sg number="1">
+				<word number="1" new="3">abortion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="buggery">
+			<sg number="1">
+				<word number="1" new="3">buggery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="cannibalism">
+			<sg number="1">
+				<word number="1" new="3">cannibalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="drinking">
+			<sg number="1">
+				<word number="1" new="3">drinking</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="masturbation">
+			<sg number="1">
+				<word number="1" new="3">masturbation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="nudity">
+			<sg number="1">
+				<word number="1" new="3">nudity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="pornography">
+			<sg number="1">
+				<word number="1" new="3">pornography</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="cohabitation">
+			<sg number="1">
+				<word number="1" new="4">cohabitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="divorce">
+			<sg number="1">
+				<word number="1" new="4">divorce</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="intercourse">
+			<sg number="1">
+				<word number="1" new="4">intercourse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="lesbianism">
+			<sg number="1">
+				<word number="1" new="4">lesbianism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="pederasty">
+			<sg number="1">
+				<word number="1" new="4">pederasty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="monogamy">
+			<sg number="1">
+				<word number="1" new="5">monogamy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be impure">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be impure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intrigue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">debauch</word>
+				<word number="2">defile</word>
+				<word number="3">seduce</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prostitute</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abuse</word>
+				<word number="2">violate</word>
+				<word number="3">deflower</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="n.">commit adultery</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="impure">
+			<sg number="1">
+				<word number="1">impure</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dirty" headRef="682">unclean</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not to be mentioned to ears polite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">immodest</word>
+				<word number="2">shameless</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indecorous</word>
+				<word number="2">indelicate</word>
+				<word number="3">indecent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Fescennine</word>
+			</sg>
+			<sg number="7">
+				<word number="1">loose</word>
+				<word number="2">risque</word>
+				<word number="3">coarse</word>
+				<word number="4">gross</word>
+				<word number="5">broad</word>
+				<word number="6">free</word>
+				<word number="7">equivocal</word>
+				<word number="8">smutty</word>
+				<word number="9">fulsome</word>
+				<word number="10">ribald</word>
+				<word number="11">obscene</word>
+				<word number="12">bawdy</word>
+				<word number="13">pornographic</word>
+				<word number="14" new="1">profane</word>
+				<word number="15" new="1">racy</word>
+				<word number="16" new="1">saucy</word>
+				<word number="17" new="1">vulgar</word>
+				<word number="18" new="2">burlesque</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">blasphemous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="concupiscent">
+			<sg number="1">
+				<word number="1">concupiscent</word>
+				<word number="2">prurient</word>
+				<word number="3">lickerish</word>
+				<word number="4">rampant</word>
+				<word number="5">lustful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">carnal</word>
+				<word number="2">carnal-minded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lewd</word>
+				<word number="2">lascivious</word>
+				<word number="3">lecherous</word>
+				<word number="4">libidinous</word>
+				<word number="5">erotic</word>
+				<word number="6">ruttish</word>
+				<word number="7">salacious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Paphian</word>
+			</sg>
+			<sg number="5">
+				<word number="1">voluptuous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">goatish</word>
+				<word number="2">must</word>
+				<word number="3">musty</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">scurrilous</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="2">lurid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unchaste">
+			<sg number="1">
+				<word number="1">unchaste</word>
+				<word number="2">light</word>
+				<word number="3">wanton</word>
+				<word number="4">licentious</word>
+				<word number="5">debauched</word>
+				<word number="6">dissolute</word>
+				<word number="7" new="1">profligate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of loose character</word>
+				<word number="2">of easy virtue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frail</word>
+				<word number="2">gay</word>
+				<word number="3">riggish</word>
+				<word number="4">incontinent</word>
+				<word number="5">meretricious</word>
+				<word number="6">rakish</word>
+				<word number="7">gallant</word>
+				<word number="8">dissipated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">no better than she should be</word>
+			</sg>
+			<sg number="5">
+				<word number="1">on the town</word>
+				<word number="2">on the streets</word>
+				<word number="3">on the pave</word>
+				<word number="4">on the loose</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="adulterous">
+			<sg number="1">
+				<word number="1">adulterous</word>
+				<word number="2">incestuous</word>
+				<word number="3">bestial</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

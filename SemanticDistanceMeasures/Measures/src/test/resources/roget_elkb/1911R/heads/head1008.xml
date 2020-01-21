@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1008" name="Jurisdiction" origNum="#965." class="8" section="4" subSection="5" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="jurisdiction">
+			<sg number="1">
+				<word number="1">jurisdiction</word>
+				<word number="2">judicature</word>
+				<word number="3">administration of justice</word>
+				<word number="4">soc</word>
+			</sg>
+			<sg number="2">
+				<word number="1">executive</word>
+				<word number="2">commission of the peace</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="authority" headRef="766">magistracy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="judge">
+			<sg number="1">
+				<word number="1" paraRef="judge" headRef="1010">judge</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="tribunal" headRef="1009">tribunal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">municipality</word>
+				<word number="2">corporation</word>
+				<word number="3">bailiwick</word>
+				<word number="4">shrievalty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lord lieutenant</word>
+				<word number="2">sheriff</word>
+				<word number="3">shire reeve</word>
+				<word number="4">shrieve</word>
+				<word number="5">constable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">selectman</word>
+			</sg>
+			<sg number="6">
+				<word number="1">police</word>
+				<word number="2">police force</word>
+				<word number="3">the fuzz</word>
+			</sg>
+			<sg number="7">
+				<word number="1">constabulary</word>
+				<word number="2">bumbledom</word>
+				<word number="3">gendarmerie</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">trichloroethylene</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="officer">
+			<sg number="1">
+				<word number="1">officer</word>
+				<word number="2">bailiff</word>
+				<word number="3">tipstaff</word>
+				<word number="4">bum-bailiff</word>
+				<word number="5">catchpoll</word>
+				<word number="6">beadle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">policeman</word>
+				<word number="2">cop</word>
+				<word number="3">police constable</word>
+				<word number="4">police sergeant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sbirro</word>
+				<word number="2">alguazil</word>
+				<word number="3">gendarme</word>
+				<word number="4">kavass</word>
+				<word number="5">lictor</word>
+				<word number="6">mace bearer</word>
+				<word number="7">huissier</word>
+				<word number="8">bedel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tithingman</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">ngeles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="press gang">
+			<sg number="1">
+				<word number="1">press gang</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exciseman</word>
+				<word number="2">gauger</word>
+				<word number="3">gager</word>
+				<word number="4">customhouse officer</word>
+				<word number="5">douanier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="coroner">
+			<sg number="1">
+				<word number="1">coroner</word>
+				<word number="2">edile</word>
+				<word number="3">aedile</word>
+				<word number="4">portreeve</word>
+				<word number="5">paritor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">posse comitatus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="bureau">
+			<sg number="1">
+				<word number="1">bureau</word>
+				<word number="2">cutcherry</word>
+				<word number="3">department</word>
+				<word number="4">secretariat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="long arm of the law">
+			<sg number="1">
+				<word number="1">long arm of the law</word>
+				<word number="2">extradition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="lymphangioma">
+			<sg number="1">
+				<word number="1" new="1">lymphangioma</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="jawline">
+			<sg number="1">
+				<word number="1" new="1">jawline</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="judge">
+			<sg number="1">
+				<word number="1">judge</word>
+				<word number="2">sit in judgment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">extradite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="executive">
+			<sg number="1">
+				<word number="1">executive</word>
+				<word number="2">administrative</word>
+				<word number="3">municipal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inquisitorial</word>
+				<word number="2">causidical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">judicatory</word>
+				<word number="2">judiciary</word>
+				<word number="3">judicial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">juridical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="coram judice">
+			<sg number="1">
+				<word number="1">coram judice</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

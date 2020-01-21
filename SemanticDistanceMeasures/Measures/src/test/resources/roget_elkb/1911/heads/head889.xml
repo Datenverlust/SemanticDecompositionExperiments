@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="889" name="Taste" origNum="#850." class="8" section="2" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="taste">
+			<sg number="1">
+				<word number="1">taste</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good taste</word>
+				<word number="2">refined taste</word>
+				<word number="3">cultivated taste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">delicacy</word>
+				<word number="2">refinement</word>
+				<word number="3">fine feeling</word>
+				<word number="4">gust</word>
+				<word number="5">gusto</word>
+				<word number="6">tact</word>
+				<word number="7">finesse</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="discrimination" headRef="486">nicety</word>
+			</sg>
+			<sg number="5">
+				<word number="1">polish</word>
+				<word number="2">elegance</word>
+				<word number="3">grace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="judgment">
+			<sg number="1">
+				<word number="1">judgment</word>
+				<word number="2" paraRef="discernment" headRef="486">discernment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dilettantism">
+			<sg number="1">
+				<word number="1">dilettantism</word>
+				<word number="2">dilettanteism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">virtu</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fine art</word>
+			</sg>
+			<sg number="4">
+				<word number="1">culture</word>
+				<word number="2">cultivation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="aesthetics">
+			<sg number="1">
+				<word number="1">aesthetics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="man of taste">
+			<sg number="1">
+				<word number="1">man of taste</word>
+			</sg>
+			<sg number="2">
+				<word number="1">connoisseur</word>
+				<word number="2">judge</word>
+				<word number="3">critic</word>
+				<word number="4">conoscente</word>
+				<word number="5">virtuoso</word>
+				<word number="6">amateur</word>
+				<word number="7">dilettante</word>
+				<word number="8">Aristarchus</word>
+				<word number="9">Corinthian</word>
+				<word number="10">arbiter elegantiarum</word>
+				<word number="11">stagirite</word>
+				<word number="12">euphemist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="caviare to the general">
+			<sg number="1">
+				<word number="1">"caviare to the general"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="appreciate">
+			<sg number="1">
+				<word number="1">appreciate</word>
+				<word number="2">judge</word>
+				<word number="3">criticise</word>
+				<word number="4" paraRef="discriminate" headRef="486">discriminate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="in good taste">
+			<sg number="1">
+				<word number="1">in good taste</word>
+				<word number="2">cute</word>
+				<word number="3">tasteful</word>
+				<word number="4">tasty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unaffected</word>
+				<word number="2">pure</word>
+				<word number="3">chaste</word>
+				<word number="4">classical</word>
+				<word number="5">attic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cultivated</word>
+				<word number="2">refined</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dainty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">esthetic</word>
+				<word number="2">aesthetic</word>
+				<word number="3">artistic</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="elegant" headRef="604">elegant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">euphemistic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="to one's taste">
+			<sg number="1">
+				<word number="1">to one's taste</word>
+				<word number="2">to one's mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">after one's fancy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">comme il faut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tire a quatre epingles</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="elegantly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">elegantly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="nihil tetigit quod non ornavit">
+			<sg number="1">
+				<word number="1">nihil tetigit quod non ornavit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chacun a son gout</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oculi pictura tenentur aures cantibus</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

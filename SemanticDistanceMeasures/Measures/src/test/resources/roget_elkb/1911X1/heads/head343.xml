@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="343" name="Lubrication" origNum="#332." class="3" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="smoothness">
+			<sg number="1">
+				<word number="1" paraRef="smoothness" headRef="266">smoothness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unctuousness" headRef="366">unctuousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lubrication">
+			<sg number="1">
+				<word number="1">lubrication</word>
+				<word number="2">lubrification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anointment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">oiling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="synovia">
+			<sg number="1">
+				<word number="1">synovia</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glycerine</word>
+				<word number="2">oil</word>
+				<word number="3">lubricating oil</word>
+				<word number="4" paraRef="grease" headRef="367">grease</word>
+			</sg>
+			<sg number="3">
+				<word number="1">saliva</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lather</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="teflon">
+			<sg number="1">
+				<word number="1">teflon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="lubricate">
+			<sg number="1">
+				<word number="1">lubricate</word>
+				<word number="2">lubricitate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oil</word>
+				<word number="2">grease</word>
+				<word number="3">lather</word>
+				<word number="4">soap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wax</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lubricated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lubricated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lubricous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

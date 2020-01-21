@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="771" name="Lenity" origNum="#740." class="7" section="1" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lenity">
+			<sg number="1">
+				<word number="1">lenity</word>
+				<word number="2">lenience</word>
+				<word number="3">leniency</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="moderation" headRef="181">moderation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tolerance</word>
+				<word number="2">toleration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mildness</word>
+				<word number="2">gentleness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">favor</word>
+				<word number="2">indulgence</word>
+				<word number="3">indulgency</word>
+			</sg>
+			<sg number="6">
+				<word number="1">clemency</word>
+				<word number="2">mercy</word>
+				<word number="3">forbearance</word>
+				<word number="4">quarter</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="compassion" headRef="954">compassion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be -lenient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be -lenient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tolerate</word>
+				<word number="2">bear with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">parcere subjectis</word>
+				<word number="2">give quarter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="indulge">
+			<sg number="1">
+				<word number="1">indulge</word>
+				<word number="2">allow one to have his own way</word>
+				<word number="3">spoil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lenient">
+			<sg number="1">
+				<word number="1">lenient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mild</word>
+				<word number="2">mild as milk</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gentle</word>
+				<word number="2">soft</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tolerant</word>
+				<word number="2">indulgent</word>
+				<word number="3">easy-going</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="compassionate" headRef="954">clement</word>
+			</sg>
+			<sg number="6">
+				<word number="1">forbearing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">long-suffering</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

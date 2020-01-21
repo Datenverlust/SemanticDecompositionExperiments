@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="870" name="Discontent" origNum="#832." class="8" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discontent">
+			<sg number="1">
+				<word number="1">discontent</word>
+				<word number="2">discontentment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissatisfaction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="dissent" headRef="513">dissent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disappointment">
+			<sg number="1">
+				<word number="1">disappointment</word>
+				<word number="2">mortification</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cold comfort</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="regret" headRef="871">regret</word>
+			</sg>
+			<sg number="4">
+				<word number="1">repining</word>
+				<word number="2" paraRef="" posRef="v.">taking on</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heart-burning</word>
+				<word number="2">heart-grief</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="lamentation" headRef="877">querulousness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hypercriticism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inquietude">
+			<sg number="1">
+				<word number="1">inquietude</word>
+				<word number="2">vexation of spirit</word>
+				<word number="3">soreness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">worry</word>
+				<word number="2">concern</word>
+				<word number="3" paraRef="fear" headRef="899">fear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="malcontent">
+			<sg number="1">
+				<word number="1">malcontent</word>
+				<word number="2">grumbler</word>
+				<word number="3">growler</word>
+				<word number="4">croaker</word>
+				<word number="5">dissident</word>
+				<word number="6">dissenter</word>
+				<word number="7">laudator temporis acti</word>
+			</sg>
+			<sg number="2">
+				<word number="1">censurer</word>
+				<word number="2">complainer</word>
+				<word number="3">fault-finder</word>
+				<word number="4">murmerer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cave of Adullam">
+			<sg number="1">
+				<word number="1">cave of Adullam</word>
+				<word number="2">indignation meeting</word>
+				<word number="3">"winter of our discontent"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"with what I most enjoy contented least"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be discontented">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be discontented</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quarrel with one's bread and butter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repine</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="regret" headRef="871">regret</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wish one at the bottom of the Red Sea</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take on</word>
+				<word number="2">take to heart</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shrug the shoulders</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make a wry face</word>
+				<word number="2">pull a long face</word>
+			</sg>
+			<sg number="9">
+				<word number="1">knit one's brows</word>
+			</sg>
+			<sg number="10">
+				<word number="1">look blue</word>
+				<word number="2">look black</word>
+				<word number="3">look black as thunder</word>
+				<word number="4">look blank</word>
+				<word number="5">look glum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take in bad part">
+			<sg number="1">
+				<word number="1">take in bad part</word>
+				<word number="2">take ill</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fret</word>
+				<word number="2">chafe</word>
+				<word number="3">make a piece of work</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grumble</word>
+				<word number="2">croak</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="lament" headRef="877">lament</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cause discontent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">cause discontent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissatisfy</word>
+				<word number="2">disappoint</word>
+				<word number="3">mortify</word>
+				<word number="4">put out</word>
+				<word number="5">disconcert</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cut up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dishearten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discontented">
+			<sg number="1">
+				<word number="1">discontented</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">dissatisfied</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unsatisfied</word>
+				<word number="2">ungratified</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dissident</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="dissentient" headRef="513">dissentient</word>
+			</sg>
+			<sg number="6">
+				<word number="1">malcontent</word>
+				<word number="2">malcontented</word>
+				<word number="3">exigent</word>
+				<word number="4">exacting</word>
+				<word number="5">hypercritical</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">expeditiously</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="repining">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">repining</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="regretful" headRef="871">regretful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be dejected" headRef="875">down in the mouth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in high dudgeon">
+			<sg number="1">
+				<word number="1">in high dudgeon</word>
+				<word number="2">in a fume</word>
+				<word number="3">in the sulks</word>
+				<word number="4">in the dumps</word>
+				<word number="5">in bad humor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glum</word>
+				<word number="2">sulky</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sour as a crab</word>
+			</sg>
+			<sg number="4">
+				<word number="1">soured</word>
+				<word number="2">sore</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of humor</word>
+				<word number="2">out of temper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="disappointing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disappointing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsatisfactory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="frustrated">
+			<sg number="1">
+				<word number="1" paraRef="failure" headRef="761">frustrated</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="so much the worse">
+			<sg number="1">
+				<word number="1">so much the worse!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="that won't do">
+			<sg number="1">
+				<word number="1">that won't do</word>
+				<word number="2">that will never do</word>
+				<word number="3">it will never do</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curtae nescio quid semper abest rei</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ne Jupiter Quidem omnibus placet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"poor in abundance</word>
+				<word number="2">famished at a feast"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

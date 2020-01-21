@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="867" name="Pleasurableness" origNum="#829." class="8" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pleasurableness">
+			<sg number="1">
+				<word number="1">pleasurableness</word>
+				<word number="2">pleasantness</word>
+				<word number="3" paraRef="" posRef="adj.">agreeableness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pleasure giving</word>
+				<word number="2">jucundity</word>
+				<word number="3">delectability</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="amusement" headRef="878">amusement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cause of pleasure</word>
+				<word number="2">source of pleasure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attraction">
+			<sg number="1">
+				<word number="1" paraRef="motive" headRef="643">attraction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attractiveness</word>
+				<word number="2">attractability</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">invitingness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">harm</word>
+				<word number="2">fascination</word>
+				<word number="3">enchantment</word>
+				<word number="4">witchery</word>
+				<word number="5">seduction</word>
+				<word number="6">winning ways</word>
+				<word number="7">amenity</word>
+				<word number="8">amiability</word>
+			</sg>
+			<sg number="5">
+				<word number="1">winsomeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="loveliness">
+			<sg number="1">
+				<word number="1" paraRef="beauty" headRef="883">loveliness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sunny side</word>
+				<word number="2">bright side</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="sugar" headRef="412">sweets</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="goodness" headRef="677">goodness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">manna in the wilderness</word>
+				<word number="2">land flowing with milk and honey</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bittersweet</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fair weather</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="treat">
+			<sg number="1">
+				<word number="1">treat</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="physical pleasure" headRef="390">regale</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dainty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">titbit</word>
+				<word number="2">tidbit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nuts</word>
+				<word number="2">sauce piquante</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cause pleasure">
+			<sg number="1">
+				<word number="1">cause pleasure</word>
+				<word number="2">produce pleasure</word>
+				<word number="3">create pleasure</word>
+				<word number="4">give pleasure</word>
+				<word number="5">afford pleasure</word>
+				<word number="6">procure pleasure</word>
+				<word number="7">offer pleasure</word>
+				<word number="8">present pleasure</word>
+				<word number="9" paraRef="pleasure" headRef="865">yield pleasure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="please">
+			<sg number="1">
+				<word number="1">please</word>
+				<word number="2">charm</word>
+				<word number="3">delight</word>
+				<word number="4">becharm</word>
+				<word number="5">imparadise</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cheerful" headRef="874">gladden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take</word>
+				<word number="2">captivate</word>
+				<word number="3">fascinate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enchant</word>
+				<word number="2">entrance</word>
+				<word number="3">enrapture</word>
+				<word number="4">transport</word>
+				<word number="5">bewitch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enravish</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">enthral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bless">
+			<sg number="1">
+				<word number="1">bless</word>
+				<word number="2">beatify</word>
+			</sg>
+			<sg number="2">
+				<word number="1">satisfy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gratify</word>
+				<word number="2" paraRef="desire" headRef="904">desire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">slake</word>
+				<word number="2">satiate</word>
+				<word number="3">quench</word>
+				<word number="4" new="1">sate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">indulge</word>
+				<word number="2">humor</word>
+				<word number="3">flatter</word>
+				<word number="4">tickle</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="savory" headRef="410">tickle the palate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">regale</word>
+				<word number="2">refresh</word>
+			</sg>
+			<sg number="8">
+				<word number="1">enliven</word>
+			</sg>
+			<sg number="9">
+				<word number="1">treat</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="amuse" headRef="878">amuse</word>
+			</sg>
+			<sg number="11">
+				<word number="1">take one's fancy</word>
+				<word number="2">tickle one's fancy</word>
+				<word number="3">hit one's fancy</word>
+			</sg>
+			<sg number="12">
+				<word number="1">meet one's wishes</word>
+			</sg>
+			<sg number="13">
+				<word number="1">win the heart</word>
+				<word number="2">gladden the heart</word>
+				<word number="3">rejoice the heart</word>
+				<word number="4">warm the cockles of the heart</word>
+			</sg>
+			<sg number="14">
+				<word number="1">do one's heart good</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="attract">
+			<sg number="1">
+				<word number="1">attract</word>
+				<word number="2" paraRef="move" headRef="643">allure</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="excite" headRef="862">stimulate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="make things pleasant">
+			<sg number="1">
+				<word number="1">make things pleasant</word>
+				<word number="2">popularize</word>
+				<word number="3">gild the pill</word>
+				<word number="4">sugar-coat the pill</word>
+				<word number="5">sweeten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="titillate">
+			<sg number="1">
+				<word number="1" new="1">titillate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="causing pleasure">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">causing pleasure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laetificant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pleasure-giving</word>
+				<word number="2">pleasing</word>
+				<word number="3">pleasant</word>
+				<word number="4">pleasurable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">agreeable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grateful</word>
+				<word number="2">gratifying</word>
+			</sg>
+			<sg number="6">
+				<word number="1">leef</word>
+				<word number="2">lief</word>
+				<word number="3">acceptable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">welcome</word>
+				<word number="2">welcome as the roses in May</word>
+			</sg>
+			<sg number="8">
+				<word number="1">welcomed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">favorite</word>
+			</sg>
+			<sg number="10">
+				<word number="1">to one's taste</word>
+				<word number="2">to one's mind</word>
+				<word number="3">to one's liking</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="good" headRef="677">satisfactory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="refreshing">
+			<sg number="1">
+				<word number="1">refreshing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">comfortable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cordial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">genial</word>
+			</sg>
+			<sg number="5">
+				<word number="1">glad</word>
+				<word number="2">gladsome</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sweet</word>
+				<word number="2">delectable</word>
+				<word number="3">nice</word>
+				<word number="4">dainty</word>
+			</sg>
+			<sg number="7">
+				<word number="1">delicate</word>
+				<word number="2">delicious</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dulcet</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="luscious" headRef="412">luscious</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="palatable" headRef="410">palatable</word>
+			</sg>
+			<sg number="11">
+				<word number="1">luxurious</word>
+				<word number="2">voluptuous</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="sensual" headRef="390">sensual</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">congenial</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">nutritious</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">sexy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="attractive">
+			<sg number="1">
+				<word number="1" paraRef="attractive" headRef="643">attractive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inviting</word>
+				<word number="2">prepossessing</word>
+				<word number="3">engaging</word>
+			</sg>
+			<sg number="3">
+				<word number="1">winning</word>
+				<word number="2">winsome</word>
+			</sg>
+			<sg number="4">
+				<word number="1">taking</word>
+				<word number="2">fascinating</word>
+				<word number="3">captivating</word>
+				<word number="4">killing</word>
+				<word number="5" new="1">intriguing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">seducing</word>
+				<word number="2">seductive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">heart-robbing</word>
+				<word number="2">alluring</word>
+				<word number="3">enticing</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="exciting" headRef="862">appetizing</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="cheering" headRef="874">cheering</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bewitching</word>
+			</sg>
+			<sg number="10">
+				<word number="1">enchanting</word>
+				<word number="2">entrancing</word>
+				<word number="3">enravishing</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">appealing</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">sultry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="charming">
+			<sg number="1">
+				<word number="1">charming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">delightful</word>
+				<word number="2">felicitous</word>
+				<word number="3">exquisite</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="beautiful" headRef="883">lovely</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ravishing</word>
+				<word number="2">rapturous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heartfelt</word>
+				<word number="2">thrilling</word>
+				<word number="3">ecstatic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">beatic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">beatific</word>
+			</sg>
+			<sg number="8">
+				<word number="1">seraphic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">empyrean</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="heavenly" headRef="1024">elysian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="palmy">
+			<sg number="1">
+				<word number="1">palmy</word>
+				<word number="2">halcyon</word>
+				<word number="3">Saturnian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="decies repetita placebit">
+			<sg number="1">
+				<word number="1">decies repetita placebit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"charms strike the sight but merit wins the soul"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"sweetness and light"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beauty is only skin deep</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

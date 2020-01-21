@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="136" name="Veteran" origNum="#130." class="1" section="6" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="veteran">
+			<sg number="1">
+				<word number="1">veteran</word>
+				<word number="2">old man</word>
+				<word number="3">seer</word>
+				<word number="4">patriarch</word>
+				<word number="5">graybeard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grandfather</word>
+				<word number="2">grandsire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grandam</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gaffer</word>
+				<word number="2">gammer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crone</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pantaloon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sexagenarian</word>
+				<word number="2">octogenarian</word>
+				<word number="3">nonagenarian</word>
+				<word number="4">centenarian</word>
+			</sg>
+			<sg number="8">
+				<word number="1">old stager</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="dotard" headRef="525">dotard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="preadamite">
+			<sg number="1">
+				<word number="1">preadamite</word>
+				<word number="2">Methuselah</word>
+				<word number="3">Nestor</word>
+				<word number="4">old Parr</word>
+			</sg>
+			<sg number="2">
+				<word number="1">elders</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="paternity" headRef="173">forefathers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="superfluous lags the veteran on the stage">
+			<sg number="1">
+				<word number="1">"superfluous lags the veteran on the stage"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="89" name="Numeration" origNum="#85." class="1" section="5" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="numeration">
+			<sg number="1">
+				<word number="1">numeration</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">numbering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pagination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tale</word>
+				<word number="2">recension</word>
+				<word number="3">enumeration</word>
+				<word number="4">summation</word>
+				<word number="5">reckoning</word>
+				<word number="6">computation</word>
+				<word number="7">supputation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">calculation</word>
+				<word number="2">calculus</word>
+			</sg>
+			<sg number="6">
+				<word number="1">algorithm</word>
+				<word number="2">algorism</word>
+				<word number="3">rhabdology</word>
+				<word number="4">dactylonomy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="measurement" headRef="489">measurement</word>
+			</sg>
+			<sg number="8">
+				<word number="1">statistics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="arithmetic">
+			<sg number="1">
+				<word number="1">arithmetic</word>
+				<word number="2">analysis</word>
+				<word number="3">algebra</word>
+				<word number="4">geometry</word>
+				<word number="5">analytical geometry</word>
+				<word number="6">fluxions</word>
+			</sg>
+			<sg number="2">
+				<word number="1">differential calculus</word>
+				<word number="2">integral calculus</word>
+				<word number="3">infinitesimal calculus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calculus of differences</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dead reckoning">
+			<sg number="1">
+				<word number="1">dead reckoning</word>
+				<word number="2">muster</word>
+				<word number="3">poll</word>
+				<word number="4">census</word>
+				<word number="5">capitation</word>
+				<word number="6">roll call</word>
+				<word number="7">recapitulation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="list" headRef="90">account</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="notation">
+			<sg number="1">
+				<word number="1">notation</word>
+				<word number="2">addition</word>
+				<word number="3">subtraction</word>
+				<word number="4">multiplication</word>
+				<word number="5">division</word>
+				<word number="6">rule of three</word>
+				<word number="7">practice</word>
+				<word number="8">equations</word>
+				<word number="9">extraction of roots</word>
+				<word number="10">reduction</word>
+				<word number="11">involution</word>
+				<word number="12">evolution</word>
+				<word number="13">estimation</word>
+				<word number="14">approximation</word>
+				<word number="15">interpolation</word>
+				<word number="16">differentiation</word>
+				<word number="17">integration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="abacus">
+			<sg number="1">
+				<word number="1">abacus</word>
+				<word number="2">logometer</word>
+				<word number="3">slide rule</word>
+				<word number="4">slipstick</word>
+				<word number="5">tallies</word>
+				<word number="6">Napier's bones</word>
+				<word number="7">calculating machine</word>
+				<word number="8">difference engine</word>
+				<word number="9">suan- pan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adding machine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cash register</word>
+			</sg>
+			<sg number="4">
+				<word number="1">electronic calculator</word>
+				<word number="2">calculator</word>
+				<word number="3">computer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">arithmetician</word>
+				<word number="2">calculator</word>
+				<word number="3">abacist</word>
+				<word number="4">algebraist</word>
+				<word number="5">mathematician</word>
+			</sg>
+			<sg number="6">
+				<word number="1">statistician</word>
+				<word number="2">geometer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">programmer</word>
+			</sg>
+			<sg number="8">
+				<word number="1">accountant</word>
+				<word number="2">auditor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="number">
+			<sg number="1">
+				<word number="1">number</word>
+				<word number="2">count</word>
+				<word number="3">tally</word>
+				<word number="4">tell</word>
+			</sg>
+			<sg number="2">
+				<word number="1">call over</word>
+				<word number="2">run over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take an account of</word>
+				<word number="2">enumerate</word>
+				<word number="3">muster</word>
+				<word number="4">poll</word>
+				<word number="5">recite</word>
+				<word number="6">recapitulate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sum up</word>
+				<word number="2">cast up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tell off</word>
+				<word number="2">score</word>
+				<word number="3">cipher</word>
+				<word number="4">compute</word>
+				<word number="5">calculate</word>
+				<word number="6">suppute</word>
+				<word number="7">add</word>
+				<word number="8">subtract</word>
+				<word number="9">multiply</word>
+				<word number="10">divide</word>
+				<word number="11">extract roots</word>
+			</sg>
+			<sg number="7">
+				<word number="1">algebraize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="check">
+			<sg number="1">
+				<word number="1">check</word>
+				<word number="2">prove</word>
+				<word number="3">demonstrate</word>
+				<word number="4">balance</word>
+				<word number="5">audit</word>
+				<word number="6">overhaul</word>
+				<word number="7">take stock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affix numbers to</word>
+				<word number="2">page</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="amount to">
+			<sg number="1">
+				<word number="1">amount to</word>
+				<word number="2">add up to</word>
+				<word number="3">come to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="numeral">
+			<sg number="1">
+				<word number="1">numeral</word>
+				<word number="2">numerical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arithmetical</word>
+				<word number="2">analytic</word>
+				<word number="3">algebraic</word>
+				<word number="4">statistical</word>
+				<word number="5">numerable</word>
+				<word number="6">computable</word>
+				<word number="7">calculable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">commensurable</word>
+				<word number="2">commensurate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incommensurable</word>
+				<word number="2">incommensurate</word>
+				<word number="3">innumerable</word>
+				<word number="4">unfathomable</word>
+				<word number="5">infinite</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="quantitatively">
+			<sg number="1">
+				<word number="1">quantitatively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arithmetically</word>
+			</sg>
+			<sg number="3">
+				<word number="1">measurably</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in numbers</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

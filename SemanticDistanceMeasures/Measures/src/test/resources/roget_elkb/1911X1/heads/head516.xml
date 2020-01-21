@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="516" name="Scholar" origNum="#492." class="4" section="5" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="scholar">
+			<sg number="1">
+				<word number="1">scholar</word>
+				<word number="2">connoisseur</word>
+				<word number="3">savant</word>
+				<word number="4">pundit</word>
+				<word number="5">schoolman</word>
+				<word number="6">professor</word>
+				<word number="7">graduate</word>
+				<word number="8">wrangler</word>
+			</sg>
+			<sg number="2">
+				<word number="1">academician</word>
+				<word number="2">academist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">master of arts</word>
+				<word number="2">doctor</word>
+				<word number="3">licentitate</word>
+				<word number="4">gownsman</word>
+			</sg>
+			<sg number="4">
+				<word number="1">philosopher</word>
+				<word number="2">master of math</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scientist</word>
+				<word number="2">clerk</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sophist</word>
+				<word number="2">sophister</word>
+			</sg>
+			<sg number="7">
+				<word number="1">linguist</word>
+			</sg>
+			<sg number="8">
+				<word number="1">glossolinguist</word>
+				<word number="2">philologist</word>
+			</sg>
+			<sg number="9">
+				<word number="1">philologer</word>
+			</sg>
+			<sg number="10">
+				<word number="1">lexicographer</word>
+				<word number="2">glossographer</word>
+			</sg>
+			<sg number="11">
+				<word number="1">grammarian</word>
+			</sg>
+			<sg number="12">
+				<word number="1">litterateur</word>
+				<word number="2">literati</word>
+				<word number="3">dilettanti</word>
+				<word number="4">illuminati</word>
+				<word number="5">cogniscenti</word>
+			</sg>
+			<sg number="13">
+				<word number="1">fellow</word>
+				<word number="2">Hebraist</word>
+				<word number="3">lexicologist</word>
+				<word number="4">mullah</word>
+				<word number="5">munshi</word>
+				<word number="6">Sanskritish</word>
+			</sg>
+			<sg number="14">
+				<word number="1">sinologist</word>
+				<word number="2">sinologue</word>
+			</sg>
+			<sg number="15">
+				<word number="1">Mezzofanti</word>
+				<word number="2">admirable Crichton</word>
+				<word number="3">Mecaenas</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">astronomer</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">historian</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">jurist</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">mathematician</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">researcher</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">rhetorician</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">theologian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bookworm">
+			<sg number="1">
+				<word number="1">bookworm</word>
+				<word number="2">helluo librorum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bibliophile</word>
+				<word number="2">bibliomaniac</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bluestocking</word>
+				<word number="2">bas-bleu</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bigwig</word>
+				<word number="2">learned Theban</word>
+				<word number="3">don</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Artium Baccalaureus</word>
+				<word number="2">Artium  Magister</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="learned man">
+			<sg number="1">
+				<word number="1">learned man</word>
+				<word number="2">literary man</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homo multarum literarum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">man of learning</word>
+				<word number="2">man of letters</word>
+				<word number="3">man of education</word>
+				<word number="4">man of genius</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="antiquarian">
+			<sg number="1">
+				<word number="1">antiquarian</word>
+				<word number="2">antiquary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">archaeologist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sage">
+			<sg number="1">
+				<word number="1" paraRef="wise man" headRef="524">sage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="pedant">
+			<sg number="1">
+				<word number="1">pedant</word>
+				<word number="2">doctrinaire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pedagogue</word>
+				<word number="2">Dr. Pangloss</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pantologist</word>
+				<word number="2">criminologist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="schoolboy">
+			<sg number="1">
+				<word number="1" paraRef="learner" headRef="567">schoolboy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="learned">
+			<sg number="1">
+				<word number="1" paraRef="learned" headRef="514">learned</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brought up at the feet of Gamaliel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="he was a scholar and a ripe and good one">
+			<sg number="1">
+				<word number="1">"he was a scholar and a ripe and good one"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the manifold linguist"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

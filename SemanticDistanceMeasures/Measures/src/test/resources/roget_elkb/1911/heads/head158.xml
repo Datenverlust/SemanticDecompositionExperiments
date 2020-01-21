@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="158" name="Eventuality" origNum="#151." class="1" section="7" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="eventuality">
+			<sg number="1">
+				<word number="1">eventuality</word>
+				<word number="2">event</word>
+				<word number="3">occurrence</word>
+				<word number="4">incident</word>
+				<word number="5">affair</word>
+				<word number="6">matter</word>
+				<word number="7">thing</word>
+				<word number="8">episode</word>
+				<word number="9">happening</word>
+				<word number="10">proceeding</word>
+				<word number="11">contingency</word>
+				<word number="12">juncture</word>
+				<word number="13">experience</word>
+				<word number="14">fact</word>
+			</sg>
+			<sg number="2">
+				<word number="1">matter of fact</word>
+			</sg>
+			<sg number="3">
+				<word number="1">naked fact</word>
+				<word number="2">bare facts</word>
+				<word number="3">just the facts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">phenomenon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">advent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="business">
+			<sg number="1">
+				<word number="1">business</word>
+				<word number="2">concern</word>
+				<word number="3">transaction</word>
+				<word number="4">dealing</word>
+				<word number="5">proceeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">circumstance</word>
+				<word number="2">particular</word>
+				<word number="3">casualty</word>
+				<word number="4">accident</word>
+				<word number="5">adventure</word>
+				<word number="6">passage</word>
+				<word number="7">crisis</word>
+				<word number="8">pass</word>
+				<word number="9">emergency</word>
+				<word number="10">contingency</word>
+				<word number="11">consequence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="occasion" headRef="150">opportunity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="the world">
+			<sg number="1">
+				<word number="1">the world</word>
+				<word number="2">life</word>
+				<word number="3">things</word>
+				<word number="4">doings</word>
+				<word number="5">affairs in general</word>
+			</sg>
+			<sg number="2">
+				<word number="1">things in general</word>
+				<word number="2">affairs in general</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the times</word>
+				<word number="2">state of affairs</word>
+				<word number="3">order of the day</word>
+			</sg>
+			<sg number="4">
+				<word number="1">course of things</word>
+				<word number="2">tide of things</word>
+				<word number="3">stream of things</word>
+				<word number="4">current of things</word>
+				<word number="5">run of things</word>
+				<word number="6">march of things</word>
+				<word number="7">course of events</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ups and downs of life</word>
+				<word number="2">vicissitudes of life</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="chance" headRef="163">chapter of accidents</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="circumstance" headRef="8">situation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="happen">
+			<sg number="1">
+				<word number="1">happen</word>
+				<word number="2">occur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take place</word>
+				<word number="2">take  effect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come</word>
+				<word number="2">become of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come off</word>
+				<word number="2">comeabout</word>
+				<word number="3">come round</word>
+				<word number="4">come into existence</word>
+				<word number="5">come forth</word>
+				<word number="6">come to pass</word>
+				<word number="7">come on</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pass</word>
+				<word number="2">present itself</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fall</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fall out</word>
+				<word number="2">turn out</word>
+			</sg>
+			<sg number="8">
+				<word number="1">run</word>
+				<word number="2">be on foot</word>
+				<word number="3">fall in</word>
+			</sg>
+			<sg number="9">
+				<word number="1">befall</word>
+				<word number="2">betide</word>
+				<word number="3">bechance</word>
+			</sg>
+			<sg number="10">
+				<word number="1">prove</word>
+				<word number="2">eventuate</word>
+				<word number="3">draw on</word>
+			</sg>
+			<sg number="11">
+				<word number="1">turn up</word>
+				<word number="2">crop up</word>
+				<word number="3">spring up</word>
+				<word number="4">pop up</word>
+				<word number="5">arise</word>
+				<word number="6">show up</word>
+				<word number="7">show its face</word>
+				<word number="8">appear</word>
+				<word number="9">come forth</word>
+				<word number="10">cast up</word>
+			</sg>
+			<sg number="12">
+				<word number="1">supervene</word>
+				<word number="2">survene</word>
+			</sg>
+			<sg number="13">
+				<word number="1">issue</word>
+				<word number="2">arrive</word>
+				<word number="3">ensue</word>
+				<word number="4">arise</word>
+				<word number="5">start</word>
+				<word number="6">hold</word>
+				<word number="7">take its course</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="be past" headRef="128">pass off</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="meet with">
+			<sg number="1">
+				<word number="1">meet with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">experience</word>
+				<word number="2">enjoy</word>
+				<word number="3">encounter</word>
+				<word number="4">undergo</word>
+				<word number="5">suffer</word>
+				<word number="6">pass through</word>
+				<word number="7">go through</word>
+				<word number="8">be subjected to</word>
+				<word number="9">be exposed to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall to the lot of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be one's chance</word>
+				<word number="2">be one's fortune</word>
+				<word number="3">be one's lot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">find</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="feel" headRef="859">endure</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="happening">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">happening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">going on</word>
+				<word number="2">doing</word>
+				<word number="3">current</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the wind</word>
+				<word number="2">in the air</word>
+				<word number="3">afloat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on foot</word>
+				<word number="2">afoot</word>
+				<word number="3">on the tapis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">at issue</word>
+				<word number="2">in question</word>
+			</sg>
+			<sg number="6">
+				<word number="1">incidental</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="eventful">
+			<sg number="1">
+				<word number="1">eventful</word>
+				<word number="2">stirring</word>
+				<word number="3">bustling</word>
+				<word number="4">full of incident</word>
+			</sg>
+			<sg number="2">
+				<word number="1">memorable</word>
+				<word number="2">momentous</word>
+				<word number="3">signal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="eventually">
+			<sg number="1">
+				<word number="1">eventually</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the event of</word>
+				<word number="2">in case</word>
+				<word number="3">just in case</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the course of things</word>
+			</sg>
+			<sg number="4">
+				<word number="1">as things</word>
+				<word number="2">times go</word>
+			</sg>
+			<sg number="5">
+				<word number="1">as the world goes</word>
+				<word number="2">wags</word>
+			</sg>
+			<sg number="6">
+				<word number="1">as the tree falls</word>
+				<word number="2">cat jumps</word>
+			</sg>
+			<sg number="7">
+				<word number="1">as it may turn out</word>
+				<word number="2">happen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="that's the way the ball bounces">
+			<sg number="1">
+				<word number="1">that's the way the ball bounces</word>
+				<word number="2">that's the way the cookie crumbles</word>
+			</sg>
+			<sg number="2">
+				<word number="1">you never know what may turn up</word>
+				<word number="2">you never know what the future will bring</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the plot thickens</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"breasts the blows of circumstance"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"so runs round of life from hour to hour"</word>
+				<word number="2">"sprinkled along the waste of years"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -118,63 +118,45 @@ public class EvaluationTest {
         }
     }
 
-
     @Test
-    public void averageFailureTestForFar(){
+    public void averageFailureTestForFar() {
 
-        Assert.assertTrue(ELKBTest.averageFailureTest() < 0.5);
-        Assert.assertTrue(ELKBTest.averageFailureTestForFar() < 0.8);
+        Assert.assertTrue(ELKTest.averageFailureTest() < 0.5);
+        Assert.assertTrue(ELKTest.averageFailureTestForFar() < 0.8);
 
-        Assert.assertTrue(ELKBTest.averageFailureTestForMiddle()< 0.5);
-        Assert.assertTrue(ELKBTest.averageFailureTestforNear()< 0.5);
+        Assert.assertTrue(ELKTest.averageFailureTestForMiddle() < 0.5);
+        Assert.assertTrue(ELKTest.averageFailureTestforNear() < 0.5);
     }
-
 
     @Test
     public void TestELKBRG65() {
-
-        Double result = ELKBTest.testRG65();
+        Double result = ELKTest.testRG65();
         Assert.assertTrue(result <= 0.24);
-
-
     }
-
 
     @Test
     public void TestELKBMEN() {
-
-
-        Double result = ELKBTest.testMEN();
+        Double result = ELKTest.testMEN();
         Assert.assertTrue(result <= 0.3);
-
-
     }
 
     @Test
     public void TestELKBMtruk() {
-
-        Double result = ELKBTest.testMtruk();
+        Double result = ELKTest.testMtruk();
         Assert.assertTrue(result <= 0.4);
-
     }
+
     @Test
     public void TestELKWordSim353() {
-
-        Double result = ELKBTest.testWordSim353();
+        Double result = ELKTest.testWordSim353();
         Assert.assertTrue(result <= 0.3);
-
     }
+
     @Test
     public void TestELKBStanfordRareWord() {
-
-
-
-        Double result = ELKBTest.testStanfordRareWordSimilarity();
+        Double result = ELKTest.testStanfordRareWordSimilarity();
         Assert.assertTrue(result <= 0.44);
-
-
     }
 
 
-
-} 
+}

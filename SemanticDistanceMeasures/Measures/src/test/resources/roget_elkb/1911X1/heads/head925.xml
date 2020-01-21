@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="925" name="Servility" origNum="#886." class="8" section="2" subSection="5" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="servility">
+			<sg number="1">
+				<word number="1">servility</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="subjection" headRef="780">slavery</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">obsequiousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">subserviency</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abasement</word>
+			</sg>
+			<sg number="6">
+				<word number="1">prostration</word>
+				<word number="2">prosternation</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="worship" headRef="1034">genuflection</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="v.">fawning</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tuft- hunting</word>
+				<word number="2">timeserving</word>
+				<word number="3">flunkeyism</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="flattery" headRef="975">sycophancy</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="humility" headRef="918">humility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sycophant">
+			<sg number="1">
+				<word number="1">sycophant</word>
+				<word number="2">parasite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">toad</word>
+				<word number="2">toady</word>
+				<word number="3">toad-eater</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tufthunter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snob</word>
+				<word number="2">flunky</word>
+				<word number="3">flunkey</word>
+				<word number="4">yes-man</word>
+				<word number="5">lapdog</word>
+				<word number="6">spaniel</word>
+				<word number="7">lickspittle</word>
+				<word number="8">smell-feast</word>
+				<word number="9">Graeculus esuriens</word>
+				<word number="10">hanger on</word>
+				<word number="11">cavaliere servente</word>
+				<word number="12">led captain</word>
+				<word number="13">carpet knight</word>
+			</sg>
+			<sg number="5">
+				<word number="1">timeserver</word>
+				<word number="2">fortune hunter</word>
+				<word number="3">Vicar of Bray</word>
+				<word number="4">Sir-Pertinax</word>
+				<word number="5">Max Sycophant</word>
+				<word number="6">pickthank</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="flatterer" headRef="977">flatterer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">doer of dirty work</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ame damnee</word>
+				<word number="2">tool</word>
+			</sg>
+			<sg number="9">
+				<word number="1">reptile</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="servant" headRef="777">slave</word>
+			</sg>
+			<sg number="11">
+				<word number="1">courtier</word>
+			</sg>
+			<sg number="12">
+				<word number="1">beat*</word>
+				<word number="2">dead beat*</word>
+				<word number="3">doughface *</word>
+				<word number="4">heeler</word>
+				<word number="5">homme de cour</word>
+				<word number="6">sponger</word>
+				<word number="7">sucker*</word>
+				<word number="8">tagtail</word>
+				<word number="9">truckler</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cringe">
+			<sg number="1">
+				<word number="1">cringe</word>
+				<word number="2">bow</word>
+				<word number="3">stoop</word>
+				<word number="4">kneel</word>
+				<word number="5">bend the knee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall on one's knees</word>
+				<word number="2">prostrate oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="worship" headRef="1034">worship</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sneak">
+			<sg number="1">
+				<word number="1">sneak</word>
+				<word number="2">crawl</word>
+				<word number="3">crouch</word>
+				<word number="4">cower</word>
+				<word number="5">sponge</word>
+				<word number="6">truckle to</word>
+				<word number="7">grovel</word>
+				<word number="8">fawn</word>
+				<word number="9">lick the feet of</word>
+				<word number="10">kiss the hem of one's garment</word>
+				<word number="11">kiss one's ass</word>
+				<word number="12">suck up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pay court to">
+			<sg number="1">
+				<word number="1">pay court to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feed on</word>
+				<word number="2">fatten on</word>
+				<word number="3">dance attendance on</word>
+				<word number="4">pin oneself upon</word>
+				<word number="5">hang on the sleeve of</word>
+				<word number="6">avaler les couleuvres</word>
+				<word number="7">keep time to</word>
+				<word number="8">fetch and carry</word>
+				<word number="9">do the dirty work of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="go with the stream">
+			<sg number="1">
+				<word number="1">go with the stream</word>
+				<word number="2">worship the rising sun</word>
+				<word number="3">hold with the hare and run with the hounds</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="servile">
+			<sg number="1">
+				<word number="1">servile</word>
+				<word number="2">obsequious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">supple,supple as a glove</word>
+			</sg>
+			<sg number="3">
+				<word number="1">soapy</word>
+				<word number="2">oily</word>
+				<word number="3">pliant</word>
+				<word number="4">cringing</word>
+				<word number="5">abased</word>
+				<word number="6">dough-faced</word>
+				<word number="7">fawning</word>
+				<word number="8">slavish</word>
+				<word number="9">groveling</word>
+				<word number="10">sniveling</word>
+				<word number="11">mealy-mouthed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beggarly</word>
+				<word number="2">sycophantic</word>
+				<word number="3">parasitical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abject</word>
+				<word number="2">prostrate</word>
+				<word number="3">down on ones marrowbones</word>
+			</sg>
+			<sg number="6">
+				<word number="1">base</word>
+				<word number="2">mean</word>
+				<word number="3">sneaking</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">crouching</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="hat in hand">
+			<sg number="1">
+				<word number="1">hat in hand</word>
+				<word number="2">cap in hand</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

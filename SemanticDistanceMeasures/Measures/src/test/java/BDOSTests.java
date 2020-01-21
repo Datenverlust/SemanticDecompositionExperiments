@@ -12,6 +12,8 @@ import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import de.dailab.nsm.semanticDistanceMeasures.measures.BDOS;
+import org.junit.Before;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -36,6 +38,7 @@ public class BDOSTests {
 
     }
 
+    @Before
     public void init() {
         bdos = new BDOS();
         //Load de.dailab.nsm.semanticDistanceMeasures.data sets
@@ -60,7 +63,7 @@ public class BDOSTests {
     }
 
 
-
+    @Test
     public void comparisonTest() {
         double failure = 0;
         double totalFailure = 0;
@@ -78,8 +81,10 @@ public class BDOSTests {
         }
         averageFailure = totalFailure / i;
         System.out.println("average Failure " + averageFailure);
+        assert(averageFailure<1);
     }
 
+    @Test
     public  void onePairTest() {
 
         Concept day = new Concept("gem");
@@ -89,11 +94,8 @@ public class BDOSTests {
 
     }
 
-    public void averageFailureOnebyOne() {
-        System.out.println("average Failure one by one");
-        comparisonTest();
-    }
 
+    @Test
     public void averageFailureTest() {
         System.out.println("average Failure Test");
         int i = 0;

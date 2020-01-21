@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="850" name="Discount" origNum="#813." class="7" section="4" subSection="4" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="discount">
+			<sg number="1">
+				<word number="1">discount</word>
+				<word number="2">abatement</word>
+				<word number="3">concession</word>
+				<word number="4">reduction</word>
+				<word number="5">depreciation</word>
+				<word number="6">allowance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">qualification</word>
+				<word number="2">set-off</word>
+				<word number="3">drawback</word>
+				<word number="4">poundage</word>
+				<word number="5">agio</word>
+				<word number="6">percentage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rebate</word>
+				<word number="2">rebatement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">backwardation</word>
+				<word number="2">contango</word>
+			</sg>
+			<sg number="5">
+				<word number="1">salvage</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tare and tret</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sale">
+			<sg number="1">
+				<word number="1">sale</word>
+				<word number="2">bargain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">half price</word>
+			</sg>
+			<sg number="3">
+				<word number="1">price war</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wholesale">
+			<sg number="1">
+				<word number="1">wholesale</word>
+				<word number="2">wholesale price</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dealer's price</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trade price</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="coupon">
+			<sg number="1">
+				<word number="1">coupon</word>
+				<word number="2">discount coupon</word>
+				<word number="3">cents-off coupon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">store coupon</word>
+				<word number="2">manufacturer's coupon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">double coupon discount</word>
+				<word number="2">triple coupon discount</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="discount">
+			<sg number="1">
+				<word number="1">discount</word>
+				<word number="2">bate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abate</word>
+				<word number="2">rebate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reduce</word>
+				<word number="2">price down</word>
+				<word number="3">mark down take off</word>
+				<word number="4">allow</word>
+				<word number="5">give</word>
+				<word number="6">make allowance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tax</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="discounting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">discounting</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at a discount">
+			<sg number="1">
+				<word number="1">at a discount</word>
+				<word number="2">below par</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at wholesale</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have a friend in the business</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="103" name="Quinquesection" origNum="#99." class="1" section="5" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="division by five">
+			<sg number="1">
+				<word number="1" paraRef="five" headRef="102">division by five</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quinquesection</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decimation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fifth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="decimate">
+			<sg number="1">
+				<word number="1">decimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quinquesect</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="quinquefid">
+			<sg number="1">
+				<word number="1">quinquefid</word>
+				<word number="2">quinquelateral</word>
+				<word number="3">quinquepartite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quinqevalent</word>
+				<word number="2">pentavalent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quinquarticular</word>
+			</sg>
+			<sg number="4">
+				<word number="1">octifid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">decimal</word>
+				<word number="2">tenth</word>
+				<word number="3">tithe</word>
+			</sg>
+			<sg number="6">
+				<word number="1">duodecimal</word>
+				<word number="2">twelfth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sexagesimal</word>
+				<word number="2">sexagenary</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hundredth</word>
+				<word number="2">centesimal</word>
+			</sg>
+			<sg number="9">
+				<word number="1">millesimal</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

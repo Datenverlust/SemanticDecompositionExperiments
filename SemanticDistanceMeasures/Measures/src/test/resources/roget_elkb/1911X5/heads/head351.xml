@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="351" name="Dryness" origNum="#340." class="3" section="2" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dryness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">dryness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">siccity</word>
+				<word number="2">aridity</word>
+				<word number="3">drought</word>
+				<word number="4">ebb tide</word>
+				<word number="5">low water</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exsiccation|">
+			<sg number="1">
+				<word number="1">exsiccation</word>
+				<word number="2">desiccation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arefaction</word>
+				<word number="2">dephlegmation</word>
+				<word number="3">drainage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drier</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="desiccative">
+			<sg number="1">
+				<word number="1">desiccative</word>
+				<word number="2">dessicator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dessicator">
+			<sg number="1">
+				<word number="1">dessicator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hair drier</word>
+				<word number="2">clothes drier</word>
+				<word number="3">gas drier</word>
+				<word number="4">electric drier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vacuum oven</word>
+				<word number="2">drying oven</word>
+				<word number="3">kiln</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lyophilizer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="clothesline">
+			<sg number="1">
+				<word number="1">clothesline</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be dry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be dry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render dry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render dry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dry up</word>
+				<word number="2">soak up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sponge</word>
+				<word number="2">swab</word>
+				<word number="3">wipe</word>
+			</sg>
+			<sg number="5">
+				<word number="1">drain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="desiccate">
+			<sg number="1">
+				<word number="1">desiccate</word>
+				<word number="2">dehydrate</word>
+				<word number="3">exsiccate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="kiln dry">
+			<sg number="1">
+				<word number="1">kiln dry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vacuum dry</word>
+				<word number="2">blow dry</word>
+				<word number="3">oven dry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hang out to dry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="mummify">
+			<sg number="1">
+				<word number="1">mummify</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="be fine">
+			<sg number="1">
+				<word number="1">be fine</word>
+				<word number="2">hold up</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dry">
+			<sg number="1">
+				<word number="1">dry</word>
+				<word number="2">anhydrous</word>
+				<word number="3">arid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adust</word>
+				<word number="2">arescent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">dried</word>
+			</sg>
+			<sg number="4">
+				<word number="1">undamped</word>
+			</sg>
+			<sg number="5">
+				<word number="1">juiceless</word>
+				<word number="2">sapless</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sear</word>
+			</sg>
+			<sg number="7">
+				<word number="1">husky</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rainless</word>
+				<word number="2">without rain</word>
+				<word number="3">fine</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dry as a bone</word>
+				<word number="2">dry as dust</word>
+				<word number="3">dry as a stick</word>
+				<word number="4">dry as a mummy</word>
+				<word number="5">dry as a biscuit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="water proof">
+			<sg number="1">
+				<word number="1">water proof</word>
+				<word number="2">water tight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dehydrated">
+			<sg number="1">
+				<word number="1">dehydrated</word>
+				<word number="2">dessicated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

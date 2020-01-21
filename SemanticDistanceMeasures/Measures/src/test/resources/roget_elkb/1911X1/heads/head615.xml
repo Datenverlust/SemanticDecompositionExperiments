@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="615" name="Soliloquy" origNum="#589." class="5" section="3" subSection="2" headGroup="18">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="soliloquy">
+			<sg number="1">
+				<word number="1">soliloquy</word>
+				<word number="2">monologue</word>
+				<word number="3">apostrophe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">monology</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="Soliloquize">
+			<sg number="1">
+				<word number="1">Soliloquize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">say to oneself</word>
+				<word number="2">talk to oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">say aside</word>
+				<word number="2">think aloud</word>
+				<word number="3">apostrophize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="soliloquizing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">soliloquizing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="aside">
+			<sg number="1">
+				<word number="1">aside</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

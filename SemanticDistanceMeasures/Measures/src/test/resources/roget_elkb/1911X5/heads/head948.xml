@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="948" name="Malediction" origNum="#908." class="8" section="3" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="malediction">
+			<sg number="1">
+				<word number="1">malediction</word>
+				<word number="2">malison</word>
+				<word number="3">curse</word>
+				<word number="4">imprecation</word>
+				<word number="5">denunciation</word>
+				<word number="6">execration</word>
+				<word number="7">anathema</word>
+				<word number="8">ban</word>
+				<word number="9">proscription</word>
+				<word number="10">excommunication</word>
+				<word number="11">commination</word>
+				<word number="12">thunders of the Vatican</word>
+				<word number="13">fulmination</word>
+				<word number="14">maranatha</word>
+			</sg>
+			<sg number="2">
+				<word number="1">aspersion</word>
+				<word number="2">disparagement</word>
+				<word number="3">vilification</word>
+				<word number="4">vituperation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="abuse">
+			<sg number="1">
+				<word number="1">abuse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">foul language</word>
+				<word number="2">bad language</word>
+				<word number="3">strong language</word>
+				<word number="4">unparliamentary language</word>
+			</sg>
+			<sg number="3">
+				<word number="1">billingsgate</word>
+				<word number="2">sauce</word>
+				<word number="3">evil speaking</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">cursing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">profane swearing</word>
+				<word number="2">oath</word>
+			</sg>
+			<sg number="6">
+				<word number="1">foul invective</word>
+				<word number="2">ribaldry</word>
+				<word number="3">rude reproach</word>
+				<word number="4">scurrility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="threat">
+			<sg number="1">
+				<word number="1" paraRef="threat" headRef="949">threat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">more bark than bite</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="disapprobation" headRef="974">invective</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="curse">
+			<sg number="1">
+				<word number="1">curse</word>
+				<word number="2">accurse</word>
+				<word number="3">imprecate</word>
+				<word number="4">damn</word>
+				<word number="5">swear at</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curse with bell book and candle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">invoke curses on the head of</word>
+				<word number="2">call down curses on the head of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">devote to destruction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="execrate">
+			<sg number="1">
+				<word number="1">execrate</word>
+				<word number="2">beshrew</word>
+				<word number="3">scold</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="censure" headRef="974">anathematize</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bold up to execration</word>
+				<word number="2">denounce</word>
+				<word number="3">proscribe</word>
+				<word number="4">excommunicate</word>
+				<word number="5">fulminate</word>
+				<word number="6">thunder against</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="threaten" headRef="949">threaten</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="curse and swear">
+			<sg number="1">
+				<word number="1">curse and swear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">swear</word>
+				<word number="2">swear like a trooper</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall a cursing</word>
+				<word number="2">rap out an oath</word>
+				<word number="3">damn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cursing">
+			<sg number="1">
+				<word number="1">cursing</word>
+				<word number="2" paraRef="" posRef="v.">cursed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="woe to">
+			<sg number="1">
+				<word number="1">woe to!</word>
+				<word number="2">beshrew!</word>
+				<word number="3">ruat coelum!</word>
+				<word number="4">ill betide</word>
+				<word number="5">woe betide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confusion seize!</word>
+				<word number="2">damn!</word>
+				<word number="3">damn it!</word>
+				<word number="4">damn you!</word>
+				<word number="5">damn you to hell!</word>
+				<word number="6">go to hell!</word>
+				<word number="7">go to blazes!</word>
+				<word number="8">confound!</word>
+				<word number="9">blast!</word>
+				<word number="10">curse!</word>
+				<word number="11">devil take!</word>
+				<word number="12">hang!</word>
+				<word number="13">out with!</word>
+				<word number="14">a plague upon!</word>
+				<word number="15">out upon!</word>
+				<word number="16">aroynt!</word>
+				<word number="17">honi soit!</word>
+				<word number="18">parbleu!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="delenda est Carthago">
+			<sg number="1">
+				<word number="1">delenda est Carthago</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

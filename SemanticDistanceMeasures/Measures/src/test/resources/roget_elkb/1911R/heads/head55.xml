@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="55" name="Completeness" origNum="#52." class="1" section="3" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="completeness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">completeness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="completion" headRef="758">completion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">integration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">allness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="entirety">
+			<sg number="1">
+				<word number="1">entirety</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="perfection" headRef="679">perfection</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solidity</word>
+				<word number="2">solidarity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">all</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ne plus ultra</word>
+				<word number="2">ideal</word>
+				<word number="3">limit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="complement">
+			<sg number="1">
+				<word number="1">complement</word>
+				<word number="2">supplement</word>
+				<word number="3">make-weight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">filling</word>
+				<word number="2" paraRef="" posRef="v.">up</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="impletion">
+			<sg number="1">
+				<word number="1">impletion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saturation</word>
+				<word number="2">saturity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high water</word>
+			</sg>
+			<sg number="4">
+				<word number="1">high tide</word>
+				<word number="2">flood tide</word>
+				<word number="3">spring tide</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fill</word>
+				<word number="2">load</word>
+				<word number="3">bumper</word>
+				<word number="4">bellyful</word>
+			</sg>
+			<sg number="6">
+				<word number="1">brimmer</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="sufficiency" headRef="668">sufficiency</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be complete">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be complete</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come to a head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render complete">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render complete</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="accomplish" headRef="758">complete</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fill</word>
+				<word number="2">charge</word>
+				<word number="3">load</word>
+				<word number="4">replenish</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make up</word>
+				<word number="2">make good</word>
+			</sg>
+			<sg number="5">
+				<word number="1">piece out</word>
+				<word number="2">eke out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">supply deficiencies</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fill up</word>
+				<word number="2">fill in</word>
+				<word number="3">fill to the brim</word>
+				<word number="4">fill the measure of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">saturate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="go the whole hog">
+			<sg number="1">
+				<word number="1">go the whole hog</word>
+				<word number="2">go the whole length</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go all lengths</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="complete">
+			<sg number="1">
+				<word number="1">complete</word>
+				<word number="2">entire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="whole" headRef="53">whole</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="perfect" headRef="679">perfect</word>
+			</sg>
+			<sg number="4">
+				<word number="1">full</word>
+				<word number="2">good</word>
+				<word number="3">absolute</word>
+				<word number="4">thorough</word>
+				<word number="5">plenary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solid</word>
+				<word number="2">undivided</word>
+			</sg>
+			<sg number="6">
+				<word number="1">with all its parts</word>
+			</sg>
+			<sg number="7">
+				<word number="1">all- sided</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exhaustive">
+			<sg number="1">
+				<word number="1">exhaustive</word>
+				<word number="2">radical</word>
+				<word number="3">sweeping</word>
+				<word number="4">thorough-going</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="regular">
+			<sg number="1">
+				<word number="1">regular</word>
+				<word number="2">consummate</word>
+				<word number="3">unmitigated</word>
+				<word number="4">sheer</word>
+				<word number="5">unqualified</word>
+				<word number="6">unconditional</word>
+				<word number="7">free</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sufficient" headRef="668">abundant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="brimming">
+			<sg number="1">
+				<word number="1">brimming</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brimful</word>
+				<word number="2">topful</word>
+				<word number="3">topfull</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chock full</word>
+				<word number="2">choke full</word>
+			</sg>
+			<sg number="4">
+				<word number="1">as full as an egg is of meat</word>
+				<word number="2">as full as a vetch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">saturated</word>
+				<word number="2">crammed</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="redundant" headRef="670">replete</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fraught</word>
+				<word number="2">laden</word>
+			</sg>
+			<sg number="8">
+				<word number="1">full-laden</word>
+				<word number="2">full-fraught</word>
+				<word number="3">full-charged</word>
+			</sg>
+			<sg number="9">
+				<word number="1">heavy laden</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="completing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">completing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">supplemental</word>
+				<word number="2">supplementary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ascititious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="completely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">completely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">altogether</word>
+				<word number="2">outright</word>
+				<word number="3">wholly</word>
+				<word number="4">totally</word>
+				<word number="5">in toto</word>
+				<word number="6">quite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">all out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">over head and ears</word>
+			</sg>
+			<sg number="5">
+				<word number="1">effectually</word>
+				<word number="2">for good and all</word>
+				<word number="3">nicely</word>
+				<word number="4">fully</word>
+				<word number="5">through thick and thin</word>
+				<word number="6">head and shoulders</word>
+			</sg>
+			<sg number="6">
+				<word number="1">neck and heel</word>
+				<word number="2">neck and crop</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in all respects</word>
+				<word number="2">in every respect</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at all points</word>
+				<word number="2">out and out</word>
+				<word number="3">to all intents and purposes</word>
+			</sg>
+			<sg number="9">
+				<word number="1">toto coelo</word>
+			</sg>
+			<sg number="10">
+				<word number="1">utterly</word>
+			</sg>
+			<sg number="11">
+				<word number="1">clean</word>
+				<word number="2">clean as a whistle</word>
+			</sg>
+			<sg number="12">
+				<word number="1">to the full</word>
+				<word number="2">to the utmost</word>
+				<word number="3">to the backbone</word>
+			</sg>
+			<sg number="13">
+				<word number="1">hollow</word>
+				<word number="2">stark</word>
+			</sg>
+			<sg number="14">
+				<word number="1">heart and soul</word>
+				<word number="2">root and branch</word>
+				<word number="3">down to the ground</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="to the top of one's bent">
+			<sg number="1">
+				<word number="1">to the top of one's bent</word>
+				<word number="2">as far as possible</word>
+				<word number="3">a outrance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="throughout">
+			<sg number="1">
+				<word number="1">throughout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">from first to last</word>
+				<word number="2">from beginning to end</word>
+				<word number="3">from end to end</word>
+				<word number="4">from one end to the other</word>
+				<word number="5">from Dan to Beersheba</word>
+				<word number="6">from head to foot</word>
+				<word number="7">from top to toe</word>
+				<word number="8">from top to bottom</word>
+				<word number="9">de fond en comble</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a fond</word>
+				<word number="2">a capite ad calcem</word>
+				<word number="3">ab ovo usque ad mala</word>
+				<word number="4">fore and aft</word>
+			</sg>
+			<sg number="4">
+				<word number="1">every</word>
+				<word number="2">whit</word>
+				<word number="3">every inch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cap-a-pie</word>
+				<word number="2">to the end of the chapter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">up to the brim</word>
+				<word number="2">up to the ears</word>
+				<word number="3">up to the eyes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">as . . . as can be</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="on all accounts">
+			<sg number="1">
+				<word number="1">on all accounts</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sous tous les rapports</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with a vengeance</word>
+				<word number="2">with a witness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="falsus in uno falsus in omnibus [Latin: false in one thing">
+			<sg number="1">
+				<word number="1">falsus in uno falsus in omnibus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">omnem movere lapidem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">una scopa nuova spazza bene</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="833" name="Stock Market " origNum="#799a." class="7" section="4" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="stock market">
+			<sg number="1">
+				<word number="1">stock market</word>
+				<word number="2">stock exchange</word>
+				<word number="3">securities exchange</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bourse</word>
+				<word number="2">board</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the big board</word>
+				<word number="2">the New York Stock Exchange</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the market</word>
+				<word number="2">the open market</word>
+			</sg>
+			<sg number="5">
+				<word number="1">over- the-counter market</word>
+			</sg>
+			<sg number="6">
+				<word number="1">privately traded issues</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="commodities exchange">
+			<sg number="1">
+				<word number="1">commodities exchange</word>
+				<word number="2">futures exchange</word>
+				<word number="3">futures market</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="the pit">
+			<sg number="1">
+				<word number="1">the pit</word>
+				<word number="2">the floor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="ticker">
+			<sg number="1">
+				<word number="1">ticker</word>
+				<word number="2">stock ticker</word>
+				<word number="3">quotation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stock index</word>
+				<word number="2">market index</word>
+				<word number="3">the Dow Jones Index</word>
+				<word number="4">the Dow Industrials</word>
+				<word number="5">the transportation index</word>
+				<word number="6">utilities</word>
+				<word number="7">the utilities index</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the New York Stock Exchange index</word>
+				<word number="2">the Nikkei index</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the Financial Times index</word>
+				<word number="2">the FTI</word>
+				<word number="3">the over-the-counter index</word>
+				<word number="4">NASDAQ index</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="broker">
+			<sg number="1">
+				<word number="1">broker</word>
+				<word number="2">stockbroker</word>
+				<word number="3">jobber</word>
+				<word number="4">stock dealer</word>
+				<word number="5">odd-lot dealer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">specialist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="investor">
+			<sg number="1">
+				<word number="1">investor</word>
+				<word number="2">speculator</word>
+				<word number="3">operator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bull</word>
+				<word number="2">buyer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bear</word>
+				<word number="2">short seller</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scalper</word>
+				<word number="2">arbitrager</word>
+				<word number="3">arbitrageur</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stockholder</word>
+				<word number="2">share-holder</word>
+				<word number="3">stockholder of record</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bond holder</word>
+				<word number="2">coupon-clipper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="investment">
+			<sg number="1">
+				<word number="1">investment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speculation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="speculate">
+			<sg number="1">
+				<word number="1">speculate</word>
+				<word number="2">invest</word>
+				<word number="3">trade</word>
+				<word number="4">trade stocks</word>
+				<word number="5">play the market</word>
+			</sg>
+			<sg number="2">
+				<word number="1">buy long</word>
+				<word number="2">sell short</word>
+				<word number="3">take a position</word>
+				<word number="4">straddle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take a plunge</word>
+				<word number="2">plunge in</word>
+				<word number="3">take a flier</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

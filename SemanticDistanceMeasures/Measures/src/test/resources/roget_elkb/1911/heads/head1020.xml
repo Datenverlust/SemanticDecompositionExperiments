@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1020" name="Angel" origNum="#977." class="8" section="5" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="angel">
+			<sg number="1">
+				<word number="1">angel</word>
+				<word number="2">archangel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">guardian angel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heavenly host</word>
+				<word number="2">host of heaven</word>
+				<word number="3">sons of God</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seraph</word>
+				<word number="2">seraphim</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cherub</word>
+				<word number="2">cherubim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ministering spirit">
+			<sg number="1">
+				<word number="1">ministering spirit</word>
+				<word number="2">morning star</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="saint">
+			<sg number="1">
+				<word number="1">saint</word>
+				<word number="2">patron saint</word>
+				<word number="3">Madonna</word>
+			</sg>
+			<sg number="2">
+				<word number="1">invisible helpers</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="angelic">
+			<sg number="1">
+				<word number="1">angelic</word>
+				<word number="2">seraphic</word>
+				<word number="3">cherubic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saintly</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="372" name="Death" origNum="#360." class="3" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="death">
+			<sg number="1">
+				<word number="1">death</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decease</word>
+				<word number="2">demise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dissolution</word>
+				<word number="2">departure</word>
+				<word number="3">obit</word>
+				<word number="4">release</word>
+				<word number="5">rest</word>
+				<word number="6">quietus</word>
+				<word number="7">fall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">loss</word>
+				<word number="2">bereavement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mortality</word>
+				<word number="2">morbidity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="end of life">
+			<sg number="1">
+				<word number="1" paraRef="end" headRef="71">end of life</word>
+				<word number="2" paraRef="cessation" headRef="149">cessation of life</word>
+				<word number="3">loss of life</word>
+				<word number="4">extinction of life</word>
+				<word number="5" paraRef="life" headRef="371">ebb of life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="death warrant">
+			<sg number="1">
+				<word number="1">death warrant</word>
+				<word number="2">death watch</word>
+				<word number="3">death rattle</word>
+				<word number="4">death bed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stroke of death</word>
+				<word number="2">agonies of death</word>
+				<word number="3">shades of death</word>
+				<word number="4">valley of death</word>
+				<word number="5">jaws of death</word>
+				<word number="6">hand of death</word>
+			</sg>
+			<sg number="3">
+				<word number="1">last breath</word>
+				<word number="2">last gasp</word>
+				<word number="3">last agonies</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dying day</word>
+				<word number="2">dying breath</word>
+				<word number="3">dying agonies</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chant du cygne</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rigor mortis</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Stygian shore</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="King of terrors">
+			<sg number="1">
+				<word number="1">King of terrors</word>
+				<word number="2">King Death</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Death</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="necessity" headRef="627">doom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"Hell's grim Tyrant"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="euthanasia">
+			<sg number="1">
+				<word number="1">euthanasia</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break up of the system</word>
+			</sg>
+			<sg number="3">
+				<word number="1">natural death</word>
+				<word number="2">natural decay</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sudden death</word>
+				<word number="2">violent death</word>
+			</sg>
+			<sg number="5">
+				<word number="1">untimely end</word>
+				<word number="2">watery grave</word>
+			</sg>
+			<sg number="6">
+				<word number="1">debt of nature</word>
+			</sg>
+			<sg number="7">
+				<word number="1">suffocation</word>
+				<word number="2">asphyxia</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="disease" headRef="684">fatal disease</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="killing" headRef="373">death blow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="necrology">
+			<sg number="1">
+				<word number="1">necrology</word>
+				<word number="2">bills of mortality</word>
+				<word number="3">obituary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lamentation" headRef="877">death song</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="die">
+			<sg number="1">
+				<word number="1">die</word>
+				<word number="2">expire</word>
+				<word number="3">perish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">meet one's death</word>
+				<word number="2">meet one's end</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pass away</word>
+				<word number="2">be taken</word>
+			</sg>
+			<sg number="4">
+				<word number="1">yield  one's breath</word>
+				<word number="2">resign one's breath</word>
+			</sg>
+			<sg number="5">
+				<word number="1">resign one's being</word>
+				<word number="2">resign one's life</word>
+			</sg>
+			<sg number="6">
+				<word number="1">end one's days</word>
+				<word number="2">end one's life</word>
+				<word number="3">end one's earthly career</word>
+			</sg>
+			<sg number="7">
+				<word number="1">breathe one's last</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cease to live</word>
+				<word number="2">cease to breathe</word>
+			</sg>
+			<sg number="9">
+				<word number="1">depart this life</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="" posRef="adj.">be no more</word>
+			</sg>
+			<sg number="11">
+				<word number="1">go off</word>
+				<word number="2">drop off</word>
+				<word number="3">pop off</word>
+			</sg>
+			<sg number="12">
+				<word number="1">lose one's life</word>
+				<word number="2">lay down one's life</word>
+				<word number="3">relinquish one's life</word>
+				<word number="4">surrender one's life</word>
+			</sg>
+			<sg number="13">
+				<word number="1">drop into the grave</word>
+				<word number="2">sink into the grave</word>
+			</sg>
+			<sg number="14">
+				<word number="1">close one's eyes</word>
+			</sg>
+			<sg number="15">
+				<word number="1">fall dead</word>
+				<word number="2">drop dead</word>
+				<word number="3">fall down dead</word>
+				<word number="4">drop down dead</word>
+			</sg>
+			<sg number="16">
+				<word number="1">break one's neck</word>
+			</sg>
+			<sg number="17">
+				<word number="1">give up the ghost</word>
+				<word number="2">yield up the ghost</word>
+			</sg>
+			<sg number="18">
+				<word number="1">be all over with one</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pay the debt to nature">
+			<sg number="1">
+				<word number="1">pay the debt to nature</word>
+				<word number="2">shuffle off this mortal coil</word>
+				<word number="3">take one's last sleep</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go the way of all flesh</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hand in one's checks</word>
+				<word number="2">pass in one's checks</word>
+				<word number="3">hand in one's chips</word>
+				<word number="4">pass in one's chips</word>
+			</sg>
+			<sg number="4">
+				<word number="1">join the greater number</word>
+				<word number="2">join the majority</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come to dust</word>
+				<word number="2">turn to dust</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cross the Stygian ferry</word>
+				<word number="2">cross the bar</word>
+			</sg>
+			<sg number="7">
+				<word number="1">go to one's long account</word>
+				<word number="2">go to one's last home</word>
+				<word number="3">go to Davy Jones's locker</word>
+				<word number="4">go to the wall</word>
+			</sg>
+			<sg number="8">
+				<word number="1">receive one's death warrant</word>
+				<word number="2">make one's will</word>
+				<word number="3">step out</word>
+				<word number="4">die a natural death</word>
+				<word number="5">go out like the snuff of a candle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">come to an untimely end</word>
+			</sg>
+			<sg number="10">
+				<word number="1">catch one's death</word>
+			</sg>
+			<sg number="11">
+				<word number="1">go off the hooks</word>
+				<word number="2">kick the bucket</word>
+				<word number="3">buy the farm</word>
+				<word number="4">hop the twig</word>
+				<word number="5">turn up one's toes</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="kill" headRef="373">die a violent death</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dead">
+			<sg number="1">
+				<word number="1">dead</word>
+				<word number="2">lifeless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deceased</word>
+				<word number="2">demised</word>
+				<word number="3">departed</word>
+				<word number="4">defunct</word>
+				<word number="5">extinct</word>
+			</sg>
+			<sg number="3">
+				<word number="1">late</word>
+				<word number="2">gone</word>
+				<word number="3">no more</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exanimate</word>
+				<word number="2">inanimate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of the world</word>
+				<word number="2">taken off</word>
+				<word number="3">released</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">departed this life</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dead and gone</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dead as a doornail</word>
+				<word number="2">dead as a doorpost</word>
+				<word number="3">dead as a mutton</word>
+				<word number="4">dead as a herring</word>
+				<word number="5">dead as nits</word>
+			</sg>
+			<sg number="9">
+				<word number="1">launched into eternity</word>
+				<word number="2">gone to one's eternal reward</word>
+				<word number="3">gone to meet one's maker</word>
+				<word number="4">pushing up daisies</word>
+				<word number="5">gathered to one's fathers</word>
+				<word number="6">numbered with the dead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">dying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">moribund</word>
+				<word number="2">morient</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hippocratic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in articulo</word>
+				<word number="2">in extremis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in the jaws of death</word>
+				<word number="2">in the agony of death</word>
+			</sg>
+			<sg number="6">
+				<word number="1">going off</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aux abois</word>
+			</sg>
+			<sg number="8">
+				<word number="1">one one's last legs</word>
+				<word number="2">on one's death bed</word>
+			</sg>
+			<sg number="9">
+				<word number="1">at the point of death</word>
+				<word number="2">at death's door,</word>
+				<word number="3">at the last gasp</word>
+			</sg>
+			<sg number="10">
+				<word number="1">near one's end</word>
+				<word number="2">given over</word>
+				<word number="3">booked</word>
+			</sg>
+			<sg number="11">
+				<word number="1">with one foot in the grave</word>
+				<word number="2">tottering on the brink of the grave</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stillborn">
+			<sg number="1">
+				<word number="1">stillborn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mortuary</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="killing" headRef="373">deadly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="post obit">
+			<sg number="1">
+				<word number="1">post obit</word>
+				<word number="2">post mortem</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="life ebbs">
+			<sg number="1">
+				<word number="1">life ebbs</word>
+				<word number="2">life fails</word>
+				<word number="3">life hangs by a thread</word>
+			</sg>
+			<sg number="2">
+				<word number="1">one's days are numbered</word>
+				<word number="2">one's hour is come</word>
+				<word number="3">one's race is run</word>
+				<word number="4">one's doom is sealed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Death knocks at the door</word>
+				<word number="2">Death stares one in the face</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the breath is out of the body</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the grave closes over one</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sic itur ad astra</word>
+			</sg>
+			<sg number="7">
+				<word number="1">de mortuis nil nisi bonum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dulce et decorum est pro patria mori</word>
+			</sg>
+			<sg number="9">
+				<word number="1">honesta mors turpi vita potior</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"in adamantine chains shall death be bound"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">mors ultima linea rerum est</word>
+			</sg>
+			<sg number="12">
+				<word number="1">ominia mors aequat</word>
+			</sg>
+			<sg number="13">
+				<word number="1">"Spake the grisly Terror"</word>
+			</sg>
+			<sg number="14">
+				<word number="1">"the lone couch of this everlasting sleep"</word>
+			</sg>
+			<sg number="15">
+				<word number="1">nothing is certain but death and taxes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

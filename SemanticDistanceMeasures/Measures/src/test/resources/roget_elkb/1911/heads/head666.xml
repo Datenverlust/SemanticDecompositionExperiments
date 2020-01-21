@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="666" name="Provision" origNum="#637." class="6" section="2" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="provision">
+			<sg number="1">
+				<word number="1">provision</word>
+				<word number="2">supply</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grist</word>
+				<word number="2">grist for the mill</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="aid" headRef="736">subvention</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="means" headRef="661">resources</word>
+			</sg>
+			<sg number="5">
+				<word number="1">groceries</word>
+				<word number="2">grocery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="providing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">providing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">purveyance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reinforcement</word>
+				<word number="2">reenforcement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">commissariat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="provender">
+			<sg number="1">
+				<word number="1" paraRef="food" headRef="309">provender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ensilage</word>
+			</sg>
+			<sg number="3">
+				<word number="1">viaticum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="caterer">
+			<sg number="1">
+				<word number="1">caterer</word>
+				<word number="2">purveyor</word>
+				<word number="3">commissary</word>
+				<word number="4">quartermaster</word>
+				<word number="5">manciple</word>
+				<word number="6">feeder</word>
+				<word number="7">batman</word>
+				<word number="8">victualer</word>
+				<word number="9">grocer</word>
+				<word number="10">comprador</word>
+				<word number="11">restaurateur</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jackal</word>
+				<word number="2">pelican</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="merchant" headRef="830">sutler</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="grocery shop [U">
+			<sg number="1">
+				<word number="1">grocery shop</word>
+				<word number="2">grocery store</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="provide">
+			<sg number="1">
+				<word number="1">provide</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make provision</word>
+				<word number="2">make due provision for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay in</word>
+				<word number="2">lay in a stock</word>
+				<word number="3">lay in a store</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="supply">
+			<sg number="1">
+				<word number="1">supply</word>
+				<word number="2">suppeditate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">furnish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">find</word>
+				<word number="2">find one in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cater">
+			<sg number="1">
+				<word number="1">cater</word>
+				<word number="2">victual</word>
+				<word number="3">provision</word>
+				<word number="4">purvey</word>
+				<word number="5">forage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beat up for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stock</word>
+				<word number="2">stock with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make good</word>
+				<word number="2">replenish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fill</word>
+				<word number="2">fill up</word>
+			</sg>
+			<sg number="6">
+				<word number="1">recruit</word>
+				<word number="2">feed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="have in store">
+			<sg number="1">
+				<word number="1">have in store</word>
+				<word number="2">have in reserve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">keep</word>
+				<word number="2">keep by one</word>
+				<word number="3">keep on foot</word>
+				<word number="4">keep on hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have to fall back upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="store" headRef="665">store</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="economy" headRef="854">provide against a rainy day</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

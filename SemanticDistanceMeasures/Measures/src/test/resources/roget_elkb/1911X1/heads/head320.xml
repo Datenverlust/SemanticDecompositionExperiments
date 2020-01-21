@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="320" name="Leap" origNum="#309." class="2" section="4" subSection="4" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="leap">
+			<sg number="1">
+				<word number="1">leap</word>
+				<word number="2">jump</word>
+				<word number="3">hop</word>
+				<word number="4">spring</word>
+				<word number="5">bound</word>
+				<word number="6">vault</word>
+				<word number="7">saltation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ance">
+			<sg number="1">
+				<word number="1">ance</word>
+				<word number="2">caper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curvet</word>
+				<word number="2">caracole</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gambade</word>
+				<word number="2">gambado</word>
+			</sg>
+			<sg number="4">
+				<word number="1">capriole</word>
+				<word number="2">demivolt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">buck</word>
+				<word number="2">buck jump</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hop skip and jump</word>
+			</sg>
+			<sg number="7">
+				<word number="1">falcade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="kangaroo">
+			<sg number="1">
+				<word number="1">kangaroo</word>
+				<word number="2">jerboa</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chamois</word>
+				<word number="2">goat</word>
+				<word number="3">frog</word>
+				<word number="4">grasshopper</word>
+				<word number="5">flea</word>
+			</sg>
+			<sg number="3">
+				<word number="1">buckjumper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wallaby</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="leap">
+			<sg number="1">
+				<word number="1">leap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">jump up</word>
+				<word number="2">jump over the moon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hop</word>
+				<word number="2">spring</word>
+				<word number="3">bound</word>
+				<word number="4">vault</word>
+				<word number="5">ramp</word>
+				<word number="6">cut capers</word>
+				<word number="7">trip</word>
+				<word number="8">skip</word>
+				<word number="9">dance</word>
+				<word number="10">caper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">buck</word>
+				<word number="2">buck jump</word>
+			</sg>
+			<sg number="5">
+				<word number="1">curvet</word>
+				<word number="2">caracole</word>
+			</sg>
+			<sg number="6">
+				<word number="1">foot it</word>
+				<word number="2">bob</word>
+				<word number="3">bounce</word>
+				<word number="4">flounce</word>
+				<word number="5">start</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="amusement" headRef="878">frisk</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="agitation" headRef="326">jump about</word>
+			</sg>
+			<sg number="9">
+				<word number="1">trip it on the light fantastic toe</word>
+				<word number="2">trip the light fantastic</word>
+				<word number="3">dance oneself off one's legs</word>
+				<word number="4">dance off one's shoes</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="leaping">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">leaping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">saltatory</word>
+				<word number="2">frisky</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on the light fantastic toe">
+			<sg number="1">
+				<word number="1">on the light fantastic toe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="di salto in salto">
+			<sg number="1">
+				<word number="1">di salto in salto</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

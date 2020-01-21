@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="891" name="Fashion" origNum="#852." class="8" section="2" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fashion">
+			<sg number="1">
+				<word number="1">fashion</word>
+				<word number="2">style</word>
+				<word number="3">ton</word>
+				<word number="4">bon ton!</word>
+				<word number="5">society</word>
+			</sg>
+			<sg number="2">
+				<word number="1">good society</word>
+				<word number="2">polite society</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monde</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drawing-room</word>
+				<word number="2">civilized life</word>
+				<word number="3">civilization</word>
+				<word number="4">town</word>
+				<word number="5">beau monde</word>
+				<word number="6">high life</word>
+				<word number="7">court</word>
+			</sg>
+			<sg number="5">
+				<word number="1">world</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fashionable world</word>
+				<word number="2">gay world</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Vanity Fair</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="ostentation" headRef="921">show</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="manners">
+			<sg number="1">
+				<word number="1">manners</word>
+				<word number="2" paraRef="politeness" headRef="933">breeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1">air</word>
+				<word number="2" paraRef="appearance" headRef="467">demeanor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">savoir faire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gentlemanliness</word>
+				<word number="2">gentility</word>
+				<word number="3">decorum</word>
+				<word number="4">propriety</word>
+				<word number="5">bienséance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conventions of society</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Mrs. Grundy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">punctilio</word>
+			</sg>
+			<sg number="8">
+				<word number="1">form</word>
+				<word number="2">formality</word>
+			</sg>
+			<sg number="9">
+				<word number="1">etiquette</word>
+				<word number="2">point of etiquette</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="dress" headRef="235">dress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="custom">
+			<sg number="1">
+				<word number="1" paraRef="custom" headRef="641">custom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mode</word>
+				<word number="2">vogue</word>
+				<word number="3">go</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="desire" headRef="904">rage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">prevailing taste</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fad</word>
+				<word number="2">trend</word>
+				<word number="3">bandwagon</word>
+				<word number="4">furore</word>
+				<word number="5">thing</word>
+				<word number="6">in thing</word>
+				<word number="7">craze</word>
+				<word number="8">chic</word>
+				<word number="9">last word</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="man of fashion">
+			<sg number="1">
+				<word number="1">man of fashion</word>
+				<word number="2">woman of fashion</word>
+				<word number="3">man of the world</word>
+				<word number="4">woman of the world</word>
+			</sg>
+			<sg number="2">
+				<word number="1">height of fashion</word>
+				<word number="2">pink of fashion</word>
+				<word number="3">star of fashion</word>
+				<word number="4">glass of fashion</word>
+				<word number="5">leader of fashion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="taste" headRef="889">arbiter elegantiarum</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the beautiful people</word>
+				<word number="2">the fashion set</word>
+				<word number="3" paraRef="nobility" headRef="914">upper ten thousand</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="distinction" headRef="912">elite</word>
+			</sg>
+			<sg number="6">
+				<word number="1">smart set</word>
+			</sg>
+			<sg number="7">
+				<word number="1">the four hundred</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in crowd</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be fashionable">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be fashionable</word>
+				<word number="2" paraRef="" posRef="n.">be the rage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a run</word>
+				<word number="2">pass current</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="follow the fashion">
+			<sg number="1">
+				<word number="1">follow the fashion</word>
+				<word number="2">conform to the fashion</word>
+				<word number="3">fall in with the fashion</word>
+				<word number="4">follow the trend</word>
+				<word number="5" paraRef="" posRef="n.">follow the crowd</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="conformity" headRef="86">go with the stream</word>
+			</sg>
+			<sg number="3">
+				<word number="1">savoir vivre</word>
+				<word number="2">savoir faire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">keep up appearances</word>
+				<word number="2">behave oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="set the fashion">
+			<sg number="1">
+				<word number="1">set the fashion</word>
+				<word number="2">bring in the fashion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">give a tone to society</word>
+				<word number="2">cut a figure in society</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep one's carriage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fashionable">
+			<sg number="1">
+				<word number="1">fashionable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">in fashion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a la mode</word>
+				<word number="2">comme il faut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">admitted in society</word>
+				<word number="2" paraRef="" posRef="n.">admissible in society</word>
+			</sg>
+			<sg number="5">
+				<word number="1">presentable</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="custom" headRef="641">conventional</word>
+			</sg>
+			<sg number="7">
+				<word number="1">genteel</word>
+			</sg>
+			<sg number="8">
+				<word number="1">well-bred</word>
+				<word number="2">well mannered</word>
+				<word number="3">well behaved</word>
+				<word number="4">well spoken</word>
+			</sg>
+			<sg number="9">
+				<word number="1">gentlemanlike</word>
+				<word number="2">gentlemanly</word>
+			</sg>
+			<sg number="10">
+				<word number="1">ladylike</word>
+			</sg>
+			<sg number="11">
+				<word number="1">civil</word>
+				<word number="2" paraRef="courteous" headRef="933">polite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="polished">
+			<sg number="1">
+				<word number="1">polished</word>
+				<word number="2">refined</word>
+				<word number="3">thoroughbred</word>
+				<word number="4">courtly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">distingue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unembarrassed</word>
+				<word number="2">degage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">janty</word>
+				<word number="2">jaunty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dashing</word>
+				<word number="2">fast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="modish">
+			<sg number="1">
+				<word number="1">modish</word>
+				<word number="2">stylish</word>
+				<word number="3">chic</word>
+				<word number="4">trendy</word>
+				<word number="5">recherche</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unfamiliar" headRef="87">newfangled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">all the rage</word>
+				<word number="2">all the go!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">with it</word>
+				<word number="2">in</word>
+				<word number="3">faddish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="in court">
+			<sg number="1">
+				<word number="1">in court</word>
+				<word number="2">in full dress</word>
+				<word number="3">in evening dress</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ornament" headRef="885">en grande tenue</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="fashionably">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">fashionably</word>
+			</sg>
+			<sg number="2">
+				<word number="1">for fashion's sake</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a la francaise">
+			<sg number="1">
+				<word number="1">a la francaise</word>
+				<word number="2">a la parisienne</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a l' anglaise</word>
+				<word number="2">a l' americaine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">autre temps autre mauers</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chaque pays a sa guise</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

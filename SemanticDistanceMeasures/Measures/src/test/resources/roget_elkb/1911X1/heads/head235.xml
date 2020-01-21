@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="235" name="Clothing" origNum="#225." class="2" section="2" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="clothing">
+			<sg number="1">
+				<word number="1">clothing</word>
+				<word number="2">investment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="covering" headRef="233">covering</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dress</word>
+				<word number="2">raiment</word>
+				<word number="3">drapery</word>
+				<word number="4">costume</word>
+				<word number="5">attire</word>
+				<word number="6">guise</word>
+				<word number="7">toilet</word>
+				<word number="8">toilette</word>
+				<word number="9">trim</word>
+				<word number="10" new="1">fashions</word>
+			</sg>
+			<sg number="4">
+				<word number="1">habiliment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">vesture</word>
+				<word number="2">vestment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">garment</word>
+				<word number="2">garb</word>
+				<word number="3">palliament</word>
+				<word number="4">apparel</word>
+				<word number="5">wardrobe</word>
+				<word number="6">wearing apparel</word>
+				<word number="7">clothes</word>
+				<word number="8">things</word>
+			</sg>
+			<sg number="7">
+				<word number="1">underclothes</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">cloth</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">makeup</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="array">
+			<sg number="1">
+				<word number="1">array</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tailoring</word>
+				<word number="2">millinery</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ornament" headRef="885">finery</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="show" headRef="921">full dress</word>
+			</sg>
+			<sg number="5">
+				<word number="1">garniture</word>
+			</sg>
+			<sg number="6">
+				<word number="1">theatrical properties</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="outfit">
+			<sg number="1">
+				<word number="1">outfit</word>
+				<word number="2">equipment</word>
+				<word number="3">trousseau</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uniform</word>
+				<word number="2">regimentals</word>
+			</sg>
+			<sg number="3">
+				<word number="1">continentals</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="canonicals" headRef="1043">canonicals</word>
+			</sg>
+			<sg number="5">
+				<word number="1">livery</word>
+				<word number="2">gear</word>
+				<word number="3">harness</word>
+				<word number="4">turn-out</word>
+				<word number="5">accouterment</word>
+				<word number="6">caparison</word>
+				<word number="7">suit</word>
+				<word number="8">rigging</word>
+				<word number="9">trappings</word>
+				<word number="10">traps</word>
+				<word number="11">slops</word>
+				<word number="12">togs</word>
+				<word number="13">toggery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">day wear</word>
+				<word number="2">night wear</word>
+				<word number="3">zoot suit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">designer clothes</word>
+			</sg>
+			<sg number="8">
+				<word number="1">masquerade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dishabille">
+			<sg number="1">
+				<word number="1">dishabille</word>
+				<word number="2">morning dress</word>
+				<word number="3">undress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="kimono">
+			<sg number="1">
+				<word number="1">kimono</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lungi</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shooting-coat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mufti</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rags</word>
+				<word number="2">tatters</word>
+				<word number="3">old clothes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mourning</word>
+				<word number="2">weeds</word>
+			</sg>
+			<sg number="7">
+				<word number="1">duds</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slippers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="robe">
+			<sg number="1">
+				<word number="1">robe</word>
+				<word number="2">tunic</word>
+				<word number="3">paletot</word>
+				<word number="4">habit</word>
+				<word number="5">gown</word>
+				<word number="6">coat</word>
+				<word number="7">frock</word>
+				<word number="8">blouse</word>
+				<word number="9">toga</word>
+				<word number="10">smock frock</word>
+				<word number="11">claw coat</word>
+				<word number="12">hammer coat</word>
+				<word number="13">Prince Albert coat</word>
+				<word number="14">sack coat</word>
+				<word number="15">tuxedo coat</word>
+				<word number="16">frock coat</word>
+				<word number="17">dress coat</word>
+				<word number="18">tail coat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cloak">
+			<sg number="1">
+				<word number="1">cloak</word>
+				<word number="2">pall</word>
+				<word number="3">mantle</word>
+				<word number="4">mantlet mantua</word>
+				<word number="5">shawl</word>
+				<word number="6">pelisse</word>
+				<word number="7">wrapper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">veil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cape</word>
+				<word number="2">tippet</word>
+				<word number="3">kirtle</word>
+				<word number="4">plaid</word>
+				<word number="5">muffler</word>
+				<word number="6">comforter</word>
+				<word number="7">haik</word>
+				<word number="8">huke</word>
+				<word number="9">chlamys</word>
+				<word number="10">mantilla</word>
+				<word number="11">tabard</word>
+				<word number="12">housing</word>
+				<word number="13">horse cloth</word>
+				<word number="14">burnoose</word>
+				<word number="15">burnous</word>
+				<word number="16">roquelaure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">houppelande</word>
+			</sg>
+			<sg number="5">
+				<word number="1">surcoat</word>
+				<word number="2">overcoat</word>
+				<word number="3">great coat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">surtout</word>
+				<word number="2">spencer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mackintosh</word>
+				<word number="2">waterproof</word>
+				<word number="3">raincoat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ulster</word>
+				<word number="2">P- coat</word>
+				<word number="3">dreadnought</word>
+				<word number="4">wraprascal</word>
+				<word number="5">poncho</word>
+				<word number="6">cardinal</word>
+				<word number="7">pelerine</word>
+			</sg>
+			<sg number="9">
+				<word number="1">barbe</word>
+				<word number="2">chudder</word>
+				<word number="3">jubbah</word>
+				<word number="4">oilskins</word>
+				<word number="5">pajamas</word>
+				<word number="6">pilot jacket</word>
+				<word number="7">talma      jacket</word>
+				<word number="8">vest</word>
+				<word number="9">jerkin</word>
+				<word number="10">waistcoat</word>
+				<word number="11">doublet</word>
+				<word number="12">camisole</word>
+				<word number="13">gabardine</word>
+			</sg>
+			<sg number="10">
+				<word number="1">farthingale</word>
+				<word number="2">kilt</word>
+				<word number="3">jupe</word>
+				<word number="4">crinoline</word>
+				<word number="5">bustle</word>
+				<word number="6">panier</word>
+				<word number="7">skirt</word>
+				<word number="8">apron</word>
+				<word number="9">pinafore</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bloomer</word>
+				<word number="2">bloomers</word>
+			</sg>
+			<sg number="12">
+				<word number="1">chaqueta</word>
+				<word number="2">songtag</word>
+				<word number="3">tablier</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">jacket</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">shroud</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">tartan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="pants">
+			<sg number="1">
+				<word number="1">pants</word>
+				<word number="2">trousers</word>
+				<word number="3">trowsers</word>
+			</sg>
+			<sg number="2">
+				<word number="1">breeches</word>
+				<word number="2">pantaloons</word>
+				<word number="3">inexpressibles!</word>
+				<word number="4">overalls</word>
+				<word number="5">smalls</word>
+				<word number="6">small clothes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shintiyan!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shorts</word>
+				<word number="2">jockey shorts</word>
+				<word number="3">boxer shorts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tights</word>
+				<word number="2">drawers</word>
+				<word number="3">panties</word>
+				<word number="4">unmentionables</word>
+			</sg>
+			<sg number="6">
+				<word number="1">knickers</word>
+				<word number="2">knickerbockers</word>
+			</sg>
+			<sg number="7">
+				<word number="1">philibeg</word>
+				<word number="2">fillibeg</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pants suit</word>
+			</sg>
+			<sg number="9">
+				<word number="1">culottes</word>
+			</sg>
+			<sg number="10">
+				<word number="1">jeans</word>
+				<word number="2">blue jeans</word>
+				<word number="3">dungarees</word>
+				<word number="4">denims</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">blazer</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">loafer</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">sneaker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="Levis">
+			<sg number="1">
+				<word number="1">Levis</word>
+				<word number="2">Calvin Klein</word>
+				<word number="3">Calvins</word>
+				<word number="4">Bonjour</word>
+				<word number="5">Gloria Vanderbilt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="headdress">
+			<sg number="1">
+				<word number="1">headdress</word>
+				<word number="2">headgear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chapeau</word>
+				<word number="2">crush hat</word>
+				<word number="3">opera hat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kaffiyeh</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sombrero</word>
+				<word number="2">jam</word>
+				<word number="3">tam-o-shanter</word>
+				<word number="4">tarboosh</word>
+				<word number="5">topi</word>
+				<word number="6">sola topi</word>
+				<word number="7">pagri</word>
+				<word number="8">puggaree</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cap</word>
+				<word number="2">hat</word>
+				<word number="3">beaver hat</word>
+				<word number="4">coonskin cap</word>
+			</sg>
+			<sg number="6">
+				<word number="1">castor</word>
+				<word number="2">bonnet</word>
+				<word number="3">tile</word>
+				<word number="4">wideawake</word>
+				<word number="5">billycock</word>
+				<word number="6">wimple</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nightcap</word>
+				<word number="2">mobcap</word>
+				<word number="3">skullcap</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hood</word>
+				<word number="2">coif</word>
+			</sg>
+			<sg number="9">
+				<word number="1">capote</word>
+				<word number="2">calash</word>
+			</sg>
+			<sg number="10">
+				<word number="1">kerchief</word>
+				<word number="2">snood</word>
+				<word number="3">babushka</word>
+			</sg>
+			<sg number="11">
+				<word number="1">head</word>
+				<word number="2">coiffure</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="circle" headRef="257">crown</word>
+			</sg>
+			<sg number="13">
+				<word number="1">chignon</word>
+				<word number="2">pelt</word>
+				<word number="3">wig</word>
+				<word number="4">front</word>
+				<word number="5">peruke</word>
+				<word number="6">periwig</word>
+				<word number="7">caftan</word>
+				<word number="8">turban</word>
+				<word number="9">fez</word>
+				<word number="10">shako</word>
+				<word number="11">csako</word>
+				<word number="12">busby</word>
+			</sg>
+			<sg number="14">
+				<word number="1">kepi</word>
+				<word number="2">forage cap</word>
+				<word number="3">bearskin</word>
+			</sg>
+			<sg number="15">
+				<word number="1">baseball cap</word>
+			</sg>
+			<sg number="16">
+				<word number="1">fishing hat</word>
+			</sg>
+			<sg number="17">
+				<word number="1" paraRef="helmet" headRef="746">helmet</word>
+			</sg>
+			<sg number="18">
+				<word number="1">mask</word>
+				<word number="2">domino</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">glasses</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">goggles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="body clothes">
+			<sg number="1">
+				<word number="1">body clothes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">linen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hickory shirt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shirt</word>
+				<word number="2">sark</word>
+				<word number="3">smock</word>
+				<word number="4">shift</word>
+				<word number="5">chemise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">night gown</word>
+				<word number="2">negligee</word>
+				<word number="3">dressing gown</word>
+				<word number="4">night shirt</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bedgown</word>
+				<word number="2">sac de nuit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="underclothes">
+			<sg number="1">
+				<word number="1">underclothes</word>
+				<word number="2">underpants</word>
+				<word number="3">undershirt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slip</word>
+				<word number="2">brassiere</word>
+				<word number="3">corset</word>
+				<word number="4">stays</word>
+				<word number="5">corsage</word>
+				<word number="6">corset</word>
+				<word number="7">corselet</word>
+				<word number="8">bodice</word>
+				<word number="9" paraRef="circle" headRef="257">girdle</word>
+				<word number="10" new="1">thong</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stomacher</word>
+			</sg>
+			<sg number="4">
+				<word number="1">petticoat</word>
+				<word number="2">panties</word>
+			</sg>
+			<sg number="5">
+				<word number="1">under waistcoat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jock</word>
+				<word number="2">athletic supporter</word>
+				<word number="3">jockstrap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="sweater">
+			<sg number="1">
+				<word number="1">sweater</word>
+				<word number="2">jersey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cardigan</word>
+			</sg>
+			<sg number="3">
+				<word number="1">turtleneck</word>
+				<word number="2">pullover</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sweater vest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="neckerchief">
+			<sg number="1">
+				<word number="1">neckerchief</word>
+				<word number="2">neckcloth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tie</word>
+				<word number="2">ruff</word>
+				<word number="3">collar</word>
+				<word number="4">cravat</word>
+				<word number="5">stock</word>
+				<word number="6">handkerchief</word>
+				<word number="7">scarf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bib</word>
+				<word number="2">tucker</word>
+			</sg>
+			<sg number="4">
+				<word number="1">boa</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cummerbund</word>
+				<word number="2">rumal</word>
+				<word number="3">rabat</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">lapel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="shoe">
+			<sg number="1">
+				<word number="1">shoe</word>
+				<word number="2">pump</word>
+				<word number="3">boot</word>
+				<word number="4">slipper</word>
+				<word number="5">sandal</word>
+				<word number="6">galoche</word>
+				<word number="7">galoshes</word>
+				<word number="8">patten</word>
+				<word number="9">clog</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sneakers</word>
+				<word number="2">running shoes</word>
+				<word number="3">hiking boots</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high-low</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Blucher boot</word>
+				<word number="2">wellington boot</word>
+				<word number="3">Hessian boot</word>
+				<word number="4">jack boot</word>
+				<word number="5">top boot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Balmoral</word>
+			</sg>
+			<sg number="6">
+				<word number="1">arctics</word>
+				<word number="2">bootee</word>
+				<word number="3">bootikin</word>
+				<word number="4">brogan</word>
+				<word number="5">chaparajos</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chavar</word>
+				<word number="2">chivarras</word>
+				<word number="3">chivarros</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gums</word>
+				<word number="2">larrigan</word>
+				<word number="3">rubbers</word>
+				<word number="4">showshoe</word>
+				<word number="5">stogy</word>
+				<word number="6">veldtschoen</word>
+				<word number="7">legging</word>
+				<word number="8">buskin</word>
+				<word number="9">greave</word>
+				<word number="10">galligaskin</word>
+				<word number="11">gamache</word>
+				<word number="12">gamashes</word>
+				<word number="13">moccasin</word>
+				<word number="14">gambado</word>
+				<word number="15">gaiter</word>
+				<word number="16">spatterdash</word>
+				<word number="17">brogue</word>
+				<word number="18">antigropelos</word>
+			</sg>
+			<sg number="9">
+				<word number="1">stocking</word>
+				<word number="2">hose</word>
+				<word number="3">gaskins</word>
+				<word number="4">trunk hose</word>
+				<word number="5">sock</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hosiery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="glove">
+			<sg number="1">
+				<word number="1">glove</word>
+				<word number="2">gauntlet</word>
+				<word number="3">mitten</word>
+				<word number="4">cuff</word>
+				<word number="5">wristband</word>
+				<word number="6">sleeve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="swaddling cloth">
+			<sg number="1">
+				<word number="1">swaddling cloth</word>
+				<word number="2">baby linen</word>
+				<word number="3">layette</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ice wool</word>
+			</sg>
+			<sg number="3">
+				<word number="1">taffeta</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="pocket handkerchief">
+			<sg number="1">
+				<word number="1">pocket handkerchief</word>
+				<word number="2">hanky</word>
+				<word number="3">hankie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="clothier">
+			<sg number="1">
+				<word number="1">clothier</word>
+				<word number="2">tailor</word>
+				<word number="3">milliner</word>
+				<word number="4">costumier</word>
+				<word number="5">sempstress</word>
+				<word number="6">snip</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dressmaker</word>
+				<word number="2">habitmaker</word>
+				<word number="3">breechesmaker</word>
+				<word number="4">shoemaker</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Crispin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">friseur</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cordwainer</word>
+				<word number="2">cobbler</word>
+				<word number="3">hosier</word>
+				<word number="4">hatter</word>
+			</sg>
+			<sg number="6">
+				<word number="1">draper</word>
+				<word number="2">linen draper</word>
+				<word number="3">haberdasher</word>
+				<word number="4">mercer</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">seamstress</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="diaper">
+			<sg number="1">
+				<word number="1">diaper</word>
+				<word number="2">nappy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disposable diaper</word>
+				<word number="2">cloth diaper</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Luvs</word>
+				<word number="2">Huggies</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="accessory">
+			<sg number="1">
+				<word number="1" new="1">accessory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="breastplate">
+			<sg number="1">
+				<word number="1" new="1">breastplate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="cowl">
+			<sg number="1">
+				<word number="1" new="1">cowl</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="fatigues">
+			<sg number="1">
+				<word number="1" new="1">fatigues</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="jumper">
+			<sg number="1">
+				<word number="1" new="1">jumper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="jumpers">
+			<sg number="1">
+				<word number="1" new="1">jumpers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="monocle">
+			<sg number="1">
+				<word number="1" new="1">monocle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="regalia">
+			<sg number="1">
+				<word number="1" new="1">regalia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="saddle">
+			<sg number="1">
+				<word number="1" new="1">saddle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="sunglasses">
+			<sg number="1">
+				<word number="1" new="1">sunglasses</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="towel">
+			<sg number="1">
+				<word number="1" new="1">towel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="umbrella">
+			<sg number="1">
+				<word number="1" new="1">umbrella</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="wear">
+			<sg number="1">
+				<word number="1" new="1">wear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="wearing">
+			<sg number="1">
+				<word number="1" new="1">wearing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="invest">
+			<sg number="1">
+				<word number="1">invest</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cover" headRef="233">cover</word>
+			</sg>
+			<sg number="3">
+				<word number="1">envelope</word>
+				<word number="2">lap</word>
+				<word number="3">involve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inwrap</word>
+				<word number="2">enwrap</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wrap</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fold up</word>
+				<word number="2">wrap up</word>
+				<word number="3">lap up</word>
+				<word number="4">muffle up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">overlap</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sheath</word>
+				<word number="2">swathe</word>
+				<word number="3">swaddle</word>
+				<word number="4">roll up in</word>
+				<word number="5">circumvest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="vest">
+			<sg number="1">
+				<word number="1">vest</word>
+				<word number="2">clothe</word>
+				<word number="3">array</word>
+				<word number="4">dress</word>
+				<word number="5">dight</word>
+				<word number="6">drape</word>
+				<word number="7">robe</word>
+				<word number="8">enrobe</word>
+				<word number="9">attire</word>
+				<word number="10">apparel</word>
+				<word number="11">accounter</word>
+				<word number="12">rig</word>
+				<word number="13">fit out</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="ornament" headRef="885">deck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perk</word>
+				<word number="2">equip</word>
+				<word number="3">harness</word>
+				<word number="4">caparison</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wear">
+			<sg number="1">
+				<word number="1">wear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">don</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put on</word>
+				<word number="2">huddle on</word>
+				<word number="3">slip on</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mantle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="invested">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">invested</word>
+			</sg>
+			<sg number="2">
+				<word number="1">habited</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dighted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barbed</word>
+				<word number="2">barded</word>
+			</sg>
+			<sg number="5">
+				<word number="1">clad</word>
+				<word number="2">costume</word>
+				<word number="3">shod</word>
+				<word number="4">chausse</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="show" headRef="921">en grande tenue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sartorial">
+			<sg number="1">
+				<word number="1">sartorial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the soul of this man is his clothes">
+			<sg number="1">
+				<word number="1">"the soul of this man is his clothes"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

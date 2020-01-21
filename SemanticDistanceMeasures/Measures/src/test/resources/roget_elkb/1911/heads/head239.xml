@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="239" name="Circumscription" origNum="#229." class="2" section="2" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="circumscription">
+			<sg number="1">
+				<word number="1">circumscription</word>
+				<word number="2">limitation</word>
+				<word number="3">inclosure</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="restraint" headRef="782">confinement</word>
+			</sg>
+			<sg number="3">
+				<word number="1">circumvallation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">encincture</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="envelope" headRef="242">envelope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="container">
+			<sg number="1">
+				<word number="1" paraRef="receptacle" headRef="200">container</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="circumscribe">
+			<sg number="1">
+				<word number="1">circumscribe</word>
+				<word number="2">limit</word>
+				<word number="3">bound</word>
+				<word number="4">confine</word>
+				<word number="5">inclose</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="surround" headRef="237">surround</word>
+			</sg>
+			<sg number="3">
+				<word number="1">compass about</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="restrain" headRef="782">imprison</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hedge in</word>
+				<word number="2">wall in</word>
+				<word number="3">rail in</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fence round</word>
+				<word number="2">fence in</word>
+				<word number="3">hedge round</word>
+			</sg>
+			<sg number="7">
+				<word number="1">picket</word>
+			</sg>
+			<sg number="8">
+				<word number="1">corral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="enfold">
+			<sg number="1">
+				<word number="1">enfold</word>
+				<word number="2">bury</word>
+				<word number="3">encase</word>
+				<word number="4">incase</word>
+				<word number="5">pack up</word>
+				<word number="6">enshrine</word>
+				<word number="7">inclasp</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="invest" headRef="235">wrap up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">embay</word>
+				<word number="2">embosom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="containment">
+			<sg number="1">
+				<word number="1" paraRef="inclusion" headRef="80">containment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="circumscribed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">circumscribed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">begirt</word>
+				<word number="2">lapt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">buried in</word>
+				<word number="2">immersed in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">embosomed</word>
+				<word number="2">in the bosom of</word>
+				<word number="3">imbedded</word>
+				<word number="4">encysted</word>
+				<word number="5">mewed up</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="imprisoned" headRef="782">imprisoned</word>
+			</sg>
+			<sg number="6">
+				<word number="1">landlocked</word>
+				<word number="2">in a ring fence</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

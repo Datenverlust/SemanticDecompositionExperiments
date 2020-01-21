@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="828" name="Purchase" origNum="#795." class="7" section="4" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="purchase">
+			<sg number="1">
+				<word number="1">purchase</word>
+				<word number="2">emption</word>
+			</sg>
+			<sg number="2">
+				<word number="1">buying</word>
+				<word number="2">purchasing</word>
+				<word number="3">shopping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">preemption</word>
+				<word number="2">refusal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coemption">
+			<sg number="1">
+				<word number="1">coemption</word>
+				<word number="2">bribery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slave trade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="buyer">
+			<sg number="1">
+				<word number="1">buyer</word>
+				<word number="2">purchaser</word>
+				<word number="3">emptor</word>
+				<word number="4">vendee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">patron</word>
+				<word number="2">employer</word>
+				<word number="3">client</word>
+				<word number="4">customer</word>
+				<word number="5">clientele</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="buy">
+			<sg number="1">
+				<word number="1">buy</word>
+				<word number="2">purchase</word>
+				<word number="3">invest in</word>
+				<word number="4">procure</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="hire" headRef="821">rent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repurchase</word>
+				<word number="2">buy in</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep in one's pay">
+			<sg number="1">
+				<word number="1">keep in one's pay</word>
+				<word number="2">bribe</word>
+				<word number="3">suborn</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pay" headRef="842">pay</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="spend" headRef="844">spend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="make a purchase">
+			<sg number="1">
+				<word number="1">make a purchase</word>
+				<word number="2">complete a purchase</word>
+			</sg>
+			<sg number="2">
+				<word number="1">buy over the counter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="shop">
+			<sg number="1">
+				<word number="1">shop</word>
+				<word number="2">market</word>
+				<word number="3">go shopping</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="purchased">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">purchased</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="caveat emptor">
+			<sg number="1">
+				<word number="1">caveat emptor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the customer is always right</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

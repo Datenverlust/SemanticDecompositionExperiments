@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="41" name="Adjunct" origNum="#39." class="1" section="3" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="adjunct">
+			<sg number="1">
+				<word number="1">adjunct</word>
+			</sg>
+			<sg number="2">
+				<word number="1">addition</word>
+				<word number="2">additament</word>
+			</sg>
+			<sg number="3">
+				<word number="1">additum</word>
+				<word number="2">affix</word>
+				<word number="3">appelidage</word>
+				<word number="4">annexe</word>
+				<word number="5">annex</word>
+			</sg>
+			<sg number="4">
+				<word number="1">augment</word>
+				<word number="2">augmentation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">increment</word>
+				<word number="2">reinforcement</word>
+				<word number="3">supernumerary</word>
+				<word number="4">accessory</word>
+				<word number="5">item</word>
+			</sg>
+			<sg number="6">
+				<word number="1">garnish</word>
+				<word number="2">sauce</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="accompaniment" headRef="92">accompaniment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">adjective</word>
+				<word number="2">addendum</word>
+			</sg>
+			<sg number="9">
+				<word number="1">complement</word>
+				<word number="2">supplement</word>
+			</sg>
+			<sg number="10">
+				<word number="1">continuation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rider">
+			<sg number="1">
+				<word number="1">rider</word>
+				<word number="2">offshoot</word>
+				<word number="3">episode</word>
+				<word number="4">side issue</word>
+				<word number="5">corollary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">piece</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flap</word>
+				<word number="2">lappet</word>
+				<word number="3">skirt</word>
+				<word number="4">embroidery</word>
+				<word number="5">trappings</word>
+				<word number="6">cortege</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tail</word>
+				<word number="2" paraRef="sequel" headRef="69">suffix</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="additional">
+			<sg number="1">
+				<word number="1" paraRef="additional" headRef="39">additional</word>
+				<word number="2">alated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">winged</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in addition">
+			<sg number="1">
+				<word number="1" paraRef="in addition" headRef="39">in addition</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

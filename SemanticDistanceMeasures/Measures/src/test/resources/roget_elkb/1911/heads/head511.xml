@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="511" name="Incredulity" origNum="#487." class="4" section="5" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="incredulousness">
+			<sg number="1">
+				<word number="1">incredulousness</word>
+				<word number="2">incredulity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">skepticism</word>
+				<word number="2">pyrrhonism!</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="irreligion" headRef="1033">want of faith</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="suspiciousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">suspiciousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scrupulosity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="unbelief" headRef="509">suspicion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mistrust">
+			<sg number="1">
+				<word number="1">mistrust</word>
+				<word number="2">cynicism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unbeliever">
+			<sg number="1">
+				<word number="1">unbeliever</word>
+				<word number="2">skeptic</word>
+				<word number="3">cynic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misbeliever</word>
+				<word number="2">pyrrhonist</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="heterodox" headRef="1028">heretic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be incredulous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be incredulous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disbelieve" headRef="509">distrust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">refuse to believe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shut one's eyes to</word>
+				<word number="2">shut one's ears to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">turn a deaf ear to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hold aloof</word>
+				<word number="2">ignore</word>
+				<word number="3">nullis jurare in verba magistri</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="incredulous">
+			<sg number="1">
+				<word number="1">incredulous</word>
+				<word number="2">skeptical</word>
+				<word number="3">unbelieving</word>
+				<word number="4">inconvincible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard of belief</word>
+				<word number="2">shy of belief</word>
+				<word number="3">disposed to doubt</word>
+				<word number="4">indisposed to believe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">suspicious</word>
+				<word number="2">scrupulous</word>
+				<word number="3">distrustful</word>
+				<word number="4">cynical</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

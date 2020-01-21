@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="314" name="Transcursion" origNum="#303." class="2" section="4" subSection="4" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="transcursion|">
+			<sg number="1">
+				<word number="1">transcursion</word>
+				<word number="2">transiliency</word>
+				<word number="3">transgression</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trespass</word>
+			</sg>
+			<sg number="3">
+				<word number="1">encroachment</word>
+				<word number="2">infringement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">extravagation</word>
+				<word number="2">transcendence</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="redundancy" headRef="670">redundancy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="transgress">
+			<sg number="1">
+				<word number="1">transgress</word>
+				<word number="2">surpass</word>
+				<word number="3">pass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go beyond</word>
+				<word number="2">go by</word>
+			</sg>
+			<sg number="3">
+				<word number="1">show in front</word>
+				<word number="2">come to the front</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shoot ahead of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">steal a march upon</word>
+				<word number="2">steal a gain upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="overstep">
+			<sg number="1">
+				<word number="1">overstep</word>
+				<word number="2">overpass</word>
+				<word number="3">overreach</word>
+				<word number="4">overgo</word>
+				<word number="5">override</word>
+				<word number="6">overleap</word>
+				<word number="7">overjump</word>
+				<word number="8">overskip</word>
+				<word number="9">overlap</word>
+				<word number="10">overshoot the mark</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outstrip</word>
+				<word number="2">outleap</word>
+				<word number="3">outjump</word>
+				<word number="4">outgo</word>
+				<word number="5">outstep</word>
+				<word number="6">outrun</word>
+				<word number="7">outride</word>
+				<word number="8">outrival</word>
+				<word number="9">outdo</word>
+				<word number="10" new="2">outshine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">beat</word>
+				<word number="2">beat hollow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">distance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">leave in the lurch</word>
+				<word number="2">leave in the rear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">throw into the shade</word>
+			</sg>
+			<sg number="7">
+				<word number="1">exceed</word>
+				<word number="2">transcend</word>
+				<word number="3">surmount</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="rise" headRef="316">soar</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">eclipse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="encroach">
+			<sg number="1">
+				<word number="1">encroach</word>
+				<word number="2">trespass</word>
+				<word number="3">infringe</word>
+				<word number="4">trench upon</word>
+				<word number="5">entrench on</word>
+				<word number="6">intrench on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stretch a point</word>
+				<word number="2">strain a point</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cross the Rubicon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="surpassing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">surpassing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="beyond the mark">
+			<sg number="1">
+				<word number="1">beyond the mark</word>
+				<word number="2">ahead</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

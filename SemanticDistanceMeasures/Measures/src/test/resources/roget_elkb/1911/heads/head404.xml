@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="404" name="Taste" origNum="#390." class="3" section="3" subSection="2" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="taste">
+			<sg number="1">
+				<word number="1">taste</word>
+				<word number="2">flavor</word>
+				<word number="3">gust</word>
+				<word number="4">gusto</word>
+				<word number="5">savor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gout</word>
+				<word number="2">relish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sapor</word>
+				<word number="2">sapidity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">twang</word>
+				<word number="2">smack</word>
+				<word number="3">smatch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aftertaste</word>
+				<word number="2">tang</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tasting">
+			<sg number="1">
+				<word number="1">tasting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">degustation</word>
+				<word number="2">gustation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="palate">
+			<sg number="1">
+				<word number="1">palate</word>
+				<word number="2">tongue</word>
+				<word number="3">tooth</word>
+				<word number="4">stomach</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="taste">
+			<sg number="1">
+				<word number="1">taste</word>
+				<word number="2">savor</word>
+				<word number="3">smatch</word>
+				<word number="4">smack</word>
+				<word number="5">flavor</word>
+				<word number="6">twang</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="savory" headRef="410">tickle the palate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smack the lips</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sapid">
+			<sg number="1">
+				<word number="1">sapid</word>
+				<word number="2">saporific</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gustable</word>
+				<word number="2">gustatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gustful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strong</word>
+				<word number="2">gamy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="palatable" headRef="410">palatable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="636" name="Choice" origNum="#609." class="6" section="1" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="choice">
+			<sg number="1">
+				<word number="1">choice</word>
+				<word number="2">option</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="volition" headRef="626">discretion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">preoption</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alternative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dilemma</word>
+				<word number="2">embarras de choix</word>
+			</sg>
+			<sg number="6">
+				<word number="1">adoption</word>
+				<word number="2">cooptation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">novation</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="judgment" headRef="503">decision</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="election">
+			<sg number="1">
+				<word number="1">election</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="politics" headRef="767">political election</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="selection">
+			<sg number="1">
+				<word number="1">selection</word>
+				<word number="2">excerption</word>
+				<word number="3">gleaning</word>
+				<word number="4">eclecticism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">excerpta</word>
+				<word number="2">gleanings</word>
+				<word number="3">cuttings</word>
+				<word number="4">scissors and paste</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="best" headRef="679">pick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="preference">
+			<sg number="1">
+				<word number="1">preference</word>
+				<word number="2">prelation</word>
+				<word number="3">opinion poll</word>
+				<word number="4">survey</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="desire" headRef="904">predilection</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="offers one's choice">
+			<sg number="1">
+				<word number="1">offers one's choice</word>
+				<word number="2">set before</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hold out the alternative</word>
+				<word number="2">present the alternative</word>
+				<word number="3">offer the alternative</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put to the vote</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="use option">
+			<sg number="1">
+				<word number="1">use option</word>
+				<word number="2">use discretion</word>
+				<word number="3">exercise option</word>
+				<word number="4">exercise discretion</word>
+				<word number="5">one's option</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adopt</word>
+				<word number="2">take up</word>
+				<word number="3">embrace</word>
+				<word number="4">espouse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">choose</word>
+				<word number="2">elect</word>
+				<word number="3">opt for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take one's choice</word>
+				<word number="2">make one's choice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make choice of</word>
+				<word number="2">fix upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vote">
+			<sg number="1">
+				<word number="1">vote</word>
+				<word number="2">poll</word>
+				<word number="3">hold up one's hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">divide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="settle">
+			<sg number="1">
+				<word number="1">settle</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="adjudge" headRef="503">decide</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="will" headRef="626">list</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="resolve" headRef="630">make up one's mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="select">
+			<sg number="1">
+				<word number="1">select</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pick and choose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pick out</word>
+				<word number="2">single out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cull</word>
+				<word number="2">glean</word>
+				<word number="3">winnow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sift the chaff from the wheat</word>
+				<word number="2">separate the chaff from the wheat</word>
+				<word number="3">winnow the chaff from the wheat</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pick up</word>
+				<word number="2">pitch upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pick one's way</word>
+			</sg>
+			<sg number="8">
+				<word number="1">indulge one's fancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="set apart">
+			<sg number="1">
+				<word number="1">set apart</word>
+				<word number="2">mark out for</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mark" headRef="576">mark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="prefer">
+			<sg number="1">
+				<word number="1">prefer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have rather</word>
+				<word number="2">have as lief</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="desire" headRef="904">fancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="be persuaded" headRef="643">be persuaded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="take a decided step">
+			<sg number="1">
+				<word number="1">take a decided step</word>
+				<word number="2">take a decisive step</word>
+			</sg>
+			<sg number="2">
+				<word number="1">commit oneself to a course</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pass the Rubicon</word>
+				<word number="2">cross the Rubicon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cast in one's lot with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take for better or for worse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="optional">
+			<sg number="1">
+				<word number="1">optional</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="voluntary" headRef="626">discretional</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="eclectic">
+			<sg number="1">
+				<word number="1">eclectic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">choosing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">preferential</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">chosen</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="good" headRef="677">choice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="optionally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">optionally</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="will" headRef="626">at pleasure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">either the one or the other</word>
+			</sg>
+			<sg number="4">
+				<word number="1">or at the option of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whether or not</word>
+			</sg>
+			<sg number="6">
+				<word number="1">once and for all</word>
+			</sg>
+			<sg number="7">
+				<word number="1">for one's money</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="by choice">
+			<sg number="1">
+				<word number="1">by choice</word>
+				<word number="2">by preference</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in preference</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rather</word>
+				<word number="2">before</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

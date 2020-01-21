@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="23" name="Copy" origNum="#21." class="1" section="2" subSection="3" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="copy">
+			<sg number="1">
+				<word number="1">copy</word>
+				<word number="2">facsimile</word>
+				<word number="3">counterpart</word>
+				<word number="4">effigies</word>
+				<word number="5">effigy</word>
+				<word number="6">form</word>
+				<word number="7">likeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="image">
+			<sg number="1">
+				<word number="1">image</word>
+				<word number="2">picture</word>
+				<word number="3">photo</word>
+				<word number="4">xerox</word>
+				<word number="5">similitude</word>
+				<word number="6">semblance</word>
+				<word number="7">ectype</word>
+				<word number="8">photo offset</word>
+				<word number="9">electrotype</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="imitation" headRef="20">imitation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">model</word>
+				<word number="2">representation</word>
+				<word number="3">adumbration</word>
+				<word number="4">study</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="representation" headRef="580">portrait</word>
+			</sg>
+			<sg number="5">
+				<word number="1">resemblance</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">ferrocyanide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="duplicate">
+			<sg number="1">
+				<word number="1">duplicate</word>
+				<word number="2">reproduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast</word>
+				<word number="2">tracing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reflex</word>
+				<word number="2">reflexion</word>
+				<word number="3">reflection</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shadow</word>
+				<word number="2">echo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="transcript">
+			<sg number="1">
+				<word number="1">transcript</word>
+				<word number="2">transcription</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recording</word>
+				<word number="2">scan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="chip off the old block">
+			<sg number="1">
+				<word number="1">chip off the old block</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reprint</word>
+				<word number="2">new printing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rechauffe</word>
+			</sg>
+			<sg number="4">
+				<word number="1">apograph</word>
+				<word number="2">fair copy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="parody">
+			<sg number="1">
+				<word number="1">parody</word>
+				<word number="2">caricature</word>
+				<word number="3">burlesque</word>
+				<word number="4">travesty</word>
+				<word number="5">travestie</word>
+				<word number="6">paraphrase</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="derivative">
+			<sg number="1">
+				<word number="1">derivative</word>
+				<word number="2">derivation</word>
+				<word number="3">modification</word>
+				<word number="4">expansion</word>
+				<word number="5">extension</word>
+				<word number="6">revision</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="repetition" headRef="109">second edition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="servile copy">
+			<sg number="1">
+				<word number="1">servile copy</word>
+				<word number="2">servile imitation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plagiarism</word>
+				<word number="2">counterfeit</word>
+				<word number="3" paraRef="deception" headRef="571">fake</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pasticcio</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="faithful">
+			<sg number="1">
+				<word number="1">faithful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="similar" headRef="18">lifelike</word>
+			</sg>
+			<sg number="3">
+				<word number="1">close</word>
+				<word number="2">conscientious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unoriginal">
+			<sg number="1">
+				<word number="1">unoriginal</word>
+				<word number="2">imitative</word>
+				<word number="3">derivative</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

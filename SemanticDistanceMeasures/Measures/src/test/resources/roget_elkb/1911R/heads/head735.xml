@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="735" name="Hindrance" origNum="#706." class="6" section="4" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prevention">
+			<sg number="1">
+				<word number="1">prevention</word>
+				<word number="2">preclusion</word>
+				<word number="3">obstruction</word>
+				<word number="4">stoppage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">embolus</word>
+				<word number="2">embolism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">infarct</word>
+			</sg>
+			<sg number="4">
+				<word number="1">interruption</word>
+				<word number="2">interception</word>
+				<word number="3">interclusion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hindrance</word>
+				<word number="2">impedition</word>
+			</sg>
+			<sg number="6">
+				<word number="1">retardment</word>
+				<word number="2">retardation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">embarrassment</word>
+				<word number="2">oppilation!</word>
+			</sg>
+			<sg number="8">
+				<word number="1">coarctation</word>
+				<word number="2">stricture</word>
+				<word number="3">restriction</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="restraint" headRef="782">restraint</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="inhibition" headRef="792">inhibition</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="closure" headRef="272">blockade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="interference">
+			<sg number="1">
+				<word number="1">interference</word>
+				<word number="2">interposition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obtrusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discouragement</word>
+				<word number="2">discountenance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="impediment">
+			<sg number="1">
+				<word number="1">impediment</word>
+				<word number="2">let</word>
+				<word number="3">obstacle</word>
+				<word number="4">obstruction</word>
+				<word number="5">knot</word>
+				<word number="6">knag</word>
+			</sg>
+			<sg number="2">
+				<word number="1">check</word>
+				<word number="2">hitch</word>
+				<word number="3">contretemps</word>
+				<word number="4">screw loose</word>
+				<word number="5">grit in the oil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bar">
+			<sg number="1">
+				<word number="1">bar</word>
+				<word number="2">stile</word>
+				<word number="3">barrier</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turnstile</word>
+				<word number="2">turnpike</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gate</word>
+				<word number="2">portcullis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="beaver dam">
+			<sg number="1">
+				<word number="1">beaver dam</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trocha</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="defense" headRef="746">barricade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wall</word>
+				<word number="2">dead wall</word>
+				<word number="3">sea wall</word>
+				<word number="4">levee breakwater</word>
+				<word number="5">groyne</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bulkhead</word>
+				<word number="2">block</word>
+				<word number="3">buffer</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="stopper" headRef="274">stopper</word>
+			</sg>
+			<sg number="7">
+				<word number="1">boom</word>
+				<word number="2">dam</word>
+				<word number="3">weir</word>
+				<word number="4">burrock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="drawback">
+			<sg number="1">
+				<word number="1">drawback</word>
+				<word number="2">objection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stumbling-block</word>
+				<word number="2">stumbling-stone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lion in the path</word>
+				<word number="2">snag</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snags and sawyers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="encumbrance">
+			<sg number="1">
+				<word number="1">encumbrance</word>
+				<word number="2">incumbrance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clog</word>
+				<word number="2">skid</word>
+				<word number="3">shoe</word>
+				<word number="4">spoke</word>
+			</sg>
+			<sg number="3">
+				<word number="1">drag</word>
+				<word number="2">drag chain</word>
+				<word number="3">drag weight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stay</word>
+				<word number="2">stop</word>
+			</sg>
+			<sg number="5">
+				<word number="1">preventive</word>
+				<word number="2">prophylactic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">load</word>
+				<word number="2">burden</word>
+				<word number="3">fardel</word>
+				<word number="4">onus</word>
+				<word number="5">millstone round one's neck</word>
+				<word number="6">impedimenta</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dead weight</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lumber</word>
+				<word number="2">pack</word>
+			</sg>
+			<sg number="9">
+				<word number="1">nightmare</word>
+				<word number="2">Ephialtes</word>
+				<word number="3">incubus</word>
+				<word number="4">old man of the sea</word>
+			</sg>
+			<sg number="10">
+				<word number="1">remora</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="difficulty">
+			<sg number="1">
+				<word number="1" paraRef="difficulty" headRef="733">difficulty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insuperable" headRef="494">insuperable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obstacle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">estoppel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ill wind</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="opposition" headRef="737">head wind</word>
+			</sg>
+			<sg number="7">
+				<word number="1">trammel</word>
+				<word number="2" paraRef="means of restraint" headRef="783">tether</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hold back</word>
+				<word number="2">counterpoise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="damper">
+			<sg number="1">
+				<word number="1">damper</word>
+				<word number="2">wet blanket</word>
+				<word number="3">hinderer</word>
+				<word number="4">marplot</word>
+				<word number="5">killjoy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">party pooper</word>
+			</sg>
+			<sg number="3">
+				<word number="1">party crasher</word>
+				<word number="2">interloper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="trail of a red herring">
+			<sg number="1">
+				<word number="1">trail of a red herring</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="opponent" headRef="739">opponent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="headstock">
+			<sg number="1">
+				<word number="1" new="1">headstock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="dextrins">
+			<sg number="1">
+				<word number="1" new="1">dextrins</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="hinder">
+			<sg number="1">
+				<word number="1">hinder</word>
+				<word number="2">impede</word>
+				<word number="3">filibuster</word>
+				<word number="4">impedite</word>
+				<word number="5">embarrass</word>
+				<word number="6" new="1">accumulate</word>
+				<word number="7" new="1">hydrolyze</word>
+				<word number="8" new="1">mince</word>
+				<word number="9" new="1">upbraid</word>
+				<word number="10" new="1">harness</word>
+				<word number="11" new="1">anatomize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep off">
+			<sg number="1">
+				<word number="1">keep off</word>
+				<word number="2">stave off</word>
+				<word number="3">ward off</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obviate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">avert</word>
+				<word number="2">antevert</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turn aside</word>
+				<word number="2">draw off</word>
+				<word number="3">prevent</word>
+				<word number="4">forefend</word>
+				<word number="5">nip in the bud</word>
+			</sg>
+			<sg number="5">
+				<word number="1">retard</word>
+				<word number="2">slacken</word>
+				<word number="3">check</word>
+				<word number="4">let</word>
+			</sg>
+			<sg number="6">
+				<word number="1">counteract</word>
+				<word number="2">countercheck</word>
+			</sg>
+			<sg number="7">
+				<word number="1">preclude</word>
+				<word number="2">debar</word>
+				<word number="3">foreclose</word>
+				<word number="4">estop</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="inhibit" headRef="792">inhibit</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="restrain" headRef="782">shackle</word>
+			</sg>
+			<sg number="10">
+				<word number="1">restrict</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">factorize</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">soundproof</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">anaesthetize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="obstruct">
+			<sg number="1">
+				<word number="1">obstruct</word>
+				<word number="2">stop</word>
+				<word number="3">stay</word>
+				<word number="4">bar</word>
+				<word number="5">bolt</word>
+				<word number="6">lock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">block</word>
+				<word number="2">block up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">choke off</word>
+			</sg>
+			<sg number="4">
+				<word number="1">belay</word>
+				<word number="2">barricade</word>
+			</sg>
+			<sg number="5">
+				<word number="1">block the way</word>
+				<word number="2">bar the way</word>
+				<word number="3">stop the way</word>
+			</sg>
+			<sg number="6">
+				<word number="1">forelay</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="close" headRef="272">dam up</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="n.">put on the brake</word>
+			</sg>
+			<sg number="9">
+				<word number="1">scotch the wheel</word>
+				<word number="2">lock the wheel</word>
+				<word number="3">put a spoke in the wheel</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="put a stop to" headRef="149">put a stop to</word>
+			</sg>
+			<sg number="11">
+				<word number="1">traverse</word>
+				<word number="2">contravene</word>
+			</sg>
+			<sg number="12">
+				<word number="1">interrupt</word>
+				<word number="2">intercept</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="oppose" headRef="737">oppose</word>
+			</sg>
+			<sg number="14">
+				<word number="1">hedge in</word>
+				<word number="2">hedge round</word>
+			</sg>
+			<sg number="15">
+				<word number="1">cut off</word>
+			</sg>
+			<sg number="16">
+				<word number="1">inerclude|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="interpose">
+			<sg number="1">
+				<word number="1">interpose</word>
+				<word number="2">interfere</word>
+				<word number="3" paraRef="intermeddle" headRef="711">intermeddle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cramp">
+			<sg number="1">
+				<word number="1">cramp</word>
+				<word number="2">hamper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clog</word>
+				<word number="2">clog the wheels</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cumber</word>
+			</sg>
+			<sg number="4">
+				<word number="1">encumber</word>
+				<word number="2">incumber</word>
+			</sg>
+			<sg number="5">
+				<word number="1">handicap</word>
+			</sg>
+			<sg number="6">
+				<word number="1">choke</word>
+			</sg>
+			<sg number="7">
+				<word number="1">saddle with</word>
+				<word number="2">load with</word>
+			</sg>
+			<sg number="8">
+				<word number="1">overload</word>
+				<word number="2">lay</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lumber</word>
+				<word number="2">trammel</word>
+				<word number="3">tie one's hands</word>
+				<word number="4">put to inconvenience</word>
+			</sg>
+			<sg number="10">
+				<word number="1">incommode</word>
+				<word number="2">discommode</word>
+			</sg>
+			<sg number="11">
+				<word number="1">discompose</word>
+			</sg>
+			<sg number="12">
+				<word number="1">hustle</word>
+				<word number="2">corner</word>
+				<word number="3">drive into a corner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="run foul of">
+			<sg number="1">
+				<word number="1">run foul of</word>
+				<word number="2">fall foul of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cross the path of</word>
+				<word number="2">break in upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="thwart">
+			<sg number="1">
+				<word number="1">thwart</word>
+				<word number="2">frustrate</word>
+				<word number="3">disconcert</word>
+				<word number="4">balk</word>
+				<word number="5">foil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">faze</word>
+				<word number="2">feaze</word>
+				<word number="3">feeze</word>
+			</sg>
+			<sg number="3">
+				<word number="1">baffle</word>
+				<word number="2">snub</word>
+				<word number="3">override</word>
+				<word number="4">circumvent</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="defeat" headRef="760">defeat</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="render useless" headRef="674">spike guns</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spoil</word>
+				<word number="2">mar</word>
+				<word number="3">clip the wings of</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="injure" headRef="688">cripple</word>
+			</sg>
+			<sg number="8">
+				<word number="1">put an extinguisher on</word>
+			</sg>
+			<sg number="9">
+				<word number="1">damp</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="dissuade" headRef="645">dishearten</word>
+			</sg>
+			<sg number="11">
+				<word number="1">discountenance</word>
+				<word number="2">throw cold water on</word>
+				<word number="3">spoil sport</word>
+			</sg>
+			<sg number="12">
+				<word number="1">lay a wet blanket</word>
+				<word number="2">throw a wet blanket on</word>
+			</sg>
+			<sg number="13">
+				<word number="1">cut the ground from under one</word>
+				<word number="2">take the wind out of one's sails</word>
+				<word number="3">undermine</word>
+			</sg>
+			<sg number="14">
+				<word number="1">be in the way of</word>
+				<word number="2">stand in the way of</word>
+			</sg>
+			<sg number="15">
+				<word number="1">act as a drag</word>
+			</sg>
+			<sg number="16">
+				<word number="1">hang like a millstone round one's neck</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">traumatize</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">hurdle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="marinate">
+			<sg number="1">
+				<word number="1" new="1">marinate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="amerce">
+			<sg number="1">
+				<word number="1" new="1">amerce</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="bound">
+			<sg number="1">
+				<word number="1" new="1">bound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="groom">
+			<sg number="1">
+				<word number="1" new="1">groom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="douche">
+			<sg number="1">
+				<word number="1" new="1">douche</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="swirl">
+			<sg number="1">
+				<word number="1" new="1">swirl</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="hindering">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">hindering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obstructive</word>
+				<word number="2">obstruent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impeditive</word>
+				<word number="2">impedient</word>
+			</sg>
+			<sg number="4">
+				<word number="1">intercipient</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="remedial" headRef="691">prophylactic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">impedimentary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="in the way of">
+			<sg number="1">
+				<word number="1">in the way of</word>
+				<word number="2">unfavorable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">onerous</word>
+				<word number="2">burdensome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cumbrous</word>
+				<word number="2">cumbersome</word>
+			</sg>
+			<sg number="4">
+				<word number="1">obtrusive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hindered">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">hindered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">windbound</word>
+				<word number="2">waterlogged</word>
+				<word number="3">heavy laden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard pressed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unassisted">
+			<sg number="1">
+				<word number="1" paraRef="assist" headRef="736">unassisted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">single-handed</word>
+				<word number="2">alone</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="desert" headRef="653">deserted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="occurrent nubes">
+			<sg number="1">
+				<word number="1">occurrent nubes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

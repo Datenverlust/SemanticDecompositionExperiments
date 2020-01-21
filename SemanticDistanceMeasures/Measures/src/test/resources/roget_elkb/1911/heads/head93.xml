@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="93" name="Duality" origNum="#89." class="1" section="5" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="duality">
+			<sg number="1">
+				<word number="1">duality</word>
+				<word number="2">dualism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">duplicity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">biplicity</word>
+				<word number="2">biformity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">polarity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">two</word>
+				<word number="2">deuce</word>
+				<word number="3">couple</word>
+				<word number="4">duet</word>
+				<word number="5">brace</word>
+				<word number="6">pair</word>
+				<word number="7">cheeks</word>
+				<word number="8">twins</word>
+				<word number="9">Castor and Pollux</word>
+				<word number="10">gemini</word>
+				<word number="11">Siamese twins</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fellows</word>
+			</sg>
+			<sg number="7">
+				<word number="1">yoke</word>
+				<word number="2">conjugation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dispermy</word>
+				<word number="2">doublets</word>
+				<word number="3">dyad</word>
+				<word number="4">span</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pair">
+			<sg number="1">
+				<word number="1">pair</word>
+				<word number="2">couple</word>
+				<word number="3">bracket</word>
+				<word number="4">yoke</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conduplicate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mate</word>
+				<word number="2">span</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="two">
+			<sg number="1">
+				<word number="1">two</word>
+				<word number="2">twin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dual</word>
+				<word number="2">dualistic</word>
+				<word number="3">double</word>
+			</sg>
+			<sg number="3">
+				<word number="1">binary</word>
+				<word number="2">binomial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">twin</word>
+				<word number="2">biparous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dyadic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conduplicate</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="duplex" headRef="94">duplex</word>
+			</sg>
+			<sg number="8">
+				<word number="1">biduous</word>
+				<word number="2">binate</word>
+				<word number="3">diphyletic</word>
+				<word number="4">dispermic</word>
+				<word number="5">unijugate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tete-a-tete</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coupled">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">coupled</word>
+			</sg>
+			<sg number="2">
+				<word number="1">conjugate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="both">
+			<sg number="1">
+				<word number="1">both</word>
+				<word number="2">both the one and the other</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

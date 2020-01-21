@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="440" name="Dimness" origNum="#422." class="3" section="3" subSection="2" headGroup="28">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dimness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">dimness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="darkness" headRef="439">darkness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="light-colored" headRef="448">paleness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="half light">
+			<sg number="1">
+				<word number="1">half light</word>
+				<word number="2">demi-jour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">partial shadow</word>
+				<word number="2">partial eclipse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shadow of a shade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">glimmer</word>
+				<word number="2">gliming</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nebulosity</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="cloud" headRef="364">cloud</word>
+			</sg>
+			<sg number="7">
+				<word number="1">eclipse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aurora">
+			<sg number="1">
+				<word number="1">aurora</word>
+				<word number="2">dusk</word>
+				<word number="3">twilight</word>
+				<word number="4">shades of evening</word>
+				<word number="5">crepuscule</word>
+				<word number="6">cockshut time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break of day</word>
+				<word number="2">daybreak</word>
+				<word number="3">dawn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="moonlight">
+			<sg number="1">
+				<word number="1">moonlight</word>
+				<word number="2">moonbeam</word>
+				<word number="3">moonglade</word>
+				<word number="4">moonshine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">starlight</word>
+				<word number="2">owl's light</word>
+				<word number="3">candlelight</word>
+				<word number="4">rushlight</word>
+				<word number="5">firelight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">farthing candle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be dim">
+			<sg number="1">
+				<word number="1">be dim</word>
+				<word number="2" paraRef="" posRef="adj.">grow dim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flicker</word>
+				<word number="2">twinkle</word>
+				<word number="3">glimmer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">loom</word>
+				<word number="2">lower</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fade</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pale</word>
+				<word number="2">pale its ineffectual fire</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">sodomize</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render dim">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render dim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dim</word>
+				<word number="2">bedim</word>
+				<word number="3">obscure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">darken</word>
+				<word number="2">tone down</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dim">
+			<sg number="1">
+				<word number="1">dim</word>
+				<word number="2">dull</word>
+				<word number="3">lackluster</word>
+				<word number="4">dingy</word>
+				<word number="5">darkish</word>
+				<word number="6">shorn of its beams</word>
+				<word number="7" paraRef="dark" headRef="439">dark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="faint">
+			<sg number="1">
+				<word number="1">faint</word>
+				<word number="2">shadowed forth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glassy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cloudy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="opaque" headRef="444">misty</word>
+			</sg>
+			<sg number="5">
+				<word number="1">blear</word>
+			</sg>
+			<sg number="6">
+				<word number="1">muggy</word>
+				<word number="2">fuliginous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">nebulous</word>
+				<word number="2">nebular</word>
+			</sg>
+			<sg number="8">
+				<word number="1">obnubilated</word>
+				<word number="2">overcast</word>
+				<word number="3">crepuscular</word>
+				<word number="4">muddy</word>
+				<word number="5">lurid</word>
+				<word number="6">leaden</word>
+				<word number="7">dun</word>
+				<word number="8">dirty</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">looming</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">certificated</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">healthily</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pale">
+			<sg number="1">
+				<word number="1" paraRef="colorless" headRef="448">pale</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="invisible" headRef="466">confused</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

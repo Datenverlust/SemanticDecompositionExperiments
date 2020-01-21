@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="583" name="Sculpture" origNum="#557." class="5" section="3" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sculpture">
+			<sg number="1">
+				<word number="1">sculpture</word>
+				<word number="2">insculpture</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">carving</word>
+			</sg>
+			<sg number="3">
+				<word number="1">statuary</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">castanet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="high relief">
+			<sg number="1">
+				<word number="1">high relief</word>
+				<word number="2">low relief</word>
+				<word number="3">bas relief</word>
+			</sg>
+			<sg number="2">
+				<word number="1">relief</word>
+			</sg>
+			<sg number="3">
+				<word number="1">relieve</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bassorilievo</word>
+				<word number="2">altorilievo</word>
+				<word number="3">mezzorilievo</word>
+			</sg>
+			<sg number="5">
+				<word number="1">intaglio</word>
+				<word number="2">anaglyph</word>
+			</sg>
+			<sg number="6">
+				<word number="1">medal</word>
+				<word number="2">medallion</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cameo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="marble">
+			<sg number="1">
+				<word number="1">marble</word>
+				<word number="2">bronze</word>
+				<word number="3">terra cotta</word>
+				<word number="4">papier-mache</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ceramic ware</word>
+				<word number="2">pottery</word>
+				<word number="3">porcelain</word>
+				<word number="4">china</word>
+				<word number="5">earthenware</word>
+				<word number="6" new="1">skyways</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cloisonne</word>
+				<word number="2">enamel</word>
+				<word number="3">faience</word>
+				<word number="4">Laocoon</word>
+				<word number="5">satsuma</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="statue">
+			<sg number="1">
+				<word number="1" paraRef="image" headRef="580">statue</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="copy" headRef="23">cast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">glyptotheca</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="quant">
+			<sg number="1">
+				<word number="1" new="1">quant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="lodgment">
+			<sg number="1">
+				<word number="1" new="1">lodgment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="sculpture">
+			<sg number="1">
+				<word number="1">sculpture</word>
+				<word number="2">carve</word>
+				<word number="3">cut</word>
+				<word number="4">chisel</word>
+				<word number="5">model</word>
+				<word number="6">mold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">*cast</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sculptured">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">sculptured</word>
+				<word number="2">anaglyptic</word>
+				<word number="3">ceroplastic</word>
+				<word number="4">ceramic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parian</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">marble</word>
+			</sg>
+			<sg number="4">
+				<word number="1">xanthian</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="842" name="Payment" origNum="#807." class="7" section="4" subSection="4" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="payment">
+			<sg number="1">
+				<word number="1">payment</word>
+				<word number="2">defrayment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discharge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acquittance</word>
+				<word number="2">quittance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">settlement</word>
+				<word number="2">clearance</word>
+				<word number="3">liquidation</word>
+				<word number="4">satisfaction</word>
+				<word number="5">reckoning</word>
+				<word number="6">arrangement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acknowledgment">
+			<sg number="1">
+				<word number="1">acknowledgment</word>
+				<word number="2">release</word>
+			</sg>
+			<sg number="2">
+				<word number="1">receipt</word>
+				<word number="2">receipt in full</word>
+				<word number="3">receipt in full of all demands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">voucher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="salary">
+			<sg number="1">
+				<word number="1">salary</word>
+				<word number="2">compensation</word>
+				<word number="3" paraRef="reward" headRef="1016">remuneration</word>
+				<word number="4" new="1">ransom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="repayment">
+			<sg number="1">
+				<word number="1">repayment</word>
+				<word number="2">reimbursement</word>
+				<word number="3">retribution</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="reward" headRef="1016">pay</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="expenditure" headRef="844">money paid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ready money">
+			<sg number="1">
+				<word number="1" paraRef="cash" headRef="835">ready money</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stake</word>
+				<word number="2">remittance</word>
+				<word number="3">installment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="payer">
+			<sg number="1">
+				<word number="1">payer</word>
+				<word number="2" paraRef="liquidator" headRef="836">liquidator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="pay cash">
+			<sg number="1">
+				<word number="1">pay cash</word>
+				<word number="2">pay cash on the barrelhead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="pension">
+			<sg number="1">
+				<word number="1" new="1">pension</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pay">
+			<sg number="1">
+				<word number="1">pay</word>
+				<word number="2">defray</word>
+				<word number="3">make payment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">paydown</word>
+				<word number="2">pay on the nail</word>
+				<word number="3">pay ready money</word>
+				<word number="4">pay at sight</word>
+				<word number="5">pay in advance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cash</word>
+				<word number="2">honor a bill</word>
+				<word number="3">acknowledge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">redeem</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pay in kind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pay one's way">
+			<sg number="1">
+				<word number="1">pay one's way</word>
+				<word number="2">pay one's shot</word>
+				<word number="3">pay one's footing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pay the piper</word>
+				<word number="2">pay sauce for all</word>
+				<word number="3">pay costs</word>
+			</sg>
+			<sg number="3">
+				<word number="1">do the needful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shell out</word>
+				<word number="2">fork out</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cough up</word>
+				<word number="2">fork over</word>
+			</sg>
+			<sg number="6">
+				<word number="1">come down with</word>
+				<word number="2">come down with the dust</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tickle the palm</word>
+				<word number="2">grease the palm</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="expend" headRef="844">expend</word>
+			</sg>
+			<sg number="9">
+				<word number="1">put down</word>
+				<word number="2">lay down</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="discharge">
+			<sg number="1">
+				<word number="1">discharge</word>
+				<word number="2">settle</word>
+				<word number="3">quit</word>
+				<word number="4">acquit oneself of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">foot the bill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">account with</word>
+				<word number="2">reckon with</word>
+				<word number="3">settle with</word>
+				<word number="4">be even with</word>
+				<word number="5">be quits with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">strike a balance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">settle accounts with</word>
+				<word number="2">balance accounts with</word>
+				<word number="3">square accounts with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">quit scores</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wipe off old scores</word>
+				<word number="2">clear off old scores</word>
+			</sg>
+			<sg number="8">
+				<word number="1">satisfy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pay in full</word>
+			</sg>
+			<sg number="10">
+				<word number="1">satisfy all demands</word>
+				<word number="2">pay in full of all demands</word>
+			</sg>
+			<sg number="11">
+				<word number="1">clear</word>
+				<word number="2">liquidate</word>
+			</sg>
+			<sg number="12">
+				<word number="1">pay up</word>
+				<word number="2">pay old debts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="disgorge">
+			<sg number="1">
+				<word number="1">disgorge</word>
+				<word number="2">make repayment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repay</word>
+				<word number="2">refund</word>
+				<word number="3">reimburse</word>
+				<word number="4">retribute</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="make compensation" headRef="32">make compensation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pay by credit card">
+			<sg number="1">
+				<word number="1">pay by credit card</word>
+				<word number="2">put it on the plastic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="paying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">paying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">owing nothing</word>
+				<word number="2">out of debt</word>
+				<word number="3">all straight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unowed</word>
+				<word number="2">never indebted</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to the tune of">
+			<sg number="1">
+				<word number="1">to the tune of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on the nail</word>
+				<word number="2">money down</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

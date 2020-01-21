@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="904" name="Desire" origNum="#865." class="8" section="2" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="desire">
+			<sg number="1">
+				<word number="1">desire</word>
+				<word number="2">wish</word>
+				<word number="3">fancy</word>
+				<word number="4">fantasy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">want</word>
+				<word number="2">need</word>
+				<word number="3">exigency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mind">
+			<sg number="1">
+				<word number="1">mind</word>
+				<word number="2">inclination</word>
+				<word number="3">leaning</word>
+				<word number="4">bent</word>
+				<word number="5">animus</word>
+				<word number="6">partiality</word>
+				<word number="7">penchant</word>
+				<word number="8">predilection</word>
+				<word number="9" new="1">proclivity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="propensity" headRef="858">propensity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="willingness" headRef="628">willingness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">liking</word>
+				<word number="2">love</word>
+				<word number="3">fondness</word>
+				<word number="4">relish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="longing">
+			<sg number="1">
+				<word number="1">longing</word>
+				<word number="2">hankering</word>
+				<word number="3">inkling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">solicitude</word>
+				<word number="2">anxiety</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yearning</word>
+				<word number="2">coveting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aspiration</word>
+				<word number="2">ambition</word>
+				<word number="3">vaulting ambition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eagerness</word>
+				<word number="2">zeal</word>
+				<word number="3">ardor</word>
+				<word number="4">empressement</word>
+				<word number="5">breathless impatience</word>
+				<word number="6">overanxiety</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="impetuosity" headRef="863">impetuosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="appetite">
+			<sg number="1">
+				<word number="1">appetite</word>
+				<word number="2">appetition</word>
+				<word number="3">appetence</word>
+				<word number="4">appetency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharp appetite</word>
+				<word number="2">keenness</word>
+				<word number="3">hunger</word>
+				<word number="4">stomach</word>
+				<word number="5">twist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thirst</word>
+				<word number="2">thirstiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drouth</word>
+				<word number="2">mouthwatering</word>
+			</sg>
+			<sg number="5">
+				<word number="1">itch</word>
+				<word number="2">itching</word>
+			</sg>
+			<sg number="6">
+				<word number="1">prurience</word>
+				<word number="2">cacoethes</word>
+				<word number="3">cupidity</word>
+				<word number="4">lust</word>
+				<word number="5">concupiscence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="edge of appetite">
+			<sg number="1">
+				<word number="1">edge of appetite</word>
+				<word number="2">edge of hunger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">torment of Tantalus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sweet tooth</word>
+				<word number="2">lickerish tooth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">itching palm</word>
+			</sg>
+			<sg number="5">
+				<word number="1">longing eye</word>
+				<word number="2">wistful eye</word>
+				<word number="3">sheep's eye</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="greed">
+			<sg number="1">
+				<word number="1" paraRef="greed" headRef="855">greed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="voracity">
+			<sg number="1">
+				<word number="1" paraRef="gluttony" headRef="1000">voracity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="passion">
+			<sg number="1">
+				<word number="1">passion</word>
+				<word number="2">rage</word>
+				<word number="3">furore</word>
+				<word number="4">mania</word>
+				<word number="5">manie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inextinguishable desire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dipsomania</word>
+				<word number="2">kleptomania</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="lover">
+			<sg number="1">
+				<word number="1">lover</word>
+				<word number="2">amateur</word>
+				<word number="3">votary</word>
+				<word number="4">devotee</word>
+				<word number="5">aspirant</word>
+				<word number="6">solicitant</word>
+				<word number="7">candidate</word>
+				<word number="8">applicant</word>
+				<word number="9">supplicant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="cormorant" headRef="1000">cormorant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="desideratum">
+			<sg number="1">
+				<word number="1">desideratum</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="requirement" headRef="659">want</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"a consummation devoutly to be wished"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">attraction</word>
+				<word number="2">magnet</word>
+				<word number="3">allurement</word>
+				<word number="4">fancy</word>
+				<word number="5">temptation</word>
+				<word number="6">seduction</word>
+				<word number="7">fascination</word>
+				<word number="8">prestige</word>
+				<word number="9">height of one's ambition</word>
+				<word number="10">idol</word>
+			</sg>
+			<sg number="5">
+				<word number="1">whim</word>
+				<word number="2">whimsy</word>
+				<word number="3">whimsey</word>
+			</sg>
+			<sg number="6">
+				<word number="1">maggot</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hobby</word>
+				<word number="2">hobby-horse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="Fortunatus's cap">
+			<sg number="1">
+				<word number="1">Fortunatus's cap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wishing cap</word>
+				<word number="2">wishing stone</word>
+				<word number="3">wishing well</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="craving">
+			<sg number="1">
+				<word number="1" new="1">craving</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="dream">
+			<sg number="1">
+				<word number="1" new="1">dream</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="ego">
+			<sg number="1">
+				<word number="1" new="1">ego</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="desire">
+			<sg number="1">
+				<word number="1">desire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wish</word>
+				<word number="2">wish for</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">be desirous</word>
+				<word number="2" paraRef="" posRef="n.">have a longing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hope" headRef="897">hope</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="care for">
+			<sg number="1">
+				<word number="1">care for</word>
+				<word number="2">affect</word>
+				<word number="3">like</word>
+				<word number="4">list</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take to</word>
+				<word number="2">cling to</word>
+				<word number="3">take a fancy to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fancy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="choose" headRef="636">prefer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="have an eye">
+			<sg number="1">
+				<word number="1">have an eye</word>
+				<word number="2">have a mind to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be willing" headRef="628">find it in one's heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have a fancy for</word>
+				<word number="2">set one's eyes upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cast a sheep's eye upon</word>
+				<word number="2">look sweet upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take into one's head</word>
+				<word number="2">have at heart</word>
+				<word number="3">be bent upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set one's cap at</word>
+				<word number="2">set one's heart upon</word>
+				<word number="3">set one's mind upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">covet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="want">
+			<sg number="1">
+				<word number="1">want</word>
+				<word number="2">miss</word>
+				<word number="3">need</word>
+				<word number="4">feel the want of</word>
+				<word number="5">would fain have</word>
+				<word number="6">would fain do</word>
+			</sg>
+			<sg number="2">
+				<word number="1">would be glad of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="be hungry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be hungry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a good appetite</word>
+				<word number="2">play a good knife and fork</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hunger after</word>
+				<word number="2">thirst after</word>
+				<word number="3">crave after</word>
+				<word number="4">lust after</word>
+				<word number="5">itch after</word>
+				<word number="6">hanker after</word>
+				<word number="7">run mad after</word>
+			</sg>
+			<sg number="4">
+				<word number="1">raven for</word>
+				<word number="2">die for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">burn to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="desiderate">
+			<sg number="1">
+				<word number="1">desiderate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sigh for</word>
+				<word number="2">cry for</word>
+				<word number="3">gape for</word>
+				<word number="4">gasp for</word>
+				<word number="5">pine for</word>
+				<word number="6">pant for</word>
+				<word number="7">languish for</word>
+				<word number="8">yearn for</word>
+				<word number="9">long</word>
+				<word number="10">be on thorns for</word>
+				<word number="11">hope for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aspire after</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catch at</word>
+				<word number="2">grasp at</word>
+				<word number="3">jump at</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="woo">
+			<sg number="1">
+				<word number="1">woo</word>
+				<word number="2">court</word>
+				<word number="3">solicit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fish for</word>
+				<word number="2">spell for</word>
+				<word number="3">whistle for</word>
+				<word number="4">put up for</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ogle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="cause desire">
+			<sg number="1">
+				<word number="1">cause desire</word>
+				<word number="2">create desire</word>
+				<word number="3">raise desire</word>
+				<word number="4">excite desire</word>
+				<word number="5">provoke desire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whet the appetite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">appetize</word>
+				<word number="2">titillate</word>
+				<word number="3">allure</word>
+				<word number="4">attract</word>
+				<word number="5">take one's fancy</word>
+				<word number="6">tempt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hold out temptation</word>
+				<word number="2">hold out allurement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tantalize</word>
+				<word number="2">make one's mouth water</word>
+				<word number="3">faire venir l'eau a la bouche</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="gratify desire">
+			<sg number="1">
+				<word number="1" paraRef="give pleasure" headRef="867">gratify desire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="desirous">
+			<sg number="1">
+				<word number="1">desirous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">desiring</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="willing" headRef="628">inclined</word>
+			</sg>
+			<sg number="4">
+				<word number="1">partial to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fain</word>
+				<word number="2">wishful</word>
+				<word number="3">optative</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anxious</word>
+				<word number="2">wistful</word>
+				<word number="3">curious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">at a loss for</word>
+				<word number="2">sedulous</word>
+				<word number="3">solicitous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="craving">
+			<sg number="1">
+				<word number="1">craving</word>
+				<word number="2">hungry</word>
+				<word number="3">sharp-set</word>
+				<word number="4">peckish</word>
+				<word number="5">ravening</word>
+				<word number="6">with an empty stomach</word>
+				<word number="7">esurient</word>
+				<word number="8">lickerish</word>
+				<word number="9">thirsty</word>
+				<word number="10">athirst</word>
+				<word number="11">parched with thirst</word>
+				<word number="12">pinched with hunger</word>
+				<word number="13">famished</word>
+				<word number="14">dry</word>
+				<word number="15">drouthy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hungry as a hunter</word>
+				<word number="2">hungry as a hawk</word>
+				<word number="3">hungry as a horse</word>
+				<word number="4">hungry as a church mouse</word>
+				<word number="5">hungry as a bear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="greedy">
+			<sg number="1">
+				<word number="1" paraRef="greedy" headRef="855">greedy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unsatisfied">
+			<sg number="1">
+				<word number="1">unsatisfied</word>
+				<word number="2">unsated</word>
+				<word number="3">unslaked</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsaturated</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="eager">
+			<sg number="1">
+				<word number="1">eager</word>
+				<word number="2">avid</word>
+				<word number="3">keen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burning</word>
+				<word number="2">fervent</word>
+				<word number="3">ardent</word>
+				<word number="4" new="1">lifelong</word>
+			</sg>
+			<sg number="3">
+				<word number="1">agog</word>
+			</sg>
+			<sg number="4">
+				<word number="1">all agog</word>
+			</sg>
+			<sg number="5">
+				<word number="1">breathless</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="impetuous" headRef="863">impatient</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bent on</word>
+				<word number="2">intent on</word>
+				<word number="3">set on</word>
+				<word number="4">bent upon</word>
+				<word number="5">intent upon</word>
+				<word number="6">set upon</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mad after</word>
+				<word number="2">enrage</word>
+				<word number="3">rabid</word>
+				<word number="4">dying for</word>
+				<word number="5">devoured by desire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="aspiring">
+			<sg number="1">
+				<word number="1">aspiring</word>
+				<word number="2">ambitious</word>
+				<word number="3">vaulting</word>
+				<word number="4">skyaspiring</word>
+				<word number="5">high-reaching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="desirable">
+			<sg number="1">
+				<word number="1">desirable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">desired</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in demand</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="give pleasure" headRef="867">pleasing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">appetizing</word>
+				<word number="2">appetible</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tantalizing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="wistfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">wistfully</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="would that">
+			<sg number="1">
+				<word number="1">would that</word>
+				<word number="2">would that it were!</word>
+				<word number="3">O for!</word>
+				<word number="4">esto perpetual</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Phr">
+			<sg number="1">
+				<word number="1">Phr. the wish being father to the thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sua cuique voluptas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hoc erat in votis</word>
+				<word number="2">the mouth watering</word>
+				<word number="3">the fingers itching</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aut Caesar aut nullus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Cassius has a lean and hungry look [Jul">
+			<sg number="1">
+				<word number="1">"Cassius has a lean and hungry look"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"hungry as the grave"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"I was born to other things"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"not what we wish but what we want"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"such joy ambition finds"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the sea hath bounds but deep desire hath none"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ubi mel ibi apes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

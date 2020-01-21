@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="598" name="Conciseness" origNum="#572." class="5" section="3" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="conciseness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">conciseness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brevity</word>
+				<word number="2">"the soul of wit"</word>
+				<word number="3">laconism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Tacitus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ellipsis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">syncope</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="shortening" headRef="210">abridgment</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="compression" headRef="204">compression</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="epitome" headRef="622">epitome</word>
+			</sg>
+			<sg number="9">
+				<word number="1">monostich</word>
+			</sg>
+			<sg number="10">
+				<word number="1">brunch word</word>
+				<word number="2">portmanteau word</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be concise">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be concise</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="condense" headRef="204">condense</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="abridge" headRef="210">abridge</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="abstract" headRef="622">abstract</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come to the point</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="concise">
+			<sg number="1">
+				<word number="1">concise</word>
+				<word number="2">brief</word>
+				<word number="3">short</word>
+				<word number="4">terse,close</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to the point</word>
+				<word number="2">exact</word>
+			</sg>
+			<sg number="3">
+				<word number="1">neat</word>
+				<word number="2">compact</word>
+			</sg>
+			<sg number="4">
+				<word number="1">compressed</word>
+				<word number="2">condensed</word>
+				<word number="3">pointed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">laconic</word>
+				<word number="2">curt</word>
+				<word number="3">pithy</word>
+				<word number="4">trenchant</word>
+				<word number="5">summary</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pregnant</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="compendium" headRef="622">compendious</word>
+			</sg>
+			<sg number="8">
+				<word number="1">succinct</word>
+			</sg>
+			<sg number="9">
+				<word number="1">elliptical</word>
+				<word number="2">epigrammatic</word>
+				<word number="3">quaint</word>
+				<word number="4">crisp</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sententious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="concisely">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">concisely</word>
+			</sg>
+			<sg number="2">
+				<word number="1">briefly</word>
+				<word number="2">summarily</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in brief</word>
+				<word number="2">in short</word>
+				<word number="3">in a word</word>
+				<word number="4">in a few words</word>
+			</sg>
+			<sg number="4">
+				<word number="1">for shortness sake</word>
+			</sg>
+			<sg number="5">
+				<word number="1">to come to the point</word>
+				<word number="2">to make a long story short</word>
+				<word number="3">to cut the matter short</word>
+				<word number="4">to be brief</word>
+			</sg>
+			<sg number="6">
+				<word number="1">it comes to this</word>
+				<word number="2">the long and the short of it is</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="brevis esse laboro obscurus fio">
+			<sg number="1">
+				<word number="1">brevis esse laboro obscurus fio</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

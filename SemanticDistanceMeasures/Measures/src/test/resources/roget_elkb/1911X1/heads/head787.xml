@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="787" name="Abrogation" origNum="#756." class="7" section="1" subSection="1" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="abrogation">
+			<sg number="1">
+				<word number="1">abrogation</word>
+				<word number="2">annulment</word>
+				<word number="3">nullification</word>
+				<word number="4">recision</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vacatur</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">canceling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cancel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">revocation</word>
+				<word number="2">revokement</word>
+			</sg>
+			<sg number="6">
+				<word number="1">repeal</word>
+				<word number="2">rescission</word>
+				<word number="3">defeasance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dismissal">
+			<sg number="1">
+				<word number="1">dismissal</word>
+				<word number="2">conge</word>
+				<word number="3">demission</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bounce*</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deposal</word>
+				<word number="2">deposition</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dethronement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disestablishment</word>
+				<word number="2">disendowment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">deconsecration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sack*</word>
+				<word number="2">walking papers</word>
+				<word number="3">pink slip</word>
+				<word number="4">walking ticket</word>
+			</sg>
+			<sg number="8">
+				<word number="1">yellow cover*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="abolition">
+			<sg number="1">
+				<word number="1">abolition</word>
+				<word number="2">abolishment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dissolution</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="counter order">
+			<sg number="1">
+				<word number="1">counter order</word>
+				<word number="2">countermand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repudiation</word>
+				<word number="2">retraction</word>
+				<word number="3">retractation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="tergiversation" headRef="634">recantation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abolitionist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="abrogate">
+			<sg number="1">
+				<word number="1">abrogate</word>
+				<word number="2">annul</word>
+				<word number="3">cancel</word>
+				<word number="4" new="1">countersign</word>
+				<word number="5" new="1">void</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="destroy" headRef="169">destroy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abolish</word>
+			</sg>
+			<sg number="4">
+				<word number="1">revoke</word>
+				<word number="2">repeal</word>
+				<word number="3">rescind</word>
+				<word number="4">reverse</word>
+				<word number="5">retract</word>
+				<word number="6">recall</word>
+				<word number="7" new="1">backdate</word>
+				<word number="8" new="1">overturn</word>
+				<word number="9" new="1">ratify</word>
+				<word number="10" new="1">reinstate</word>
+				<word number="11" new="1">renew</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abolitionize</word>
+			</sg>
+			<sg number="6">
+				<word number="1">overrule</word>
+				<word number="2">override</word>
+			</sg>
+			<sg number="7">
+				<word number="1">set aside</word>
+			</sg>
+			<sg number="8">
+				<word number="1">disannul</word>
+				<word number="2">dissolve</word>
+				<word number="3">quash</word>
+				<word number="4">nullify</word>
+				<word number="5">declare null and void</word>
+			</sg>
+			<sg number="9">
+				<word number="1">disestablish</word>
+				<word number="2">disendow</word>
+			</sg>
+			<sg number="10">
+				<word number="1">deconsecrate</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">disregard</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">expunge</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">invalidate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disclaim">
+			<sg number="1">
+				<word number="1" paraRef="deny" headRef="562">disclaim</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ignore</word>
+				<word number="2">repudiate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="recant" headRef="634">recant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">divest oneself</word>
+				<word number="2">break off</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="countermand">
+			<sg number="1">
+				<word number="1">countermand</word>
+				<word number="2">counter order</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do away with</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sweep away</word>
+				<word number="2">brush away</word>
+			</sg>
+			<sg number="4">
+				<word number="1">throw overboard</word>
+				<word number="2">throw to the dogs</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scatter to the winds</word>
+				<word number="2">cast behind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dismiss">
+			<sg number="1">
+				<word number="1">dismiss</word>
+				<word number="2">discard</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast off</word>
+				<word number="2">turn off</word>
+				<word number="3">cast out</word>
+				<word number="4">cast adrift</word>
+				<word number="5">cast out of doors</word>
+				<word number="6">cast aside</word>
+				<word number="7">cast away</word>
+			</sg>
+			<sg number="3">
+				<word number="1">send off</word>
+				<word number="2">send away</word>
+				<word number="3">send packing</word>
+				<word number="4">send about one's business</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discharge</word>
+				<word number="2" paraRef="eject" headRef="308">get rid of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bounce*</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fire*</word>
+				<word number="2">fire out*</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sack*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cashier">
+			<sg number="1">
+				<word number="1">cashier</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oust</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unseat</word>
+				<word number="2">unsaddle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unthrone</word>
+				<word number="2">dethrone</word>
+				<word number="3">disenthrone</word>
+			</sg>
+			<sg number="6">
+				<word number="1">depose</word>
+				<word number="2">uncrown</word>
+			</sg>
+			<sg number="7">
+				<word number="1">unfrock</word>
+				<word number="2">strike off the roll</word>
+			</sg>
+			<sg number="8">
+				<word number="1">disbar</word>
+				<word number="2">disbench</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="be abrogated">
+			<sg number="1">
+				<word number="1">be abrogated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">receive its quietus</word>
+			</sg>
+			<sg number="3">
+				<word number="1">walk the plank</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="abrogated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">abrogated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">functus officio</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="get along with you">
+			<sg number="1">
+				<word number="1">get along with you!</word>
+				<word number="2">begone!</word>
+				<word number="3">go about your business!</word>
+				<word number="4">away with!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

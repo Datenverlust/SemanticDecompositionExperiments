@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="679" name="Perfection" origNum="#650." class="6" section="2" subSection="2" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="perfection">
+			<sg number="1">
+				<word number="1">perfection</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">perfectness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">indefectibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">impeccancy</word>
+				<word number="2">impeccability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pink">
+			<sg number="1">
+				<word number="1">pink</word>
+				<word number="2">beau ideal</word>
+				<word number="3">phenix</word>
+				<word number="4">paragon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pink of perfection</word>
+				<word number="2">acme of perfection</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ne plus ultra</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="summit" headRef="219">summit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cygne noir">
+			<sg number="1">
+				<word number="1">cygne noir</word>
+			</sg>
+			<sg number="2">
+				<word number="1">philosopher's stone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chrysolite</word>
+				<word number="2">Koh-i-noor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="model">
+			<sg number="1">
+				<word number="1">model</word>
+				<word number="2">standard</word>
+				<word number="3">pattern</word>
+				<word number="4">mirror</word>
+				<word number="5">admirable Crichton</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trump</word>
+				<word number="2">very prince of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="masterpiece">
+			<sg number="1">
+				<word number="1">masterpiece</word>
+				<word number="2" paraRef="goodness" headRef="677">superexcellence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="superiority" headRef="35">transcendence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be perfect">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be perfect</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="supreme" headRef="35">transcend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bring to perfection">
+			<sg number="1">
+				<word number="1">bring to perfection</word>
+				<word number="2">perfect</word>
+				<word number="3">ripen</word>
+				<word number="4">mature</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="complete" headRef="758">complete</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="prepare" headRef="702">put in trim</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maturate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="perfect">
+			<sg number="1">
+				<word number="1">perfect</word>
+				<word number="2">faultless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indefective</word>
+				<word number="2">indeficient</word>
+				<word number="3">indefectible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immaculate</word>
+				<word number="2">spotless</word>
+				<word number="3">impeccable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="imperfection" headRef="680">free from imperfection</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unblemished</word>
+				<word number="2" paraRef="injured" headRef="688">uninjured</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sound</word>
+				<word number="2">sound as a roach</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in perfect condition</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scathless</word>
+				<word number="2">intact</word>
+				<word number="3">harmless</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="safe" headRef="693">seaworthy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">right as a trivet</word>
+			</sg>
+			<sg number="11">
+				<word number="1">in seipso totus teres atque rotundus</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="complete" headRef="55">consummate</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="finish" headRef="758">finished</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="best">
+			<sg number="1">
+				<word number="1" paraRef="good" headRef="677">best</word>
+			</sg>
+			<sg number="2">
+				<word number="1">model</word>
+				<word number="2">standard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inimitable</word>
+				<word number="2">unparagoned</word>
+				<word number="3" paraRef="supreme" headRef="35">unparalleled</word>
+			</sg>
+			<sg number="4">
+				<word number="1">superhuman</word>
+				<word number="2">divine</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="approbation" headRef="973">beyond all praise</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sans peur et sans reproche</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="to perfection">
+			<sg number="1">
+				<word number="1">to perfection</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">perfectly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ad unguem</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clean</word>
+				<word number="2">- as a whistle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="let us go on unto perfection [ Hebrews vi">
+			<sg number="1">
+				<word number="1">"let us go on unto perfection"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the perfection of art is to conceal art"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

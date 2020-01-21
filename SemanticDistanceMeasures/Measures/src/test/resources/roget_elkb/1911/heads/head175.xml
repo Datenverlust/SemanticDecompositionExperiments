@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="175" name="Productiveness" origNum="#168." class="1" section="8" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="productiveness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">productiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fecundity</word>
+				<word number="2">fertility</word>
+				<word number="3">luxuriance</word>
+				<word number="4">uberty|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pregnancy">
+			<sg number="1">
+				<word number="1">pregnancy</word>
+				<word number="2">pullulation</word>
+				<word number="3">fructification</word>
+				<word number="4">multiplication</word>
+				<word number="5">propagation</word>
+				<word number="6">procreation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">superfetation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="milch cow">
+			<sg number="1">
+				<word number="1">milch cow</word>
+				<word number="2">rabbit</word>
+				<word number="3">hydra</word>
+				<word number="4">warren</word>
+				<word number="5">seed plot</word>
+				<word number="6">land flowing with milk and honey</word>
+			</sg>
+			<sg number="2">
+				<word number="1">second crop</word>
+				<word number="2">aftermath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aftercrop</word>
+				<word number="2">aftergrowth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arrish</word>
+				<word number="2">eddish</word>
+				<word number="3">rowen</word>
+			</sg>
+			<sg number="5">
+				<word number="1">protoplasm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fertilization</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="make productive">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">make productive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fructify</word>
+			</sg>
+			<sg number="3">
+				<word number="1">procreate</word>
+				<word number="2">generate</word>
+				<word number="3">fertilize</word>
+				<word number="4">spermative</word>
+				<word number="5">impregnate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fecundate</word>
+				<word number="2">fecundify</word>
+			</sg>
+			<sg number="5">
+				<word number="1">teem</word>
+				<word number="2">multiply</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="produce" headRef="168">produce</word>
+			</sg>
+			<sg number="7">
+				<word number="1">conceive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="productive">
+			<sg number="1">
+				<word number="1">productive</word>
+				<word number="2">prolific</word>
+			</sg>
+			<sg number="2">
+				<word number="1">teeming</word>
+				<word number="2">teemful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fertile</word>
+				<word number="2">fruitful</word>
+				<word number="3">frugiferous</word>
+				<word number="4">fruit-bearing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fecund</word>
+				<word number="2">luxuriant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pregnant</word>
+				<word number="2">uberous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="procreant">
+			<sg number="1">
+				<word number="1">procreant</word>
+				<word number="2">procreative</word>
+			</sg>
+			<sg number="2">
+				<word number="1">generative</word>
+				<word number="2">life-giving</word>
+				<word number="3">spermatic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">multiparous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">omnific</word>
+				<word number="2">propagable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="parturient">
+			<sg number="1">
+				<word number="1" paraRef="producing" headRef="168">parturient</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="useful" headRef="673">profitable</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

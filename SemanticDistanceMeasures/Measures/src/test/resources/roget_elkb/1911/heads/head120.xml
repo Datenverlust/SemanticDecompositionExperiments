@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="120" name="Chronometry" origNum="#114." class="1" section="6" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="chronometry">
+			<sg number="1">
+				<word number="1">chronometry</word>
+				<word number="2">horometry</word>
+				<word number="3">horology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">date</word>
+				<word number="2">epoch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">style</word>
+				<word number="2">era</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="almanac">
+			<sg number="1">
+				<word number="1">almanac</word>
+				<word number="2">calendar</word>
+				<word number="3">ephemeris</word>
+			</sg>
+			<sg number="2">
+				<word number="1">register</word>
+				<word number="2">registry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chronicle</word>
+				<word number="2">annals</word>
+				<word number="3">journal</word>
+				<word number="4">diary</word>
+				<word number="5">chronogram</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clock</word>
+				<word number="2">wall clock</word>
+				<word number="3">pendulum clock</word>
+				<word number="4">grandfather's clock</word>
+				<word number="5">cuckoo clock</word>
+				<word number="6">alarm clock</word>
+				<word number="7">clock radio</word>
+			</sg>
+			<sg number="5">
+				<word number="1">watch</word>
+				<word number="2">wristwatch</word>
+				<word number="3">pocket watch</word>
+				<word number="4">stopwatch</word>
+				<word number="5">Swiss watch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">atomic clock</word>
+				<word number="2">digital clock</word>
+				<word number="3">analog clock</word>
+				<word number="4">quartz watch</word>
+				<word number="5">water clock</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chronometer</word>
+				<word number="2">chronoscope</word>
+				<word number="3">chronograph</word>
+			</sg>
+			<sg number="8">
+				<word number="1">repeater</word>
+			</sg>
+			<sg number="9">
+				<word number="1">timekeeper</word>
+				<word number="2">timepiece</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dial</word>
+				<word number="2">sundial</word>
+				<word number="3">gnomon</word>
+				<word number="4">horologe</word>
+				<word number="5">pendulum</word>
+				<word number="6">hourglass</word>
+				<word number="7">clepsydra</word>
+			</sg>
+			<sg number="11">
+				<word number="1">ghurry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="chronographer">
+			<sg number="1">
+				<word number="1">chronographer</word>
+				<word number="2">chronologer</word>
+				<word number="3">chronologist</word>
+				<word number="4">timekeeper</word>
+			</sg>
+			<sg number="2">
+				<word number="1">annalist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="calendar year">
+			<sg number="1">
+				<word number="1">calendar year</word>
+				<word number="2">leap year</word>
+				<word number="3">Julian calendar</word>
+				<word number="4">Gregorian calendar</word>
+				<word number="5">Chinese calendar</word>
+				<word number="6">Jewish calendar</word>
+				<word number="7">perpetual calendar</word>
+				<word number="8">Farmer's almanac</word>
+				<word number="9">fiscal year</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fix the time">
+			<sg number="1">
+				<word number="1">fix the time</word>
+				<word number="2">mark the time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">date</word>
+				<word number="2">register</word>
+				<word number="3">chronicle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">measure time</word>
+				<word number="2">beat time</word>
+				<word number="3">mark time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bear date</word>
+			</sg>
+			<sg number="5">
+				<word number="1">synchronize watches</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="chronological">
+			<sg number="1">
+				<word number="1">chronological</word>
+				<word number="2">chronometrical</word>
+				<word number="3">chronogrammatical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cinquecento</word>
+				<word number="2">quattrocento</word>
+				<word number="3">trecento</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="o'clock">
+			<sg number="1">
+				<word number="1">o'clock</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

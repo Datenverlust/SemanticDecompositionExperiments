@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="10" name="Irrelation" origNum="#10." class="1" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="irrelation">
+			<sg number="1">
+				<word number="1">irrelation</word>
+				<word number="2">dissociation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misrelation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inapplicability</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inconnection</word>
+			</sg>
+			<sg number="5">
+				<word number="1">multifariousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="disjunction" headRef="47">disconnection</word>
+			</sg>
+			<sg number="7">
+				<word number="1">inconsequence</word>
+				<word number="2">independence</word>
+			</sg>
+			<sg number="8">
+				<word number="1">incommensurability</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="disagreement" headRef="26">irreconcilableness</word>
+			</sg>
+			<sg number="10">
+				<word number="1">heterogeneity</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="unconformity" headRef="87">unconformity</word>
+			</sg>
+			<sg number="12">
+				<word number="1">irrelevancy</word>
+				<word number="2">impertinence</word>
+				<word number="3">nihil ad rem</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="intrusion" headRef="26">intrusion</word>
+			</sg>
+			<sg number="14">
+				<word number="1">non-pertinence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have no relation to">
+			<sg number="1">
+				<word number="1" paraRef="have a relation" headRef="9">have no relation to</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have no bearing upon</word>
+				<word number="2" paraRef="concern" headRef="9">have no concern with</word>
+				<word number="3">have no business with</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="concern" headRef="9">not concern</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have no business there</word>
+				<word number="2">have nothing to do with</word>
+				<word number="3" paraRef="intrude" headRef="26">intrude</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bring in head and shoulders">
+			<sg number="1">
+				<word number="1">bring in head and shoulders</word>
+				<word number="2">drag in head and shoulders</word>
+				<word number="3">lug in head and shoulders</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="irrelative">
+			<sg number="1">
+				<word number="1">irrelative</word>
+				<word number="2">irrespective</word>
+				<word number="3">unrelated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arbitrary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">independent</word>
+				<word number="2">unallied</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unconnected</word>
+				<word number="2">disconnected</word>
+			</sg>
+			<sg number="5">
+				<word number="1">adrift</word>
+				<word number="2">isolated</word>
+				<word number="3">insular</word>
+			</sg>
+			<sg number="6">
+				<word number="1">extraneous</word>
+				<word number="2">strange</word>
+				<word number="3">alien</word>
+				<word number="4">foreign</word>
+				<word number="5">outlandish</word>
+				<word number="6">exotic</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">distant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not comparable">
+			<sg number="1">
+				<word number="1">not comparable</word>
+				<word number="2">incommensurable</word>
+				<word number="3">heterogeneous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unconformably" headRef="87">unconformable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="irrelevant">
+			<sg number="1">
+				<word number="1">irrelevant</word>
+				<word number="2">inapplicable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not pertinent</word>
+				<word number="2">not to the</word>
+				<word number="3">purpose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impertinent</word>
+				<word number="2">inapposite</word>
+				<word number="3">beside the mark</word>
+				<word number="4">a propos de bottes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aside from the purpose,</word>
+				<word number="2">away from the purpose,</word>
+				<word number="3">foreign to the purpose</word>
+				<word number="4">beside the purpose</word>
+				<word number="5">beside the question</word>
+				<word number="6">beside the transaction</word>
+				<word number="7">beside the point</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="intrusive" headRef="26">misplaced</word>
+			</sg>
+			<sg number="6">
+				<word number="1">traveling out of the record</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="remote">
+			<sg number="1">
+				<word number="1">remote</word>
+				<word number="2">far-fetched</word>
+				<word number="3">out of the way</word>
+				<word number="4">forced</word>
+				<word number="5">neither here nor there</word>
+				<word number="6">quite another thing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">detached</word>
+				<word number="2">segregate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disquiparant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="multifarious">
+			<sg number="1">
+				<word number="1">multifarious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discordant" headRef="26">discordant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="incidental">
+			<sg number="1">
+				<word number="1">incidental</word>
+				<word number="2">parenthetical</word>
+				<word number="3">obiter dicta</word>
+				<word number="4">episodic</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="parenthetically">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">parenthetically</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by the way</word>
+				<word number="2">by the by</word>
+			</sg>
+			<sg number="3">
+				<word number="1">en passant</word>
+				<word number="2">incidentally</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">irrespectively</word>
+			</sg>
+			<sg number="5">
+				<word number="1">without reference to</word>
+				<word number="2">without regard to</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="in the abstract" headRef="91">in the abstract</word>
+			</sg>
+			<sg number="7">
+				<word number="1">a se</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

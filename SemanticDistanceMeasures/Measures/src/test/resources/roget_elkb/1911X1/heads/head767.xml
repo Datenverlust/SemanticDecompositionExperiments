@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="767" name="Government" origNum="#737a." class="7" section="1" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="government">
+			<sg number="1">
+				<word number="1">government</word>
+				<word number="2">legal authority</word>
+				<word number="3">soveriegn</word>
+				<word number="4">sovereign authority</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="authority" headRef="766">authority</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="master" headRef="776">master</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="direction" headRef="722">direction</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="national government">
+			<sg number="1">
+				<word number="1">national government</word>
+				<word number="2">nation</word>
+				<word number="3">state</word>
+				<word number="4">country</word>
+				<word number="5">nation-state</word>
+				<word number="6">dominion</word>
+				<word number="7">republic</word>
+				<word number="8">empire</word>
+				<word number="9">union</word>
+				<word number="10">democratic republic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kingdom</word>
+				<word number="2">principality</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">confederacy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">confederation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="state government[U">
+			<sg number="1">
+				<word number="1">state government</word>
+				<word number="2">state</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">province</word>
+			</sg>
+			<sg number="4">
+				<word number="1">county</word>
+			</sg>
+			<sg number="5">
+				<word number="1">canton</word>
+			</sg>
+			<sg number="6">
+				<word number="1">territory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">duchy</word>
+				<word number="2">archduchy</word>
+				<word number="3">archdukedom</word>
+			</sg>
+			<sg number="8">
+				<word number="1">woiwodshaft</word>
+			</sg>
+			<sg number="9">
+				<word number="1">commonwealth</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="region" headRef="190">region</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="property" headRef="813">property</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="county">
+			<sg number="1">
+				<word number="1">county</word>
+				<word number="2">parish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">city</word>
+				<word number="2">domain</word>
+				<word number="3">tract</word>
+				<word number="4">arrondissement</word>
+				<word number="5">mofussil</word>
+				<word number="6">commune</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wappentake</word>
+				<word number="2">hundred</word>
+				<word number="3">riding</word>
+				<word number="4">lathe</word>
+				<word number="5">garth</word>
+				<word number="6">soke</word>
+				<word number="7">tithing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ward</word>
+				<word number="2">precinct</word>
+				<word number="3">bailiwick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="command">
+			<sg number="1">
+				<word number="1">command</word>
+				<word number="2">empire</word>
+				<word number="3">sway</word>
+				<word number="4">rule</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dominion</word>
+				<word number="2">domination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sovereignty</word>
+				<word number="2">supremacy</word>
+				<word number="3">suzerainty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lordship</word>
+				<word number="2">headship</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chiefdom</word>
+			</sg>
+			<sg number="6">
+				<word number="1">seigniory</word>
+				<word number="2">seigniority</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="rule">
+			<sg number="1">
+				<word number="1">rule</word>
+				<word number="2">sway</word>
+				<word number="3">command</word>
+				<word number="4">control</word>
+				<word number="5">administer</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="direct" headRef="722">govern</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lead</word>
+				<word number="2">preside over</word>
+				<word number="3">reign</word>
+				<word number="4">possess the throne</word>
+				<word number="5">be seated on the throne</word>
+				<word number="6">occupy the throne</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sway the scepter</word>
+				<word number="2">wield the scepter</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wear the crown</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="state">
+			<sg number="1">
+				<word number="1">state</word>
+				<word number="2">realm</word>
+				<word number="3">body politic</word>
+				<word number="4">posse comitatus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="judicature">
+			<sg number="1">
+				<word number="1" paraRef="judicature" headRef="1008">judicature</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="council" headRef="725">cabinet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seat of government</word>
+				<word number="2">seat of authority</word>
+			</sg>
+			<sg number="4">
+				<word number="1">headquarters</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="accession">
+			<sg number="1">
+				<word number="1">accession</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="installation" headRef="786">installation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="politics" headRef="767">politics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="reign">
+			<sg number="1">
+				<word number="1">reign</word>
+				<word number="2">regime</word>
+				<word number="3">dynasty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">directorship</word>
+				<word number="2">dictatorship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">protectorate</word>
+				<word number="2">protectorship</word>
+			</sg>
+			<sg number="4">
+				<word number="1">caliphate</word>
+				<word number="2">pashalic</word>
+				<word number="3">electorate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">presidency</word>
+				<word number="2">presidentship</word>
+			</sg>
+			<sg number="6">
+				<word number="1">administration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">proconsul</word>
+				<word number="2">consulship</word>
+			</sg>
+			<sg number="8">
+				<word number="1">prefecture</word>
+			</sg>
+			<sg number="9">
+				<word number="1">seneschalship</word>
+			</sg>
+			<sg number="10">
+				<word number="1">magistrature</word>
+				<word number="2">magistracy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="monarchy">
+			<sg number="1">
+				<word number="1">monarchy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">kinghood</word>
+				<word number="2">kingship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">royalty</word>
+				<word number="2">regality</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aristarchy</word>
+				<word number="2">aristocracy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">oligarchy</word>
+				<word number="2">democracy</word>
+				<word number="3">theocracy</word>
+				<word number="4">demagogy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">commonwealth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dominion</word>
+			</sg>
+			<sg number="8">
+				<word number="1">heteronomy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">republic</word>
+				<word number="2">republicanism</word>
+			</sg>
+			<sg number="10">
+				<word number="1">socialism</word>
+			</sg>
+			<sg number="11">
+				<word number="1">collectivism</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mob law</word>
+				<word number="2">mobocracy</word>
+				<word number="3">ochlocracy</word>
+			</sg>
+			<sg number="13">
+				<word number="1">vox populi</word>
+				<word number="2">imperium in imperio</word>
+			</sg>
+			<sg number="14">
+				<word number="1">bureaucracy</word>
+			</sg>
+			<sg number="15">
+				<word number="1">beadledom</word>
+				<word number="2">bumbledom</word>
+			</sg>
+			<sg number="16">
+				<word number="1">stratocracy</word>
+			</sg>
+			<sg number="17">
+				<word number="1">military power</word>
+				<word number="2">military government</word>
+				<word number="3">junta</word>
+			</sg>
+			<sg number="18">
+				<word number="1">feodality</word>
+				<word number="2">feudal system</word>
+				<word number="3">feudalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="thearchy">
+			<sg number="1">
+				<word number="1">thearchy</word>
+				<word number="2">theocracy</word>
+				<word number="3">dinarchy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">duarchy</word>
+				<word number="2">triarchy</word>
+				<word number="3">heterarchy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">duumvirate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">triumvirate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">autocracy</word>
+				<word number="2">autonomy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">limited monarchy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">constitutional government</word>
+				<word number="2">constitutional monarchy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">home rule</word>
+			</sg>
+			<sg number="9">
+				<word number="1">representative government</word>
+			</sg>
+			<sg number="10">
+				<word number="1">monocracy</word>
+				<word number="2">pantisocracy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="gynarchy">
+			<sg number="1">
+				<word number="1">gynarchy</word>
+				<word number="2">gynocracy</word>
+				<word number="3">gynaeocracy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">petticoat government</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="legislature">
+			<sg number="1">
+				<word number="1">legislature</word>
+				<word number="2">judiciary</word>
+				<word number="3">administration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="office of the president">
+			<sg number="1">
+				<word number="1">office of the president</word>
+				<word number="2">office of the prime minister</word>
+				<word number="3">cabinet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">senate</word>
+				<word number="2">house of representatives</word>
+				<word number="3">parliament</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="council" headRef="725">council</word>
+			</sg>
+			<sg number="4">
+				<word number="1">courts</word>
+				<word number="2">supreme court</word>
+			</sg>
+			<sg number="5">
+				<word number="1">state</word>
+				<word number="2">interior</word>
+				<word number="3">labor</word>
+				<word number="4">health and human services</word>
+				<word number="5">defense</word>
+				<word number="6">education</word>
+				<word number="7">agriculture</word>
+				<word number="8">justice</word>
+				<word number="9">commerce</word>
+				<word number="10">treasury</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Federal Bureau of Investigation</word>
+				<word number="2">FBI</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Central Intelligence Agency</word>
+				<word number="2">CIA</word>
+			</sg>
+			<sg number="8">
+				<word number="1">National Institutes of Health</word>
+				<word number="2">NIH</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Postal Service</word>
+				<word number="2">Post Office</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Federal Aviation Administration</word>
+				<word number="2">FAA</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">exchequer</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">synod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="president">
+			<sg number="1">
+				<word number="1">president</word>
+				<word number="2">vice president</word>
+				<word number="3">cabinet member</word>
+				<word number="4">prime minister</word>
+				<word number="5">minister</word>
+			</sg>
+			<sg number="2">
+				<word number="1">senator</word>
+				<word number="2">representatative</word>
+				<word number="3">president pro tem</word>
+				<word number="4">speaker of the house</word>
+			</sg>
+			<sg number="3">
+				<word number="1">department head</word>
+				<word number="2">section head</word>
+				<word number="3">section chief</word>
+			</sg>
+			<sg number="4">
+				<word number="1">federal judge</word>
+				<word number="2">justice</word>
+				<word number="3">justice of the supreme court</word>
+				<word number="4">chief justice</word>
+			</sg>
+			<sg number="5">
+				<word number="1">treasurer</word>
+				<word number="2">secretary of the treasury</word>
+			</sg>
+			<sg number="6">
+				<word number="1">director of the FBI</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">chancellor</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">premier</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">secretary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="governor">
+			<sg number="1">
+				<word number="1">governor</word>
+				<word number="2">state cabinet member</word>
+			</sg>
+			<sg number="2">
+				<word number="1">state senator</word>
+				<word number="2">assemblyman</word>
+				<word number="3">assemblywoman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="delegate">
+			<sg number="1">
+				<word number="1" new="1">delegate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="despotism">
+			<sg number="1">
+				<word number="1" new="1">despotism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="polity">
+			<sg number="1">
+				<word number="1" new="1">polity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="succession">
+			<sg number="1">
+				<word number="1" new="1">succession</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="govern">
+			<sg number="1">
+				<word number="1">govern</word>
+				<word number="2">rule</word>
+				<word number="3">have authority</word>
+				<word number="4">hold authority</word>
+				<word number="5">possess authority</word>
+				<word number="6">exercise authority</word>
+				<word number="7">exert authority</word>
+				<word number="8" paraRef="" posRef="n.">wield authority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reign</word>
+				<word number="2">be sovereign</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ascend the throne">
+			<sg number="1">
+				<word number="1">ascend the throne</word>
+				<word number="2">mount the throne</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take the reins</word>
+				<word number="2">take the reins into one's hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">assume authority</word>
+				<word number="2">assume the reins of government</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take command</word>
+				<word number="2">assume command</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="politics">
+			<sg number="1">
+				<word number="1" paraRef="politics" headRef="767">politics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="be governed by">
+			<sg number="1">
+				<word number="1">be governed by</word>
+				<word number="2">be in the power of</word>
+				<word number="3">be a subject of</word>
+				<word number="4">be a citizen of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="regal">
+			<sg number="1">
+				<word number="1">regal</word>
+				<word number="2">sovereign</word>
+				<word number="3">governing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">royal</word>
+				<word number="2">royalist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monarchical</word>
+				<word number="2">kingly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">imperial</word>
+				<word number="2">imperiatorial</word>
+			</sg>
+			<sg number="5">
+				<word number="1">princely</word>
+			</sg>
+			<sg number="6">
+				<word number="1">feudal</word>
+			</sg>
+			<sg number="7">
+				<word number="1">aristocratic</word>
+				<word number="2">autocratic</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="n.">oligarchic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">republican</word>
+				<word number="2">dynastic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ruling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">ruling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">regnant</word>
+				<word number="2">gubernatorial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imperious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">authoritative</word>
+				<word number="2">executive</word>
+				<word number="3">administrative</word>
+				<word number="4">clothed with authority</word>
+				<word number="5">official</word>
+				<word number="6">departmental</word>
+				<word number="7">ex officio</word>
+				<word number="8">imperative</word>
+				<word number="9">peremptory</word>
+				<word number="10">overruling</word>
+				<word number="11">absolute</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hegemonic</word>
+				<word number="2">hegemonical</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="due" headRef="965">authorized</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="government">
+			<sg number="1">
+				<word number="1">government</word>
+				<word number="2">public</word>
+			</sg>
+			<sg number="2">
+				<word number="1">national</word>
+				<word number="2">federal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">his majesty's</word>
+				<word number="2">her majesty's</word>
+			</sg>
+			<sg number="4">
+				<word number="1">state</word>
+				<word number="2">county</word>
+				<word number="3" paraRef="" posRef="n.">city</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a dog's obeyed in office">
+			<sg number="1">
+				<word number="1">"a dog's obeyed in office"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cada uno tiene su alguazil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">le Roi le veut</word>
+			</sg>
+			<sg number="4">
+				<word number="1">regibus esse manus en nescio longas</word>
+			</sg>
+			<sg number="5">
+				<word number="1">regnant populi</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the demigod Authority"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"the right divine of kings to govern wrong"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"uneasy lies the head that wears a crown"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

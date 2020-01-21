@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="211" name="Breadth, Thickness" origNum="#202." class="2" section="2" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="breadth">
+			<sg number="1">
+				<word number="1">breadth</word>
+				<word number="2">width</word>
+				<word number="3">latitude</word>
+				<word number="4">amplitude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diameter</word>
+				<word number="2">bore</word>
+				<word number="3">caliber</word>
+				<word number="4">radius</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="space" headRef="188">superficial extent</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">circumference</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="2">girth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="thickness">
+			<sg number="1">
+				<word number="1">thickness</word>
+				<word number="2">crassitude</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="size" headRef="201">corpulence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="expansion" headRef="203">dilation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be broad">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be broad</word>
+			</sg>
+			<sg number="2">
+				<word number="1">become broad</word>
+				<word number="2" paraRef="" posRef="adj.">render broad</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="expand" headRef="203">expand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">thicken</word>
+				<word number="2">widen</word>
+				<word number="3">calibrate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="broad">
+			<sg number="1">
+				<word number="1">broad</word>
+				<word number="2">wide</word>
+				<word number="3">ample</word>
+				<word number="4">extended</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fanlike</word>
+			</sg>
+			<sg number="4">
+				<word number="1">outspread</word>
+				<word number="2">outstretched</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"wide as a church-door"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">latifoliate</word>
+				<word number="2">latifolous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="thick">
+			<sg number="1">
+				<word number="1">thick</word>
+				<word number="2">dumpy</word>
+				<word number="3">squab</word>
+				<word number="4">squat</word>
+				<word number="5">thickset</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thick as a rope</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

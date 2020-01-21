@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="498" name="Uncertainty" origNum="#475." class="4" section="3" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="uncertainty">
+			<sg number="1">
+				<word number="1">uncertainty</word>
+				<word number="2">incertitude</word>
+				<word number="3">doubt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">doubtfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dubiety</word>
+				<word number="2">dubitation</word>
+				<word number="3">dubitancy</word>
+				<word number="4">dubitousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hesitation">
+			<sg number="1">
+				<word number="1">hesitation</word>
+				<word number="2">suspense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perplexity</word>
+				<word number="2">embarrassment</word>
+				<word number="3">dilemma</word>
+				<word number="4">bewilderment</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fear" headRef="899">timidity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vacillation" headRef="632">vacillation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">diaporesis</word>
+				<word number="2">indetermination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vagueness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">vagueness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">haze</word>
+				<word number="2">fog</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="darkness" headRef="439">obscurity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="double meaning" headRef="545">ambiguity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contingency</word>
+				<word number="2">dependence</word>
+				<word number="3">dependency</word>
+				<word number="4">double contingency</word>
+				<word number="5">possibility upon a possibility</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="question" headRef="481">open question</word>
+			</sg>
+			<sg number="7">
+				<word number="1">onus probandi</word>
+			</sg>
+			<sg number="8">
+				<word number="1">blind bargain</word>
+				<word number="2">pig in a poke</word>
+				<word number="3">leap in the dark</word>
+				<word number="4">something or other</word>
+			</sg>
+			<sg number="9">
+				<word number="1">needle in a haystack</word>
+				<word number="2">needle in a bottle of hay</word>
+			</sg>
+			<sg number="10">
+				<word number="1">roving commission</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="precariousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">precariousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fallibility</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be uncertain">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be uncertain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wonder whether</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lose the clue">
+			<sg number="1">
+				<word number="1">lose the clue</word>
+				<word number="2">lose the clew</word>
+				<word number="3">scent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">miss one's way</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="not know what to make of">
+			<sg number="1">
+				<word number="1" paraRef="unintelligibility" headRef="544">not know what to make of</word>
+				<word number="2">not know which way to turn</word>
+				<word number="3">not know whether one stands on one's head or one's heels</word>
+			</sg>
+			<sg number="2">
+				<word number="1">float in a sea of doubt,hesitate</word>
+				<word number="2">flounder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lose oneself</word>
+				<word number="2">lose one's head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">muddle one's brains</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="render uncertain">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render uncertain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put out</word>
+				<word number="2">pose</word>
+				<word number="3">puzzle</word>
+				<word number="4">perplex</word>
+				<word number="5">embarrass</word>
+				<word number="6" new="1">baffle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">confuse</word>
+				<word number="2">confound</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bewilder</word>
+				<word number="2">bother</word>
+				<word number="3">molder</word>
+				<word number="4">addle the wits</word>
+				<word number="5">throw off the scent</word>
+				<word number="6">ambiguas in vulgus spargere voces</word>
+			</sg>
+			<sg number="5">
+				<word number="1">keep in suspense</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="doubt">
+			<sg number="1">
+				<word number="1" paraRef="disbelieve" headRef="509">doubt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang in the balance</word>
+				<word number="2">tremble in the balance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="uncertain">
+			<sg number="1">
+				<word number="1">uncertain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">casual</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="aimless" headRef="650">random</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="changeable" headRef="156">changeable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="doubtful">
+			<sg number="1">
+				<word number="1">doubtful</word>
+				<word number="2">dubious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indecisive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unsettled</word>
+				<word number="2">undecided</word>
+				<word number="3">undetermined</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in suspense</word>
+				<word number="2">open to discussion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">controvertible</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="inquiry" headRef="481">in question</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vague">
+			<sg number="1">
+				<word number="1">vague</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indeterminate</word>
+				<word number="2">indefinite</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ambiguous</word>
+				<word number="2">equivocal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">undefined</word>
+				<word number="2">undefinable</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="indistinct" headRef="466">confused</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mystic</word>
+				<word number="2">oracular</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dazed</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">nebulous</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">obscure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="perplexing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">perplexing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enigmatic</word>
+				<word number="2">paradoxical</word>
+				<word number="3">apocryphal</word>
+				<word number="4">problematical</word>
+				<word number="5">hypothetical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="experimental" headRef="483">experimental</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unpredictable">
+			<sg number="1">
+				<word number="1">unpredictable</word>
+				<word number="2" paraRef="unknowable" headRef="544">unforeseeable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="fallible">
+			<sg number="1">
+				<word number="1">fallible</word>
+				<word number="2">questionable</word>
+				<word number="3">precarious</word>
+				<word number="4">slippery</word>
+				<word number="5">ticklish</word>
+				<word number="6">debatable</word>
+				<word number="7">disputable</word>
+				<word number="8" new="1">tenuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unreliable</word>
+				<word number="2">untrustworthy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="contingent">
+			<sg number="1">
+				<word number="1">contingent</word>
+				<word number="2">contingent on</word>
+				<word number="3">dependent on</word>
+			</sg>
+			<sg number="2">
+				<word number="1">subject to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dependent on circumstances</word>
+			</sg>
+			<sg number="4">
+				<word number="1">occasional</word>
+			</sg>
+			<sg number="5">
+				<word number="1">provisional</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="unauthentic">
+			<sg number="1">
+				<word number="1">unauthentic</word>
+				<word number="2">unauthenticated</word>
+				<word number="3">unauthoritative</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unascertained</word>
+				<word number="2">unconfirmed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undemonstrated</word>
+			</sg>
+			<sg number="4">
+				<word number="1">untold</word>
+				<word number="2">uncounted</word>
+				<word number="3" new="1">countless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="in a state of uncertainty">
+			<sg number="1">
+				<word number="1">in a state of uncertainty</word>
+				<word number="2">in a cloud</word>
+				<word number="3">in a maze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bushed</word>
+				<word number="2">off the track</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ignorant" headRef="515">ignorant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">afraid to say</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of one's reckoning</word>
+				<word number="2">astray</word>
+				<word number="3">adrift</word>
+			</sg>
+			<sg number="6">
+				<word number="1">at sea</word>
+				<word number="2">at fault</word>
+				<word number="3">at a loss</word>
+				<word number="4">at one's wit's end</word>
+				<word number="5">at a nonplus</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">puzzled</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lost</word>
+				<word number="2">abroad</word>
+				<word number="3">désorienté</word>
+			</sg>
+			<sg number="9">
+				<word number="1">distracted</word>
+				<word number="2">distraught</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="controversial">
+			<sg number="1">
+				<word number="1" new="1">controversial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="pendente lite">
+			<sg number="1">
+				<word number="1">pendente lite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sub spe rati</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Heaven knows">
+			<sg number="1">
+				<word number="1">Heaven knows</word>
+			</sg>
+			<sg number="2">
+				<word number="1">who can tell? who shall decide when doctors disagree? ambiguas in vulgum spargere voces</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

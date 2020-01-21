@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="491" name="Counter Evidence" origNum="#468." class="4" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="counter evidence">
+			<sg number="1">
+				<word number="1">counter evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evidence on the other side</word>
+				<word number="2">evidence on the other hand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">conflicting evidence</word>
+				<word number="2">contradictory evidence</word>
+				<word number="3">opposing evidence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disproof</word>
+				<word number="2" paraRef="refutation" headRef="502">refutation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="negation" headRef="562">negation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plea">
+			<sg number="1">
+				<word number="1" paraRef="plea" headRef="646">plea</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vindication" headRef="979">vindication</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"tu quoque" argument</word>
+			</sg>
+			<sg number="4">
+				<word number="1">other side of the shield</word>
+				<word number="2">other side of the coin</word>
+				<word number="3">reverse of the shield</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="countervail">
+			<sg number="1">
+				<word number="1">countervail</word>
+				<word number="2">oppose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mitigate against</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="refute" headRef="502">rebut</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="destroy" headRef="169">subvert</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cheek</word>
+				<word number="2">weaken</word>
+			</sg>
+			<sg number="6">
+				<word number="1">contravene</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="deny" headRef="562">contradict</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tell the other side of the story</word>
+				<word number="2">tell another story</word>
+				<word number="3">turn the scale</word>
+				<word number="4">alter the case</word>
+			</sg>
+			<sg number="9">
+				<word number="1">turn the tables</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cut both ways</word>
+			</sg>
+			<sg number="11">
+				<word number="1">prove a negative</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="audire alteram partem">
+			<sg number="1">
+				<word number="1">audire alteram partem</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="countervailing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">countervailing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contradictory</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unattested">
+			<sg number="1">
+				<word number="1">unattested</word>
+				<word number="2">unauthenticated</word>
+				<word number="3">unsupported by evidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">supposititious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on the contrary">
+			<sg number="1">
+				<word number="1">on the contrary</word>
+				<word number="2">per contra</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

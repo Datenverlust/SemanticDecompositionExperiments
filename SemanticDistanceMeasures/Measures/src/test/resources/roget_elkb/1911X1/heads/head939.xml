@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="939" name="Resentment" origNum="#900." class="8" section="3" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="resentment">
+			<sg number="1">
+				<word number="1">resentment</word>
+				<word number="2">displeasure</word>
+				<word number="3">animosity</word>
+				<word number="4">anger</word>
+				<word number="5">wrath</word>
+				<word number="6">indignation</word>
+				<word number="7" new="1">hostility</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exasperation</word>
+				<word number="2">bitter resentment</word>
+				<word number="3">wrathful indignation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pique">
+			<sg number="1">
+				<word number="1">pique</word>
+				<word number="2">umbrage</word>
+				<word number="3">huff</word>
+				<word number="4">miff</word>
+				<word number="5">soreness</word>
+				<word number="6">dudgeon</word>
+				<word number="7">acerbity</word>
+				<word number="8">virulence</word>
+				<word number="9">bitterness</word>
+				<word number="10">acrimony</word>
+				<word number="11">asperity</word>
+				<word number="12">spleen</word>
+				<word number="13">gall</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heart-burning</word>
+				<word number="2">heart- swelling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rankling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ill humor">
+			<sg number="1">
+				<word number="1">ill humor</word>
+				<word number="2">bad humor</word>
+				<word number="3">ill temper</word>
+				<word number="4">bad temper</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="irascibility" headRef="940">irascibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hate" headRef="937">ill blood</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="revenge" headRef="960">revenge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="excitement">
+			<sg number="1">
+				<word number="1">excitement</word>
+				<word number="2">irritation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">warmth</word>
+				<word number="2">bile</word>
+				<word number="3">choler</word>
+				<word number="4">ire</word>
+				<word number="5">fume</word>
+				<word number="6">pucker</word>
+				<word number="7">dander</word>
+				<word number="8">ferment</word>
+				<word number="9">ebullition</word>
+			</sg>
+			<sg number="3">
+				<word number="1">towering passion</word>
+				<word number="2">acharnement</word>
+				<word number="3">angry mood</word>
+				<word number="4">taking</word>
+				<word number="5">pet</word>
+				<word number="6">tiff</word>
+				<word number="7">passion</word>
+				<word number="8">fit</word>
+				<word number="9">tantrums</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="burst">
+			<sg number="1">
+				<word number="1">burst</word>
+				<word number="2">explosion</word>
+				<word number="3">paroxysm</word>
+				<word number="4">storm</word>
+				<word number="5">rage</word>
+				<word number="6">fury</word>
+				<word number="7">desperation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="violence" headRef="180">violence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fire and fury</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vials of wrath</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gnashing of teeth</word>
+				<word number="2">hot blood</word>
+				<word number="3">high words</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="scowl">
+			<sg number="1">
+				<word number="1" paraRef="scowl" headRef="934">scowl</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sulks" headRef="941">sulks</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="affront">
+			<sg number="1">
+				<word number="1">affront</word>
+				<word number="2">provocation</word>
+				<word number="3">offense</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insult" headRef="971">indignity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grudge</word>
+				<word number="2">crow to pluck</word>
+				<word number="3">bone to pick</word>
+				<word number="4">sore subject</word>
+				<word number="5">casus belli</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ill turn</word>
+				<word number="2">outrage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="Furies">
+			<sg number="1">
+				<word number="1">Furies</word>
+				<word number="2">Eumenides</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="buffet">
+			<sg number="1">
+				<word number="1">buffet</word>
+				<word number="2">slap in the face</word>
+				<word number="3">box on the ear</word>
+				<word number="4">rap on the knuckles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="recrimination">
+			<sg number="1">
+				<word number="1" new="1">recrimination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="vengeance">
+			<sg number="1">
+				<word number="1" new="1">vengeance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="resent">
+			<sg number="1">
+				<word number="1">resent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take amiss</word>
+				<word number="2">take ill</word>
+				<word number="3">take to heart</word>
+				<word number="4">take offense</word>
+				<word number="5">take umbrage</word>
+				<word number="6">take huff</word>
+				<word number="7">take exception</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take in ill part</word>
+				<word number="2">take in bad part</word>
+				<word number="3">take in dudgeon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ne pas entendre raillerie</word>
+			</sg>
+			<sg number="5">
+				<word number="1">breathe revenge</word>
+				<word number="2">cut up rough</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fly into a rage">
+			<sg number="1">
+				<word number="1">fly into a rage</word>
+				<word number="2">fall into a rage</word>
+				<word number="3">get into a rage</word>
+				<word number="4">fly into a passion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bridle up</word>
+				<word number="2">bristle up</word>
+				<word number="3">froth up</word>
+				<word number="4">fire up</word>
+				<word number="5">flare up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open the vials of one's wrath</word>
+				<word number="2">pour out the vials of one's wrath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pout">
+			<sg number="1">
+				<word number="1">pout</word>
+				<word number="2">knit the brow</word>
+				<word number="3">frown</word>
+				<word number="4">scowl</word>
+				<word number="5">lower</word>
+				<word number="6">snarl</word>
+				<word number="7">growl</word>
+				<word number="8">gnarl</word>
+				<word number="9">gnash</word>
+				<word number="10">snap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">redden</word>
+				<word number="2">color</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look black</word>
+				<word number="2">look black as thunder</word>
+				<word number="3">look daggers</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bite one's thumb</word>
+			</sg>
+			<sg number="5">
+				<word number="1">show one's teeth</word>
+				<word number="2">grind one's teeth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">champ the bit</word>
+				<word number="2">champ at the bit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="chafe">
+			<sg number="1">
+				<word number="1">chafe</word>
+				<word number="2">mantle</word>
+				<word number="3">fume</word>
+				<word number="4">kindle</word>
+				<word number="5">fly out</word>
+				<word number="6">take fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">boil</word>
+				<word number="2">boil over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">boil with indignation</word>
+				<word number="2">boil with rage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rage</word>
+				<word number="2">storm</word>
+				<word number="3">foam</word>
+				<word number="4">vent one's rage</word>
+				<word number="5">vent one's spleen</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lose one's temper</word>
+				<word number="2">stand on one's hind legs</word>
+				<word number="3">stamp the foot</word>
+				<word number="4">stamp with rage</word>
+				<word number="5">quiver with rage</word>
+				<word number="6">swell with rage</word>
+				<word number="7">foam with rage</word>
+			</sg>
+			<sg number="6">
+				<word number="1">burst with anger</word>
+			</sg>
+			<sg number="7">
+				<word number="1">raise Cain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="have a fling at">
+			<sg number="1">
+				<word number="1">have a fling at</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="revenge" headRef="960">bear malice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="cause anger">
+			<sg number="1">
+				<word number="1">cause anger</word>
+				<word number="2">raise anger</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affront</word>
+				<word number="2">offend</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give offense</word>
+				<word number="2">give umbrage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anger</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hurt the feelings</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insult</word>
+				<word number="2">discompose</word>
+				<word number="3">fret</word>
+				<word number="4">ruffle</word>
+				<word number="5">nettle</word>
+				<word number="6">huff</word>
+				<word number="7">pique</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="excite" headRef="862">excite</word>
+			</sg>
+			<sg number="8">
+				<word number="1">irritate</word>
+				<word number="2">stir the blood</word>
+				<word number="3">stir up bile</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sting</word>
+				<word number="2">sting to the quick</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rile</word>
+				<word number="2">provoke</word>
+				<word number="3">chafe</word>
+				<word number="4">wound</word>
+				<word number="5">incense</word>
+				<word number="6">inflame</word>
+				<word number="7">enrage</word>
+				<word number="8">aggravate</word>
+				<word number="9">add fuel to the flame</word>
+				<word number="10">fan into a flame</word>
+				<word number="11">widen the breach</word>
+				<word number="12">envenom</word>
+				<word number="13">embitter</word>
+				<word number="14">exasperate</word>
+				<word number="15">infuriate</word>
+				<word number="16">kindle wrath</word>
+			</sg>
+			<sg number="11">
+				<word number="1">stick in one's gizzard</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="rankle" headRef="960">rankle</word>
+			</sg>
+			<sg number="13">
+				<word number="1">hit on the raw</word>
+				<word number="2">rub on the raw</word>
+				<word number="3">sting on the raw</word>
+				<word number="4">strike on the raw</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">alienate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="put out of countenance">
+			<sg number="1">
+				<word number="1">put out of countenance</word>
+				<word number="2">put out of humor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put one's monkey up</word>
+				<word number="2">put one's back up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">raise one's gorge</word>
+				<word number="2">raise one's dander</word>
+				<word number="3">raise one's choler</word>
+			</sg>
+			<sg number="4">
+				<word number="1">work up into a passion</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make one's blood boil</word>
+				<word number="2">make the ears tingle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">throw</word>
+				<word number="2">into a ferment</word>
+				<word number="3">madden</word>
+				<word number="4">drive one mad</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lash into fury</word>
+				<word number="2">lash into madness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fool to the top of one's bent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">set by the ears</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="bring a hornet's nest about one's ears">
+			<sg number="1">
+				<word number="1">bring a hornet's nest about one's ears</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="angry">
+			<sg number="1">
+				<word number="1">angry</word>
+				<word number="2">wrath</word>
+				<word number="3">irate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ireful</word>
+				<word number="2">wrathful</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="irascible" headRef="940">cross</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Achillean</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="sulky" headRef="941">sulky</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bitter</word>
+				<word number="2">virulent</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="discourteous" headRef="934">acrimonious</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="violent" headRef="180">violent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="warm">
+			<sg number="1">
+				<word number="1">warm</word>
+				<word number="2">burning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">boiling</word>
+				<word number="2">boiling over</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fuming</word>
+				<word number="2">raging</word>
+			</sg>
+			<sg number="4">
+				<word number="1">foaming</word>
+				<word number="2">foaming at the mouth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">convulsed with rage</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">blazing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="offended">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">offended</word>
+			</sg>
+			<sg number="2">
+				<word number="1">waxy</word>
+				<word number="2">acharne</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wrought</word>
+				<word number="2">worked up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">indignant</word>
+				<word number="2">hurt</word>
+				<word number="3">sore</word>
+			</sg>
+			<sg number="5">
+				<word number="1">set against</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fierce">
+			<sg number="1">
+				<word number="1">fierce</word>
+				<word number="2">wild</word>
+				<word number="3">rageful</word>
+				<word number="4">furious</word>
+				<word number="5">mad with rage</word>
+				<word number="6">fiery</word>
+				<word number="7">infuriate</word>
+				<word number="8">rabid</word>
+				<word number="9">savage</word>
+				<word number="10" new="1">ferocious</word>
+				<word number="11" new="1">vicious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="relentless" headRef="960">relentless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="flushed with anger">
+			<sg number="1">
+				<word number="1">flushed with anger</word>
+				<word number="2">flushed with rage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in a huff</word>
+				<word number="2">in a stew</word>
+				<word number="3">in a fume</word>
+				<word number="4">in a pucker</word>
+				<word number="5">in a passion</word>
+				<word number="6">in a rage</word>
+				<word number="7">in a fury</word>
+				<word number="8">in a taking</word>
+				<word number="9">in a way</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on one's high ropes</word>
+				<word number="2">up in arms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in high dudgeon</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="angrily">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">angrily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the height of passion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the heat of passion</word>
+				<word number="2">in the heat of the moment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="tantaene animis coelestibus irae">
+			<sg number="1">
+				<word number="1">tantaene animis coelestibus irae !</word>
+				<word number="2">marry come up!</word>
+				<word number="3">zounds!</word>
+				<word number="4">'sdeath!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's blood being up">
+			<sg number="1">
+				<word number="1">one's blood being up</word>
+				<word number="2">one's back being up</word>
+				<word number="3">one's monkey being up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fervens difficili bile jecur</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the gorge rising</word>
+				<word number="2">eyes flashing fire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the blood rising</word>
+				<word number="2">the blood boiling</word>
+			</sg>
+			<sg number="5">
+				<word number="1">haeret lateri lethalis arundo</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"beware the fury of a patient man"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">furor arma ministrat</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ira furor brevis est</word>
+			</sg>
+			<sg number="9">
+				<word number="1">quem Jupiter vult perdere dementat prius</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"What</word>
+				<word number="2">drunk with choler?"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

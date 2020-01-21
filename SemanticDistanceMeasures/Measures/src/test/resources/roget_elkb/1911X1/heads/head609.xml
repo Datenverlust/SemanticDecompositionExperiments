@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="609" name="Stammering" origNum="#583." class="5" section="3" subSection="2" headGroup="14">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inarticulateness">
+			<sg number="1">
+				<word number="1">inarticulateness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speak imperfectly</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">stammering</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">hesitation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">impediment in one's speech</word>
+			</sg>
+			<sg number="6">
+				<word number="1">titubancy</word>
+				<word number="2">traulism</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="faint sound" headRef="422">whisper</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lisp</word>
+				<word number="2">drawl</word>
+				<word number="3">tardiloquence</word>
+			</sg>
+			<sg number="9">
+				<word number="1">nasal tone</word>
+				<word number="2">nasal accent</word>
+			</sg>
+			<sg number="10">
+				<word number="1">twang</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="want of voice" headRef="607">falsetto</word>
+			</sg>
+			<sg number="12">
+				<word number="1">broken voice</word>
+				<word number="2">broken accents</word>
+				<word number="3">broken sentences</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="brogue">
+			<sg number="1">
+				<word number="1" paraRef="brogue" headRef="589">brogue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slip of the tongue</word>
+				<word number="2">lapsus linouae</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="stammer">
+			<sg number="1">
+				<word number="1">stammer</word>
+				<word number="2">stutter</word>
+				<word number="3">hesitate</word>
+				<word number="4">falter</word>
+				<word number="5">hammer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">balbutiate</word>
+				<word number="2">balbucinate</word>
+				<word number="3">haw</word>
+				<word number="4">hum and haw</word>
+				<word number="5">be unable to put two words together</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mumble">
+			<sg number="1">
+				<word number="1">mumble</word>
+				<word number="2">mutter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maud</word>
+				<word number="2">mauder</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="whisper" headRef="422">whisper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mince</word>
+				<word number="2">lisp</word>
+			</sg>
+			<sg number="5">
+				<word number="1">jabber</word>
+				<word number="2">gibber</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sputter</word>
+				<word number="2">splutter</word>
+			</sg>
+			<sg number="7">
+				<word number="1">muffle</word>
+				<word number="2">mump</word>
+			</sg>
+			<sg number="8">
+				<word number="1">drawl</word>
+				<word number="2">mouth</word>
+			</sg>
+			<sg number="9">
+				<word number="1">croak</word>
+			</sg>
+			<sg number="10">
+				<word number="1">speak thick</word>
+				<word number="2">speak through the nose</word>
+			</sg>
+			<sg number="11">
+				<word number="1">snuffle</word>
+				<word number="2">clip one's words</word>
+			</sg>
+			<sg number="12">
+				<word number="1">murder the language</word>
+				<word number="2">murder the King's English</word>
+				<word number="3">murder the Queen's English</word>
+			</sg>
+			<sg number="13">
+				<word number="1">mispronounce</word>
+				<word number="2">missay</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="stammering">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">stammering</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inarticulate</word>
+				<word number="2">guttural</word>
+				<word number="3">nasal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tremulous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">affected</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="sotto voce">
+			<sg number="1">
+				<word number="1" paraRef="faintly" headRef="422">sotto voce</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

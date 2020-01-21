@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="701" name="Deliverance" origNum="#672." class="6" section="2" subSection="2" headGroup="26">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="deliverance">
+			<sg number="1">
+				<word number="1">deliverance</word>
+				<word number="2">extrication</word>
+				<word number="3">rescue</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reprieve</word>
+				<word number="2">reprieval</word>
+			</sg>
+			<sg number="3">
+				<word number="1">respite</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="liberation" headRef="781">liberation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">emancipation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">redemption</word>
+				<word number="2">salvation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">riddance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gaol delivery</word>
+			</sg>
+			<sg number="9">
+				<word number="1">redeemableness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="deliver">
+			<sg number="1">
+				<word number="1">deliver</word>
+				<word number="2">extricate</word>
+				<word number="3">rescue</word>
+				<word number="4">save</word>
+				<word number="5">emancipate</word>
+				<word number="6">redeem</word>
+				<word number="7">ransom</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring off</word>
+				<word number="2">bring through</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tirer d'affaire</word>
+				<word number="2">get the wheel out of the rut</word>
+				<word number="3">snatch from the jaws of death</word>
+				<word number="4">come to the rescue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rid</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="restore" headRef="689">retrieve</word>
+			</sg>
+			<sg number="6">
+				<word number="1">be rid of</word>
+				<word number="2">get rid of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="saved">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">saved</word>
+				<word number="2">redeemable</word>
+				<word number="3">rescuable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="to the rescue">
+			<sg number="1">
+				<word number="1">to the rescue!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

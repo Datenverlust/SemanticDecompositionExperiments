@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1040" name="Clergy" origNum="#996." class="8" section="5" subSection="5" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="clergy">
+			<sg number="1">
+				<word number="1">clergy</word>
+				<word number="2">clericals</word>
+				<word number="3">ministry</word>
+				<word number="4">priesthood</word>
+				<word number="5">presbytery</word>
+				<word number="6">the cloth</word>
+				<word number="7">the desk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clergyman">
+			<sg number="1">
+				<word number="1">clergyman</word>
+				<word number="2">divine</word>
+				<word number="3">ecclesiastic</word>
+				<word number="4">churchman</word>
+				<word number="5">priest</word>
+				<word number="6">presbyter</word>
+				<word number="7">hierophant</word>
+				<word number="8">pastor</word>
+				<word number="9">shepherd</word>
+				<word number="10">minister</word>
+			</sg>
+			<sg number="2">
+				<word number="1">father</word>
+				<word number="2">father in Christ</word>
+			</sg>
+			<sg number="3">
+				<word number="1">padre</word>
+				<word number="2">abbe</word>
+				<word number="3">cure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">patriarch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reverend</word>
+			</sg>
+			<sg number="6">
+				<word number="1">black coat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">confessor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dignitaries of the church">
+			<sg number="1">
+				<word number="1">dignitaries of the church</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ecclesiarch</word>
+				<word number="2">hierarch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ebdomarius</word>
+			</sg>
+			<sg number="4">
+				<word number="1">eminence</word>
+				<word number="2">reverence</word>
+				<word number="3">elder</word>
+				<word number="4">primate</word>
+				<word number="5">metropolitan</word>
+				<word number="6">archbishop</word>
+				<word number="7">bishop</word>
+				<word number="8">prelate</word>
+				<word number="9">diocesan</word>
+				<word number="10">suffragan</word>
+				<word number="11">dean</word>
+				<word number="12">subdean</word>
+				<word number="13">archdeacon</word>
+				<word number="14">prebendary</word>
+				<word number="15">canon</word>
+				<word number="16">rural dean</word>
+				<word number="17">rector</word>
+				<word number="18">parson</word>
+				<word number="19">vicar</word>
+				<word number="20">perpetual curate</word>
+				<word number="21">residentiary</word>
+				<word number="22">beneficiary</word>
+				<word number="23">incumbent</word>
+				<word number="24">chaplain</word>
+				<word number="25">curate</word>
+				<word number="26" new="1">legate</word>
+				<word number="27" new="1">principal</word>
+				<word number="28" new="1">provost</word>
+				<word number="29" new="2">nuncio</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deacon</word>
+				<word number="2">deaconess</word>
+			</sg>
+			<sg number="6">
+				<word number="1">preacher</word>
+				<word number="2">reader</word>
+				<word number="3">lecturer</word>
+			</sg>
+			<sg number="7">
+				<word number="1">capitular</word>
+			</sg>
+			<sg number="8">
+				<word number="1">missionary</word>
+				<word number="2">propagandist</word>
+				<word number="3">Jesuit</word>
+				<word number="4">revivalist</word>
+				<word number="5">field preacher</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">apostle</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">evangelist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="churchwarden">
+			<sg number="1">
+				<word number="1">churchwarden</word>
+				<word number="2">sidesman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clerk</word>
+				<word number="2">precentor</word>
+				<word number="3">choir</word>
+			</sg>
+			<sg number="3">
+				<word number="1">almoner</word>
+				<word number="2">suisse</word>
+				<word number="3">verger</word>
+				<word number="4">beadle</word>
+				<word number="5">sexton</word>
+				<word number="6">sacristan</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acolyth</word>
+				<word number="2">acolothyst</word>
+				<word number="3">acolyte</word>
+				<word number="4">altar boy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chorister</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Pope">
+			<sg number="1">
+				<word number="1">Pope</word>
+				<word number="2">Papa</word>
+				<word number="3">pontiff</word>
+				<word number="4">high priest</word>
+				<word number="5">cardinal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ancient flamen</word>
+				<word number="2">flamen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">confessor</word>
+				<word number="2">penitentiary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spiritual director</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="cenobite">
+			<sg number="1">
+				<word number="1">cenobite</word>
+				<word number="2">conventual</word>
+				<word number="3">abbot</word>
+				<word number="4">prior</word>
+				<word number="5">monk</word>
+				<word number="6">friar</word>
+				<word number="7">lay brother</word>
+				<word number="8">beadsman</word>
+				<word number="9">mendicant</word>
+				<word number="10">pilgrim</word>
+				<word number="11">palmer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">canon regular</word>
+				<word number="2">canon secular</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Franciscan</word>
+				<word number="2">Friars minor</word>
+				<word number="3">Minorites</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Observant</word>
+				<word number="2">Capuchin</word>
+				<word number="3">Dominican</word>
+				<word number="4">Carmelite</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Augustinian</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Gilbertine</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Austin Friars</word>
+				<word number="2">Black Friars</word>
+				<word number="3">White Friars</word>
+				<word number="4">Gray Friars</word>
+				<word number="5">Crossed Friars</word>
+				<word number="6">Crutched Friars</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Bonhomme</word>
+				<word number="2">Carthusian</word>
+				<word number="3">Benedictine</word>
+				<word number="4">Cistercian</word>
+				<word number="5">Trappist</word>
+				<word number="6">Cluniac</word>
+				<word number="7">Premonstatensian</word>
+				<word number="8">Maturine</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Templar</word>
+				<word number="2">Hospitaler</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Bernardine</word>
+				<word number="2">Lorettine</word>
+				<word number="3">pillarist</word>
+				<word number="4">stylite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="abbess">
+			<sg number="1">
+				<word number="1">abbess</word>
+				<word number="2">prioress</word>
+				<word number="3">canoness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">religieuse</word>
+				<word number="2">nun</word>
+				<word number="3">novice</word>
+				<word number="4">postulant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="prophet">
+			<sg number="1">
+				<word number="1">prophet</word>
+				<word number="2">priest</word>
+				<word number="3">high priest</word>
+				<word number="4">Levite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Rabbi</word>
+				<word number="2">Rabbin</word>
+				<word number="3">Rebbe</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scribe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="[Mohammedan">
+			<sg number="1">
+				<word number="1">mullah</word>
+				<word number="2">muezzin</word>
+				<word number="3">ayatollah</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ulema</word>
+				<word number="2">imaum</word>
+				<word number="3">imam</word>
+				<word number="4">sheik</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sufi</word>
+			</sg>
+			<sg number="4">
+				<word number="1">kahin</word>
+				<word number="2">kassis</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mufti</word>
+				<word number="2">hadji</word>
+				<word number="3">dervish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fakir</word>
+				<word number="2">faquir</word>
+			</sg>
+			<sg number="7">
+				<word number="1">brahmin</word>
+				<word number="2">guru</word>
+				<word number="3">kaziaskier</word>
+				<word number="4">poonghie</word>
+				<word number="5">sanyasi</word>
+			</sg>
+			<sg number="8">
+				<word number="1">druid</word>
+				<word number="2">bonze</word>
+				<word number="3">santon</word>
+				<word number="4">abdal</word>
+				<word number="5">Lama</word>
+				<word number="6">talapoin</word>
+				<word number="7">caloyer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="disciple">
+			<sg number="1">
+				<word number="1" new="1">disciple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="hermit">
+			<sg number="1">
+				<word number="1" new="1">hermit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="lama">
+			<sg number="1">
+				<word number="1" new="1">lama</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="laymen">
+			<sg number="1">
+				<word number="1" new="1">laymen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="martyr">
+			<sg number="1">
+				<word number="1" new="1">martyr</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="sage">
+			<sg number="1">
+				<word number="1" new="1">sage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="seminarian">
+			<sg number="1">
+				<word number="1" new="1">seminarian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="followers">
+			<sg number="1">
+				<word number="1" new="2">followers</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="yogi">
+			<sg number="1">
+				<word number="1" new="2">yogi</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="ascetic">
+			<sg number="1">
+				<word number="1" new="3">ascetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="worshiper">
+			<sg number="1">
+				<word number="1" new="3">worshiper</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="take orders">
+			<sg number="1">
+				<word number="1" paraRef="take orders" headRef="1039">take orders</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="the Reverend">
+			<sg number="1">
+				<word number="1">the Reverend</word>
+				<word number="2">the very Reverend</word>
+				<word number="3">the Right Reverend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ordained</word>
+				<word number="2">in orders</word>
+				<word number="3">called to the ministry</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

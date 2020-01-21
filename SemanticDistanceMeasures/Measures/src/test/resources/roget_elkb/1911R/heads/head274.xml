@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="274" name="Stopper" origNum="#263." class="2" section="3" subSection="3" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="stopper">
+			<sg number="1">
+				<word number="1">stopper</word>
+				<word number="2">stopple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plug</word>
+				<word number="2">cork</word>
+				<word number="3">bung</word>
+				<word number="4">spike</word>
+				<word number="5">spill</word>
+				<word number="6">stopcock</word>
+				<word number="7">tap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rammer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ram</word>
+				<word number="2">ramrod</word>
+			</sg>
+			<sg number="5">
+				<word number="1">piston</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stop-gap</word>
+			</sg>
+			<sg number="7">
+				<word number="1">wadding</word>
+				<word number="2">stuffing</word>
+				<word number="3">padding</word>
+				<word number="4">stopping</word>
+				<word number="5">dossil</word>
+				<word number="6">pledget</word>
+				<word number="7">tompion</word>
+				<word number="8">tourniquet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cover">
+			<sg number="1">
+				<word number="1" paraRef="cover" headRef="233">cover</word>
+			</sg>
+			<sg number="2">
+				<word number="1">valve</word>
+				<word number="2">vent peg</word>
+				<word number="3">spigot</word>
+				<word number="4">slide valve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="janitor">
+			<sg number="1">
+				<word number="1">janitor</word>
+				<word number="2">doorkeeper</word>
+				<word number="3">porter</word>
+				<word number="4">warder</word>
+				<word number="5">beadle</word>
+				<word number="6">cerberus</word>
+				<word number="7">ostiary</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

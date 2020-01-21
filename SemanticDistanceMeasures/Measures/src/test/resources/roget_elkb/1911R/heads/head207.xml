@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="207" name="Interval" origNum="#198." class="2" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="interval">
+			<sg number="1">
+				<word number="1">interval</word>
+				<word number="2">interspace</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="separation" headRef="47">separation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break</word>
+				<word number="2">gap</word>
+				<word number="3">opening</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hole" headRef="271">hole</word>
+			</sg>
+			<sg number="5">
+				<word number="1">chasm</word>
+				<word number="2">hiatus</word>
+				<word number="3">caesura</word>
+			</sg>
+			<sg number="6">
+				<word number="1">interruption</word>
+				<word number="2">interregnum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">interstice</word>
+				<word number="2">lacuna</word>
+				<word number="3">cleft</word>
+				<word number="4">mesh</word>
+				<word number="5">crevice</word>
+				<word number="6">chink</word>
+				<word number="7">rime</word>
+				<word number="8">creek</word>
+				<word number="9">cranny</word>
+				<word number="10">crack</word>
+				<word number="11">chap</word>
+				<word number="12">slit</word>
+				<word number="13">fissure</word>
+				<word number="14">scissure</word>
+				<word number="15">rift</word>
+				<word number="16">flaw</word>
+				<word number="17">breach</word>
+				<word number="18">rent</word>
+				<word number="19">gash</word>
+				<word number="20">cut</word>
+				<word number="21">leak</word>
+				<word number="22">dike</word>
+				<word number="23">ha-ha</word>
+				<word number="24" new="1">permatemps</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">vivax</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">glucagon</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">paramountcy</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">switchover</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gorge">
+			<sg number="1">
+				<word number="1">gorge</word>
+				<word number="2">defile</word>
+				<word number="3">ravine</word>
+				<word number="4">canon</word>
+				<word number="5">crevasse</word>
+				<word number="6">abyss</word>
+				<word number="7">abysm</word>
+				<word number="8" new="1">geometry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gulf</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inlet</word>
+				<word number="2">frith</word>
+				<word number="3">strait</word>
+				<word number="4">gully</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="furrow" headRef="270">furrow</word>
+			</sg>
+			<sg number="6">
+				<word number="1">abra</word>
+			</sg>
+			<sg number="7">
+				<word number="1">barranca</word>
+				<word number="2">barranco</word>
+			</sg>
+			<sg number="8">
+				<word number="1">clove</word>
+				<word number="2">gulch</word>
+				<word number="3">notch</word>
+			</sg>
+			<sg number="9">
+				<word number="1">yawning gulf</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hiatus maxime</word>
+				<word number="2">hiatus valde deflendus</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="interjacence" headRef="238">parenthesis</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="absence" headRef="196">void</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="incompleteness" headRef="56">incompleteness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="period">
+			<sg number="1">
+				<word number="1" paraRef="period" headRef="113">period</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="time" headRef="111">interim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="exocrine">
+			<sg number="1">
+				<word number="1" new="1">exocrine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="faker">
+			<sg number="1">
+				<word number="1" new="1">faker</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="anergy">
+			<sg number="1">
+				<word number="1" new="1">anergy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="gape">
+			<sg number="1">
+				<word number="1" paraRef="open" headRef="271">gape</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="with an interval">
+			<sg number="1">
+				<word number="1">with an interval</word>
+				<word number="2">far between</word>
+			</sg>
+			<sg number="2">
+				<word number="1">breachy</word>
+				<word number="2">rimose</word>
+				<word number="3">rimulose</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at intervals">
+			<sg number="1">
+				<word number="1" paraRef="discontinuous" headRef="74">at intervals</word>
+			</sg>
+			<sg number="2">
+				<word number="1">longo intervallo</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

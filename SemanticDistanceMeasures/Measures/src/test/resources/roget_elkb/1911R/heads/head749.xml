@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="749" name="Contention" origNum="#720." class="6" section="4" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="contention">
+			<sg number="1">
+				<word number="1">contention</word>
+				<word number="2">strife</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contest</word>
+				<word number="2">contestation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">struggle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">belligerency</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="opposition" headRef="737">opposition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="controversy">
+			<sg number="1">
+				<word number="1">controversy</word>
+				<word number="2">polemics</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discussion" headRef="499">debate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">war of words</word>
+				<word number="2">logomachy</word>
+				<word number="3">litigation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paper war</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="quarrel" headRef="742">high words</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">sparring</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">rename</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="competition">
+			<sg number="1">
+				<word number="1">competition</word>
+				<word number="2">rivalry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">corrivalry</word>
+				<word number="2">corrivalship</word>
+				<word number="3">agonism</word>
+				<word number="4">concours</word>
+				<word number="5">match</word>
+				<word number="6">race</word>
+				<word number="7">horse racing</word>
+				<word number="8">heat</word>
+				<word number="9">steeple chase</word>
+				<word number="10">handicap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">regatta</word>
+			</sg>
+			<sg number="4">
+				<word number="1">field day</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sham fight</word>
+				<word number="2">Derby day</word>
+			</sg>
+			<sg number="6">
+				<word number="1">turf</word>
+				<word number="2">sporting</word>
+				<word number="3">bullfight</word>
+				<word number="4">tauromachy</word>
+				<word number="5">gymkhana</word>
+			</sg>
+			<sg number="7">
+				<word number="1">boat race</word>
+				<word number="2">torpids</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">sustenance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wrestling">
+			<sg number="1">
+				<word number="1">wrestling</word>
+				<word number="2">greco-roman wrestling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pugilism</word>
+				<word number="2">boxing</word>
+				<word number="3">fisticuffs</word>
+				<word number="4">the manly art of self-defense</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spar</word>
+				<word number="2">mill</word>
+				<word number="3">set-to</word>
+				<word number="4">round</word>
+				<word number="5">bout</word>
+				<word number="6">event</word>
+				<word number="7">prize fighting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">quarterstaff</word>
+				<word number="2">single stick</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gladiatorship</word>
+				<word number="2">gymnastics</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jiujitsu</word>
+				<word number="2">jujutsu</word>
+				<word number="3">kooshti</word>
+				<word number="4">sumo</word>
+			</sg>
+			<sg number="7">
+				<word number="1">athletics</word>
+				<word number="2">athletic sports</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="game of skill" headRef="878">games of skill</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="shindy">
+			<sg number="1">
+				<word number="1">shindy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="discord" headRef="742">fracas</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clash of arms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tussle</word>
+				<word number="2">scuffle</word>
+				<word number="3">broil</word>
+				<word number="4">fray</word>
+			</sg>
+			<sg number="5">
+				<word number="1">affray</word>
+				<word number="2">affrayment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">velitation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">colluctation</word>
+				<word number="2">luctation</word>
+			</sg>
+			<sg number="8">
+				<word number="1">brabble</word>
+				<word number="2">brigue</word>
+				<word number="3">scramble</word>
+				<word number="4">melee</word>
+				<word number="5">scrimmage</word>
+				<word number="6">stramash</word>
+				<word number="7">bushfighting</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="free fight">
+			<sg number="1">
+				<word number="1">free fight</word>
+				<word number="2">stand up fight</word>
+				<word number="3">hand to hand</word>
+				<word number="4">running fight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="conflict">
+			<sg number="1">
+				<word number="1">conflict</word>
+				<word number="2">skirmish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rencounter</word>
+				<word number="2">encounter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rencontre</word>
+				<word number="2">collision</word>
+				<word number="3">affair</word>
+				<word number="4">brush</word>
+				<word number="5">fight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">battle</word>
+				<word number="2">battle royal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">combat</word>
+				<word number="2">action</word>
+				<word number="3">engagement</word>
+				<word number="4">joust</word>
+				<word number="5">tournament</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tilt</word>
+				<word number="2">tilting</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tournay</word>
+				<word number="2">list</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pitched battle</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">signalbox</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">singleness</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">humain</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">sephirah</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="death struggle">
+			<sg number="1">
+				<word number="1">death struggle</word>
+				<word number="2">struggle for life or death</word>
+				<word number="3">life or death struggle</word>
+				<word number="4">Armageddon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="hard knocks">
+			<sg number="1">
+				<word number="1">hard knocks</word>
+				<word number="2">sharp contest</word>
+				<word number="3">tug of war</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="naval engagement">
+			<sg number="1">
+				<word number="1">naval engagement</word>
+				<word number="2">naumachia</word>
+				<word number="3">sea fight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="duel">
+			<sg number="1">
+				<word number="1">duel</word>
+				<word number="2">duello</word>
+			</sg>
+			<sg number="2">
+				<word number="1">single combat</word>
+				<word number="2">monomachy</word>
+				<word number="3">satisfaction</word>
+				<word number="4">passage d'armes</word>
+				<word number="5">passage of arms</word>
+				<word number="6">affair of honor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">triangular duel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hostile meeting</word>
+				<word number="2">digladiation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deeds of arms</word>
+				<word number="2">feats of arms</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="warfare" headRef="751">appeal to arms</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="pugnacity">
+			<sg number="1">
+				<word number="1">pugnacity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">combativeness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bone of contention" headRef="742">bone of contention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="camerawork">
+			<sg number="1">
+				<word number="1" new="1">camerawork</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="orbicularis">
+			<sg number="1">
+				<word number="1" new="1">orbicularis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="drivability">
+			<sg number="1">
+				<word number="1" new="1">drivability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="autogiro">
+			<sg number="1">
+				<word number="1" new="1">autogiro</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="incoming">
+			<sg number="1">
+				<word number="1" new="1">incoming</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="comeuppance">
+			<sg number="1">
+				<word number="1" new="1">comeuppance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="tweed">
+			<sg number="1">
+				<word number="1" new="1">tweed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="raisings">
+			<sg number="1">
+				<word number="1" new="1">raisings</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="mydas">
+			<sg number="1">
+				<word number="1" new="1">mydas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="quest">
+			<sg number="1">
+				<word number="1" new="1">quest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="contend">
+			<sg number="1">
+				<word number="1">contend</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contest</word>
+				<word number="2">strive</word>
+				<word number="3">struggle</word>
+				<word number="4">scramble</word>
+				<word number="5">wrestle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spar</word>
+				<word number="2">square</word>
+			</sg>
+			<sg number="4">
+				<word number="1">exchange blows</word>
+				<word number="2">exchange fisticuffs</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fib!</word>
+				<word number="2">justle</word>
+				<word number="3">tussle</word>
+				<word number="4">tilt</word>
+				<word number="5">box</word>
+				<word number="6">stave</word>
+				<word number="7">fence</word>
+			</sg>
+			<sg number="6">
+				<word number="1">skirmish</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pickeer</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="war" headRef="751">fight</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="quarrel" headRef="742">wrangle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="contend with">
+			<sg number="1">
+				<word number="1">contend with</word>
+				<word number="2">grapple with</word>
+				<word number="3">engage with</word>
+				<word number="4">close with</word>
+				<word number="5">buckle with</word>
+				<word number="6">bandy with</word>
+				<word number="7">try conclusions with</word>
+				<word number="8" paraRef="" posRef="n.">have a brush</word>
+				<word number="9">tilt with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">encounter</word>
+				<word number="2">fall foul of</word>
+				<word number="3">pitch into</word>
+				<word number="4">clapperclaw</word>
+				<word number="5">run a tilt at</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="oppose" headRef="737">oppose</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reluct</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="join issue">
+			<sg number="1">
+				<word number="1">join issue</word>
+				<word number="2">come to blows</word>
+				<word number="3">go to loggerheads</word>
+				<word number="4">set to</word>
+				<word number="5">come to the scratch</word>
+				<word number="6">exchange shots</word>
+				<word number="7">measure swords</word>
+				<word number="8">meet hand to hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take up the cudgels</word>
+				<word number="2">take up the glove</word>
+				<word number="3">take up the gauntlet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enter the lists</word>
+			</sg>
+			<sg number="4">
+				<word number="1">couch one's lance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give satisfaction</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="warfare" headRef="751">appeal to arms</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lay about one">
+			<sg number="1">
+				<word number="1">lay about one</word>
+			</sg>
+			<sg number="2">
+				<word number="1">break the peace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="compete with">
+			<sg number="1">
+				<word number="1">compete with</word>
+				<word number="2">cope with</word>
+				<word number="3">vie with</word>
+				<word number="4">race with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">outvie</word>
+				<word number="2">emulate</word>
+				<word number="3">rival</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run a race</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contend for</word>
+				<word number="2">stipulate for</word>
+				<word number="3">stickle for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">insist upon</word>
+				<word number="2">make a point of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="contending">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">contending</word>
+			</sg>
+			<sg number="2">
+				<word number="1">together by the ears</word>
+				<word number="2">at loggerheads at war at issue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="competitive">
+			<sg number="1">
+				<word number="1">competitive</word>
+				<word number="2">rival</word>
+			</sg>
+			<sg number="2">
+				<word number="1">belligerent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contentious</word>
+				<word number="2">combative</word>
+				<word number="3">bellicose</word>
+				<word number="4">unpeaceful</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="warlike" headRef="751">warlike</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="quarrelsome" headRef="940">quarrelsome</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pugnacious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pugilistic</word>
+				<word number="2">gladiatorial</word>
+			</sg>
+			<sg number="8">
+				<word number="1">palestric</word>
+				<word number="2">palestrical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a verbis ad verbera">
+			<sg number="1">
+				<word number="1">a verbis ad verbera</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a word and a blow</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"a very pretty quarrel as it stands"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">commune periculum concordiam parit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lis litem generat</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

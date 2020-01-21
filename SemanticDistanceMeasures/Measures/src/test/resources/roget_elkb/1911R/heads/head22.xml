@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="22" name="Variation" origNum="#20a." class="1" section="2" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="variation">
+			<sg number="1">
+				<word number="1">variation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="change" headRef="147">alteration</word>
+				<word number="2">moods and tenses</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discrepance</word>
+				<word number="2">discrepancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="divergency">
+			<sg number="1">
+				<word number="1" paraRef="divergency" headRef="302">divergency</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="deviation" headRef="290">deviation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aberration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">innovation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="vary">
+			<sg number="1">
+				<word number="1" paraRef="change" headRef="147">vary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="deviate" headRef="290">deviate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="diverge" headRef="302">diverge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alternate</word>
+				<word number="2">swerve</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="varied">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">varied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">modified</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="diversified" headRef="17">diversified</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

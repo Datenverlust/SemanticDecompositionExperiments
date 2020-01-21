@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="711" name="Activity" origNum="#682." class="6" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="activity">
+			<sg number="1">
+				<word number="1">activity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">briskness</word>
+				<word number="2" paraRef="" posRef="adj.">liveliness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">animation</word>
+				<word number="2">life</word>
+				<word number="3">vivacity</word>
+				<word number="4">spirit</word>
+				<word number="5">dash</word>
+				<word number="6">energy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">snap</word>
+				<word number="2">vim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nimbleness">
+			<sg number="1">
+				<word number="1">nimbleness</word>
+				<word number="2">agility</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smartness</word>
+				<word number="2" paraRef="" posRef="adj.">quickness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="velocity" headRef="285">velocity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alacrity</word>
+				<word number="2">promptitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1">despatch</word>
+				<word number="2">dispatch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">expedition</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="haste" headRef="713">haste</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="early" headRef="138">punctuality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="eagerness">
+			<sg number="1">
+				<word number="1">eagerness</word>
+				<word number="2">zeal</word>
+				<word number="3">ardor</word>
+				<word number="4">perfervidum aingenium</word>
+				<word number="5">empressement</word>
+				<word number="6">earnestness</word>
+				<word number="7">intentness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abandon</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="physical energy" headRef="178">vigor</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="resolution" headRef="630">devotion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exertion" headRef="715">exertion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="industry">
+			<sg number="1">
+				<word number="1">industry</word>
+				<word number="2">assiduity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">assiduousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sedulity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">laboriousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="labor" headRef="715">drudgery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">painstaking</word>
+				<word number="2">diligence</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="perseverance" headRef="631">perseverance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">indefatigation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">habits of business</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="vigilance">
+			<sg number="1">
+				<word number="1" paraRef="vigilance" headRef="479">vigilance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wakefulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sleeplessness</word>
+				<word number="2">restlessness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">insomnia</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pervigilium</word>
+				<word number="2">insomnium</word>
+			</sg>
+			<sg number="6">
+				<word number="1">racketing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="movement">
+			<sg number="1">
+				<word number="1">movement</word>
+				<word number="2">bustle</word>
+				<word number="3">stir</word>
+				<word number="4">fuss</word>
+				<word number="5">ado</word>
+				<word number="6">bother</word>
+				<word number="7">pottering</word>
+				<word number="8">fidget</word>
+				<word number="9">fidgetiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="haste" headRef="713">flurry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="officiousness">
+			<sg number="1">
+				<word number="1">officiousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dabbling</word>
+				<word number="2">meddling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">interference</word>
+				<word number="2">interposition</word>
+				<word number="3">intermeddling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tampering with</word>
+				<word number="2">intrigue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="press of business">
+			<sg number="1">
+				<word number="1">press of business</word>
+				<word number="2">no sinecure</word>
+				<word number="3">plenty to do</word>
+				<word number="4">many irons in the fire</word>
+				<word number="5">great doings</word>
+				<word number="6">busy hum of men</word>
+				<word number="7">battle of life</word>
+				<word number="8">thick of the action</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="housewife">
+			<sg number="1">
+				<word number="1">housewife</word>
+				<word number="2">busy bee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">new brooms</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sharp fellow</word>
+				<word number="2">sharp blade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">devotee</word>
+				<word number="2">enthusiast</word>
+				<word number="3">zealot</word>
+				<word number="4">meddler</word>
+				<word number="5">intermeddler</word>
+				<word number="6">intriguer</word>
+				<word number="7">busybody</word>
+				<word number="8">pickthank</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hummer</word>
+				<word number="2">hustler</word>
+				<word number="3">live man</word>
+				<word number="4">rustler *</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be active">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be active</word>
+			</sg>
+			<sg number="2">
+				<word number="1">busy oneself in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stir</word>
+				<word number="2">stir about</word>
+				<word number="3">stir one's stumps</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bestir oneself</word>
+				<word number="2">rouse oneself</word>
+			</sg>
+			<sg number="5">
+				<word number="1">speed</word>
+				<word number="2">hasten</word>
+				<word number="3">peg away</word>
+				<word number="4">lay about one</word>
+				<word number="5">bustle</word>
+				<word number="6">fuss</word>
+			</sg>
+			<sg number="6">
+				<word number="1">raise up</word>
+				<word number="2">kick up a dust</word>
+			</sg>
+			<sg number="7">
+				<word number="1">push</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make a push</word>
+				<word number="2">make a fuss</word>
+				<word number="3">make a stir</word>
+			</sg>
+			<sg number="9">
+				<word number="1">go ahead</word>
+				<word number="2">push forward</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fight one's way</word>
+				<word number="2">elbow one's way</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="make progress" headRef="293">make progress</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="labor" headRef="715">toll</word>
+			</sg>
+			<sg number="13">
+				<word number="1">plod</word>
+				<word number="2" paraRef="persevere" headRef="631">persist</word>
+			</sg>
+			<sg number="14">
+				<word number="1">keep up the ball</word>
+				<word number="2">keep the pot boiling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="look sharp">
+			<sg number="1">
+				<word number="1">look sharp</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vigilance" headRef="479">have all one's eyes about one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rise</word>
+				<word number="2">arouse oneself</word>
+				<word number="3">hustle</word>
+				<word number="4">get up early</word>
+				<word number="5">be about</word>
+				<word number="6">keep moving</word>
+				<word number="7">steal a march</word>
+				<word number="8">kill two birds with one stone</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="opportunity" headRef="141">seize the opportunity</word>
+				<word number="2">not lose a moment</word>
+				<word number="3">make the most of one's time</word>
+				<word number="4">not suffer the grass to grow under one's feet</word>
+				<word number="5">improve the shining hour</word>
+				<word number="6">make short work of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dash off</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="make haste" headRef="713">make haste</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="exert oneself" headRef="715">do one's best take pains</word>
+			</sg>
+			<sg number="8">
+				<word number="1">do wonders</word>
+				<word number="2">work wonders</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="have many irons in the fire">
+			<sg number="1">
+				<word number="1">have many irons in the fire</word>
+				<word number="2">have one's hands full</word>
+				<word number="3">have much on one's hands</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have other things to do</word>
+				<word number="2">have other fish to fry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be busy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not have a moment to spare</word>
+				<word number="2">not have a moment that one can call one's own</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="have one's fling">
+			<sg number="1">
+				<word number="1">have one's fling</word>
+				<word number="2">run the round of</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go all lengths</word>
+				<word number="2">stick at nothing</word>
+				<word number="3">run riot</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="outdo">
+			<sg number="1">
+				<word number="1">outdo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">overdo</word>
+				<word number="2">overact</word>
+				<word number="3">overlay</word>
+				<word number="4">overshoot the mark</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make a toil of a pleasure</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="have a hand in">
+			<sg number="1">
+				<word number="1" paraRef="act" headRef="709">have a hand in</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take an active part</word>
+				<word number="2">put in one's oar</word>
+				<word number="3">have a finger in the pie</word>
+				<word number="4">mix oneself up with</word>
+				<word number="5">trouble</word>
+				<word number="6">one's head about</word>
+				<word number="7">intrigue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">agitate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="tamper with">
+			<sg number="1">
+				<word number="1">tamper with</word>
+				<word number="2">meddle</word>
+				<word number="3">moil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intermeddle</word>
+				<word number="2">interfere</word>
+				<word number="3">interpose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">obtrude</word>
+			</sg>
+			<sg number="4">
+				<word number="1">poke one's nose in</word>
+				<word number="2">thrust one's nose in</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="active">
+			<sg number="1">
+				<word number="1">active</word>
+				<word number="2">brisk</word>
+				<word number="3">brisk as a lark</word>
+				<word number="4">brisk as a bee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lively</word>
+				<word number="2">animated</word>
+				<word number="3">vivacious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alive</word>
+				<word number="2">alive and kicking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">frisky</word>
+				<word number="2">spirited</word>
+				<word number="3">stirring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nimble">
+			<sg number="1">
+				<word number="1">nimble</word>
+				<word number="2">nimble as a squirrel</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">light-footed</word>
+				<word number="2">nimble-footed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">featly</word>
+				<word number="2">tripping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="quick">
+			<sg number="1">
+				<word number="1">quick</word>
+				<word number="2">prompt</word>
+				<word number="3">yare</word>
+				<word number="4">instant</word>
+				<word number="5">ready</word>
+				<word number="6">alert</word>
+				<word number="7">spry</word>
+				<word number="8">sharp</word>
+				<word number="9">smart</word>
+				<word number="10" new="1">adjective</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="swift" headRef="285">fast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">quick as a lamplighter</word>
+				<word number="2">expeditious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">awake</word>
+				<word number="2">broad awake</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go-ahead</word>
+				<word number="2" paraRef="intelligent" headRef="522">live  wide-awake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="forward">
+			<sg number="1">
+				<word number="1">forward</word>
+				<word number="2">eager</word>
+				<word number="3">strenuous</word>
+				<word number="4">zealous</word>
+				<word number="5">enterprising</word>
+				<word number="6">in earnest</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="resolute" headRef="630">resolute</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="industrious">
+			<sg number="1">
+				<word number="1">industrious</word>
+				<word number="2">assiduous</word>
+				<word number="3">diligent</word>
+				<word number="4">sedulous</word>
+				<word number="5">notable</word>
+				<word number="6">painstaking</word>
+				<word number="7" new="1">optically</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="attention" headRef="477">intent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="persevering" headRef="631">indefatigable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unwearied</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unsleeping</word>
+				<word number="2">never tired</word>
+			</sg>
+			<sg number="6">
+				<word number="1">plodding</word>
+				<word number="2" paraRef="hard-working" headRef="715">hard-working</word>
+			</sg>
+			<sg number="7">
+				<word number="1">businesslike</word>
+				<word number="2">workaday</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="bustling">
+			<sg number="1">
+				<word number="1">bustling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">restless</word>
+				<word number="2">restless as a hyena</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fussy</word>
+				<word number="2">fidgety</word>
+				<word number="3">pottering</word>
+			</sg>
+			<sg number="4">
+				<word number="1">busy</word>
+				<word number="2">busy as hen with one chicken</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="working">
+			<sg number="1">
+				<word number="1">working</word>
+				<word number="2">at work</word>
+				<word number="3">on duty</word>
+				<word number="4">in harness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">up in arms</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on one's legs</word>
+				<word number="2">at call</word>
+			</sg>
+			<sg number="4">
+				<word number="1">up and doing</word>
+				<word number="2">up and stirring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="busy">
+			<sg number="1">
+				<word number="1">busy</word>
+				<word number="2">occupied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hard at work</word>
+				<word number="2">hard at it</word>
+			</sg>
+			<sg number="3">
+				<word number="1">up to one's ears in</word>
+				<word number="2">full of business</word>
+				<word number="3">busy as a bee</word>
+				<word number="4">busy as a one-armed paperhanger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="meddling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">meddling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">meddlesome</word>
+				<word number="2">pushing</word>
+				<word number="3">officious</word>
+				<word number="4">overofficious</word>
+				<word number="5">intrigant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="astir">
+			<sg number="1">
+				<word number="1">astir</word>
+				<word number="2">stirring</word>
+			</sg>
+			<sg number="2">
+				<word number="1">agoing</word>
+				<word number="2">afoot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on foot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in full swing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eventful</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="vigilant" headRef="479">on the alert</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="actively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">actively</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with life and spirit</word>
+				<word number="2" paraRef="with might and main" headRef="715">with might and main</word>
+				<word number="3" paraRef="with haste" headRef="713">with haste</word>
+				<word number="4">with wings</word>
+			</sg>
+			<sg number="3">
+				<word number="1">full tilt</word>
+				<word number="2">in mediis rebus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="be alive">
+			<sg number="1">
+				<word number="1">be alive</word>
+				<word number="2">look alive</word>
+				<word number="3">look sharp!</word>
+				<word number="4">move on</word>
+				<word number="5">push on!</word>
+				<word number="6">keep moving!</word>
+				<word number="7">go ahead!</word>
+				<word number="8">stir your stumps!</word>
+				<word number="9">age quod agis!</word>
+				<word number="10">jaldi!</word>
+				<word number="11">karo!</word>
+				<word number="12">step lively!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="carpe diem">
+			<sg number="1">
+				<word number="1" paraRef="opportunity" headRef="141">carpe diem</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nulla dies sine linea</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nec mora nec requies</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the plot thickens</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="early" headRef="138">No sooner said than done</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"veni vidi vici"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">catch a weasel asleep</word>
+			</sg>
+			<sg number="8">
+				<word number="1">abends wird der Faule fleissig</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dictum ac factum</word>
+			</sg>
+			<sg number="10">
+				<word number="1">schwere Arbeit in der Jugend ist sanfte Ruhe im Alter</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"the busy hum of men"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

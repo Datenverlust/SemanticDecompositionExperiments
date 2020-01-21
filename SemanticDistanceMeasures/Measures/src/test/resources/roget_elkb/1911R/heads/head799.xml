@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="799" name="Promise" origNum="#768." class="7" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="promise">
+			<sg number="1">
+				<word number="1">promise</word>
+				<word number="2">undertaking</word>
+				<word number="3">word</word>
+				<word number="4">troth</word>
+				<word number="5">plight</word>
+				<word number="6">pledge</word>
+				<word number="7">parole</word>
+				<word number="8">word of honor</word>
+				<word number="9">vow</word>
+				<word number="10" new="1">secularisation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="affirmation" headRef="561">oath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">profession</word>
+				<word number="2">assurance</word>
+				<word number="3">warranty</word>
+				<word number="4">guarantee</word>
+				<word number="5">insurance</word>
+				<word number="6">obligation</word>
+				<word number="7" new="1">exemplar</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="contract" headRef="801">contract</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stipulation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">dredge</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">jiang</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">diuranate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="engagement">
+			<sg number="1">
+				<word number="1">engagement</word>
+				<word number="2">preengagement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affiance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">betroth</word>
+				<word number="2">betrothal</word>
+				<word number="3">betrothment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="promise">
+			<sg number="1">
+				<word number="1">promise</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">give a promise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">undertake</word>
+				<word number="2">engage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">make an engagement</word>
+				<word number="2">form an engagement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enter into an engagement</word>
+				<word number="2">enter on an engagement</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bind oneself</word>
+				<word number="2">tie oneself</word>
+				<word number="3">pledge oneself</word>
+				<word number="4">commit oneself</word>
+				<word number="5">take upon oneself</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vow</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="affirm" headRef="561">swear</word>
+				<word number="2">give one's word</word>
+				<word number="3">pass one's word</word>
+				<word number="4">pledge one's word</word>
+				<word number="5">plight one's word</word>
+				<word number="6">give one's honor</word>
+				<word number="7">pass one's honor</word>
+				<word number="8">pledge one's honor</word>
+				<word number="9">plight one's honor</word>
+				<word number="10">give credit</word>
+				<word number="11">pass credit</word>
+				<word number="12">pledge credit</word>
+				<word number="13">plight credit</word>
+				<word number="14">give troth</word>
+				<word number="15">pass troth</word>
+				<word number="16">pledge troth</word>
+				<word number="17">plight troth</word>
+			</sg>
+			<sg number="9">
+				<word number="1">betroth</word>
+				<word number="2">plight faith</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="assure">
+			<sg number="1">
+				<word number="1">assure</word>
+				<word number="2">warrant</word>
+				<word number="3">guarantee</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="covenant" headRef="801">covenant</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bear witness" headRef="490">attest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="hold out an expectation">
+			<sg number="1">
+				<word number="1">hold out an expectation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contract an obligation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">become bound to</word>
+				<word number="2">become sponsor for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">answer for</word>
+				<word number="2">be answerable for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">secure</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="give security" headRef="803">give security</word>
+			</sg>
+			<sg number="7">
+				<word number="1">underwrite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="adjure">
+			<sg number="1">
+				<word number="1">adjure</word>
+				<word number="2">administer an oath</word>
+				<word number="3">put to one's oath</word>
+				<word number="4">swear a witness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="promising">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">promising</word>
+			</sg>
+			<sg number="2">
+				<word number="1">promissory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">votive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">under hand and seal</word>
+				<word number="2">upon oath</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="promised">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">promised</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affianced</word>
+				<word number="2">pledged</word>
+				<word number="3">bound</word>
+			</sg>
+			<sg number="3">
+				<word number="1">committed</word>
+				<word number="2">compromised</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in for it</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="as one's head shall answer for">
+			<sg number="1">
+				<word number="1">as one's head shall answer for</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="in for a penny in for a pound">
+			<sg number="1">
+				<word number="1">in for a penny in for a pound</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ex voto</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gage d'amour</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

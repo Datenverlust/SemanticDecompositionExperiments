@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="825" name="Thief" origNum="#792." class="7" section="4" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="thief">
+			<sg number="1">
+				<word number="1">thief</word>
+				<word number="2">robber</word>
+				<word number="3">homo triumliterarum</word>
+				<word number="4">pilferer</word>
+				<word number="5">rifler</word>
+				<word number="6">filcher</word>
+				<word number="7">plagiarist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spoiler">
+			<sg number="1">
+				<word number="1">spoiler</word>
+				<word number="2">depredator</word>
+				<word number="3">pillager</word>
+				<word number="4">marauder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harpy</word>
+				<word number="2">shark*</word>
+				<word number="3">land shark</word>
+				<word number="4">falcon</word>
+				<word number="5">mosstrooper</word>
+				<word number="6">bushranger</word>
+				<word number="7">Bedouin!</word>
+				<word number="8">brigand</word>
+				<word number="9">freebooter</word>
+				<word number="10">bandit</word>
+				<word number="11">thug</word>
+				<word number="12">dacoit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pirate</word>
+				<word number="2">corsair</word>
+				<word number="3">viking</word>
+				<word number="4">Paul Jones!</word>
+				<word number="5">buccaneer</word>
+				<word number="6">buccanier!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">piqueerer</word>
+				<word number="2">pickeerer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rover</word>
+				<word number="2">ranger</word>
+				<word number="3">privateer</word>
+				<word number="4">filibuster</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rapparee</word>
+				<word number="2">wrecker</word>
+				<word number="3">picaroon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">smuggler</word>
+				<word number="2">poacher</word>
+			</sg>
+			<sg number="8">
+				<word number="1">abductor</word>
+				<word number="2">badger*</word>
+				<word number="3">bunko man</word>
+				<word number="4">cattle thief</word>
+				<word number="5">chor</word>
+				<word number="6">contrabandist</word>
+				<word number="7">crook</word>
+				<word number="8">hawk</word>
+				<word number="9">holdup man</word>
+				<word number="10">hold-up*</word>
+				<word number="11">jackleg*</word>
+				<word number="12">kidnaper</word>
+				<word number="13">rustler</word>
+				<word number="14">cattle rustler</word>
+				<word number="15">sandbagger</word>
+				<word number="16">sea king</word>
+				<word number="17">skin*</word>
+				<word number="18">sneak thief</word>
+				<word number="19">spieler</word>
+				<word number="20">strong-arm man</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">outlaw</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="highwayman">
+			<sg number="1">
+				<word number="1">highwayman</word>
+				<word number="2">Dick Turpin</word>
+				<word number="3">Claude Duval</word>
+				<word number="4">Macheath</word>
+				<word number="5">footpad</word>
+				<word number="6">sturdy beggar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cut purse">
+			<sg number="1">
+				<word number="1">cut purse</word>
+				<word number="2">pick purse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pickpocket</word>
+				<word number="2">light-fingered gentry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sharper</word>
+			</sg>
+			<sg number="4">
+				<word number="1">card sharper</word>
+				<word number="2">skittle sharper</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thimblerigger</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rook*</word>
+				<word number="2">Greek</word>
+				<word number="3">blackleg</word>
+				<word number="4">leg</word>
+				<word number="5">welsher*</word>
+			</sg>
+			<sg number="7">
+				<word number="1">defaulter</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Autolycus</word>
+				<word number="2">Jeremy Diddler</word>
+				<word number="3">Robert Macaire</word>
+				<word number="4">artful dodger</word>
+				<word number="5">trickster</word>
+			</sg>
+			<sg number="9">
+				<word number="1">swell mob*</word>
+				<word number="2">chevalier d'industrie</word>
+			</sg>
+			<sg number="10">
+				<word number="1">shoplifter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="swindler">
+			<sg number="1">
+				<word number="1">swindler</word>
+				<word number="2">peculator</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forger</word>
+				<word number="2">coiner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fence</word>
+				<word number="2">receiver of stolen goods</word>
+				<word number="3">duffer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smasher</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="burglar">
+			<sg number="1">
+				<word number="1">burglar</word>
+				<word number="2">housebreaker</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cracksman</word>
+				<word number="2">magsman*</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Bill Sikes</word>
+				<word number="2">Jack Sheppard</word>
+				<word number="3">Jonathan Wild</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="gang">
+			<sg number="1">
+				<word number="1">gang</word>
+				<word number="2">gang of thieves</word>
+				<word number="3">theft ring</word>
+			</sg>
+			<sg number="2">
+				<word number="1">organized crime</word>
+				<word number="2">mafia</word>
+				<word number="3">the Sicilian Mafia</word>
+				<word number="4">the mob</word>
+				<word number="5">la cosa nostra</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="Dillinger">
+			<sg number="1">
+				<word number="1">Dillinger</word>
+				<word number="2">Al Capone</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Robin Hood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="looter">
+			<sg number="1">
+				<word number="1" new="1">looter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="mugger">
+			<sg number="1">
+				<word number="1" new="1">mugger</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

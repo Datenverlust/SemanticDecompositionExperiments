@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="550" name="Manifestation" origNum="#525." class="5" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">manifestation</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">plainness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plain speaking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">expression</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">showing</word>
+			</sg>
+			<sg number="6">
+				<word number="1">exposition</word>
+				<word number="2">demonstration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">exhibition</word>
+				<word number="2">production</word>
+			</sg>
+			<sg number="8">
+				<word number="1">display</word>
+				<word number="2">show</word>
+			</sg>
+			<sg number="9">
+				<word number="1">showing off</word>
+			</sg>
+			<sg number="10">
+				<word number="1">premonstration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="exhibit">
+			<sg number="1">
+				<word number="1">exhibit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="indication">
+			<sg number="1">
+				<word number="1" paraRef="calling attention to" headRef="477">indication</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disclosure" headRef="555">disclosure</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="honesty" headRef="569">openness</word>
+				<word number="2" paraRef="artlessness" headRef="732">artlessness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">épanchement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="evidence">
+			<sg number="1">
+				<word number="1" paraRef="evidence" headRef="490">evidence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="make manifest">
+			<sg number="1">
+				<word number="1">make manifest</word>
+				<word number="2" paraRef="" posRef="adj.">render manifest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bring forth</word>
+				<word number="2">bring forward</word>
+				<word number="3">bring to the front</word>
+				<word number="4">bring into view</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give notice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">express</word>
+			</sg>
+			<sg number="5">
+				<word number="1">represent</word>
+				<word number="2">set forth</word>
+				<word number="3">exhibit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">show</word>
+				<word number="2">show up</word>
+			</sg>
+			<sg number="7">
+				<word number="1">expose</word>
+			</sg>
+			<sg number="8">
+				<word number="1">produce</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hold up to view</word>
+				<word number="2">expose to view</word>
+			</sg>
+			<sg number="10">
+				<word number="1">set before one</word>
+				<word number="2">place before one</word>
+				<word number="3">lay before one</word>
+				<word number="4">one's eyes</word>
+			</sg>
+			<sg number="11">
+				<word number="1">tell to one's face</word>
+			</sg>
+			<sg number="12">
+				<word number="1">trot out</word>
+				<word number="2">put through one's paces</word>
+				<word number="3">bring to light</word>
+				<word number="4">display</word>
+				<word number="5">demonstrate</word>
+				<word number="6">unroll</word>
+			</sg>
+			<sg number="13">
+				<word number="1">lay open</word>
+			</sg>
+			<sg number="14">
+				<word number="1">draw out</word>
+				<word number="2">bring out</word>
+			</sg>
+			<sg number="15">
+				<word number="1">bring out in strong relief</word>
+			</sg>
+			<sg number="16">
+				<word number="1">call into notice</word>
+				<word number="2">bring into notice</word>
+			</sg>
+			<sg number="17">
+				<word number="1">hold up the mirror</word>
+			</sg>
+			<sg number="18">
+				<word number="1">wear one's heart upon his sleeve</word>
+			</sg>
+			<sg number="19">
+				<word number="1">show one's face</word>
+				<word number="2">show one's colors</word>
+			</sg>
+			<sg number="20">
+				<word number="1">manifest oneself</word>
+			</sg>
+			<sg number="21">
+				<word number="1">speak out</word>
+			</sg>
+			<sg number="22">
+				<word number="1">make no mystery</word>
+				<word number="2">make no secret of</word>
+			</sg>
+			<sg number="23">
+				<word number="1">unfurl the flag</word>
+			</sg>
+			<sg number="24">
+				<word number="1" paraRef="publish" headRef="557">proclaim</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="indicate">
+			<sg number="1">
+				<word number="1" paraRef="direct attention to" headRef="477">indicate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disclose" headRef="555">disclose</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="elicit" headRef="504">elicit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="be manifest">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be manifest</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be visible" headRef="467">appear</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be disclosed" headRef="555">transpire</word>
+			</sg>
+			<sg number="4">
+				<word number="1">speak for itself</word>
+				<word number="2">stand to reason</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stare one in the face</word>
+				<word number="2">rear its head</word>
+			</sg>
+			<sg number="6">
+				<word number="1">give token</word>
+				<word number="2">give sign</word>
+				<word number="3">give indication of</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="intelligible" headRef="543">tell its own tale</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="manifest">
+			<sg number="1">
+				<word number="1">manifest</word>
+				<word number="2">apparent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">salient</word>
+				<word number="2">striking</word>
+				<word number="3">demonstrative</word>
+				<word number="4">prominent</word>
+				<word number="5">in the foreground</word>
+				<word number="6">notable</word>
+				<word number="7">pronounced</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="flagrant">
+			<sg number="1">
+				<word number="1">flagrant</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="public" headRef="557">notorious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arrant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stark staring</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unshaded</word>
+				<word number="2">glaring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="defined">
+			<sg number="1">
+				<word number="1">defined</word>
+				<word number="2">definite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="distinct">
+			<sg number="1">
+				<word number="1">distinct</word>
+				<word number="2" paraRef="visible" headRef="465">conspicuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">obvious</word>
+				<word number="2">evident</word>
+				<word number="3">unmistakable</word>
+				<word number="4">indubitable</word>
+				<word number="5">not to be mistaken</word>
+				<word number="6">palpable</word>
+				<word number="7">self-evident</word>
+				<word number="8">autoptical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intelligible" headRef="543">intelligible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="plain">
+			<sg number="1">
+				<word number="1">plain</word>
+				<word number="2">clear</word>
+				<word number="3">clear as day</word>
+				<word number="4">clear as daylight</word>
+				<word number="5">clear as noonday</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plain as a pike staff</word>
+				<word number="2">plain as the sun at noon-day</word>
+				<word number="3">plain as the nose on one's face</word>
+				<word number="4">plain as the way to parish church</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="explicit">
+			<sg number="1">
+				<word number="1">explicit</word>
+				<word number="2">overt</word>
+				<word number="3">patent</word>
+				<word number="4">express</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ostensible</word>
+			</sg>
+			<sg number="3">
+				<word number="1">open</word>
+				<word number="2">open as day</word>
+			</sg>
+			<sg number="4">
+				<word number="1">naked</word>
+				<word number="2">bare</word>
+				<word number="3">literal</word>
+				<word number="4">downright</word>
+				<word number="5">undisguised</word>
+				<word number="6">exoteric</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="unreserved">
+			<sg number="1">
+				<word number="1">unreserved</word>
+				<word number="2">frank</word>
+				<word number="3" paraRef="artless" headRef="732">plain-spoken</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="veracious" headRef="569">candid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">barefaced</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="manifested">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">manifested</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disclosed" headRef="555">disclosed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">capable of being shown</word>
+				<word number="2">producible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inconcealable</word>
+				<word number="2">unconcealable</word>
+			</sg>
+			<sg number="5">
+				<word number="1">no secret</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="blatant">
+			<sg number="1">
+				<word number="1" new="1">blatant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="mere">
+			<sg number="1">
+				<word number="1" new="2">mere</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="manifestly">
+			<sg number="1">
+				<word number="1">manifestly</word>
+				<word number="2" paraRef="" posRef="adj.">openly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">before one's eyes</word>
+				<word number="2">under one's nose</word>
+				<word number="3">to one's face</word>
+				<word number="4">face to face</word>
+				<word number="5">above board</word>
+				<word number="6">cartes sur table</word>
+				<word number="7">on the stage</word>
+				<word number="8">in open court</word>
+				<word number="9">in the open streets</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in market overt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the face of day</word>
+				<word number="2">face of heaven</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in broad daylight</word>
+				<word number="2">in open daylight</word>
+			</sg>
+			<sg number="6">
+				<word number="1">without reserve</word>
+			</sg>
+			<sg number="7">
+				<word number="1">at first blush</word>
+				<word number="2">prima facie</word>
+				<word number="3">on the face of</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in set terms</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cela saute aux yeux">
+			<sg number="1">
+				<word number="1">cela saute aux yeux</word>
+			</sg>
+			<sg number="2">
+				<word number="1">he that runs may read</word>
+			</sg>
+			<sg number="3">
+				<word number="1">you can see it with half an eye</word>
+			</sg>
+			<sg number="4">
+				<word number="1">it needs no ghost to tell us</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the meaning lies on the surface</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cela va sans dire</word>
+			</sg>
+			<sg number="7">
+				<word number="1">res ipsa loquitur</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"clothing the palpable and familiar"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fari quae sentiat</word>
+			</sg>
+			<sg number="10">
+				<word number="1">volto sciolto i pensieri stretti</word>
+			</sg>
+			<sg number="11">
+				<word number="1">"you don't need a weatherman to know which way the wind blows"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="905" name="Indifference" origNum="#866." class="8" section="2" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="indifference">
+			<sg number="1">
+				<word number="1">indifference</word>
+				<word number="2">neutrality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">coldness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anaphrodisia</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unconcern</word>
+				<word number="2">insouciance</word>
+				<word number="3">nonchalance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">want of interest</word>
+				<word number="2">want of earnestness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anorexy</word>
+				<word number="2">anorexia</word>
+				<word number="3">inappetency</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="insensibility" headRef="861">apathy</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="inactivity" headRef="712">supineness</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="disdain" headRef="972">disdain</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="recklessness" headRef="902">recklessness</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="inattention" headRef="478">inattention</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="anaphrodisiac">
+			<sg number="1">
+				<word number="1">anaphrodisiac</word>
+				<word number="2">antaphrodisiac</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lust-quencher</word>
+				<word number="2">passion- queller</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be indifferent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be indifferent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand neuter</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="insensibility" headRef="861">take no interest in</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="desire" headRef="904">have no desire for</word>
+				<word number="2">have no relish for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">not care for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">care nothing for</word>
+				<word number="2">care nothing about</word>
+			</sg>
+			<sg number="7">
+				<word number="1">not care a straw about</word>
+				<word number="2">not care a fig for</word>
+				<word number="3" paraRef="unimportance" headRef="672">not care a whit about</word>
+			</sg>
+			<sg number="8">
+				<word number="1">not mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="set at naught">
+			<sg number="1">
+				<word number="1" paraRef="make light of" headRef="507">set at naught</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disdain" headRef="972">spurn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="indifferent">
+			<sg number="1">
+				<word number="1">indifferent</word>
+				<word number="2">cold</word>
+				<word number="3">frigid</word>
+				<word number="4">lukewarm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cool</word>
+				<word number="2">cool as a cucumber</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unconcerned</word>
+				<word number="2">insouciant</word>
+				<word number="3">phlegmatic</word>
+				<word number="4">pococurante</word>
+				<word number="5">easygoing</word>
+				<word number="6">devil- may-care</word>
+				<word number="7">careless</word>
+				<word number="8">listless</word>
+				<word number="9">lackadaisical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">half-hearted</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unambitious</word>
+				<word number="2">unaspiring</word>
+				<word number="3">undesirous</word>
+				<word number="4">unsolicitous</word>
+				<word number="5">unattracted</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">apathetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aloof">
+			<sg number="1">
+				<word number="1">aloof</word>
+				<word number="2">unapproachable</word>
+				<word number="3">remote</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncaring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unattractive">
+			<sg number="1">
+				<word number="1">unattractive</word>
+				<word number="2">unalluring</word>
+				<word number="3">undesired</word>
+				<word number="4">undesirable</word>
+				<word number="5">uncared for</word>
+				<word number="6">unwished</word>
+				<word number="7">unvalued</word>
+				<word number="8">all one to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="insipid">
+			<sg number="1">
+				<word number="1" paraRef="insipid" headRef="405">insipid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="for aught one cares">
+			<sg number="1">
+				<word number="1">for aught one cares</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="never mind">
+			<sg number="1">
+				<word number="1">never mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Who cares? whatever you like</word>
+				<word number="2">whatever</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="I couldn't care less">
+			<sg number="1">
+				<word number="1">I couldn't care less</word>
+				<word number="2">I could care less</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anything will do</word>
+			</sg>
+			<sg number="3">
+				<word number="1">es macht nichts</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

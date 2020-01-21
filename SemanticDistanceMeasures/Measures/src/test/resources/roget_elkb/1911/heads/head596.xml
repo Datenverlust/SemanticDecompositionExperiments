@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="596" name="Perspicuity" origNum="#570." class="5" section="3" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="perspicuity">
+			<sg number="1">
+				<word number="1">perspicuity</word>
+				<word number="2" paraRef="intelligibility" headRef="543">perspicuousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="manifestation" headRef="550">plain speaking</word>
+			</sg>
+			<sg number="3">
+				<word number="1">definiteness</word>
+				<word number="2">definition</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="exactness" headRef="518">exactness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">explicitness</word>
+				<word number="2">lucidness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lucid">
+			<sg number="1">
+				<word number="1" paraRef="intelligible" headRef="543">lucid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="manifest" headRef="550">explicit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="exact" headRef="518">exact</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

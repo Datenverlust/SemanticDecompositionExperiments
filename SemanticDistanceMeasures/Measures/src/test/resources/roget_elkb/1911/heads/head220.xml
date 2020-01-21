@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="220" name="Base" origNum="#211." class="2" section="2" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="base">
+			<sg number="1">
+				<word number="1">base</word>
+				<word number="2">basement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plinth</word>
+				<word number="2">dado</word>
+				<word number="3">wainscot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">baseboard</word>
+				<word number="2">mopboard</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bedrock</word>
+				<word number="2">hardpan</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="support" headRef="224">foundation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">substructure</word>
+				<word number="2">substratum</word>
+				<word number="3">ground</word>
+				<word number="4">earth</word>
+				<word number="5">pavement</word>
+				<word number="6">floor</word>
+				<word number="7">paving</word>
+				<word number="8">flag</word>
+				<word number="9">carped</word>
+				<word number="10">ground floor</word>
+				<word number="11">deck</word>
+			</sg>
+			<sg number="7">
+				<word number="1">footing</word>
+				<word number="2">ground work</word>
+				<word number="3">basis</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hold</word>
+				<word number="2">bilge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bottom">
+			<sg number="1">
+				<word number="1">bottom</word>
+				<word number="2">nadir</word>
+				<word number="3">foot</word>
+				<word number="4">sole</word>
+				<word number="5">toe</word>
+				<word number="6">hoof</word>
+				<word number="7">keel</word>
+				<word number="8">root</word>
+			</sg>
+			<sg number="2">
+				<word number="1">centerboard</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="bottom">
+			<sg number="1">
+				<word number="1">bottom</word>
+				<word number="2">undermost</word>
+				<word number="3">nethermost</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fundamental</word>
+			</sg>
+			<sg number="3">
+				<word number="1">founded on</word>
+				<word number="2">based on</word>
+				<word number="3">grounded on</word>
+				<word number="4">built on</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

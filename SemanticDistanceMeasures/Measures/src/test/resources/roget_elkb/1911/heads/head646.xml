@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="646" name="Pretext" origNum="#617." class="6" section="1" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pretext">
+			<sg number="1">
+				<word number="1">pretext</word>
+				<word number="2">pretense</word>
+				<word number="3">pretension</word>
+				<word number="4">plea</word>
+			</sg>
+			<sg number="2">
+				<word number="1">allegation</word>
+				<word number="2">advocation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ostensible motive</word>
+				<word number="2">ostensible ground</word>
+				<word number="3">ostensible reason</word>
+				<word number="4">phony reason</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="vindication" headRef="979">excuse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">subterfuge</word>
+			</sg>
+			<sg number="6">
+				<word number="1">color</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gloss</word>
+				<word number="2">guise</word>
+				<word number="3">cover</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="loop hole">
+			<sg number="1">
+				<word number="1">loop hole</word>
+				<word number="2">starting hole</word>
+			</sg>
+			<sg number="2">
+				<word number="1">how to creep out of</word>
+				<word number="2">salvo</word>
+				<word number="3">come off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">way of escape</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="handle">
+			<sg number="1">
+				<word number="1">handle</word>
+				<word number="2">peg to hang on</word>
+				<word number="3">room locus standi</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stalking-horse</word>
+				<word number="2">cheval de bataille</word>
+				<word number="3">cue</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="pretense">
+			<sg number="1">
+				<word number="1" paraRef="untruth" headRef="572">pretense</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put off</word>
+				<word number="2">dust thrown in the eyes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blind</word>
+			</sg>
+			<sg number="4">
+				<word number="1">moonshine</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mere pretext</word>
+				<word number="2">shallow pretext</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lame excuse</word>
+				<word number="2">lame apology</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tub to a whale</word>
+			</sg>
+			<sg number="8">
+				<word number="1">false plea</word>
+				<word number="2">sour grapes</word>
+			</sg>
+			<sg number="9">
+				<word number="1">makeshift</word>
+				<word number="2">shift</word>
+				<word number="3">white lie</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="sophistry" headRef="500">special pleading</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="flattery" headRef="975">soft sawder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="pretend">
+			<sg number="1">
+				<word number="1">pretend</word>
+				<word number="2">plead</word>
+				<word number="3">allege</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shelter oneself under the plea of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="vindicate" headRef="979">excuse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lend a color to</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="n.">furnish a handle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make a pretext of</word>
+				<word number="2">make a handle of</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="n.">use as a plea</word>
+			</sg>
+			<sg number="8">
+				<word number="1">take one's stand upon</word>
+				<word number="2">make capital out of</word>
+				<word number="3" paraRef="lie" headRef="570">pretend</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ostensibly">
+			<sg number="1">
+				<word number="1" paraRef="manifest" headRef="550">ostensibly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alleged</word>
+				<word number="2">apologetic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="pretended" headRef="571">pretended</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="ostensibly">
+			<sg number="1">
+				<word number="1">ostensibly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">under color</word>
+			</sg>
+			<sg number="3">
+				<word number="1">under the plea</word>
+				<word number="2">under the pretense of</word>
+				<word number="3">under the guise of</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

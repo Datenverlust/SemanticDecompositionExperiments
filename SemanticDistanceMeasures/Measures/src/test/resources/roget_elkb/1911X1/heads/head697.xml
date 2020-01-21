@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="697" name="Warning" origNum="#668." class="6" section="2" subSection="2" headGroup="23">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="warning">
+			<sg number="1">
+				<word number="1">warning</word>
+				<word number="2">early warning</word>
+				<word number="3">caution</word>
+				<word number="4">caveat</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="information" headRef="552">notice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">premonition</word>
+				<word number="2">premonishment</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="prediction" headRef="535">prediction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">contraindication</word>
+				<word number="2">lesson</word>
+				<word number="3">dehortation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">admonition</word>
+				<word number="2">monition</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="alarm" headRef="698">alarm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="handwriting on the wall">
+			<sg number="1">
+				<word number="1">handwriting on the wall</word>
+				<word number="2">mene mene tekel upharsin</word>
+				<word number="3">red flag</word>
+				<word number="4">yellow flag</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fog-signal</word>
+				<word number="2">foghorn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">siren</word>
+			</sg>
+			<sg number="4">
+				<word number="1">monitor</word>
+				<word number="2">warning voice</word>
+				<word number="3">Cassandra</word>
+				<word number="4">signs of the times</word>
+				<word number="5">Mother Cary's chickens</word>
+				<word number="6">stormy petrel</word>
+				<word number="7">bird of ill omen</word>
+				<word number="8">gathering clouds</word>
+				<word number="9">clouds in the horizon</word>
+				<word number="10">death watch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="watchtower">
+			<sg number="1">
+				<word number="1">watchtower</word>
+				<word number="2">beacon</word>
+				<word number="3">signal post</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="indication of locality" headRef="576">lighthouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sentinel">
+			<sg number="1">
+				<word number="1">sentinel</word>
+				<word number="2">sentry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">watch</word>
+				<word number="2">watchman</word>
+			</sg>
+			<sg number="3">
+				<word number="1">watch and ward</word>
+			</sg>
+			<sg number="4">
+				<word number="1">watchdog</word>
+				<word number="2">bandog</word>
+				<word number="3">housedog</word>
+			</sg>
+			<sg number="5">
+				<word number="1">patrol</word>
+				<word number="2">patrolman</word>
+				<word number="3">vedette</word>
+				<word number="4">picket</word>
+				<word number="5">bivouac</word>
+				<word number="6">scout</word>
+				<word number="7">spy</word>
+				<word number="8">spial</word>
+			</sg>
+			<sg number="6">
+				<word number="1">undercover agent</word>
+				<word number="2">mole</word>
+				<word number="3">plainclothesman</word>
+			</sg>
+			<sg number="7">
+				<word number="1">advanced guard</word>
+				<word number="2">rear guard</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lookout</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="cautiousness">
+			<sg number="1">
+				<word number="1" paraRef="cautiousness" headRef="903">cautiousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="monitor">
+			<sg number="1">
+				<word number="1">monitor</word>
+				<word number="2">guard camera</word>
+				<word number="3">radar</word>
+				<word number="4">AWACS</word>
+				<word number="5">spy satellite</word>
+				<word number="6">spy-in-the-sky</word>
+				<word number="7">U2 plane</word>
+				<word number="8">spy plane</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="warn">
+			<sg number="1">
+				<word number="1">warn</word>
+				<word number="2">caution</word>
+			</sg>
+			<sg number="2">
+				<word number="1">forewarn</word>
+				<word number="2">prewarn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">admonish</word>
+				<word number="2">premonish</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give notice</word>
+				<word number="2">give  warning</word>
+				<word number="3">dehort</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="threaten" headRef="949">menace</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put on one's guard</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="sound the alarm" headRef="698">sound the alarm</word>
+			</sg>
+			<sg number="8">
+				<word number="1">croak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="beware">
+			<sg number="1">
+				<word number="1">beware</word>
+				<word number="2">ware</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take warning</word>
+				<word number="2">take  heed at one's peril</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="care" headRef="479">keep watch and ward</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="warning">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">warning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">premonitory</word>
+				<word number="2">monitory</word>
+				<word number="3">cautionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">admonitory</word>
+				<word number="2">admonitive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sematic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="warned">
+			<sg number="1">
+				<word number="1">warned</word>
+				<word number="2" paraRef="" posRef="v.">forewarned</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="be careful" headRef="479">on one's guard</word>
+				<word number="2" paraRef="cautious" headRef="903">cautious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in terrorem">
+			<sg number="1">
+				<word number="1" paraRef="threat" headRef="949">in terrorem</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="beware">
+			<sg number="1">
+				<word number="1">beware!</word>
+				<word number="2">ware!</word>
+				<word number="3">take care!</word>
+				<word number="4">look out!</word>
+				<word number="5">fore!</word>
+				<word number="6">mind what you are about!</word>
+				<word number="7">take care what you are about!</word>
+				<word number="8">mind!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ne reveillez pas le chat qui dort">
+			<sg number="1">
+				<word number="1">ne reveillez pas le chat qui dort</word>
+			</sg>
+			<sg number="2">
+				<word number="1">foenum habet in cornu</word>
+			</sg>
+			<sg number="3">
+				<word number="1">caveat actor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">le silence du people est la legon des rois</word>
+			</sg>
+			<sg number="5">
+				<word number="1">verbum sat sapienti</word>
+			</sg>
+			<sg number="6">
+				<word number="1">un averti en vaut deux</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

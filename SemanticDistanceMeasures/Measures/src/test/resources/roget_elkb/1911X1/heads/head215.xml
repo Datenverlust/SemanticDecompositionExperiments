@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="215" name="Height" origNum="#206." class="2" section="2" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="height">
+			<sg number="1">
+				<word number="1">height</word>
+				<word number="2">altitude</word>
+				<word number="3">elevation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eminence</word>
+				<word number="2">pitch</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">loftiness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sublimity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="tallness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">tallness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stature</word>
+				<word number="2">procerity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="prominence" headRef="260">prominence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="colossus">
+			<sg number="1">
+				<word number="1" paraRef="size" headRef="201">colossus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">giant</word>
+				<word number="2">grenadier</word>
+				<word number="3">giraffe</word>
+				<word number="4">camelopard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mount">
+			<sg number="1">
+				<word number="1">mount</word>
+				<word number="2">mountain</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hill alto</word>
+				<word number="2">butte</word>
+				<word number="3">monticle</word>
+				<word number="4">fell</word>
+				<word number="5">knap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cape</word>
+			</sg>
+			<sg number="4">
+				<word number="1">headland</word>
+				<word number="2">foreland</word>
+			</sg>
+			<sg number="5">
+				<word number="1">promontory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ridge</word>
+				<word number="2">hog's back</word>
+				<word number="3">dune</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rising ground</word>
+				<word number="2">vantage ground</word>
+			</sg>
+			<sg number="8">
+				<word number="1">down</word>
+			</sg>
+			<sg number="9">
+				<word number="1">moor</word>
+				<word number="2">moorland</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Alp</word>
+			</sg>
+			<sg number="11">
+				<word number="1">uplands</word>
+				<word number="2">highlands</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="summit" headRef="219">heights</word>
+			</sg>
+			<sg number="13">
+				<word number="1">knob</word>
+				<word number="2">loma</word>
+				<word number="3">pena</word>
+				<word number="4">picacho</word>
+				<word number="5">tump</word>
+			</sg>
+			<sg number="14">
+				<word number="1">knoll</word>
+				<word number="2">hummock</word>
+				<word number="3">hillock</word>
+				<word number="4">barrow</word>
+				<word number="5">mound</word>
+				<word number="6">mole</word>
+			</sg>
+			<sg number="15">
+				<word number="1">steeps</word>
+				<word number="2">bluff</word>
+				<word number="3">cliff</word>
+				<word number="4">craig</word>
+				<word number="5">tor</word>
+				<word number="6">peak</word>
+				<word number="7">pike</word>
+				<word number="8">clough</word>
+				<word number="9" new="1">crag</word>
+			</sg>
+			<sg number="16">
+				<word number="1">escarpment</word>
+				<word number="2">edge</word>
+				<word number="3">ledge</word>
+				<word number="4">brae</word>
+			</sg>
+			<sg number="17">
+				<word number="1">dizzy height</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">cove</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">glacier</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">hill</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">mesa</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">scarp</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">summit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="tower">
+			<sg number="1">
+				<word number="1">tower</word>
+				<word number="2">pillar</word>
+				<word number="3">column</word>
+				<word number="4">obelisk</word>
+				<word number="5">monument</word>
+				<word number="6">steeple</word>
+				<word number="7">spire</word>
+				<word number="8">minaret</word>
+				<word number="9">campanile</word>
+				<word number="10">turret</word>
+				<word number="11">dome</word>
+				<word number="12">cupola</word>
+				<word number="13" new="1">chimney</word>
+				<word number="14" new="1">pinnacle</word>
+				<word number="15" new="1">pyramid</word>
+				<word number="16" new="1">smokestack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">skyscraper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="pole">
+			<sg number="1">
+				<word number="1">pole</word>
+				<word number="2">pikestaff</word>
+				<word number="3">maypole</word>
+				<word number="4">flagstaff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">top mast</word>
+				<word number="2">topgallant mast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="ceiling">
+			<sg number="1">
+				<word number="1" paraRef="covering" headRef="233">ceiling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="high water">
+			<sg number="1">
+				<word number="1">high water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">high tide</word>
+				<word number="2">flood tide</word>
+				<word number="3">spring tide</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="altimetry">
+			<sg number="1">
+				<word number="1" paraRef="altimetry" headRef="254">altimetry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">batophobia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="satellite">
+			<sg number="1">
+				<word number="1">satellite</word>
+				<word number="2">spy-in-the-sky</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be high">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be high</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tower</word>
+				<word number="2">soar</word>
+				<word number="3">command</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hover</word>
+				<word number="2">hover over</word>
+				<word number="3">fly over</word>
+			</sg>
+			<sg number="4">
+				<word number="1">orbit</word>
+				<word number="2">be in orbit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cap</word>
+				<word number="2">culminate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">overhang</word>
+				<word number="2">hang over</word>
+				<word number="3">impend</word>
+				<word number="4">beetle</word>
+				<word number="5">bestride</word>
+				<word number="6">ride</word>
+				<word number="7">mount</word>
+			</sg>
+			<sg number="7">
+				<word number="1">perch</word>
+				<word number="2">surmount</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="cover" headRef="233">cover</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="be superior" headRef="35">overtop</word>
+			</sg>
+			<sg number="10">
+				<word number="1">stand on tiptoe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="become high">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">become high</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grow higher</word>
+				<word number="2">grow taller</word>
+			</sg>
+			<sg number="3">
+				<word number="1">upgrow</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="ascend" headRef="316">rise</word>
+			</sg>
+			<sg number="5">
+				<word number="1">send into orbit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="render high">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render high</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="elevate" headRef="318">heighten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="high">
+			<sg number="1">
+				<word number="1">high</word>
+				<word number="2">elevated</word>
+				<word number="3">eminent</word>
+				<word number="4">exalted</word>
+				<word number="5">lofty</word>
+				<word number="6">tall</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="big" headRef="201">gigantic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Patagonian</word>
+			</sg>
+			<sg number="4">
+				<word number="1">towering</word>
+				<word number="2">beetling</word>
+				<word number="3">soaring</word>
+				<word number="4">hanging</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="elevated" headRef="318">elevated</word>
+			</sg>
+			<sg number="6">
+				<word number="1">upper</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="top most" headRef="219">highest</word>
+			</sg>
+			<sg number="8">
+				<word number="1">high reaching</word>
+				<word number="2">insessorial</word>
+				<word number="3">perching</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="upland">
+			<sg number="1">
+				<word number="1">upland</word>
+				<word number="2">moorland</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hilly</word>
+				<word number="2">knobby</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mountainous</word>
+				<word number="2">alpine</word>
+				<word number="3">subalpine</word>
+				<word number="4">heaven kissing</word>
+				<word number="5" new="1">desert</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cloudtopt</word>
+				<word number="2">cloudcapt</word>
+				<word number="3">cloudtouching</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aerial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="overhanging">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">overhanging</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incumbent</word>
+				<word number="2">overlying</word>
+				<word number="3">superincumbent</word>
+				<word number="4">supernatant</word>
+				<word number="5">superimposed</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="prominent" headRef="260">prominent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tall as a maypole">
+			<sg number="1">
+				<word number="1">tall as a maypole</word>
+				<word number="2">tall as a poplar</word>
+				<word number="3">tall as a steeple</word>
+				<word number="4" paraRef="thin" headRef="212">lanky</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on high">
+			<sg number="1">
+				<word number="1">on high</word>
+				<word number="2">high up</word>
+				<word number="3">aloft</word>
+				<word number="4">up</word>
+				<word number="5">above</word>
+				<word number="6">aloof</word>
+				<word number="7">overhead</word>
+			</sg>
+			<sg number="2">
+				<word number="1">airwind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">upstairs</word>
+				<word number="2">abovestairs</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in the clouds</word>
+			</sg>
+			<sg number="5">
+				<word number="1">on tiptoe</word>
+				<word number="2">on stilts</word>
+				<word number="3">on the shoulders of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">over head and ears</word>
+			</sg>
+			<sg number="7">
+				<word number="1">breast high</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="over">
+			<sg number="1">
+				<word number="1">over</word>
+				<word number="2">upwards</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="completely" headRef="55">from top to bottom</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="e meglio cader dalle finistre che dal tetto">
+			<sg number="1">
+				<word number="1">e meglio cader dalle finistre che dal tetto</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

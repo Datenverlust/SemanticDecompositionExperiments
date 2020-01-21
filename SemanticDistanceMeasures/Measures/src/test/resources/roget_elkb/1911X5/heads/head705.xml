@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="705" name="Undertaking" origNum="#676." class="6" section="2" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="undertaking">
+			<sg number="1">
+				<word number="1">undertaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="compact" headRef="801">compact</word>
+			</sg>
+			<sg number="3">
+				<word number="1">adventure</word>
+				<word number="2">venture</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="promise" headRef="799">engagement</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enterprise</word>
+				<word number="2">emprise</word>
+			</sg>
+			<sg number="6">
+				<word number="1">pilgrimage</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="business" headRef="654">matter in hand</word>
+			</sg>
+			<sg number="8">
+				<word number="1">move</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="beginning" headRef="70">first move</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="undertake">
+			<sg number="1">
+				<word number="1">undertake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">engage in</word>
+				<word number="2">embark in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">launch into</word>
+				<word number="2">plunge into</word>
+			</sg>
+			<sg number="4">
+				<word number="1">volunteer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">apprentice oneself to</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="promise" headRef="799">engage</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="contract" headRef="801">contract</word>
+			</sg>
+			<sg number="8">
+				<word number="1">take upon oneself</word>
+				<word number="2">take upon one's shoulders</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="determination" headRef="630">devote oneself to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take up">
+			<sg number="1">
+				<word number="1">take up</word>
+				<word number="2">take  in hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tackle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">set about</word>
+				<word number="2">go about</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set to</word>
+				<word number="2">fall to</word>
+				<word number="3">set to work</word>
+			</sg>
+			<sg number="5">
+				<word number="1">launch forth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set up shop</word>
+			</sg>
+			<sg number="7">
+				<word number="1">put in hand</word>
+				<word number="2">put in execution</word>
+			</sg>
+			<sg number="8">
+				<word number="1">set forward</word>
+			</sg>
+			<sg number="9">
+				<word number="1">break the neck of a business</word>
+				<word number="2">be in</word>
+				<word number="3">for</word>
+			</sg>
+			<sg number="10">
+				<word number="1">put one's hand to</word>
+				<word number="2">put one's foot in</word>
+			</sg>
+			<sg number="11">
+				<word number="1">betake oneself to</word>
+				<word number="2">turn one's hand to</word>
+				<word number="3">go to do</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="begin" headRef="70">begin</word>
+			</sg>
+			<sg number="13">
+				<word number="1">broach</word>
+				<word number="2" paraRef="originate" headRef="160">institute one's</word>
+			</sg>
+			<sg number="14">
+				<word number="1">put one's hand to the plow</word>
+				<word number="2">lay one's hand to the plow</word>
+				<word number="3">put one's shoulder to the wheel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="have in hand">
+			<sg number="1">
+				<word number="1" paraRef="business" headRef="654">have in hand</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="activity" headRef="711">have many irons in the fire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="undertaking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">undertaking</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="on the anvil" headRef="654">on the anvil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="here goes">
+			<sg number="1">
+				<word number="1">here goes!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1006" name="Legality" origNum="#963." class="8" section="4" subSection="5" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="legality">
+			<sg number="1">
+				<word number="1">legality</word>
+			</sg>
+			<sg number="2">
+				<word number="1">legitimacy</word>
+				<word number="2">legitimateness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="legislature">
+			<sg number="1">
+				<word number="1">legislature</word>
+			</sg>
+			<sg number="2">
+				<word number="1">law</word>
+				<word number="2">code</word>
+				<word number="3">corpus juris</word>
+				<word number="4">constitution</word>
+				<word number="5">pandect</word>
+				<word number="6">charter</word>
+				<word number="7">enactment</word>
+				<word number="8">statute</word>
+				<word number="9">rule</word>
+				<word number="10" new="1">amendment</word>
+				<word number="11" new="1">edict</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="precept" headRef="726">canon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ordinance</word>
+				<word number="2">institution</word>
+				<word number="3">regulation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bylaw</word>
+				<word number="2">byelaw</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="order" headRef="772">decree</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ordonnance</word>
+			</sg>
+			<sg number="8">
+				<word number="1">standing order</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="choice" headRef="636">plebiscite</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">covenant</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">mandate</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">proclamation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="legal process">
+			<sg number="1">
+				<word number="1">legal process</word>
+			</sg>
+			<sg number="2">
+				<word number="1">form</word>
+				<word number="2">formula</word>
+				<word number="3">formality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rite</word>
+				<word number="2">arm of the law</word>
+			</sg>
+			<sg number="4">
+				<word number="1">habeas corpus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fieri facias</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="jurisprudence">
+			<sg number="1">
+				<word number="1">jurisprudence</word>
+				<word number="2">nomology</word>
+			</sg>
+			<sg number="2">
+				<word number="1">legislation</word>
+				<word number="2">codification</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="equity">
+			<sg number="1">
+				<word number="1">equity</word>
+				<word number="2">common law</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lex</word>
+				<word number="2">lex nonscripta</word>
+			</sg>
+			<sg number="3">
+				<word number="1">law of nations</word>
+				<word number="2">droit des gens</word>
+				<word number="3">international law</word>
+				<word number="4">jus gentium</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jus civile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">civil law</word>
+				<word number="2">canon law</word>
+				<word number="3">crown law</word>
+				<word number="4">criminal law</word>
+				<word number="5">statute law</word>
+				<word number="6">ecclesiastical law</word>
+				<word number="7">administrative law</word>
+			</sg>
+			<sg number="6">
+				<word number="1">lex mercatoria</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="constitutionalism">
+			<sg number="1">
+				<word number="1">constitutionalism</word>
+				<word number="2">constitutionality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="justice" headRef="963">justice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="court">
+			<sg number="1">
+				<word number="1">court</word>
+				<word number="2" paraRef="tribunal" headRef="1009">tribunal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="judge">
+			<sg number="1">
+				<word number="1" paraRef="judge" headRef="1010">judge</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="lawyer">
+			<sg number="1">
+				<word number="1">lawyer</word>
+				<word number="2">attorney</word>
+				<word number="3" paraRef="legal counsel" headRef="1011">legal counsel</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="legalize">
+			<sg number="1">
+				<word number="1">legalize</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enact</word>
+				<word number="2">ordain</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="order" headRef="772">decree</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass a law</word>
+				<word number="2">enact a regulation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">legislate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">codify</word>
+				<word number="2">formulate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">regulate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="legal">
+			<sg number="1">
+				<word number="1">legal</word>
+				<word number="2">legitimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">according to law</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vested</word>
+				<word number="2">constitutional</word>
+				<word number="3">chartered</word>
+				<word number="4">legalized</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="permitted" headRef="791">lawful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">statutable</word>
+				<word number="2">statutory</word>
+			</sg>
+			<sg number="6">
+				<word number="1">legislatorial</word>
+				<word number="2">legislative</word>
+			</sg>
+			<sg number="7">
+				<word number="1">regulatory</word>
+				<word number="2">regulated</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">judicial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="legally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">legally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the eye of the law</word>
+			</sg>
+			<sg number="3">
+				<word number="1">de jure</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ignorantia legis neminem excusat">
+			<sg number="1">
+				<word number="1">ignorantia legis neminem excusat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"where law ends tyranny begins"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

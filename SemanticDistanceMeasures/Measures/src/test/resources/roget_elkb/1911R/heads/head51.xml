@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="51" name="Combination" origNum="#48." class="1" section="3" subSection="3" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="combination">
+			<sg number="1">
+				<word number="1">combination</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="mixture" headRef="44">mixture</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="junction" headRef="46">junction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">union</word>
+				<word number="2">unification</word>
+				<word number="3">synthesis</word>
+				<word number="4">incorporation</word>
+				<word number="5">amalgamation</word>
+				<word number="6">embodiment</word>
+				<word number="7">coalescence</word>
+				<word number="8">crasis</word>
+				<word number="9">fusion</word>
+				<word number="10">blending</word>
+				<word number="11">absorption</word>
+				<word number="12">centralization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="alloy">
+			<sg number="1">
+				<word number="1">alloy</word>
+				<word number="2">compound</word>
+				<word number="3">amalgam</word>
+				<word number="4">composition</word>
+				<word number="5">tertium quid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resultant</word>
+				<word number="2">impregnation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="combine">
+			<sg number="1">
+				<word number="1">combine</word>
+				<word number="2">unite</word>
+				<word number="3">incorporate</word>
+				<word number="4">amalgamate</word>
+				<word number="5">embody</word>
+				<word number="6">absorb</word>
+				<word number="7">reembody</word>
+				<word number="8">blend</word>
+				<word number="9">merge</word>
+				<word number="10">fuse</word>
+				<word number="11">melt into one</word>
+				<word number="12">consolidate</word>
+				<word number="13">coalesce</word>
+				<word number="14">centralize</word>
+				<word number="15">impregnate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put together</word>
+				<word number="2">lump together</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cement a union</word>
+				<word number="2">marry</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="combined">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">combined</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impregnated with</word>
+				<word number="2">ingrained</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imbued inoculated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

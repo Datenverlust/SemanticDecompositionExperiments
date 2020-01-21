@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="245" name="Rear" origNum="#235." class="2" section="2" subSection="3" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rear">
+			<sg number="1">
+				<word number="1">rear</word>
+				<word number="2">back</word>
+				<word number="3">posteriority</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rear rank</word>
+				<word number="2">rear guard</word>
+			</sg>
+			<sg number="3">
+				<word number="1">background</word>
+				<word number="2">hinterland</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="occiput">
+			<sg number="1">
+				<word number="1">occiput</word>
+				<word number="2">nape</word>
+				<word number="3">chine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heels</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tail</word>
+				<word number="2">rump</word>
+				<word number="3">croup</word>
+				<word number="4">buttock</word>
+				<word number="5">posteriors</word>
+				<word number="6">backside scut</word>
+				<word number="7">breech</word>
+				<word number="8">dorsum</word>
+				<word number="9">loin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dorsal region</word>
+				<word number="2">lumbar region</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hind quarters</word>
+			</sg>
+			<sg number="6">
+				<word number="1">aitchbone</word>
+			</sg>
+			<sg number="7">
+				<word number="1">natch</word>
+				<word number="2">natch bone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stern">
+			<sg number="1">
+				<word number="1">stern</word>
+				<word number="2">poop</word>
+				<word number="3">afterpart</word>
+				<word number="4">heelpiece</word>
+				<word number="5">crupper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wake">
+			<sg number="1">
+				<word number="1">wake</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sequence" headRef="292">train</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="reverse">
+			<sg number="1">
+				<word number="1">reverse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">other side of the shield</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be behind">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adv.">be behind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fall astern</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bend backwards</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bring up the rear</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="back">
+			<sg number="1">
+				<word number="1">back</word>
+				<word number="2">rear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hind</word>
+				<word number="2">hinder</word>
+				<word number="3">hindmost</word>
+				<word number="4">hindermost</word>
+			</sg>
+			<sg number="3">
+				<word number="1">postern</word>
+				<word number="2">posterior</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dorsal</word>
+				<word number="2">after</word>
+			</sg>
+			<sg number="5">
+				<word number="1">caudal</word>
+				<word number="2">lumbar</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mizzen</word>
+				<word number="2">tergal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="behind">
+			<sg number="1">
+				<word number="1">behind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in the rear</word>
+				<word number="2">in the background</word>
+			</sg>
+			<sg number="3">
+				<word number="1">behind one's back</word>
+			</sg>
+			<sg number="4">
+				<word number="1">at the heels of</word>
+				<word number="2">at the tail of</word>
+				<word number="3">at the back of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">back to back</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="after">
+			<sg number="1">
+				<word number="1">after</word>
+				<word number="2">aft</word>
+				<word number="3">abaft</word>
+				<word number="4">astern</word>
+				<word number="5">sternmost</word>
+				<word number="6">aback</word>
+				<word number="7">rearward</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ogni medaglia ha il suo rovescio">
+			<sg number="1">
+				<word number="1">ogni medaglia ha il suo rovescio</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the other side of the coin</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="667" name="Waste" origNum="#638." class="6" section="2" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="consumption">
+			<sg number="1">
+				<word number="1">consumption</word>
+				<word number="2">expenditure</word>
+				<word number="3">exhaustion</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dispersion" headRef="77">dispersion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ebb</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="exudation" headRef="306">leakage</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="loss" headRef="808">loss</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wear and tear</word>
+			</sg>
+			<sg number="7">
+				<word number="1">waste</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="prodigality" headRef="856">prodigality</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="misuse" headRef="708">misuse</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="" posRef="v.">wasting</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="useless" headRef="674">rubbish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="spend">
+			<sg number="1">
+				<word number="1">spend</word>
+				<word number="2">expend</word>
+				<word number="3">use</word>
+				<word number="4">consume</word>
+				<word number="5">swallow up</word>
+				<word number="6">exhaust</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impoverish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spill</word>
+				<word number="2">drain</word>
+				<word number="3">empty</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disperse" headRef="77">disperse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="cast away">
+			<sg number="1">
+				<word number="1">cast away</word>
+				<word number="2">fool away</word>
+				<word number="3">muddle away</word>
+				<word number="4">throw away</word>
+				<word number="5">fling away</word>
+				<word number="6">fritter away</word>
+			</sg>
+			<sg number="2">
+				<word number="1">burn the candle at both ends</word>
+				<word number="2">waste</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="squander" headRef="856">squander</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="waste its sweetness on the desert air">
+			<sg number="1">
+				<word number="1">"waste its sweetness on the desert air"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cast one's bread upon the waters</word>
+				<word number="2">cast pearls before swine</word>
+			</sg>
+			<sg number="3">
+				<word number="1">employ a steam engine to crack a nut</word>
+				<word number="2">waste powder and shot</word>
+				<word number="3">break a butterfly on a wheel</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="useless" headRef="674">labor in vain</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cut blocks with a razor</word>
+				<word number="2">pour water into a sieve</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="leak">
+			<sg number="1">
+				<word number="1" paraRef="leak" headRef="306">leak</word>
+			</sg>
+			<sg number="2">
+				<word number="1">run to waste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ebb</word>
+			</sg>
+			<sg number="4">
+				<word number="1">melt away</word>
+				<word number="2">run dry</word>
+				<word number="3">dry up</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="wasted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">wasted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at a low ebb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wasteful">
+			<sg number="1">
+				<word number="1" paraRef="prodigal" headRef="856">wasteful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">penny wise and pound foolish</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="magno conatu magnas nugas">
+			<sg number="1">
+				<word number="1">magno conatu magnas nugas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">le jeu ne vaut pas la chandelle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"idly busy rolls their world away"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

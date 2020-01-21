@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="933" name="Courtesy" origNum="#894." class="8" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="courtesy">
+			<sg number="1">
+				<word number="1">courtesy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="respect" headRef="970">respect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">good manners</word>
+				<word number="2">good behavior</word>
+				<word number="3">good  breeding</word>
+			</sg>
+			<sg number="4">
+				<word number="1">manners</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">politeness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bienseance</word>
+				<word number="2">urbanity</word>
+				<word number="3">comity</word>
+				<word number="4">gentility</word>
+				<word number="5">breeding</word>
+				<word number="6">polish</word>
+				<word number="7">presence</word>
+			</sg>
+			<sg number="7">
+				<word number="1">civility</word>
+				<word number="2">civilization</word>
+			</sg>
+			<sg number="8">
+				<word number="1">amenity</word>
+				<word number="2">suavity</word>
+			</sg>
+			<sg number="9">
+				<word number="1">good temper</word>
+				<word number="2">good humor</word>
+			</sg>
+			<sg number="10">
+				<word number="1">amiability</word>
+				<word number="2">easy temper</word>
+				<word number="3">complacency</word>
+				<word number="4">soft tongue</word>
+				<word number="5">mansuetude</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="humility" headRef="918">condescension</word>
+			</sg>
+			<sg number="12">
+				<word number="1">affability</word>
+				<word number="2">complaisance</word>
+				<word number="3">prévenance</word>
+				<word number="4">amability</word>
+				<word number="5">gallantry</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pink of politeness</word>
+				<word number="2">pink of courtesy</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">provincial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="compliment">
+			<sg number="1">
+				<word number="1">compliment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fair words</word>
+				<word number="2">soft words</word>
+				<word number="3">sweet words</word>
+			</sg>
+			<sg number="3">
+				<word number="1">honeyed phrases</word>
+				<word number="2">ceremonial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">salutation</word>
+				<word number="2">reception</word>
+				<word number="3">presentation</word>
+				<word number="4">introduction</word>
+				<word number="5">accueil</word>
+				<word number="6">greeting</word>
+				<word number="7">recognition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">welcome</word>
+				<word number="2">abord</word>
+				<word number="3">respects</word>
+				<word number="4">devoir</word>
+				<word number="5">regards</word>
+				<word number="6">remembrances</word>
+			</sg>
+			<sg number="6">
+				<word number="1">kind regards</word>
+				<word number="2">kind remembrances</word>
+			</sg>
+			<sg number="7">
+				<word number="1">love</word>
+				<word number="2">best love</word>
+				<word number="3">duty</word>
+			</sg>
+			<sg number="8">
+				<word number="1">empty encomium</word>
+				<word number="2">flattering remark</word>
+				<word number="3">hollow commendation</word>
+			</sg>
+			<sg number="9">
+				<word number="1">salaams</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="obeisance">
+			<sg number="1">
+				<word number="1" paraRef="reverence" headRef="970">obeisance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bow</word>
+				<word number="2">courtesy</word>
+				<word number="3">curtsy</word>
+				<word number="4">scrape</word>
+				<word number="5">salaam</word>
+				<word number="6">kotow</word>
+				<word number="7">kowtow</word>
+				<word number="8">bowing and scraping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kneeling</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="worship" headRef="1034">genuflection</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="obsequiousness" headRef="925">obsequiousness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">capping</word>
+				<word number="2" paraRef="" posRef="v.">shaking hands</word>
+			</sg>
+			<sg number="7">
+				<word number="1">grip of the hand</word>
+				<word number="2">embrace</word>
+				<word number="3">hug</word>
+				<word number="4">squeeze</word>
+				<word number="5">accolade</word>
+				<word number="6">loving cup</word>
+				<word number="7">vin d'honneur</word>
+				<word number="8">pledge</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="endearment" headRef="942">love token</word>
+			</sg>
+			<sg number="9">
+				<word number="1">kiss</word>
+				<word number="2">buss</word>
+				<word number="3">salute</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mark of recognition">
+			<sg number="1">
+				<word number="1">mark of recognition</word>
+				<word number="2">nod</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"nods and becks and wreathed smiles"</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="valediction" headRef="304">valediction</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="condolence" headRef="956">condolence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sahn">
+			<sg number="1">
+				<word number="1" new="1">sahn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be courteous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be courteous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">show courtesy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mind one's P's and Q's">
+			<sg number="1">
+				<word number="1">mind one's P's and Q's</word>
+				<word number="2">behave oneself</word>
+				<word number="3">be all things to all men</word>
+				<word number="4">conciliate</word>
+				<word number="5">speak one fair</word>
+				<word number="6">take in good part</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make the amiable</word>
+				<word number="2">do the amiable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look as if butter would not melt in one's mouth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mend one's manners</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="receive">
+			<sg number="1">
+				<word number="1">receive</word>
+				<word number="2">do the honors</word>
+				<word number="3">usher</word>
+				<word number="4">greet</word>
+				<word number="5">hail</word>
+				<word number="6">bid welcome</word>
+			</sg>
+			<sg number="2">
+				<word number="1">welcome</word>
+				<word number="2">welcome with open arms</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shake hands</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hold out the hand</word>
+				<word number="2">press the hand</word>
+				<word number="3">squeeze the hand</word>
+				<word number="4">press the flesh</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bid Godspeed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">speed the parting guest</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cheer</word>
+				<word number="2">serenade</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">groan</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="salute">
+			<sg number="1">
+				<word number="1">salute</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="endearment" headRef="942">embrace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kiss</word>
+				<word number="2">kiss hands</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drink to</word>
+				<word number="2">pledge</word>
+				<word number="3">hob and nob</word>
+			</sg>
+			<sg number="5">
+				<word number="1">move to</word>
+				<word number="2">nod to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">smile upon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="uncover">
+			<sg number="1">
+				<word number="1">uncover</word>
+				<word number="2">cap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">touch the hat</word>
+				<word number="2">take off the hat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">doff the cap</word>
+			</sg>
+			<sg number="4">
+				<word number="1">present arms</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make way for</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bow</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make one's bow</word>
+				<word number="2">make a leg</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scrape</word>
+				<word number="2">curtsy</word>
+				<word number="3">courtesy</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bob a curtsy</word>
+				<word number="2">bob a courtesy</word>
+			</sg>
+			<sg number="10">
+				<word number="1">kneel</word>
+			</sg>
+			<sg number="11">
+				<word number="1">bow the knee</word>
+				<word number="2">bend the knee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="visit">
+			<sg number="1">
+				<word number="1">visit</word>
+				<word number="2">wait upon</word>
+				<word number="3">present oneself</word>
+				<word number="4">pay one's respects</word>
+				<word number="5" paraRef="sociability" headRef="931">pay a visit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="servility" headRef="925">dance attendance on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pay attentions to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="respect" headRef="970">do homage to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="prostrate oneself">
+			<sg number="1">
+				<word number="1" paraRef="worship" headRef="1034">prostrate oneself</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="give one's duty to">
+			<sg number="1">
+				<word number="1">give one's duty to</word>
+				<word number="2" paraRef="" posRef="n.">send one's duty to</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="render polite">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render polite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">polish</word>
+				<word number="2">civilize</word>
+				<word number="3">humanize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="courteous">
+			<sg number="1">
+				<word number="1">courteous</word>
+				<word number="2">polite</word>
+				<word number="3">civil</word>
+				<word number="4">mannerly</word>
+				<word number="5">urbane</word>
+				<word number="6" new="1">reimbursable</word>
+				<word number="7" new="1">inverted</word>
+				<word number="8" new="1">ritzy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">well-behaved</word>
+				<word number="2">well- mannered</word>
+				<word number="3">well-bred</word>
+				<word number="4">well-brought up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">good-mannered</word>
+				<word number="2">polished</word>
+				<word number="3">civilized</word>
+				<word number="4">cultivated</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="taste" headRef="889">refined</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="fashion" headRef="891">gentlemanlike</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gallant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on one's good behavior</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">categorial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="fine spoken">
+			<sg number="1">
+				<word number="1">fine spoken</word>
+				<word number="2">fair spoken</word>
+				<word number="3">soft-spoken</word>
+			</sg>
+			<sg number="2">
+				<word number="1">honey-mouthed</word>
+				<word number="2">honey-tongued</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oily</word>
+				<word number="2">bland</word>
+			</sg>
+			<sg number="4">
+				<word number="1">obliging</word>
+				<word number="2">conciliatory</word>
+				<word number="3">complaisant</word>
+				<word number="4">complacent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="obsequious" headRef="925">obsequious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ingratiating">
+			<sg number="1">
+				<word number="1">ingratiating</word>
+				<word number="2">winning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gentle</word>
+				<word number="2">mild</word>
+			</sg>
+			<sg number="3">
+				<word number="1">good-humored</word>
+				<word number="2">cordial</word>
+				<word number="3">gracious</word>
+				<word number="4">affable</word>
+				<word number="5">familiar</word>
+				<word number="6" new="1">ironbound</word>
+			</sg>
+			<sg number="4">
+				<word number="1">neighborly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">unwounded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="diplomatic">
+			<sg number="1">
+				<word number="1">diplomatic</word>
+				<word number="2">tactful</word>
+				<word number="3">politic</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="artful" headRef="731">artful</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="courteously">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">courteously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with a good grace</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with open arms</word>
+				<word number="2">with outstretched  arms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">a bras ouverts</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suaviter in modo</word>
+				<word number="2">in good humor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="hail">
+			<sg number="1">
+				<word number="1">hail!</word>
+				<word number="2">welcome!</word>
+				<word number="3">well met!</word>
+				<word number="4">ave!</word>
+				<word number="5">all hail!</word>
+				<word number="6">good day</word>
+				<word number="7">good  morrow!</word>
+				<word number="8">Godspeed!</word>
+				<word number="9">pax vobiscum!</word>
+				<word number="10">may your shadow never be less!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="Tien de plus estimable que la ceremonie">
+			<sg number="1">
+				<word number="1">Tien de plus estimable que la ceremonie</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the very pink of courtesy"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

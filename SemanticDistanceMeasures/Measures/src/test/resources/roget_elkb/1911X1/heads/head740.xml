@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="740" name="Auxiliary" origNum="#711." class="6" section="4" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="auxiliary">
+			<sg number="1">
+				<word number="1">auxiliary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recruit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">assistant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">adjuvant</word>
+				<word number="2">adjutant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ayudante</word>
+				<word number="2">coaid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">adjunct</word>
+			</sg>
+			<sg number="7">
+				<word number="1">help</word>
+				<word number="2">helper</word>
+				<word number="3">help mate</word>
+				<word number="4">helping hand</word>
+			</sg>
+			<sg number="8">
+				<word number="1">midwife</word>
+			</sg>
+			<sg number="9">
+				<word number="1">colleague</word>
+				<word number="2">partner</word>
+				<word number="3">mate</word>
+				<word number="4">confrere</word>
+				<word number="5">cooperator</word>
+			</sg>
+			<sg number="10">
+				<word number="1">coadjutor</word>
+				<word number="2">coadjutrix</word>
+			</sg>
+			<sg number="11">
+				<word number="1">collaborator</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ally">
+			<sg number="1">
+				<word number="1">ally</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="friend" headRef="929">friend</word>
+				<word number="2">confidant</word>
+				<word number="3">fidus Achates</word>
+				<word number="4">pal</word>
+				<word number="5">buddy</word>
+				<word number="6">alter ego</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="confederate">
+			<sg number="1">
+				<word number="1">confederate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accomplice</word>
+			</sg>
+			<sg number="3">
+				<word number="1">complice</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accessory</word>
+				<word number="2">accessory after the fact</word>
+			</sg>
+			<sg number="5">
+				<word number="1">particeps criminis</word>
+			</sg>
+			<sg number="6">
+				<word number="1">socius criminis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="aide-de-camp">
+			<sg number="1">
+				<word number="1">aide-de-camp</word>
+				<word number="2">secretary</word>
+				<word number="3">clerk</word>
+				<word number="4">associate</word>
+				<word number="5">marshal</word>
+				<word number="6" new="1">treasurer</word>
+			</sg>
+			<sg number="2">
+				<word number="1">right-hand</word>
+				<word number="2">right- hand man</word>
+				<word number="3">Friday</word>
+				<word number="4">girl Friday</word>
+				<word number="5">man Friday</word>
+				<word number="6">gopher</word>
+				<word number="7">gofer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">candle-holder</word>
+				<word number="2">bottle-holder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">handmaid</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="servant" headRef="777">servant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">puppet</word>
+				<word number="2">cat's-paw</word>
+				<word number="3">jackal!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="tool">
+			<sg number="1">
+				<word number="1">tool</word>
+				<word number="2">dupe</word>
+				<word number="3">stooge</word>
+				<word number="4">ame damnee</word>
+			</sg>
+			<sg number="2">
+				<word number="1">satellite</word>
+				<word number="2">adherent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="votary">
+			<sg number="1">
+				<word number="1">votary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sectarian</word>
+				<word number="2">secretary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seconder</word>
+				<word number="2">backer</word>
+				<word number="3">upholder</word>
+				<word number="4">abettor</word>
+				<word number="5">advocate</word>
+				<word number="6">partisan</word>
+				<word number="7">champion</word>
+				<word number="8">patron</word>
+				<word number="9">friend at court</word>
+				<word number="10">mediator</word>
+			</sg>
+			<sg number="4">
+				<word number="1">angel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="friend in need">
+			<sg number="1">
+				<word number="1">friend in need</word>
+				<word number="2">Jack at a pinch</word>
+				<word number="3">deus ex machina</word>
+				<word number="4">guardian angel</word>
+				<word number="5">tutelary genius</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="acquaintance">
+			<sg number="1">
+				<word number="1" new="1">acquaintance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="companion">
+			<sg number="1">
+				<word number="1" new="1">companion</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

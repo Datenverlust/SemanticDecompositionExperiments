@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="307" name="Reception" origNum="#296." class="2" section="4" subSection="4" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="reception">
+			<sg number="1">
+				<word number="1">reception</word>
+			</sg>
+			<sg number="2">
+				<word number="1">admission</word>
+				<word number="2">admittance</word>
+				<word number="3">entree</word>
+				<word number="4">importation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">introduction</word>
+				<word number="2">intromission</word>
+			</sg>
+			<sg number="4">
+				<word number="1">immission</word>
+				<word number="2">ingestion</word>
+				<word number="3">imbibation</word>
+				<word number="4">introception</word>
+				<word number="5">absorption</word>
+				<word number="6">ingurgitation</word>
+				<word number="7">inhalation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suction</word>
+				<word number="2">sucking</word>
+			</sg>
+			<sg number="6">
+				<word number="1">eating</word>
+				<word number="2" paraRef="food" headRef="309">drinking</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="insertion" headRef="311">insertion</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="interjection" headRef="238">interjection</word>
+			</sg>
+			<sg number="9">
+				<word number="1">introit</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="give entrance to">
+			<sg number="1">
+				<word number="1">give entrance to</word>
+				<word number="2">give admittance to</word>
+				<word number="3">give the entree</word>
+			</sg>
+			<sg number="2">
+				<word number="1">introduce</word>
+				<word number="2">intromit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">usher</word>
+				<word number="2">admit</word>
+				<word number="3">receive</word>
+				<word number="4">import</word>
+				<word number="5">bring in</word>
+				<word number="6">open the door to</word>
+				<word number="7">throw in</word>
+				<word number="8">ingest</word>
+				<word number="9">absorb</word>
+				<word number="10">imbibe</word>
+				<word number="11">inhale</word>
+				<word number="12">breathe in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">let in</word>
+				<word number="2">take in</word>
+				<word number="3">suck in</word>
+				<word number="4">draw in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">readmit</word>
+				<word number="2">resorb</word>
+				<word number="3">reabsorb</word>
+			</sg>
+			<sg number="6">
+				<word number="1">snuff up</word>
+				<word number="2">swallow</word>
+				<word number="3">ingurgitate</word>
+			</sg>
+			<sg number="7">
+				<word number="1">engulf</word>
+				<word number="2">engorge</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gulp</word>
+			</sg>
+			<sg number="9">
+				<word number="1">eat</word>
+				<word number="2" paraRef="food" headRef="309">drink</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="admitting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">admitting</word>
+				<word number="2" paraRef="" posRef="v.">admitted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">admissable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">absorbent</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

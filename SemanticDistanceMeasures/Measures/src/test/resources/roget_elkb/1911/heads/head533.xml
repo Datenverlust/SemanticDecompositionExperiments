@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="533" name="Disappointment" origNum="#509." class="4" section="6" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disappointment">
+			<sg number="1">
+				<word number="1">disappointment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blighted hope</word>
+				<word number="2">balk</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anticlimax</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slip 'twixt cup and lip</word>
+			</sg>
+			<sg number="6">
+				<word number="1">nonfulfillment of one's hopes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sad disappointment</word>
+				<word number="2">bitter disappointment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">trick of fortune</word>
+			</sg>
+			<sg number="9">
+				<word number="1">afterclap</word>
+			</sg>
+			<sg number="10">
+				<word number="1">false expectation</word>
+				<word number="2">vain expectation</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="miscalculation" headRef="505">miscalculation</word>
+			</sg>
+			<sg number="12">
+				<word number="1">fool's paradise</word>
+			</sg>
+			<sg number="13">
+				<word number="1">much cry and little wool</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be disappointed">
+			<sg number="1">
+				<word number="1">be disappointed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">look blank</word>
+				<word number="2">look blue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look aghast</word>
+				<word number="2" paraRef="wonder" headRef="909">stand aghast</word>
+			</sg>
+			<sg number="4">
+				<word number="1">find to one's cost</word>
+			</sg>
+			<sg number="5">
+				<word number="1">laugh on the wrong side of one's mouth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">find one a false prophet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="not realize one's hope">
+			<sg number="1">
+				<word number="1">not realize one's hope</word>
+				<word number="2">not realize one's expectation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="disappoint">
+			<sg number="1">
+				<word number="1">disappoint</word>
+			</sg>
+			<sg number="2">
+				<word number="1">frustrate</word>
+				<word number="2">discomfit</word>
+				<word number="3">crush</word>
+				<word number="4" paraRef="failure" headRef="761">defeat</word>
+			</sg>
+			<sg number="3">
+				<word number="1">crush one's hope</word>
+				<word number="2">dash one's hope</word>
+				<word number="3">balk one's hope</word>
+				<word number="4">disappoint one's hope</word>
+				<word number="5">blight one's hope</word>
+				<word number="6">falsify one's hope</word>
+				<word number="7">defeat one's hope</word>
+				<word number="8">discourage</word>
+			</sg>
+			<sg number="4">
+				<word number="1">balk</word>
+				<word number="2">jilt</word>
+				<word number="3">bilk</word>
+			</sg>
+			<sg number="5">
+				<word number="1">play one false</word>
+				<word number="2">play a trick</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dash the cup from the lips</word>
+				<word number="2">tantalize</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dumfound</word>
+				<word number="2">dumbfound</word>
+				<word number="3">dumbfounder</word>
+				<word number="4" paraRef="astonish" headRef="909">dumfounder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disappointed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disappointed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disconcerted</word>
+				<word number="2">aghast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">disgruntled</word>
+			</sg>
+			<sg number="4">
+				<word number="1">out of one's reckoning</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the mountain labored and brought forth a mouse">
+			<sg number="1">
+				<word number="1">the mountain labored and brought forth a mouse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parturiunt montes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nascitur ridiculus mus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">diis aliter visum</word>
+				<word number="2">the bubble burst</word>
+			</sg>
+			<sg number="5">
+				<word number="1">one's countenance falling</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

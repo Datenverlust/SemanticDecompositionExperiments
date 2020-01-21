@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="98" name="Trisection" origNum="#94." class="1" section="5" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="trisection">
+			<sg number="1">
+				<word number="1">trisection</word>
+				<word number="2">tripartition</word>
+				<word number="3">trichotomy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">third</word>
+				<word number="2">third part</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="trisect">
+			<sg number="1">
+				<word number="1">trisect</word>
+				<word number="2">divide into three parts</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="trifid">
+			<sg number="1">
+				<word number="1">trifid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">trisected</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tripartite</word>
+				<word number="2">trichotomous</word>
+				<word number="3">trisulcate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Triadelphous">
+			<sg number="1">
+				<word number="1">Triadelphous</word>
+				<word number="2">triangular</word>
+				<word number="3">tricuspid</word>
+				<word number="4">tricapsular</word>
+				<word number="5">tridental</word>
+				<word number="6">tridentate</word>
+				<word number="7">tridentiferous</word>
+				<word number="8">trifoliate</word>
+				<word number="9">trifurcate</word>
+				<word number="10">trigonal</word>
+				<word number="11">trigrammic</word>
+				<word number="12">trigrammatic</word>
+				<word number="13">tripetalous</word>
+				<word number="14">tripodal</word>
+				<word number="15">tripodic</word>
+				<word number="16">triquetral</word>
+				<word number="17">triquetrous</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

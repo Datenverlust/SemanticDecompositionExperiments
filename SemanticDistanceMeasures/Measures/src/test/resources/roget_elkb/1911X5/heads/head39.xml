@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="39" name="Addition" origNum="#37." class="1" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="addition">
+			<sg number="1">
+				<word number="1">addition</word>
+				<word number="2">annexation</word>
+				<word number="3">adjection</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="junction" headRef="46">junction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">superposition</word>
+				<word number="2">superaddition</word>
+				<word number="3">superjunction</word>
+				<word number="4">superfetation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">accession</word>
+				<word number="2">reinforcement</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="increase" headRef="37">increase</word>
+			</sg>
+			<sg number="6">
+				<word number="1">increment</word>
+				<word number="2">supplement</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="accompaniment" headRef="92">accompaniment</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="interposition" headRef="238">interposition</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="insertion" headRef="311">insertion</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="add">
+			<sg number="1">
+				<word number="1">add</word>
+				<word number="2">annex</word>
+				<word number="3">affix</word>
+				<word number="4">superadd</word>
+				<word number="5">subjoin</word>
+				<word number="6">superpose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clap on</word>
+				<word number="2">saddle on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">tack to</word>
+				<word number="2">append</word>
+				<word number="3">tag</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ingraft</word>
+			</sg>
+			<sg number="5">
+				<word number="1">saddle with</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sprinkle</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="interpose" headRef="238">introduce</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="insert" headRef="311">insert</word>
+				<word number="2">accrue</word>
+			</sg>
+			<sg number="9">
+				<word number="1">advene</word>
+				<word number="2">supervene</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">omit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reinforce">
+			<sg number="1">
+				<word number="1">reinforce</word>
+				<word number="2">reenforce</word>
+				<word number="3">restrengthen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">swell the ranks of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="augment" headRef="37">augment</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="added">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">added</word>
+			</sg>
+			<sg number="2">
+				<word number="1">additional</word>
+			</sg>
+			<sg number="3">
+				<word number="1">supplemental</word>
+				<word number="2">supplementary</word>
+			</sg>
+			<sg number="4">
+				<word number="1">suppletory</word>
+				<word number="2">subjunctive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">adjectitious</word>
+				<word number="2">adscititious</word>
+				<word number="3">ascititious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">additive</word>
+				<word number="2">extra</word>
+				<word number="3">accessory</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="au reste">
+			<sg number="1">
+				<word number="1">au reste</word>
+				<word number="2">in addition</word>
+				<word number="3">more</word>
+				<word number="4">plus</word>
+				<word number="5">extra</word>
+			</sg>
+			<sg number="2">
+				<word number="1">and</word>
+				<word number="2">also</word>
+				<word number="3">likewise</word>
+				<word number="4">too</word>
+				<word number="5">furthermore</word>
+				<word number="6">further</word>
+				<word number="7">item</word>
+			</sg>
+			<sg number="3">
+				<word number="1">and also</word>
+				<word number="2">and eke</word>
+			</sg>
+			<sg number="4">
+				<word number="1">else</word>
+				<word number="2">besides</word>
+				<word number="3">to boot</word>
+				<word number="4">et cetera</word>
+			</sg>
+			<sg number="5">
+				<word number="1">and so on</word>
+				<word number="2">and so forth</word>
+			</sg>
+			<sg number="6">
+				<word number="1">into the bargain</word>
+				<word number="2">cum multis aliis</word>
+				<word number="3">over and above</word>
+				<word number="4">moreover</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="with">
+			<sg number="1">
+				<word number="1">with</word>
+				<word number="2">withal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">including</word>
+				<word number="2">inclusive</word>
+				<word number="3">as well as</word>
+				<word number="4">not to mention</word>
+				<word number="5">let alone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">together with</word>
+				<word number="2">along with</word>
+				<word number="3">coupled with</word>
+				<word number="4">in conjunction with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">conjointly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="jointly" headRef="46">jointly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="adde parvum parvo magnus acervus erit">
+			<sg number="1">
+				<word number="1">adde parvum parvo magnus acervus erit</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

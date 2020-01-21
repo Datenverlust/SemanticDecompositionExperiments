@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="778" name="Scepter" origNum="#747." class="7" section="1" subSection="1" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="scepter">
+			<sg number="1">
+				<word number="1">scepter</word>
+				<word number="2">regalia</word>
+				<word number="3">caduceus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Mercury's rod</word>
+				<word number="2">Mercury's staff</word>
+				<word number="3">Mercury's wand</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rod of empire</word>
+				<word number="2">mace</word>
+				<word number="3">fasces</word>
+				<word number="4">wand</word>
+			</sg>
+			<sg number="4">
+				<word number="1">staff</word>
+				<word number="2">staff of office</word>
+			</sg>
+			<sg number="5">
+				<word number="1">baton</word>
+				<word number="2">truncheon</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="insignia" headRef="576">flag</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ensign of authority</word>
+				<word number="2">emblem of authority</word>
+				<word number="3">badge of authority</word>
+				<word number="4">insignia of authority</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="throne">
+			<sg number="1">
+				<word number="1">throne</word>
+				<word number="2">chair</word>
+				<word number="3">musnud</word>
+				<word number="4">divan</word>
+				<word number="5">dais</word>
+				<word number="6">woolsack</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="toga">
+			<sg number="1">
+				<word number="1">toga</word>
+				<word number="2">pall</word>
+				<word number="3">mantle</word>
+				<word number="4">robes of state</word>
+				<word number="5">ermine</word>
+				<word number="6">purple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="crown">
+			<sg number="1">
+				<word number="1">crown</word>
+				<word number="2">coronet</word>
+				<word number="3">diadem</word>
+				<word number="4">tiara</word>
+				<word number="5">cap of maintenance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">decoration</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="title" headRef="916">title</word>
+			</sg>
+			<sg number="4">
+				<word number="1">portfolio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="key">
+			<sg number="1">
+				<word number="1">key</word>
+				<word number="2">signet</word>
+				<word number="3">seals</word>
+				<word number="4">talisman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">helm</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="means of restraint" headRef="783">reins</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="873" name="Aggravation" origNum="#835." class="8" section="2" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="aggravation">
+			<sg number="1">
+				<word number="1">aggravation</word>
+				<word number="2">worsening</word>
+				<word number="3">heightening</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exacerbation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exasperation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="overestimation" headRef="506">overestimation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exaggeration" headRef="575">exaggeration</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="aggravate">
+			<sg number="1">
+				<word number="1">aggravate</word>
+				<word number="2">render worse</word>
+				<word number="3">heighten</word>
+				<word number="4">embitter</word>
+				<word number="5">sour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exacerbate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exasperate</word>
+				<word number="2">envenom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enrage</word>
+				<word number="2">provoke</word>
+				<word number="3">tease</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">engender</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="add fuel to the fire">
+			<sg number="1">
+				<word number="1">add fuel to the fire</word>
+				<word number="2">add fuel to the flame</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="excite" headRef="862">fan the flame</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deteriorate" headRef="688">go from bad to worse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="aggravated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">aggravated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">worse</word>
+				<word number="2">unrelieved</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aggravable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">aggravating</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="out of the frying pan into the fire">
+			<sg number="1">
+				<word number="1">out of the frying pan into the fire</word>
+				<word number="2">from bad to worse</word>
+				<word number="3">worse and worse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="so much the worse">
+			<sg number="1">
+				<word number="1">so much the worse!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

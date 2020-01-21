@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="21" name="Nonimitation" origNum="#20." class="1" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="no imitation">
+			<sg number="1">
+				<word number="1">no imitation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">originality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">creativeness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="invention">
+			<sg number="1">
+				<word number="1">invention</word>
+				<word number="2">creation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unimitated">
+			<sg number="1">
+				<word number="1">unimitated</word>
+				<word number="2">uncopied</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unmatched</word>
+				<word number="2">unparalleled</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inimitable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unique</word>
+				<word number="2">original</word>
+			</sg>
+			<sg number="5">
+				<word number="1">creative</word>
+				<word number="2">inventive</word>
+				<word number="3">untranslated</word>
+			</sg>
+			<sg number="6">
+				<word number="1">exceptional</word>
+				<word number="2">rare</word>
+				<word number="3">sui generis uncommon</word>
+				<word number="4">unexampled</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="342" name="Friction" origNum="#331." class="3" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="friction">
+			<sg number="1">
+				<word number="1">friction</word>
+				<word number="2">attrition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rubbing</word>
+				<word number="2">abrasion</word>
+				<word number="3" paraRef="" posRef="v.">scraping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">confrication</word>
+				<word number="2">detrition</word>
+				<word number="3">contrition</word>
+				<word number="4">affriction</word>
+				<word number="5">abrasion</word>
+				<word number="6">arrosion</word>
+				<word number="7">limature</word>
+				<word number="8">frication</word>
+				<word number="9">rub</word>
+			</sg>
+			<sg number="4">
+				<word number="1">elbow grease</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rosin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">massage</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="roughness" headRef="267">roughness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="rolling friction">
+			<sg number="1">
+				<word number="1">rolling friction</word>
+				<word number="2">sliding friction</word>
+				<word number="3">starting friction</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="rub">
+			<sg number="1">
+				<word number="1">rub</word>
+				<word number="2">scratch</word>
+				<word number="3">scrape</word>
+				<word number="4">scrub</word>
+				<word number="5">slide</word>
+				<word number="6">fray</word>
+				<word number="7">rasp</word>
+				<word number="8">graze</word>
+				<word number="9">curry</word>
+				<word number="10">scour</word>
+				<word number="11">polish</word>
+				<word number="12">rub out</word>
+				<word number="13">wear down</word>
+				<word number="14">gnaw</word>
+			</sg>
+			<sg number="2">
+				<word number="1">file</word>
+				<word number="2" paraRef="reduce to powder" headRef="341">grind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="set one's teeth on edge">
+			<sg number="1">
+				<word number="1">set one's teeth on edge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rosin</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="anatriptic">
+			<sg number="1">
+				<word number="1">anatriptic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attrite</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

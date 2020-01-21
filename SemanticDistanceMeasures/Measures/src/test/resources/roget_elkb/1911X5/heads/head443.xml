@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="443" name="Transparency" origNum="#425." class="3" section="3" subSection="2" headGroup="30">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="transparence">
+			<sg number="1">
+				<word number="1">transparence</word>
+				<word number="2">transparency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">clarity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">translucence</word>
+				<word number="2">translucency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">diaphaneity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lucidity</word>
+				<word number="2">pellucidity</word>
+				<word number="3">limpidity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fluorescence</word>
+			</sg>
+			<sg number="7">
+				<word number="1">transillumination</word>
+				<word number="2">translumination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="transparent medium">
+			<sg number="1">
+				<word number="1">transparent medium</word>
+				<word number="2">glass</word>
+				<word number="3">crystal</word>
+				<word number="4">lymph</word>
+				<word number="5">vitrite</word>
+				<word number="6">water</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be transparent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be transparent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">transmit light</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="transparent">
+			<sg number="1">
+				<word number="1">transparent</word>
+				<word number="2">pellucid</word>
+				<word number="3">lucid</word>
+				<word number="4">diaphanous</word>
+				<word number="5">translucent</word>
+				<word number="6">tralucent</word>
+				<word number="7">relucent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">limpid</word>
+				<word number="2">clear</word>
+				<word number="3">serene</word>
+				<word number="4">crystalline</word>
+				<word number="5">clear as crystal</word>
+				<word number="6">vitreous</word>
+				<word number="7">transpicuous</word>
+				<word number="8">glassy</word>
+				<word number="9">hyaline</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hyaloid</word>
+				<word number="2">vitreform</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="626" name="Will" origNum="#600." class="6" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="will">
+			<sg number="1">
+				<word number="1">will</word>
+				<word number="2">volition</word>
+				<word number="3">conation</word>
+				<word number="4">velleity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">liberum arbitrium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">will and pleasure</word>
+				<word number="2">free will</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="freedom" headRef="779">freedom</word>
+			</sg>
+			<sg number="5">
+				<word number="1">discretion</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="choice" headRef="636">option</word>
+			</sg>
+			<sg number="7">
+				<word number="1">voluntariness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">spontaneity</word>
+				<word number="2">spontaneousness</word>
+			</sg>
+			<sg number="9">
+				<word number="1">originality</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pleasure">
+			<sg number="1">
+				<word number="1">pleasure</word>
+				<word number="2">wish</word>
+				<word number="3">mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">desire</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inclination" headRef="628">frame of mind</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="intention" headRef="649">intention</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="predetermination" headRef="639">predetermination</word>
+			</sg>
+			<sg number="6">
+				<word number="1">selfcontrol</word>
+				<word number="2" paraRef="resolution" headRef="630">determination</word>
+			</sg>
+			<sg number="7">
+				<word number="1">force of will</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="will">
+			<sg number="1">
+				<word number="1">will</word>
+				<word number="2">list</word>
+			</sg>
+			<sg number="2">
+				<word number="1">see fit</word>
+				<word number="2">think fit</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="resolve" headRef="630">determine</word>
+			</sg>
+			<sg number="4">
+				<word number="1">enjoin</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="choose" headRef="636">settle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">volunteer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="have a will of one's own">
+			<sg number="1">
+				<word number="1">have a will of one's own</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="freedom" headRef="779">do what one chooses</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have it all one's own way</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have one's will</word>
+				<word number="2">have one's own way</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="use one's discretion">
+			<sg number="1">
+				<word number="1">use one's discretion</word>
+				<word number="2">exercise one's discretion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take upon oneself</word>
+				<word number="2">take one's own course</word>
+				<word number="3">take the law into one's own hands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">do of one's own accord</word>
+				<word number="2">do upon one's own authority</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cause" headRef="160">originate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="voluntary">
+			<sg number="1">
+				<word number="1">voluntary</word>
+				<word number="2">volitional</word>
+				<word number="3">willful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="free" headRef="779">free</word>
+			</sg>
+			<sg number="3">
+				<word number="1">optional</word>
+			</sg>
+			<sg number="4">
+				<word number="1">discretional</word>
+				<word number="2">discretionary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">volitient</word>
+				<word number="2">volitive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="minded">
+			<sg number="1">
+				<word number="1" paraRef="willing" headRef="628">minded</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="predetermine" headRef="639">prepense</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="intended" headRef="649">intended</word>
+			</sg>
+			<sg number="4">
+				<word number="1">autocratic</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="bid" headRef="772">unbidden</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spontaneous</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="causal" headRef="160">original</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unconstrained</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="voluntarily">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">voluntarily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at will</word>
+				<word number="2">at pleasure</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a volonte</word>
+				<word number="2">a discretion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">al piacere</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ad libitum</word>
+				<word number="2">ad arbitrium</word>
+			</sg>
+			<sg number="6">
+				<word number="1">as one thinks proper</word>
+				<word number="2">as it seems good to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">a beneplacito</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="of one's won accord">
+			<sg number="1">
+				<word number="1">of one's won accord</word>
+				<word number="2">of one's own free will</word>
+			</sg>
+			<sg number="2">
+				<word number="1">proprio motu</word>
+				<word number="2">suo motu</word>
+				<word number="3">ex meromotu</word>
+			</sg>
+			<sg number="3">
+				<word number="1">out of one's won head</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="by choice" headRef="636">by choice</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="intentionally" headRef="649">purposely</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="deliberately" headRef="639">deliberately</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="stet pro ratione voluntas">
+			<sg number="1">
+				<word number="1">stet pro ratione voluntas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sic volo sic jubeo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a vostro beneplacito</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beneficium accipere libertatem est vendere</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Deus vult</word>
+			</sg>
+			<sg number="6">
+				<word number="1">was man nicht kann meiden muss man willig leiden</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

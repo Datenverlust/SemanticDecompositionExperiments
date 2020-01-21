@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="692" name="Bane" origNum="#663." class="6" section="2" subSection="2" headGroup="20">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="bane">
+			<sg number="1">
+				<word number="1">bane</word>
+				<word number="2">curse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="evil" headRef="648">evil</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="badness" headRef="678">hurtfulness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cause of pain" headRef="868">painfulness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="punishment" headRef="1015">scourge</word>
+			</sg>
+			<sg number="6">
+				<word number="1">damnosa hereditas</word>
+			</sg>
+			<sg number="7">
+				<word number="1">white elephant</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sting">
+			<sg number="1">
+				<word number="1">sting</word>
+				<word number="2">fang</word>
+				<word number="3">thorn</word>
+				<word number="4">tang</word>
+				<word number="5">bramble</word>
+				<word number="6">brier</word>
+				<word number="7">nettle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="poison">
+			<sg number="1">
+				<word number="1">poison</word>
+				<word number="2">toxin</word>
+			</sg>
+			<sg number="2">
+				<word number="1">teratogen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leaven</word>
+				<word number="2">virus venom</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arsenic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">antimony</word>
+				<word number="2">tartar emetic</word>
+			</sg>
+			<sg number="6">
+				<word number="1">strychnine</word>
+				<word number="2">nicotine</word>
+			</sg>
+			<sg number="7">
+				<word number="1">miasma</word>
+				<word number="2">miasm</word>
+				<word number="3">mephitis</word>
+				<word number="4">malaria</word>
+				<word number="5">azote</word>
+				<word number="6">sewer gas</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="[poisonous substances">
+			<sg number="1">
+				<word number="1">Albany hemp</word>
+				<word number="2">arsenious oxide</word>
+				<word number="3">arsenious  acid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bichloride of mercury</word>
+			</sg>
+			<sg number="3">
+				<word number="1">carbonic acid</word>
+				<word number="2">carbonic  gas</word>
+			</sg>
+			<sg number="4">
+				<word number="1">choke damp</word>
+				<word number="2">corrosive sublimate</word>
+				<word number="3">fire damp</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hydrocyanic acid</word>
+				<word number="2">cyanide</word>
+				<word number="3">Prussic acid</word>
+				<word number="4">hydrogen cyanide</word>
+			</sg>
+			<sg number="6">
+				<word number="1">marsh gas</word>
+				<word number="2">nux vomica</word>
+				<word number="3">ratsbane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="hemlock">
+			<sg number="1">
+				<word number="1">hemlock</word>
+				<word number="2">hellebore</word>
+				<word number="3">nightshade</word>
+				<word number="4">belladonna</word>
+				<word number="5">henbane</word>
+				<word number="6">aconite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">banewort</word>
+				<word number="2">bhang</word>
+				<word number="3">ganja</word>
+				<word number="4">hashish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Upas tree</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="Toxline">
+			<sg number="1">
+				<word number="1">Toxline</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="rust">
+			<sg number="1">
+				<word number="1">rust</word>
+				<word number="2">worm</word>
+				<word number="3">helminth</word>
+				<word number="4">moth</word>
+				<word number="5">moth and rust</word>
+				<word number="6">fungus</word>
+				<word number="7">mildew</word>
+				<word number="8" new="1">wheellock</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dry rot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">canker</word>
+				<word number="2">cankerworm</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cancer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">torpedo</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="evil doer" headRef="953">viper</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="demon" headRef="1023">demon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="toxicology">
+			<sg number="1">
+				<word number="1">toxicology</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="baneful">
+			<sg number="1">
+				<word number="1" paraRef="bad" headRef="678">baneful</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unwholesome" headRef="686">poisonous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="bibere venenum in auro">
+			<sg number="1">
+				<word number="1">bibere venenum in auro</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

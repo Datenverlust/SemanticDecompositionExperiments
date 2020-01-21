@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="407" name="Saltiness" origNum="#392a." class="3" section="3" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="saltiness">
+			<sg number="1">
+				<word number="1">saltiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="niter">
+			<sg number="1">
+				<word number="1">niter</word>
+				<word number="2">saltpeter</word>
+				<word number="3">brine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="salty">
+			<sg number="1">
+				<word number="1">salty</word>
+				<word number="2">salt</word>
+				<word number="3">saline</word>
+				<word number="4">brackish</word>
+				<word number="5">briny</word>
+				<word number="6" new="1">adherent</word>
+				<word number="7" new="1">stepping</word>
+				<word number="8" new="1">functionally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">salty as brine</word>
+				<word number="2">salty as a herring</word>
+				<word number="3">salty as Lot's wife</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="salty">
+			<sg number="1">
+				<word number="1">salty</word>
+				<word number="2" paraRef="indecent" headRef="1004">racy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="take it with a grain of salt">
+			<sg number="1">
+				<word number="1">take it with a grain of salt</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

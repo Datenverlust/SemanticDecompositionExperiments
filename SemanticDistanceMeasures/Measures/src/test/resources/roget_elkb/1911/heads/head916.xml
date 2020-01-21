@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="916" name="Title" origNum="#877." class="8" section="2" subSection="5" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="title">
+			<sg number="1">
+				<word number="1">title</word>
+				<word number="2">honor</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="nobility" headRef="914">knighthood</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="highness">
+			<sg number="1">
+				<word number="1">highness</word>
+				<word number="2">excellency</word>
+				<word number="3">grace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lordship</word>
+				<word number="2">worship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reverence</word>
+				<word number="2">reverend</word>
+			</sg>
+			<sg number="4">
+				<word number="1">esquire</word>
+				<word number="2">sir</word>
+				<word number="3">master</word>
+				<word number="4">Mr</word>
+				<word number="5">signor</word>
+				<word number="6">senor</word>
+				<word number="7">Mein Herr</word>
+				<word number="8">mynheer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">your honor</word>
+				<word number="2">his honor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">serene highness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">handle to one's name</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="decoration">
+			<sg number="1">
+				<word number="1">decoration</word>
+				<word number="2">laurel</word>
+				<word number="3">palm</word>
+				<word number="4">wreath</word>
+				<word number="5">garland</word>
+				<word number="6">bays</word>
+				<word number="7">medal</word>
+				<word number="8">ribbon</word>
+				<word number="9">riband</word>
+				<word number="10">blue ribbon</word>
+				<word number="11">cordon</word>
+				<word number="12">cross</word>
+				<word number="13">crown</word>
+				<word number="14">coronet</word>
+				<word number="15">star</word>
+				<word number="16">garter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">feather</word>
+				<word number="2">feather in one,s cap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">epaulet</word>
+				<word number="2">epaulette</word>
+				<word number="3">colors</word>
+				<word number="4">cockade</word>
+			</sg>
+			<sg number="4">
+				<word number="1">livery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">order</word>
+				<word number="2">arms</word>
+				<word number="3">shield</word>
+				<word number="4">scutcheon</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="reward" headRef="1016">reward</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

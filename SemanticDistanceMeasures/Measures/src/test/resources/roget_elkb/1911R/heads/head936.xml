@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="936" name="Love" origNum="#897." class="8" section="3" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="love">
+			<sg number="1">
+				<word number="1">love</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">fondness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">liking</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="desire" headRef="904">inclination</word>
+			</sg>
+			<sg number="5">
+				<word number="1">regard</word>
+				<word number="2">dilection</word>
+				<word number="3">admiration</word>
+				<word number="4">fancy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="affection">
+			<sg number="1">
+				<word number="1">affection</word>
+				<word number="2">sympathy</word>
+				<word number="3">fellow-feeling</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">tenderness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heart</word>
+				<word number="2">brotherly love</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="benevolence" headRef="946">benevolence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">attachment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="yearning">
+			<sg number="1">
+				<word number="1">yearning</word>
+				<word number="2">tender passion</word>
+				<word number="3">amour</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gyneolatry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gallantry</word>
+				<word number="2">passion</word>
+				<word number="3">flame</word>
+				<word number="4">devotion</word>
+				<word number="5">fervor</word>
+				<word number="6">enthusiasm</word>
+				<word number="7">transport of love</word>
+				<word number="8">rapture</word>
+				<word number="9">enchantment</word>
+				<word number="10">infatuation</word>
+				<word number="11">adoration</word>
+				<word number="12">idolatry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Cupid">
+			<sg number="1">
+				<word number="1">Cupid</word>
+				<word number="2">Venus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">myrtle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">true lover's knot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">love token</word>
+				<word number="2">love suit</word>
+				<word number="3">love affair</word>
+				<word number="4">love tale</word>
+				<word number="5">love story</word>
+			</sg>
+			<sg number="5">
+				<word number="1">the</word>
+				<word number="2">old story</word>
+				<word number="3">plighted love</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="courtship" headRef="942">courtship</word>
+			</sg>
+			<sg number="7">
+				<word number="1">amourette</word>
+			</sg>
+			<sg number="8">
+				<word number="1">free love</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="maternal love">
+			<sg number="1">
+				<word number="1">maternal love</word>
+				<word number="2">parental love</word>
+			</sg>
+			<sg number="2">
+				<word number="1">young love</word>
+				<word number="2">puppy love</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="attractiveness">
+			<sg number="1">
+				<word number="1">attractiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">popularity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="favorite" headRef="938">favorite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="lover">
+			<sg number="1">
+				<word number="1">lover</word>
+				<word number="2">suitor</word>
+				<word number="3">follower</word>
+				<word number="4">admirer</word>
+				<word number="5">adorer</word>
+				<word number="6">wooer</word>
+				<word number="7">amoret</word>
+				<word number="8">beau</word>
+				<word number="9">sweetheart</word>
+				<word number="10">inamorato</word>
+				<word number="11">swain</word>
+				<word number="12">young man</word>
+				<word number="13">flame</word>
+				<word number="14">love</word>
+				<word number="15">truelove</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leman</word>
+				<word number="2">Lothario</word>
+				<word number="3">gallant</word>
+				<word number="4">paramour</word>
+				<word number="5">amoroso</word>
+				<word number="6">cavaliere servente</word>
+				<word number="7">captive</word>
+				<word number="8">cicisbeo</word>
+			</sg>
+			<sg number="3">
+				<word number="1">caro sposo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="inamorata">
+			<sg number="1">
+				<word number="1">inamorata</word>
+				<word number="2">ladylove</word>
+				<word number="3">idol</word>
+				<word number="4">darling</word>
+				<word number="5">duck</word>
+				<word number="6">Dulcinea</word>
+				<word number="7">angel</word>
+				<word number="8">goddess</word>
+				<word number="9">cara sposa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="betrothed">
+			<sg number="1">
+				<word number="1">betrothed</word>
+				<word number="2">affianced</word>
+				<word number="3">fiancee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="flirt">
+			<sg number="1">
+				<word number="1">flirt</word>
+				<word number="2">coquette</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amorette</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pair of turtledoves</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abode of love</word>
+				<word number="2">agapemone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="adpositions">
+			<sg number="1">
+				<word number="1" new="1">adpositions</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="pacesetter">
+			<sg number="1">
+				<word number="1" new="1">pacesetter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="polychromy">
+			<sg number="1">
+				<word number="1" new="1">polychromy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="calamity">
+			<sg number="1">
+				<word number="1" new="1">calamity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="love">
+			<sg number="1">
+				<word number="1">love</word>
+				<word number="2">like</word>
+				<word number="3">affect</word>
+				<word number="4">fancy</word>
+				<word number="5">care for</word>
+				<word number="6">take an interest in</word>
+				<word number="7">be partial to</word>
+				<word number="8">sympathize with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affection</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">be in love with</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">have a love</word>
+				<word number="2" paraRef="" posRef="n.">entertain a love</word>
+				<word number="3" paraRef="" posRef="n.">harbor  cherish a love</word>
+			</sg>
+			<sg number="5">
+				<word number="1">regard</word>
+				<word number="2">revere</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take to</word>
+				<word number="2">bear love to</word>
+				<word number="3">be wedded to</word>
+			</sg>
+			<sg number="7">
+				<word number="1">set one's affections on</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make much of</word>
+				<word number="2">feast one's eyes on</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hold dear</word>
+				<word number="2">prize</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hug</word>
+				<word number="2">cling to</word>
+				<word number="3">cherish</word>
+				<word number="4">pet</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">battle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="burn">
+			<sg number="1">
+				<word number="1">burn</word>
+			</sg>
+			<sg number="2">
+				<word number="1">adore</word>
+				<word number="2">idolize</word>
+				<word number="3">love to distraction</word>
+				<word number="4">aimer eperdument</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dote on</word>
+				<word number="2">dote upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take a fancy to</word>
+				<word number="2">look sweet upon</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">become enamored</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fall in love with</word>
+				<word number="2">lose one's heart</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="desire" headRef="904">desire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="excite love">
+			<sg number="1">
+				<word number="1">excite love</word>
+			</sg>
+			<sg number="2">
+				<word number="1">win the heart</word>
+				<word number="2">gain the heart</word>
+				<word number="3">win the affections</word>
+				<word number="4">gain the affections</word>
+				<word number="5">secure the love</word>
+				<word number="6">engage the affections</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take the fancy of have a place in the heart</word>
+				<word number="2">wind round the heart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">attract</word>
+				<word number="2">attach</word>
+				<word number="3">endear</word>
+				<word number="4">charm</word>
+				<word number="5">fascinate</word>
+				<word number="6">captivate</word>
+				<word number="7">bewitch</word>
+				<word number="8">seduce</word>
+				<word number="9">enamor</word>
+				<word number="10">enrapture</word>
+				<word number="11">turn the head</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="get into favor">
+			<sg number="1">
+				<word number="1">get into favor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ingratiate oneself</word>
+				<word number="2">insinuate oneself</word>
+				<word number="3">worm oneself</word>
+			</sg>
+			<sg number="3">
+				<word number="1">propitiate</word>
+				<word number="2">curry favor with</word>
+				<word number="3">pay one's court to</word>
+				<word number="4">faire l'aimable</word>
+				<word number="5">set one's cap at</word>
+				<word number="6">flirt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="loving">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">loving</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fond of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">taken with</word>
+				<word number="2">struck with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smitten</word>
+				<word number="2">bitten</word>
+			</sg>
+			<sg number="5">
+				<word number="1">attached to</word>
+				<word number="2">wedded to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">enamored</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">charmed</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in love</word>
+			</sg>
+			<sg number="9">
+				<word number="1">love-sick</word>
+			</sg>
+			<sg number="10">
+				<word number="1">over head and ears in love</word>
+				<word number="2">head over heels in love</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="affectionate">
+			<sg number="1">
+				<word number="1">affectionate</word>
+				<word number="2">tender</word>
+				<word number="3">sweet upon</word>
+				<word number="4">sympathetic</word>
+				<word number="5">loving</word>
+				<word number="6" new="1">dwarfish</word>
+				<word number="7" new="1">panicky</word>
+				<word number="8" new="1">euhemerized</word>
+				<word number="9" new="1">denigrating</word>
+			</sg>
+			<sg number="2">
+				<word number="1">amorous</word>
+				<word number="2">amatory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fond</word>
+				<word number="2">erotic</word>
+				<word number="3">uxorious</word>
+				<word number="4">ardent</word>
+				<word number="5">passionate</word>
+				<word number="6">rapturous</word>
+				<word number="7">devoted</word>
+				<word number="8">motherly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="loved">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">loved</word>
+				<word number="2">dearly beloved</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dear</word>
+				<word number="2">precious</word>
+				<word number="3">darling</word>
+				<word number="4">pet</word>
+				<word number="5">little</word>
+			</sg>
+			<sg number="3">
+				<word number="1">favorite</word>
+				<word number="2">popular</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="congenial">
+			<sg number="1">
+				<word number="1">congenial</word>
+			</sg>
+			<sg number="2">
+				<word number="1">after one's mind</word>
+				<word number="2">after one's taste</word>
+				<word number="3">after one's fancy</word>
+				<word number="4">after one's own heart</word>
+				<word number="5">to one's mind</word>
+				<word number="6">to one's taste</word>
+				<word number="7">to one's fancy</word>
+				<word number="8">to one's own heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="in one's good graces">
+			<sg number="1">
+				<word number="1" paraRef="friendly" headRef="927">in one's good graces</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dear as the apple of one's eye</word>
+				<word number="2">nearest to one's heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="lovable">
+			<sg number="1">
+				<word number="1">lovable</word>
+				<word number="2">adorable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lovely</word>
+				<word number="2">sweet</word>
+			</sg>
+			<sg number="3">
+				<word number="1">attractive</word>
+				<word number="2">seductive</word>
+				<word number="3">winning</word>
+			</sg>
+			<sg number="4">
+				<word number="1">charming</word>
+				<word number="2">engaging</word>
+				<word number="3">interesting</word>
+				<word number="4">enchanting</word>
+				<word number="5">captivating</word>
+				<word number="6">fascinating</word>
+				<word number="7">bewitching</word>
+				<word number="8" new="1">reactivated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">amiable</word>
+				<word number="2">like an angel</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">fool</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="hellish">
+			<sg number="1">
+				<word number="1" new="1">hellish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="grecian">
+			<sg number="1">
+				<word number="1" new="1">grecian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="amantes amentes">
+			<sg number="1">
+				<word number="1">amantes amentes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">credula res amor est</word>
+			</sg>
+			<sg number="3">
+				<word number="1">militat omnis amasius</word>
+			</sg>
+			<sg number="4">
+				<word number="1">love conquers all</word>
+				<word number="2">omnia vincit amor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">si vis amari ama</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the sweetest joy</word>
+				<word number="2">the wildest woe"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

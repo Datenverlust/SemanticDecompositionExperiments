@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="417" name="Fetor" origNum="#401." class="3" section="3" subSection="2" headGroup="17">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fetor">
+			<sg number="1">
+				<word number="1">fetor</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">bad</word>
+				<word number="2">bad odor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stench</word>
+				<word number="2">stink</word>
+			</sg>
+			<sg number="4">
+				<word number="1">foul odor</word>
+				<word number="2">malodor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">empyreuma</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="adj.">mustiness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rancidity</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="uncleanness" headRef="682">foulness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stoat">
+			<sg number="1">
+				<word number="1">stoat</word>
+				<word number="2">polecat</word>
+				<word number="3">skunk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">assafoetida</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fungus</word>
+				<word number="2">garlic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stinkpot</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fitchet</word>
+				<word number="2">fitchew</word>
+				<word number="3">fourmart</word>
+				<word number="4">peccary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="acridity">
+			<sg number="1">
+				<word number="1" paraRef="acridity" headRef="418">acridity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have a bad smell">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">have a bad smell</word>
+			</sg>
+			<sg number="2">
+				<word number="1">smell</word>
+			</sg>
+			<sg number="3">
+				<word number="1">stink</word>
+				<word number="2">stink in the nostrils</word>
+				<word number="3">stink like a polecat</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">smell strong</word>
+				<word number="2">smell offensively</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fetid">
+			<sg number="1">
+				<word number="1">fetid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">strong-smelling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high</word>
+				<word number="2">bad</word>
+				<word number="3">strong</word>
+				<word number="4">fulsome</word>
+				<word number="5">offensive</word>
+				<word number="6">noisome</word>
+				<word number="7">rank</word>
+				<word number="8">rancid</word>
+				<word number="9">reasty</word>
+				<word number="10">tainted</word>
+				<word number="11">musty</word>
+				<word number="12">fusty</word>
+				<word number="13">frouzy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">olid</word>
+				<word number="2">olidous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nidorous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">smelling</word>
+				<word number="2">stinking</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="putrid" headRef="682">putrid</word>
+			</sg>
+			<sg number="8">
+				<word number="1">suffocating</word>
+				<word number="2">mephitic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">empyreumatic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

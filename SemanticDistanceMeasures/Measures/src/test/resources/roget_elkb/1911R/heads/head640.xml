@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="640" name="Impulse" origNum="#612." class="6" section="1" subSection="1" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="impulse">
+			<sg number="1">
+				<word number="1">impulse</word>
+				<word number="2">sudden thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impromptu</word>
+				<word number="2">improvisation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inspiration</word>
+				<word number="2">flash</word>
+				<word number="3">spurt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="improvisatore">
+			<sg number="1">
+				<word number="1">improvisatore</word>
+			</sg>
+			<sg number="2">
+				<word number="1">creature of impulse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="flash on the mind">
+			<sg number="1">
+				<word number="1">flash on the mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="say what comes uppermost">
+			<sg number="1">
+				<word number="1">say what comes uppermost</word>
+			</sg>
+			<sg number="2">
+				<word number="1">improvise</word>
+				<word number="2">extemporize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="extemporaneous">
+			<sg number="1">
+				<word number="1">extemporaneous</word>
+				<word number="2">impulsive</word>
+				<word number="3">indeliberate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">snap</word>
+			</sg>
+			<sg number="3">
+				<word number="1">improvised</word>
+				<word number="2">improvisate</word>
+				<word number="3">improvisatory</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unpremeditated</word>
+				<word number="2">unmeditated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">improvise</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unprompted</word>
+				<word number="2">unguided</word>
+			</sg>
+			<sg number="7">
+				<word number="1">natural</word>
+				<word number="2">unguarded</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="voluntary" headRef="626">spontaneous</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="instinctive" headRef="627">instinctive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="extempore">
+			<sg number="1">
+				<word number="1">extempore</word>
+				<word number="2">extemporaneously</word>
+			</sg>
+			<sg number="2">
+				<word number="1">offhand</word>
+				<word number="2">impromptu</word>
+				<word number="3">a limproviste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">improviso</word>
+			</sg>
+			<sg number="4">
+				<word number="1">on the spur of the moment</word>
+				<word number="2">on the spur of the occasion</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

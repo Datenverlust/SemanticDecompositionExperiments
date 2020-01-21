@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="728" name="Unskillfulness" origNum="#699." class="6" section="3" subSection="2" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unskillfulness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">unskillfulness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="skill" headRef="727">want of skill</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incompetence</word>
+				<word number="2">incompentency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inability</word>
+				<word number="2">infelicity</word>
+				<word number="3">indexterity</word>
+				<word number="4">inexperience</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disqualification</word>
+				<word number="2">unproficiency</word>
+			</sg>
+			<sg number="6">
+				<word number="1">quackery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="folly">
+			<sg number="1">
+				<word number="1">folly</word>
+				<word number="2" paraRef="stupidity" headRef="523">stupidity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="rashness" headRef="902">indiscretion</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inattention" headRef="478">thoughtlessness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sabotage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mismanagement">
+			<sg number="1">
+				<word number="1">mismanagement</word>
+				<word number="2">misconduct</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impolicy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">maladministration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">misrule</word>
+				<word number="2">misgovernment</word>
+				<word number="3">misapplication</word>
+				<word number="4">misdirection</word>
+				<word number="5">misfeasance</word>
+			</sg>
+			<sg number="5">
+				<word number="1">petticoat government</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">cartwheel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="absence of rule">
+			<sg number="1">
+				<word number="1">absence of rule</word>
+				<word number="2">rule of thumb</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">bungling</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="failure" headRef="761">failure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">screw loose</word>
+			</sg>
+			<sg number="5">
+				<word number="1">too many cooks</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="blunder">
+			<sg number="1">
+				<word number="1" paraRef="mistake" headRef="519">blunder</word>
+			</sg>
+			<sg number="2">
+				<word number="1">etourderie gaucherie</word>
+				<word number="2">act of folly</word>
+				<word number="3">balourdise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">botch</word>
+				<word number="2">botchery</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bad job</word>
+				<word number="2">sad work</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sprat sent out to catch a whale">
+			<sg number="1">
+				<word number="1">sprat sent out to catch a whale</word>
+				<word number="2">much ado about nothing</word>
+				<word number="3">wild-goose chase</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="bungler">
+			<sg number="1">
+				<word number="1" paraRef="bungler" headRef="730">bungler</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fool" headRef="525">fool</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be unskillful">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be unskillful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not see an inch beyond one's nose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blunder</word>
+				<word number="2">bungle</word>
+				<word number="3">boggle</word>
+				<word number="4">fumble</word>
+				<word number="5">botch</word>
+				<word number="6">bitch</word>
+				<word number="7">flounder</word>
+				<word number="8">stumble</word>
+				<word number="9">trip</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="hobble" headRef="286">hobble</word>
+			</sg>
+			<sg number="5">
+				<word number="1">put one's foot in it</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make a mess of</word>
+				<word number="2">make hash of</word>
+				<word number="3">make sad work of</word>
+			</sg>
+			<sg number="7">
+				<word number="1">overshoot the mark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="play tricks with">
+			<sg number="1">
+				<word number="1">play tricks with</word>
+				<word number="2">play Puck</word>
+				<word number="3">mismanage</word>
+				<word number="4">misconduct</word>
+				<word number="5">misdirect</word>
+				<word number="6">misapply</word>
+				<word number="7">missend</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="stultify oneself">
+			<sg number="1">
+				<word number="1">stultify oneself</word>
+				<word number="2">make a fool of oneself</word>
+				<word number="3">commit oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">act foolishly</word>
+			</sg>
+			<sg number="3">
+				<word number="1">play the fool</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put oneself out of court</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lose control</word>
+				<word number="2">lose control of oneself</word>
+				<word number="3">lose one's head</word>
+				<word number="4">lose one's cunning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="begin at the wrong end">
+			<sg number="1">
+				<word number="1">begin at the wrong end</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="not complete" headRef="759">do things by halves</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make two bites of a cherry</word>
+			</sg>
+			<sg number="4">
+				<word number="1">play at cross purposes</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="caprice" headRef="635">strain at a gnat and swallow a camel</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put the cart before the horse</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="too late for" headRef="142">lock the stable door when the horse is stolen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="not know what one is about">
+			<sg number="1">
+				<word number="1">not know what one is about</word>
+				<word number="2">not know one's own interest</word>
+				<word number="3">not know on which side one's bread is buttered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stand in one's own light</word>
+				<word number="2">quarrel with one's bread and butter</word>
+				<word number="3">throw a stone in one's own garden</word>
+				<word number="4">kill the goose which lays the golden eggs</word>
+				<word number="5">pay dear for one's whistle</word>
+				<word number="6">cut one's own throat</word>
+				<word number="7">bum one's fingers</word>
+			</sg>
+			<sg number="3">
+				<word number="1">knock one's head against a stone wall</word>
+				<word number="2">beat one's head against a stone wall</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fall into a trap</word>
+				<word number="2">catch a Tartar</word>
+				<word number="3">bring the house about one's ears</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="imprudent" headRef="902">have too many eggs in one basket</word>
+				<word number="2">have too many irons in the fire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="mistake">
+			<sg number="1">
+				<word number="1" paraRef="mistake" headRef="519">mistake</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="credulity" headRef="510">take the shadow for the substance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bark up the wrong tree</word>
+			</sg>
+			<sg number="4">
+				<word number="1">be in the wrong box</word>
+				<word number="2">aim at a pigeon and kill a crow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take the wrong pig by the tail</word>
+				<word number="2">get the wrong pig by the tail</word>
+				<word number="3">get the wrong sow by the ear</word>
+				<word number="4">get the dirty end of the stick</word>
+			</sg>
+			<sg number="6">
+				<word number="1">put the saddle on the wrong horse</word>
+				<word number="2">put  a square peg into a round hole</word>
+				<word number="3">put new wine into old bottles</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cut blocks with a razor">
+			<sg number="1">
+				<word number="1">cut blocks with a razor</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="useless" headRef="674">hold a farthing candle to the sun</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fight with a shadow</word>
+				<word number="2">grasp at a shadow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catch at straws</word>
+				<word number="2">lean on a broken reed</word>
+				<word number="3">reckon without one's host</word>
+				<word number="4">pursue a wild goose chase</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go on a fool's goose chase</word>
+				<word number="2">sleeveless errand</word>
+			</sg>
+			<sg number="6">
+				<word number="1">go further and fare worse</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lose one's way</word>
+				<word number="2">miss one's way</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="fail" headRef="761">fail</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unskilled">
+			<sg number="1">
+				<word number="1">unskilled</word>
+				<word number="2" paraRef="skillful" headRef="727">unskillful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inexpert</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">bungling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">awkward</word>
+				<word number="2">clumsy</word>
+				<word number="3">unhandy</word>
+				<word number="4">lubberly</word>
+				<word number="5">gauche</word>
+				<word number="6">maladroit</word>
+			</sg>
+			<sg number="5">
+				<word number="1">left-handed</word>
+				<word number="2">heavy-handed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">slovenly</word>
+				<word number="2">slatternly</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gawky</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="adrift">
+			<sg number="1">
+				<word number="1">adrift</word>
+				<word number="2">at fault</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="inapt">
+			<sg number="1">
+				<word number="1">inapt</word>
+				<word number="2">unapt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inhabile</word>
+			</sg>
+			<sg number="3">
+				<word number="1">untractable</word>
+				<word number="2">unteachable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="inattentive" headRef="478">giddy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="neglectful" headRef="480">inconsiderate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="stupid" headRef="523">stupid</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="inactive" headRef="712">inactive</word>
+			</sg>
+			<sg number="8">
+				<word number="1">incompetent</word>
+			</sg>
+			<sg number="9">
+				<word number="1">unqualified</word>
+				<word number="2">disqualified</word>
+				<word number="3">ill-qualified</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unfit</word>
+			</sg>
+			<sg number="11">
+				<word number="1">quackish</word>
+			</sg>
+			<sg number="12">
+				<word number="1">raw</word>
+				<word number="2">green</word>
+				<word number="3">inexperienced</word>
+				<word number="4">rusty</word>
+				<word number="5">out of practice</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">nacreous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unaccustomed">
+			<sg number="1">
+				<word number="1">unaccustomed</word>
+				<word number="2">unused</word>
+				<word number="3" paraRef="train" headRef="563">untrained</word>
+				<word number="4">uninitiated</word>
+				<word number="5" paraRef="ignorant" headRef="515">unconversant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shiftless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unstatesmanlike</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="unadvised">
+			<sg number="1">
+				<word number="1">unadvised</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ill-advised</word>
+				<word number="2">misadvised</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ill-devised</word>
+				<word number="2">ill-imagined</word>
+				<word number="3">ill- judged</word>
+				<word number="4">ill-contrived</word>
+				<word number="5">ill-conducted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unguided</word>
+				<word number="2">misguided</word>
+			</sg>
+			<sg number="5">
+				<word number="1">misconducted</word>
+				<word number="2">foolish</word>
+				<word number="3">wild</word>
+			</sg>
+			<sg number="6">
+				<word number="1">infelicitous</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="inconsistent" headRef="635">penny wise and pound foolish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="global">
+			<sg number="1">
+				<word number="1" new="1">global</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="ejective">
+			<sg number="1">
+				<word number="1" new="1">ejective</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's fingers being all thumbs">
+			<sg number="1">
+				<word number="1">one's fingers being all thumbs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the right hand forgets its cunning</word>
+			</sg>
+			<sg number="3">
+				<word number="1">il se noyerait dans une goutte d'eau</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incidit in Scyllam qui vult vitare Charybdim</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of the frying pan into the fire</word>
+			</sg>
+			<sg number="6">
+				<word number="1">non omnia possumus omnes</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1029" name="Judeo-Christian Revelation" origNum="#985." class="8" section="5" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="revelation">
+			<sg number="1">
+				<word number="1">revelation</word>
+				<word number="2">inspiration</word>
+				<word number="3">afflatus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">theophany</word>
+				<word number="2">theopneusty</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="Word">
+			<sg number="1">
+				<word number="1">Word</word>
+				<word number="2">Word of God</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Scripture</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the Scriptures</word>
+				<word number="2">the Bible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Holy Writ</word>
+				<word number="2">Holy Scriptures</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inspired writings</word>
+				<word number="2">Gospel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Old Testament">
+			<sg number="1">
+				<word number="1">Old Testament</word>
+				<word number="2">Septuagint</word>
+				<word number="3">Vulgate</word>
+				<word number="4">Pentateuch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Octateuch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the Law</word>
+				<word number="2">the Jewish Law</word>
+				<word number="3">the Prophets</word>
+			</sg>
+			<sg number="4">
+				<word number="1">major Prophets</word>
+				<word number="2">minor Prophets</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Hagiographa</word>
+				<word number="2">Hagiology</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Hierographa</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Apocrypha</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="New Testament">
+			<sg number="1">
+				<word number="1">New Testament</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Gospels</word>
+				<word number="2">Evangelists</word>
+				<word number="3">Acts</word>
+				<word number="4">Epistles</word>
+				<word number="5">Apocalypse</word>
+				<word number="6">Revelations</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Talmud">
+			<sg number="1">
+				<word number="1">Talmud</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Mishna</word>
+				<word number="2">Masorah</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="prophet">
+			<sg number="1">
+				<word number="1" paraRef="seer" headRef="537">prophet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evangelist</word>
+				<word number="2">apostle</word>
+				<word number="3">disciple</word>
+				<word number="4">saint</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the Fathers</word>
+				<word number="2">the Apostolical Fathers</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Holy Men of old</word>
+				<word number="2">inspired penmen</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="scriptural">
+			<sg number="1">
+				<word number="1">scriptural</word>
+				<word number="2">biblical</word>
+				<word number="3">sacred</word>
+				<word number="4">prophetic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evangelical</word>
+				<word number="2">evangelistic</word>
+			</sg>
+			<sg number="3">
+				<word number="1">apostolic</word>
+				<word number="2">apostolical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inspired</word>
+				<word number="2">theopneustic</word>
+				<word number="3">theophneusted</word>
+				<word number="4">apocalyptic</word>
+				<word number="5">ecclesiastical</word>
+				<word number="6">canonical</word>
+				<word number="7">textuary</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

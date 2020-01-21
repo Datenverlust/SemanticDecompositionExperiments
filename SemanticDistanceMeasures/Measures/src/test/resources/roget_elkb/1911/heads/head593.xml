@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="593" name="Grammar" origNum="#567." class="5" section="3" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="grammar">
+			<sg number="1">
+				<word number="1">grammar</word>
+				<word number="2">accidence</word>
+				<word number="3">syntax</word>
+				<word number="4">praxis</word>
+				<word number="5">punctuation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parts of speech</word>
+			</sg>
+			<sg number="3">
+				<word number="1">jussive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">syllabication</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inflection</word>
+				<word number="2">case</word>
+				<word number="3">declension</word>
+				<word number="4">conjugation</word>
+			</sg>
+			<sg number="6">
+				<word number="1">us et norma loquendi</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="schoolbook" headRef="568">Lindley Murray</word>
+			</sg>
+			<sg number="8">
+				<word number="1">correct style</word>
+				<word number="2" paraRef="language" headRef="586">philology</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="parse">
+			<sg number="1">
+				<word number="1">parse</word>
+				<word number="2">punctuate</word>
+				<word number="3">syllabicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

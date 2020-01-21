@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="441" name="Luminary" origNum="#423." class="3" section="3" subSection="2" headGroup="28">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="luminary">
+			<sg number="1">
+				<word number="1">luminary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="light" headRef="438">light</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fire" headRef="395">flame</word>
+				<word number="2">scintilla</word>
+			</sg>
+			<sg number="4">
+				<word number="1">phosphorescence</word>
+				<word number="2">fluorescence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sun">
+			<sg number="1">
+				<word number="1">sun</word>
+				<word number="2">orb of day</word>
+				<word number="3">Phoebus</word>
+				<word number="4">Apollo</word>
+				<word number="5">Aurora</word>
+			</sg>
+			<sg number="2">
+				<word number="1">star</word>
+				<word number="2">orb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meteor</word>
+				<word number="2">falling star</word>
+				<word number="3">shooting star</word>
+			</sg>
+			<sg number="4">
+				<word number="1">blazing star</word>
+				<word number="2">dog star</word>
+				<word number="3">Sirius</word>
+			</sg>
+			<sg number="5">
+				<word number="1">canicula</word>
+				<word number="2">Aldebaran</word>
+			</sg>
+			<sg number="6">
+				<word number="1">constellation</word>
+				<word number="2">galaxy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">zodiacal light</word>
+			</sg>
+			<sg number="8">
+				<word number="1">anthelion</word>
+			</sg>
+			<sg number="9">
+				<word number="1">day star</word>
+				<word number="2">morning star</word>
+			</sg>
+			<sg number="10">
+				<word number="1">Lucifer</word>
+			</sg>
+			<sg number="11">
+				<word number="1">mock sun</word>
+				<word number="2">parhelion</word>
+			</sg>
+			<sg number="12">
+				<word number="1">phosphor</word>
+				<word number="2">phosphorus</word>
+			</sg>
+			<sg number="13">
+				<word number="1">sun dog!</word>
+			</sg>
+			<sg number="14">
+				<word number="1">Venus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aurora">
+			<sg number="1">
+				<word number="1">aurora</word>
+				<word number="2">polar lights</word>
+			</sg>
+			<sg number="2">
+				<word number="1">northern lights</word>
+				<word number="2">aurora borealis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">southern lights</word>
+				<word number="2">aurora australis</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lightning">
+			<sg number="1">
+				<word number="1">lightning</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chain lightning</word>
+				<word number="2">fork lightning</word>
+				<word number="3">sheet lightning</word>
+				<word number="4">summer lightning</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ball lightning</word>
+				<word number="2">kugelblitz</word>
+			</sg>
+			<sg number="4">
+				<word number="1">phosphorus</word>
+				<word number="2">yellow phosphorus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">scintillator</word>
+				<word number="2">phosphor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">firefly luminescence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ignis fatuus">
+			<sg number="1">
+				<word number="1">ignis fatuus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Jack o'lantern</word>
+				<word number="2">Friar's lantern</word>
+			</sg>
+			<sg number="3">
+				<word number="1">will-o'-the-wisp</word>
+				<word number="2">firedrake</word>
+				<word number="3">Fata Morgana</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Saint Elmo's fire</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="glowworm">
+			<sg number="1">
+				<word number="1">glowworm</word>
+				<word number="2">firefly</word>
+				<word number="3">June bug</word>
+				<word number="4">lightning bug</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="anglerfish">
+			<sg number="1">
+				<word number="1">anglerfish</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="gas">
+			<sg number="1">
+				<word number="1">gas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gas light</word>
+				<word number="2">lime light</word>
+				<word number="3">lantern</word>
+				<word number="4">lanthorn</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dark lantern</word>
+				<word number="2">bull's-eye</word>
+			</sg>
+			<sg number="4">
+				<word number="1">candle</word>
+				<word number="2">bougie</word>
+				<word number="3">taper</word>
+				<word number="4">rushlight</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="grease" headRef="367">oil</word>
+			</sg>
+			<sg number="6">
+				<word number="1">wick</word>
+				<word number="2">burner</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Argand</word>
+				<word number="2">moderator</word>
+				<word number="3">duplex</word>
+			</sg>
+			<sg number="8">
+				<word number="1">torch</word>
+				<word number="2">flambeau</word>
+				<word number="3">link</word>
+				<word number="4">brand</word>
+			</sg>
+			<sg number="9">
+				<word number="1">gaselier</word>
+				<word number="2">chandelier</word>
+				<word number="3">electrolier</word>
+				<word number="4">candelabrum</word>
+				<word number="5">candelabra</word>
+				<word number="6">girandole</word>
+				<word number="7">sconce</word>
+				<word number="8">luster</word>
+				<word number="9">candlestick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="lamp">
+			<sg number="1">
+				<word number="1">lamp</word>
+				<word number="2">light</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incandescent lamp</word>
+				<word number="2">tungsten bulb</word>
+				<word number="3">light bulb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flashlight</word>
+				<word number="2">torch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arc light</word>
+			</sg>
+			<sg number="5">
+				<word number="1">laser</word>
+			</sg>
+			<sg number="6">
+				<word number="1">maser</word>
+			</sg>
+			<sg number="7">
+				<word number="1">neon bulb</word>
+				<word number="2">neon sign</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fluorescent lamp</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="filament">
+			<sg number="1">
+				<word number="1">filament</word>
+			</sg>
+			<sg number="2">
+				<word number="1">socket</word>
+			</sg>
+			<sg number="3">
+				<word number="1">contacts</word>
+			</sg>
+			<sg number="4">
+				<word number="1">filler gas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="firework">
+			<sg number="1">
+				<word number="1">firework</word>
+				<word number="2">fizgig</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pyrotechnics</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rocket</word>
+				<word number="2" paraRef="signal" headRef="576">lighthouse</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="flash">
+			<sg number="1">
+				<word number="1" new="1">flash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="pyre">
+			<sg number="1">
+				<word number="1" new="1">pyre</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="illuminate">
+			<sg number="1">
+				<word number="1" paraRef="light" headRef="438">illuminate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="self-luminous">
+			<sg number="1">
+				<word number="1">self-luminous</word>
+				<word number="2">glowing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">phosphoric!</word>
+				<word number="2">phosphorescent</word>
+				<word number="3">fluorescent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incandescent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">luminescent</word>
+				<word number="2">chemiluminescent</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="light" headRef="438">radiant</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">luminous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="blossomed the lovely stars">
+			<sg number="1">
+				<word number="1">"blossomed the lovely stars</word>
+				<word number="2">the forget-me-nots of the angels"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"the sentinel stars set their watch in the sky"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"the planets in their station list'ning stood"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"the Scriptures of the skies"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"that orbed continent</word>
+				<word number="2">the fire that severs day from night"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

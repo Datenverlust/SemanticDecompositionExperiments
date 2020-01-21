@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="582" name="Painting" origNum="#556." class="5" section="3" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="painting">
+			<sg number="1">
+				<word number="1">painting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depicting</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">drawing</word>
+			</sg>
+			<sg number="4">
+				<word number="1">design</word>
+			</sg>
+			<sg number="5">
+				<word number="1">perspective</word>
+				<word number="2">sciagraphy</word>
+				<word number="3">skiagraphy</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="light" headRef="438">chiaroscuro</word>
+			</sg>
+			<sg number="7">
+				<word number="1">treatment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="historical painting">
+			<sg number="1">
+				<word number="1">historical painting</word>
+				<word number="2">portrait painting</word>
+				<word number="3">miniature painting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">landscape painting</word>
+				<word number="2">marine painting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">still life</word>
+				<word number="2">flower painting</word>
+				<word number="3">scene painting</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scenography</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="school">
+			<sg number="1">
+				<word number="1">school</word>
+				<word number="2">style</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the grand style</word>
+				<word number="2">high art</word>
+				<word number="3">fine art</word>
+				<word number="4">genre</word>
+				<word number="5">portraiture</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="ornamental art" headRef="885">ornamental art</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="monochrome">
+			<sg number="1">
+				<word number="1">monochrome</word>
+				<word number="2">polychrome</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grisaille</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="pallet">
+			<sg number="1">
+				<word number="1">pallet</word>
+				<word number="2">palette</word>
+			</sg>
+			<sg number="2">
+				<word number="1">easel</word>
+			</sg>
+			<sg number="3">
+				<word number="1">brush</word>
+				<word number="2">pencil</word>
+				<word number="3">stump</word>
+			</sg>
+			<sg number="4">
+				<word number="1">black lead</word>
+				<word number="2">charcoal</word>
+				<word number="3">crayons</word>
+				<word number="4">chalk</word>
+				<word number="5">pastel</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="coloring matter" headRef="447">paint</word>
+			</sg>
+			<sg number="6">
+				<word number="1">watercolor</word>
+				<word number="2">body color</word>
+				<word number="3">oil color</word>
+			</sg>
+			<sg number="7">
+				<word number="1">oils</word>
+				<word number="2">oil paint</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="varnish" headRef="368">varnish</word>
+				<word number="2">priming</word>
+			</sg>
+			<sg number="9">
+				<word number="1">gouache</word>
+				<word number="2">tempera</word>
+				<word number="3">distemper</word>
+				<word number="4">fresco</word>
+				<word number="5">water glass</word>
+			</sg>
+			<sg number="10">
+				<word number="1">enamel</word>
+			</sg>
+			<sg number="11">
+				<word number="1">encaustic painting</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mosaic</word>
+			</sg>
+			<sg number="13">
+				<word number="1">tapestry</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">ink</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">pen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="photography">
+			<sg number="1">
+				<word number="1">photography</word>
+				<word number="2">heliography</word>
+				<word number="3">color photography</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sun painting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">graphics</word>
+				<word number="2">computer graphics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="picture">
+			<sg number="1">
+				<word number="1">picture</word>
+				<word number="2">painting</word>
+				<word number="3">piece</word>
+				<word number="4">tableau</word>
+				<word number="5">canvas</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oil  painting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fresco</word>
+				<word number="2">cartoon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">easel picture</word>
+				<word number="2">cabinet picture</word>
+				<word number="3">draught</word>
+				<word number="4">draft</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pencil drawing</word>
+				<word number="2">water color drawing</word>
+				<word number="3">etching</word>
+				<word number="4">charcoal</word>
+				<word number="5">pen-and-ink</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sketch</word>
+				<word number="2">outline</word>
+				<word number="3">study</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">masterpiece</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="photograph">
+			<sg number="1">
+				<word number="1">photograph</word>
+				<word number="2">color photograph</word>
+				<word number="3">black-and-white photograph</word>
+				<word number="4">holograph</word>
+				<word number="5">heliograph</word>
+			</sg>
+			<sg number="2">
+				<word number="1">daguerreotype</word>
+				<word number="2">talbotype</word>
+				<word number="3">calotype</word>
+				<word number="4">heliotype</word>
+			</sg>
+			<sg number="3">
+				<word number="1">negative</word>
+				<word number="2">positive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">print</word>
+				<word number="2">glossy print</word>
+				<word number="3">matte print</word>
+			</sg>
+			<sg number="5">
+				<word number="1">enlargement</word>
+				<word number="2">reduction</word>
+				<word number="3">life-size print</word>
+			</sg>
+			<sg number="6">
+				<word number="1">instant photo</word>
+				<word number="2">Polaroid photo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="technicolor">
+			<sg number="1">
+				<word number="1">technicolor</word>
+				<word number="2">Kodachrome</word>
+				<word number="3">Ektachrome</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Polaroid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="portrait">
+			<sg number="1">
+				<word number="1" paraRef="representation" headRef="580">portrait</word>
+			</sg>
+			<sg number="2">
+				<word number="1">whole length</word>
+				<word number="2">full length</word>
+				<word number="3">half length</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kitcat</word>
+				<word number="2">head</word>
+			</sg>
+			<sg number="4">
+				<word number="1">miniature</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shade</word>
+				<word number="2">silhouette</word>
+			</sg>
+			<sg number="6">
+				<word number="1">profile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="landscape">
+			<sg number="1">
+				<word number="1">landscape</word>
+				<word number="2">seapiece</word>
+			</sg>
+			<sg number="2">
+				<word number="1">view</word>
+				<word number="2">scene</word>
+				<word number="3">prospect</word>
+			</sg>
+			<sg number="3">
+				<word number="1">panorama</word>
+				<word number="2">diorama</word>
+			</sg>
+			<sg number="4">
+				<word number="1">still life</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="picture gallery">
+			<sg number="1">
+				<word number="1">picture gallery</word>
+				<word number="2">exhibit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">studio</word>
+				<word number="2">atelier</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pinacotheca</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="calligraphy">
+			<sg number="1">
+				<word number="1" new="1">calligraphy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="carving">
+			<sg number="1">
+				<word number="1" new="1">carving</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="engraving">
+			<sg number="1">
+				<word number="1" new="1">engraving</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="icon">
+			<sg number="1">
+				<word number="1" new="1">icon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="illustration">
+			<sg number="1">
+				<word number="1" new="1">illustration</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="image">
+			<sg number="1">
+				<word number="1" new="1">image</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="photo">
+			<sg number="1">
+				<word number="1" new="1">photo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="sculpture">
+			<sg number="1">
+				<word number="1" new="1">sculpture</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="snapshot">
+			<sg number="1">
+				<word number="1" new="1">snapshot</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="paint">
+			<sg number="1">
+				<word number="1">paint</word>
+				<word number="2">design</word>
+				<word number="3">limn draw</word>
+				<word number="4">sketch</word>
+				<word number="5">pencil</word>
+				<word number="6">scratch</word>
+				<word number="7">shade</word>
+				<word number="8">stipple</word>
+				<word number="9">hatch</word>
+				<word number="10">dash off</word>
+				<word number="11">chalk out</word>
+				<word number="12">square up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">color</word>
+				<word number="2">dead color</word>
+				<word number="3">wash</word>
+				<word number="4">varnish</word>
+				<word number="5" new="1">dye</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">draw in pencil</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">paint in oils</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stencil</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="represent" headRef="580">depict</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="painted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">painted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pictorial</word>
+				<word number="2">graphic</word>
+				<word number="3">picturesque</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pencil">
+			<sg number="1">
+				<word number="1">pencil</word>
+				<word number="2" paraRef="" posRef="n.">oil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in pencil">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in pencil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="fecit">
+			<sg number="1">
+				<word number="1">fecit</word>
+				<word number="2">delineavit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mutum est pictura poema</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

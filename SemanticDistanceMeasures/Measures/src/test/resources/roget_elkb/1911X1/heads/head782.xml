@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="782" name="Restraint" origNum="#751." class="7" section="1" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="restraint">
+			<sg number="1">
+				<word number="1">restraint</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="hindrance" headRef="735">hindrance</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="compulsion" headRef="775">coercion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cohibition</word>
+				<word number="2">constraint</word>
+				<word number="3">repression</word>
+				<word number="4">suppression</word>
+			</sg>
+			<sg number="5">
+				<word number="1">discipline</word>
+				<word number="2">control</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="confinement">
+			<sg number="1">
+				<word number="1">confinement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">durance</word>
+				<word number="2">duress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">imprisonment</word>
+			</sg>
+			<sg number="4">
+				<word number="1">incarceration</word>
+				<word number="2">coarctation</word>
+				<word number="3">entombment</word>
+				<word number="4">mancipation</word>
+				<word number="5">durance vile</word>
+				<word number="6">limbo</word>
+				<word number="7">captivity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">blockade</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="arrest">
+			<sg number="1">
+				<word number="1">arrest</word>
+				<word number="2">arrestation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">custody</word>
+				<word number="2">keep</word>
+				<word number="3">care</word>
+				<word number="4">charge</word>
+				<word number="5">ward</word>
+				<word number="6">restringency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="curb">
+			<sg number="1">
+				<word number="1" paraRef="means of restraint" headRef="783">curb</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lettres de cachet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="limitation">
+			<sg number="1">
+				<word number="1">limitation</word>
+				<word number="2">restriction</word>
+				<word number="3">protection</word>
+				<word number="4">monopoly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="prohibition" headRef="792">prohibition</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">stipulation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="prisoner">
+			<sg number="1">
+				<word number="1" paraRef="prisoner" headRef="785">prisoner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repressionist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="restrain">
+			<sg number="1">
+				<word number="1">restrain</word>
+				<word number="2">check</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put under restraint</word>
+				<word number="2">lay under restraint</word>
+			</sg>
+			<sg number="3">
+				<word number="1">enthral</word>
+				<word number="2">enthrall</word>
+				<word number="3">inthral</word>
+				<word number="4">inthrall</word>
+				<word number="5">bethral</word>
+				<word number="6">bethrall</word>
+				<word number="7" new="1">mesmerize</word>
+			</sg>
+			<sg number="4">
+				<word number="1">restrict</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="hinder" headRef="735">debar</word>
+			</sg>
+			<sg number="6">
+				<word number="1">constrain</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="compel" headRef="775">coerce</word>
+			</sg>
+			<sg number="8">
+				<word number="1">curb</word>
+				<word number="2">control</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hold back</word>
+				<word number="2">hold from</word>
+				<word number="3">hold in</word>
+				<word number="4">hold in check</word>
+				<word number="5">hold within bounds</word>
+				<word number="6">keep back</word>
+				<word number="7">keep from</word>
+				<word number="8">keep in</word>
+				<word number="9">keep in check</word>
+				<word number="10">keep within bounds</word>
+			</sg>
+			<sg number="10">
+				<word number="1">hold in leash</word>
+				<word number="2">hold in leading strings</word>
+			</sg>
+			<sg number="11">
+				<word number="1">withhold</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">regulate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="keep under">
+			<sg number="1">
+				<word number="1">keep under</word>
+			</sg>
+			<sg number="2">
+				<word number="1">repress</word>
+				<word number="2">suppress</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smother</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pull in</word>
+				<word number="2">rein in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hold</word>
+				<word number="2">hold fast</word>
+			</sg>
+			<sg number="6">
+				<word number="1">keep a tight hand on</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="prohibit" headRef="792">prohibit</word>
+			</sg>
+			<sg number="8">
+				<word number="1">inhibit</word>
+				<word number="2">cohibit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="enchain">
+			<sg number="1">
+				<word number="1">enchain</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="join" headRef="46">fasten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fetter</word>
+				<word number="2">shackle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">entrammel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bridle</word>
+				<word number="2">muzzle</word>
+				<word number="3">hopple</word>
+				<word number="4">gag</word>
+				<word number="5">pinion</word>
+				<word number="6">manacle</word>
+				<word number="7">handcuff</word>
+				<word number="8">tie one's hands</word>
+				<word number="9">hobble</word>
+				<word number="10">bind hand and foot</word>
+				<word number="11" new="1">blindfold</word>
+			</sg>
+			<sg number="6">
+				<word number="1">swathe</word>
+				<word number="2">swaddle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">pin down</word>
+				<word number="2">tether</word>
+			</sg>
+			<sg number="8">
+				<word number="1">picket</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tie down</word>
+				<word number="2">tie up</word>
+			</sg>
+			<sg number="10">
+				<word number="1">secure</word>
+			</sg>
+			<sg number="11">
+				<word number="1">forge fetters</word>
+			</sg>
+			<sg number="12">
+				<word number="1">disable</word>
+				<word number="2" paraRef="incapacitate" headRef="165">hamstring</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="confine">
+			<sg number="1">
+				<word number="1">confine</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shut up</word>
+				<word number="2">shut in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clap up</word>
+				<word number="2">lock up</word>
+				<word number="3">box up</word>
+				<word number="4">mew up</word>
+				<word number="5">bottle up</word>
+				<word number="6">cork up</word>
+				<word number="7">seal up</word>
+				<word number="8">button up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hem in</word>
+				<word number="2">bolt in</word>
+				<word number="3">wall in</word>
+				<word number="4">rail in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">impound</word>
+				<word number="2">pen</word>
+				<word number="3">coop</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="circumscribe" headRef="239">inclose</word>
+			</sg>
+			<sg number="7">
+				<word number="1">cage</word>
+			</sg>
+			<sg number="8">
+				<word number="1">incage</word>
+				<word number="2">encage</word>
+			</sg>
+			<sg number="9">
+				<word number="1">close the door upon</word>
+				<word number="2">cloister</word>
+			</sg>
+			<sg number="10">
+				<word number="1">imprison</word>
+				<word number="2">immure</word>
+			</sg>
+			<sg number="11">
+				<word number="1">incarcerate</word>
+				<word number="2">entomb</word>
+			</sg>
+			<sg number="12">
+				<word number="1">clap under hatches</word>
+				<word number="2">lay under hatches</word>
+			</sg>
+			<sg number="13">
+				<word number="1">put in irons</word>
+				<word number="2">put in a strait-waistcoat</word>
+			</sg>
+			<sg number="14">
+				<word number="1">throw into prison</word>
+				<word number="2">cast into prison</word>
+			</sg>
+			<sg number="15">
+				<word number="1">put into bilboes</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">detain</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="1">jail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="arrest">
+			<sg number="1">
+				<word number="1">arrest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take up</word>
+				<word number="2">take charge of</word>
+				<word number="3">take into custody</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take prisoner</word>
+				<word number="2">take captive</word>
+				<word number="3">make prisoner</word>
+				<word number="4">make captive</word>
+			</sg>
+			<sg number="4">
+				<word number="1">captivate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lead captive</word>
+				<word number="2">lead into captivity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">send to prison</word>
+				<word number="2">commit to prison</word>
+			</sg>
+			<sg number="7">
+				<word number="1">commit</word>
+			</sg>
+			<sg number="8">
+				<word number="1">give in charge</word>
+				<word number="2">give in custody</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="subjugate" headRef="780">subjugate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="restrained">
+			<sg number="1">
+				<word number="1">restrained</word>
+				<word number="2">constrained</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">imprisoned</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pent up</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jammed in</word>
+				<word number="2">wedged in</word>
+			</sg>
+			<sg number="5">
+				<word number="1">under lock and key</word>
+				<word number="2">under restraint</word>
+				<word number="3">under hatches</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in swaddling clothes</word>
+			</sg>
+			<sg number="7">
+				<word number="1">on parole</word>
+			</sg>
+			<sg number="8">
+				<word number="1">in custody</word>
+				<word number="2" paraRef="prisoner" headRef="785">doing time</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cohibitive</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="compulsory" headRef="775">coactive</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stiff">
+			<sg number="1">
+				<word number="1">stiff</word>
+				<word number="2">restringent</word>
+				<word number="3">strait-laced</word>
+				<word number="4">hidebound</word>
+				<word number="5">barkbound</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="ice bound">
+			<sg number="1">
+				<word number="1">ice bound</word>
+				<word number="2">wind bound</word>
+				<word number="3">weather bound</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"cabined cribbed confined"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in Lob's pound</word>
+				<word number="2">laid by the heels</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

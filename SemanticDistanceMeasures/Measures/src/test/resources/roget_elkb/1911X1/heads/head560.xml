@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="560" name="Messenger" origNum="#534." class="5" section="2" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="messenger">
+			<sg number="1">
+				<word number="1">messenger</word>
+				<word number="2">envoy</word>
+				<word number="3">emissary</word>
+				<word number="4">legate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nuncio</word>
+				<word number="2">internuncio</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="diplomatist" headRef="789">ambassador</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="marshal">
+			<sg number="1">
+				<word number="1">marshal</word>
+				<word number="2">flag bearer</word>
+				<word number="3">herald</word>
+				<word number="4">crier</word>
+				<word number="5">trumpeter</word>
+				<word number="6">bellman</word>
+				<word number="7">pursuivant</word>
+				<word number="8">parlementaire</word>
+				<word number="9">apparitor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="courier">
+			<sg number="1">
+				<word number="1">courier</word>
+				<word number="2">runner</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dak</word>
+				<word number="2">estafette</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Mercury</word>
+				<word number="2">Iris</word>
+				<word number="3">Ariel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="commissionaire">
+			<sg number="1">
+				<word number="1">commissionaire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">errand boy</word>
+				<word number="2">chore boy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">newsboy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="mail">
+			<sg number="1">
+				<word number="1">mail</word>
+				<word number="2">overnight mail</word>
+				<word number="3">express mail</word>
+				<word number="4">next-day delivery</word>
+			</sg>
+			<sg number="2">
+				<word number="1">post</word>
+				<word number="2">post office</word>
+			</sg>
+			<sg number="3">
+				<word number="1">letter bag</word>
+			</sg>
+			<sg number="4">
+				<word number="1">delivery service</word>
+			</sg>
+			<sg number="5">
+				<word number="1">United Parcel Service</word>
+				<word number="2">UPS</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Federal Express</word>
+				<word number="2">Fedex</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="telegraph">
+			<sg number="1">
+				<word number="1">telegraph</word>
+				<word number="2">telephone</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cable</word>
+				<word number="2">wire (electronic information transmission)</word>
+			</sg>
+			<sg number="3">
+				<word number="1">carrier pigeon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="[person reporting news: see news">
+			<sg number="1">
+				<word number="1">reporter</word>
+				<word number="2">gentleman of the press</word>
+				<word number="3">representative of the press</word>
+			</sg>
+			<sg number="2">
+				<word number="1">penny-a-liner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">special correspondent</word>
+				<word number="2">own correspondent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spy</word>
+				<word number="2">scout</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="informer" headRef="552">informer</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

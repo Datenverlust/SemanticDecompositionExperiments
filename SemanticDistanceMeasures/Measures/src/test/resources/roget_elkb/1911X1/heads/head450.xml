@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="450" name="Blackness" origNum="#431." class="3" section="3" subSection="2" headGroup="32">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="blackness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">blackness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="want of light" headRef="439">darkness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">swartliness</word>
+				<word number="2">lividity</word>
+				<word number="3">dark color</word>
+				<word number="4">tone</word>
+				<word number="5">color</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="chiaroscuro" headRef="438">chiaroscuro</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nigrification">
+			<sg number="1">
+				<word number="1">nigrification</word>
+				<word number="2">infuscation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="jet">
+			<sg number="1">
+				<word number="1">jet</word>
+				<word number="2">ink</word>
+				<word number="3">ebony</word>
+				<word number="4">coal pitch</word>
+				<word number="5">soot</word>
+				<word number="6">charcoal</word>
+				<word number="7">sloe</word>
+				<word number="8">smut</word>
+				<word number="9">raven</word>
+				<word number="10">crow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Negro">
+			<sg number="1">
+				<word number="1">Negro</word>
+				<word number="2">blackamoor</word>
+				<word number="3">man of color</word>
+				<word number="4">nigger</word>
+				<word number="5">darkie</word>
+				<word number="6">Ethiop</word>
+				<word number="7">black</word>
+			</sg>
+			<sg number="2">
+				<word number="1">buck</word>
+				<word number="2">nigger</word>
+			</sg>
+			<sg number="3">
+				<word number="1">coon</word>
+				<word number="2">sambo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="lampblack">
+			<sg number="1">
+				<word number="1">lampblack</word>
+				<word number="2">ivory black</word>
+				<word number="3">blueblack</word>
+			</sg>
+			<sg number="2">
+				<word number="1">writing ink</word>
+				<word number="2">printing ink</word>
+				<word number="3">printer's ink</word>
+				<word number="4">Indian ink</word>
+				<word number="5">India ink</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be black">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be black</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">render -black</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="blacken">
+			<sg number="1">
+				<word number="1">blacken</word>
+				<word number="2">infuscate</word>
+				<word number="3">denigrate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blot</word>
+				<word number="2">blotch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smutch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smirch</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="darken" headRef="439">darken</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="black">
+			<sg number="1">
+				<word number="1">black</word>
+				<word number="2">sable</word>
+				<word number="3">swarthy</word>
+				<word number="4">somber</word>
+				<word number="5">dark</word>
+				<word number="6">inky</word>
+				<word number="7">ebony</word>
+				<word number="8">ebon</word>
+				<word number="9">atramentous</word>
+				<word number="10">jetty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coal-black</word>
+				<word number="2">jet-black</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fuliginous</word>
+				<word number="2">pitchy</word>
+				<word number="3">sooty</word>
+				<word number="4">swart</word>
+				<word number="5">dusky</word>
+				<word number="6">dingy</word>
+				<word number="7">murky</word>
+				<word number="8">Ethiopic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">low-toned</word>
+				<word number="2">low in tone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">of the deepest dye</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="black as jet">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">black as jet</word>
+				<word number="2">black as my hat</word>
+				<word number="3">black as a shoe</word>
+				<word number="4">black as a tinker's pot</word>
+				<word number="5">black as November</word>
+				<word number="6">black as thunder</word>
+				<word number="7">black as midnight</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="dark" headRef="439">nocturnal</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nigrescent</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="gray" headRef="451">gray</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="obscure" headRef="439">obscure</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in mourning">
+			<sg number="1">
+				<word number="1">in mourning</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

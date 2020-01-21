@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="907" name="Fastidiousness" origNum="#868." class="8" section="2" subSection="3" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fastidiousness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">fastidiousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nicety</word>
+				<word number="2">hypercriticism</word>
+				<word number="3">difficulty in being pleased</word>
+				<word number="4">friandise</word>
+				<word number="5">epicurism</word>
+				<word number="6">omnia suspendens naso</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="epicure">
+			<sg number="1">
+				<word number="1">epicure</word>
+				<word number="2">gourmet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prudery">
+			<sg number="1">
+				<word number="1">prudery</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be fastidious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be fastidious</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a sweet tooth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mince the matter">
+			<sg number="1">
+				<word number="1">mince the matter</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disdain" headRef="972">turn up one's nose at</word>
+			</sg>
+			<sg number="3">
+				<word number="1">look a gift horse in the mouth</word>
+				<word number="2">see spots on the sun</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fastidious">
+			<sg number="1">
+				<word number="1">fastidious</word>
+				<word number="2">nice</word>
+				<word number="3">delicate</word>
+				<word number="4">delicat</word>
+				<word number="5">finical</word>
+				<word number="6">finicky</word>
+				<word number="7">demanding</word>
+				<word number="8">meticulous</word>
+				<word number="9">exacting</word>
+				<word number="10">strict</word>
+				<word number="11">anal</word>
+				<word number="12">difficult</word>
+				<word number="13">dainty</word>
+				<word number="14">lickerish</word>
+				<word number="15">squeamish</word>
+				<word number="16">thin-skinned</word>
+				<word number="17" new="1">nationalized</word>
+			</sg>
+			<sg number="2">
+				<word number="1">squeasy</word>
+				<word number="2">queasy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hard to please</word>
+				<word number="2">difficult to please</word>
+			</sg>
+			<sg number="4">
+				<word number="1">querulous</word>
+				<word number="2">particular</word>
+				<word number="3">straitlaced</word>
+				<word number="4">scrupulous</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="censorious" headRef="974">censorious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hypercritical</word>
+			</sg>
+			<sg number="7">
+				<word number="1">overcritical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="noli me tangere">
+			<sg number="1">
+				<word number="1">noli me tangere</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

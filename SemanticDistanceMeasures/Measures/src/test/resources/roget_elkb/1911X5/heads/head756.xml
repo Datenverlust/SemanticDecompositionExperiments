@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="756" name="Arms" origNum="#727." class="6" section="4" subSection="1" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="arm">
+			<sg number="1">
+				<word number="1">arm</word>
+				<word number="2">arms</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weapon</word>
+				<word number="2">deadly weapon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">armament</word>
+				<word number="2">armaments</word>
+				<word number="3">armature</word>
+			</sg>
+			<sg number="4">
+				<word number="1">panoply</word>
+				<word number="2">stand of arms</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="defense" headRef="746">armor</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="store" headRef="665">armory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">apparatus belli</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ammunition">
+			<sg number="1">
+				<word number="1">ammunition</word>
+			</sg>
+			<sg number="2">
+				<word number="1">powder</word>
+				<word number="2">powder and shot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cartridge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ball cartridge</word>
+				<word number="2">cartouche</word>
+				<word number="3">fireball</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"villainous saltpeter"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dumdum bullet</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">pellet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="explosive">
+			<sg number="1">
+				<word number="1">explosive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gunpowder</word>
+				<word number="2">guncotton</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mercury fulminate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">picrates</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pentaerythritol tetranitrate</word>
+				<word number="2">PETN</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="high explosive">
+			<sg number="1">
+				<word number="1">high explosive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trinitrotoluene</word>
+				<word number="2">TNT</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dynamite</word>
+				<word number="2">melinite</word>
+				<word number="3">cordite</word>
+				<word number="4">lyddite</word>
+				<word number="5">plastic explosive</word>
+				<word number="6">plastique</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pyroxyline</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sword">
+			<sg number="1">
+				<word number="1">sword</word>
+				<word number="2">saber</word>
+				<word number="3">broadsword</word>
+				<word number="4">cutlass</word>
+				<word number="5">falchion</word>
+				<word number="6">scimitar</word>
+				<word number="7">cimeter</word>
+				<word number="8">brand</word>
+				<word number="9">whinyard</word>
+				<word number="10">bilbo</word>
+				<word number="11">glaive</word>
+				<word number="12">glave</word>
+				<word number="13">rapier</word>
+				<word number="14">skean</word>
+				<word number="15">Toledo</word>
+				<word number="16">Ferrara</word>
+				<word number="17">tuck</word>
+				<word number="18">claymore</word>
+				<word number="19">adaga</word>
+				<word number="20">baselard</word>
+				<word number="21">Lochaber ax</word>
+				<word number="22">skean dhu</word>
+				<word number="23">creese</word>
+				<word number="24">kris</word>
+				<word number="25">dagger</word>
+				<word number="26">dirk</word>
+				<word number="27">banger</word>
+				<word number="28">poniard</word>
+				<word number="29">stiletto</word>
+				<word number="30">stylet</word>
+				<word number="31">dudgeon</word>
+				<word number="32">bayonet</word>
+				<word number="33" new="1">knife</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sword-bayonet</word>
+				<word number="2">sword-stick</word>
+			</sg>
+			<sg number="3">
+				<word number="1">side arms</word>
+				<word number="2">foil</word>
+				<word number="3">blade</word>
+				<word number="4">steel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ax</word>
+				<word number="2">bill</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pole-ax</word>
+				<word number="2">battle-ax</word>
+			</sg>
+			<sg number="6">
+				<word number="1">gisarme</word>
+				<word number="2">halberd</word>
+				<word number="3">partisan</word>
+				<word number="4">tomahawk</word>
+				<word number="5">bowie knife</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ataghan</word>
+				<word number="2">attaghan</word>
+				<word number="3">yataghan</word>
+			</sg>
+			<sg number="8">
+				<word number="1">yatacban</word>
+			</sg>
+			<sg number="9">
+				<word number="1">assagai</word>
+				<word number="2">assegai</word>
+			</sg>
+			<sg number="10">
+				<word number="1">good sword</word>
+				<word number="2">trusty sword</word>
+				<word number="3">naked sword</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cold steel</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">hatchet</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">stave</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="2">chisel</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">razor</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="2">whip</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="3">adz</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="4">arrowhead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="club">
+			<sg number="1">
+				<word number="1">club</word>
+				<word number="2">mace</word>
+				<word number="3">truncheon</word>
+				<word number="4">staff</word>
+				<word number="5">bludgeon</word>
+				<word number="6">cudgel</word>
+				<word number="7">life preserver</word>
+				<word number="8">shillelah</word>
+				<word number="9">sprig</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hand staff</word>
+				<word number="2">quarter staff</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bat</word>
+				<word number="2">cane</word>
+				<word number="3">stick</word>
+				<word number="4">knuckle duster</word>
+			</sg>
+			<sg number="4">
+				<word number="1">billy</word>
+				<word number="2">blackjack</word>
+				<word number="3">sandbag</word>
+				<word number="4">waddy</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">baton</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="gun">
+			<sg number="1">
+				<word number="1">gun</word>
+				<word number="2">piece</word>
+			</sg>
+			<sg number="2">
+				<word number="1">firearms</word>
+			</sg>
+			<sg number="3">
+				<word number="1">artillery</word>
+				<word number="2">ordnance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">siege train</word>
+				<word number="2">battering train</word>
+			</sg>
+			<sg number="5">
+				<word number="1">park</word>
+				<word number="2">battery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cannon</word>
+				<word number="2">gun of position</word>
+				<word number="3">heavy gun</word>
+				<word number="4">field piece</word>
+				<word number="5">mortar</word>
+				<word number="6">howitzer</word>
+				<word number="7">carronade</word>
+				<word number="8">culverin</word>
+				<word number="9">basilisk</word>
+				<word number="10" new="1">pounder</word>
+			</sg>
+			<sg number="7">
+				<word number="1">falconet</word>
+				<word number="2">jingal</word>
+				<word number="3">swivel</word>
+				<word number="4">pederero</word>
+				<word number="5">bouche a feu</word>
+			</sg>
+			<sg number="8">
+				<word number="1">petard</word>
+				<word number="2">torpedo</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mitrailleur</word>
+				<word number="2">mitrailleuse</word>
+			</sg>
+			<sg number="10">
+				<word number="1">infernal machine</word>
+			</sg>
+			<sg number="11">
+				<word number="1">smooth bore</word>
+				<word number="2">rifled cannon</word>
+				<word number="3">Armstrong gun</word>
+				<word number="4">Lancaster gun</word>
+				<word number="5">Paixhan gun</word>
+				<word number="6">Whitworth gun</word>
+				<word number="7">Parrott gun</word>
+				<word number="8">Krupp gun</word>
+				<word number="9">Gatling gun</word>
+				<word number="10">Maxim gun</word>
+				<word number="11">machine gun</word>
+			</sg>
+			<sg number="12">
+				<word number="1">pompom</word>
+			</sg>
+			<sg number="13">
+				<word number="1">ten pounder</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">launcher</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">tank</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">turret</word>
+			</sg>
+			<sg number="17">
+				<word number="1" new="2">mount</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="2">mounting</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="2">tripod</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="small arms">
+			<sg number="1">
+				<word number="1">small arms</word>
+			</sg>
+			<sg number="2">
+				<word number="1">musket</word>
+				<word number="2">musketry</word>
+				<word number="3">firelock</word>
+				<word number="4">fowling piece</word>
+				<word number="5">rifle</word>
+				<word number="6">fusil</word>
+				<word number="7">caliver</word>
+				<word number="8">carbine</word>
+				<word number="9">blunderbuss</word>
+				<word number="10">musketoon</word>
+				<word number="11">Brown Bess</word>
+				<word number="12">matchlock</word>
+				<word number="13">harquebuss</word>
+				<word number="14">arquebus</word>
+				<word number="15">haguebut</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pistol</word>
+				<word number="2">postolet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">petronel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">small bore</word>
+			</sg>
+			<sg number="6">
+				<word number="1">breach-loader</word>
+				<word number="2">muzzle-loader</word>
+			</sg>
+			<sg number="7">
+				<word number="1">revolver</word>
+				<word number="2">repeater</word>
+			</sg>
+			<sg number="8">
+				<word number="1">Minis rifle</word>
+				<word number="2">Enfield rifle</word>
+				<word number="3">Flobert rifle</word>
+				<word number="4">Westley Richards rifle</word>
+				<word number="5">Snider rifle</word>
+				<word number="6">Martini-Henry rifle</word>
+				<word number="7">Lee-Metford rifle</word>
+				<word number="8">Lee- Enfield rifle</word>
+				<word number="9">Mauser rifle</word>
+				<word number="10">magazine rifle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">needle gun</word>
+				<word number="2">chassepot</word>
+			</sg>
+			<sg number="10">
+				<word number="1">wind gun</word>
+				<word number="2">air gun</word>
+			</sg>
+			<sg number="11">
+				<word number="1">automatic gun</word>
+				<word number="2">automatic pistol</word>
+			</sg>
+			<sg number="12">
+				<word number="1">escopet</word>
+				<word number="2">escopette</word>
+				<word number="3">gunflint</word>
+				<word number="4">gun-lock</word>
+			</sg>
+			<sg number="13">
+				<word number="1">hackbut</word>
+				<word number="2">shooter</word>
+				<word number="3">shooting iron *</word>
+				<word number="4">six-shooter</word>
+				<word number="5">shotgun</word>
+			</sg>
+			<sg number="14">
+				<word number="1">Uzzi</word>
+				<word number="2">assault rifle</word>
+				<word number="3">Kalashnikov</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">caliber</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="bow">
+			<sg number="1">
+				<word number="1">bow</word>
+				<word number="2">crossbow</word>
+				<word number="3">balister</word>
+				<word number="4">catapult</word>
+				<word number="5">sling</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="impulse" headRef="287">battering ram</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gunnery</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="propulsion" headRef="295">ballistics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="missile">
+			<sg number="1">
+				<word number="1">missile</word>
+				<word number="2">bolt</word>
+				<word number="3">projectile</word>
+				<word number="4">shot</word>
+				<word number="5">ball</word>
+				<word number="6" new="1">salvo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grape</word>
+			</sg>
+			<sg number="3">
+				<word number="1">grape shot</word>
+				<word number="2">canister shot</word>
+				<word number="3">bar shot</word>
+				<word number="4">cannon shot</word>
+				<word number="5">langrel shot</word>
+				<word number="6">langrage shot</word>
+				<word number="7">round shot</word>
+				<word number="8">chain shot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">balista</word>
+				<word number="2">ballista</word>
+				<word number="3">slung shot</word>
+				<word number="4">trebucbet</word>
+				<word number="5">trebucket</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bullet</word>
+				<word number="2">slug</word>
+				<word number="3">stone</word>
+				<word number="4">brickbat</word>
+				<word number="5">grenade</word>
+				<word number="6">shell</word>
+				<word number="7">bomb</word>
+				<word number="8">carcass</word>
+				<word number="9">rocket</word>
+				<word number="10" new="1">canister</word>
+			</sg>
+			<sg number="6">
+				<word number="1">congreve</word>
+				<word number="2">congreve rocket</word>
+			</sg>
+			<sg number="7">
+				<word number="1">shrapnel</word>
+				<word number="2">mitraille</word>
+			</sg>
+			<sg number="8">
+				<word number="1">levin bolt</word>
+				<word number="2">levin  brand</word>
+			</sg>
+			<sg number="9">
+				<word number="1">thunderbolt</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">blank</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">munition</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">munitions</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">stinger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="pike">
+			<sg number="1">
+				<word number="1">pike</word>
+				<word number="2">lance</word>
+				<word number="3">spear</word>
+				<word number="4">spontoon</word>
+				<word number="5">javelin</word>
+				<word number="6">dart</word>
+				<word number="7">jereed</word>
+				<word number="8">jerid</word>
+				<word number="9">arrow</word>
+				<word number="10">reed</word>
+				<word number="11">shaft</word>
+				<word number="12">bolt</word>
+				<word number="13">boomerang</word>
+				<word number="14">harpoon</word>
+				<word number="15">gaff</word>
+				<word number="16" new="1">trident</word>
+				<word number="17" new="2">blowpipe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eelspear</word>
+				<word number="2">oxgoad</word>
+				<word number="3">weet-weet</word>
+				<word number="4">wommerah</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cattle prod</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chemical mace</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="barrel">
+			<sg number="1">
+				<word number="1" new="1">barrel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="butt">
+			<sg number="1">
+				<word number="1" new="1">butt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="fist">
+			<sg number="1">
+				<word number="1" new="1">fist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="flail">
+			<sg number="1">
+				<word number="1" new="1">flail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="hammer">
+			<sg number="1">
+				<word number="1" new="1">hammer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="incendiary">
+			<sg number="1">
+				<word number="1" new="1">incendiary</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="round">
+			<sg number="1">
+				<word number="1" new="1">round</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="shield">
+			<sg number="1">
+				<word number="1" new="1">shield</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="trap">
+			<sg number="1">
+				<word number="1" new="1">trap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="crowbar">
+			<sg number="1">
+				<word number="1" new="2">crowbar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="gauntlet">
+			<sg number="1">
+				<word number="1" new="2">gauntlet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="mallet">
+			<sg number="1">
+				<word number="1" new="2">mallet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="pyrotechnics">
+			<sg number="1">
+				<word number="1" new="2">pyrotechnics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="sickle">
+			<sg number="1">
+				<word number="1" new="2">sickle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="trigger">
+			<sg number="1">
+				<word number="1" new="2">trigger</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="wand">
+			<sg number="1">
+				<word number="1" new="2">wand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="adze">
+			<sg number="1">
+				<word number="1" new="3">adze</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="anvil">
+			<sg number="1">
+				<word number="1" new="3">anvil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="extractor">
+			<sg number="1">
+				<word number="1" new="3">extractor</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="scepter">
+			<sg number="1">
+				<word number="1" new="3">scepter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="scud">
+			<sg number="1">
+				<word number="1" new="3">scud</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="scythe">
+			<sg number="1">
+				<word number="1" new="3">scythe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="orb">
+			<sg number="1">
+				<word number="1" new="4">orb</word>
+			</sg>
+		</paragraph>
+		<paragraph number="35" name="pitchfork">
+			<sg number="1">
+				<word number="1" new="4">pitchfork</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="en flute">
+			<sg number="1">
+				<word number="1">en flute</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nervos belli pecuniam infinitam</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

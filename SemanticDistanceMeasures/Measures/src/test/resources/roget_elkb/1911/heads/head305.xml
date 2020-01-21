@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="305" name="Ingress" origNum="#294." class="2" section="4" subSection="4" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="ingress">
+			<sg number="1">
+				<word number="1">ingress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">entrance</word>
+				<word number="2">entry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">introgression</word>
+			</sg>
+			<sg number="4">
+				<word number="1">influx</word>
+				<word number="2">intrusion</word>
+				<word number="3">inroad</word>
+				<word number="4">incursion</word>
+				<word number="5">invasion</word>
+				<word number="6">irruption</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ingression</word>
+			</sg>
+			<sg number="6">
+				<word number="1">penetration</word>
+				<word number="2">interpenetration</word>
+			</sg>
+			<sg number="7">
+				<word number="1">illapse</word>
+				<word number="2">import</word>
+				<word number="3">infiltration</word>
+			</sg>
+			<sg number="8">
+				<word number="1">immigration</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="reception" headRef="307">admission</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="interjacence" headRef="238">insinuation</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="insertion" headRef="311">insertion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inlet">
+			<sg number="1">
+				<word number="1">inlet</word>
+			</sg>
+			<sg number="2">
+				<word number="1">way in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mouth</word>
+				<word number="2" paraRef="opening" headRef="271">door</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barway</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="way" headRef="656">path</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="conduit" headRef="361">conduit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">immigrant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have the entree">
+			<sg number="1">
+				<word number="1">have the entree</word>
+			</sg>
+			<sg number="2">
+				<word number="1">enter</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go into</word>
+				<word number="2">go in</word>
+				<word number="3">come into</word>
+				<word number="4">come in</word>
+				<word number="5">pour into</word>
+				<word number="6">pour in</word>
+				<word number="7">flow into</word>
+				<word number="8">flow in</word>
+				<word number="9">creep into</word>
+				<word number="10">creep in</word>
+				<word number="11">slip into</word>
+				<word number="12">slip in</word>
+				<word number="13">pop into</word>
+				<word number="14">pop in</word>
+				<word number="15">break into</word>
+				<word number="16">break in</word>
+				<word number="17">burst into</word>
+				<word number="18">burst in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set foot on</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ingress</word>
+			</sg>
+			<sg number="6">
+				<word number="1">burst in upon</word>
+				<word number="2">break in upon</word>
+			</sg>
+			<sg number="7">
+				<word number="1">invade</word>
+				<word number="2">intrude</word>
+			</sg>
+			<sg number="8">
+				<word number="1">insinuate itself</word>
+			</sg>
+			<sg number="9">
+				<word number="1">interpenetrate</word>
+				<word number="2">penetrate</word>
+			</sg>
+			<sg number="10">
+				<word number="1">infiltrate</word>
+			</sg>
+			<sg number="11">
+				<word number="1">find one's way into</word>
+				<word number="2">wriggle into</word>
+				<word number="3">worm oneself into</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="give entrance to">
+			<sg number="1">
+				<word number="1" paraRef="receive" headRef="307">give entrance to</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insert" headRef="311">insert</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="incoming">
+			<sg number="1">
+				<word number="1">incoming</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

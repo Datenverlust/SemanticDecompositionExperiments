@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="118" name="Perpetuity" origNum="#112." class="1" section="6" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="perpetuity">
+			<sg number="1">
+				<word number="1">perpetuity</word>
+				<word number="2">eternity</word>
+				<word number="3">everness</word>
+				<word number="4">aye</word>
+				<word number="5">sempiternity</word>
+				<word number="6">immortality</word>
+				<word number="7">athanasia</word>
+			</sg>
+			<sg number="2">
+				<word number="1">interminability</word>
+				<word number="2">agelessness</word>
+				<word number="3" paraRef="" posRef="adj.">everlastingness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">perpetuation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">continued existence</word>
+				<word number="2">uninterrupted existence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">perennity</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="durability" headRef="116">permanence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="last forever">
+			<sg number="1">
+				<word number="1">last forever</word>
+				<word number="2">endure forever</word>
+				<word number="3">go on forever</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have no end</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="eternize">
+			<sg number="1">
+				<word number="1">eternize</word>
+				<word number="2">perpetuate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="perpetual">
+			<sg number="1">
+				<word number="1">perpetual</word>
+				<word number="2">eternal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">everduring</word>
+				<word number="2">everlasting</word>
+				<word number="3">ever-living</word>
+				<word number="4">ever-flowing</word>
+			</sg>
+			<sg number="3">
+				<word number="1">continual</word>
+				<word number="2">sempiternal</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coeternal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">endless</word>
+				<word number="2">unending</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ceaseless</word>
+				<word number="2">incessant</word>
+				<word number="3">uninterrupted</word>
+				<word number="4">indesinent</word>
+				<word number="5">unceasing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">endless</word>
+				<word number="2">unending</word>
+				<word number="3">interminable</word>
+				<word number="4">having no end</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unfading</word>
+				<word number="2">evergreen</word>
+				<word number="3">amaranthine</word>
+			</sg>
+			<sg number="9">
+				<word number="1">neverending</word>
+				<word number="2">never-dying</word>
+				<word number="3">never-fading</word>
+			</sg>
+			<sg number="10">
+				<word number="1">deathless</word>
+				<word number="2">immortal</word>
+				<word number="3">undying</word>
+				<word number="4">imperishable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="perpetually">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">perpetually</word>
+			</sg>
+			<sg number="2">
+				<word number="1">always</word>
+				<word number="2">ever</word>
+				<word number="3">evermore</word>
+				<word number="4">aye</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for ever</word>
+				<word number="2">for aye</word>
+				<word number="3">till the end of the universe</word>
+				<word number="4">forevermore</word>
+				<word number="5">forever and a day</word>
+				<word number="6">for ever and ever</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in all ages</word>
+				<word number="2">from age to age</word>
+			</sg>
+			<sg number="5">
+				<word number="1">without end</word>
+			</sg>
+			<sg number="6">
+				<word number="1">world without end</word>
+				<word number="2">time without end</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in secula seculorum</word>
+			</sg>
+			<sg number="8">
+				<word number="1">to the end of time</word>
+				<word number="2">to the crack of doom</word>
+				<word number="3">to the "last syllable of recorded time"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">till doomsday</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="frequently" headRef="143">constantly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="esto perpetuum">
+			<sg number="1">
+				<word number="1">esto perpetuum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">labitur et labetur in omne volubilis oevum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"but thou shall flourish in immortal youth"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"Eternity! thou pleasing</word>
+				<word number="2">dreadful thought"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"her immortal part with angels lives"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">ohne Rast</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ora e sempre</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

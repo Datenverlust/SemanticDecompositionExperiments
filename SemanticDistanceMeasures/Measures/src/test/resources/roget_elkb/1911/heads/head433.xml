@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="433" name="Music" origNum="#415." class="3" section="3" subSection="2" headGroup="25">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="music">
+			<sg number="1">
+				<word number="1">music</word>
+			</sg>
+			<sg number="2">
+				<word number="1">concert</word>
+			</sg>
+			<sg number="3">
+				<word number="1">strain</word>
+				<word number="2">tune</word>
+				<word number="3">air</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="melody" headRef="431">melody</word>
+			</sg>
+			<sg number="5">
+				<word number="1">aria</word>
+				<word number="2">arietta</word>
+			</sg>
+			<sg number="6">
+				<word number="1">piece of music</word>
+				<word number="2">work</word>
+				<word number="3">number</word>
+				<word number="4">opus</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sonata</word>
+			</sg>
+			<sg number="8">
+				<word number="1">rondo</word>
+				<word number="2">rondeau</word>
+			</sg>
+			<sg number="9">
+				<word number="1">pastorale</word>
+				<word number="2">cavatina</word>
+				<word number="3">roulade</word>
+				<word number="4">fantasia</word>
+				<word number="5">concerto</word>
+				<word number="6">overture</word>
+				<word number="7">symphony</word>
+				<word number="8">variations</word>
+				<word number="9">cadenza</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cadence</word>
+			</sg>
+			<sg number="11">
+				<word number="1">fugue</word>
+				<word number="2">canon</word>
+				<word number="3">quodlibet</word>
+				<word number="4">serenade</word>
+				<word number="5">notturno</word>
+				<word number="6">dithyramb</word>
+			</sg>
+			<sg number="12">
+				<word number="1">opera</word>
+				<word number="2">operetta</word>
+			</sg>
+			<sg number="13">
+				<word number="1">oratorio</word>
+			</sg>
+			<sg number="14">
+				<word number="1">composition</word>
+				<word number="2">movement</word>
+			</sg>
+			<sg number="15">
+				<word number="1">stave</word>
+			</sg>
+			<sg number="16">
+				<word number="1">passamezzo</word>
+				<word number="2">toccata</word>
+				<word number="3">Vorspiel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="instrumental music">
+			<sg number="1">
+				<word number="1">instrumental music</word>
+			</sg>
+			<sg number="2">
+				<word number="1">full score</word>
+			</sg>
+			<sg number="3">
+				<word number="1">minstrelsy</word>
+				<word number="2">tweedledum and tweedledee</word>
+				<word number="3">band</word>
+				<word number="4">orchestra</word>
+			</sg>
+			<sg number="4">
+				<word number="1">concerted piece</word>
+				<word number="2">potpourri</word>
+				<word number="3">capriccio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="vocal music">
+			<sg number="1">
+				<word number="1">vocal music</word>
+				<word number="2">vocalism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chaunt</word>
+				<word number="2">chant</word>
+			</sg>
+			<sg number="3">
+				<word number="1">psalm</word>
+				<word number="2">psalmody</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hymn</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="poem" headRef="623">song</word>
+			</sg>
+			<sg number="6">
+				<word number="1">canticle</word>
+				<word number="2">canzonet</word>
+				<word number="3">cantata</word>
+				<word number="4">bravura</word>
+				<word number="5">lay</word>
+				<word number="6">ballad</word>
+				<word number="7">ditty</word>
+				<word number="8">carol</word>
+				<word number="9">pastoral</word>
+				<word number="10">recitative</word>
+				<word number="11">recitativo</word>
+				<word number="12">solfeggio</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="Lydian measures">
+			<sg number="1">
+				<word number="1">Lydian measures</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slow music</word>
+				<word number="2">slow movement</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adv.">adagio</word>
+			</sg>
+			<sg number="4">
+				<word number="1">minuet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">siren  strains</word>
+				<word number="2">soft music</word>
+				<word number="3">lullaby</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dump</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="lament" headRef="877">dirge</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pibroch</word>
+			</sg>
+			<sg number="9">
+				<word number="1">martial music</word>
+				<word number="2">march</word>
+			</sg>
+			<sg number="10">
+				<word number="1">dance music</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="dance" headRef="878">waltz</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="solo">
+			<sg number="1">
+				<word number="1">solo</word>
+				<word number="2">duet</word>
+				<word number="3">duo</word>
+				<word number="4">trio</word>
+			</sg>
+			<sg number="2">
+				<word number="1">quartet</word>
+				<word number="2">quartett</word>
+			</sg>
+			<sg number="3">
+				<word number="1">septett</word>
+			</sg>
+			<sg number="4">
+				<word number="1">part song</word>
+				<word number="2">descant</word>
+				<word number="3">glee</word>
+				<word number="4">madrigal</word>
+				<word number="5">catch</word>
+				<word number="6">round</word>
+				<word number="7">chorus</word>
+				<word number="8">chorale</word>
+			</sg>
+			<sg number="5">
+				<word number="1">antiphon</word>
+				<word number="2">antiphony</word>
+			</sg>
+			<sg number="6">
+				<word number="1">accompaniment</word>
+				<word number="2">second</word>
+				<word number="3">bass</word>
+			</sg>
+			<sg number="7">
+				<word number="1">score</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bourdon</word>
+				<word number="2">drone</word>
+				<word number="3">morceau</word>
+				<word number="4">terzetto</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="composer">
+			<sg number="1">
+				<word number="1" paraRef="composer" headRef="431">composer</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="musician" headRef="434">musician</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="compose">
+			<sg number="1">
+				<word number="1">compose</word>
+				<word number="2" paraRef="perform" headRef="434">perform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attune</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="musical">
+			<sg number="1">
+				<word number="1">musical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">instrumental</word>
+				<word number="2">vocal</word>
+				<word number="3">choral</word>
+				<word number="4">lyric</word>
+				<word number="5">operatic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="harmonious" headRef="431">harmonious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Wagnerian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="adagio">
+			<sg number="1">
+				<word number="1">adagio</word>
+			</sg>
+			<sg number="2">
+				<word number="1">largo</word>
+				<word number="2">larghetto</word>
+				<word number="3">andante</word>
+				<word number="4">andantino</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alla capella</word>
+			</sg>
+			<sg number="4">
+				<word number="1">maestoso</word>
+				<word number="2">moderato</word>
+			</sg>
+			<sg number="5">
+				<word number="1">allegro</word>
+				<word number="2">allegretto</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spiritoso</word>
+				<word number="2">vivace</word>
+				<word number="3">veloce</word>
+			</sg>
+			<sg number="7">
+				<word number="1">presto</word>
+				<word number="2">prestissimo</word>
+			</sg>
+			<sg number="8">
+				<word number="1">con brio</word>
+			</sg>
+			<sg number="9">
+				<word number="1">capriccioso</word>
+			</sg>
+			<sg number="10">
+				<word number="1">scherzo</word>
+				<word number="2">scherzando</word>
+			</sg>
+			<sg number="11">
+				<word number="1">legato</word>
+				<word number="2">staccato</word>
+				<word number="3">crescendo</word>
+				<word number="4">diminuendo</word>
+				<word number="5">rallentando</word>
+				<word number="6">affettuoso</word>
+			</sg>
+			<sg number="12">
+				<word number="1">obbligato</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pizzicato</word>
+			</sg>
+			<sg number="14">
+				<word number="1">desto</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="in notes by distance made more sweet">
+			<sg number="1">
+				<word number="1">"in notes by distance made more sweet"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"like the faint exquisite music of a dream"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"music arose with its voluptuous swell"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"music is the universal language of mankind"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"music's golden tongue"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the speech of angels"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"will sing the savageness out of a bear"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">music hath charms to soothe the savage beast</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!ELEMENT head (pos+)>
+<!ATTLIST head number CDATA #REQUIRED name CDATA #REQUIRED origNum CDATA #REQUIRED class CDATA #REQUIRED section CDATA #REQUIRED subSection CDATA #REQUIRED headGroup CDATA #REQUIRED>
+
+<!ELEMENT pos (paragraph+)>
+<!ATTLIST pos number CDATA #REQUIRED type (N.|VB.|ADJ.|ADV.|INT.|PHR.|PREF.|PRON.) #REQUIRED>
+
+<!ELEMENT paragraph (sg+)>
+<!ATTLIST paragraph number CDATA #REQUIRED name CDATA #REQUIRED>
+
+<!ELEMENT sg (word+)>
+<!ATTLIST sg number CDATA #REQUIRED>
+
+<!ELEMENT word (#PCDATA)>
+<!ATTLIST word number CDATA #REQUIRED paraRef CDATA #IMPLIED posRef CDATA #IMPLIED headRef CDATA #IMPLIED>

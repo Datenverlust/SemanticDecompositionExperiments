@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="617" name="Printing" origNum="#591." class="5" section="3" subSection="2" headGroup="20">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="printing">
+			<sg number="1">
+				<word number="1">printing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">block printing</word>
+				<word number="2">type- printing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="plate printing" headRef="584">plate printing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="publication" headRef="557">the press</word>
+			</sg>
+			<sg number="5">
+				<word number="1">composition</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="print">
+			<sg number="1">
+				<word number="1">print</word>
+				<word number="2">letterpress</word>
+				<word number="3">text</word>
+			</sg>
+			<sg number="2">
+				<word number="1">context</word>
+				<word number="2">note</word>
+				<word number="3">page</word>
+				<word number="4">column</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="typography">
+			<sg number="1">
+				<word number="1">typography</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stereotype</word>
+				<word number="2">electrotype</word>
+				<word number="3">aprotype</word>
+			</sg>
+			<sg number="3">
+				<word number="1">type</word>
+				<word number="2">black letter</word>
+				<word number="3">font</word>
+				<word number="4">fount</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pi</word>
+				<word number="2">pie</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="letter" headRef="587">capitals</word>
+			</sg>
+			<sg number="6">
+				<word number="1">brevier</word>
+				<word number="2">bourgeois</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="boldface">
+			<sg number="1">
+				<word number="1">boldface</word>
+				<word number="2">capitals</word>
+				<word number="3">caps</word>
+				<word number="4">catchword</word>
+			</sg>
+			<sg number="2">
+				<word number="1">composing-frame</word>
+				<word number="2">composing room</word>
+				<word number="3">composing rule</word>
+				<word number="4">composing stand</word>
+				<word number="5">composing stick</word>
+			</sg>
+			<sg number="3">
+				<word number="1">italics</word>
+				<word number="2">justification</word>
+				<word number="3">linotype</word>
+				<word number="4">live matter</word>
+				<word number="5">logotype</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lower case</word>
+				<word number="2">upper case</word>
+			</sg>
+			<sg number="5">
+				<word number="1">make-up</word>
+				<word number="2">matrix</word>
+				<word number="3">matter</word>
+				<word number="4">monotype</word>
+				<word number="5">point system: 4-1/2</word>
+				<word number="6">5</word>
+				<word number="7">5-1/2</word>
+				<word number="8">6</word>
+				<word number="9">7</word>
+				<word number="10">8 point</word>
+				<word number="11">etc</word>
+			</sg>
+			<sg number="6">
+				<word number="1">press room</word>
+				<word number="2">press work</word>
+			</sg>
+			<sg number="7">
+				<word number="1">reglet</word>
+				<word number="2">roman</word>
+			</sg>
+			<sg number="8">
+				<word number="1">running head</word>
+				<word number="2">running title</word>
+			</sg>
+			<sg number="9">
+				<word number="1">scale</word>
+				<word number="2">serif</word>
+				<word number="3">shank</word>
+				<word number="4">sheet work</word>
+				<word number="5">shoulder</word>
+				<word number="6">signature</word>
+				<word number="7">slug</word>
+				<word number="8">underlay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="folio">
+			<sg number="1">
+				<word number="1" paraRef="book" headRef="619">folio</word>
+			</sg>
+			<sg number="2">
+				<word number="1">copy</word>
+				<word number="2">impression</word>
+				<word number="3">pull</word>
+				<word number="4">proof</word>
+				<word number="5">revise</word>
+			</sg>
+			<sg number="3">
+				<word number="1">author's proof</word>
+				<word number="2">galley proof</word>
+				<word number="3">press proof</word>
+			</sg>
+			<sg number="4">
+				<word number="1">press revise</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="printer">
+			<sg number="1">
+				<word number="1">printer</word>
+				<word number="2">compositor</word>
+				<word number="3">reader</word>
+			</sg>
+			<sg number="2">
+				<word number="1">printer's devil copyholder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="print">
+			<sg number="1">
+				<word number="1">print</word>
+			</sg>
+			<sg number="2">
+				<word number="1">compose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">put to press</word>
+				<word number="2">go to press</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass through the press</word>
+				<word number="2">see through the press</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="publish" headRef="557">publish</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bring out</word>
+			</sg>
+			<sg number="7">
+				<word number="1">appear in print</word>
+				<word number="2">rush into print</word>
+			</sg>
+			<sg number="8">
+				<word number="1">distribute</word>
+				<word number="2">makeup</word>
+				<word number="3">mortise</word>
+				<word number="4">offset</word>
+				<word number="5">overrun</word>
+				<word number="6">rout</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="printed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">printed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">in type</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">typographical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">solid in galleys</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

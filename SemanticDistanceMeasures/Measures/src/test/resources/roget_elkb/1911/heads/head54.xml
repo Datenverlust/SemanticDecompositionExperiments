@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="54" name="Part" origNum="#51." class="1" section="3" subSection="4" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="part">
+			<sg number="1">
+				<word number="1">part</word>
+				<word number="2">portion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">item</word>
+				<word number="2">particular</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aught</word>
+				<word number="2">any</word>
+			</sg>
+			<sg number="5">
+				<word number="1">division</word>
+				<word number="2">ward</word>
+			</sg>
+			<sg number="6">
+				<word number="1">subdivision</word>
+				<word number="2">section</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chapter</word>
+				<word number="2">clause</word>
+				<word number="3">count</word>
+				<word number="4">paragraph</word>
+				<word number="5">verse</word>
+			</sg>
+			<sg number="8">
+				<word number="1">article</word>
+				<word number="2">passage</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sector</word>
+				<word number="2">segment</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fraction</word>
+				<word number="2">fragment</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cantle</word>
+				<word number="2">frustum</word>
+			</sg>
+			<sg number="12">
+				<word number="1">detachment</word>
+				<word number="2">parcel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="piece">
+			<sg number="1">
+				<word number="1">piece</word>
+				<word number="2">lump</word>
+				<word number="3">bit cut</word>
+				<word number="4">cutting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chip</word>
+				<word number="2">chunk</word>
+				<word number="3">collop</word>
+				<word number="4">slice</word>
+				<word number="5">scale</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lamina" headRef="213">lamina</word>
+			</sg>
+			<sg number="4">
+				<word number="1">small part</word>
+			</sg>
+			<sg number="5">
+				<word number="1">morsel</word>
+				<word number="2" paraRef="smallness" headRef="34">particle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">installment</word>
+				<word number="2">dividend</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="allotment" headRef="819">share</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="debris">
+			<sg number="1">
+				<word number="1">debris</word>
+				<word number="2">odds and ends</word>
+				<word number="3">oddments</word>
+				<word number="4">detritus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">excerpta</word>
+			</sg>
+			<sg number="3">
+				<word number="1">member</word>
+				<word number="2">limb</word>
+				<word number="3">lobe</word>
+				<word number="4">lobule</word>
+				<word number="5">arm</word>
+				<word number="6">wing</word>
+				<word number="7">scion</word>
+				<word number="8">branch</word>
+				<word number="9">bough</word>
+				<word number="10">joint</word>
+				<word number="11">link</word>
+				<word number="12">offshoot</word>
+				<word number="13">ramification</word>
+				<word number="14">twig</word>
+				<word number="15">bush</word>
+				<word number="16">spray</word>
+				<word number="17">sprig</word>
+			</sg>
+			<sg number="4">
+				<word number="1">runner</word>
+			</sg>
+			<sg number="5">
+				<word number="1">leaf</word>
+				<word number="2">leaflet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stump</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="component part" headRef="59">component part</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sarmentum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="compartment">
+			<sg number="1">
+				<word number="1">compartment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="class" headRef="79">department</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="region" headRef="190">county</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="part">
+			<sg number="1">
+				<word number="1">part</word>
+				<word number="2">divide</word>
+				<word number="3" paraRef="disjoin" headRef="47">break</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="apportion" headRef="819">partition</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fractional">
+			<sg number="1">
+				<word number="1">fractional</word>
+				<word number="2">fragmentary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sectional</word>
+				<word number="2">aliquot</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">divided</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in compartments</word>
+				<word number="2">multifid</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disconnected</word>
+			</sg>
+			<sg number="6">
+				<word number="1">partial</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="partly">
+			<sg number="1">
+				<word number="1">partly</word>
+				<word number="2">in part</word>
+				<word number="3">partially</word>
+			</sg>
+			<sg number="2">
+				<word number="1">piecemeal</word>
+				<word number="2">part by part</word>
+			</sg>
+			<sg number="3">
+				<word number="1">by installments</word>
+				<word number="2">by snatches</word>
+				<word number="3">by inches</word>
+				<word number="4">by driblets</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bit by bit</word>
+				<word number="2">inch by inch</word>
+				<word number="3">foot by foot</word>
+				<word number="4">drop by drop</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in detail</word>
+				<word number="2">in lots</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

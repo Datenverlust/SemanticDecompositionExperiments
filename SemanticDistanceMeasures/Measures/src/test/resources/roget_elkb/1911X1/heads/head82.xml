@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="82" name="Generality" origNum="#78." class="1" section="4" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{opp">
+			<sg number="1">
+				<word number="1">generality</word>
+				<word number="2">generalization</word>
+			</sg>
+			<sg number="2">
+				<word number="1">universality</word>
+			</sg>
+			<sg number="3">
+				<word number="1">catholicity</word>
+				<word number="2">catholicism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">miscellany</word>
+				<word number="2">miscellaneousness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dragnet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">common run</word>
+			</sg>
+			<sg number="7">
+				<word number="1">worldwideness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="everyone">
+			<sg number="1">
+				<word number="1">everyone</word>
+				<word number="2">everybody</word>
+			</sg>
+			<sg number="2">
+				<word number="1">all hands</word>
+				<word number="2">all the world and his wife</word>
+			</sg>
+			<sg number="3">
+				<word number="1">anybody</word>
+				<word number="2">N or M</word>
+				<word number="3">all sorts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="prevalence">
+			<sg number="1">
+				<word number="1">prevalence</word>
+				<word number="2">run</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be general">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be general</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prevail</word>
+				<word number="2">be going about</word>
+				<word number="3">stalk abroad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render general">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render general</word>
+			</sg>
+			<sg number="2">
+				<word number="1">generalize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="general">
+			<sg number="1">
+				<word number="1">general</word>
+				<word number="2">generic</word>
+				<word number="3">collective</word>
+			</sg>
+			<sg number="2">
+				<word number="1">broad</word>
+				<word number="2">comprehensive</word>
+				<word number="3">sweeping</word>
+			</sg>
+			<sg number="3">
+				<word number="1">encyclopedical</word>
+				<word number="2" paraRef="dispersed" headRef="77">widespread</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="universal">
+			<sg number="1">
+				<word number="1">universal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">catholic</word>
+				<word number="2">catholical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">common</word>
+				<word number="2">worldwide</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ecumenical</word>
+				<word number="2">oecumenical</word>
+			</sg>
+			<sg number="5">
+				<word number="1">transcendental</word>
+			</sg>
+			<sg number="6">
+				<word number="1">prevalent</word>
+				<word number="2">prevailing</word>
+				<word number="3">rife</word>
+				<word number="4">epidemic</word>
+				<word number="5">besetting</word>
+				<word number="6" new="1">commonplace</word>
+				<word number="7" new="1">predominant</word>
+				<word number="8" new="1">rampant</word>
+			</sg>
+			<sg number="7">
+				<word number="1">all over</word>
+				<word number="2">covered with</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">ubiquitous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="Pan-American">
+			<sg number="1">
+				<word number="1">Pan-American</word>
+				<word number="2">Anglican</word>
+				<word number="3">Pan-Hellenic</word>
+				<word number="4">Pan-Germanic</word>
+				<word number="5">Slavic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">panharmonic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="every">
+			<sg number="1">
+				<word number="1">every</word>
+				<word number="2">all</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unspecified</word>
+				<word number="2">impersonal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="customary">
+			<sg number="1">
+				<word number="1" paraRef="habitual" headRef="641">customary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="whatever">
+			<sg number="1">
+				<word number="1">whatever</word>
+				<word number="2">whatsoever</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to a man</word>
+				<word number="2">one and all</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="generally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">generally</word>
+			</sg>
+			<sg number="2">
+				<word number="1">always</word>
+				<word number="2">for better for worse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in general</word>
+				<word number="2">generally speaking</word>
+			</sg>
+			<sg number="4">
+				<word number="1">speaking generally</word>
+			</sg>
+			<sg number="5">
+				<word number="1">for the most part</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="on an average" headRef="31">in the long run</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="944" name="Celibacy" origNum="#904." class="8" section="3" subSection="1" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="celibacy">
+			<sg number="1">
+				<word number="1">celibacy</word>
+				<word number="2">singleness</word>
+				<word number="3">single blessedness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bachelorhood</word>
+				<word number="2">bachelorship</word>
+			</sg>
+			<sg number="3">
+				<word number="1">misogamy</word>
+				<word number="2">misogyny</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="virginity">
+			<sg number="1">
+				<word number="1">virginity</word>
+				<word number="2">pucelage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maidenhood</word>
+				<word number="2">maidenhead</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unmarried man">
+			<sg number="1">
+				<word number="1">unmarried man</word>
+				<word number="2">bachelor</word>
+				<word number="3">Coelebs</word>
+				<word number="4">agamist</word>
+				<word number="5">old bachelor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misogamist</word>
+				<word number="2">misogynist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">monogamist</word>
+			</sg>
+			<sg number="4">
+				<word number="1">monk</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unmarried woman">
+			<sg number="1">
+				<word number="1">unmarried woman</word>
+				<word number="2">spinster</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maid</word>
+				<word number="2">maiden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">virgin</word>
+				<word number="2">feme sole</word>
+				<word number="3">old maid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bachelor girl</word>
+				<word number="2">girl-bachelor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nun</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="live single">
+			<sg number="1">
+				<word number="1">live single</word>
+				<word number="2">live alone</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unmarried">
+			<sg number="1">
+				<word number="1">unmarried</word>
+				<word number="2">unwed</word>
+				<word number="3">unwedded</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wifeless</word>
+				<word number="2">spouseless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">single</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

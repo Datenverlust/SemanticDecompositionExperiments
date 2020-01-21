@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="14" name="Contrariety" origNum="#14." class="1" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="contrariety">
+			<sg number="1">
+				<word number="1">contrariety</word>
+				<word number="2">contrast</word>
+				<word number="3">foil</word>
+				<word number="4">antithesis</word>
+				<word number="5">oppositeness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contradiction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="opposition" headRef="737">antagonism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clashing</word>
+				<word number="2">repugnance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inversion">
+			<sg number="1">
+				<word number="1" paraRef="inversion" headRef="228">inversion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the opposite</word>
+				<word number="2">the reverse</word>
+				<word number="3">the inverse</word>
+				<word number="4">the converse</word>
+				<word number="5">the antipodes</word>
+				<word number="6">the antithesis</word>
+				<word number="7">the other extreme</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be contrary">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be contrary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contrast with</word>
+				<word number="2">oppose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diller toto coelo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="invert">
+			<sg number="1">
+				<word number="1">invert</word>
+				<word number="2">reverse</word>
+				<word number="3">turn the tables</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turn topsy-turvy</word>
+				<word number="2">turn end for end</word>
+				<word number="3">turn upside down</word>
+				<word number="4">turn inside out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="contradict">
+			<sg number="1">
+				<word number="1">contradict</word>
+				<word number="2">contravene</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="antagonize" headRef="737">antagonize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="contrary">
+			<sg number="1">
+				<word number="1">contrary</word>
+				<word number="2">contrarious</word>
+				<word number="3">contrariant</word>
+			</sg>
+			<sg number="2">
+				<word number="1">opposite</word>
+				<word number="2">counter</word>
+				<word number="3">dead against</word>
+			</sg>
+			<sg number="3">
+				<word number="1">converse</word>
+				<word number="2">reverse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">opposed</word>
+				<word number="2">antithetical</word>
+				<word number="3">contrasted</word>
+				<word number="4">antipodean</word>
+				<word number="5">antagonistic</word>
+				<word number="6">opposing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conflicting</word>
+				<word number="2">inconsistent</word>
+				<word number="3">contradictory</word>
+				<word number="4">at cross purposes</word>
+				<word number="5" new="1">irreconcilable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">negative</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="hostile" headRef="737">hostile</word>
+			</sg>
+			<sg number="8">
+				<word number="1">diametrically opposite</word>
+			</sg>
+			<sg number="9">
+				<word number="1">diametrically opposed</word>
+			</sg>
+			<sg number="10">
+				<word number="1">as opposite as black and white</word>
+				<word number="2">as opposite as light and darkness</word>
+				<word number="3">as opposite as fire and water</word>
+				<word number="4">as opposite as the poles</word>
+			</sg>
+			<sg number="11">
+				<word number="1">as different as night and day</word>
+			</sg>
+			<sg number="12">
+				<word number="1">"Hyperion to a satyr"</word>
+			</sg>
+			<sg number="13">
+				<word number="1">quite the contrary</word>
+				<word number="2">quite the reverse</word>
+			</sg>
+			<sg number="14">
+				<word number="1">no such thing</word>
+				<word number="2">just the other way</word>
+				<word number="3">tout au contraire</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="contrarily">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">contrarily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">contra</word>
+				<word number="2">contrariwise</word>
+				<word number="3">per contra</word>
+				<word number="4">on the contrary</word>
+				<word number="5">nay rather</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vice versa</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="make compensation" headRef="32">on the other hand</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="all concord's born of contraries">
+			<sg number="1">
+				<word number="1">"all concord's born of contraries"</word>
+				<word number="2">Thesis</word>
+				<word number="3">antithesis</word>
+				<word number="4">synthesis</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

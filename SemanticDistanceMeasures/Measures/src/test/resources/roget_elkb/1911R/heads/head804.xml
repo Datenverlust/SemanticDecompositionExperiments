@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="804" name="Observance" origNum="#772." class="7" section="3" subSection="1" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="observance">
+			<sg number="1">
+				<word number="1">observance</word>
+				<word number="2">performance</word>
+				<word number="3">compliance</word>
+				<word number="4">acquiescence</word>
+				<word number="5">concurrence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="obedience" headRef="774">obedience</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fulfillment</word>
+				<word number="2">satisfaction</word>
+				<word number="3">discharge</word>
+			</sg>
+			<sg number="4">
+				<word number="1">acquittance</word>
+				<word number="2">acquittal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="adhesion">
+			<sg number="1">
+				<word number="1">adhesion</word>
+				<word number="2">acknowledgment</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="probity" headRef="981">fidelity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="exact" headRef="518">exact</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="observe">
+			<sg number="1">
+				<word number="1">observe</word>
+				<word number="2">comply with</word>
+				<word number="3">respect</word>
+				<word number="4">acknowledge</word>
+				<word number="5">abide by</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cling to</word>
+				<word number="2">adhere to</word>
+				<word number="3">be faithful to</word>
+				<word number="4">act up to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">meet</word>
+				<word number="2">fulfill</word>
+			</sg>
+			<sg number="4">
+				<word number="1">carry out</word>
+				<word number="2">carry into execution</word>
+			</sg>
+			<sg number="5">
+				<word number="1">execute</word>
+				<word number="2">perform</word>
+				<word number="3">keep</word>
+				<word number="4">satisfy</word>
+				<word number="5">discharge</word>
+			</sg>
+			<sg number="6">
+				<word number="1">do one's office</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="perform an obligation">
+			<sg number="1">
+				<word number="1">perform an obligation</word>
+				<word number="2">fulfill an obligation</word>
+				<word number="3">discharge an obligation</word>
+				<word number="4">acquit oneself of an obligation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">make good</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make good one's word</word>
+				<word number="2">make good one's promise</word>
+				<word number="3">keep one's word</word>
+				<word number="4">keep one's promise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">redeem one's pledge</word>
+			</sg>
+			<sg number="5">
+				<word number="1">keep faith with</word>
+				<word number="2">stand to one's engagement</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="observant">
+			<sg number="1">
+				<word number="1">observant</word>
+				<word number="2">faithful</word>
+				<word number="3">true</word>
+				<word number="4">loyal</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="honorable" headRef="981">honorable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">true as the dial to the sun</word>
+				<word number="2">true as the needle to the pole</word>
+			</sg>
+			<sg number="4">
+				<word number="1">punctual</word>
+				<word number="2">punctilious</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="exact" headRef="518">literal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">as good as one's word</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="faithfully">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">faithfully</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ignoscito saepe alteri nunquam tibi">
+			<sg number="1">
+				<word number="1">ignoscito saepe alteri nunquam tibi</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tempori parendum</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"to God</word>
+				<word number="2">thy country</word>
+				<word number="3">and thy friend be true"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

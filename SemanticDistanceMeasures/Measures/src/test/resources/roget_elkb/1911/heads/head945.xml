@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="945" name="Divorce" origNum="#905." class="8" section="3" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="divorce">
+			<sg number="1">
+				<word number="1">divorce</word>
+				<word number="2">divorcement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">separation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">judicial separation</word>
+				<word number="2">separate maintenance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">separatio a mensa et thoro</word>
+				<word number="2">separatio a vinculo matrimonii</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="trial separation">
+			<sg number="1">
+				<word number="1">trial separation</word>
+				<word number="2">breakup</word>
+			</sg>
+			<sg number="2">
+				<word number="1">annulment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="widowhood">
+			<sg number="1">
+				<word number="1">widowhood</word>
+				<word number="2">viduity</word>
+				<word number="3">weeds</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="widow">
+			<sg number="1">
+				<word number="1">widow</word>
+				<word number="2">widower</word>
+			</sg>
+			<sg number="2">
+				<word number="1">relict</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dowager</word>
+			</sg>
+			<sg number="4">
+				<word number="1">divorcee</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cuckold</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grass widow</word>
+				<word number="2">grass widower</word>
+			</sg>
+			<sg number="7">
+				<word number="1">merry widow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="live separate">
+			<sg number="1">
+				<word number="1">live separate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">separate</word>
+				<word number="2">divorce</word>
+				<word number="3">disespouse</word>
+				<word number="4">put away</word>
+			</sg>
+			<sg number="3">
+				<word number="1">wear the horns</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

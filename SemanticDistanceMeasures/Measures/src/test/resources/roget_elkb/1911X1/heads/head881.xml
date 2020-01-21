@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="881" name="Dullness" origNum="#843." class="8" section="2" subSection="1" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dullness">
+			<sg number="1">
+				<word number="1">dullness</word>
+				<word number="2">heaviness</word>
+				<word number="3">flatness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="infestivity" headRef="875">infestivity</word>
+				<word number="2" paraRef="stupidity" headRef="523">stupidity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">want of originality</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dearth of ideas</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prose">
+			<sg number="1">
+				<word number="1">prose</word>
+				<word number="2">matter of fact</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heavy book</word>
+				<word number="2">conte a dormir debout</word>
+			</sg>
+			<sg number="3">
+				<word number="1">platitude</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be dull">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be dull</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prose</word>
+				<word number="2">take au serieux</word>
+				<word number="3">be caught napping</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render dull">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render dull</word>
+			</sg>
+			<sg number="2">
+				<word number="1">damp</word>
+				<word number="2">depress</word>
+				<word number="3">throw cold water on</word>
+				<word number="4">lay a wet blanket on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fall flat upon the ear</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="no joke">
+			<sg number="1">
+				<word number="1">no joke</word>
+				<word number="2" paraRef="importance" headRef="671">serious matter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dull">
+			<sg number="1">
+				<word number="1">dull</word>
+				<word number="2">dull as ditch water</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unentertaining</word>
+				<word number="2">uninteresting</word>
+				<word number="3">flat</word>
+				<word number="4">dry as dust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unfunny</word>
+				<word number="2">unlively</word>
+				<word number="3">logy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unimaginative</word>
+			</sg>
+			<sg number="5">
+				<word number="1">insulse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dry as dust</word>
+			</sg>
+			<sg number="7">
+				<word number="1">prosy</word>
+				<word number="2">prosing</word>
+				<word number="3">prosaic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">matter of fact</word>
+				<word number="2">commonplace</word>
+				<word number="3">pedestrian</word>
+				<word number="4">pointless</word>
+			</sg>
+			<sg number="9">
+				<word number="1">"weary stale flat and unprofitable"</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">bland</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="stupid">
+			<sg number="1">
+				<word number="1">stupid</word>
+				<word number="2">slow</word>
+				<word number="3">flat</word>
+				<word number="4">insipid</word>
+				<word number="5">vapid</word>
+				<word number="6">humdrum</word>
+				<word number="7">monotonous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="melancholic" headRef="875">melancholic</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="stolid" headRef="523">stolid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plodding</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">ponderous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="boring">
+			<sg number="1">
+				<word number="1">boring</word>
+				<word number="2">tiresome</word>
+				<word number="3" paraRef="tedious" headRef="879">tedious</word>
+				<word number="4" new="1">mundane</word>
+				<word number="5" new="1">unoriginal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="davus sum non Aedipus">
+			<sg number="1">
+				<word number="1">davus sum non Aedipus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deadly dull and boring</word>
+				<word number="2">DDB</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

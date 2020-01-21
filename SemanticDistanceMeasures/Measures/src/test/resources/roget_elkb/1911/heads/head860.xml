@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="860" name="Sensibility" origNum="#822." class="8" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sensibility">
+			<sg number="1">
+				<word number="1">sensibility</word>
+				<word number="2">sensibleness</word>
+				<word number="3">sensitiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">moral sensibility</word>
+			</sg>
+			<sg number="3">
+				<word number="1">impressibility</word>
+				<word number="2">affectibility</word>
+			</sg>
+			<sg number="4">
+				<word number="1">susceptibleness</word>
+				<word number="2">susceptibility</word>
+				<word number="3">susceptivity</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mobility</word>
+			</sg>
+			<sg number="6">
+				<word number="1">vivacity</word>
+				<word number="2">vivaciousness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tenderness</word>
+				<word number="2">softness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sentimental</word>
+				<word number="2">sentimentality</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sentimentalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="excitability">
+			<sg number="1">
+				<word number="1" paraRef="excitability" headRef="863">excitability</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fastidiousness" headRef="907">fastidiousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="physical sensibility" headRef="388">physical sensibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="sore point">
+			<sg number="1">
+				<word number="1">sore point</word>
+				<word number="2">sore place</word>
+			</sg>
+			<sg number="2">
+				<word number="1">where the shoe pinches</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be sensible">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be sensible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have a tender heart</word>
+				<word number="2">have a warm heart</word>
+				<word number="3">have a sensitive heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take to heart">
+			<sg number="1">
+				<word number="1">take to heart</word>
+				<word number="2">treasure up in the heart</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shrink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="die of a rose in aromatic pain">
+			<sg number="1">
+				<word number="1">"die of a rose in aromatic pain"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">touch to the quick</word>
+			</sg>
+			<sg number="3">
+				<word number="1">touch on the raw</word>
+				<word number="2">touch a raw nerve</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sensible">
+			<sg number="1">
+				<word number="1">sensible</word>
+				<word number="2">sensitive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impressible</word>
+				<word number="2">impressionable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">susceptive</word>
+				<word number="2">susceptible</word>
+			</sg>
+			<sg number="4">
+				<word number="1">alive to</word>
+				<word number="2">impassionable</word>
+				<word number="3">gushing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">warm hearted</word>
+				<word number="2">tender hearted</word>
+				<word number="3">soft hearted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tender as a chicken</word>
+			</sg>
+			<sg number="7">
+				<word number="1">soft</word>
+				<word number="2">sentimental</word>
+				<word number="3">romantic</word>
+			</sg>
+			<sg number="8">
+				<word number="1">enthusiastic</word>
+				<word number="2">highflying</word>
+				<word number="3">spirited</word>
+				<word number="4">mettlesome</word>
+				<word number="5">vivacious</word>
+				<word number="6">lively</word>
+				<word number="7">expressive</word>
+				<word number="8">mobile</word>
+				<word number="9">tremblingly alive</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="excitable" headRef="863">excitable</word>
+			</sg>
+			<sg number="10">
+				<word number="1">oversensitive</word>
+				<word number="2">without skin</word>
+				<word number="3">thin-skinned</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="fastidious" headRef="907">fastidious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="sensibly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">sensibly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">to the quick</word>
+				<word number="2">to the inmost core</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="mens aequa in arduis">
+			<sg number="1">
+				<word number="1">mens aequa in arduis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pour salt in the wound</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="255" name="Curvature" origNum="#245." class="2" section="3" subSection="2" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="curvature">
+			<sg number="1">
+				<word number="1">curvature</word>
+				<word number="2">curvity</word>
+				<word number="3">curvation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incurvature</word>
+				<word number="2">incurvity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incurvation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bend</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flexure</word>
+				<word number="2">flexion</word>
+				<word number="3">flection</word>
+			</sg>
+			<sg number="6">
+				<word number="1">conflexure</word>
+			</sg>
+			<sg number="7">
+				<word number="1">crook</word>
+				<word number="2">hook</word>
+				<word number="3">bought</word>
+				<word number="4">bending</word>
+			</sg>
+			<sg number="8">
+				<word number="1">deflection</word>
+				<word number="2">deflexion</word>
+			</sg>
+			<sg number="9">
+				<word number="1">inflection</word>
+				<word number="2">inflexion</word>
+			</sg>
+			<sg number="10">
+				<word number="1">concameration</word>
+			</sg>
+			<sg number="11">
+				<word number="1">arcuation</word>
+				<word number="2">devexity</word>
+				<word number="3">turn</word>
+				<word number="4">deviation</word>
+				<word number="5">detour</word>
+				<word number="6">sweep</word>
+			</sg>
+			<sg number="12">
+				<word number="1">curl</word>
+				<word number="2">curling</word>
+			</sg>
+			<sg number="13">
+				<word number="1">bough</word>
+			</sg>
+			<sg number="14">
+				<word number="1">recurvity</word>
+				<word number="2">recurvation</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="sinuosity" headRef="258">sinuosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="kink">
+			<sg number="1">
+				<word number="1">kink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="carve">
+			<sg number="1">
+				<word number="1">carve</word>
+				<word number="2">arc</word>
+				<word number="3">arch</word>
+				<word number="4">arcade</word>
+				<word number="5">vault</word>
+				<word number="6">bow</word>
+				<word number="7">crescent</word>
+				<word number="8">half-moon</word>
+				<word number="9">lunule</word>
+				<word number="10">horseshoe</word>
+				<word number="11">loop</word>
+				<word number="12">crane neck</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parabola</word>
+				<word number="2">hyperbola</word>
+			</sg>
+			<sg number="3">
+				<word number="1">helix</word>
+				<word number="2">spiral</word>
+			</sg>
+			<sg number="4">
+				<word number="1">catenary</word>
+				<word number="2">festoon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">conchoid</word>
+				<word number="2">cardioid</word>
+			</sg>
+			<sg number="6">
+				<word number="1">caustic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tracery</word>
+			</sg>
+			<sg number="8">
+				<word number="1">arched ceiling</word>
+				<word number="2">arched roof</word>
+			</sg>
+			<sg number="9">
+				<word number="1">bay window</word>
+				<word number="2">bow window</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sine curve">
+			<sg number="1">
+				<word number="1">sine curve</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spline</word>
+				<word number="2">spline curve</word>
+				<word number="3">spline function</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="obliquity" headRef="227">obliquity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be curved">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be curved</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curve</word>
+				<word number="2">sweep</word>
+				<word number="3">sway</word>
+				<word number="4">swag</word>
+				<word number="5">sag</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="deviate" headRef="290">deviate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">curl</word>
+				<word number="2">turn</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reenter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render curved">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render curved</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flex</word>
+				<word number="2">bend</word>
+				<word number="3">curve</word>
+				<word number="4">incurvate</word>
+				<word number="5" new="1">angle</word>
+				<word number="6" new="1">fold</word>
+				<word number="7" new="1">thrust</word>
+			</sg>
+			<sg number="3">
+				<word number="1">inflect</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deflect</word>
+				<word number="2">scatter</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="light" headRef="438">refract</word>
+			</sg>
+			<sg number="6">
+				<word number="1">crook</word>
+			</sg>
+			<sg number="7">
+				<word number="1">turn</word>
+				<word number="2">round</word>
+				<word number="3">arch</word>
+				<word number="4">arcuate</word>
+				<word number="5">arch over</word>
+				<word number="6">concamerate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bow</word>
+				<word number="2">curl</word>
+				<word number="3">recurve</word>
+				<word number="4">frizzle</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">rib</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rotundity">
+			<sg number="1">
+				<word number="1" paraRef="rotundity" headRef="259">rotundity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="convexity" headRef="260">convexity</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="curved">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">curved</word>
+			</sg>
+			<sg number="2">
+				<word number="1">curviform</word>
+				<word number="2">curvilineal</word>
+				<word number="3">curvilinear</word>
+			</sg>
+			<sg number="3">
+				<word number="1">devex</word>
+				<word number="2">devious</word>
+			</sg>
+			<sg number="4">
+				<word number="1">recurved</word>
+				<word number="2">recurvous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">crump</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">bowed</word>
+			</sg>
+			<sg number="7">
+				<word number="1">vaulted</word>
+				<word number="2">hooked</word>
+			</sg>
+			<sg number="8">
+				<word number="1">falciform</word>
+				<word number="2">falcated</word>
+			</sg>
+			<sg number="9">
+				<word number="1">semicircular</word>
+				<word number="2">crescentic</word>
+			</sg>
+			<sg number="10">
+				<word number="1">sinusoid</word>
+				<word number="2">parabolic</word>
+				<word number="3">paraboloid</word>
+			</sg>
+			<sg number="11">
+				<word number="1">luniform</word>
+				<word number="2">lunular</word>
+			</sg>
+			<sg number="12">
+				<word number="1">semilunar</word>
+				<word number="2">conchoidal</word>
+			</sg>
+			<sg number="13">
+				<word number="1">helical</word>
+				<word number="2">double helical</word>
+				<word number="3">spiral</word>
+				<word number="4" new="1">coiled</word>
+			</sg>
+			<sg number="14">
+				<word number="1">kinky</word>
+			</sg>
+			<sg number="15">
+				<word number="1">cordiform</word>
+				<word number="2">cordated</word>
+			</sg>
+			<sg number="16">
+				<word number="1">cardioid</word>
+			</sg>
+			<sg number="17">
+				<word number="1">heart shaped</word>
+				<word number="2">bell shaped</word>
+				<word number="3">boat shaped</word>
+				<word number="4">crescent shaped</word>
+				<word number="5">lens shaped</word>
+				<word number="6">moon shaped</word>
+				<word number="7">oar shaped</word>
+				<word number="8">shield shaped</word>
+				<word number="9">sickle shaped</word>
+				<word number="10">tongue shaped</word>
+				<word number="11">pear shaped</word>
+				<word number="12">fig shaped</word>
+			</sg>
+			<sg number="18">
+				<word number="1">kidney- shaped</word>
+				<word number="2">reniform</word>
+			</sg>
+			<sg number="19">
+				<word number="1">lentiform</word>
+				<word number="2">lenticular</word>
+			</sg>
+			<sg number="20">
+				<word number="1" paraRef="distorted" headRef="253">bow-legged</word>
+			</sg>
+			<sg number="21">
+				<word number="1" paraRef="obliquity" headRef="227">oblique</word>
+			</sg>
+			<sg number="22">
+				<word number="1" paraRef="circular" headRef="257">circular</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">annular</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="aduncated">
+			<sg number="1">
+				<word number="1">aduncated</word>
+				<word number="2">arclike</word>
+				<word number="3">arcuate</word>
+				<word number="4">arched</word>
+				<word number="5">beaked</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bicorn</word>
+				<word number="2">bicornuous</word>
+				<word number="3">bicornute</word>
+			</sg>
+			<sg number="3">
+				<word number="1">clypeate</word>
+				<word number="2">clypeiform</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cymbiform</word>
+				<word number="2">embowed</word>
+				<word number="3">galeiform</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hamate</word>
+				<word number="2">hamiform</word>
+				<word number="3">hamous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hooked</word>
+			</sg>
+			<sg number="7">
+				<word number="1">linguiform</word>
+				<word number="2">lingulate</word>
+			</sg>
+			<sg number="8">
+				<word number="1">lobiform</word>
+				<word number="2">lunate</word>
+				<word number="3">navicular</word>
+				<word number="4">peltate</word>
+				<word number="5">remiform</word>
+				<word number="6">rhamphoid</word>
+			</sg>
+			<sg number="9">
+				<word number="1">rostrate</word>
+				<word number="2">rostriferous</word>
+				<word number="3">rostroid</word>
+			</sg>
+			<sg number="10">
+				<word number="1">scutate</word>
+				<word number="2">scaphoid</word>
+				<word number="3">uncate</word>
+			</sg>
+			<sg number="11">
+				<word number="1">unguiculate</word>
+				<word number="2">unguiform</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

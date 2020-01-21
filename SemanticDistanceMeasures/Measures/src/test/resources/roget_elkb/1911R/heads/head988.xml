@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="988" name="Innocence" origNum="#946." class="8" section="4" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="innocence">
+			<sg number="1">
+				<word number="1">innocence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">guiltlessness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incorruption</word>
+				<word number="2">impeccability</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="clean hands">
+			<sg number="1">
+				<word number="1">clean hands</word>
+				<word number="2">clear conscience</word>
+				<word number="3">mens sibi conscia recti</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="innocent">
+			<sg number="1">
+				<word number="1">innocent</word>
+				<word number="2">lamb</word>
+				<word number="3">dove</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be innocent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be innocent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nil conscire sibi nulla pallescere culpa</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acquit">
+			<sg number="1">
+				<word number="1" paraRef="acquit" headRef="1013">acquit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="vindicate" headRef="979">exculpate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="innocent">
+			<sg number="1">
+				<word number="1">innocent</word>
+				<word number="2">not guilty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unguilty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">guiltless</word>
+				<word number="2">faultless</word>
+				<word number="3">sinless</word>
+				<word number="4">stainless</word>
+				<word number="5">bloodless</word>
+				<word number="6">spotless</word>
+				<word number="7" new="1">longingly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">clear</word>
+				<word number="2">immaculate</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rectus in curia</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unspotted</word>
+				<word number="2">unblemished</word>
+				<word number="3">unerring</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="undefiled" headRef="981">undefiled</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unhardened</word>
+				<word number="2">Saturnian</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="artless" headRef="732">Arcadian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inculpable">
+			<sg number="1">
+				<word number="1">inculpable</word>
+				<word number="2">unculpable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unblamed</word>
+				<word number="2">unblamable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blameless</word>
+				<word number="2">unfallen</word>
+				<word number="3">inerrable</word>
+				<word number="4">above suspicion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">irreproachable</word>
+				<word number="2">irreprovable</word>
+				<word number="3">irreprehensible</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unexceptionable</word>
+				<word number="2">unobjectionable</word>
+				<word number="3">unimpeachable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">salvable</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="venial" headRef="979">venial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="harmless">
+			<sg number="1">
+				<word number="1">harmless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inoffensive</word>
+				<word number="2">innoxious</word>
+				<word number="3">innocuous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dove-like</word>
+				<word number="2">lamb- like</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pure</word>
+				<word number="2">harmless as doves</word>
+			</sg>
+			<sg number="5">
+				<word number="1">innocent as a lamb</word>
+				<word number="2">innocent as the babe unborn</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"more sinned against than sinning"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="virtuous">
+			<sg number="1">
+				<word number="1" paraRef="virtuous" headRef="986">virtuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unreproved</word>
+				<word number="2">unimpeached</word>
+				<word number="3">unreproached</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="innocently">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">innocently</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with clean hands</word>
+			</sg>
+			<sg number="3">
+				<word number="1">with a clear conscience</word>
+				<word number="2">with a safe conscience</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="murus aeneus conscientia sana">
+			<sg number="1">
+				<word number="1">murus aeneus conscientia sana</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

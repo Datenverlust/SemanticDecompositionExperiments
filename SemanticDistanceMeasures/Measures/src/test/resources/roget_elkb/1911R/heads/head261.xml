@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="261" name="Flatness" origNum="#251." class="2" section="3" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="flatness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">flatness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="smoothness" headRef="266">smoothness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="plane">
+			<sg number="1">
+				<word number="1">plane</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="level" headRef="222">level</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plate</word>
+				<word number="2">platter</word>
+				<word number="3">table</word>
+				<word number="4">tablet</word>
+				<word number="5">slab</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="render flat">
+			<sg number="1">
+				<word number="1">render flat</word>
+				<word number="2">flatten</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="level" headRef="222">level</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="flat">
+			<sg number="1">
+				<word number="1">flat</word>
+				<word number="2">plane</word>
+				<word number="3">even</word>
+				<word number="4">flush</word>
+				<word number="5">scutiform</word>
+				<word number="6">discoid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="horizontal" headRef="222">level</word>
+			</sg>
+			<sg number="3">
+				<word number="1">flat as a pancake</word>
+				<word number="2">flat as a fluke</word>
+				<word number="3">flat as a flounder</word>
+				<word number="4">flat as a board</word>
+				<word number="5">flat as my hand</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

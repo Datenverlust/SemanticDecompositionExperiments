@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="226" name="Perpendicularity" origNum="#216a." class="2" section="2" subSection="2" headGroup="9">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{ant">
+			<sg number="1">
+				<word number="1">perpendicularity</word>
+				<word number="2">orthogonality</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="verticality" headRef="221">verticality</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be perpendicular">
+			<sg number="1">
+				<word number="1">be perpendicular</word>
+				<word number="2">be orthogonal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">intersect at right angles</word>
+				<word number="2">be rectangular</word>
+				<word number="3">be at right angles to</word>
+				<word number="4">intersect at 90 degrees</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have no correlation</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="orthogonal">
+			<sg number="1">
+				<word number="1">orthogonal</word>
+				<word number="2">perpendicular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rectangular</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uncorrelated</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

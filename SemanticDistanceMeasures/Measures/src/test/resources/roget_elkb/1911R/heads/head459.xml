@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="459" name="Variegation" origNum="#440." class="3" section="3" subSection="2" headGroup="34">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="variegation">
+			<sg number="1">
+				<word number="1">variegation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">colors</word>
+				<word number="2">dichroism</word>
+				<word number="3">trichroism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">iridescence</word>
+				<word number="2">play of colors</word>
+				<word number="3">polychrome</word>
+				<word number="4">maculation</word>
+				<word number="5">spottiness</word>
+				<word number="6">striae</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="spectrum">
+			<sg number="1">
+				<word number="1">spectrum</word>
+				<word number="2">rainbow</word>
+				<word number="3">iris</word>
+				<word number="4">tulip</word>
+				<word number="5">peacock</word>
+				<word number="6">chameleon</word>
+				<word number="7">butterfly</word>
+				<word number="8">tortoise shell</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mackerel</word>
+				<word number="2">mackerel sky</word>
+			</sg>
+			<sg number="3">
+				<word number="1">zebra</word>
+				<word number="2">leopard</word>
+				<word number="3">cheetah</word>
+				<word number="4">nacre</word>
+				<word number="5">ocelot</word>
+				<word number="6">ophite</word>
+				<word number="7">mother-of-pearl</word>
+				<word number="8">opal</word>
+				<word number="9">marble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="check">
+			<sg number="1">
+				<word number="1">check</word>
+				<word number="2">plaid</word>
+				<word number="3">tartan</word>
+				<word number="4">patchwork</word>
+			</sg>
+			<sg number="2">
+				<word number="1">marquetry-</word>
+				<word number="2">parquetry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mosaic</word>
+				<word number="2">tesserae</word>
+				<word number="3">strigae</word>
+			</sg>
+			<sg number="4">
+				<word number="1">chessboard</word>
+				<word number="2">checkers</word>
+				<word number="3">chequers</word>
+			</sg>
+			<sg number="5">
+				<word number="1">harlequin</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Joseph's coat</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tricolor</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be variegated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be variegated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">variegate</word>
+				<word number="2">stripe</word>
+				<word number="3">streak</word>
+				<word number="4">checker</word>
+				<word number="5">chequer</word>
+				<word number="6" new="1">reformulate</word>
+				<word number="7" new="1">lease</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bespeckle</word>
+				<word number="2">speckle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">besprinkle</word>
+				<word number="2">sprinkle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stipple</word>
+				<word number="2">maculate</word>
+				<word number="3">dot</word>
+				<word number="4">bespot</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tattoo</word>
+				<word number="2">inlay</word>
+				<word number="3">damascene</word>
+			</sg>
+			<sg number="7">
+				<word number="1">embroider</word>
+				<word number="2">braid</word>
+				<word number="3">quilt</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="variegated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">variegated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">many-colored</word>
+				<word number="2">many-hued</word>
+			</sg>
+			<sg number="3">
+				<word number="1">divers-colored</word>
+				<word number="2">party-colored</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dichromatic</word>
+				<word number="2">polychromatic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bicolor</word>
+				<word number="2">tricolor</word>
+				<word number="3">versicolor</word>
+			</sg>
+			<sg number="6">
+				<word number="1">of all the colors of the rainbow</word>
+				<word number="2">of all manner of colors</word>
+			</sg>
+			<sg number="7">
+				<word number="1">kaleidoscopic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="iridescent">
+			<sg number="1">
+				<word number="1">iridescent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">opaline</word>
+				<word number="2">opalescent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prismatic</word>
+				<word number="2">nacreous</word>
+				<word number="3">pearly</word>
+				<word number="4">shot</word>
+				<word number="5">gorge de pigeon</word>
+				<word number="6">chatoyant</word>
+			</sg>
+			<sg number="4">
+				<word number="1">irisated</word>
+				<word number="2">pavonine</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">devastatingly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="pied">
+			<sg number="1">
+				<word number="1">pied</word>
+				<word number="2">piebald</word>
+			</sg>
+			<sg number="2">
+				<word number="1">motley</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mottled</word>
+				<word number="2">marbled</word>
+				<word number="3" new="1">commodified</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pepper and salt</word>
+				<word number="2">paned</word>
+				<word number="3">dappled</word>
+				<word number="4">clouded</word>
+				<word number="5">cymophanous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mosaic">
+			<sg number="1">
+				<word number="1">mosaic</word>
+				<word number="2">tesselated</word>
+				<word number="3">plaid</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">tortoise shell</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="spotted">
+			<sg number="1">
+				<word number="1">spotted</word>
+				<word number="2">spotty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">punctated</word>
+				<word number="2">powdered</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">speckled</word>
+			</sg>
+			<sg number="4">
+				<word number="1">freckled</word>
+				<word number="2">flea-bitten</word>
+				<word number="3">studded</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flecked</word>
+				<word number="2">fleckered</word>
+			</sg>
+			<sg number="6">
+				<word number="1">striated</word>
+				<word number="2">barred</word>
+				<word number="3">veined</word>
+			</sg>
+			<sg number="7">
+				<word number="1">brinded</word>
+				<word number="2">brindled</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tabby</word>
+			</sg>
+			<sg number="9">
+				<word number="1">watered</word>
+			</sg>
+			<sg number="10">
+				<word number="1">grizzled</word>
+			</sg>
+			<sg number="11">
+				<word number="1">listed</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="" posRef="v.">embroidered</word>
+			</sg>
+			<sg number="13">
+				<word number="1">daedal</word>
+			</sg>
+			<sg number="14">
+				<word number="1">naevose</word>
+				<word number="2">stipiform</word>
+			</sg>
+			<sg number="15">
+				<word number="1">strigose</word>
+				<word number="2">striolate</word>
+			</sg>
+			<sg number="16">
+				<word number="1" new="1">colonic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="unbeknown">
+			<sg number="1">
+				<word number="1" new="1">unbeknown</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

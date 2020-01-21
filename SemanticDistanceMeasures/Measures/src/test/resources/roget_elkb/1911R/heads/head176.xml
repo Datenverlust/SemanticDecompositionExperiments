@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="176" name="Unproductiveness" origNum="#169." class="1" section="8" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="unproductiveness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">unproductiveness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infertility</word>
+				<word number="2">sterility</word>
+				<word number="3">infecundity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">masturbation</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="impotence" headRef="165">impotence</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inutility" headRef="674">unprofitableness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="waste">
+			<sg number="1">
+				<word number="1">waste</word>
+				<word number="2">desert</word>
+				<word number="3">Sahara</word>
+				<word number="4">wild</word>
+				<word number="5">wilderness</word>
+				<word number="6">howling wilderness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be - unproductive">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be - unproductive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang fire</word>
+				<word number="2">flash in the pan</word>
+				<word number="3">come to nothing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="sterilize">
+			<sg number="1">
+				<word number="1">sterilize</word>
+				<word number="2">addle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disable</word>
+				<word number="2">inactivate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unproductive">
+			<sg number="1">
+				<word number="1">unproductive</word>
+				<word number="2">acarpous</word>
+				<word number="3">inoperative</word>
+				<word number="4">barren</word>
+				<word number="5">addled</word>
+				<word number="6">infertile</word>
+				<word number="7">unfertile</word>
+				<word number="8">unprolific</word>
+				<word number="9">arid</word>
+				<word number="10">sterile</word>
+				<word number="11">unfruitful</word>
+				<word number="12">infecund</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sine prole</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fallow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">teemless</word>
+				<word number="2">issueless</word>
+				<word number="3">fruitless</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="useless" headRef="674">unprofitable</word>
+			</sg>
+			<sg number="6">
+				<word number="1">null and void</word>
+				<word number="2">of no effect</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">cade</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

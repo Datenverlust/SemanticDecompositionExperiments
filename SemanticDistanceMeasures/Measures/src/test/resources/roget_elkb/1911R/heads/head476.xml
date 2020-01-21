@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="476" name="Incuriosity" origNum="#456." class="4" section="2" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="incuriosity">
+			<sg number="1">
+				<word number="1">incuriosity</word>
+				<word number="2" paraRef="" posRef="adj.">incuriousness</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="insouciance" headRef="905">insouciance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">indifference</word>
+				<word number="2">lack of interest</word>
+				<word number="3">disinterest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="boredom">
+			<sg number="1">
+				<word number="1">boredom</word>
+				<word number="2" paraRef="weariness" headRef="879">ennui</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="satiety" headRef="668">satiety</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="foresight" headRef="534">foreknowledge</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be incurious">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be incurious</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="curiosity" headRef="475">have no curiosity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="take no interest in" headRef="861">take no interest in</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mind one's own business</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="incurious">
+			<sg number="1">
+				<word number="1">incurious</word>
+				<word number="2">uninquisitive</word>
+				<word number="3">indifferent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="impassive" headRef="861">impassive</word>
+			</sg>
+			<sg number="3">
+				<word number="1">uninterested</word>
+				<word number="2">detached</word>
+				<word number="3">aloof</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

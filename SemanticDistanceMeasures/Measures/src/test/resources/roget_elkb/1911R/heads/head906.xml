@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="906" name="Dislike" origNum="#867." class="8" section="2" subSection="3" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dislike">
+			<sg number="1">
+				<word number="1">dislike</word>
+				<word number="2">distaste</word>
+				<word number="3">disrelish</word>
+				<word number="4">disinclination</word>
+				<word number="5">displacency</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="reluctance">
+			<sg number="1">
+				<word number="1">reluctance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unwillingness" headRef="629">backwardness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="repugnance">
+			<sg number="1">
+				<word number="1">repugnance</word>
+				<word number="2">disgust</word>
+				<word number="3">queasiness</word>
+				<word number="4">turn</word>
+				<word number="5">nausea</word>
+				<word number="6">loathing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">averseness</word>
+				<word number="2">aversation</word>
+				<word number="3">aversion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">abomination</word>
+				<word number="2">antipathy</word>
+				<word number="3">abhorrence</word>
+				<word number="4">horror</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mortal antipathy</word>
+				<word number="2">rooted antipathy</word>
+				<word number="3">mortal horror</word>
+				<word number="4">rooted horror</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hatred</word>
+				<word number="2">detestation</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="hate" headRef="937">hate</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="animosity" headRef="939">animosity</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hydrophobia</word>
+			</sg>
+			<sg number="9">
+				<word number="1">canine madness</word>
+			</sg>
+			<sg number="10">
+				<word number="1">byssa</word>
+				<word number="2">xenophobia</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">essential</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">noun</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">housecat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sickener">
+			<sg number="1">
+				<word number="1">sickener</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="unsavory" headRef="411">gall and wormwood</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shuddering</word>
+				<word number="2">cold sweat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="ragdoll">
+			<sg number="1">
+				<word number="1" new="1">ragdoll</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="animism">
+			<sg number="1">
+				<word number="1" new="1">animism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="institutionalism">
+			<sg number="1">
+				<word number="1" new="1">institutionalism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="marquisate">
+			<sg number="1">
+				<word number="1" new="1">marquisate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="mislike misrelish">
+			<sg number="1">
+				<word number="1">mislike misrelish</word>
+				<word number="2">dislike</word>
+				<word number="3">disrelish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mind</word>
+				<word number="2">object to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">have rather not</word>
+				<word number="2">would rather not</word>
+				<word number="3">prefer not to</word>
+				<word number="4">not care for</word>
+			</sg>
+			<sg number="4">
+				<word number="1">have a dislike for</word>
+				<word number="2">conceive a dislike to</word>
+				<word number="3">entertain a dislike for</word>
+				<word number="4">take a dislike to</word>
+				<word number="5">have an aversion to</word>
+				<word number="6">have an aversion for</word>
+			</sg>
+			<sg number="5">
+				<word number="1">have no taste for</word>
+				<word number="2">have no stomach for</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="shun">
+			<sg number="1">
+				<word number="1">shun</word>
+				<word number="2" paraRef="avoid" headRef="652">avoid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eschew</word>
+			</sg>
+			<sg number="3">
+				<word number="1">withdraw from</word>
+				<word number="2">shrink from</word>
+				<word number="3">recoil from</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not be able to bear</word>
+				<word number="2">not be able to abide</word>
+				<word number="3">not be able to endure</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shrug the shoulders at</word>
+				<word number="2">shudder at</word>
+				<word number="3">turn up the nose at</word>
+				<word number="4">look askance at</word>
+			</sg>
+			<sg number="6">
+				<word number="1">make a mouth</word>
+				<word number="2">make a wry face</word>
+				<word number="3">make a grimace</word>
+			</sg>
+			<sg number="7">
+				<word number="1">make faces</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="loathe">
+			<sg number="1">
+				<word number="1">loathe</word>
+				<word number="2">nauseate</word>
+				<word number="3">abominate</word>
+				<word number="4">detest</word>
+				<word number="5">abhor</word>
+				<word number="6" new="1">admire</word>
+				<word number="7" new="1">slaver</word>
+				<word number="8" new="1">nicker</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="hate" headRef="937">hate</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="take amiss" headRef="939">take amiss</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="be satiated" headRef="908">have enough of</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">predestine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="wish away">
+			<sg number="1">
+				<word number="1">wish away</word>
+				<word number="2">unwish      cause dislike</word>
+				<word number="3">excite dislike</word>
+			</sg>
+			<sg number="2">
+				<word number="1">disincline</word>
+				<word number="2">repel</word>
+				<word number="3">sicken</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make sick</word>
+				<word number="2">render sick</word>
+			</sg>
+			<sg number="4">
+				<word number="1">turn one's stomach</word>
+				<word number="2">nauseate</word>
+				<word number="3">wamble</word>
+				<word number="4">disgust</word>
+				<word number="5">shock</word>
+				<word number="6">stink in the nostrils</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go against the grain</word>
+				<word number="2">go against the stomach</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stick in the throat</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="give pain" headRef="868">make one's blood run cold</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pall</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disliking">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disliking</word>
+			</sg>
+			<sg number="2">
+				<word number="1">averse from</word>
+				<word number="2">loathe</word>
+				<word number="3">loathe to</word>
+				<word number="4">loth</word>
+				<word number="5">adverse</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shy of</word>
+				<word number="2">sick of</word>
+				<word number="3">out of conceit with</word>
+			</sg>
+			<sg number="4">
+				<word number="1">disinclined</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heartsick</word>
+				<word number="2">dogsick</word>
+			</sg>
+			<sg number="6">
+				<word number="1">queasy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disliked">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disliked</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncared for</word>
+				<word number="2">unpopular</word>
+			</sg>
+			<sg number="3">
+				<word number="1">out of favor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">repulsive</word>
+				<word number="2">repugnant</word>
+				<word number="3">repellant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">abhorrent</word>
+				<word number="2">insufferable</word>
+				<word number="3">fulsome</word>
+				<word number="4">nauseous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">loathsome</word>
+				<word number="2">loathful</word>
+			</sg>
+			<sg number="7">
+				<word number="1">offensive</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="" posRef="v.">disgusting</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="painful" headRef="868">disagreeable</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">rezoning</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="usque ad nauseam">
+			<sg number="1">
+				<word number="1">usque ad nauseam</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="faugh">
+			<sg number="1">
+				<word number="1">faugh!</word>
+				<word number="2">foh!</word>
+				<word number="3">ugh!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="non libet">
+			<sg number="1">
+				<word number="1">non libet</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

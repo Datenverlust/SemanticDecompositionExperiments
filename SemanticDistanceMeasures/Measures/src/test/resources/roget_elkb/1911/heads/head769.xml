@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="769" name="Laxity" origNum="#738." class="7" section="1" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="laxity">
+			<sg number="1">
+				<word number="1">laxity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laxness</word>
+				<word number="2">looseness</word>
+				<word number="3">slackness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lenity" headRef="771">toleration</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="freedom" headRef="779">freedom</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="anarchy">
+			<sg number="1">
+				<word number="1">anarchy</word>
+				<word number="2">interregnum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">relaxation</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">loosening</word>
+			</sg>
+			<sg number="4">
+				<word number="1">remission</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dead letter</word>
+				<word number="2">brutum fulmen</word>
+				<word number="3">misrule</word>
+			</sg>
+			<sg number="6">
+				<word number="1">license</word>
+				<word number="2">licentiousness</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="disobedience" headRef="773">insubordination</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="illegality" headRef="1007">lynch law</word>
+			</sg>
+			<sg number="9">
+				<word number="1">nihilism</word>
+				<word number="2">reign of violence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dethronement">
+			<sg number="1">
+				<word number="1">dethronement</word>
+				<word number="2">deposition</word>
+				<word number="3">usurpation</word>
+				<word number="4">abdication</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be lax">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be lax</word>
+			</sg>
+			<sg number="2">
+				<word number="1">laisser faire</word>
+				<word number="2">laisser aller</word>
+			</sg>
+			<sg number="3">
+				<word number="1">hold a loose rein</word>
+			</sg>
+			<sg number="4">
+				<word number="1">give the reins to</word>
+				<word number="2">give rope enough</word>
+				<word number="3">give a loose to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tolerate</word>
+			</sg>
+			<sg number="6">
+				<word number="1">relax</word>
+			</sg>
+			<sg number="7">
+				<word number="1">misrule</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="go beyond the length of one's tether">
+			<sg number="1">
+				<word number="1">go beyond the length of one's tether</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have one's swing</word>
+				<word number="2">have one's fling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">act without instructions</word>
+				<word number="2">act without authority</word>
+				<word number="3">act outside of one's authority</word>
+			</sg>
+			<sg number="4">
+				<word number="1">act on one's own responsibility</word>
+				<word number="2">usurp authority</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dethrone">
+			<sg number="1">
+				<word number="1">dethrone</word>
+				<word number="2">depose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">abdicate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lax">
+			<sg number="1">
+				<word number="1">lax</word>
+				<word number="2">loose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slack</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="careless" headRef="480">remiss</word>
+			</sg>
+			<sg number="4">
+				<word number="1">weak</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="relaxed">
+			<sg number="1">
+				<word number="1">relaxed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">licensed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">reinless</word>
+				<word number="2">unbridled</word>
+			</sg>
+			<sg number="4">
+				<word number="1">anarchical</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="unwarranted" headRef="966">unauthorized</word>
+			</sg>
+			<sg number="6">
+				<word number="1">adespotic</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

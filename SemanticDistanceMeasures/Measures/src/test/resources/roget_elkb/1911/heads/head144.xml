@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="144" name="Infrequency" origNum="#137." class="1" section="6" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="infrequency">
+			<sg number="1">
+				<word number="1">infrequency</word>
+				<word number="2">rareness</word>
+				<word number="3">rarity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fewness" headRef="108">fewness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">seldomness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">uncommonness</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be rare">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be rare</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="unfrequent">
+			<sg number="1">
+				<word number="1">unfrequent</word>
+				<word number="2">infrequent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rare</word>
+				<word number="2">rare as a blue diamond</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="few" headRef="108">few</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scarce</word>
+			</sg>
+			<sg number="5">
+				<word number="1">almost unheard of</word>
+				<word number="2">unprecedented</word>
+				<word number="3">which has not occurred within the memory of the oldest inhabitant</word>
+				<word number="4">not within one's previous experience</word>
+			</sg>
+			<sg number="6">
+				<word number="1">not since Adam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="scarce as hen's teeth">
+			<sg number="1">
+				<word number="1">scarce as hen's teeth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">one in a million</word>
+			</sg>
+			<sg number="3">
+				<word number="1">few and far between</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="seldom">
+			<sg number="1">
+				<word number="1">seldom</word>
+				<word number="2">rarely</word>
+				<word number="3">scarcely</word>
+				<word number="4">hardly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not often</word>
+				<word number="2">not much</word>
+				<word number="3">infrequently</word>
+				<word number="4">unfrequently</word>
+				<word number="5">unoften</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scarcely</word>
+				<word number="2">scarcely ever</word>
+				<word number="3">hardly ever</word>
+			</sg>
+			<sg number="4">
+				<word number="1">once in a blue moon</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="once">
+			<sg number="1">
+				<word number="1">once</word>
+			</sg>
+			<sg number="2">
+				<word number="1">once in a blue moon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">once in a million years</word>
+			</sg>
+			<sg number="4">
+				<word number="1">once for all</word>
+				<word number="2">once in a way</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pro hac vice</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ein mal kein mal">
+			<sg number="1">
+				<word number="1">ein mal kein mal</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

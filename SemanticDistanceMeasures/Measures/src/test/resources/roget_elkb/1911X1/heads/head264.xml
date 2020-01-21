@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="264" name="Sharpness" origNum="#253." class="2" section="3" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sharpness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">sharpness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acuity</word>
+				<word number="2">acumination</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spinosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="point">
+			<sg number="1">
+				<word number="1">point</word>
+				<word number="2">spike</word>
+				<word number="3">spine</word>
+				<word number="4">spicule</word>
+				<word number="5">spiculum</word>
+			</sg>
+			<sg number="2">
+				<word number="1">needle</word>
+				<word number="2">hypodermic needle</word>
+				<word number="3">tack</word>
+				<word number="4">nail</word>
+				<word number="5">pin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prick</word>
+				<word number="2">prickle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spur</word>
+				<word number="2">rowel</word>
+				<word number="3">barb</word>
+			</sg>
+			<sg number="5">
+				<word number="1">spit</word>
+				<word number="2">cusp</word>
+			</sg>
+			<sg number="6">
+				<word number="1">horn</word>
+				<word number="2">antler</word>
+			</sg>
+			<sg number="7">
+				<word number="1">snag</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tag thorn</word>
+				<word number="2">bristle</word>
+			</sg>
+			<sg number="9">
+				<word number="1">Adam's needle</word>
+				<word number="2">bear grass</word>
+				<word number="3">tine</word>
+				<word number="4">yucca</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="nib">
+			<sg number="1">
+				<word number="1">nib</word>
+				<word number="2">tooth</word>
+				<word number="3">tusk</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spoke</word>
+				<word number="2">cog</word>
+				<word number="3">ratchet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="crag">
+			<sg number="1">
+				<word number="1">crag</word>
+				<word number="2">crest</word>
+				<word number="3">arete</word>
+				<word number="4">cone peak</word>
+				<word number="5">sugar loaf</word>
+				<word number="6">pike</word>
+				<word number="7">aiguille</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spire</word>
+				<word number="2">pyramid</word>
+				<word number="3">steeple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="beard">
+			<sg number="1">
+				<word number="1">beard</word>
+				<word number="2">chevaux de frise</word>
+				<word number="3">porcupine</word>
+				<word number="4">hedgehog</word>
+				<word number="5">brier</word>
+				<word number="6">bramble</word>
+				<word number="7">thistle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">comb</word>
+			</sg>
+			<sg number="3">
+				<word number="1">awn</word>
+				<word number="2">beggar's lice</word>
+				<word number="3">bur</word>
+				<word number="4">burr</word>
+				<word number="5">catchweed</word>
+				<word number="6">cleavers</word>
+				<word number="7">clivers</word>
+				<word number="8">goose</word>
+				<word number="9">grass</word>
+				<word number="10">hairif</word>
+				<word number="11">hariff</word>
+				<word number="12">flax comb</word>
+				<word number="13">hackle</word>
+				<word number="14">hatchel</word>
+				<word number="15">heckle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="wedge">
+			<sg number="1">
+				<word number="1">wedge</word>
+			</sg>
+			<sg number="2">
+				<word number="1">knife edge</word>
+				<word number="2">cutting edge</word>
+			</sg>
+			<sg number="3">
+				<word number="1">blade</word>
+				<word number="2">edge tool</word>
+				<word number="3">cutlery</word>
+				<word number="4">knife</word>
+				<word number="5">penknife</word>
+				<word number="6">whittle</word>
+				<word number="7">razor</word>
+				<word number="8">razor blade</word>
+				<word number="9">safety razor</word>
+				<word number="10">straight razor</word>
+				<word number="11">electric razor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scalpel</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bistoury</word>
+				<word number="2">lancet</word>
+			</sg>
+			<sg number="6">
+				<word number="1">plowshare</word>
+				<word number="2">coulter</word>
+				<word number="3">colter</word>
+			</sg>
+			<sg number="7">
+				<word number="1">hatchet</word>
+				<word number="2">ax</word>
+				<word number="3">pickax</word>
+				<word number="4">mattock</word>
+				<word number="5">pick</word>
+				<word number="6">adze</word>
+				<word number="7">gill</word>
+			</sg>
+			<sg number="8">
+				<word number="1">billhook</word>
+				<word number="2">cleaver</word>
+				<word number="3">cutter</word>
+			</sg>
+			<sg number="9">
+				<word number="1">scythe</word>
+				<word number="2">sickle</word>
+			</sg>
+			<sg number="10">
+				<word number="1">scissors</word>
+				<word number="2">shears</word>
+				<word number="3">pruning shears</word>
+				<word number="4">cutters</word>
+				<word number="5">wire cutters</word>
+				<word number="6">nail clipper</word>
+				<word number="7">paper cutter</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="arms" headRef="756">sword</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="perforator" headRef="273">bodkin</word>
+			</sg>
+			<sg number="13">
+				<word number="1">belduque</word>
+				<word number="2">bowie knife</word>
+				<word number="3">paring knife</word>
+			</sg>
+			<sg number="14">
+				<word number="1">bushwhacker</word>
+			</sg>
+			<sg number="15">
+				<word number="1">drawing knife</word>
+				<word number="2">drawing shave</word>
+			</sg>
+			<sg number="16">
+				<word number="1">microtome</word>
+			</sg>
+			<sg number="17">
+				<word number="1">chisel</word>
+				<word number="2">screwdriver blade</word>
+			</sg>
+			<sg number="18">
+				<word number="1">flint blade</word>
+			</sg>
+			<sg number="19">
+				<word number="1">guillotine</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">anvil</word>
+			</sg>
+			<sg number="21">
+				<word number="1" new="1">awl</word>
+			</sg>
+			<sg number="22">
+				<word number="1" new="1">hoe</word>
+			</sg>
+			<sg number="23">
+				<word number="1" new="1">pitchfork</word>
+			</sg>
+			<sg number="24">
+				<word number="1" new="1">stick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="sharpener">
+			<sg number="1">
+				<word number="1">sharpener</word>
+				<word number="2">hone</word>
+				<word number="3">strop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grindstone</word>
+				<word number="2">whetstone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">novaculite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">steel</word>
+				<word number="2">emery</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be sharp">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be sharp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">taper to a point</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bristle with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render sharp">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render sharp</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharpen</word>
+				<word number="2">point</word>
+				<word number="3">aculeate</word>
+				<word number="4">whet</word>
+				<word number="5">barb</word>
+				<word number="6">spiculate</word>
+				<word number="7">set</word>
+				<word number="8">strop</word>
+				<word number="9">grind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cut">
+			<sg number="1">
+				<word number="1" paraRef="sunder" headRef="47">cut</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="sharp">
+			<sg number="1">
+				<word number="1">sharp</word>
+				<word number="2">keen</word>
+			</sg>
+			<sg number="2">
+				<word number="1">acute</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acicular</word>
+				<word number="2">aciform</word>
+			</sg>
+			<sg number="4">
+				<word number="1">aculeated</word>
+				<word number="2">acuminated</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pointed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">tapering</word>
+			</sg>
+			<sg number="7">
+				<word number="1">conical</word>
+				<word number="2">pyramidal</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mucronate</word>
+				<word number="2">mucronated</word>
+			</sg>
+			<sg number="9">
+				<word number="1">spindle shaped</word>
+				<word number="2">needle shaped</word>
+			</sg>
+			<sg number="10">
+				<word number="1">spiked</word>
+				<word number="2">spiky</word>
+				<word number="3">ensiform</word>
+				<word number="4">peaked</word>
+				<word number="5">salient</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cusped</word>
+				<word number="2">cuspidate</word>
+				<word number="3">cuspidated</word>
+			</sg>
+			<sg number="12">
+				<word number="1">cornute</word>
+				<word number="2">cornuted</word>
+				<word number="3">cornicultate</word>
+			</sg>
+			<sg number="13">
+				<word number="1">prickly</word>
+			</sg>
+			<sg number="14">
+				<word number="1">spiny</word>
+				<word number="2">spinous</word>
+				<word number="3">spicular</word>
+			</sg>
+			<sg number="15">
+				<word number="1">thorny</word>
+				<word number="2">bristling</word>
+				<word number="3">muricated</word>
+				<word number="4">pectinated</word>
+				<word number="5">studded</word>
+				<word number="6">thistly</word>
+				<word number="7">briary</word>
+			</sg>
+			<sg number="16">
+				<word number="1" paraRef="rough" headRef="267">craggy</word>
+			</sg>
+			<sg number="17">
+				<word number="1">snaggy</word>
+				<word number="2">digitated</word>
+				<word number="3">two-edged</word>
+				<word number="4">fusiform</word>
+			</sg>
+			<sg number="18">
+				<word number="1">dentiform</word>
+				<word number="2">denticulated</word>
+			</sg>
+			<sg number="19">
+				<word number="1">toothed</word>
+			</sg>
+			<sg number="20">
+				<word number="1">odontoid</word>
+			</sg>
+			<sg number="21">
+				<word number="1">starlike</word>
+			</sg>
+			<sg number="22">
+				<word number="1">stellated</word>
+				<word number="2">stelliform</word>
+			</sg>
+			<sg number="23">
+				<word number="1">sagittate</word>
+				<word number="2">sagittiform</word>
+			</sg>
+			<sg number="24">
+				<word number="1">arrowheaded</word>
+			</sg>
+			<sg number="25">
+				<word number="1">arrowy</word>
+				<word number="2">barbed</word>
+				<word number="3">spurred</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acinaciform">
+			<sg number="1">
+				<word number="1">acinaciform</word>
+			</sg>
+			<sg number="2">
+				<word number="1">apiculate</word>
+				<word number="2">apiculated</word>
+			</sg>
+			<sg number="3">
+				<word number="1">aristate</word>
+				<word number="2">awned</word>
+				<word number="3">awny</word>
+				<word number="4">bearded</word>
+				<word number="5">calamiform</word>
+				<word number="6">cone-shaped</word>
+				<word number="7">coniform</word>
+				<word number="8">crestate</word>
+				<word number="9">echinate</word>
+				<word number="10">gladiate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lanceolate</word>
+				<word number="2">lanciform</word>
+			</sg>
+			<sg number="5">
+				<word number="1">awl</word>
+				<word number="2">awl-shaped</word>
+				<word number="3">lance-shaped</word>
+				<word number="4">awl-shaped</word>
+				<word number="5">scimitar-shaped</word>
+				<word number="6">sword-shaped</word>
+			</sg>
+			<sg number="6">
+				<word number="1">setarious</word>
+				<word number="2">spinuliferous</word>
+				<word number="3">subulate</word>
+				<word number="4">tetrahedral</word>
+				<word number="5">xiphoid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="cutting">
+			<sg number="1">
+				<word number="1">cutting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sharp edged</word>
+				<word number="2">knife edged</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sharp as a razor</word>
+				<word number="2">keen as a razor</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sharp as a needle</word>
+				<word number="2">sharp as a tack</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="v.">sharpened</word>
+			</sg>
+			<sg number="6">
+				<word number="1">set</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

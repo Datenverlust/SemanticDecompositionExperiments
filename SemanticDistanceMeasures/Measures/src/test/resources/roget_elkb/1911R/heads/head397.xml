@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="397" name="Calefaction" origNum="#384." class="3" section="3" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="increase of  temperature">
+			<sg number="1">
+				<word number="1">increase of  temperature</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">heating</word>
+			</sg>
+			<sg number="3">
+				<word number="1">calefaction</word>
+				<word number="2">tepefaction</word>
+				<word number="3">torrefaction</word>
+			</sg>
+			<sg number="4">
+				<word number="1">melting</word>
+				<word number="2">fusion</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="liquefaction" headRef="346">liquefaction</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">burning</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ambustion</word>
+				<word number="2">combustion</word>
+			</sg>
+			<sg number="8">
+				<word number="1">incension</word>
+				<word number="2">accension</word>
+			</sg>
+			<sg number="9">
+				<word number="1">concremation</word>
+				<word number="2">cremation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">scorification</word>
+			</sg>
+			<sg number="11">
+				<word number="1">cautery</word>
+				<word number="2">cauterization</word>
+			</sg>
+			<sg number="12">
+				<word number="1">ustulation</word>
+				<word number="2">calcination</word>
+			</sg>
+			<sg number="13">
+				<word number="1">cracking</word>
+				<word number="2">refining</word>
+			</sg>
+			<sg number="14">
+				<word number="1">incineration</word>
+				<word number="2">cineration</word>
+			</sg>
+			<sg number="15">
+				<word number="1">carbonization</word>
+			</sg>
+			<sg number="16">
+				<word number="1">cupellation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ignition">
+			<sg number="1">
+				<word number="1">ignition</word>
+				<word number="2">inflammation</word>
+				<word number="3">adustion</word>
+				<word number="4">flagration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deflagration</word>
+				<word number="2">conflagration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">empyrosis</word>
+				<word number="2">incendiarism</word>
+			</sg>
+			<sg number="4">
+				<word number="1">arson</word>
+			</sg>
+			<sg number="5">
+				<word number="1">auto dafe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="boiling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">boiling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coction</word>
+				<word number="2">ebullition</word>
+				<word number="3">estuation</word>
+				<word number="4">elixation</word>
+				<word number="5">decoction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ebullioscope</word>
+			</sg>
+			<sg number="4">
+				<word number="1">geyser</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="vaporization" headRef="347">distillation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="furnace">
+			<sg number="1">
+				<word number="1" paraRef="furnace" headRef="399">furnace</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blanket</word>
+				<word number="2">flannel</word>
+				<word number="3">fur</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lining" headRef="234">wadding</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="clothing" headRef="235">clothing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="still">
+			<sg number="1">
+				<word number="1">still</word>
+			</sg>
+			<sg number="2">
+				<word number="1">refinery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fractionating column</word>
+				<word number="2">fractionating tower</word>
+				<word number="3">cracking tower</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="match">
+			<sg number="1">
+				<word number="1" paraRef="fuel" headRef="401">match</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incendiary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">petroleuse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cauterizer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">caustic</word>
+				<word number="2">lunar caustic</word>
+				<word number="3">alkali</word>
+				<word number="4">apozem</word>
+				<word number="5">moxa</word>
+			</sg>
+			<sg number="6">
+				<word number="1">acid</word>
+				<word number="2">aqua fortis</word>
+				<word number="3">aqua regia</word>
+			</sg>
+			<sg number="7">
+				<word number="1">catheretic</word>
+				<word number="2">nitric acid</word>
+				<word number="3">nitrochloro-hydric acid</word>
+				<word number="4">nitromuriatic acid</word>
+			</sg>
+			<sg number="8">
+				<word number="1">radioactivity</word>
+				<word number="2">gamma rays</word>
+				<word number="3">alpha particles</word>
+				<word number="4">beta rays</word>
+				<word number="5">X-rays</word>
+				<word number="6">radiation</word>
+				<word number="7">cosmic radiation</word>
+				<word number="8">background radiation</word>
+				<word number="9">radioactive isotopes</word>
+				<word number="10">tritium</word>
+				<word number="11">uranium</word>
+				<word number="12">plutonium</word>
+				<word number="13">radon</word>
+				<word number="14">radium</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="sunstroke">
+			<sg number="1">
+				<word number="1">sunstroke</word>
+				<word number="2">coup de soleil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">insolation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="pottery">
+			<sg number="1">
+				<word number="1">pottery</word>
+				<word number="2">ceramics</word>
+				<word number="3">crockery</word>
+				<word number="4">porcelain</word>
+				<word number="5">china</word>
+				<word number="6" new="1">flabiol</word>
+				<word number="7" new="1">electroporation</word>
+				<word number="8" new="1">pedicure</word>
+				<word number="9" new="1">skyways</word>
+				<word number="10" new="1">enstatite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">earthenware</word>
+				<word number="2">stoneware</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pot</word>
+				<word number="2">mug</word>
+				<word number="3">terra cotta</word>
+				<word number="4">brick</word>
+				<word number="5">clinker</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">freshman</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="products of combustion">
+			<sg number="1">
+				<word number="1">products of combustion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cinder</word>
+				<word number="2">ash</word>
+				<word number="3">scoriae</word>
+				<word number="4">embers</word>
+				<word number="5">soot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slag</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="coke">
+			<sg number="1">
+				<word number="1">coke</word>
+				<word number="2">carbon</word>
+				<word number="3">charcoal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wood alcohol</word>
+				<word number="2">turpentine</word>
+				<word number="3">tea tree oil</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gasoline</word>
+				<word number="2">kerosene</word>
+				<word number="3">naptha</word>
+				<word number="4" paraRef="fuel" headRef="401">fuel oil</word>
+			</sg>
+			<sg number="4">
+				<word number="1">wax</word>
+				<word number="2">paraffin</word>
+			</sg>
+			<sg number="5">
+				<word number="1">residue</word>
+				<word number="2">tar</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">gremlin</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="inflammability">
+			<sg number="1">
+				<word number="1">inflammability</word>
+				<word number="2">combustibility</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="diathermancy">
+			<sg number="1">
+				<word number="1">diathermancy</word>
+				<word number="2">transcalency</word>
+				<word number="3">conduction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">convection</word>
+			</sg>
+			<sg number="3">
+				<word number="1">radiation</word>
+				<word number="2">radiant heat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heat conductivity</word>
+				<word number="2">conductivity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="[effects of heat 2">
+			<sg number="1">
+				<word number="1">thermal expansion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">coefficient of expansion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="motorcycling">
+			<sg number="1">
+				<word number="1" new="1">motorcycling</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="heat">
+			<sg number="1">
+				<word number="1">heat</word>
+				<word number="2">warm</word>
+				<word number="3">chafe</word>
+				<word number="4">stive</word>
+				<word number="5">foment</word>
+				<word number="6" new="1">miscall</word>
+				<word number="7" new="1">disclose</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="make hot" headRef="397">make hot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sun oneself</word>
+				<word number="2">sunbathe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="go up in flames">
+			<sg number="1">
+				<word number="1">go up in flames</word>
+				<word number="2" paraRef="flame" headRef="395">burn to the ground</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fire">
+			<sg number="1">
+				<word number="1">fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set fire to</word>
+				<word number="2">set on fire</word>
+			</sg>
+			<sg number="3">
+				<word number="1">kindle</word>
+				<word number="2">enkindle</word>
+				<word number="3">light</word>
+				<word number="4">ignite</word>
+				<word number="5">strike a light</word>
+				<word number="6" new="1">camber</word>
+				<word number="7" new="1">proffer</word>
+			</sg>
+			<sg number="4">
+				<word number="1">apply the match to</word>
+				<word number="2">apply the torch to</word>
+			</sg>
+			<sg number="5">
+				<word number="1">rekindle</word>
+				<word number="2">relume</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fan the flame</word>
+				<word number="2">add fuel to the flame</word>
+			</sg>
+			<sg number="7">
+				<word number="1">poke the fire</word>
+				<word number="2">stir the fire</word>
+				<word number="3">blow the fire</word>
+			</sg>
+			<sg number="8">
+				<word number="1">make a bonfire of</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">merit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="melt">
+			<sg number="1">
+				<word number="1">melt</word>
+				<word number="2">thaw</word>
+				<word number="3">fuse</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="liquefy" headRef="346">liquefy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="burn">
+			<sg number="1">
+				<word number="1">burn</word>
+				<word number="2">inflame</word>
+				<word number="3">roast</word>
+				<word number="4">toast</word>
+				<word number="5">fry</word>
+				<word number="6">grill</word>
+				<word number="7">singe</word>
+				<word number="8">parch</word>
+				<word number="9">bake</word>
+				<word number="10">torrefy</word>
+				<word number="11">scorch</word>
+				<word number="12" new="1">evince</word>
+				<word number="13" new="1">unblock</word>
+				<word number="14" new="1">nitrify</word>
+				<word number="15" new="1">swathe</word>
+				<word number="16" new="1">impoverish</word>
+				<word number="17" new="1">combust</word>
+				<word number="18" new="1">flutter</word>
+				<word number="19" new="1">vilify</word>
+				<word number="20" new="1">manicure</word>
+				<word number="21" new="1">coerce</word>
+				<word number="22" new="1">polymerize</word>
+				<word number="23" new="1">overburden</word>
+				<word number="24" new="1">coerce</word>
+				<word number="25" new="1">digitalize</word>
+				<word number="26" new="1">revolt</word>
+				<word number="27" new="1">cord</word>
+				<word number="28" new="1">gamble</word>
+				<word number="29" new="1">crinkle</word>
+				<word number="30" new="1">tin</word>
+				<word number="31" new="1">generalise</word>
+				<word number="32" new="1">sensitize</word>
+				<word number="33" new="1">visualise</word>
+			</sg>
+			<sg number="2">
+				<word number="1">brand</word>
+				<word number="2">cauterize</word>
+				<word number="3">sear</word>
+				<word number="4">burn in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">corrode</word>
+				<word number="2">char</word>
+				<word number="3">calcine</word>
+				<word number="4">incinerate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smelt</word>
+				<word number="2">scorify</word>
+			</sg>
+			<sg number="5">
+				<word number="1">reduce to ashes</word>
+			</sg>
+			<sg number="6">
+				<word number="1">burn to a cinder</word>
+			</sg>
+			<sg number="7">
+				<word number="1">commit to the flames</word>
+				<word number="2">consign to the flames</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="boil">
+			<sg number="1">
+				<word number="1">boil</word>
+				<word number="2">digest</word>
+				<word number="3">stew</word>
+				<word number="4">cook</word>
+				<word number="5">seethe</word>
+				<word number="6">scald</word>
+				<word number="7">parboil</word>
+				<word number="8">simmer</word>
+				<word number="9" new="1">backcross</word>
+				<word number="10" new="1">concelebrate</word>
+				<word number="11" new="1">splosh</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do to rags</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="take fire">
+			<sg number="1">
+				<word number="1">take fire</word>
+				<word number="2">catch fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="flame" headRef="395">blaze</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="slough">
+			<sg number="1">
+				<word number="1" new="1">slough</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="suffer">
+			<sg number="1">
+				<word number="1" new="1">suffer</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="oversee">
+			<sg number="1">
+				<word number="1" new="1">oversee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="eagle">
+			<sg number="1">
+				<word number="1" new="1">eagle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="heated">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">heated</word>
+			</sg>
+			<sg number="2">
+				<word number="1">molten</word>
+				<word number="2">sodden</word>
+			</sg>
+			<sg number="3">
+				<word number="1">réchauffé</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="v.">heating</word>
+			</sg>
+			<sg number="5">
+				<word number="1">adust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inflammable">
+			<sg number="1">
+				<word number="1">inflammable</word>
+				<word number="2">combustible</word>
+			</sg>
+			<sg number="2">
+				<word number="1">diathermal</word>
+				<word number="2">diathermanous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">burnt</word>
+			</sg>
+			<sg number="4">
+				<word number="1">volcanic</word>
+				<word number="2">radioactive</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

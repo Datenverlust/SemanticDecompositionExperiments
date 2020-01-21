@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="86" name="Conformity" origNum="#82." class="1" section="4" subSection="5" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="{opp">
+			<sg number="1">
+				<word number="1">conformity</word>
+				<word number="2">conformance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">observance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">habituation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">naturalization</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="custom" headRef="641">conventionality</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="agreement" headRef="25">agreement</word>
+				<word number="2">instance</word>
+				<word number="3">specimen</word>
+				<word number="4">sample</word>
+				<word number="5">quotation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">exemplification</word>
+				<word number="2">illustration</word>
+				<word number="3">case in point</word>
+			</sg>
+			<sg number="8">
+				<word number="1">object lesson</word>
+			</sg>
+			<sg number="9">
+				<word number="1">elucidation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="standard">
+			<sg number="1">
+				<word number="1">standard</word>
+				<word number="2">model</word>
+				<word number="3" paraRef="prototype" headRef="24">pattern</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="rule">
+			<sg number="1">
+				<word number="1">rule</word>
+				<word number="2">nature</word>
+				<word number="3">principle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">law</word>
+			</sg>
+			<sg number="3">
+				<word number="1">order of things</word>
+			</sg>
+			<sg number="4">
+				<word number="1">normal state</word>
+				<word number="2">natural state</word>
+				<word number="3">ordinary state</word>
+				<word number="4">model state</word>
+				<word number="5">normal condition</word>
+				<word number="6">natural condition</word>
+				<word number="7">ordinary condition</word>
+				<word number="8">model condition</word>
+			</sg>
+			<sg number="5">
+				<word number="1">standing dish</word>
+				<word number="2">standing  order</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Procrustean law</word>
+			</sg>
+			<sg number="7">
+				<word number="1">law of the Medes and Persians</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hard and fast rule</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="conform to">
+			<sg number="1">
+				<word number="1">conform to</word>
+				<word number="2">conform to rule</word>
+			</sg>
+			<sg number="2">
+				<word number="1">accommodate oneself to</word>
+				<word number="2">adapt oneself to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rub off corners</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="be regular">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be regular</word>
+			</sg>
+			<sg number="2">
+				<word number="1">move in a groove</word>
+			</sg>
+			<sg number="3">
+				<word number="1">follow observe the rules</word>
+				<word number="2">go by the rules</word>
+				<word number="3">bend to the rules</word>
+				<word number="4">obey the rules</word>
+				<word number="5">obey the precedents</word>
+			</sg>
+			<sg number="4">
+				<word number="1">comply with</word>
+				<word number="2">tally  with</word>
+				<word number="3">chime in  with</word>
+				<word number="4">fall in with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be guided by</word>
+				<word number="2">be regulated by</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fall into a custom</word>
+				<word number="2">fall into a usage</word>
+			</sg>
+			<sg number="7">
+				<word number="1">follow the fashion</word>
+				<word number="2">follow the crowd</word>
+				<word number="3">follow the multitude</word>
+			</sg>
+			<sg number="8">
+				<word number="1">pass muster</word>
+				<word number="2">do as others do</word>
+				<word number="3">hurler avec les loups</word>
+			</sg>
+			<sg number="9">
+				<word number="1">stand on ceremony</word>
+			</sg>
+			<sg number="10">
+				<word number="1">when in Rome do as the Romans do</word>
+			</sg>
+			<sg number="11">
+				<word number="1">go with the stream</word>
+				<word number="2">go with the flow</word>
+				<word number="3">swim with the stream</word>
+				<word number="4">swim with the current</word>
+				<word number="5">swim with the tide</word>
+				<word number="6">blow with the wind</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="habit" headRef="641">stick to the beaten track</word>
+			</sg>
+			<sg number="13">
+				<word number="1">keep one in countenance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="exemplify">
+			<sg number="1">
+				<word number="1">exemplify</word>
+				<word number="2">illustrate</word>
+				<word number="3">cite</word>
+				<word number="4">quote</word>
+				<word number="5">quote precedent</word>
+				<word number="6">quote authority</word>
+				<word number="7">appeal to authority</word>
+				<word number="8">put a case</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">produce an instance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">elucidate</word>
+				<word number="2">explain</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="conformable to rule">
+			<sg number="1">
+				<word number="1">conformable to rule</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="regular" headRef="143">regular</word>
+			</sg>
+			<sg number="3">
+				<word number="1">according to regulation</word>
+				<word number="2">according to rule</word>
+				<word number="3">according to Hoyle</word>
+				<word number="4">according to Cocker</word>
+				<word number="5">according to Gunter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">en regle</word>
+				<word number="2">selon les regles</word>
+				<word number="3">well regulated</word>
+				<word number="4">orderly</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="symmetrical" headRef="252">symmetric</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="conventional">
+			<sg number="1">
+				<word number="1" paraRef="custom" headRef="641">conventional</word>
+			</sg>
+			<sg number="2">
+				<word number="1">of daily occurrence</word>
+				<word number="2">of everyday occurrence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in the natural order of things</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ordinary</word>
+				<word number="2">common</word>
+				<word number="3">habitual</word>
+				<word number="4">usual</word>
+				<word number="5">everyday</word>
+				<word number="6">workaday</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="in the order of the day">
+			<sg number="1">
+				<word number="1">in the order of the day</word>
+			</sg>
+			<sg number="2">
+				<word number="1">naturalized</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="typical">
+			<sg number="1">
+				<word number="1">typical</word>
+				<word number="2">normal</word>
+				<word number="3">nominal</word>
+				<word number="4">formal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">canonical</word>
+				<word number="2">orthodox</word>
+				<word number="3">sound</word>
+				<word number="4">strict</word>
+				<word number="5">rigid</word>
+				<word number="6">positive</word>
+				<word number="7">uncompromising</word>
+				<word number="8">Procrustean</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="secundum artem">
+			<sg number="1">
+				<word number="1">secundum artem</word>
+				<word number="2">shipshape</word>
+				<word number="3">technical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exemple</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="illustrative">
+			<sg number="1">
+				<word number="1">illustrative</word>
+				<word number="2">in point</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="conformably">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">conformably</word>
+			</sg>
+			<sg number="2">
+				<word number="1">by rule</word>
+			</sg>
+			<sg number="3">
+				<word number="1">agreeably to</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in conformity with</word>
+				<word number="2">in accordance with</word>
+				<word number="3">in keeping with</word>
+			</sg>
+			<sg number="5">
+				<word number="1">according to</word>
+			</sg>
+			<sg number="6">
+				<word number="1">consistently with</word>
+			</sg>
+			<sg number="7">
+				<word number="1">as usual</word>
+				<word number="2">ad instar</word>
+				<word number="3">instar omnium</word>
+			</sg>
+			<sg number="8">
+				<word number="1">more solito</word>
+				<word number="2">more-majorum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="for the sake of conformity">
+			<sg number="1">
+				<word number="1">for the sake of conformity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as a matter of course</word>
+				<word number="2">of course</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pro forma</word>
+				<word number="2">for form's sake</word>
+				<word number="3">by the card</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="invariably">
+			<sg number="1">
+				<word number="1" paraRef="uniformly" headRef="16">invariably</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="for example">
+			<sg number="1">
+				<word number="1">for example</word>
+				<word number="2">exempli gratia</word>
+				<word number="3">e. g</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inter alia</word>
+				<word number="2">among other things</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for instance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cela va sans dire">
+			<sg number="1">
+				<word number="1">cela va sans dire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ex pede Herculem</word>
+			</sg>
+			<sg number="3">
+				<word number="1">noscitur a sociis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ne e quovis ligno Mercurius fiat</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"they are happy men whose natures sort with their vocations"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="The nail that sticks up will get hammered down">
+			<sg number="1">
+				<word number="1">"The nail that sticks up will get hammered down"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"Stick your neck out and it may get cut off"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

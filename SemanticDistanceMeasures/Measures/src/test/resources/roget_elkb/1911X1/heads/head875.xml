@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="875" name="Dejection" origNum="#837." class="8" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="dejection">
+			<sg number="1">
+				<word number="1">dejection</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">dejectedness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">depression</word>
+				<word number="2">prosternation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lowness of spirits</word>
+				<word number="2">depression of spirits</word>
+			</sg>
+			<sg number="5">
+				<word number="1">weight on the spirits</word>
+				<word number="2">oppression on the spirits</word>
+				<word number="3">damp on the spirits</word>
+			</sg>
+			<sg number="6">
+				<word number="1">low spirits</word>
+				<word number="2">bad spirits</word>
+				<word number="3">drooping spirits</word>
+				<word number="4">depressed spirits</word>
+			</sg>
+			<sg number="7">
+				<word number="1">heart sinking</word>
+			</sg>
+			<sg number="8">
+				<word number="1">heaviness of heart</word>
+				<word number="2">failure of heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="heaviness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">heaviness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">infestivity</word>
+				<word number="2">gloom</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="weariness" headRef="879">weariness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">taedium vitae</word>
+				<word number="2">disgust of life</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="regret" headRef="871">mal du pays</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anhedonia</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="melancholy">
+			<sg number="1">
+				<word number="1">melancholy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">sadness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">il penseroso</word>
+				<word number="2">melancholia</word>
+				<word number="3">dismals</word>
+				<word number="4">blues</word>
+				<word number="5">lachrymals</word>
+				<word number="6">mumps</word>
+				<word number="7">dumps</word>
+				<word number="8">blue devils</word>
+				<word number="9">doldrums</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vapors</word>
+				<word number="2">megrims</word>
+				<word number="3">spleen</word>
+				<word number="4">horrors</word>
+				<word number="5">hypochondriasis</word>
+				<word number="6">pessimism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">la maladie sans maladie</word>
+			</sg>
+			<sg number="6">
+				<word number="1">despondency</word>
+				<word number="2">slough of Despond</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="adj.">disconsolateness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">hope deferred</word>
+				<word number="2">blank despondency</word>
+			</sg>
+			<sg number="9">
+				<word number="1">voiceless woe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="prostration of soul">
+			<sg number="1">
+				<word number="1">prostration of soul</word>
+			</sg>
+			<sg number="2">
+				<word number="1">broken heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="despair" headRef="898">despair</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cave of despair</word>
+				<word number="2" paraRef="" posRef="adj.">cave of Trophonius      demureness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gravity</word>
+				<word number="2">solemnity</word>
+			</sg>
+			<sg number="6">
+				<word number="1">long face</word>
+				<word number="2">grave face</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="hypochondriac">
+			<sg number="1">
+				<word number="1">hypochondriac</word>
+				<word number="2">seek sorrow</word>
+				<word number="3">self-tormentor</word>
+				<word number="4">heautontimorumenos</word>
+				<word number="5">malade imaginaire</word>
+				<word number="6">medecin tant pis</word>
+			</sg>
+			<sg number="2">
+				<word number="1">croaker</word>
+				<word number="2">pessimist</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mope</word>
+				<word number="2">mopus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="affliction">
+			<sg number="1">
+				<word number="1" paraRef="affliction" headRef="868">affliction</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sorry sight</word>
+			</sg>
+			<sg number="3">
+				<word number="1">memento mori</word>
+			</sg>
+			<sg number="4">
+				<word number="1">damper</word>
+				<word number="2">wet blanket</word>
+				<word number="3">Job's comforter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be dejected">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be dejected</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grieve</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="lament" headRef="877">mourn</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take on</word>
+				<word number="2">give way</word>
+				<word number="3">lose heart</word>
+				<word number="4">despond</word>
+				<word number="5">droop</word>
+				<word number="6">sink</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lower">
+			<sg number="1">
+				<word number="1">lower</word>
+				<word number="2">look downcast</word>
+				<word number="3">frown</word>
+				<word number="4">pout</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang down the head</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pull a long face</word>
+				<word number="2">make a long face</word>
+			</sg>
+			<sg number="4">
+				<word number="1">laugh on the wrong side of the mouth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grin a ghastly smile</word>
+			</sg>
+			<sg number="6">
+				<word number="1">look blue</word>
+				<word number="2">look like a drowned man</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lay to heart</word>
+				<word number="2">take to heart</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="mope">
+			<sg number="1">
+				<word number="1">mope</word>
+				<word number="2">brood over</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fret</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sulk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pine</word>
+				<word number="2">pine away</word>
+			</sg>
+			<sg number="5">
+				<word number="1">yearn</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="regret" headRef="871">repine</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="despair" headRef="898">despair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="refrain from laughter">
+			<sg number="1">
+				<word number="1">refrain from laughter</word>
+				<word number="2">keep one's countenance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">be grave</word>
+				<word number="2" paraRef="" posRef="adj.">look grave</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repress a smile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="depress">
+			<sg number="1">
+				<word number="1">depress</word>
+			</sg>
+			<sg number="2">
+				<word number="1">discourage</word>
+				<word number="2">dishearten</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dispirit</word>
+			</sg>
+			<sg number="4">
+				<word number="1">damp</word>
+				<word number="2">dull</word>
+				<word number="3">deject</word>
+				<word number="4">lower</word>
+				<word number="5">sink</word>
+				<word number="6">dash</word>
+				<word number="7">knock down</word>
+				<word number="8">unman</word>
+				<word number="9">prostrate</word>
+				<word number="10">break one's heart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">frown upon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">cast a gloom</word>
+				<word number="2">cast a shade on</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sadden</word>
+			</sg>
+			<sg number="8">
+				<word number="1">damp one's hopes</word>
+				<word number="2">dash one's hopes</word>
+				<word number="3">wither one's hopes</word>
+			</sg>
+			<sg number="9">
+				<word number="1">weigh on the mind</word>
+				<word number="2">lie heavy on the mind</word>
+				<word number="3">prey on the mind</word>
+				<word number="4">weigh on the spirits</word>
+				<word number="5">lie heavy on the spirits</word>
+				<word number="6">prey on the spirits</word>
+			</sg>
+			<sg number="10">
+				<word number="1">damp the spirits</word>
+				<word number="2">depress the spirits</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cheerless">
+			<sg number="1">
+				<word number="1">cheerless</word>
+				<word number="2">joyless</word>
+				<word number="3">spiritless</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncheerful</word>
+				<word number="2">uncheery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unlively</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unhappy" headRef="866">unhappy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">melancholy</word>
+				<word number="2">dismal</word>
+				<word number="3">somber</word>
+				<word number="4">dark</word>
+				<word number="5">gloomy</word>
+				<word number="6">triste</word>
+				<word number="7">clouded</word>
+				<word number="8">murky</word>
+				<word number="9">lowering</word>
+				<word number="10">frowning</word>
+				<word number="11">lugubrious</word>
+				<word number="12">funereal</word>
+				<word number="13">mournful</word>
+				<word number="14">lamentable</word>
+				<word number="15">dreadful</word>
+				<word number="16" new="1">bleak</word>
+				<word number="17" new="1">brooding</word>
+				<word number="18" new="1">dreamy</word>
+				<word number="19" new="1">introspective</word>
+				<word number="20" new="1">miserable</word>
+				<word number="21" new="1">sorrowful</word>
+				<word number="22" new="1">subdued</word>
+				<word number="23" new="1">woeful</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dreary">
+			<sg number="1">
+				<word number="1">dreary</word>
+				<word number="2">flat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dull</word>
+				<word number="2">dull as a beetle</word>
+				<word number="3">dull as ditchwater</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">depressing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="melancholy as a gib cat">
+			<sg number="1">
+				<word number="1">"melancholy as a gib cat"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">oppressed with melancholy</word>
+				<word number="2">a prey to melancholy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">downcast</word>
+				<word number="2">downhearted</word>
+			</sg>
+			<sg number="4">
+				<word number="1">down in the mouth</word>
+				<word number="2">down in one's luck</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heavy-hearted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in the dumps</word>
+				<word number="2">down in the dumps</word>
+				<word number="3">in the suds</word>
+				<word number="4">in the sulks</word>
+				<word number="5">in the doldrums</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in doleful dumps</word>
+				<word number="2">in bad humor</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sullen</word>
+			</sg>
+			<sg number="9">
+				<word number="1">mumpish</word>
+				<word number="2">dumpish</word>
+				<word number="3">mopish</word>
+				<word number="4">moping</word>
+			</sg>
+			<sg number="10">
+				<word number="1">moody</word>
+				<word number="2">glum</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="discontented" headRef="870">sulky</word>
+			</sg>
+			<sg number="12">
+				<word number="1">out of sorts</word>
+				<word number="2">out of humor</word>
+				<word number="3">out of heart</word>
+				<word number="4">out of spirits</word>
+			</sg>
+			<sg number="13">
+				<word number="1">ill at ease</word>
+				<word number="2">low spirited</word>
+				<word number="3">in low spirits</word>
+				<word number="4">a cup too low</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="weary" headRef="879">weary</word>
+			</sg>
+			<sg number="15">
+				<word number="1">discouraged</word>
+				<word number="2">disheartened</word>
+			</sg>
+			<sg number="16">
+				<word number="1">desponding</word>
+			</sg>
+			<sg number="17">
+				<word number="1">chapfallen</word>
+				<word number="2">chopfallen</word>
+				<word number="3">jaw fallen</word>
+				<word number="4">crest fallen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sad">
+			<sg number="1">
+				<word number="1">sad</word>
+				<word number="2">pensive</word>
+				<word number="3">penseroso</word>
+				<word number="4">tristful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dolesome</word>
+				<word number="2">doleful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">woebegone</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lacrymose</word>
+				<word number="2">lachrymose</word>
+				<word number="3">in tears</word>
+				<word number="4">melancholic</word>
+				<word number="5">hypped</word>
+				<word number="6">hypochondriacal</word>
+				<word number="7">bilious</word>
+				<word number="8">jaundiced</word>
+				<word number="9">atrabilious</word>
+				<word number="10">saturnine</word>
+				<word number="11">splenetic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lackadaisical</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="serious">
+			<sg number="1">
+				<word number="1">serious</word>
+				<word number="2">sedate</word>
+				<word number="3">staid</word>
+				<word number="4">stayed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">grave as a judge</word>
+				<word number="2">grave as an undertaker</word>
+				<word number="3">grave as a mustard pot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sober</word>
+				<word number="2">sober as a judge</word>
+				<word number="3">solemn</word>
+				<word number="4">demure</word>
+			</sg>
+			<sg number="4">
+				<word number="1">grim</word>
+			</sg>
+			<sg number="5">
+				<word number="1">grim-faced</word>
+				<word number="2">grim-visaged</word>
+			</sg>
+			<sg number="6">
+				<word number="1">rueful</word>
+				<word number="2">wan</word>
+				<word number="3">long-faced</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="disconsolate">
+			<sg number="1">
+				<word number="1">disconsolate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unconsolable</word>
+				<word number="2">inconsolable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">forlorn</word>
+				<word number="2">comfortless</word>
+				<word number="3">desolate</word>
+				<word number="4">desole</word>
+				<word number="5">sick at heart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">soul sick</word>
+				<word number="2">heart sick</word>
+			</sg>
+			<sg number="5">
+				<word number="1">au desespoir</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="in despair" headRef="898">in despair</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lost</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="overcome">
+			<sg number="1">
+				<word number="1">overcome</word>
+			</sg>
+			<sg number="2">
+				<word number="1">broken down</word>
+				<word number="2">borne down</word>
+				<word number="3">bowed down</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="mental suffering" headRef="866">heartstricken</word>
+			</sg>
+			<sg number="4">
+				<word number="1">cut up</word>
+				<word number="2">dashed</word>
+				<word number="3">sunk</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unnerved</word>
+				<word number="2">unmanned</word>
+			</sg>
+			<sg number="6">
+				<word number="1">down fallen</word>
+				<word number="2">downtrodden</word>
+			</sg>
+			<sg number="7">
+				<word number="1">broken-hearted</word>
+			</sg>
+			<sg number="8">
+				<word number="1">careworn</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="with a long face">
+			<sg number="1">
+				<word number="1">with a long face</word>
+				<word number="2">with tears in one's eyes</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">sadly</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the countenance falling">
+			<sg number="1">
+				<word number="1">the countenance falling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the heart failing</word>
+				<word number="2">the heart sinking within one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"a plague of sighing and grief"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"thick-ey'd musing and curs'd melancholy"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"the sickening pang of hope deferred"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

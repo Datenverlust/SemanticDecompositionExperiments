@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="676" name="Inexpedience" origNum="#647." class="6" section="2" subSection="2" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inexpedience">
+			<sg number="1">
+				<word number="1">inexpedience</word>
+				<word number="2">inexpediency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undesirableness</word>
+				<word number="2" paraRef="" posRef="adj.">undesirability</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discommodity</word>
+				<word number="2">impropriety</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disagreement" headRef="26">unfitness</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inutility" headRef="674">inutility</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disadvantage</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inexpedient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inexpedient</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="disagree" headRef="26">come amiss</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="hinder" headRef="735">embarrass</word>
+			</sg>
+			<sg number="4">
+				<word number="1">put to inconvenience</word>
+			</sg>
+			<sg number="5">
+				<word number="1">pay too dear for one's whistle</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inexpedient">
+			<sg number="1">
+				<word number="1">inexpedient</word>
+				<word number="2">undesirable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unadvisable</word>
+				<word number="2">inadvisable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">objectionable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inapt</word>
+				<word number="2">ineligible</word>
+				<word number="3">inadmissible</word>
+				<word number="4">inconvenient</word>
+			</sg>
+			<sg number="5">
+				<word number="1">incommodious</word>
+				<word number="2">discommodious</word>
+			</sg>
+			<sg number="6">
+				<word number="1">disadvantageous</word>
+			</sg>
+			<sg number="7">
+				<word number="1">inappropriate</word>
+				<word number="2" paraRef="inconsonant" headRef="26">unfit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ill-contrived">
+			<sg number="1">
+				<word number="1">ill-contrived</word>
+				<word number="2">ill-advised</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unsatisfactory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unprofitable</word>
+				<word number="2" paraRef="useless" headRef="674">unsubservient</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unseasonable" headRef="142">inopportune</word>
+			</sg>
+			<sg number="5">
+				<word number="1">out of place</word>
+				<word number="2">in the wrong place</word>
+			</sg>
+			<sg number="6">
+				<word number="1">improper</word>
+				<word number="2">unseemly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="clumsy">
+			<sg number="1">
+				<word number="1">clumsy</word>
+				<word number="2">awkward</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cumbrous</word>
+				<word number="2">cumbersome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lumbering</word>
+				<word number="2">unwieldy</word>
+				<word number="3">hulky</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="impracticable" headRef="733">unmanageable</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="in the way of" headRef="735">impedient</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unnecessary">
+			<sg number="1">
+				<word number="1" paraRef="redundant" headRef="670">unnecessary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="it will never do">
+			<sg number="1">
+				<word number="1">it will never do</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

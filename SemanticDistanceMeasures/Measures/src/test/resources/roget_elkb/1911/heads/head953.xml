@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="953" name="Evil doer" origNum="#913." class="8" section="3" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="evil doer">
+			<sg number="1">
+				<word number="1">evil doer</word>
+				<word number="2">evildoer</word>
+				<word number="3">evil worker</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wrongdoer" headRef="991">wrongdoer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mischief-maker</word>
+				<word number="2">marplot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">oppressor</word>
+				<word number="2">tyrant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">destroyer</word>
+				<word number="2">Vandal</word>
+			</sg>
+			<sg number="6">
+				<word number="1">iconoclast!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="firebrand">
+			<sg number="1">
+				<word number="1">firebrand</word>
+				<word number="2">incendiary</word>
+				<word number="3">fire bug</word>
+				<word number="4">pyromaniac</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anarchist</word>
+				<word number="2">communist!</word>
+				<word number="3">terrorist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="savage">
+			<sg number="1">
+				<word number="1">savage</word>
+				<word number="2">brute</word>
+				<word number="3">ruffian</word>
+				<word number="4">barbarian</word>
+				<word number="5">semibarbarian</word>
+				<word number="6">caitiff</word>
+				<word number="7">desperado</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Apache</word>
+				<word number="2">hoodlum</word>
+				<word number="3">hood</word>
+				<word number="4">plug-ugly*</word>
+				<word number="5">pug-ugly*</word>
+				<word number="6">Red Skin</word>
+				<word number="7">tough</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Mohawk</word>
+				<word number="2">Mo-hock</word>
+				<word number="3">Mo-hawk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bludgeon man</word>
+				<word number="2">bully</word>
+				<word number="3">rough</word>
+				<word number="4">hooligan</word>
+				<word number="5">larrikin</word>
+				<word number="6">dangerous classes</word>
+				<word number="7">ugly customer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="thief" headRef="825">thief</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="cockatrice">
+			<sg number="1">
+				<word number="1">cockatrice</word>
+				<word number="2">scorpion</word>
+				<word number="3">hornet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="snake">
+			<sg number="1">
+				<word number="1">snake</word>
+				<word number="2">viper</word>
+				<word number="3">adder</word>
+				<word number="4">snake in the grass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">serpent</word>
+				<word number="2">cobra</word>
+				<word number="3">asp</word>
+				<word number="4">rattlesnake</word>
+				<word number="5">anaconda!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="canker-worm">
+			<sg number="1">
+				<word number="1">canker-worm</word>
+				<word number="2">wire-worm</word>
+			</sg>
+			<sg number="2">
+				<word number="1">locust</word>
+				<word number="2">Colorado beetle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">alacran</word>
+				<word number="2">alligator</word>
+				<word number="3">caymon</word>
+				<word number="4">crocodile</word>
+				<word number="5">mosquito</word>
+				<word number="6">mugger</word>
+				<word number="7">octopus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">torpedo</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="bane" headRef="692">bane</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="cutthroat">
+			<sg number="1">
+				<word number="1" paraRef="killer" headRef="373">cutthroat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="cannibal">
+			<sg number="1">
+				<word number="1">cannibal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anthropophagus!</word>
+				<word number="2">anthropophagist!</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bloodsucker</word>
+				<word number="2">vampire</word>
+				<word number="3">ogre</word>
+				<word number="4">ghoul</word>
+				<word number="5">gorilla</word>
+				<word number="6">vulture</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gyrfalcon!</word>
+				<word number="2">gerfalcon!</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="wild beast">
+			<sg number="1">
+				<word number="1">wild beast</word>
+				<word number="2">tiger</word>
+				<word number="3">hyena</word>
+				<word number="4">butcher</word>
+				<word number="5">hangman</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blood-hound</word>
+				<word number="2">hell-hound</word>
+				<word number="3">sleuth-hound</word>
+			</sg>
+			<sg number="3">
+				<word number="1">catamount</word>
+				<word number="2">cougar</word>
+				<word number="3">jaguar</word>
+				<word number="4">puma</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="hag">
+			<sg number="1">
+				<word number="1">hag</word>
+				<word number="2">hellhag</word>
+				<word number="3">beldam</word>
+				<word number="4">Jezebel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="monster">
+			<sg number="1">
+				<word number="1">monster</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="demon" headRef="1023">fiend</word>
+			</sg>
+			<sg number="3">
+				<word number="1">devil incarnate</word>
+				<word number="2">demon in human shape</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Frankenstein's monster</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="harpy">
+			<sg number="1">
+				<word number="1">harpy</word>
+				<word number="2">siren</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Furies</word>
+				<word number="2">Eumenides</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="Hun">
+			<sg number="1">
+				<word number="1">Hun</word>
+				<word number="2">Attila</word>
+				<word number="3">scourge of the human race</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="faenum habet in cornu">
+			<sg number="1">
+				<word number="1">faenum habet in cornu</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

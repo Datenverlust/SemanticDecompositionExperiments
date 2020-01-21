@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="1042" name="Rite" origNum="#998." class="8" section="5" subSection="5" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="rite">
+			<sg number="1">
+				<word number="1">rite</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ceremony</word>
+				<word number="2">ritual</word>
+				<word number="3">liturgy</word>
+				<word number="4">ceremonial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ordinance</word>
+				<word number="2">observance</word>
+				<word number="3">function</word>
+				<word number="4">duty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">form</word>
+				<word number="2">formulary</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solemnity</word>
+				<word number="2">sacrament</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="spell" headRef="1037">incantation</word>
+			</sg>
+			<sg number="7">
+				<word number="1">service</word>
+				<word number="2" paraRef="worship" headRef="1034">psalmody</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ministration">
+			<sg number="1">
+				<word number="1">ministration</word>
+			</sg>
+			<sg number="2">
+				<word number="1">preaching</word>
+				<word number="2">preachment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">predication</word>
+				<word number="2">sermon</word>
+				<word number="3">homily</word>
+				<word number="4">lecture</word>
+				<word number="5">discourse</word>
+				<word number="6">pastoral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="baptism">
+			<sg number="1">
+				<word number="1">baptism</word>
+				<word number="2">christening</word>
+				<word number="3">chrism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">circumcision</word>
+			</sg>
+			<sg number="3">
+				<word number="1">baptismal regeneration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">font</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="confirmation">
+			<sg number="1">
+				<word number="1">confirmation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">imposition of hands</word>
+				<word number="2">laying on of hands</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="churchdom" headRef="1039">ordination</word>
+			</sg>
+			<sg number="4">
+				<word number="1">excommunication</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="Bar Mitzvah">
+			<sg number="1">
+				<word number="1">Bar Mitzvah</word>
+				<word number="2">Bas Mitzvah</word>
+				<word number="3">Bris</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="Eucharist">
+			<sg number="1">
+				<word number="1">Eucharist</word>
+				<word number="2">Lord's supper</word>
+				<word number="3">communion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the sacrament</word>
+				<word number="2">the holy sacrament</word>
+			</sg>
+			<sg number="3">
+				<word number="1">celebration</word>
+				<word number="2">high celebration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">missa cantata</word>
+			</sg>
+			<sg number="5">
+				<word number="1">asperges</word>
+			</sg>
+			<sg number="6">
+				<word number="1">offertory</word>
+			</sg>
+			<sg number="7">
+				<word number="1">introit</word>
+			</sg>
+			<sg number="8">
+				<word number="1">consecration</word>
+			</sg>
+			<sg number="9">
+				<word number="1">consubstantiation</word>
+				<word number="2">transubstantiation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">real presence</word>
+			</sg>
+			<sg number="11">
+				<word number="1">elements</word>
+			</sg>
+			<sg number="12">
+				<word number="1">mass</word>
+			</sg>
+			<sg number="13">
+				<word number="1">high mass</word>
+				<word number="2">low mass</word>
+				<word number="3">dry mass</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="matrimony">
+			<sg number="1">
+				<word number="1" paraRef="matrimony" headRef="943">matrimony</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="burial" headRef="375">burial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">visitation of the sick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="seven sacraments">
+			<sg number="1">
+				<word number="1">seven sacraments</word>
+				<word number="2">impanation</word>
+				<word number="3">subpanation</word>
+				<word number="4">extreme unction</word>
+				<word number="5">viaticum</word>
+				<word number="6">invocation of saints</word>
+				<word number="7">canonization</word>
+				<word number="8">transfiguration</word>
+				<word number="9">auricular confession</word>
+			</sg>
+			<sg number="2">
+				<word number="1">maceration</word>
+				<word number="2">flagellation</word>
+				<word number="3">sackcloth and ashes</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="atonement" headRef="994">penance</word>
+			</sg>
+			<sg number="4">
+				<word number="1">telling of beads</word>
+				<word number="2">processional</word>
+			</sg>
+			<sg number="5">
+				<word number="1">thurification</word>
+				<word number="2">incense</word>
+				<word number="3">holy water</word>
+				<word number="4">aspersion</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="relics">
+			<sg number="1">
+				<word number="1">relics</word>
+				<word number="2">rosary</word>
+				<word number="3">beads</word>
+				<word number="4">reliquary</word>
+				<word number="5">host</word>
+				<word number="6">cross</word>
+				<word number="7">rood</word>
+				<word number="8">crucifix</word>
+				<word number="9">pax</word>
+				<word number="10">pyx</word>
+				<word number="11">agnus Dei</word>
+				<word number="12">censer</word>
+				<word number="13">thurible</word>
+				<word number="14">patera</word>
+			</sg>
+			<sg number="2">
+				<word number="1">eileton</word>
+				<word number="2">Holy Grail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">prayer machine</word>
+				<word number="2">prayer wheel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Sangraal</word>
+				<word number="2">urceus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="ritualism">
+			<sg number="1">
+				<word number="1">ritualism</word>
+				<word number="2">ceremonialism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sabbatism</word>
+				<word number="2">sabbatarianism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ritualist</word>
+				<word number="2">sabbatarian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="holyday">
+			<sg number="1">
+				<word number="1">holyday</word>
+				<word number="2">feast</word>
+				<word number="3">fast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="Sabbath">
+			<sg number="1">
+				<word number="1">Sabbath</word>
+				<word number="2">Pentecost</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Advent</word>
+				<word number="2">Christmas</word>
+				<word number="3">Epiphany</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Lent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Passion week</word>
+				<word number="2">Holy week</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Easter</word>
+				<word number="2">Easter Sunday</word>
+				<word number="3">Whitsuntide</word>
+			</sg>
+			<sg number="6">
+				<word number="1">agape</word>
+				<word number="2">Ascension Day</word>
+				<word number="3">Candlemas</word>
+				<word number="4">Ash Wednesday</word>
+				<word number="5">Good Friday</word>
+				<word number="6">Holy Thursday</word>
+			</sg>
+			<sg number="7">
+				<word number="1">Lammas</word>
+				<word number="2">Martinmas</word>
+				<word number="3">Michaelmas</word>
+			</sg>
+			<sg number="8">
+				<word number="1">All SAint's DAy</word>
+				<word number="2">All Souls' Day</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="Ramadan">
+			<sg number="1">
+				<word number="1">Ramadan</word>
+				<word number="2">Ramazan</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Bairam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="Passover">
+			<sg number="1">
+				<word number="1">Passover</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Shabuoth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Yom Kippur</word>
+				<word number="2">Day of Atonement</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Rosh Hashana</word>
+				<word number="2">New Year</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Hanukkah</word>
+				<word number="2">Chanukkah</word>
+				<word number="3">Feast of Lights</word>
+			</sg>
+			<sg number="6">
+				<word number="1">Purim</word>
+				<word number="2">Feast of lots</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="perform service">
+			<sg number="1">
+				<word number="1">perform service</word>
+				<word number="2">do duty</word>
+				<word number="3">minister</word>
+				<word number="4">officiate</word>
+				<word number="5">baptize</word>
+				<word number="6">dip</word>
+				<word number="7">sprinkle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">anoint</word>
+				<word number="2">confirm</word>
+				<word number="3">lay hands on</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give the sacrament</word>
+				<word number="2">administer the sacrament</word>
+			</sg>
+			<sg number="4">
+				<word number="1">administer extreme unction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hear confession</word>
+				<word number="2">administer holy penance</word>
+				<word number="3">shrive</word>
+			</sg>
+			<sg number="6">
+				<word number="1">excommunicate</word>
+				<word number="2">ban with bell book and candle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attend services">
+			<sg number="1">
+				<word number="1">attend services</word>
+				<word number="2">attend mass</word>
+				<word number="3">go to mass</word>
+				<word number="4">hear mass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take the sacrament</word>
+				<word number="2">receive the sacrament</word>
+				<word number="3">receive communion</word>
+				<word number="4">attend the sacrament</word>
+				<word number="5">partake of the sacrament</word>
+				<word number="6">partake of communion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">communicate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">receive extreme unction</word>
+			</sg>
+			<sg number="5">
+				<word number="1">confess</word>
+				<word number="2">go to confession</word>
+				<word number="3">receive penance</word>
+			</sg>
+			<sg number="6">
+				<word number="1">anele</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="preach">
+			<sg number="1">
+				<word number="1">preach</word>
+				<word number="2">sermonize</word>
+				<word number="3">predicate</word>
+				<word number="4">lecture</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ritual">
+			<sg number="1">
+				<word number="1">ritual</word>
+				<word number="2">ritualistic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ceremonial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">baptismal</word>
+				<word number="2">eucharistical</word>
+			</sg>
+			<sg number="4">
+				<word number="1">paschal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="what art thou">
+			<sg number="1">
+				<word number="1">"what art thou</word>
+				<word number="2">thou idol ceremony?"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

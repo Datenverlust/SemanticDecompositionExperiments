@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="858" name="Affections" origNum="#820." class="8" section="1" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="affections">
+			<sg number="1">
+				<word number="1">affections</word>
+				<word number="2">affect</word>
+			</sg>
+			<sg number="2">
+				<word number="1">character</word>
+				<word number="2">qualities</word>
+				<word number="3">disposition</word>
+				<word number="4">nature</word>
+				<word number="5">spirit</word>
+				<word number="6">tone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">temper</word>
+				<word number="2">temperament</word>
+			</sg>
+			<sg number="4">
+				<word number="1">diathesis</word>
+				<word number="2">idiosyncrasy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">cast of mind</word>
+				<word number="2">cast of soul</word>
+				<word number="3">habit of mind</word>
+				<word number="4">habit of soul</word>
+				<word number="5">frame of mind</word>
+				<word number="6">frame of soul</word>
+			</sg>
+			<sg number="6">
+				<word number="1">predilection</word>
+				<word number="2">turn</word>
+				<word number="3">natural turn of mind</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bent</word>
+				<word number="2">bias</word>
+				<word number="3">predisposition</word>
+				<word number="4">proneness</word>
+				<word number="5">proclivity</word>
+				<word number="6">propensity</word>
+				<word number="7">propenseness</word>
+				<word number="8">propension</word>
+				<word number="9">propendency</word>
+			</sg>
+			<sg number="8">
+				<word number="1">vein</word>
+				<word number="2">humor</word>
+				<word number="3">mood</word>
+				<word number="4">grain</word>
+				<word number="5">mettle</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="love" headRef="936">sympathy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="soul">
+			<sg number="1">
+				<word number="1">soul</word>
+				<word number="2">heart</word>
+				<word number="3">breast</word>
+				<word number="4">bosom</word>
+				<word number="5">inner man</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heart's core</word>
+				<word number="2">heart's strings</word>
+				<word number="3">heart's blood</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heart of hearts</word>
+				<word number="2">bottom of one's heart</word>
+				<word number="3">penetralia mentis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">secret and inmost recesses of the heart</word>
+				<word number="2">cockles of one's heart</word>
+			</sg>
+			<sg number="5">
+				<word number="1">inmost heart</word>
+				<word number="2">inmost soul</word>
+			</sg>
+			<sg number="6">
+				<word number="1">backbone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="passion">
+			<sg number="1">
+				<word number="1">passion</word>
+				<word number="2">pervading spirit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ruling passion</word>
+				<word number="2">master passion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">furore</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fullness of the heart</word>
+				<word number="2">heyday of the blood</word>
+				<word number="3">flesh and blood</word>
+				<word number="4">flow of soul</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="energy">
+			<sg number="1">
+				<word number="1">energy</word>
+				<word number="2">fervor</word>
+				<word number="3">fire</word>
+				<word number="4">force</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="have affections">
+			<sg number="1">
+				<word number="1">have affections</word>
+				<word number="2" paraRef="" posRef="n.">possess affections</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="n.">be of a character</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">be affected</word>
+			</sg>
+			<sg number="4">
+				<word number="1">breathe</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="affected">
+			<sg number="1">
+				<word number="1">affected</word>
+				<word number="2">characterized</word>
+				<word number="3">formed</word>
+				<word number="4">molded</word>
+				<word number="5">cast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">attempered</word>
+				<word number="2">tempered</word>
+			</sg>
+			<sg number="3">
+				<word number="1">framed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">predisposed</word>
+			</sg>
+			<sg number="5">
+				<word number="1">prone</word>
+				<word number="2">inclined</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="n.">having a bias</word>
+			</sg>
+			<sg number="7">
+				<word number="1">tinctured with</word>
+				<word number="2">imbued with</word>
+				<word number="3">penetrated with</word>
+				<word number="4">eaten  up with</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="inborn">
+			<sg number="1">
+				<word number="1">inborn</word>
+				<word number="2">inbred</word>
+				<word number="3">ingrained</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deep-rooted</word>
+				<word number="2">ineffaceable</word>
+				<word number="3">inveterate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pathoscopic!</word>
+			</sg>
+			<sg number="4">
+				<word number="1">congenital</word>
+				<word number="2">dyed in the wool</word>
+				<word number="3">implanted by nature</word>
+				<word number="4">inherent</word>
+				<word number="5">in the grain</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="affective [med">
+			<sg number="1">
+				<word number="1">affective</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in one's heart">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">in one's heart</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="heart and soul" headRef="859">heart and soul</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="affection is a coal that must be cool'd else suffer'd it will set the heart on fire">
+			<sg number="1">
+				<word number="1">"affection is a coal that must be cool'd else suffer'd it will set the heart on fire"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

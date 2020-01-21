@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="820" name="Lending" origNum="#787." class="7" section="4" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="lending">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lending</word>
+			</sg>
+			<sg number="2">
+				<word number="1">loan</word>
+				<word number="2">advance</word>
+				<word number="3">accommodation</word>
+				<word number="4">feneration</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mortgage</word>
+				<word number="2">second mortgage</word>
+				<word number="3" paraRef="security" headRef="803">home loan</word>
+			</sg>
+			<sg number="4">
+				<word number="1">investment</word>
+			</sg>
+			<sg number="5">
+				<word number="1">note</word>
+				<word number="2">bond</word>
+				<word number="3">commercial paper</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mont de piete">
+			<sg number="1">
+				<word number="1">mont de piete</word>
+				<word number="2">pawnshop</word>
+				<word number="3">my uncle's</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lender">
+			<sg number="1">
+				<word number="1">lender</word>
+				<word number="2">pawnbroker</word>
+				<word number="3">money lender</word>
+			</sg>
+			<sg number="2">
+				<word number="1">usurer</word>
+				<word number="2">loan shark</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="loaner">
+			<sg number="1">
+				<word number="1">loaner</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="lend">
+			<sg number="1">
+				<word number="1">lend</word>
+				<word number="2">advance</word>
+				<word number="3">accommodate with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lend on security</word>
+			</sg>
+			<sg number="3">
+				<word number="1">loan</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="security" headRef="803">pawn</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="intrust">
+			<sg number="1">
+				<word number="1">intrust</word>
+				<word number="2">invest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">place out to interest</word>
+				<word number="2">put out to interest</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="let">
+			<sg number="1">
+				<word number="1">let</word>
+				<word number="2">demise</word>
+				<word number="3">lease</word>
+				<word number="4">sett</word>
+				<word number="5">underlet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="lending">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">lending</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">lent</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="borrow" headRef="821">unborrowed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in advance">
+			<sg number="1">
+				<word number="1">in advance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">on loan</word>
+				<word number="2">on security</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="989" name="Guilt" origNum="#947." class="8" section="4" subSection="3" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="guilt">
+			<sg number="1">
+				<word number="1">guilt</word>
+				<word number="2">guiltiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">culpability</word>
+			</sg>
+			<sg number="3">
+				<word number="1">criminality</word>
+				<word number="2">criminousness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="improbity" headRef="982">deviation from rectitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="vice" headRef="987">sinfulness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="misconduct">
+			<sg number="1">
+				<word number="1">misconduct</word>
+				<word number="2">misbehavior</word>
+				<word number="3">misdoing</word>
+				<word number="4">misdeed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">malpractice</word>
+				<word number="2">fault</word>
+				<word number="3">sin</word>
+				<word number="4">error</word>
+				<word number="5">transgression</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dereliction</word>
+				<word number="2">delinquency</word>
+			</sg>
+			<sg number="4">
+				<word number="1">indiscretion</word>
+				<word number="2">lapse</word>
+				<word number="3">slip</word>
+				<word number="4">trip</word>
+				<word number="5">faux pas</word>
+				<word number="6">peccadillo</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flaw</word>
+				<word number="2">blot</word>
+				<word number="3">omission</word>
+			</sg>
+			<sg number="6">
+				<word number="1">failing</word>
+				<word number="2">failure</word>
+			</sg>
+			<sg number="7">
+				<word number="1">break</word>
+				<word number="2">bad break !</word>
+				<word number="3">capital crime</word>
+				<word number="4">delictum</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">mistake</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="offense">
+			<sg number="1">
+				<word number="1">offense</word>
+				<word number="2">trespass</word>
+			</sg>
+			<sg number="2">
+				<word number="1">misdemeanor</word>
+				<word number="2">misfeasance</word>
+				<word number="3">misprision</word>
+			</sg>
+			<sg number="3">
+				<word number="1">malefaction</word>
+				<word number="2">malfeasance</word>
+				<word number="3">malversation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">crime</word>
+				<word number="2">felony</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">offence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="enormity">
+			<sg number="1">
+				<word number="1">enormity</word>
+				<word number="2">atrocity</word>
+				<word number="3">outrage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deadly sin</word>
+				<word number="2">mortal sin</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"deed without a name"</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="corpus delicti">
+			<sg number="1">
+				<word number="1">corpus delicti</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="guilty">
+			<sg number="1">
+				<word number="1">guilty</word>
+				<word number="2">to blame</word>
+				<word number="3">culpable</word>
+				<word number="4">peccable</word>
+				<word number="5">in fault</word>
+				<word number="6">at fault</word>
+				<word number="7">censurable</word>
+				<word number="8">reprehensible</word>
+				<word number="9">blameworthy</word>
+				<word number="10">uncommendable</word>
+				<word number="11">illaudable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">weighed in the balance and found wanting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">exceptionable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in flagrante delicto">
+			<sg number="1">
+				<word number="1">in flagrante delicto</word>
+			</sg>
+			<sg number="2">
+				<word number="1">red-handed</word>
+				<word number="2">in the very act</word>
+				<word number="3">with one's hand in the cookie jar</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="cui prodest scelus in fecit">
+			<sg number="1">
+				<word number="1">cui prodest scelus in fecit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">culpam paena premit comes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"O would the deed were good!"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"responsibility prevents crimes"</word>
+				<word number="2">se judice nemo nocens absolvitur [Burke</word>
+			</sg>
+			<sg number="5">
+				<word number="1">]</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"so many laws argues so many sins"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

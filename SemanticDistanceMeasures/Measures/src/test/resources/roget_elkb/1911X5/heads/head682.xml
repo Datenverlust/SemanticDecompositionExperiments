@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="682" name="Uncleanness" origNum="#653." class="6" section="2" subSection="2" headGroup="15">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="uncleanness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">uncleanness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">impurity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">immundity</word>
+				<word number="2">immundicity</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="impurity" headRef="1004">impurity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="defilement">
+			<sg number="1">
+				<word number="1">defilement</word>
+				<word number="2" paraRef="" posRef="v.">contamination</word>
+			</sg>
+			<sg number="2">
+				<word number="1">defoedation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">soilure</word>
+				<word number="2">soiliness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abomination</word>
+			</sg>
+			<sg number="5">
+				<word number="1">leaven</word>
+			</sg>
+			<sg number="6">
+				<word number="1">taint</word>
+				<word number="2">tainture</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="fetor" headRef="417">fetor</word>
+			</sg>
+			<sg number="8">
+				<word number="1">putrescence</word>
+				<word number="2">putrefaction</word>
+			</sg>
+			<sg number="9">
+				<word number="1">corruption</word>
+			</sg>
+			<sg number="10">
+				<word number="1">mold</word>
+				<word number="2">must</word>
+				<word number="3">mildew</word>
+				<word number="4">dry rot</word>
+				<word number="5">mucor</word>
+				<word number="6">rubigo|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="slovenry">
+			<sg number="1">
+				<word number="1">slovenry</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">slovenliness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dowdy">
+			<sg number="1">
+				<word number="1">dowdy</word>
+				<word number="2">drab</word>
+				<word number="3">slut</word>
+				<word number="4">malkin</word>
+				<word number="5">slattern</word>
+				<word number="6">sloven</word>
+				<word number="7">slammerkin</word>
+				<word number="8">slammock</word>
+				<word number="9">slummock</word>
+				<word number="10">scrub</word>
+				<word number="11">draggle-tail</word>
+				<word number="12">mudlark</word>
+				<word number="13">dust- man</word>
+				<word number="14">sweep</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beast</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dirt">
+			<sg number="1">
+				<word number="1">dirt</word>
+				<word number="2">filth</word>
+				<word number="3">soil</word>
+				<word number="4">slop</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dust</word>
+				<word number="2">cobweb</word>
+				<word number="3">flue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">smoke</word>
+				<word number="2">soot</word>
+				<word number="3">smudge</word>
+				<word number="4">smut</word>
+				<word number="5">grit</word>
+				<word number="6">grime</word>
+				<word number="7">raff</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sossle</word>
+				<word number="2">sozzle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sordes">
+			<sg number="1">
+				<word number="1">sordes</word>
+				<word number="2">dregs</word>
+				<word number="3">grounds</word>
+				<word number="4">lees</word>
+			</sg>
+			<sg number="2">
+				<word number="1">argol</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sediment</word>
+				<word number="2">settlement heeltap</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dross</word>
+				<word number="2">drossiness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">mother</word>
+				<word number="2">precipitate</word>
+				<word number="3">scoriae</word>
+				<word number="4">ashes</word>
+				<word number="5">cinders</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="recrement">
+			<sg number="1">
+				<word number="1">recrement</word>
+				<word number="2">slag</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scum</word>
+				<word number="2">froth</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="hogwash">
+			<sg number="1">
+				<word number="1">hogwash</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ditchwater</word>
+				<word number="2">dishwater</word>
+				<word number="3">bilgewater</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rinsings</word>
+				<word number="2">cheeseparings</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="refuse" headRef="795">sweepings</word>
+			</sg>
+			<sg number="5">
+				<word number="1">offscourings</word>
+				<word number="2">outscourings</word>
+			</sg>
+			<sg number="6">
+				<word number="1">off scum</word>
+			</sg>
+			<sg number="7">
+				<word number="1">caput mortuum</word>
+				<word number="2">residuum</word>
+				<word number="3">sprue</word>
+				<word number="4">fecula</word>
+				<word number="5">clinker</word>
+				<word number="6">draff</word>
+			</sg>
+			<sg number="8">
+				<word number="1">scurf</word>
+				<word number="2">scurfiness</word>
+			</sg>
+			<sg number="9">
+				<word number="1">exuviae</word>
+				<word number="2">morphea</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fur</word>
+				<word number="2">furfur</word>
+			</sg>
+			<sg number="11">
+				<word number="1">dandruff</word>
+				<word number="2">tartar</word>
+			</sg>
+		</paragraph>
+		<paragraph number="9" name="riffraff">
+			<sg number="1">
+				<word number="1">riffraff</word>
+			</sg>
+			<sg number="2">
+				<word number="1">vermin</word>
+				<word number="2">louse</word>
+				<word number="3">flea</word>
+				<word number="4">bug</word>
+				<word number="5">chinch</word>
+			</sg>
+		</paragraph>
+		<paragraph number="10" name="mud">
+			<sg number="1">
+				<word number="1">mud</word>
+				<word number="2">mire</word>
+				<word number="3">quagmire</word>
+				<word number="4">alluvium</word>
+				<word number="5">silt</word>
+				<word number="6">sludge</word>
+				<word number="7">slime</word>
+				<word number="8">slush</word>
+				<word number="9">slosh</word>
+				<word number="10">sposh</word>
+			</sg>
+		</paragraph>
+		<paragraph number="11" name="spawn">
+			<sg number="1">
+				<word number="1">spawn</word>
+				<word number="2">offal</word>
+				<word number="3">gurry</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lientery</word>
+			</sg>
+			<sg number="3">
+				<word number="1">garbage</word>
+				<word number="2">carrion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="excreta" headRef="310">excreta</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slough</word>
+				<word number="2">peccant humor</word>
+				<word number="3">pus</word>
+				<word number="4">matter</word>
+				<word number="5">suppuration</word>
+				<word number="6">lienteria</word>
+			</sg>
+			<sg number="6">
+				<word number="1">faeces</word>
+				<word number="2">feces</word>
+				<word number="3">excrement</word>
+				<word number="4">ordure</word>
+				<word number="5">dung</word>
+				<word number="6">crap</word>
+				<word number="7">shit</word>
+				<word number="8" new="1">droppings</word>
+				<word number="9" new="1">semen</word>
+				<word number="10" new="2">vomit</word>
+				<word number="11" new="3">saliva</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sewage</word>
+				<word number="2">sewerage</word>
+			</sg>
+			<sg number="8">
+				<word number="1">muck</word>
+			</sg>
+			<sg number="9">
+				<word number="1">coprolite</word>
+			</sg>
+			<sg number="10">
+				<word number="1">guano</word>
+				<word number="2">manure</word>
+				<word number="3">compost</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">rubbish</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">scraps</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">sweat</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">trash</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="2">waste</word>
+			</sg>
+		</paragraph>
+		<paragraph number="12" name="dunghill">
+			<sg number="1">
+				<word number="1">dunghill</word>
+				<word number="2">colluvies</word>
+				<word number="3">mixen</word>
+				<word number="4">midden</word>
+				<word number="5">bog</word>
+				<word number="6">laystall</word>
+				<word number="7">sink</word>
+				<word number="8">privy</word>
+				<word number="9">jakes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">toilet</word>
+				<word number="2">john</word>
+				<word number="3">head</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cess</word>
+				<word number="2">cesspool</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sump</word>
+				<word number="2">sough</word>
+				<word number="3">cloaca</word>
+				<word number="4">latrines</word>
+				<word number="5">drain</word>
+				<word number="6">sewer</word>
+				<word number="7">common sewer</word>
+			</sg>
+			<sg number="5">
+				<word number="1">Cloacina</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dust hole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="13" name="sty">
+			<sg number="1">
+				<word number="1">sty</word>
+				<word number="2">pigsty</word>
+				<word number="3">lair</word>
+				<word number="4">den</word>
+				<word number="5">Augean stable</word>
+				<word number="6">sink of corruption</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slum</word>
+				<word number="2">rookery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="14" name="debris">
+			<sg number="1">
+				<word number="1" new="1">debris</word>
+			</sg>
+		</paragraph>
+		<paragraph number="15" name="gravel">
+			<sg number="1">
+				<word number="1" new="1">gravel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="16" name="ice">
+			<sg number="1">
+				<word number="1" new="1">ice</word>
+			</sg>
+		</paragraph>
+		<paragraph number="17" name="peat">
+			<sg number="1">
+				<word number="1" new="1">peat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="18" name="sand">
+			<sg number="1">
+				<word number="1" new="1">sand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="19" name="sands">
+			<sg number="1">
+				<word number="1" new="1">sands</word>
+			</sg>
+		</paragraph>
+		<paragraph number="20" name="spoil">
+			<sg number="1">
+				<word number="1" new="1">spoil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="21" name="subsoil">
+			<sg number="1">
+				<word number="1" new="1">subsoil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="22" name="ash">
+			<sg number="1">
+				<word number="1" new="2">ash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="23" name="clay">
+			<sg number="1">
+				<word number="1" new="2">clay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="24" name="deposit">
+			<sg number="1">
+				<word number="1" new="2">deposit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="25" name="litter">
+			<sg number="1">
+				<word number="1" new="2">litter</word>
+			</sg>
+		</paragraph>
+		<paragraph number="26" name="loam">
+			<sg number="1">
+				<word number="1" new="2">loam</word>
+			</sg>
+		</paragraph>
+		<paragraph number="27" name="pebble">
+			<sg number="1">
+				<word number="1" new="2">pebble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="28" name="rubble">
+			<sg number="1">
+				<word number="1" new="2">rubble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="29" name="sawdust">
+			<sg number="1">
+				<word number="1" new="2">sawdust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="30" name="shingle">
+			<sg number="1">
+				<word number="1" new="2">shingle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="31" name="tailings">
+			<sg number="1">
+				<word number="1" new="2">tailings</word>
+			</sg>
+		</paragraph>
+		<paragraph number="32" name="bed">
+			<sg number="1">
+				<word number="1" new="3">bed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="33" name="bedrock">
+			<sg number="1">
+				<word number="1" new="3">bedrock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="34" name="boulder">
+			<sg number="1">
+				<word number="1" new="3">boulder</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be unclean">
+			<sg number="1">
+				<word number="1">be unclean</word>
+				<word number="2" paraRef="" posRef="adj.">become unclean</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rot</word>
+				<word number="2">putrefy</word>
+				<word number="3">ferment</word>
+				<word number="4">fester</word>
+				<word number="5">rankle</word>
+				<word number="6">reek</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="stink" headRef="417">stink</word>
+			</sg>
+			<sg number="4">
+				<word number="1">mold</word>
+				<word number="2">molder</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="" posRef="adj.">go bad</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="render unclean">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render unclean</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dirt</word>
+				<word number="2">dirty</word>
+			</sg>
+			<sg number="3">
+				<word number="1">daub</word>
+				<word number="2">blot</word>
+				<word number="3">blur</word>
+				<word number="4">smudge</word>
+				<word number="5">smutch</word>
+				<word number="6">soil</word>
+				<word number="7">smoke</word>
+				<word number="8">tarnish</word>
+				<word number="9">slaver</word>
+				<word number="10">spot</word>
+				<word number="11">smear</word>
+			</sg>
+			<sg number="4">
+				<word number="1">smirch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">begrease</word>
+			</sg>
+			<sg number="6">
+				<word number="1">dabble</word>
+				<word number="2">drabble</word>
+				<word number="3">draggle</word>
+				<word number="4">daggle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">spatter</word>
+				<word number="2">slubber</word>
+			</sg>
+			<sg number="8">
+				<word number="1">besmear</word>
+				<word number="2">bemire</word>
+				<word number="3">beslime</word>
+				<word number="4">begrime</word>
+				<word number="5">befoul</word>
+			</sg>
+			<sg number="9">
+				<word number="1">splash</word>
+				<word number="2">stain</word>
+				<word number="3">distain</word>
+				<word number="4">maculate</word>
+				<word number="5">sully</word>
+				<word number="6">pollute</word>
+				<word number="7">defile</word>
+				<word number="8">debase</word>
+				<word number="9">contaminate</word>
+				<word number="10">taint</word>
+				<word number="11">leaven</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="injure" headRef="688">corrupt</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="" posRef="n.">cover with dust</word>
+			</sg>
+			<sg number="12">
+				<word number="1">drabble in the mud</word>
+			</sg>
+			<sg number="13">
+				<word number="1">roil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wallow in the mire">
+			<sg number="1">
+				<word number="1">wallow in the mire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">slobber</word>
+				<word number="2">slabber</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dirty">
+			<sg number="1">
+				<word number="1">dirty</word>
+				<word number="2">filthy</word>
+				<word number="3">grimy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unclean</word>
+				<word number="2">impure</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">soiled</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not to be handled with kid gloves</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dusty</word>
+				<word number="2">snuffy</word>
+				<word number="3">smutty</word>
+				<word number="4">sooty</word>
+				<word number="5">smoky</word>
+			</sg>
+			<sg number="6">
+				<word number="1">thick</word>
+				<word number="2">turbid</word>
+				<word number="3">dreggy</word>
+			</sg>
+			<sg number="7">
+				<word number="1">slimy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mussy</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">dingy</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">unsightly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="slovenly">
+			<sg number="1">
+				<word number="1">slovenly</word>
+				<word number="2">untidy</word>
+				<word number="3">messy</word>
+				<word number="4">uncleanly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="unkempt">
+			<sg number="1">
+				<word number="1">unkempt</word>
+				<word number="2">sluttish</word>
+				<word number="3">dowdy</word>
+				<word number="4">draggle-tailed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">uncombed</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="unscoured">
+			<sg number="1">
+				<word number="1">unscoured</word>
+				<word number="2">unswept</word>
+				<word number="3">unwiped</word>
+				<word number="4">unwashed</word>
+				<word number="5">unstrained</word>
+				<word number="6">unpurified</word>
+			</sg>
+			<sg number="2">
+				<word number="1">squalid</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lutose</word>
+				<word number="2">slammocky</word>
+				<word number="3">slummocky</word>
+				<word number="4">sozzly</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="nasty">
+			<sg number="1">
+				<word number="1">nasty</word>
+				<word number="2">coarse</word>
+				<word number="3">foul</word>
+				<word number="4">offensive</word>
+				<word number="5">abominable</word>
+				<word number="6">beastly</word>
+				<word number="7">reeky</word>
+				<word number="8">reechy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fetid" headRef="417">fetid</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="decayed">
+			<sg number="1">
+				<word number="1">decayed</word>
+				<word number="2">moldy</word>
+				<word number="3">musty</word>
+				<word number="4">mildewed</word>
+				<word number="5">rusty</word>
+				<word number="6">moth-eaten</word>
+				<word number="7">mucid</word>
+				<word number="8">rancid</word>
+				<word number="9">weak</word>
+				<word number="10">bad</word>
+				<word number="11">gone bad</word>
+				<word number="12">etercoral</word>
+				<word number="13">lentiginous</word>
+				<word number="14">touched</word>
+				<word number="15">fusty</word>
+				<word number="16">effete</word>
+				<word number="17">reasty</word>
+				<word number="18">rotten</word>
+				<word number="19">corrupt</word>
+				<word number="20">tainted</word>
+				<word number="21">high</word>
+				<word number="22">flyblown</word>
+				<word number="23">maggoty</word>
+			</sg>
+			<sg number="2">
+				<word number="1">putrid</word>
+				<word number="2">putrefactive</word>
+				<word number="3">putrescent</word>
+				<word number="4">putrefied</word>
+			</sg>
+			<sg number="3">
+				<word number="1">saprogenic</word>
+				<word number="2">saprogenous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">purulent</word>
+				<word number="2">carious</word>
+				<word number="3">peccant</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fecal</word>
+				<word number="2">feculent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stercoraceous</word>
+				<word number="2">excrementitious</word>
+			</sg>
+			<sg number="7">
+				<word number="1">scurfy</word>
+				<word number="2">scurvy</word>
+				<word number="3">impetiginous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">gory</word>
+				<word number="2">bloody</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="" posRef="v.">rotting</word>
+			</sg>
+			<sg number="10">
+				<word number="1">rotten as a pear</word>
+				<word number="2">rotten as cheese</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="crapulous">
+			<sg number="1">
+				<word number="1" paraRef="be intemperate" headRef="996">crapulous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="impure" headRef="1004">gross</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fimetarious</word>
+				<word number="2">fimicolous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="they that touch pitch will be defiled">
+			<sg number="1">
+				<word number="1">"they that touch pitch will be defiled"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

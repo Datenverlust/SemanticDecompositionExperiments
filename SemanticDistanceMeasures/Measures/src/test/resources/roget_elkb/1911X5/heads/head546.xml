@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="546" name="Metaphor" origNum="#521." class="5" section="1" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="figure of speech">
+			<sg number="1">
+				<word number="1">figure of speech</word>
+			</sg>
+			<sg number="2">
+				<word number="1">facon de parler</word>
+				<word number="2">way of speaking</word>
+				<word number="3">colloquialism</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="phrase">
+			<sg number="1">
+				<word number="1" paraRef="phrase" headRef="592">phrase</word>
+			</sg>
+			<sg number="2">
+				<word number="1">figure</word>
+				<word number="2">trope</word>
+				<word number="3">metaphor</word>
+				<word number="4">enallage</word>
+				<word number="5">catachresis</word>
+			</sg>
+			<sg number="3">
+				<word number="1">metonymy</word>
+				<word number="2">synecdoche</word>
+			</sg>
+			<sg number="4">
+				<word number="1">autonomasia!</word>
+				<word number="2">irony</word>
+				<word number="3" paraRef="" posRef="adj.">figurativeness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">image</word>
+				<word number="2">imagery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">metalepsis</word>
+				<word number="2">type</word>
+				<word number="3">anagoge</word>
+				<word number="4">simile</word>
+				<word number="5">personification</word>
+				<word number="6">prosopopoeia</word>
+				<word number="7">allegory</word>
+				<word number="8">apologue</word>
+				<word number="9">parable</word>
+				<word number="10">fable</word>
+			</sg>
+			<sg number="7">
+				<word number="1">allusion</word>
+				<word number="2">adumbration</word>
+			</sg>
+			<sg number="8">
+				<word number="1">application</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="exaggeration">
+			<sg number="1">
+				<word number="1">exaggeration</word>
+				<word number="2" paraRef="hyperbole" headRef="575">hyperbole</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="association">
+			<sg number="1">
+				<word number="1">association</word>
+				<word number="2" paraRef="analogy" headRef="539">association of ideas</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="employ -metaphor">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">employ -metaphor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">personify</word>
+				<word number="2">allegorize</word>
+				<word number="3">adumbrate</word>
+				<word number="4">shadow forth</word>
+				<word number="5">apply</word>
+				<word number="6">allude to</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="metaphorical">
+			<sg number="1">
+				<word number="1">metaphorical</word>
+				<word number="2">figurative</word>
+				<word number="3">catachrestical</word>
+				<word number="4">typical</word>
+				<word number="5">tralatitious</word>
+				<word number="6">parabolic</word>
+				<word number="7">allegorical</word>
+				<word number="8">allusive</word>
+				<word number="9">anagogical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ironical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">colloquial</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tropical</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="so to speak">
+			<sg number="1">
+				<word number="1">so to speak</word>
+				<word number="2">so to say</word>
+				<word number="3">so to express oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">as it were</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="mutato nomine de te fabula narratur">
+			<sg number="1">
+				<word number="1">mutato nomine de te fabula narratur</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

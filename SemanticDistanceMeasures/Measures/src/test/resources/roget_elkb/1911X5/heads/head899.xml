@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="899" name="Fear" origNum="#860." class="8" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fear">
+			<sg number="1">
+				<word number="1">fear</word>
+				<word number="2">timidity</word>
+				<word number="3">diffidence</word>
+				<word number="4">want of confidence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">apprehensiveness</word>
+				<word number="2" paraRef="" posRef="adj.">fearfulness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">solicitude</word>
+				<word number="2">anxiety</word>
+				<word number="3">care</word>
+				<word number="4">apprehension</word>
+				<word number="5">misgiving</word>
+			</sg>
+			<sg number="4">
+				<word number="1">feeze</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="doubt" headRef="509">mistrust</word>
+			</sg>
+			<sg number="6">
+				<word number="1">suspicion</word>
+				<word number="2">qualm</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="irresolution" headRef="632">hesitation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="nervousness">
+			<sg number="1">
+				<word number="1">nervousness</word>
+				<word number="2" paraRef="" posRef="adj.">restlessness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">inquietude</word>
+				<word number="2">disquietude</word>
+				<word number="3">worry</word>
+				<word number="4">concern</word>
+			</sg>
+			<sg number="3">
+				<word number="1">batophobia</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heartquake</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flutter</word>
+				<word number="2">trepidation</word>
+				<word number="3">fear and trembling</word>
+				<word number="4">perturbation</word>
+				<word number="5">tremor</word>
+				<word number="6">quivering</word>
+				<word number="7">shaking</word>
+				<word number="8">trembling</word>
+				<word number="9">throbbing heart</word>
+				<word number="10">palpitation</word>
+				<word number="11">ague fit</word>
+				<word number="12">cold sweat</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="cowardice" headRef="901">abject fear</word>
+			</sg>
+			<sg number="7">
+				<word number="1">mortal funk</word>
+				<word number="2">heartsinking</word>
+				<word number="3">despondency</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="despair" headRef="898">despair</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="fright">
+			<sg number="1">
+				<word number="1">fright</word>
+			</sg>
+			<sg number="2">
+				<word number="1">affright</word>
+				<word number="2">affrightment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">boof  alarm</word>
+				<word number="2">dread</word>
+				<word number="3">awe</word>
+				<word number="4">terror</word>
+				<word number="5">horror</word>
+				<word number="6">dismay</word>
+				<word number="7">consternation</word>
+				<word number="8">panic</word>
+				<word number="9">scare</word>
+				<word number="10">stampede</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="intimidation">
+			<sg number="1">
+				<word number="1">intimidation</word>
+				<word number="2">terrorism</word>
+				<word number="3">reign of terror</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="bug bear">
+			<sg number="1">
+				<word number="1">bug bear</word>
+				<word number="2">bugaboo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">scarecrow</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="demon" headRef="1023">hobgoblin</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nightmare</word>
+				<word number="2">Gorgon</word>
+				<word number="3">mormo</word>
+				<word number="4">ogre</word>
+				<word number="5">Hurlothrumbo</word>
+				<word number="6">raw head and bloody bones</word>
+				<word number="7">fee-faw-fum</word>
+				<word number="8">bete noire</word>
+				<word number="9">enfant terrible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="alarmist">
+			<sg number="1">
+				<word number="1" paraRef="coward" headRef="901">alarmist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="fear">
+			<sg number="1">
+				<word number="1">fear</word>
+				<word number="2">stand in awe of</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be afraid</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="n.">have qualms</word>
+			</sg>
+			<sg number="4">
+				<word number="1">apprehend</word>
+				<word number="2">sit upon thorns</word>
+				<word number="3">eye askance</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="disbelieve" headRef="509">distrust</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="hesitate">
+			<sg number="1">
+				<word number="1" paraRef="be irresolute" headRef="632">hesitate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">falter</word>
+				<word number="2">funk</word>
+				<word number="3">cower</word>
+				<word number="4">crouch</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="cowardice" headRef="901">skulk</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"let 'I dare not' wait upon 'I would'"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take fright</word>
+				<word number="2">take alarm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">start</word>
+				<word number="2">wince</word>
+				<word number="3">flinch</word>
+				<word number="4">shy</word>
+				<word number="5">shrink</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="avoid" headRef="652">fly</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">cringe</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="tremble">
+			<sg number="1">
+				<word number="1">tremble</word>
+				<word number="2">shake</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shiver</word>
+				<word number="2">shiver in one's shoes</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shudder</word>
+				<word number="2">flutter</word>
+			</sg>
+			<sg number="4">
+				<word number="1">shake like an aspen leaf</word>
+				<word number="2">tremble like an aspen leaf</word>
+				<word number="3">tremble all over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">quake</word>
+				<word number="2">quaver</word>
+				<word number="3">quiver</word>
+				<word number="4">quail</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="grow pale">
+			<sg number="1">
+				<word number="1">grow pale</word>
+				<word number="2">turn pale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blench</word>
+				<word number="2">stand aghast</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not dare to say one's soul is one's own</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="inspire fear">
+			<sg number="1">
+				<word number="1">inspire fear</word>
+				<word number="2">excite fear</word>
+				<word number="3">inspire awe</word>
+				<word number="4">excite awe</word>
+			</sg>
+			<sg number="2">
+				<word number="1">raise aprehensions</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be in a daze</word>
+				<word number="2">bulldoze</word>
+			</sg>
+			<sg number="4">
+				<word number="1">faze</word>
+				<word number="2">feeze</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give an alarm</word>
+				<word number="2">raise an alarm</word>
+				<word number="3">sound an alarm</word>
+			</sg>
+			<sg number="6">
+				<word number="1">alarm</word>
+				<word number="2">startle</word>
+				<word number="3">scare</word>
+				<word number="4">cry "wolf"</word>
+				<word number="5">disquiet</word>
+				<word number="6">dismay</word>
+			</sg>
+			<sg number="7">
+				<word number="1">fright</word>
+				<word number="2">frighten</word>
+				<word number="3">terrify</word>
+			</sg>
+			<sg number="8">
+				<word number="1">astound</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fright from one's propriety</word>
+			</sg>
+			<sg number="10">
+				<word number="1">fright out of one's senses</word>
+				<word number="2">fright out of one's wits</word>
+				<word number="3">fright out of one's seven senses</word>
+			</sg>
+			<sg number="11">
+				<word number="1">awe</word>
+			</sg>
+			<sg number="12">
+				<word number="1">strike all of a heap</word>
+				<word number="2">strike an awe into</word>
+				<word number="3">strike terror</word>
+			</sg>
+			<sg number="13">
+				<word number="1">harrow up the soul</word>
+				<word number="2">appall</word>
+				<word number="3">unman</word>
+				<word number="4">petrify</word>
+				<word number="5">horrify</word>
+			</sg>
+			<sg number="14">
+				<word number="1">pile on the agony</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="make one's flesh creep">
+			<sg number="1">
+				<word number="1">make one's flesh creep</word>
+				<word number="2">make one's hair stand on end</word>
+				<word number="3">make one's blood run cold</word>
+				<word number="4">make one's teeth chatter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">take away one's breath</word>
+				<word number="2">stop one's breath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">make one tremble</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="haunt">
+			<sg number="1">
+				<word number="1">haunt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prey on the mind</word>
+				<word number="2">weigh on the mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="put in fear">
+			<sg number="1">
+				<word number="1">put in fear</word>
+				<word number="2">put in bodily fear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">terrorize</word>
+				<word number="2">intimidate</word>
+				<word number="3">cow</word>
+				<word number="4">daunt</word>
+				<word number="5">overawe</word>
+				<word number="6">abash</word>
+				<word number="7">deter</word>
+				<word number="8">discourage</word>
+				<word number="9" new="1">dissuade</word>
+			</sg>
+			<sg number="3">
+				<word number="1">browbeat</word>
+				<word number="2">bully</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="threaten" headRef="949">threaten</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="fearing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">fearing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">frightened</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in fear</word>
+				<word number="2" paraRef="" posRef="n.">in a fright</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="n.">haunted with the fear of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">afeard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="afraid">
+			<sg number="1">
+				<word number="1">afraid</word>
+				<word number="2">fearful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">timid</word>
+				<word number="2">timorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nervous</word>
+				<word number="2">diffident</word>
+				<word number="3">coy</word>
+				<word number="4">faint- hearted</word>
+				<word number="5">tremulous</word>
+				<word number="6">shaky</word>
+				<word number="7">afraid of one's shadow</word>
+				<word number="8">apprehensive</word>
+				<word number="9">restless</word>
+				<word number="10">fidgety</word>
+				<word number="11" new="1">bashful</word>
+			</sg>
+			<sg number="4">
+				<word number="1">more frightened than hurt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="aghast">
+			<sg number="1">
+				<word number="1">aghast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">awe-stricken</word>
+				<word number="2">horror-stricken</word>
+				<word number="3">terror-stricken</word>
+				<word number="4">panic- stricken</word>
+				<word number="5">awestruck</word>
+				<word number="6">awe-stricken</word>
+				<word number="7">horror-struck</word>
+			</sg>
+			<sg number="3">
+				<word number="1">frightened to death</word>
+				<word number="2">white as a sheet</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pale</word>
+				<word number="2">pale as a ghost</word>
+				<word number="3">pale as death</word>
+				<word number="4">pale as ashes</word>
+			</sg>
+			<sg number="5">
+				<word number="1">breathless</word>
+				<word number="2">in hysterics</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="inspiring fear">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">inspiring fear</word>
+			</sg>
+			<sg number="2">
+				<word number="1">alarming</word>
+			</sg>
+			<sg number="3">
+				<word number="1">formidable</word>
+				<word number="2">redoubtable</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="danger" headRef="694">perilous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">portentous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">fearful</word>
+			</sg>
+			<sg number="7">
+				<word number="1">dread</word>
+				<word number="2">dreadful</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fell</word>
+			</sg>
+			<sg number="9">
+				<word number="1">dire</word>
+				<word number="2">direful</word>
+			</sg>
+			<sg number="10">
+				<word number="1">shocking</word>
+			</sg>
+			<sg number="11">
+				<word number="1">terrible</word>
+				<word number="2">terrific</word>
+			</sg>
+			<sg number="12">
+				<word number="1">tremendous</word>
+			</sg>
+			<sg number="13">
+				<word number="1">horrid</word>
+				<word number="2">horrible</word>
+				<word number="3">horrific</word>
+				<word number="4" new="1">atrocious</word>
+				<word number="5" new="1">gruesome</word>
+				<word number="6" new="1">unspeakable</word>
+				<word number="7" new="2">gory</word>
+				<word number="8" new="2">grisly</word>
+				<word number="9" new="2">heinous</word>
+				<word number="10" new="2">senseless</word>
+			</sg>
+			<sg number="14">
+				<word number="1">ghastly</word>
+			</sg>
+			<sg number="15">
+				<word number="1">awful</word>
+				<word number="2">awe-inspiring</word>
+			</sg>
+			<sg number="16">
+				<word number="1" paraRef="painful" headRef="868">revolting</word>
+			</sg>
+			<sg number="17">
+				<word number="1">Gorgonian</word>
+			</sg>
+			<sg number="18">
+				<word number="1" new="1">bad</word>
+			</sg>
+			<sg number="19">
+				<word number="1" new="1">miserable</word>
+			</sg>
+			<sg number="20">
+				<word number="1" new="1">precarious</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in terrorem">
+			<sg number="1">
+				<word number="1">in terrorem</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="angels and ministers of grace defend us">
+			<sg number="1">
+				<word number="1">"angels and ministers of grace defend us!"</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="ante tubam trepidat">
+			<sg number="1">
+				<word number="1">ante tubam trepidat</word>
+			</sg>
+			<sg number="2">
+				<word number="1">horresco referens</word>
+				<word number="2">one's heart failing one</word>
+				<word number="3">obstupui steteruntque comae et vox faucibus haesit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="a dagger of the mind">
+			<sg number="1">
+				<word number="1">"a dagger of the mind"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expertus metuit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"fain would I climb but that I fear to fall"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"fear is the parent of cruelty"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"Gorgons and hydras and chimeras dire"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">omnia tuta timens</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"our fears do make us traitors"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

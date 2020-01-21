@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="487" name="Indiscrimination" origNum="#465a." class="4" section="2" subSection="1" headGroup="7">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="indiscrimination">
+			<sg number="1">
+				<word number="1">indiscrimination</word>
+				<word number="2">indistinguishability</word>
+			</sg>
+			<sg number="2">
+				<word number="1">indistinctness</word>
+				<word number="2">indistinction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="doubt" headRef="498">uncertainty</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="incomparability" headRef="485">incomparability</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not discriminate">
+			<sg number="1">
+				<word number="1" paraRef="discriminate" headRef="486">not discriminate</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="neglect" headRef="480">overlook</word>
+				<word number="2">confuse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="indiscriminate">
+			<sg number="1">
+				<word number="1">indiscriminate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">undistinguished!</word>
+				<word number="2">indistinguishable</word>
+				<word number="3">undistinguishable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unmeasured</word>
+			</sg>
+			<sg number="4">
+				<word number="1">promiscuous</word>
+				<word number="2">undiscriminating</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="valeat quantum valere potest[Lat">
+			<sg number="1">
+				<word number="1">valeat quantum valere potest</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

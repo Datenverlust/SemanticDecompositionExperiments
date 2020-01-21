@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="793" name="Consent" origNum="#762." class="7" section="2" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="consent">
+			<sg number="1">
+				<word number="1">consent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="assent" headRef="512">assent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">acquiescence</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="approval" headRef="973">approval</word>
+			</sg>
+			<sg number="5">
+				<word number="1">compliance</word>
+				<word number="2">agreement</word>
+				<word number="3">concession</word>
+			</sg>
+			<sg number="6">
+				<word number="1">yieldance</word>
+				<word number="2">yieldingness</word>
+			</sg>
+			<sg number="7">
+				<word number="1">accession</word>
+				<word number="2">acknowledgment</word>
+				<word number="3">acceptance</word>
+				<word number="4">agnition|</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="settlement">
+			<sg number="1">
+				<word number="1">settlement</word>
+				<word number="2">ratification</word>
+				<word number="3">confirmation</word>
+				<word number="4">adjustment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="permit">
+			<sg number="1">
+				<word number="1" paraRef="permission" headRef="791">permit</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="promise" headRef="799">promise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="consent">
+			<sg number="1">
+				<word number="1">consent</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="assent" headRef="512">assent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">yield assent</word>
+				<word number="2">admit</word>
+				<word number="3">allow</word>
+				<word number="4">concede</word>
+				<word number="5">grant</word>
+				<word number="6">yield</word>
+			</sg>
+			<sg number="4">
+				<word number="1">come round</word>
+				<word number="2">come over</word>
+			</sg>
+			<sg number="5">
+				<word number="1">give into</word>
+				<word number="2">acknowledge</word>
+				<word number="3">agnize</word>
+				<word number="4">give consent</word>
+				<word number="5">comply with</word>
+				<word number="6">acquiesce</word>
+				<word number="7">agree to</word>
+				<word number="8">fall in with</word>
+				<word number="9">accede</word>
+				<word number="10">accept</word>
+				<word number="11">embrace an offer</word>
+				<word number="12">close with</word>
+				<word number="13">take at one's word</word>
+				<word number="14">have no objection</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="satisfy">
+			<sg number="1">
+				<word number="1">satisfy</word>
+				<word number="2">meet one's wishes</word>
+				<word number="3">settle</word>
+				<word number="4" paraRef="come to terms" headRef="512">come to terms</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="refuse" headRef="795">not refuse</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="willingness" headRef="628">turn a willing ear</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jump at</word>
+			</sg>
+			<sg number="5">
+				<word number="1">deign</word>
+				<word number="2">vouchsafe</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="promise" headRef="799">promise</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="consenting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">consenting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">squeezable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="assent" headRef="512">agreed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unconditional</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="OK">
+			<sg number="1">
+				<word number="1">OK</word>
+				<word number="2" paraRef="assent" headRef="512">yes</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="willingly" headRef="628">by all means</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no problem</word>
+			</sg>
+			<sg number="4">
+				<word number="1">if you please</word>
+				<word number="2">as you please</word>
+			</sg>
+			<sg number="5">
+				<word number="1">be it so</word>
+				<word number="2">so be it</word>
+				<word number="3">well and good</word>
+				<word number="4">of course</word>
+			</sg>
+			<sg number="6">
+				<word number="1">please do</word>
+			</sg>
+			<sg number="7">
+				<word number="1">don't hesitate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="chi tace accousente">
+			<sg number="1">
+				<word number="1">chi tace accousente</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

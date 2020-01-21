@@ -12,6 +12,8 @@ import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
 import de.dailab.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
 import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
+import org.junit.Before;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -36,6 +38,7 @@ public Word2VecTest(){
     this.init();
 }
 
+    @Before
     public void init() {
         //Load de.dailab.nsm.semanticDistanceMeasures.data sets
         //1
@@ -60,6 +63,7 @@ public Word2VecTest(){
         word2VecCosineSimilarityMeasure = new Word2VecCosineSimilarityMeasure();
     }
 
+    @Test
     public void VecTest() {
 
         double failure = 0;

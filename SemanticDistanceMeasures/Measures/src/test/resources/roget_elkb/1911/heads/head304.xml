@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="304" name="Departure" origNum="#293." class="2" section="4" subSection="4" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="departure">
+			<sg number="1">
+				<word number="1">departure</word>
+				<word number="2">decession</word>
+				<word number="3">decampment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">embarkation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outset</word>
+				<word number="2">start</word>
+			</sg>
+			<sg number="4">
+				<word number="1">removal</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="egress" headRef="306">exit</word>
+			</sg>
+			<sg number="6">
+				<word number="1">exodus</word>
+				<word number="2">hejira</word>
+				<word number="3">flight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="leave taking">
+			<sg number="1">
+				<word number="1">leave taking</word>
+				<word number="2">valediction</word>
+				<word number="3">adieu</word>
+				<word number="4">farewell</word>
+				<word number="5">goodbye</word>
+				<word number="6">auf wiedersehen</word>
+				<word number="7">sayonara</word>
+				<word number="8">dosvidanya</word>
+				<word number="9">ciao</word>
+				<word number="10">aloha</word>
+				<word number="11">hasta la vista</word>
+			</sg>
+			<sg number="2">
+				<word number="1">stirrup cup</word>
+			</sg>
+			<sg number="3">
+				<word number="1">valedictorian</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="starting point">
+			<sg number="1">
+				<word number="1">starting point</word>
+				<word number="2">starting post</word>
+			</sg>
+			<sg number="2">
+				<word number="1">point of departure</word>
+				<word number="2">point of embarkation</word>
+				<word number="3">place of departure</word>
+				<word number="4">place of embarkation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">port of embarkation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">airport</word>
+				<word number="2">take-off point</word>
+				<word number="3">taxiing runway</word>
+				<word number="4">runway</word>
+				<word number="5">launching pad</word>
+				<word number="6">spaceport</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="depart">
+			<sg number="1">
+				<word number="1">depart</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go away</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take one's departure</word>
+				<word number="2">set out</word>
+			</sg>
+			<sg number="4">
+				<word number="1">set off</word>
+				<word number="2">march off</word>
+				<word number="3">put off</word>
+				<word number="4">start off</word>
+				<word number="5">be off</word>
+				<word number="6">move off</word>
+				<word number="7">get off</word>
+				<word number="8">whip off</word>
+				<word number="9">pack off</word>
+				<word number="10">go off</word>
+				<word number="11">take oneself off</word>
+			</sg>
+			<sg number="5">
+				<word number="1">start</word>
+				<word number="2">issue</word>
+				<word number="3">march out</word>
+				<word number="4">debouch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">go forth</word>
+				<word number="2">sally forth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">sally</word>
+				<word number="2">set forward</word>
+			</sg>
+			<sg number="8">
+				<word number="1">be gone</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hail from</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="leave a place">
+			<sg number="1">
+				<word number="1">leave a place</word>
+				<word number="2">quit</word>
+				<word number="3">vacate</word>
+				<word number="4">evacuate</word>
+				<word number="5">abandon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">go off the stage</word>
+				<word number="2">make one's exit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retire</word>
+				<word number="2">withdraw</word>
+				<word number="3">remove</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vamoose*</word>
+				<word number="2">vamose*</word>
+			</sg>
+			<sg number="5">
+				<word number="1">go one's way</word>
+				<word number="2">go along</word>
+				<word number="3">go from home</word>
+			</sg>
+			<sg number="6">
+				<word number="1">take flight</word>
+				<word number="2">take wing</word>
+			</sg>
+			<sg number="7">
+				<word number="1">spring</word>
+				<word number="2">fly</word>
+				<word number="3">flit</word>
+				<word number="4">wing one's flight</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fly away</word>
+				<word number="2">whip away</word>
+			</sg>
+			<sg number="9">
+				<word number="1">embark</word>
+			</sg>
+			<sg number="10">
+				<word number="1">go on board</word>
+				<word number="2">go aboard</word>
+			</sg>
+			<sg number="11">
+				<word number="1">set sail' put to sea</word>
+				<word number="2">go to sea</word>
+			</sg>
+			<sg number="12">
+				<word number="1">sail</word>
+				<word number="2">take ship</word>
+			</sg>
+			<sg number="13">
+				<word number="1">hoist blue Peter</word>
+			</sg>
+			<sg number="14">
+				<word number="1">get under way</word>
+				<word number="2">weigh anchor</word>
+			</sg>
+			<sg number="15">
+				<word number="1">strike tents</word>
+				<word number="2">decamp</word>
+			</sg>
+			<sg number="16">
+				<word number="1">walk one's chalks</word>
+				<word number="2">cut one's stick</word>
+			</sg>
+			<sg number="17">
+				<word number="1">take leave</word>
+			</sg>
+			<sg number="18">
+				<word number="1">say good bye</word>
+				<word number="2" paraRef="" posRef="n.">bid goodbye</word>
+			</sg>
+			<sg number="19">
+				<word number="1" paraRef="disappear" headRef="468">disappear</word>
+			</sg>
+			<sg number="20">
+				<word number="1" paraRef="avoid" headRef="652">abscond</word>
+			</sg>
+			<sg number="21">
+				<word number="1">entrain</word>
+			</sg>
+			<sg number="22">
+				<word number="1">inspan</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="departing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">departing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">valedictory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">outward bound</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="whence">
+			<sg number="1">
+				<word number="1">whence</word>
+				<word number="2">hence</word>
+				<word number="3">thence</word>
+			</sg>
+			<sg number="2">
+				<word number="1">with a foot in the stirrup</word>
+			</sg>
+			<sg number="3">
+				<word number="1">on the wing</word>
+				<word number="2">on the move</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="begone">
+			<sg number="1">
+				<word number="1" paraRef="ejection" headRef="308">begone!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">farewell!</word>
+				<word number="2">adieu!</word>
+				<word number="3">goodbye!</word>
+				<word number="4">good day!</word>
+				<word number="5">au revoir!</word>
+				<word number="6">fare you well!</word>
+				<word number="7">God bless you!</word>
+				<word number="8">God speed!</word>
+				<word number="9">all aboard!</word>
+				<word number="10">auf wiedersehen!</word>
+				<word number="11">au plaisir de vous revoir!</word>
+				<word number="12">bon voyage!</word>
+				<word number="13">gluckliche Reise!</word>
+				<word number="14">vive valeque!</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

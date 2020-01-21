@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="295" name="Propulsion" origNum="#284." class="2" section="4" subSection="4" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="propulsion">
+			<sg number="1">
+				<word number="1">propulsion</word>
+				<word number="2">projection</word>
+			</sg>
+			<sg number="2">
+				<word number="1">propelment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vis a tergo</word>
+			</sg>
+			<sg number="4">
+				<word number="1">push</word>
+				<word number="2" paraRef="impulse" headRef="287">shove</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ejaculate</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="ejection" headRef="308">ejection</word>
+			</sg>
+			<sg number="7">
+				<word number="1">throw</word>
+				<word number="2">fling</word>
+				<word number="3">toss</word>
+				<word number="4">shot</word>
+				<word number="5">discharge</word>
+				<word number="6">shy</word>
+			</sg>
+			<sg number="8">
+				<word number="1">launch</word>
+				<word number="2">release</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="projectiles">
+			<sg number="1">
+				<word number="1">projectiles</word>
+				<word number="2">ballistics</word>
+				<word number="3">archery</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="propeller">
+			<sg number="1">
+				<word number="1">propeller</word>
+				<word number="2">screw</word>
+				<word number="3">twin screws</word>
+				<word number="4">turbine</word>
+				<word number="5">jet engine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="missile">
+			<sg number="1">
+				<word number="1">missile</word>
+				<word number="2">projectile</word>
+				<word number="3">ball</word>
+				<word number="4">discus</word>
+				<word number="5">quoit</word>
+				<word number="6">brickbat</word>
+				<word number="7">shot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arrow</word>
+				<word number="2">gun</word>
+				<word number="3" paraRef="arms" headRef="756">ballista</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="countdown">
+			<sg number="1">
+				<word number="1">countdown</word>
+				<word number="2">windup</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="shooter">
+			<sg number="1">
+				<word number="1">shooter</word>
+			</sg>
+			<sg number="2">
+				<word number="1">shot</word>
+			</sg>
+			<sg number="3">
+				<word number="1">archer</word>
+				<word number="2">toxophilite</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bowman</word>
+				<word number="2">rifleman</word>
+				<word number="3">marksman</word>
+			</sg>
+			<sg number="5">
+				<word number="1">good shot</word>
+				<word number="2">crack shot</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="combatant" headRef="755">sharpshooter</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="propel">
+			<sg number="1">
+				<word number="1">propel</word>
+				<word number="2">project</word>
+				<word number="3">throw</word>
+				<word number="4">fling</word>
+				<word number="5">cast</word>
+				<word number="6">pitch</word>
+				<word number="7">chuck</word>
+				<word number="8">toss</word>
+				<word number="9">jerk</word>
+				<word number="10">heave</word>
+				<word number="11">shy</word>
+				<word number="12">hurl</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flirt</word>
+				<word number="2">fillip</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dart">
+			<sg number="1">
+				<word number="1">dart</word>
+				<word number="2">lance</word>
+				<word number="3">tilt</word>
+			</sg>
+			<sg number="2">
+				<word number="1">ejaculate</word>
+				<word number="2">jaculate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fulminate</word>
+				<word number="2">bolt</word>
+				<word number="3">drive</word>
+				<word number="4">sling</word>
+				<word number="5">pitchfork</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="send">
+			<sg number="1">
+				<word number="1">send</word>
+			</sg>
+			<sg number="2">
+				<word number="1">send off</word>
+				<word number="2">let off</word>
+				<word number="3">fire off</word>
+			</sg>
+			<sg number="3">
+				<word number="1">discharge</word>
+				<word number="2">shoot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">launch</word>
+				<word number="2">release</word>
+				<word number="3">send forth</word>
+				<word number="4">let fly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">put in orbit</word>
+				<word number="2">send into orbit</word>
+				<word number="3">launch into orbit dash</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="put in motion">
+			<sg number="1">
+				<word number="1">put in motion</word>
+				<word number="2">set in motion</word>
+			</sg>
+			<sg number="2">
+				<word number="1">set agoing</word>
+				<word number="2">start</word>
+			</sg>
+			<sg number="3">
+				<word number="1">give a start</word>
+				<word number="2">give an impulse to</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="impel" headRef="287">impel</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="rotation" headRef="323">trundle</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="expel" headRef="308">expel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="carry one off one's legs">
+			<sg number="1">
+				<word number="1">carry one off one's legs</word>
+			</sg>
+			<sg number="2">
+				<word number="1">put to flight</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="propelled">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">propelled</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">propelling</word>
+			</sg>
+			<sg number="3">
+				<word number="1">propulsive</word>
+				<word number="2">projectile</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

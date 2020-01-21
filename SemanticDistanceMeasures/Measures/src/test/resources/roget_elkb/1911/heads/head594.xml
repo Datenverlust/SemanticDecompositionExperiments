@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="594" name="Solecism" origNum="#568." class="5" section="3" subSection="2" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="solecism">
+			<sg number="1">
+				<word number="1">solecism</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bad grammar</word>
+				<word number="2">false grammar</word>
+				<word number="3">faulty grammar</word>
+			</sg>
+			<sg number="3">
+				<word number="1">slip of the pen</word>
+				<word number="2">slip of the tongue</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lapsus linguae</word>
+			</sg>
+			<sg number="5">
+				<word number="1">slipslop</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bull</word>
+			</sg>
+			<sg number="7">
+				<word number="1">barbarism</word>
+				<word number="2">impropriety</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="use bad grammar">
+			<sg number="1">
+				<word number="1">use bad grammar</word>
+				<word number="2">faulty grammar</word>
+			</sg>
+			<sg number="2">
+				<word number="1">solecize</word>
+				<word number="2">commit a solecism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">murder the King's English</word>
+				<word number="2">murder the Queen's English</word>
+				<word number="3">break Priscian's head</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="ungrammatical">
+			<sg number="1">
+				<word number="1">ungrammatical</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incorrect</word>
+				<word number="2">inaccurate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">faulty</word>
+			</sg>
+			<sg number="4">
+				<word number="1">improper</word>
+				<word number="2">incongruous</word>
+			</sg>
+			<sg number="5">
+				<word number="1">solecistic</word>
+				<word number="2">solecistical</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

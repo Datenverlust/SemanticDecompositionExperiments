@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="430" name="Ululation" origNum="#412." class="3" section="3" subSection="2" headGroup="23">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="cry">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">cry</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">crying</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bowwow</word>
+				<word number="2">ululation</word>
+				<word number="3">latration</word>
+				<word number="4">belling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reboation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">wood-note</word>
+			</sg>
+			<sg number="6">
+				<word number="1">insect cry</word>
+				<word number="2">fritiniancy</word>
+				<word number="3">drone</word>
+			</sg>
+			<sg number="7">
+				<word number="1">screech owl</word>
+			</sg>
+			<sg number="8">
+				<word number="1">cuckoo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="wailing">
+			<sg number="1">
+				<word number="1" paraRef="lamentation" headRef="877">wailing</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="cry">
+			<sg number="1">
+				<word number="1">cry</word>
+				<word number="2">roar</word>
+				<word number="3">bellow</word>
+				<word number="4">blare</word>
+				<word number="5">rebellow</word>
+			</sg>
+			<sg number="2">
+				<word number="1">growl</word>
+				<word number="2">snarl</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="specific animal sounds">
+			<sg number="1">
+				<word number="1">specific animal sounds</word>
+				<word number="2">animal sounds</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bark</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bow-wow</word>
+				<word number="2">yelp</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bay</word>
+				<word number="2">bay at the moon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">yap</word>
+				<word number="2">yip</word>
+				<word number="3">yipe</word>
+				<word number="4">growl</word>
+				<word number="5">yarr</word>
+				<word number="6">yawl</word>
+				<word number="7">snarl</word>
+				<word number="8">howl</word>
+			</sg>
+			<sg number="6">
+				<word number="1">grunt</word>
+				<word number="2">gruntle</word>
+			</sg>
+			<sg number="7">
+				<word number="1">snort</word>
+			</sg>
+			<sg number="8">
+				<word number="1">squeak</word>
+			</sg>
+			<sg number="9">
+				<word number="1">neigh</word>
+				<word number="2">whinny</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bray</word>
+			</sg>
+			<sg number="11">
+				<word number="1">mew</word>
+				<word number="2">mewl</word>
+			</sg>
+			<sg number="12">
+				<word number="1">meow</word>
+			</sg>
+			<sg number="13">
+				<word number="1">purr</word>
+			</sg>
+			<sg number="14">
+				<word number="1">caterwaul</word>
+				<word number="2">pule</word>
+			</sg>
+			<sg number="15">
+				<word number="1">baa</word>
+				<word number="2">bleat</word>
+			</sg>
+			<sg number="16">
+				<word number="1">low</word>
+				<word number="2">moo</word>
+			</sg>
+			<sg number="17">
+				<word number="1">troat</word>
+				<word number="2">croak</word>
+				<word number="3">peep</word>
+			</sg>
+			<sg number="18">
+				<word number="1">coo</word>
+			</sg>
+			<sg number="19">
+				<word number="1">gobble</word>
+			</sg>
+			<sg number="20">
+				<word number="1">quack</word>
+			</sg>
+			<sg number="21">
+				<word number="1">honk</word>
+				<word number="2">gaggle</word>
+				<word number="3">guggle</word>
+			</sg>
+			<sg number="22">
+				<word number="1">crow</word>
+				<word number="2">caw</word>
+				<word number="3">squawk</word>
+				<word number="4">screech</word>
+			</sg>
+			<sg number="23">
+				<word number="1">cackle</word>
+				<word number="2">cluck</word>
+				<word number="3">clack</word>
+			</sg>
+			<sg number="24">
+				<word number="1">chuck</word>
+				<word number="2">chuckle</word>
+			</sg>
+			<sg number="25">
+				<word number="1">hoot</word>
+				<word number="2">hoo</word>
+			</sg>
+			<sg number="26">
+				<word number="1">chirp</word>
+				<word number="2">cheep</word>
+				<word number="3">chirrup</word>
+				<word number="4">twitter</word>
+				<word number="5">cuckoo</word>
+				<word number="6">warble</word>
+				<word number="7">trill</word>
+				<word number="8">tweet</word>
+				<word number="9">pipe</word>
+				<word number="10">whistle</word>
+			</sg>
+			<sg number="27">
+				<word number="1">hum</word>
+			</sg>
+			<sg number="28">
+				<word number="1">buzz</word>
+			</sg>
+			<sg number="29">
+				<word number="1">hiss</word>
+			</sg>
+			<sg number="30">
+				<word number="1">blatter</word>
+			</sg>
+			<sg number="31">
+				<word number="1">ratatat</word>
+			</sg>
+			<sg number="32">
+				<word number="1" new="1">bourgeon</word>
+			</sg>
+			<sg number="33">
+				<word number="1" new="1">chatter</word>
+			</sg>
+			<sg number="34">
+				<word number="1" new="1">gurgle</word>
+			</sg>
+			<sg number="35">
+				<word number="1" new="1">munch</word>
+			</sg>
+			<sg number="36">
+				<word number="1" new="1">sneer</word>
+			</sg>
+			<sg number="37">
+				<word number="1" new="1">vocalize</word>
+			</sg>
+			<sg number="38">
+				<word number="1" new="1">whimper</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="crying">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">crying</word>
+			</sg>
+			<sg number="2">
+				<word number="1">blatant</word>
+				<word number="2">latrant</word>
+				<word number="3">remugient</word>
+				<word number="4">mugient</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deep-mouthed</word>
+				<word number="2">full-mouthed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rebellowing</word>
+				<word number="2">reboant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in full cry">
+			<sg number="1">
+				<word number="1">in full cry</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="485" name="Incomparability " origNum="#464a." class="4" section="2" subSection="1" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="incomparability">
+			<sg number="1">
+				<word number="1">incomparability</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incommensurability</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="indistinguishability" headRef="487">indistinguishability</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="incommensurable">
+			<sg number="1">
+				<word number="1">incommensurable</word>
+				<word number="2">incommensurate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">incomparable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="different" headRef="15">different</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="like apples and oranges">
+			<sg number="1">
+				<word number="1">like apples and oranges</word>
+			</sg>
+			<sg number="2">
+				<word number="1">no basis for comparison</word>
+			</sg>
+			<sg number="3">
+				<word number="1">no standard for comparison</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

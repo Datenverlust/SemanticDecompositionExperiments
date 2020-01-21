@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="240" name="Outline" origNum="#230." class="2" section="2" subSection="3" headGroup="6">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="outline">
+			<sg number="1">
+				<word number="1">outline</word>
+				<word number="2">circumference</word>
+			</sg>
+			<sg number="2">
+				<word number="1">perimeter</word>
+				<word number="2">periphery</word>
+				<word number="3">ambit</word>
+				<word number="4">circuit</word>
+				<word number="5">lines tournure</word>
+				<word number="6">contour</word>
+				<word number="7">profile</word>
+				<word number="8">silhouette</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bounds</word>
+			</sg>
+			<sg number="4">
+				<word number="1">coast line</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="zone">
+			<sg number="1">
+				<word number="1">zone</word>
+				<word number="2">belt</word>
+				<word number="3">girth</word>
+				<word number="4">band</word>
+				<word number="5">baldric</word>
+				<word number="6">zodiac</word>
+				<word number="7">girdle</word>
+				<word number="8">tyre</word>
+				<word number="9">cingle</word>
+				<word number="10">clasp</word>
+				<word number="11">girt</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inclosure" headRef="242">cordon</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="circlet" headRef="257">circlet</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

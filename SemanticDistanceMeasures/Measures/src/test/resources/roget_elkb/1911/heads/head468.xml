@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="468" name="Disappearance" origNum="#449." class="3" section="3" subSection="2" headGroup="38">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disappearance">
+			<sg number="1">
+				<word number="1">disappearance</word>
+				<word number="2">evanescence</word>
+				<word number="3">eclipse</word>
+				<word number="4">occultation</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="departure">
+			<sg number="1">
+				<word number="1" paraRef="departure" headRef="304">departure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">vanishing point</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dissolving views</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disappear">
+			<sg number="1">
+				<word number="1">disappear</word>
+				<word number="2">vanish</word>
+				<word number="3">dissolve</word>
+				<word number="4">fade</word>
+				<word number="5">melt away</word>
+				<word number="6">pass</word>
+				<word number="7">go</word>
+				<word number="8">avaunt</word>
+				<word number="9">evaporate</word>
+				<word number="10">vaporize</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">be gone</word>
+			</sg>
+			<sg number="3">
+				<word number="1">leave no trace</word>
+				<word number="2">leave "not a rack behind"</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="depart" headRef="304">go off the stage</word>
+			</sg>
+			<sg number="5">
+				<word number="1">suffer an eclipse</word>
+				<word number="2">undergo an eclipse</word>
+			</sg>
+			<sg number="6">
+				<word number="1">retire from sight</word>
+			</sg>
+			<sg number="7">
+				<word number="1">be lost to view</word>
+				<word number="2">pass out of sight</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lose sight of">
+			<sg number="1">
+				<word number="1">lose sight of</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="efface">
+			<sg number="1">
+				<word number="1" paraRef="efface" headRef="578">efface</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disappearing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disappearing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evanescent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">missing</word>
+				<word number="2">lost</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lost to sight</word>
+				<word number="2">lost to view</word>
+			</sg>
+			<sg number="5">
+				<word number="1">gone</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="vanish">
+			<sg number="1">
+				<word number="1">vanish!</word>
+				<word number="2">disappear!</word>
+				<word number="3">avaunt!</word>
+				<word number="4">get lost!</word>
+				<word number="5" paraRef="ejection" headRef="308">get out of here</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="223" name="Pendency" origNum="#214." class="2" section="2" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pendency">
+			<sg number="1">
+				<word number="1">pendency</word>
+				<word number="2">dependency</word>
+			</sg>
+			<sg number="2">
+				<word number="1">suspension</word>
+				<word number="2" paraRef="" posRef="v.">hanging</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pedicel</word>
+				<word number="2">pedicle</word>
+				<word number="3">peduncle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">tail</word>
+				<word number="2">train</word>
+				<word number="3">flap</word>
+				<word number="4">skirt</word>
+				<word number="5">pigtail</word>
+				<word number="6">pony tail</word>
+				<word number="7">pendulum</word>
+			</sg>
+			<sg number="5">
+				<word number="1">hangnail      peg</word>
+				<word number="2">knob</word>
+				<word number="3">button</word>
+				<word number="4">hook</word>
+				<word number="5">nail</word>
+				<word number="6">stud</word>
+				<word number="7">ring</word>
+				<word number="8">staple</word>
+				<word number="9">tenterhook</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="fastening" headRef="48">fastening</word>
+			</sg>
+			<sg number="7">
+				<word number="1">spar</word>
+				<word number="2">horse</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be pendent">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be pendent</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hang</word>
+				<word number="2">depend</word>
+				<word number="3">swing</word>
+				<word number="4">dangle</word>
+			</sg>
+			<sg number="3">
+				<word number="1">swag</word>
+			</sg>
+			<sg number="4">
+				<word number="1">daggle</word>
+				<word number="2">flap</word>
+				<word number="3">trail</word>
+				<word number="4">flow</word>
+			</sg>
+			<sg number="5">
+				<word number="1">beetle</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="suspend">
+			<sg number="1">
+				<word number="1">suspend</word>
+				<word number="2">hang</word>
+				<word number="3">sling</word>
+				<word number="4">hook up</word>
+				<word number="5">hitch</word>
+				<word number="6">fasten to</word>
+				<word number="7">append</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pendent">
+			<sg number="1">
+				<word number="1">pendent</word>
+				<word number="2">pendulous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pensile</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">hanging</word>
+			</sg>
+			<sg number="4">
+				<word number="1">beetling</word>
+				<word number="2">jutting over</word>
+				<word number="3">overhanging</word>
+				<word number="4">projecting</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dependent</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">suspended</word>
+			</sg>
+			<sg number="7">
+				<word number="1">loose</word>
+				<word number="2">flowing</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="having a peduncle">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">having a peduncle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pedunculate</word>
+				<word number="2">tailed</word>
+				<word number="3">caudate</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

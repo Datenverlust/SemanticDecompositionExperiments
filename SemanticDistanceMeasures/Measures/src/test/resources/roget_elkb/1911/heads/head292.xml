@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="292" name="Sequence" origNum="#281." class="2" section="4" subSection="4" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="sequence">
+			<sg number="1">
+				<word number="1">sequence</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="coming after" headRef="67">coming after</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="after a time" headRef="123">time</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="pursuit" headRef="651">following pursuit</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="follower">
+			<sg number="1">
+				<word number="1">follower</word>
+				<word number="2">attendant</word>
+				<word number="3">satellite</word>
+				<word number="4">shadow</word>
+				<word number="5">dangler</word>
+				<word number="6">train</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="follow">
+			<sg number="1">
+				<word number="1">follow</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="pursue" headRef="651">pursue</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go after</word>
+				<word number="2">fly after</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="attend">
+			<sg number="1">
+				<word number="1">attend</word>
+				<word number="2">beset</word>
+				<word number="3">dance attendance on</word>
+				<word number="4">dog</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tread in the steps of</word>
+				<word number="2">tread close upon</word>
+			</sg>
+			<sg number="3">
+				<word number="1">be in the wake of</word>
+				<word number="2">be in the trail of</word>
+				<word number="3">be in the rear of</word>
+				<word number="4">go in the wake of</word>
+				<word number="5">go in the trail of</word>
+				<word number="6">go in the rear of</word>
+				<word number="7">follow in the wake of</word>
+				<word number="8">follow in the trail of</word>
+				<word number="9">follow in the rear of</word>
+			</sg>
+			<sg number="4">
+				<word number="1">follow as a shadow</word>
+				<word number="2">hang on the skirts of</word>
+			</sg>
+			<sg number="5">
+				<word number="1">tread on the heels of</word>
+				<word number="2">follow on the heels of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">camp on the trail</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="subsequent">
+			<sg number="1">
+				<word number="1">subsequent</word>
+				<word number="2">next</word>
+				<word number="3">succeeding</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">following</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="behind">
+			<sg number="1">
+				<word number="1">behind</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="in the rear" headRef="245">in the rear</word>
+				<word number="2">in the train of</word>
+				<word number="3">in the wake of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="order of succession" headRef="67">after</word>
+				<word number="2" paraRef="after a time" headRef="123">time</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

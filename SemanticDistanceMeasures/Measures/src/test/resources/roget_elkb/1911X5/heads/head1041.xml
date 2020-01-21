@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="1041" name="Laity" origNum="#997." class="8" section="5" subSection="5" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="laity">
+			<sg number="1">
+				<word number="1">laity</word>
+				<word number="2">flock</word>
+				<word number="3">fold</word>
+				<word number="4">congregation</word>
+				<word number="5">assembly</word>
+				<word number="6">brethren</word>
+				<word number="7">people</word>
+			</sg>
+			<sg number="2">
+				<word number="1">society</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="temporality">
+			<sg number="1">
+				<word number="1">temporality</word>
+				<word number="2">secularization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="layman">
+			<sg number="1">
+				<word number="1">layman</word>
+				<word number="2">civilian</word>
+			</sg>
+			<sg number="2">
+				<word number="1">parishioner</word>
+				<word number="2">catechumen</word>
+			</sg>
+			<sg number="3">
+				<word number="1">secularist</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="secularize">
+			<sg number="1">
+				<word number="1">secularize</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="secular">
+			<sg number="1">
+				<word number="1">secular</word>
+				<word number="2">lay</word>
+				<word number="3">laical</word>
+				<word number="4">civil</word>
+				<word number="5">temporal</word>
+				<word number="6">profane</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

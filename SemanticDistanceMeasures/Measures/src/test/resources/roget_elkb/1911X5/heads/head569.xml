@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="569" name="Veracity" origNum="#543." class="5" section="2" subSection="1" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="veracity">
+			<sg number="1">
+				<word number="1">veracity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">truthfulness</word>
+				<word number="2" paraRef="" posRef="adj.">frankness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">truth</word>
+				<word number="2">sincerity</word>
+				<word number="3">candor</word>
+				<word number="4">unreserve!</word>
+				<word number="5">honesty</word>
+				<word number="6">fidelity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">plain dealing</word>
+				<word number="2">bona fides</word>
+			</sg>
+			<sg number="5">
+				<word number="1">love of truth</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="probity" headRef="981">probity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="artlessness" headRef="732">ingenuousness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="the truth the whole truth and nothing but the truth">
+			<sg number="1">
+				<word number="1">the truth the whole truth and nothing but the truth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">honest truth</word>
+				<word number="2" paraRef="fact" headRef="518">sober truth</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unvarnished tale</word>
+			</sg>
+			<sg number="4">
+				<word number="1">light of truth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="speak the truth">
+			<sg number="1">
+				<word number="1">speak the truth</word>
+				<word number="2">tell the truth</word>
+			</sg>
+			<sg number="2">
+				<word number="1">speak by the card</word>
+			</sg>
+			<sg number="3">
+				<word number="1">paint in its true colors</word>
+				<word number="2">show oneself in one's true colors</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disclose" headRef="555">make a clean breast</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="blunt" headRef="732">speak one's mind</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="lie" headRef="570">not lie</word>
+				<word number="2" paraRef="deceive" headRef="571">not deceive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="truthful">
+			<sg number="1">
+				<word number="1">truthful</word>
+				<word number="2">true</word>
+			</sg>
+			<sg number="2">
+				<word number="1">veracious</word>
+				<word number="2">veridical</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="honorable" headRef="981">scrupulous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sincere</word>
+				<word number="2">candid</word>
+				<word number="3">frank</word>
+				<word number="4">open</word>
+				<word number="5">straightforward</word>
+				<word number="6">unreserved</word>
+			</sg>
+			<sg number="5">
+				<word number="1">open hearted</word>
+				<word number="2">true hearted</word>
+				<word number="3">simple-hearted</word>
+			</sg>
+			<sg number="6">
+				<word number="1">honest</word>
+				<word number="2">trustworthy</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="dissemble" headRef="570">undissembling</word>
+			</sg>
+			<sg number="8">
+				<word number="1">guileless</word>
+				<word number="2">pure</word>
+			</sg>
+			<sg number="9">
+				<word number="1">truth-loving</word>
+			</sg>
+			<sg number="10">
+				<word number="1">unperjured</word>
+			</sg>
+			<sg number="11">
+				<word number="1">true blue</word>
+				<word number="2">as good as one's word</word>
+			</sg>
+			<sg number="12">
+				<word number="1">unaffected</word>
+				<word number="2">unfeigned</word>
+				<word number="3">bona fide</word>
+			</sg>
+			<sg number="13">
+				<word number="1">outspoken</word>
+				<word number="2" paraRef="artless" headRef="732">ingenuous</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="real" headRef="518">undisguised</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="uncontrived">
+			<sg number="1">
+				<word number="1">uncontrived</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="truly">
+			<sg number="1">
+				<word number="1" paraRef="really" headRef="518">truly</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="in plain words" headRef="732">in plain words</word>
+			</sg>
+			<sg number="3">
+				<word number="1">in truth</word>
+				<word number="2">with truth</word>
+				<word number="3">of a truth</word>
+				<word number="4">in good truth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">as the dial to the sun</word>
+				<word number="2">as the needle to the pole</word>
+			</sg>
+			<sg number="5">
+				<word number="1">honor bright</word>
+			</sg>
+			<sg number="6">
+				<word number="1">troth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">in good sooth</word>
+				<word number="2">in good earnest</word>
+			</sg>
+			<sg number="8">
+				<word number="1">unfeignedly</word>
+				<word number="2">with no nonsense</word>
+				<word number="3">in sooth</word>
+				<word number="4">sooth to say</word>
+				<word number="5">bona fide</word>
+				<word number="6">in foro conscientiae</word>
+			</sg>
+			<sg number="9">
+				<word number="1">without equivocation</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cartes sur table</word>
+				<word number="2">from the bottom of one's heart</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="affirmation" headRef="561">by my troth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="di il vero a affronterai il diavolo">
+			<sg number="1">
+				<word number="1">di il vero a affronterai il diavolo</word>
+			</sg>
+			<sg number="2">
+				<word number="1">Dichtung und Wahrheit</word>
+			</sg>
+			<sg number="3">
+				<word number="1">esto quod esse videris</word>
+			</sg>
+			<sg number="4">
+				<word number="1">magna est veritas et praevalet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"that golden key that opes the palace of eternity"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">veritas odium parit</word>
+			</sg>
+			<sg number="7">
+				<word number="1">veritatis simplex oratio est</word>
+			</sg>
+			<sg number="8">
+				<word number="1">verite sans peur</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

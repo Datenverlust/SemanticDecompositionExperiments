@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="106" name="Zero" origNum="#101." class="1" section="5" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="zero">
+			<sg number="1">
+				<word number="1">zero</word>
+				<word number="2">nothing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">null</word>
+				<word number="2">nul</word>
+				<word number="3">naught</word>
+				<word number="4">nought</word>
+				<word number="5">void</word>
+			</sg>
+			<sg number="3">
+				<word number="1">cipher</word>
+				<word number="2">goose egg</word>
+			</sg>
+			<sg number="4">
+				<word number="1">none</word>
+				<word number="2">nobody</word>
+				<word number="3">no one</word>
+			</sg>
+			<sg number="5">
+				<word number="1">nichts</word>
+				<word number="2">nixie*</word>
+				<word number="3">nix*</word>
+			</sg>
+			<sg number="6">
+				<word number="1">zilch</word>
+				<word number="2">zip</word>
+				<word number="3">zippo</word>
+			</sg>
+			<sg number="7">
+				<word number="1">not a soul</word>
+			</sg>
+			<sg number="8">
+				<word number="1">ame qui vive</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="absence" headRef="196">absence</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="unsubstantiality" headRef="4">unsubstantiality</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="not one">
+			<sg number="1">
+				<word number="1">not one</word>
+				<word number="2">not a one</word>
+				<word number="3">not any</word>
+				<word number="4">nary a one</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not a</word>
+				<word number="2">never a</word>
+			</sg>
+			<sg number="3">
+				<word number="1">not a whit of</word>
+				<word number="2">not an iota of</word>
+				<word number="3">not a drop of</word>
+				<word number="4">not a speck of</word>
+				<word number="5">not a jot</word>
+			</sg>
+			<sg number="4">
+				<word number="1">not a trace of</word>
+				<word number="2">not a hint of</word>
+				<word number="3">not a smidgen of</word>
+				<word number="4">not a suspicion of</word>
+				<word number="5">not a shadow of</word>
+				<word number="6">neither hide nor hair of</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

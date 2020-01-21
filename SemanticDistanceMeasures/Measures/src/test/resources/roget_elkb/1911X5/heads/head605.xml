@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="605" name="Inelegance" origNum="#579." class="5" section="3" subSection="2" headGroup="12">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inelegance">
+			<sg number="1">
+				<word number="1">inelegance</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">stiffness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"unlettered Muse"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">barbarism</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="slang" headRef="589">slang</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="solecism" headRef="594">solecism</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="affectation" headRef="894">mannerism</word>
+			</sg>
+			<sg number="8">
+				<word number="1">euphuism</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="fustian" headRef="603">fustian</word>
+			</sg>
+			<sg number="10">
+				<word number="1">cacophony</word>
+			</sg>
+			<sg number="11">
+				<word number="1">words that break the teeth</word>
+				<word number="2">words that dislocate the jaw</word>
+			</sg>
+			<sg number="12">
+				<word number="1">marinism</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inelegant">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inelegant</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inelegant">
+			<sg number="1">
+				<word number="1">inelegant</word>
+				<word number="2">graceless</word>
+				<word number="3">ungraceful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">harsh</word>
+				<word number="2">abrupt</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dry</word>
+				<word number="2">stiff</word>
+				<word number="3">cramped</word>
+				<word number="4">formal</word>
+				<word number="5">guinde</word>
+			</sg>
+			<sg number="4">
+				<word number="1">forced</word>
+				<word number="2">labored</word>
+			</sg>
+			<sg number="5">
+				<word number="1">artificial</word>
+				<word number="2">mannered</word>
+				<word number="3">ponderous</word>
+			</sg>
+			<sg number="6">
+				<word number="1">awkward</word>
+				<word number="2">uncourtly</word>
+				<word number="3">unpolished</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="turgid" headRef="603">turgid</word>
+			</sg>
+			<sg number="8">
+				<word number="1">affected</word>
+				<word number="2">euphuistic</word>
+			</sg>
+			<sg number="9">
+				<word number="1">barbarous</word>
+				<word number="2">uncouth</word>
+				<word number="3">grotesque</word>
+				<word number="4">rude</word>
+				<word number="5">crude</word>
+				<word number="6">halting</word>
+			</sg>
+			<sg number="10">
+				<word number="1">offensive to ears polite</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

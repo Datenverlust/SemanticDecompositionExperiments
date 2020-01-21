@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="911" name="Prodigy" origNum="#872." class="8" section="2" subSection="4" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="prodigy">
+			<sg number="1">
+				<word number="1">prodigy</word>
+				<word number="2">phenomenon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wonder</word>
+				<word number="2">wonderment</word>
+			</sg>
+			<sg number="3">
+				<word number="1">marvel</word>
+				<word number="2">miracle</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="unconformity" headRef="87">monster</word>
+			</sg>
+			<sg number="5">
+				<word number="1">curiosity</word>
+				<word number="2">lion</word>
+				<word number="3">sight</word>
+				<word number="4">spectacle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jeu de theatre</word>
+				<word number="2">coup de theatre</word>
+			</sg>
+			<sg number="7">
+				<word number="1">gazingstock</word>
+			</sg>
+			<sg number="8">
+				<word number="1">sign</word>
+			</sg>
+			<sg number="9">
+				<word number="1">St. Elmo's fire</word>
+				<word number="2">St. Elmo's light</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="portent" headRef="536">portent</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bursting of a shell">
+			<sg number="1">
+				<word number="1">bursting of a shell</word>
+				<word number="2">bursting of a bomb</word>
+			</sg>
+			<sg number="2">
+				<word number="1">volcanic eruption</word>
+				<word number="2">peal of thunder</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thunder-clap</word>
+				<word number="2">thunder-bolt</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="what no words can paint">
+			<sg number="1">
+				<word number="1">what no words can paint</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wonders of the world</word>
+			</sg>
+			<sg number="3">
+				<word number="1">annus mirabilis</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dignus vindice nodus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="natura il fece e poi roppe la stampa [Ital">
+			<sg number="1">
+				<word number="1">natura il fece e poi roppe la stampa</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

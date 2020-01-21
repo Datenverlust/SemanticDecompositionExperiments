@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="555" name="Disclosure" origNum="#529." class="5" section="2" subSection="1" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="disclosure">
+			<sg number="1">
+				<word number="1">disclosure</word>
+			</sg>
+			<sg number="2">
+				<word number="1">retection</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">unveiling</word>
+			</sg>
+			<sg number="4">
+				<word number="1">deterration</word>
+				<word number="2">revealment</word>
+				<word number="3">revelation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">exposition</word>
+				<word number="2">exposure</word>
+			</sg>
+			<sg number="6">
+				<word number="1">expose</word>
+			</sg>
+			<sg number="7">
+				<word number="1">whole truth</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="news" headRef="558">telltale</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="acknowledgment">
+			<sg number="1">
+				<word number="1">acknowledgment</word>
+				<word number="2">avowal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">confession</word>
+				<word number="2">confessional</word>
+			</sg>
+			<sg number="3">
+				<word number="1">shrift</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="bursting of a bubble">
+			<sg number="1">
+				<word number="1">bursting of a bubble</word>
+			</sg>
+			<sg number="2">
+				<word number="1">denouement</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="tattletale">
+			<sg number="1">
+				<word number="1">tattletale</word>
+				<word number="2">snitch</word>
+				<word number="3">fink</word>
+				<word number="4">stool pigeon</word>
+				<word number="5">canary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="disclose">
+			<sg number="1">
+				<word number="1">disclose</word>
+				<word number="2">discover</word>
+				<word number="3">dismask</word>
+			</sg>
+			<sg number="2">
+				<word number="1">draw the veil</word>
+				<word number="2">draw aside the veil</word>
+				<word number="3">lift the veil</word>
+				<word number="4">raise the veil</word>
+				<word number="5">lift up the veil</word>
+				<word number="6">remove the veil</word>
+				<word number="7">tear aside the veil</word>
+				<word number="8">tear the curtain</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unmask</word>
+				<word number="2">unveil</word>
+				<word number="3">unfold</word>
+				<word number="4">uncover</word>
+				<word number="5">unseal</word>
+				<word number="6">unkennel</word>
+			</sg>
+			<sg number="4">
+				<word number="1">take off the seal</word>
+				<word number="2">break the seal</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lay open</word>
+				<word number="2">lay bare</word>
+			</sg>
+			<sg number="6">
+				<word number="1">expose</word>
+			</sg>
+			<sg number="7">
+				<word number="1">open</word>
+				<word number="2">open up</word>
+			</sg>
+			<sg number="8">
+				<word number="1">bare</word>
+				<word number="2">bring to light</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="divulge">
+			<sg number="1">
+				<word number="1">divulge</word>
+				<word number="2">reveal</word>
+				<word number="3">break</word>
+			</sg>
+			<sg number="2">
+				<word number="1">squeal</word>
+				<word number="2">tattle</word>
+				<word number="3">sing</word>
+				<word number="4">rat</word>
+				<word number="5">snitch</word>
+			</sg>
+			<sg number="3">
+				<word number="1">let into the secret</word>
+			</sg>
+			<sg number="4">
+				<word number="1">reveal the secrets of the prison house</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="inform" headRef="552">tell</word>
+			</sg>
+			<sg number="6">
+				<word number="1">breathe</word>
+				<word number="2">utter</word>
+				<word number="3">blab</word>
+				<word number="4">peach</word>
+			</sg>
+			<sg number="7">
+				<word number="1">let out</word>
+				<word number="2">let fall</word>
+				<word number="3">let drop</word>
+				<word number="4">let slip</word>
+				<word number="5">spill the beans</word>
+				<word number="6">let the cat out of the bag</word>
+			</sg>
+			<sg number="8">
+				<word number="1">betray</word>
+			</sg>
+			<sg number="9">
+				<word number="1">tell tales</word>
+				<word number="2">come out of school</word>
+			</sg>
+			<sg number="10">
+				<word number="1">come out with</word>
+			</sg>
+			<sg number="11">
+				<word number="1">give vent</word>
+				<word number="2">give utterance to</word>
+			</sg>
+			<sg number="12">
+				<word number="1">open the lips</word>
+				<word number="2">blurt out</word>
+				<word number="3">vent</word>
+				<word number="4">whisper about</word>
+			</sg>
+			<sg number="13">
+				<word number="1" paraRef="make manifest" headRef="550">speak out</word>
+			</sg>
+			<sg number="14">
+				<word number="1" paraRef="make public" headRef="557">make public</word>
+			</sg>
+			<sg number="15">
+				<word number="1" paraRef="find out" headRef="504">unriddle</word>
+			</sg>
+			<sg number="16">
+				<word number="1">split</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="acknowledge">
+			<sg number="1">
+				<word number="1">acknowledge</word>
+				<word number="2">allow</word>
+				<word number="3">concede</word>
+				<word number="4">grant</word>
+				<word number="5">admit</word>
+				<word number="6">own</word>
+				<word number="7">own up to</word>
+				<word number="8">confess</word>
+				<word number="9">avow</word>
+				<word number="10">throw off all disguise</word>
+				<word number="11">turn inside out</word>
+				<word number="12">make a clean breast</word>
+			</sg>
+			<sg number="2">
+				<word number="1">show one's hand</word>
+				<word number="2">show one's cards</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unburden one's mind</word>
+				<word number="2">disburden one's mind</word>
+				<word number="3">disburden one's conscience</word>
+				<word number="4">disburden one's heart</word>
+			</sg>
+			<sg number="4">
+				<word number="1">open one's mind</word>
+				<word number="2">lay bare one's mind</word>
+				<word number="3">tell a piece of one's mind</word>
+			</sg>
+			<sg number="5">
+				<word number="1">unbosom oneself</word>
+				<word number="2">own to the soft impeachment</word>
+			</sg>
+			<sg number="6">
+				<word number="1">say the truth</word>
+				<word number="2">speak the truth</word>
+			</sg>
+			<sg number="7">
+				<word number="1">turn King's (or Queen's) evidence</word>
+			</sg>
+			<sg number="8">
+				<word number="1">acknowledge the corn*</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="raise the mask">
+			<sg number="1">
+				<word number="1">raise the mask</word>
+				<word number="2">drop the mask</word>
+				<word number="3">lift the mask</word>
+				<word number="4">remove the mask</word>
+				<word number="5">throw off the mask</word>
+			</sg>
+			<sg number="2">
+				<word number="1">expose</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lay open</word>
+			</sg>
+			<sg number="4">
+				<word number="1">undeceive</word>
+				<word number="2">unbeguile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">disabuse</word>
+				<word number="2">set right</word>
+				<word number="3">correct</word>
+				<word number="4">open the eyes of</word>
+			</sg>
+			<sg number="6">
+				<word number="1">désillusionner</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="be disclosed">
+			<sg number="1">
+				<word number="1">be disclosed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">transpire</word>
+				<word number="2">come to light</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="be visible" headRef="467">come in sight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">become known</word>
+				<word number="2">escape the lips</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come out</word>
+				<word number="2">ooze out</word>
+				<word number="3">creep out</word>
+				<word number="4">leak out</word>
+				<word number="5">peep out</word>
+				<word number="6">crop-out</word>
+			</sg>
+			<sg number="6">
+				<word number="1">show its face</word>
+				<word number="2">show its colors</word>
+			</sg>
+			<sg number="7">
+				<word number="1">discover itself</word>
+			</sg>
+			<sg number="8">
+				<word number="1">break through the clouds</word>
+				<word number="2">flash on the mind</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="disclosed">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">disclosed</word>
+			</sg>
+			<sg number="2">
+				<word number="1">open</word>
+				<word number="2" paraRef="public" headRef="557">public</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="out with it">
+			<sg number="1">
+				<word number="1">out with it!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the murder is out">
+			<sg number="1">
+				<word number="1">the murder is out</word>
+			</sg>
+			<sg number="2">
+				<word number="1">a light breaks in upon one</word>
+			</sg>
+			<sg number="3">
+				<word number="1">the scales fall from one's eyes</word>
+			</sg>
+			<sg number="4">
+				<word number="1">the eyes are opened</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

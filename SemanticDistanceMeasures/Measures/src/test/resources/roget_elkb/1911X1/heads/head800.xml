@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="800" name="Release from engagement" origNum="#768a." class="7" section="3" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="release">
+			<sg number="1">
+				<word number="1" paraRef="liberation" headRef="781">release</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="absolute">
+			<sg number="1">
+				<word number="1">absolute</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="free" headRef="779">unconditional</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

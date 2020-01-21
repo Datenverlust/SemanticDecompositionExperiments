@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="472" name="Incogitancy" origNum="#452." class="4" section="1" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="incogitancy">
+			<sg number="1">
+				<word number="1">incogitancy</word>
+				<word number="2">vacancy</word>
+				<word number="3">inunderstanding</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fatuity" headRef="523">fatuity</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inattention" headRef="478">thoughtlessness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">vacuity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="couch potato">
+			<sg number="1">
+				<word number="1">couch potato</word>
+				<word number="2">vegetable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="not think">
+			<sg number="1">
+				<word number="1" paraRef="think" headRef="471">not think</word>
+			</sg>
+			<sg number="2">
+				<word number="1">not think of</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dismiss from the mind</word>
+				<word number="2" paraRef="thought" headRef="471">dismiss from the thoughts</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="indulge in reverie">
+			<sg number="1">
+				<word number="1" paraRef="be inattentive" headRef="478">indulge in reverie</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="put away thought">
+			<sg number="1">
+				<word number="1">put away thought</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbend the mind</word>
+				<word number="2">relax the mind</word>
+				<word number="3">divert the mind</word>
+				<word number="4">veg out</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="vacant">
+			<sg number="1">
+				<word number="1">vacant</word>
+				<word number="2">unintellectual</word>
+				<word number="3">unideal</word>
+				<word number="4">unoccupied</word>
+				<word number="5">unthinking</word>
+				<word number="6">inconsiderate</word>
+				<word number="7">thoughtless</word>
+				<word number="8">mindless</word>
+				<word number="9">no-brain</word>
+				<word number="10">vacuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inattentive" headRef="478">absent</word>
+			</sg>
+			<sg number="3">
+				<word number="1">diverted</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="irrational" headRef="523">irrational</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="narrow-minded" headRef="505">narrow-minded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unthought of">
+			<sg number="1">
+				<word number="1">unthought of</word>
+				<word number="2">undreamt 'of</word>
+				<word number="3">unconsidered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">off one's mind</word>
+			</sg>
+			<sg number="3">
+				<word number="1">incogitable</word>
+				<word number="2">not to be thought of</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="absence d'esprit">
+			<sg number="1">
+				<word number="1">absence d'esprit</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pabulum pictura pascit inani</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

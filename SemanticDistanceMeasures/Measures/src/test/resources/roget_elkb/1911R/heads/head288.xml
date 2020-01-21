@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="288" name="Recoil" origNum="#277." class="2" section="4" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="recoil">
+			<sg number="1">
+				<word number="1">recoil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reaction</word>
+				<word number="2">retroaction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">revulsion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">bounce</word>
+				<word number="2">rebound</word>
+				<word number="3">ricochet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">repercussion</word>
+				<word number="2">recalcitration</word>
+			</sg>
+			<sg number="6">
+				<word number="1">kick</word>
+				<word number="2">contrecoup</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="v.">springing back</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="elasticity" headRef="336">elasticity</word>
+			</sg>
+			<sg number="9">
+				<word number="1">reflection</word>
+				<word number="2">reflexion</word>
+				<word number="3">reflex</word>
+				<word number="4">reflux</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="resonance" headRef="425">reverberation</word>
+			</sg>
+			<sg number="11">
+				<word number="1">rebuff</word>
+				<word number="2">repulse</word>
+			</sg>
+			<sg number="12">
+				<word number="1">return</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="ducks and drakes">
+			<sg number="1">
+				<word number="1">ducks and drakes</word>
+			</sg>
+			<sg number="2">
+				<word number="1">boomerang</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spring</word>
+				<word number="2">reactionist</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="elastic collision">
+			<sg number="1">
+				<word number="1">elastic collision</word>
+				<word number="2">coefficient of restitution</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="recoil">
+			<sg number="1">
+				<word number="1">recoil</word>
+				<word number="2">react</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spring back</word>
+				<word number="2">fly back</word>
+				<word number="3">bounce back</word>
+				<word number="4">bound back</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rebound</word>
+				<word number="2">reverberate</word>
+				<word number="3">repercuss</word>
+				<word number="4">recalcitrate</word>
+			</sg>
+			<sg number="4">
+				<word number="1">echo</word>
+				<word number="2">ricochet</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="recoiling">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">recoiling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">refluent</word>
+				<word number="2">repercussive</word>
+				<word number="3">recalcitrant</word>
+				<word number="4">reactionary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">retroactive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on the rebound">
+			<sg number="1">
+				<word number="1">on the rebound</word>
+				<word number="2" paraRef="" posRef="n.">on the recoil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="for every action there is a reaction equal in force and opposite in direction">
+			<sg number="1">
+				<word number="1">for every action there is a reaction equal in force and opposite in direction</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

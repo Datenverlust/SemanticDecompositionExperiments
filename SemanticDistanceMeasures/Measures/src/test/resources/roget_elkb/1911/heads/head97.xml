@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="97" name="Triplication" origNum="#93." class="1" section="5" subSection="2" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="triplication">
+			<sg number="1">
+				<word number="1">triplication</word>
+				<word number="2">triplicity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">trebleness</word>
+				<word number="2">trine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="treble">
+			<sg number="1">
+				<word number="1">treble</word>
+				<word number="2">triple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">triplicate</word>
+				<word number="2">cube</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="treble">
+			<sg number="1">
+				<word number="1">treble</word>
+				<word number="2">triple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tern</word>
+				<word number="2">ternary</word>
+			</sg>
+			<sg number="3">
+				<word number="1">triplicate</word>
+				<word number="2">threefold</word>
+				<word number="3">trilogistic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">third</word>
+			</sg>
+			<sg number="5">
+				<word number="1">trinal</word>
+				<word number="2">trine</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="three times">
+			<sg number="1">
+				<word number="1">three times</word>
+				<word number="2">three  fold</word>
+			</sg>
+			<sg number="2">
+				<word number="1">thrice</word>
+				<word number="2">in the third place</word>
+				<word number="3">thirdly</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">trebly</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

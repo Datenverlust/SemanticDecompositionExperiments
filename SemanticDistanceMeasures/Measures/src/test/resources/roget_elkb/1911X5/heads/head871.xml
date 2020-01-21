@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="871" name="Regret" origNum="#833." class="8" section="2" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="regret">
+			<sg number="1">
+				<word number="1">regret</word>
+				<word number="2">repining</word>
+			</sg>
+			<sg number="2">
+				<word number="1">homesickness</word>
+				<word number="2">nostalgia</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mal du pays</word>
+				<word number="2">maladie</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="lamentation" headRef="877">lamentation</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="penitence" headRef="992">penitence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bitterness">
+			<sg number="1">
+				<word number="1">bitterness</word>
+				<word number="2">heartburning</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="recrimination">
+			<sg number="1">
+				<word number="1" paraRef="accusation" headRef="980">recrimination</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="laudator temporis acti">
+			<sg number="1">
+				<word number="1" paraRef="discontent" headRef="870">laudator temporis acti</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="regret">
+			<sg number="1">
+				<word number="1">regret</word>
+				<word number="2">deplore</word>
+				<word number="3" new="1">lament</word>
+				<word number="4" new="2">bemoan</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="lament" headRef="877">bewail</word>
+			</sg>
+			<sg number="3">
+				<word number="1">repine</word>
+				<word number="2">cast a longing lingering look behind</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rue</word>
+				<word number="2">rue the day</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="repent" headRef="992">repent</word>
+			</sg>
+			<sg number="6">
+				<word number="1">infandum renovare dolorem</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="prey on the mind">
+			<sg number="1">
+				<word number="1">prey on the mind</word>
+				<word number="2">weigh on the mind</word>
+				<word number="3">have a weight on the mind</word>
+			</sg>
+			<sg number="2">
+				<word number="1">leave an aching void</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="regretting">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">regretting</word>
+			</sg>
+			<sg number="2">
+				<word number="1">regretful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">homesick</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="regretted">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">regretted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">much to be regretted</word>
+				<word number="2">regrettable</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="bad" headRef="678">lamentable</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="regrettably">
+			<sg number="1">
+				<word number="1">regrettably</word>
+				<word number="2">unfortunately</word>
+			</sg>
+			<sg number="2">
+				<word number="1">most unfortunately</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="alas">
+			<sg number="1">
+				<word number="1">alas!</word>
+			</sg>
+			<sg number="2">
+				<word number="1">what a pity!</word>
+				<word number="2">hang it!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="'tis pity">
+			<sg number="1">
+				<word number="1">'tis pity</word>
+				<word number="2">'tis too true</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"sigh'd and look'd and sigh'd again"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"I'm sorry"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

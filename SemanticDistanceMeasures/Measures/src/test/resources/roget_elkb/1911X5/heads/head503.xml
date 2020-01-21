@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="503" name="Judgment" origNum="#480." class="4" section="5" subSection="1" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="result">
+			<sg number="1">
+				<word number="1">result</word>
+				<word number="2">conclusion</word>
+				<word number="3">upshot</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deduction</word>
+				<word number="2">inference</word>
+				<word number="3">ergotism</word>
+			</sg>
+			<sg number="3">
+				<word number="1">illation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">corollary</word>
+				<word number="2">porism</word>
+			</sg>
+			<sg number="5">
+				<word number="1">moral</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="estimation">
+			<sg number="1">
+				<word number="1">estimation</word>
+				<word number="2">valuation</word>
+				<word number="3">appreciation</word>
+				<word number="4">judication</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dijudication</word>
+				<word number="2">adjudication</word>
+			</sg>
+			<sg number="3">
+				<word number="1">arbitrament</word>
+				<word number="2">arbitrement</word>
+				<word number="3">arbitration</word>
+			</sg>
+			<sg number="4">
+				<word number="1">assessment</word>
+				<word number="2">ponderation</word>
+			</sg>
+			<sg number="5">
+				<word number="1">valorization</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="award">
+			<sg number="1">
+				<word number="1">award</word>
+				<word number="2">estimate</word>
+			</sg>
+			<sg number="2">
+				<word number="1">review</word>
+				<word number="2">criticism</word>
+				<word number="3">critique</word>
+				<word number="4">notice</word>
+				<word number="5">report</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="decision">
+			<sg number="1">
+				<word number="1">decision</word>
+				<word number="2">determination</word>
+				<word number="3">judgment</word>
+				<word number="4">finding</word>
+				<word number="5">verdict</word>
+				<word number="6">sentence</word>
+				<word number="7">decree</word>
+				<word number="8" new="1">conviction</word>
+				<word number="9" new="1">ruling</word>
+			</sg>
+			<sg number="2">
+				<word number="1">findings of fact</word>
+			</sg>
+			<sg number="3">
+				<word number="1">findings of law</word>
+			</sg>
+			<sg number="4">
+				<word number="1">res judicata</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="plebiscite">
+			<sg number="1">
+				<word number="1">plebiscite</word>
+				<word number="2">voice</word>
+				<word number="3">casting vote</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="choice" headRef="636">vote</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="belief" headRef="508">opinion</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="wisdom" headRef="522">good judgment</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="judge">
+			<sg number="1">
+				<word number="1">judge</word>
+				<word number="2">umpire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">arbiter</word>
+				<word number="2">arbitrator</word>
+			</sg>
+			<sg number="3">
+				<word number="1">asessor</word>
+				<word number="2">referee</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="censor">
+			<sg number="1">
+				<word number="1">censor</word>
+				<word number="2">reviewer</word>
+				<word number="3">critic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">connoisseur</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="commentator" headRef="549">commentator</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inspector</word>
+				<word number="2">inspecting officer</word>
+			</sg>
+			<sg number="5">
+				<word number="1" new="1">editorial</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="twenty-twenty hindsight">
+			<sg number="1">
+				<word number="1">twenty-twenty hindsight</word>
+			</sg>
+			<sg number="2">
+				<word number="1">armchair general</word>
+				<word number="2">monday morning quarterback</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="judge">
+			<sg number="1">
+				<word number="1">judge</word>
+				<word number="2">conclude</word>
+			</sg>
+			<sg number="2">
+				<word number="1">come to a conclusion</word>
+				<word number="2">draw a conclusion</word>
+				<word number="3">arrive at a conclusion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">ascertain</word>
+				<word number="2">determine</word>
+				<word number="3">make up one's mind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="deduce">
+			<sg number="1">
+				<word number="1">deduce</word>
+				<word number="2">derive</word>
+				<word number="3">gather</word>
+				<word number="4">collect</word>
+				<word number="5">draw an inference</word>
+				<word number="6">make a deduction</word>
+				<word number="7">weet</word>
+				<word number="8">ween</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="form an estimate">
+			<sg number="1">
+				<word number="1">form an estimate</word>
+				<word number="2">estimate</word>
+				<word number="3">appreciate</word>
+				<word number="4">value</word>
+				<word number="5">count</word>
+				<word number="6">assess</word>
+				<word number="7">rate</word>
+				<word number="8">rank</word>
+				<word number="9">account</word>
+			</sg>
+			<sg number="2">
+				<word number="1">regard</word>
+				<word number="2">consider</word>
+				<word number="3">think of</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="believe" headRef="508">look upon</word>
+			</sg>
+			<sg number="4">
+				<word number="1">review</word>
+			</sg>
+			<sg number="5">
+				<word number="1">size up *</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="settle">
+			<sg number="1">
+				<word number="1">settle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pass an opinion</word>
+				<word number="2">give an opinion</word>
+			</sg>
+			<sg number="3">
+				<word number="1">decide</word>
+				<word number="2">try</word>
+				<word number="3">pronounce</word>
+				<word number="4">rule</word>
+			</sg>
+			<sg number="4">
+				<word number="1">pass judgment</word>
+				<word number="2">pass sentence</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sentence</word>
+				<word number="2">doom</word>
+			</sg>
+			<sg number="6">
+				<word number="1">find</word>
+			</sg>
+			<sg number="7">
+				<word number="1">give judgment</word>
+				<word number="2">deliver judgment</word>
+			</sg>
+			<sg number="8">
+				<word number="1">adjudge</word>
+				<word number="2">adjudicate</word>
+			</sg>
+			<sg number="9">
+				<word number="1">arbitrate</word>
+				<word number="2">award</word>
+				<word number="3">report</word>
+			</sg>
+			<sg number="10">
+				<word number="1">bring in a verdict</word>
+			</sg>
+			<sg number="11">
+				<word number="1">make absolute</word>
+				<word number="2">set a question at rest</word>
+			</sg>
+			<sg number="12">
+				<word number="1" paraRef="assent" headRef="512">confirm</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="comment">
+			<sg number="1">
+				<word number="1">comment</word>
+				<word number="2">criticize</word>
+				<word number="3">kibitz</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="examine" headRef="477">pass under review</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inquire" headRef="481">investigate</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="hold the scales">
+			<sg number="1">
+				<word number="1">hold the scales</word>
+				<word number="2">sit in judgment</word>
+			</sg>
+			<sg number="2">
+				<word number="1">try judgment</word>
+				<word number="2">hear a cause</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="judging">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">judging</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="wise" headRef="522">judicious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">determinate</word>
+				<word number="2">conclusive</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="on the whole">
+			<sg number="1">
+				<word number="1">on the whole</word>
+				<word number="2">all things considered</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="a Daniel come to judgment">
+			<sg number="1">
+				<word number="1">"a Daniel come to judgment"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"and stand a critic</word>
+				<word number="2">hated yet caress'd"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"it is much easier to be critical than to be correct"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">la critique est aisee et l'art est difficile</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"nothing if not critical"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"O most lame and impotent conclusion"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

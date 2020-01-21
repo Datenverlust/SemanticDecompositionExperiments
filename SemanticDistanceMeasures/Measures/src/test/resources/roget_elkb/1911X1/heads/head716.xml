@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="716" name="Repose" origNum="#687." class="6" section="3" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="repose">
+			<sg number="1">
+				<word number="1">repose</word>
+				<word number="2">rest</word>
+				<word number="3">silken repose</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="sleep" headRef="712">sleep</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="relaxation">
+			<sg number="1">
+				<word number="1">relaxation</word>
+				<word number="2">breathing time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">halt</word>
+				<word number="2">stay</word>
+				<word number="3" paraRef="cessation" headRef="149">pause</word>
+			</sg>
+			<sg number="3">
+				<word number="1">respite</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="day of rest">
+			<sg number="1">
+				<word number="1">day of rest</word>
+				<word number="2">dies non</word>
+				<word number="3">Sabbath</word>
+				<word number="4">Lord's day</word>
+				<word number="5">holiday</word>
+				<word number="6">red-letter day</word>
+				<word number="7">vacation</word>
+				<word number="8">recess</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="repose">
+			<sg number="1">
+				<word number="1">repose</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rest</word>
+				<word number="2">rest and be thankful</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take a rest</word>
+				<word number="2">take one's ease</word>
+				<word number="3">take it easy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="relax">
+			<sg number="1">
+				<word number="1">relax</word>
+				<word number="2">unbend</word>
+				<word number="3">slacken</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="refresh" headRef="718">take breath</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rest upon one's oars</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="cease" headRef="149">pause</word>
+			</sg>
+			<sg number="5">
+				<word number="1">stay one's hand</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="lie down">
+			<sg number="1">
+				<word number="1">lie down</word>
+			</sg>
+			<sg number="2">
+				<word number="1">recline</word>
+				<word number="2">recline on a bed of down</word>
+				<word number="3">recline on an easy chair</word>
+			</sg>
+			<sg number="3">
+				<word number="1">go to rest</word>
+				<word number="2">go to bed</word>
+				<word number="3" paraRef="go to sleep" headRef="712">go to sleep</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="take a holiday">
+			<sg number="1">
+				<word number="1">take a holiday</word>
+				<word number="2">shut up shop</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inaction" headRef="710">lie fallow</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="reposing">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">reposing</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">relaxed</word>
+			</sg>
+			<sg number="3">
+				<word number="1">unstrained</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="unstressed">
+			<sg number="1">
+				<word number="1">unstressed</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="at rest">
+			<sg number="1">
+				<word number="1">at rest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the best of men have ever loved repose">
+			<sg number="1">
+				<word number="1">"the best of men have ever loved repose"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"to repair our nature with comforting repose"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

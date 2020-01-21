@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="588" name="Word" origNum="#562." class="5" section="3" subSection="2" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="word">
+			<sg number="1">
+				<word number="1">word</word>
+				<word number="2">term</word>
+				<word number="3">vocable</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="name" headRef="590">name</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="phrase" headRef="592">phrase</word>
+			</sg>
+			<sg number="4">
+				<word number="1">root</word>
+				<word number="2">etymon</word>
+			</sg>
+			<sg number="5">
+				<word number="1">derivative</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="grammar" headRef="593">part of speech</word>
+			</sg>
+			<sg number="7">
+				<word number="1">ideophone</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dictionary">
+			<sg number="1">
+				<word number="1">dictionary</word>
+				<word number="2">vocabulary</word>
+				<word number="3">lexicon</word>
+				<word number="4">glossary</word>
+				<word number="5" new="1">shophouses</word>
+			</sg>
+			<sg number="2">
+				<word number="1">index</word>
+				<word number="2">concordance</word>
+			</sg>
+			<sg number="3">
+				<word number="1">thesaurus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gradus</word>
+				<word number="2">delectus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="etymology">
+			<sg number="1">
+				<word number="1">etymology</word>
+				<word number="2">derivation</word>
+			</sg>
+			<sg number="2">
+				<word number="1">glossology</word>
+				<word number="2">terminology orismology</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="philology" headRef="586">paleology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="lexicography">
+			<sg number="1">
+				<word number="1">lexicography</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="scholar" headRef="516">glossographer</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lexicologist</word>
+				<word number="2">verbarian</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="verbal">
+			<sg number="1">
+				<word number="1">verbal</word>
+				<word number="2">literal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">titular</word>
+				<word number="2">nominal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="conjugate">
+			<sg number="1">
+				<word number="1">conjugate</word>
+				<word number="2">paronymous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">derivative</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="verbally">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">verbally</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="exactly" headRef="518">verbatim</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the artillery of words">
+			<sg number="1">
+				<word number="1">"the artillery of words"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="401" name="Fuel" origNum="#388." class="3" section="3" subSection="2" headGroup="8">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="fuel">
+			<sg number="1">
+				<word number="1">fuel</word>
+				<word number="2">firing</word>
+				<word number="3">combustible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="coal">
+			<sg number="1">
+				<word number="1">coal</word>
+				<word number="2">wallsend</word>
+				<word number="3">anthracite</word>
+				<word number="4">culm</word>
+				<word number="5">coke</word>
+				<word number="6">carbon</word>
+				<word number="7">charcoal</word>
+				<word number="8">bituminous coal</word>
+				<word number="9">tar shale</word>
+			</sg>
+			<sg number="2">
+				<word number="1">turf</word>
+				<word number="2">peat</word>
+				<word number="3">firewood</word>
+				<word number="4">bobbing</word>
+				<word number="5">faggot</word>
+				<word number="6">log</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="products of combustion" headRef="397">cinder</word>
+			</sg>
+			<sg number="4">
+				<word number="1">ingle</word>
+				<word number="2">tinder</word>
+				<word number="3">touchwood</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sulphur</word>
+				<word number="2">brimstone</word>
+			</sg>
+			<sg number="6">
+				<word number="1">incense</word>
+			</sg>
+			<sg number="7">
+				<word number="1">port-fire</word>
+			</sg>
+			<sg number="8">
+				<word number="1">fire-barrel</word>
+				<word number="2">fireball</word>
+				<word number="3">brand</word>
+			</sg>
+			<sg number="9">
+				<word number="1">amadou</word>
+				<word number="2">bavin</word>
+			</sg>
+			<sg number="10">
+				<word number="1">blind coal</word>
+				<word number="2">glance coal</word>
+			</sg>
+			<sg number="11">
+				<word number="1">German tinder</word>
+				<word number="2">pyrotechnic sponge</word>
+				<word number="3">punk</word>
+				<word number="4">smudge</word>
+			</sg>
+			<sg number="12">
+				<word number="1">solid fueled rocket</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="wax">
+			<sg number="1">
+				<word number="1">wax</word>
+				<word number="2">paraffin wax</word>
+				<word number="3">paraffin oil</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lamp oil</word>
+				<word number="2">whale oil</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="oil">
+			<sg number="1">
+				<word number="1">oil</word>
+				<word number="2">petroleum</word>
+				<word number="3">gasoline</word>
+				<word number="4">high octane gasoline</word>
+				<word number="5">nitromethane</word>
+				<word number="6">petrol</word>
+				<word number="7">gas</word>
+				<word number="8">juice</word>
+				<word number="9">gasohol</word>
+				<word number="10">alcohol</word>
+				<word number="11">ethanol</word>
+				<word number="12">methanol</word>
+				<word number="13">fuel oil</word>
+				<word number="14">kerosene</word>
+				<word number="15">jet fuel</word>
+				<word number="16">heating oil</word>
+				<word number="17">number 2 oil</word>
+				<word number="18">number 4 oil</word>
+				<word number="19">naphtha</word>
+			</sg>
+			<sg number="2">
+				<word number="1">rocket fuel</word>
+				<word number="2">high specific impulse fuel</word>
+				<word number="3">liquid hydrogen</word>
+				<word number="4">liquid oxygen</word>
+				<word number="5">lox</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="natural gas">
+			<sg number="1">
+				<word number="1">natural gas</word>
+				<word number="2">synthetic gas</word>
+				<word number="3">synthesis gas</word>
+				<word number="4">propane</word>
+				<word number="5">butane</word>
+				<word number="6">hydrogen</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="brand">
+			<sg number="1">
+				<word number="1">brand</word>
+				<word number="2">torch</word>
+				<word number="3">fuse</word>
+			</sg>
+			<sg number="2">
+				<word number="1">wick</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spill</word>
+				<word number="2">match</word>
+				<word number="3">light</word>
+				<word number="4">lucifer</word>
+				<word number="5">congreve</word>
+				<word number="6">vesuvian</word>
+				<word number="7">vesta</word>
+				<word number="8">fusee</word>
+				<word number="9">locofoco</word>
+			</sg>
+			<sg number="4">
+				<word number="1">linstock</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="candle">
+			<sg number="1">
+				<word number="1" paraRef="luminary" headRef="441">candle</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="grease" headRef="367">oil</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="carbonaceous">
+			<sg number="1">
+				<word number="1">carbonaceous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">combustible</word>
+				<word number="2">inflammable</word>
+			</sg>
+			<sg number="3">
+				<word number="1">high octane</word>
+				<word number="2">high specific impulse</word>
+			</sg>
+			<sg number="4">
+				<word number="1">heat of combustion,</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="602" name="Plainness" origNum="#576." class="5" section="3" subSection="2" headGroup="11">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="plainness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">plainness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">simplicity</word>
+				<word number="2">severity</word>
+			</sg>
+			<sg number="3">
+				<word number="1">plain terms</word>
+				<word number="2">plain English</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Saxon English</word>
+			</sg>
+			<sg number="5">
+				<word number="1">household words</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="call a spade a spade">
+			<sg number="1">
+				<word number="1">call a spade "a spade"</word>
+			</sg>
+			<sg number="2">
+				<word number="1">plunge in medias res</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come to the point</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="plain">
+			<sg number="1">
+				<word number="1">plain</word>
+				<word number="2">simple</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unornamented</word>
+				<word number="2">unadorned</word>
+				<word number="3">unvarnished</word>
+			</sg>
+			<sg number="3">
+				<word number="1">homely</word>
+				<word number="2">homespun</word>
+			</sg>
+			<sg number="4">
+				<word number="1">neat</word>
+			</sg>
+			<sg number="5">
+				<word number="1">severe</word>
+				<word number="2">chaste</word>
+				<word number="3">pure</word>
+				<word number="4">Saxon</word>
+			</sg>
+			<sg number="6">
+				<word number="1">commonplace</word>
+				<word number="2">matter-of-fact</word>
+				<word number="3">natural</word>
+				<word number="4">prosaic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="dry">
+			<sg number="1">
+				<word number="1">dry</word>
+				<word number="2">unvaried</word>
+				<word number="3" paraRef="monotonous" headRef="601">monotonous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="in plain terms">
+			<sg number="1">
+				<word number="1">in plain terms</word>
+				<word number="2">in plain words</word>
+				<word number="3">in plain English</word>
+				<word number="4">in plain common parlance</word>
+			</sg>
+			<sg number="2">
+				<word number="1">point-blank</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

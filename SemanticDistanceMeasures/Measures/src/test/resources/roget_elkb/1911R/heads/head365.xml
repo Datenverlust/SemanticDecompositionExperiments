@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="365" name="Pulpiness" origNum="#354." class="3" section="2" subSection="3" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="pulpiness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">pulpiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pulp</word>
+				<word number="2">taste</word>
+				<word number="3">dough</word>
+				<word number="4">curd</word>
+				<word number="5">pap</word>
+				<word number="6">rob</word>
+				<word number="7">jam</word>
+				<word number="8">pudding</word>
+				<word number="9">poultice</word>
+				<word number="10">grume</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="mush">
+			<sg number="1">
+				<word number="1">mush</word>
+				<word number="2">oatmeal</word>
+				<word number="3">baby food</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="pulpy">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="n.">pulpy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pultaceous</word>
+				<word number="2">grumous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">baccate</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

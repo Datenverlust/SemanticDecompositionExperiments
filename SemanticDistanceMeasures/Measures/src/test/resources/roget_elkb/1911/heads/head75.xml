@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+
+<head number="75" name="Term" origNum="#71." class="1" section="4" subSection="2" headGroup="5">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="term">
+			<sg number="1">
+				<word number="1">term</word>
+				<word number="2">rank</word>
+				<word number="3">station</word>
+				<word number="4">stage</word>
+				<word number="5">step</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="degree" headRef="28">degree</word>
+			</sg>
+			<sg number="3">
+				<word number="1">scale</word>
+				<word number="2">remove</word>
+				<word number="3">grade</word>
+				<word number="4">link</word>
+				<word number="5">peg</word>
+				<word number="6">round of the ladder</word>
+				<word number="7">status</word>
+				<word number="8">position</word>
+				<word number="9">place</word>
+				<word number="10">point</word>
+				<word number="11">mark</word>
+				<word number="12">pas</word>
+				<word number="13">period</word>
+				<word number="14">pitch</word>
+			</sg>
+			<sg number="4">
+				<word number="1">stand</word>
+				<word number="2">standing</word>
+			</sg>
+			<sg number="5">
+				<word number="1">footing</word>
+				<word number="2">range</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="hold a place">
+			<sg number="1">
+				<word number="1">hold a place</word>
+				<word number="2">occupy a place</word>
+				<word number="3">find a place</word>
+				<word number="4" paraRef="" posRef="n.">fall into  a place</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

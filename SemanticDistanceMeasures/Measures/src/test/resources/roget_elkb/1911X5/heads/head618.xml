@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="618" name="Correspondence" origNum="#592." class="5" section="3" subSection="2" headGroup="21">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="correspondence">
+			<sg number="1">
+				<word number="1">correspondence</word>
+				<word number="2">letter</word>
+				<word number="3">epistle</word>
+				<word number="4">note</word>
+				<word number="5">billet</word>
+				<word number="6">post card</word>
+				<word number="7">missive</word>
+				<word number="8">circular</word>
+				<word number="9">favor</word>
+				<word number="10">billet-doux</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chit</word>
+				<word number="2">chitty</word>
+				<word number="3">letter card</word>
+				<word number="4">picture post card</word>
+			</sg>
+			<sg number="3">
+				<word number="1">postal</word>
+				<word number="2">card</word>
+			</sg>
+			<sg number="4">
+				<word number="1">despatch</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dispatch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bulletin</word>
+				<word number="2">these presents</word>
+			</sg>
+			<sg number="7">
+				<word number="1">rescript</word>
+				<word number="2">rescription</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="messenger" headRef="560">post</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="correspond with">
+			<sg number="1">
+				<word number="1">correspond with</word>
+			</sg>
+			<sg number="2">
+				<word number="1">write to</word>
+				<word number="2">send a letter to</word>
+			</sg>
+			<sg number="3">
+				<word number="1">keep up a correspondence</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="epistolary">
+			<sg number="1">
+				<word number="1">epistolary</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="furor scribendi">
+			<sg number="1">
+				<word number="1">furor scribendi</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

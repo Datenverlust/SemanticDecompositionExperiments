@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="712" name="Inactivity" origNum="#683." class="6" section="3" subSection="1" headGroup="2">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="inactivity">
+			<sg number="1">
+				<word number="1">inactivity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="inaction" headRef="710">inaction</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="inertness" headRef="179">inertness</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="obstinacy" headRef="633">obstinacy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="lull">
+			<sg number="1">
+				<word number="1" paraRef="cessation" headRef="149">lull</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="quiescence" headRef="276">quiescence</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rust</word>
+				<word number="2">rustiness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="idleness">
+			<sg number="1">
+				<word number="1">idleness</word>
+				<word number="2" paraRef="" posRef="adj.">remissness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sloth</word>
+				<word number="2">indolence</word>
+				<word number="3">indiligence</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">dawdling</word>
+				<word number="2">otiosity</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="dullness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">dullness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">languor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">segnity</word>
+				<word number="2">segnitude</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lentor</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="slowness" headRef="286">sluggishness</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="delay" headRef="140">procrastination</word>
+			</sg>
+			<sg number="7">
+				<word number="1">torpor</word>
+				<word number="2">torpidity</word>
+				<word number="3">torpescence</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="insensibility" headRef="861">stupor</word>
+			</sg>
+			<sg number="9">
+				<word number="1">somnolence</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="" posRef="adj.">drowsiness</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="" posRef="v.">nodding</word>
+			</sg>
+			<sg number="12">
+				<word number="1">oscitation</word>
+				<word number="2">oscitancy</word>
+			</sg>
+			<sg number="13">
+				<word number="1">pandiculation</word>
+				<word number="2">hypnotism</word>
+				<word number="3">lethargy</word>
+			</sg>
+			<sg number="14">
+				<word number="1">statuvolence heaviness</word>
+				<word number="2">heavy eyelids</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sleep">
+			<sg number="1">
+				<word number="1">sleep</word>
+				<word number="2">slumber</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sound sleep</word>
+				<word number="2">heavy sleep</word>
+				<word number="3">balmy sleep</word>
+			</sg>
+			<sg number="3">
+				<word number="1">Morpheus</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Somnus</word>
+			</sg>
+			<sg number="5">
+				<word number="1">coma</word>
+				<word number="2">trance</word>
+				<word number="3">ecstasis</word>
+				<word number="4">dream</word>
+				<word number="5">hibernation</word>
+				<word number="6">nap</word>
+				<word number="7">doze</word>
+				<word number="8">snooze</word>
+				<word number="9">siesta</word>
+				<word number="10">wink of sleep</word>
+				<word number="11">forty winks</word>
+				<word number="12">snore</word>
+			</sg>
+			<sg number="6">
+				<word number="1">hypnology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="dull work">
+			<sg number="1">
+				<word number="1">dull work</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pottering</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="loosening" headRef="50">relaxation</word>
+			</sg>
+			<sg number="4">
+				<word number="1">Castle of Indolence</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="lullaby">
+			<sg number="1">
+				<word number="1">lullaby</word>
+				<word number="2">sedative</word>
+				<word number="3">tranquilizer</word>
+				<word number="4">hypnotic</word>
+				<word number="5">sleeping pill</word>
+				<word number="6">relaxant</word>
+				<word number="7">anaesthetic</word>
+				<word number="8">general anaesthetic</word>
+			</sg>
+			<sg number="2">
+				<word number="1">torpedo</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="idler">
+			<sg number="1">
+				<word number="1">idler</word>
+				<word number="2">drone</word>
+				<word number="3">droil</word>
+				<word number="4">dawdle</word>
+				<word number="5">mopus</word>
+			</sg>
+			<sg number="2">
+				<word number="1">do-little faineant</word>
+				<word number="2">dummy</word>
+				<word number="3">sleeping partner</word>
+			</sg>
+			<sg number="3">
+				<word number="1">afternoon farmer</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="runaway" headRef="652">truant</word>
+				<word number="2">loafer</word>
+				<word number="3">goldbrick</word>
+				<word number="4">goldbicker</word>
+				<word number="5">lounger</word>
+				<word number="6">lazzarone</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lubber</word>
+				<word number="2">lubbard</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="slow" headRef="286">slow coach</word>
+			</sg>
+			<sg number="7">
+				<word number="1">opium eater</word>
+				<word number="2">lotus eater</word>
+			</sg>
+			<sg number="8">
+				<word number="1">slug</word>
+			</sg>
+			<sg number="9">
+				<word number="1">lag!</word>
+				<word number="2">sluggard</word>
+				<word number="3">slugabed</word>
+			</sg>
+			<sg number="10">
+				<word number="1">slumberer</word>
+				<word number="2">dormouse</word>
+				<word number="3">marmot</word>
+			</sg>
+			<sg number="11">
+				<word number="1">waiter on Providence</word>
+				<word number="2">fruges consumere natus</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be inactive">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be inactive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="do nothing" headRef="710">do nothing</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="move slowly" headRef="286">move slowly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">let the grass grow under one's feet</word>
+			</sg>
+			<sg number="5">
+				<word number="1">take one's time</word>
+				<word number="2">dawdle</word>
+				<word number="3">drawl</word>
+				<word number="4">droil</word>
+				<word number="5">lag</word>
+				<word number="6">hang back</word>
+				<word number="7">slouch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">loll</word>
+				<word number="2">lollop</word>
+			</sg>
+			<sg number="7">
+				<word number="1">lounge</word>
+				<word number="2">poke</word>
+				<word number="3">loaf</word>
+				<word number="4">loiter</word>
+			</sg>
+			<sg number="8">
+				<word number="1">go to sleep over</word>
+			</sg>
+			<sg number="9">
+				<word number="1">sleep at one's post</word>
+				<word number="2">ne battre que d'une aile</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take it easy">
+			<sg number="1">
+				<word number="1">take it easy</word>
+				<word number="2">take things as they come</word>
+			</sg>
+			<sg number="2">
+				<word number="1">lead an easy life</word>
+				<word number="2">vegetate</word>
+				<word number="3">swim with the stream</word>
+				<word number="4">eat the bread of idleness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">loll in the lap of luxury</word>
+				<word number="2">loll in the lap of indolence</word>
+			</sg>
+			<sg number="4">
+				<word number="1">waste time</word>
+				<word number="2">consume time</word>
+				<word number="3">kill time</word>
+				<word number="4">lose time</word>
+			</sg>
+			<sg number="5">
+				<word number="1">burn daylight</word>
+				<word number="2">waste the precious hours</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="idle away time">
+			<sg number="1">
+				<word number="1">idle away time</word>
+				<word number="2">trifle away time</word>
+				<word number="3">fritter away time</word>
+				<word number="4">fool away time</word>
+			</sg>
+			<sg number="2">
+				<word number="1">spend time in</word>
+				<word number="2">take time in</word>
+			</sg>
+			<sg number="3">
+				<word number="1">peddle</word>
+				<word number="2">piddle</word>
+			</sg>
+			<sg number="4">
+				<word number="1">potter</word>
+				<word number="2">pudder</word>
+				<word number="3">dabble</word>
+				<word number="4">faddle fribble</word>
+				<word number="5">fiddle-faddle</word>
+			</sg>
+			<sg number="5">
+				<word number="1">dally</word>
+				<word number="2">dilly-dally</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sleep">
+			<sg number="1">
+				<word number="1">sleep</word>
+				<word number="2">slumber</word>
+				<word number="3">be asleep</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hibernate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">oversleep</word>
+			</sg>
+			<sg number="4">
+				<word number="1">sleep like a top</word>
+				<word number="2">sleep like a log</word>
+				<word number="3">sleep like a dormouse</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sleep soundly</word>
+				<word number="2">heavily</word>
+			</sg>
+			<sg number="6">
+				<word number="1">doze</word>
+				<word number="2">drowze</word>
+				<word number="3">snooze</word>
+				<word number="4">nap</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="n.">take a nap</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dream</word>
+			</sg>
+			<sg number="9">
+				<word number="1">snore one's best</word>
+			</sg>
+			<sg number="10">
+				<word number="1">settle to sleep</word>
+				<word number="2">go to sleep</word>
+				<word number="3">go off to sleep</word>
+			</sg>
+			<sg number="11">
+				<word number="1">doze off</word>
+				<word number="2">drop off</word>
+			</sg>
+			<sg number="12">
+				<word number="1">fall asleep</word>
+			</sg>
+			<sg number="13">
+				<word number="1">drop asleep</word>
+			</sg>
+			<sg number="14">
+				<word number="1">close the eyes</word>
+				<word number="2">seal up the eyes</word>
+				<word number="3">seal up eyelids</word>
+			</sg>
+			<sg number="15">
+				<word number="1">weigh down the eyelids</word>
+			</sg>
+			<sg number="16">
+				<word number="1">get sleep</word>
+				<word number="2">nod</word>
+				<word number="3">yawn</word>
+			</sg>
+			<sg number="17">
+				<word number="1">go to bed</word>
+				<word number="2">turn</word>
+			</sg>
+			<sg number="18">
+				<word number="1">get some z's</word>
+				<word number="2">stack z's</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="languish">
+			<sg number="1">
+				<word number="1">languish</word>
+				<word number="2">expend itself</word>
+				<word number="3">flag</word>
+				<word number="4">hang fire</word>
+			</sg>
+			<sg number="2">
+				<word number="1">relax</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="render idle">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">render idle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">sluggardize</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="mitigate" headRef="181">mitigate</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="inactive">
+			<sg number="1">
+				<word number="1">inactive</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="motionless" headRef="276">motionless</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="do nothing" headRef="710">unoccupied</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="indolent">
+			<sg number="1">
+				<word number="1">indolent</word>
+				<word number="2">lazy</word>
+				<word number="3">slothful</word>
+				<word number="4">idle</word>
+				<word number="5">lusk</word>
+				<word number="6">remiss</word>
+				<word number="7">slack</word>
+				<word number="8">inert</word>
+				<word number="9">torpid</word>
+				<word number="10">sluggish</word>
+				<word number="11">otiose</word>
+				<word number="12">languid</word>
+				<word number="13">supine</word>
+				<word number="14">heavy</word>
+				<word number="15">dull</word>
+				<word number="16">leaden</word>
+				<word number="17">lumpish</word>
+			</sg>
+			<sg number="2">
+				<word number="1">exanimate</word>
+				<word number="2">soulless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">listless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">drony</word>
+				<word number="2">dronish</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lazy as Ludlam's dog</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">apathetic</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="dilatory">
+			<sg number="1">
+				<word number="1">dilatory</word>
+				<word number="2">laggard</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="v.">lagging</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="slow" headRef="286">slow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">rusty</word>
+				<word number="2">flagging</word>
+			</sg>
+			<sg number="5">
+				<word number="1">lackadaisical</word>
+				<word number="2">maudlin</word>
+				<word number="3">fiddle-faddle</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="" posRef="v.">pottering</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="irresolute" headRef="632">shilly-shally</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="sleeping">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">sleeping</word>
+			</sg>
+			<sg number="2">
+				<word number="1">asleep</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fast asleep</word>
+				<word number="2">dead asleep</word>
+				<word number="3">sound asleep</word>
+			</sg>
+			<sg number="4">
+				<word number="1">in a sound sleep</word>
+			</sg>
+			<sg number="5">
+				<word number="1">sound as a top</word>
+				<word number="2">dormant</word>
+				<word number="3">comatose</word>
+			</sg>
+			<sg number="6">
+				<word number="1">in the arms of Morpheus</word>
+				<word number="2">in the lap of Morpheus</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="sleepy">
+			<sg number="1">
+				<word number="1">sleepy</word>
+				<word number="2">sleepful</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dozy</word>
+				<word number="2">drowsy</word>
+				<word number="3">somnolent</word>
+				<word number="4">torpescent</word>
+				<word number="5">lethargic</word>
+				<word number="6">lethargical</word>
+			</sg>
+			<sg number="3">
+				<word number="1">somnifacient</word>
+			</sg>
+			<sg number="4">
+				<word number="1">statuvolent</word>
+				<word number="2">statuvolic</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heavy</word>
+				<word number="2">heavy with sleep</word>
+			</sg>
+			<sg number="6">
+				<word number="1">napping</word>
+			</sg>
+			<sg number="7">
+				<word number="1">somnific</word>
+				<word number="2">somniferous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">soporous</word>
+				<word number="2">soporific</word>
+				<word number="3">soporiferous</word>
+			</sg>
+			<sg number="9">
+				<word number="1">hypnotic</word>
+			</sg>
+			<sg number="10">
+				<word number="1">balmy</word>
+				<word number="2">dreamy</word>
+			</sg>
+			<sg number="11">
+				<word number="1">unawakened</word>
+				<word number="2">unawakened</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="sedative">
+			<sg number="1">
+				<word number="1" paraRef="sedative" headRef="181">sedative</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="inactively">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">inactively</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="at leisure" headRef="714">at leisure</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="the eyes begin to draw straws">
+			<sg number="1">
+				<word number="1">the eyes begin to draw straws</word>
+			</sg>
+			<sg number="2">
+				<word number="1">"bankrupt of life yet prodigal of ease"</word>
+			</sg>
+			<sg number="3">
+				<word number="1">"better 50 years of Europe than a cycle of Cathay"</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"idly busy rolls their world away"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"the mystery of folded sleep"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">"the timely dew of sleep"</word>
+			</sg>
+			<sg number="7">
+				<word number="1">"thou driftest gently down the tides of sleep"</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"tired Nature's sweet restorer</word>
+				<word number="2">balmy sleep"</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

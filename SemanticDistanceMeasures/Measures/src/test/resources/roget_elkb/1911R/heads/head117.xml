@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="117" name="Transientness" origNum="#111." class="1" section="6" subSection="1" headGroup="4">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="transience">
+			<sg number="1">
+				<word number="1">transience</word>
+				<word number="2" paraRef="" posRef="adj.">transientness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">evanescence</word>
+				<word number="2">impermanence</word>
+				<word number="3">fugacity</word>
+				<word number="4">caducity</word>
+				<word number="5">mortality</word>
+				<word number="6">span</word>
+			</sg>
+			<sg number="3">
+				<word number="1">nine days' wonder</word>
+				<word number="2">bubble</word>
+				<word number="3">Mayfly</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spurt</word>
+			</sg>
+			<sg number="5">
+				<word number="1">flash in the pan</word>
+			</sg>
+			<sg number="6">
+				<word number="1">temporary arrangement</word>
+				<word number="2">interregnum</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="velocity">
+			<sg number="1">
+				<word number="1" paraRef="velocity" headRef="285">velocity</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="suddenness" headRef="119">suddenness</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="changeableness" headRef="156">changeableness</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="transient">
+			<sg number="1">
+				<word number="1">transient</word>
+				<word number="2">transient boarder</word>
+				<word number="3">transient guest</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be transient">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be transient</word>
+			</sg>
+			<sg number="2">
+				<word number="1">flit</word>
+				<word number="2">pass away</word>
+				<word number="3">fly</word>
+				<word number="4">gallop</word>
+				<word number="5">vanish</word>
+				<word number="6">fade</word>
+				<word number="7">evaporate</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pass away like a cloud</word>
+				<word number="2">pass away like a summer cloud</word>
+				<word number="3">pass away like a shadow</word>
+				<word number="4">pass away like a dream</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="transient">
+			<sg number="1">
+				<word number="1">transient</word>
+				<word number="2">transitory</word>
+				<word number="3">transitive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">passing</word>
+				<word number="2">evanescent</word>
+				<word number="3">fleeting</word>
+				<word number="4">cursory</word>
+				<word number="5">short-lived</word>
+				<word number="6">ephemeral</word>
+				<word number="7" new="1">jaded</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">flying</word>
+			</sg>
+			<sg number="4">
+				<word number="1">fugacious</word>
+				<word number="2">fugitive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">shifting</word>
+				<word number="2">slippery</word>
+			</sg>
+			<sg number="6">
+				<word number="1">spasmodic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">instantaneous</word>
+				<word number="2">momentaneous</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">unrealistically</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="temporal">
+			<sg number="1">
+				<word number="1">temporal</word>
+				<word number="2">temporary</word>
+			</sg>
+			<sg number="2">
+				<word number="1">provisional</word>
+				<word number="2">provisory</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deciduous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">perishable</word>
+				<word number="2">mortal</word>
+				<word number="3">precarious</word>
+				<word number="4">unstable</word>
+				<word number="5">insecure</word>
+			</sg>
+			<sg number="5">
+				<word number="1">impermanent</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">incognito</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="brief">
+			<sg number="1">
+				<word number="1">brief</word>
+				<word number="2">quick</word>
+				<word number="3">brisk</word>
+				<word number="4">extemporaneous</word>
+				<word number="5">summary</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="haste" headRef="713">pressed for time</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sudden</word>
+				<word number="2" paraRef="instantaneous" headRef="119">momentary</word>
+			</sg>
+			<sg number="4">
+				<word number="1" new="1">treeless</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="enclaved">
+			<sg number="1">
+				<word number="1" new="1">enclaved</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="dialectal">
+			<sg number="1">
+				<word number="1" new="1">dialectal</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="temporarily">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">temporarily</word>
+			</sg>
+			<sg number="2">
+				<word number="1">pro tempore</word>
+			</sg>
+			<sg number="3">
+				<word number="1">for the moment</word>
+				<word number="2">for a time</word>
+			</sg>
+			<sg number="4">
+				<word number="1">awhile</word>
+				<word number="2">en passant</word>
+				<word number="3">in transitu</word>
+			</sg>
+			<sg number="5">
+				<word number="1">in a short time</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="early" headRef="138">soon</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="" posRef="adj.">briefly</word>
+			</sg>
+			<sg number="8">
+				<word number="1">at short notice</word>
+			</sg>
+			<sg number="9">
+				<word number="1">on the point of</word>
+				<word number="2">on the eve of</word>
+			</sg>
+			<sg number="10">
+				<word number="1">in articulo</word>
+			</sg>
+			<sg number="11">
+				<word number="1">between cup and lip</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's days are numbered">
+			<sg number="1">
+				<word number="1">one's days are numbered</word>
+			</sg>
+			<sg number="2">
+				<word number="1">the time is up</word>
+			</sg>
+			<sg number="3">
+				<word number="1">here today and gone tomorrow</word>
+			</sg>
+			<sg number="4">
+				<word number="1">non semper erit aestas</word>
+			</sg>
+			<sg number="5">
+				<word number="1">eheu!</word>
+				<word number="2">fugaces labuntur anni</word>
+			</sg>
+			<sg number="6">
+				<word number="1">sic transit gloria mundi</word>
+			</sg>
+			<sg number="7">
+				<word number="1">a schoolboy's tale</word>
+				<word number="2">the wonder of the hour!</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dum loquimur fugerit invidia aetas</word>
+			</sg>
+			<sg number="9">
+				<word number="1">fugit hora</word>
+			</sg>
+			<sg number="10">
+				<word number="1">all that is transitory is but an illusion</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

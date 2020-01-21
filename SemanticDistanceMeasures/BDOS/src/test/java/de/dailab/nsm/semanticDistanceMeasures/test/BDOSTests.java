@@ -12,6 +12,7 @@ import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.decomposition.Decomposition;
 import de.dailab.nsm.decomposition.WordType;
 import de.dailab.nsm.semanticDistanceMeasures.BiDirectionalOneStepAlgorithm;
+import org.junit.Test;
 
 /**
  * Created by faehndrich on 03.09.15.
@@ -25,7 +26,7 @@ public class BDOSTests {
         test.bdosTest();
 
     }
-    //@org.junit.Test
+    @Test
     public void bdosTest() {
 
         Concept tree = Decomposition.createConcept("tree", WordType.NN);

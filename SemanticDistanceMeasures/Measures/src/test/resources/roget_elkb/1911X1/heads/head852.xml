@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="852" name="Cheapness" origNum="#815." class="7" section="4" subSection="4" headGroup="10">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="cheapness">
+			<sg number="1">
+				<word number="1">cheapness</word>
+				<word number="2">low price</word>
+			</sg>
+			<sg number="2">
+				<word number="1">depreciation</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bargain</word>
+			</sg>
+			<sg number="4">
+				<word number="1">good penny worth</word>
+			</sg>
+			<sg number="5">
+				<word number="1">snap</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="gratuity">
+			<sg number="1">
+				<word number="1">gratuity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">free quarters</word>
+				<word number="2">free seats</word>
+				<word number="3">free admission</word>
+				<word number="4">pass</word>
+				<word number="5">free pass</word>
+				<word number="6">free warren</word>
+				<word number="7">give-away</word>
+				<word number="8">freebee</word>
+			</sg>
+			<sg number="3">
+				<word number="1">run of one's teeth</word>
+			</sg>
+			<sg number="4">
+				<word number="1">nominal price</word>
+				<word number="2">peppercorn rent</word>
+			</sg>
+			<sg number="5">
+				<word number="1">labor of love</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="drug in the market">
+			<sg number="1">
+				<word number="1">drug in the market</word>
+			</sg>
+			<sg number="2">
+				<word number="1">deadhead</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be cheap">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be cheap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">cost little</word>
+			</sg>
+			<sg number="3">
+				<word number="1">come down in price</word>
+				<word number="2">fall in price</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="buy for a mere nothing">
+			<sg number="1">
+				<word number="1">buy for a mere nothing</word>
+				<word number="2">buy for an old song</word>
+			</sg>
+			<sg number="2">
+				<word number="1">have one's money's worth</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="cheap">
+			<sg number="1">
+				<word number="1">cheap</word>
+			</sg>
+			<sg number="2">
+				<word number="1">low</word>
+				<word number="2">low priced</word>
+			</sg>
+			<sg number="3">
+				<word number="1">moderate</word>
+				<word number="2">reasonable</word>
+			</sg>
+			<sg number="4">
+				<word number="1">inexpensive</word>
+				<word number="2">unexpensive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">well worth the money</word>
+				<word number="2">worth the money</word>
+			</sg>
+			<sg number="6">
+				<word number="1">magnifique et pas cher</word>
+			</sg>
+			<sg number="7">
+				<word number="1">good at the price</word>
+				<word number="2">cheap at the price</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dirt cheap</word>
+				<word number="2">dog cheap</word>
+			</sg>
+			<sg number="9">
+				<word number="1">cheap</word>
+				<word number="2">cheap as dirt</word>
+				<word number="3">cheap and nasty</word>
+			</sg>
+			<sg number="10">
+				<word number="1">catchpenny</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="discount" headRef="850">discounted</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">compact</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">ubiquitous</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="half-price">
+			<sg number="1">
+				<word number="1">half-price</word>
+				<word number="2">depreciated</word>
+				<word number="3">unsalable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="gratuitous">
+			<sg number="1">
+				<word number="1">gratuitous</word>
+				<word number="2">gratis</word>
+				<word number="3">free</word>
+				<word number="4">for nothing</word>
+			</sg>
+			<sg number="2">
+				<word number="1">costless</word>
+				<word number="2">expenseless</word>
+			</sg>
+			<sg number="3">
+				<word number="1">without charge</word>
+				<word number="2">not charged</word>
+				<word number="3">untaxed</word>
+			</sg>
+			<sg number="4">
+				<word number="1">scotfree</word>
+				<word number="2">shotfree</word>
+				<word number="3">rent-free</word>
+			</sg>
+			<sg number="5">
+				<word number="1">free of cost</word>
+				<word number="2">free of expense</word>
+			</sg>
+			<sg number="6">
+				<word number="1">honorary</word>
+				<word number="2">unbought</word>
+				<word number="3">unpaid</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="for a mere song">
+			<sg number="1">
+				<word number="1">for a mere song</word>
+				<word number="2">for a song</word>
+			</sg>
+			<sg number="2">
+				<word number="1">at cost</word>
+				<word number="2">at cost price</word>
+				<word number="3">at prime cost</word>
+				<word number="4">at a reduction</word>
+			</sg>
+			<sg number="3">
+				<word number="1">a bon marche</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

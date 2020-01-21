@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="447" name="Color" origNum="#428." class="3" section="3" subSection="2" headGroup="31">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="color">
+			<sg number="1">
+				<word number="1">color</word>
+				<word number="2">hue</word>
+				<word number="3">tint</word>
+				<word number="4">tinge</word>
+				<word number="5">dye</word>
+				<word number="6">complexion</word>
+				<word number="7">shade</word>
+				<word number="8">tincture</word>
+				<word number="9">cast</word>
+				<word number="10">livery</word>
+				<word number="11">coloration</word>
+				<word number="12">glow</word>
+				<word number="13">flush</word>
+				<word number="14" new="1">sheen</word>
+				<word number="15" new="2">iridescence</word>
+				<word number="16" new="2">luster</word>
+				<word number="17" new="3">gloss</word>
+			</sg>
+			<sg number="2">
+				<word number="1">tone</word>
+				<word number="2">key</word>
+			</sg>
+			<sg number="3">
+				<word number="1" new="1">palette</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="pure color">
+			<sg number="1">
+				<word number="1">pure color</word>
+				<word number="2">positive color</word>
+				<word number="3">primary color</word>
+				<word number="4">primitive complementary color</word>
+			</sg>
+			<sg number="2">
+				<word number="1">three primaries</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spectrum</word>
+				<word number="2">chromatic dispersion</word>
+			</sg>
+			<sg number="4">
+				<word number="1">broken color</word>
+				<word number="2">secondary color</word>
+				<word number="3">tertiary color</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="local color">
+			<sg number="1">
+				<word number="1">local color</word>
+				<word number="2">coloring</word>
+				<word number="3">keeping</word>
+				<word number="4">tone</word>
+				<word number="5">value</word>
+				<word number="6">aerial perspective</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="chromatics">
+			<sg number="1">
+				<word number="1">chromatics</word>
+				<word number="2">spectrum analysis</word>
+				<word number="3">spectroscopy</word>
+			</sg>
+			<sg number="2">
+				<word number="1">chromatism</word>
+				<word number="2">chromatography|</word>
+				<word number="3">chromatology</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="prism">
+			<sg number="1">
+				<word number="1">prism</word>
+				<word number="2">spectroscope</word>
+				<word number="3">spectrograph</word>
+				<word number="4">spectrometer</word>
+				<word number="5" paraRef="optical instruments" headRef="464">colorimeter</word>
+				<word number="6" new="1">imager</word>
+				<word number="7" new="2">photometer</word>
+				<word number="8" new="3">radiometer</word>
+				<word number="9" new="3">spectrophotometer</word>
+				<word number="10" new="4">analyzer</word>
+				<word number="11" new="4">calorimeter</word>
+				<word number="12" new="5">sounder</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="pigment">
+			<sg number="1">
+				<word number="1">pigment</word>
+				<word number="2">coloring matter</word>
+				<word number="3">paint</word>
+				<word number="4">dye</word>
+				<word number="5">wash</word>
+				<word number="6">distemper</word>
+				<word number="7">stain</word>
+				<word number="8" new="1">ink</word>
+				<word number="9" new="2">glaze</word>
+			</sg>
+			<sg number="2">
+				<word number="1">medium</word>
+			</sg>
+			<sg number="3">
+				<word number="1">mordant</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="painting" headRef="582">oil paint</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="color">
+			<sg number="1">
+				<word number="1">color</word>
+				<word number="2">dye</word>
+				<word number="3">tinge</word>
+				<word number="4">stain</word>
+				<word number="5">tint</word>
+				<word number="6">tinct</word>
+				<word number="7">paint</word>
+				<word number="8">wash</word>
+				<word number="9">ingrain</word>
+				<word number="10">grain</word>
+				<word number="11">illuminate</word>
+				<word number="12">emblazon</word>
+				<word number="13">bedizen</word>
+				<word number="14">imbue</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="fine art" headRef="582">paint</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="colored">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="v.">colored</word>
+			</sg>
+			<sg number="2">
+				<word number="1">colorific</word>
+				<word number="2">tingent</word>
+				<word number="3">tinctorial</word>
+			</sg>
+			<sg number="3">
+				<word number="1">chromatic</word>
+				<word number="2">prismatic</word>
+			</sg>
+			<sg number="4">
+				<word number="1">full-colored</word>
+				<word number="2">high-colored</word>
+				<word number="3">deep-colored</word>
+			</sg>
+			<sg number="5">
+				<word number="1">doubly- dyed</word>
+			</sg>
+			<sg number="6">
+				<word number="1">polychromatic</word>
+			</sg>
+			<sg number="7">
+				<word number="1">chromatogenous</word>
+			</sg>
+			<sg number="8">
+				<word number="1">tingible</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bright">
+			<sg number="1">
+				<word number="1">bright</word>
+				<word number="2">vivid</word>
+				<word number="3">intense</word>
+				<word number="4">deep</word>
+			</sg>
+			<sg number="2">
+				<word number="1">fresh</word>
+				<word number="2">unfaded</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rich</word>
+				<word number="2">gorgeous</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gay</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="gaudy">
+			<sg number="1">
+				<word number="1">gaudy</word>
+				<word number="2">florid</word>
+			</sg>
+			<sg number="2">
+				<word number="1">gay</word>
+				<word number="2">garish</word>
+			</sg>
+			<sg number="3">
+				<word number="1">rainbow-colored</word>
+				<word number="2">multihued</word>
+			</sg>
+			<sg number="4">
+				<word number="1">showy</word>
+				<word number="2">flaunting</word>
+				<word number="3">flashy</word>
+			</sg>
+			<sg number="5">
+				<word number="1">raw</word>
+				<word number="2">crude</word>
+			</sg>
+			<sg number="6">
+				<word number="1">glaring</word>
+				<word number="2">flaring</word>
+			</sg>
+			<sg number="7">
+				<word number="1">discordant</word>
+				<word number="2">inharmonious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="mellow">
+			<sg number="1">
+				<word number="1">mellow</word>
+				<word number="2">pastel</word>
+				<word number="3">harmonious</word>
+				<word number="4">pearly</word>
+				<word number="5">sweet</word>
+				<word number="6">delicate</word>
+				<word number="7">tender</word>
+				<word number="8">refined</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

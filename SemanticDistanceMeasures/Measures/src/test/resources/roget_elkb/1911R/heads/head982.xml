@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="982" name="Improbity" origNum="#940." class="8" section="4" subSection="3" headGroup="1">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="improbity">
+			<sg number="1">
+				<word number="1">improbity</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dishonesty</word>
+				<word number="2">dishonor</word>
+			</sg>
+			<sg number="3">
+				<word number="1">deviation from rectitude</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="disrepute" headRef="913">disgrace</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="deception" headRef="571">fraud</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="lying" headRef="570">lying</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bad faith</word>
+				<word number="2">Punic faith</word>
+			</sg>
+			<sg number="8">
+				<word number="1">mala fides</word>
+				<word number="2">Punica fides</word>
+			</sg>
+			<sg number="9">
+				<word number="1">infidelity</word>
+			</sg>
+			<sg number="10">
+				<word number="1" paraRef="" posRef="adj.">faithlessness</word>
+			</sg>
+			<sg number="11">
+				<word number="1">Judas kiss</word>
+				<word number="2">betrayal</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="breach of promise">
+			<sg number="1">
+				<word number="1">breach of promise</word>
+				<word number="2">breach of trust</word>
+				<word number="3">breach of faith</word>
+			</sg>
+			<sg number="2">
+				<word number="1">prodition</word>
+				<word number="2">disloyalty</word>
+				<word number="3">treason</word>
+				<word number="4">high treason</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="tergiversation" headRef="634">apostasy</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="nonobservance" headRef="805">nonobservance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="shabbiness">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">shabbiness</word>
+			</sg>
+			<sg number="2">
+				<word number="1">villainy</word>
+				<word number="2">villany</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="adj.">baseness</word>
+			</sg>
+			<sg number="4">
+				<word number="1">abjection</word>
+				<word number="2">debasement</word>
+				<word number="3">turpitude</word>
+				<word number="4">moral turpitude</word>
+				<word number="5">laxity</word>
+				<word number="6">trimming</word>
+				<word number="7">shuffling</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="perfidy">
+			<sg number="1">
+				<word number="1">perfidy</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="" posRef="adj.">perfidiousness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">treachery</word>
+				<word number="2">double dealing</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="" posRef="adj.">unfairness</word>
+			</sg>
+			<sg number="5">
+				<word number="1">knavery</word>
+				<word number="2">roguery</word>
+				<word number="3">rascality</word>
+				<word number="4">foul play</word>
+			</sg>
+			<sg number="6">
+				<word number="1">jobbing</word>
+				<word number="2">jobbery</word>
+			</sg>
+			<sg number="7">
+				<word number="1">graft</word>
+				<word number="2">bribery</word>
+			</sg>
+			<sg number="8">
+				<word number="1">venality</word>
+				<word number="2">nepotism</word>
+			</sg>
+			<sg number="9">
+				<word number="1">corruption</word>
+				<word number="2">job</word>
+				<word number="3">shuffle</word>
+				<word number="4">fishy transaction</word>
+			</sg>
+			<sg number="10">
+				<word number="1">barratry</word>
+				<word number="2">sharp practice</word>
+				<word number="3">heads I win tails you lose</word>
+			</sg>
+			<sg number="11">
+				<word number="1" paraRef="flattery" headRef="975">mouth honor</word>
+			</sg>
+			<sg number="12">
+				<word number="1" new="1">toffee</word>
+			</sg>
+			<sg number="13">
+				<word number="1" new="1">cutlet</word>
+			</sg>
+			<sg number="14">
+				<word number="1" new="1">phoney</word>
+			</sg>
+			<sg number="15">
+				<word number="1" new="1">regrow</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="muskrat">
+			<sg number="1">
+				<word number="1" new="1">muskrat</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="caber">
+			<sg number="1">
+				<word number="1" new="1">caber</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be dishonest">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be dishonest</word>
+			</sg>
+			<sg number="2">
+				<word number="1">play false</word>
+			</sg>
+			<sg number="3">
+				<word number="1">break one's word</word>
+				<word number="2">break one's faith</word>
+				<word number="3">break one's promise</word>
+			</sg>
+			<sg number="4">
+				<word number="1">jilt</word>
+				<word number="2">betray</word>
+				<word number="3">forswear</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="lie" headRef="570">shuffle</word>
+			</sg>
+			<sg number="6">
+				<word number="1">live by one's wits</word>
+				<word number="2">sail near the wind</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="disgrace oneself">
+			<sg number="1">
+				<word number="1">disgrace oneself</word>
+				<word number="2">dishonor oneself</word>
+				<word number="3">demean oneself</word>
+			</sg>
+			<sg number="2">
+				<word number="1">derogate</word>
+				<word number="2">stoop</word>
+				<word number="3">grovel</word>
+				<word number="4">sneak</word>
+				<word number="5">lose caste</word>
+			</sg>
+			<sg number="3">
+				<word number="1">sell oneself</word>
+				<word number="2">go over to the enemy</word>
+			</sg>
+			<sg number="4">
+				<word number="1">seal one's infamy</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="dishonest">
+			<sg number="1">
+				<word number="1">dishonest</word>
+				<word number="2">dishonorable</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unconscientious</word>
+				<word number="2">unscrupulous</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="fraudulent" headRef="571">fraudulent</word>
+			</sg>
+			<sg number="4">
+				<word number="1">knavish</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="disreputable" headRef="913">disgraceful</word>
+			</sg>
+			<sg number="6">
+				<word number="1" paraRef="wicked" headRef="987">wicked</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">antebellum</word>
+			</sg>
+			<sg number="8">
+				<word number="1" new="1">stereophonic</word>
+			</sg>
+			<sg number="9">
+				<word number="1" new="1">quadrupedal</word>
+			</sg>
+			<sg number="10">
+				<word number="1" new="1">semantical</word>
+			</sg>
+			<sg number="11">
+				<word number="1" new="1">chargeable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="false-hearted">
+			<sg number="1">
+				<word number="1">false-hearted</word>
+				<word number="2">disingenuous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unfair</word>
+				<word number="2">one-sided</word>
+			</sg>
+			<sg number="3">
+				<word number="1">double</word>
+				<word number="2">double- hearted</word>
+				<word number="3">double-tongued</word>
+				<word number="4">double-faced</word>
+			</sg>
+			<sg number="4">
+				<word number="1">timeserving</word>
+				<word number="2">crooked</word>
+				<word number="3">tortuous,insidious</word>
+				<word number="4">Machiavelian</word>
+				<word number="5">dark</word>
+				<word number="6">slippery</word>
+			</sg>
+			<sg number="5">
+				<word number="1">fishy</word>
+			</sg>
+			<sg number="6">
+				<word number="1">perfidious</word>
+				<word number="2">treacherous</word>
+				<word number="3">perjured</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="infamous">
+			<sg number="1">
+				<word number="1">infamous</word>
+				<word number="2">arrant</word>
+				<word number="3">foul</word>
+				<word number="4">base</word>
+				<word number="5">vile</word>
+				<word number="6">ignominious</word>
+				<word number="7">blackguard</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="contemptible">
+			<sg number="1">
+				<word number="1">contemptible</word>
+				<word number="2">unrespectable</word>
+				<word number="3">abject</word>
+				<word number="4">mean</word>
+				<word number="5">shabby</word>
+				<word number="6">little</word>
+				<word number="7">paltry</word>
+				<word number="8">dirty</word>
+				<word number="9">scurvy</word>
+				<word number="10">scabby</word>
+				<word number="11">sneaking</word>
+				<word number="12">groveling</word>
+				<word number="13">scrubby</word>
+				<word number="14">rascally</word>
+				<word number="15">pettifogging</word>
+			</sg>
+			<sg number="2">
+				<word number="1">beneath one</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="low-minded">
+			<sg number="1">
+				<word number="1">low-minded</word>
+				<word number="2">low-thoughted</word>
+			</sg>
+			<sg number="2">
+				<word number="1">base-minded</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="undignified">
+			<sg number="1">
+				<word number="1">undignified</word>
+				<word number="2">indign</word>
+			</sg>
+			<sg number="2">
+				<word number="1">unbecoming</word>
+				<word number="2">unbeseeming</word>
+				<word number="3">unbefitting</word>
+			</sg>
+			<sg number="3">
+				<word number="1">derogatory</word>
+				<word number="2">degrading</word>
+			</sg>
+			<sg number="4">
+				<word number="1">infra dignitatem</word>
+			</sg>
+			<sg number="5">
+				<word number="1">ungentlemanly</word>
+				<word number="2">ungentlemanlike</word>
+			</sg>
+			<sg number="6">
+				<word number="1">unknightly</word>
+				<word number="2">unchivalric</word>
+				<word number="3">unmanly</word>
+				<word number="4">unhandsome</word>
+			</sg>
+			<sg number="7">
+				<word number="1">recreant</word>
+				<word number="2">inglorious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="7" name="corrupt">
+			<sg number="1">
+				<word number="1">corrupt</word>
+				<word number="2">venal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">debased</word>
+				<word number="2">mongrel</word>
+			</sg>
+		</paragraph>
+		<paragraph number="8" name="faithless">
+			<sg number="1">
+				<word number="1">faithless</word>
+				<word number="2">of bad faith</word>
+				<word number="3">false</word>
+				<word number="4">unfaithful</word>
+				<word number="5">disloyal</word>
+			</sg>
+			<sg number="2">
+				<word number="1">untrustworthy</word>
+			</sg>
+			<sg number="3">
+				<word number="1">trustless</word>
+				<word number="2">trothless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">lost to shame</word>
+				<word number="2">dead to honor</word>
+			</sg>
+			<sg number="5">
+				<word number="1">barratrous</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="4" type="ADV.">
+		<paragraph number="1" name="dishonestly">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">dishonestly</word>
+			</sg>
+			<sg number="2">
+				<word number="1">mala fide</word>
+				<word number="2">like a thief in the night</word>
+				<word number="3">by crooked paths</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="5" type="INT.">
+		<paragraph number="1" name="O tempora">
+			<sg number="1">
+				<word number="1">O tempora!</word>
+				<word number="2">O mores!</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="corruptissima respublica plurimae leges">
+			<sg number="1">
+				<word number="1">corruptissima respublica plurimae leges</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>

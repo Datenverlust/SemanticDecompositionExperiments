@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!--
+  ~ Copyright (C) Johannes Fähndrich - All Rights Reserved.
+  ~ Unauthorized copying of this file, via any medium is strictly
+  ~ prohibited Proprietary and confidential.
+  ~ Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+  ~
+  -->
+
+<!DOCTYPE head SYSTEM "heads.dtd">
+<?xml-stylesheet href="rogets.xsl" type="text/xsl" ?>
+
+<head number="900" name="Courage" origNum="#861." class="8" section="2" subSection="3" headGroup="3">
+	<pos number="1" type="N.">
+		<paragraph number="1" name="courage">
+			<sg number="1">
+				<word number="1">courage</word>
+				<word number="2">bravery</word>
+				<word number="3">valor</word>
+			</sg>
+			<sg number="2">
+				<word number="1">resoluteness</word>
+				<word number="2" paraRef="" posRef="adj.">boldness</word>
+			</sg>
+			<sg number="3">
+				<word number="1">spirit</word>
+				<word number="2">daring</word>
+				<word number="3">gallantry</word>
+				<word number="4">intrepidity</word>
+			</sg>
+			<sg number="4">
+				<word number="1">contempt of danger</word>
+				<word number="2">defiance of danger</word>
+			</sg>
+			<sg number="5">
+				<word number="1">derring-do</word>
+			</sg>
+			<sg number="6">
+				<word number="1">audacity</word>
+			</sg>
+			<sg number="7">
+				<word number="1" paraRef="rashness" headRef="902">rashness</word>
+			</sg>
+			<sg number="8">
+				<word number="1">dash</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="defiance" headRef="744">defiance</word>
+			</sg>
+			<sg number="10">
+				<word number="1">confidence</word>
+				<word number="2">self-reliance</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="manliness">
+			<sg number="1">
+				<word number="1">manliness</word>
+				<word number="2">manhood</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nerve</word>
+				<word number="2">pluck</word>
+				<word number="3">mettle</word>
+				<word number="4">game</word>
+			</sg>
+			<sg number="3">
+				<word number="1">heart</word>
+				<word number="2">heart of grace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spunk</word>
+				<word number="2">guts</word>
+				<word number="3">face</word>
+				<word number="4">virtue</word>
+				<word number="5">hardihood</word>
+				<word number="6">fortitude</word>
+				<word number="7">intestinal fortitude</word>
+			</sg>
+			<sg number="5">
+				<word number="1" paraRef="stability" headRef="157">firmness</word>
+			</sg>
+			<sg number="6">
+				<word number="1">heart of oak</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bottom</word>
+				<word number="2">backbone</word>
+				<word number="3" paraRef="perseverance" headRef="631">spine</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="resolution">
+			<sg number="1">
+				<word number="1" paraRef="determination" headRef="630">resolution</word>
+			</sg>
+			<sg number="2">
+				<word number="1">bulldog courage</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="prowess">
+			<sg number="1">
+				<word number="1">prowess</word>
+				<word number="2">heroism</word>
+				<word number="3">chivalry</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="exploit">
+			<sg number="1">
+				<word number="1">exploit</word>
+				<word number="2">feat</word>
+				<word number="3">achievement</word>
+			</sg>
+			<sg number="2">
+				<word number="1">heroic deed</word>
+				<word number="2">heroic act</word>
+			</sg>
+			<sg number="3">
+				<word number="1">bold stroke</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="man">
+			<sg number="1">
+				<word number="1">man</word>
+				<word number="2">man of mettle</word>
+			</sg>
+			<sg number="2">
+				<word number="1">hero</word>
+				<word number="2">demigod</word>
+				<word number="3">Amazon</word>
+				<word number="4">Hector</word>
+			</sg>
+			<sg number="3">
+				<word number="1">lion</word>
+				<word number="2">tiger</word>
+				<word number="3">panther</word>
+				<word number="4">bulldog</word>
+			</sg>
+			<sg number="4">
+				<word number="1">gamecock</word>
+				<word number="2">fighting-cock</word>
+			</sg>
+			<sg number="5">
+				<word number="1">bully</word>
+				<word number="2" paraRef="fire eater" headRef="902">fire eater</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="2" type="VB.">
+		<paragraph number="1" name="be courageous">
+			<sg number="1">
+				<word number="1" paraRef="" posRef="adj.">be courageous</word>
+			</sg>
+			<sg number="2">
+				<word number="1">dare</word>
+				<word number="2">venture</word>
+				<word number="3">make bold</word>
+			</sg>
+			<sg number="3">
+				<word number="1">face danger</word>
+				<word number="2">front danger</word>
+				<word number="3">affront danger</word>
+				<word number="4">confront danger</word>
+				<word number="5">brave danger</word>
+				<word number="6">defy danger</word>
+				<word number="7">despise danger</word>
+				<word number="8">mock danger</word>
+			</sg>
+			<sg number="4">
+				<word number="1">look in the face</word>
+			</sg>
+			<sg number="5">
+				<word number="1">look full in the face</word>
+				<word number="2">look boldly in the face</word>
+				<word number="3">look danger in the face</word>
+			</sg>
+			<sg number="6">
+				<word number="1">face</word>
+			</sg>
+			<sg number="7">
+				<word number="1">meet</word>
+				<word number="2">meet in front</word>
+			</sg>
+			<sg number="8">
+				<word number="1">brave</word>
+				<word number="2">beard</word>
+			</sg>
+			<sg number="9">
+				<word number="1" paraRef="defy" headRef="744">defy</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="take courage">
+			<sg number="1">
+				<word number="1">take courage</word>
+				<word number="2">muster courage</word>
+				<word number="3">summon up courage</word>
+				<word number="4">pluck up courage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">nerve oneself</word>
+				<word number="2">take heart</word>
+			</sg>
+			<sg number="3">
+				<word number="1">take heart</word>
+				<word number="2">pluck up heart of grace</word>
+			</sg>
+			<sg number="4">
+				<word number="1">hold up one's head</word>
+				<word number="2">screw one's courage to the sticking place</word>
+			</sg>
+			<sg number="5">
+				<word number="1">come  up to scratch</word>
+			</sg>
+			<sg number="6">
+				<word number="1">stick to one's guns</word>
+				<word number="2">standfire</word>
+				<word number="3">stand against</word>
+			</sg>
+			<sg number="7">
+				<word number="1">bear up</word>
+				<word number="2">bear up against</word>
+			</sg>
+			<sg number="8">
+				<word number="1" paraRef="persevere" headRef="631">hold out</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="put a bold face upon">
+			<sg number="1">
+				<word number="1">put a bold face upon</word>
+			</sg>
+			<sg number="2">
+				<word number="1">show a bold front</word>
+				<word number="2">present a bold front</word>
+			</sg>
+			<sg number="3">
+				<word number="1">show fight</word>
+			</sg>
+			<sg number="4">
+				<word number="1">face the music</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="bell the cat">
+			<sg number="1">
+				<word number="1">bell the cat</word>
+				<word number="2">take the bull by the horns</word>
+				<word number="3">beard the lion in his den</word>
+				<word number="4">march up to the cannon's mouth</word>
+				<word number="5">go through fire and water</word>
+				<word number="6">run the gantlet</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="give courage">
+			<sg number="1">
+				<word number="1">give courage</word>
+				<word number="2">infuse courage</word>
+				<word number="3">inspire courage</word>
+			</sg>
+			<sg number="2">
+				<word number="1">reassure</word>
+				<word number="2">encourage</word>
+				<word number="3">embolden</word>
+				<word number="4">inspirit</word>
+				<word number="5">cheer</word>
+				<word number="6">nerve</word>
+				<word number="7">put upon one's mettle</word>
+				<word number="8">rally</word>
+				<word number="9">raise a rallying cry</word>
+			</sg>
+			<sg number="3">
+				<word number="1">pat on the back</word>
+				<word number="2">make a man of</word>
+				<word number="3">keep in countenance</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="3" type="ADJ.">
+		<paragraph number="1" name="courageous">
+			<sg number="1">
+				<word number="1">courageous</word>
+				<word number="2">brave</word>
+				<word number="3" new="1">tenacious</word>
+				<word number="4" new="1">tough</word>
+			</sg>
+			<sg number="2">
+				<word number="1">valiant</word>
+				<word number="2">valorous</word>
+			</sg>
+			<sg number="3">
+				<word number="1">gallant</word>
+				<word number="2">intrepid</word>
+			</sg>
+			<sg number="4">
+				<word number="1">spirited</word>
+				<word number="2">spiritful</word>
+			</sg>
+			<sg number="5">
+				<word number="1">high-spirited</word>
+				<word number="2">high-mettled</word>
+			</sg>
+			<sg number="6">
+				<word number="1">mettlesome</word>
+				<word number="2">plucky</word>
+			</sg>
+			<sg number="7">
+				<word number="1">manly</word>
+				<word number="2">manful</word>
+			</sg>
+			<sg number="8">
+				<word number="1">resolute</word>
+			</sg>
+			<sg number="9">
+				<word number="1">stout</word>
+				<word number="2">stout-hearted</word>
+			</sg>
+			<sg number="10">
+				<word number="1">iron-hearted</word>
+				<word number="2">lion- hearted</word>
+			</sg>
+			<sg number="11">
+				<word number="1">heart of oak</word>
+			</sg>
+			<sg number="12">
+				<word number="1">Penthesilean</word>
+			</sg>
+		</paragraph>
+		<paragraph number="2" name="bold">
+			<sg number="1">
+				<word number="1">bold</word>
+				<word number="2">bold-spirited</word>
+			</sg>
+			<sg number="2">
+				<word number="1">daring</word>
+				<word number="2">audacious</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fearless</word>
+				<word number="2">dauntless</word>
+				<word number="3">dreadless</word>
+				<word number="4">aweless</word>
+			</sg>
+			<sg number="4">
+				<word number="1">undaunted</word>
+				<word number="2">unappalled</word>
+				<word number="3">undismayed</word>
+				<word number="4">unawed</word>
+				<word number="5">unblanched</word>
+				<word number="6">unabashed</word>
+				<word number="7">unalarmed</word>
+				<word number="8">unflinching</word>
+				<word number="9">unshrinking</word>
+				<word number="10">unblanching</word>
+				<word number="11">unapprehensive</word>
+			</sg>
+			<sg number="5">
+				<word number="1">confident</word>
+				<word number="2">self-reliant</word>
+			</sg>
+			<sg number="6">
+				<word number="1">bold as a lion</word>
+				<word number="2">bold as brass</word>
+			</sg>
+			<sg number="7">
+				<word number="1" new="1">uncompromising</word>
+			</sg>
+		</paragraph>
+		<paragraph number="3" name="enterprising">
+			<sg number="1">
+				<word number="1">enterprising</word>
+				<word number="2">adventurous</word>
+				<word number="3" new="1">inquisitive</word>
+			</sg>
+			<sg number="2">
+				<word number="1">venturous</word>
+				<word number="2">venturesome</word>
+			</sg>
+			<sg number="3">
+				<word number="1">dashing</word>
+				<word number="2">chivalrous</word>
+			</sg>
+			<sg number="4">
+				<word number="1" paraRef="warlike" headRef="751">soldierly</word>
+			</sg>
+			<sg number="5">
+				<word number="1">heroic</word>
+			</sg>
+			<sg number="6">
+				<word number="1" new="1">chivalric</word>
+			</sg>
+		</paragraph>
+		<paragraph number="4" name="fierce">
+			<sg number="1">
+				<word number="1">fierce</word>
+				<word number="2">savage</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="bellicose" headRef="749">pugnacious</word>
+			</sg>
+		</paragraph>
+		<paragraph number="5" name="strong-minded">
+			<sg number="1">
+				<word number="1">strong-minded</word>
+				<word number="2">hardy</word>
+				<word number="3">doughty</word>
+			</sg>
+			<sg number="2">
+				<word number="1" paraRef="stable" headRef="157">firm</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="resolved" headRef="630">determined</word>
+			</sg>
+			<sg number="4">
+				<word number="1">dogged</word>
+				<word number="2" paraRef="persevering" headRef="631">indomitable</word>
+			</sg>
+		</paragraph>
+		<paragraph number="6" name="up to">
+			<sg number="1">
+				<word number="1">up to</word>
+				<word number="2">up to the scratch</word>
+			</sg>
+			<sg number="2">
+				<word number="1">upon one's mettle</word>
+			</sg>
+			<sg number="3">
+				<word number="1" paraRef="" posRef="v.">reassured</word>
+			</sg>
+			<sg number="4">
+				<word number="1">unfeared</word>
+				<word number="2">undreaded</word>
+			</sg>
+		</paragraph>
+	</pos>
+	<pos number="6" type="PHR.">
+		<paragraph number="1" name="one's blood being up">
+			<sg number="1">
+				<word number="1">one's blood being up</word>
+			</sg>
+			<sg number="2">
+				<word number="1">courage sans peur</word>
+			</sg>
+			<sg number="3">
+				<word number="1">fortes fortuna adjuvat</word>
+			</sg>
+			<sg number="4">
+				<word number="1">"have I not in my time heard lions roar"</word>
+			</sg>
+			<sg number="5">
+				<word number="1">"I dare do all that may become a man"</word>
+			</sg>
+			<sg number="6">
+				<word number="1">male vincetis sed vincite</word>
+			</sg>
+			<sg number="7">
+				<word number="1">omne solum forti patria</word>
+			</sg>
+			<sg number="8">
+				<word number="1">"self- trust is the essence of heroism"</word>
+			</sg>
+			<sg number="9">
+				<word number="1">stimulos dedit oemula virtus</word>
+			</sg>
+			<sg number="10">
+				<word number="1">"strong and great</word>
+				<word number="2">a hero"</word>
+			</sg>
+			<sg number="11">
+				<word number="1">teloque animus proestantior omni</word>
+			</sg>
+			<sg number="12">
+				<word number="1">"there</word>
+				<word number="2">is always safety in valor"</word>
+			</sg>
+			<sg number="13">
+				<word number="1">virtus ariete fortier</word>
+			</sg>
+		</paragraph>
+	</pos>
+</head>
