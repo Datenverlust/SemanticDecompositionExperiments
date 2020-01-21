@@ -27,22 +27,13 @@ public class PathNode implements Node {
     Map<Concept, Double> threshold = null;
     Concept concept = null;
     private boolean terminated = false;
+    private boolean isQuestionNode;
     //Elements for the distance measure
     Map<Concept, Double> activation = null;
     List<InferenceCollision> inferenceCollisions = null;
     boolean containsWhiteListLink;
     List<PathMarker> tmpMarkers=null;
     PathMarker tmpMarker;
-
-    public boolean isQuestionNode() {
-        return isQuestionNode;
-    }
-
-    public void setQuestionNode(boolean quest) {
-        this.isQuestionNode = quest;
-    }
-
-    private boolean isQuestionNode;
 
     public PathNode(Concept concept) {
         this.links = new ArrayList<>();
@@ -55,6 +46,14 @@ public class PathNode implements Node {
         this.terminated = false;
         isQuestionNode = false;
         tmpMarkers=new ArrayList<>();
+    }
+
+    public boolean isQuestionNode() {
+        return isQuestionNode;
+    }
+
+    public void setQuestionNode(boolean quest) {
+        this.isQuestionNode = quest;
     }
 
     public List<Marker> getActivationHistory() {
@@ -169,11 +168,10 @@ public class PathNode implements Node {
         resetActivation();
         List<Marker> marker2remove = new ArrayList<>();
         for (Marker marker : this.getMarkers()) {
-            //TODO: changed activation concept
+            //TODO: change activation concept
             addActivation_v2(((PathMarker) marker).getOrigin(), ((PathMarker) marker).getActivation());
             activationHistory.add(marker);
         }
-
         //check threshold for each origin marker separately
         for (Concept activeConcepts : this.activation.keySet()) {
             if (this.activation.get(activeConcepts) == 1) {
@@ -199,16 +197,9 @@ public class PathNode implements Node {
                 }
             }
         }
-            anlyseInferenceCollisions();
+        anlyseInferenceCollisions();
     }
 
-    /**
-     * in function of the double node.
-     * This is an first glance at the implementation where we accept only collision,
-     * from markers where one starts at the question and one at the answer
-     *
-     * @param stepts the processing steps which are to be included into the node.
-     */
     public void in_v06(Collection<SpreadingStep> stepts) {
         for (SpreadingStep step : stepts) {
             if (step.getTargetNode().equals(this)) {
@@ -219,7 +210,6 @@ public class PathNode implements Node {
             }
         }
         setAbduktiveMarkers();
-
         anlyseInferenceCollisions_v6();
     }
 
@@ -237,7 +227,8 @@ public class PathNode implements Node {
                                 if (!((PathMarker) m2).startsAtAnswer()) {
                                     if(InferencePath.matchesWhiteListFromQuestion(((PathMarker) m2).getInferencePath())){
                                         addInferenceCollision(m, m2);
-                                }   }
+                                    }
+                                }
                             }
                         }
                     }
@@ -290,27 +281,10 @@ public class PathNode implements Node {
                             res.append("\n");
                             addInferenceCollision_v2(m,m2);
                         }
-
                     }
                 }
             }
         }
-    }
-
-    private void setAbduktiveMarkers() {
-        for (Marker m : markers) {
-            //m.startsAtQuestion, the path has the length 1 and displays generalisation
-            if (m instanceof PathMarker && !((PathMarker) m).startsAtAnswer()){
-                if (((PathMarker) m).inferencePath.getAbductiveLinkSize()==1
-                        && PathMarkerPassing.matchingWordType(((PathMarker) m).origin.getWordType())
-                        && ((PathMarker) m).inferencePath.visitedNodes.size()==2) {
-                    ((PathMarker)m).setAbduktiveNode(true);
-                    ((PathMarker) m).setActivation(0.0D);
-                    setNodeTermination(true);
-                }
-            }
-        }
-        resetActivation();
     }
 
     private void anlyseInferenceCollisions_v6() {
@@ -335,44 +309,22 @@ public class PathNode implements Node {
         }
     }
 
-    private boolean pathCouldMatchWhitelist_v2(Marker marker, Link link) {
-
-        boolean res=true;
-
-        if (((PathMarker) marker).getInferencePath().isNodeOnPath(link.getTarget()))
-            return false;
-
-        if (PathMarkerPassingConfig.bAbductiveInference) {
-            if (link instanceof AntonymLink || ((PathMarker) marker).getInferencePath().containsAntonymLink)
-                res = false;
-            else if (((PathMarker) marker).getInferencePath().containsHyponymLink && ((PathMarker) marker).startsAtAnswer())
-                res = false;
-            else if (((PathMarker) marker).startsAtAnswer() == false && ((PathMarker) marker).getInferencePath().containsHypernymLink)
-                res = false;
+    private void setAbduktiveMarkers() {
+        for (Marker m : markers) {
+            //m.startsAtQuestion, the path has the length 1 and displays generalisation
+            if (m instanceof PathMarker && !((PathMarker) m).startsAtAnswer()){
+                if (((PathMarker) m).inferencePath.getAbductiveLinkSize()==1
+                        && PathMarkerPassing.matchingWordType(((PathMarker) m).origin.getWordType())
+                        && ((PathMarker) m).inferencePath.visitedNodes.size()==2) {
+                    ((PathMarker)m).setAbduktiveNode(true);
+                    ((PathMarker) m).setActivation(0.0D);
+                    setNodeTermination(true);
+                }
+            }
         }
-
-        if (res == false)
-            ((PathMarker)marker).setActivation(0.0);
-
-        return res;
+        resetActivation();
     }
 
-    private void addInferenceCollision_v2(Marker m, Marker m2) {
-        if (PathMarkerPassingConfig.bAbductiveInference){
-            containsWhiteListLink =
-                    (((PathMarker) m).inferencePath.containsHypernymLink
-                        || ((PathMarker) m2).inferencePath.containsHyponymLink);
-
-        }else{
-            containsWhiteListLink=true;
-        }
-
-        InferenceCollision tmp = new InferenceCollision((PathMarker) m, (PathMarker) m2, containsWhiteListLink);
-        for(InferenceCollision ic: inferenceCollisions)
-            if(ic.equals(tmp))
-                return;
-        inferenceCollisions.add(tmp);
-    }
 
     //TODO: more generic way (whitelist pattern should only be configured at one place)
     private void addInferenceCollision(Marker m, Marker m2) {
@@ -385,9 +337,10 @@ public class PathNode implements Node {
                     || ((PathMarker) m2).inferencePath.containsMeronymLink
                     || ((PathMarker) m2).inferencePath.containsHyponymLink);
 
-        }else{
+        } else {
             containsWhiteListLink=true;
         }
+        //todo-testing-uniqueness
         InferenceCollision tmp = new InferenceCollision((PathMarker) m, (PathMarker) m2, containsWhiteListLink);
         for(InferenceCollision ic: inferenceCollisions)
             if(ic.equals(tmp))
@@ -395,6 +348,21 @@ public class PathNode implements Node {
         inferenceCollisions.add(tmp);
     }
 
+    private void addInferenceCollision_v2(Marker m, Marker m2) {
+        if (PathMarkerPassingConfig.bAbductiveInference){
+            containsWhiteListLink =
+                    (((PathMarker) m).inferencePath.containsHypernymLink
+                            || ((PathMarker) m2).inferencePath.containsHyponymLink);
+        } else {
+            containsWhiteListLink=true;
+        }
+        //todo-testing-uniqueness
+        InferenceCollision tmp = new InferenceCollision((PathMarker) m, (PathMarker) m2, containsWhiteListLink);
+        for(InferenceCollision ic: inferenceCollisions)
+            if(ic.equals(tmp))
+                return;
+        inferenceCollisions.add(tmp);
+    }
     private void addInferenceCollision_v6(Marker m, Marker m2) {
         if (PathMarkerPassingConfig.bAbductiveInference){
             containsWhiteListLink = (((PathMarker) m).inferencePath.containsSynonymLink
@@ -409,6 +377,7 @@ public class PathNode implements Node {
         }else{
             containsWhiteListLink=true;
         }
+        //todo-testing-uniqueness
         InferenceCollision tmp = new InferenceCollision((PathMarker) m, (PathMarker) m2, containsWhiteListLink);
         for(InferenceCollision ic: inferenceCollisions)
             if(ic.equals(tmp))
@@ -461,20 +430,6 @@ public class PathNode implements Node {
         return spreadingSteps;
     }
 
-    /**
-     * @return the static method InferencePath.pathMatchesWithLitsWithAdditionalLink...
-     */
-    private static boolean pathCouldMatchWhitelist_v001(Marker marker, Link link) {
-        if (((PathMarker) marker).getInferencePath().isNodeOnPath(link.getTarget()))
-            return false;
-        else {
-            if (((PathMarker) marker).startsAtAnswer()) {
-                return InferencePath.pathMatchesWhiteListWithAdditionalLink_v001(((PathMarker) marker).getInferencePath(), link);
-            }
-                return ! (link instanceof AntonymLink);
-            }
-
-    }
 
     /**
      * @return the static method InferencePath.pathMatchesWithLitsWithAdditionalLink...
@@ -498,6 +453,42 @@ public class PathNode implements Node {
         }
     }
 
+    /**
+     * @return the static method InferencePath.pathMatchesWithLitsWithAdditionalLink...
+     */
+    private static boolean pathCouldMatchWhitelist_v001(Marker marker, Link link) {
+        if (((PathMarker) marker).getInferencePath().isNodeOnPath(link.getTarget()))
+            return false;
+        else {
+            if (((PathMarker) marker).startsAtAnswer()) {
+                return InferencePath.pathMatchesWhiteListWithAdditionalLink_v001(((PathMarker) marker).getInferencePath(), link);
+            }
+            return ! (link instanceof AntonymLink);
+        }
+
+    }
+
+
+    private boolean pathCouldMatchWhitelist_v2(Marker marker, Link link) {
+        boolean res=true;
+
+        if (((PathMarker) marker).getInferencePath().isNodeOnPath(link.getTarget()))
+            return false;
+        if (PathMarkerPassingConfig.bAbductiveInference) {
+            if (link instanceof AntonymLink || ((PathMarker) marker).getInferencePath().containsAntonymLink)
+                res = false;
+            else if (((PathMarker) marker).getInferencePath().containsHyponymLink && ((PathMarker) marker).startsAtAnswer())
+                res = false;
+            else if (((PathMarker) marker).startsAtAnswer() == false && ((PathMarker) marker).getInferencePath().containsHypernymLink)
+                res = false;
+        }
+
+        if (res == false)
+            ((PathMarker)marker).setActivation(0.0);
+        return res;
+    }
+
+
     private boolean pathAlreadyExists(Marker marker, Link link) {
         tmpMarker = new PathMarker((PathMarker) marker, link);
         for (Marker marker1 : getMarkers())
@@ -508,12 +499,6 @@ public class PathNode implements Node {
         return false;
     }
 
-    /**
-     * get Markers for the given link.
-     *
-     * @param link the link to get the marker for
-     * @return list of markers to be bast to the given link.
-     */
     public Collection<Marker> getMarkersForLink(PathMarker marker, Link link) {
         Collection<Marker> markers = new ArrayList<>();
         PathMarker marker4link = new PathMarker(marker, link);

@@ -60,6 +60,9 @@ public class InferenceCollision {
                 + 0.5 *( m2.getInferencePath().getAbductiveValue());
     }
 
+    /*
+    //todo refactoring - abduction shown that way ?
+    */
     public int getAbductions(){
         return m1.inferencePath.getAbductiveLinkSize()+m2.getInferencePath().getAbductiveLinkSize();
     }
@@ -72,11 +75,10 @@ public class InferenceCollision {
         return (0.5 * (m1.inferencePath.getPathSpecifity()+m2.inferencePath.getPathSpecifity()));
     }
 
-    /**
-     * a value less to 1 indicates less generalisation per step and therefore a closer relation between two concepts.
-     * @param ic2
-     * @return
-     */
+    /*
+    //  a value less to 1 indicates less generalisation per step and therefore a closer relation between two concepts.
+    //todo-testing: verify through tests and verify through statistic analysis
+    */
     public boolean compare(InferenceCollision ic2){
         if(this.getAbductions()< ic2.getAbductions())
             return true;
@@ -91,6 +93,9 @@ public class InferenceCollision {
             return false;
     }
 
+     /*
+     // todo-refactoring : part of what experiment
+     */
     public boolean compare_v7(InferenceCollision ic2){
         if(this.getSpecificity()>= ic2.getSpecificity())
             return true;
@@ -98,6 +103,9 @@ public class InferenceCollision {
             return false;
     }
 
+    public boolean equals(InferenceCollision ic2){
+        return m1.equals(ic2.m1) && m2.equals(ic2.m2) && answerNo==ic2.answerNo && containsWhiteListLink==ic2.containsWhiteListLink;
+    }
 
     @Override
     public String toString(){
@@ -130,7 +138,4 @@ public class InferenceCollision {
         return res.toString();
     }
 
-    public boolean equals(InferenceCollision ic2){
-        return m1.equals(ic2.m1) && m2.equals(ic2.m2) && answerNo==ic2.answerNo && containsWhiteListLink==ic2.containsWhiteListLink;
-    }
 }
