@@ -143,7 +143,7 @@ class QuestionClassifier {
         }
 
 
-        StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+        StanfordCoreNLP stanPipeline = AnalyseUtil.tokenizePipeline();
         CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
         WordNetCrawler wordNetCrawler = new WordNetCrawler();
         wordNetCrawler.initWordNet();
@@ -226,7 +226,7 @@ class QuestionClassifier {
             List<String> list = new ArrayList<>();
 
 
-            StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
             WordNetCrawler wordNetCrawler = new WordNetCrawler();
             wordNetCrawler.initWordNet();
@@ -323,7 +323,7 @@ class QuestionClassifier {
         List<String> list = new ArrayList<>();
 
 
-        StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+        StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
         CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
         WordNetCrawler wordNetCrawler = new WordNetCrawler();
         wordNetCrawler.initWordNet();
@@ -450,7 +450,7 @@ class QuestionClassifier {
             List<String> list = new ArrayList<>();
 
 
-            StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
             WordNetCrawler wordNetCrawler = new WordNetCrawler();
             wordNetCrawler.initWordNet();
@@ -568,7 +568,7 @@ class QuestionClassifier {
         List<String> list = new ArrayList<>();
 
 
-        StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+        StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
         CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
         WordNetCrawler wordNetCrawler = new WordNetCrawler();
         wordNetCrawler.initWordNet();

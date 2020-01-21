@@ -6,12 +6,9 @@
  *
  */
 
-import com.google.common.collect.BiMap;
 import de.dailab.nsm.decomposition.AnalyseUtil;
 import de.dailab.nsm.decomposition.Concept;
 import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
 import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 import de.tuberlin.spreadalgo.Marker;
 import de.tuberlin.spreadalgo.Node;
@@ -21,7 +18,6 @@ import edu.stanford.nlp.semgraph.SemanticGraphEdge;
 import org.jgrapht.Graph;
 import se.lth.cs.srl.CompletePipeline;
 
-import java.text.DecimalFormat;
 import java.util.*;
 
 public class QuestionAnswer {
@@ -144,7 +140,7 @@ public class QuestionAnswer {
 
             Decomposition decomposition = new Decomposition();
             decomposition.init();
-            StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
 
             System.out.println(q.getQuestionContent());
@@ -384,7 +380,7 @@ public class QuestionAnswer {
 
             Decomposition decomposition = new Decomposition();
             decomposition.init();
-            StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
 
             System.out.println(q.getQuestionContent());
