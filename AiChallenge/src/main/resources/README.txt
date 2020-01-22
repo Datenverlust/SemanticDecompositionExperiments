@@ -32,4 +32,4 @@ Trouble shooting:
 /////////////////////////
 
 Wikipedia DB not set up right? (aka some Parser exceptions during the parsing of Wikipedia)
-    Run the initializer form de.dailab.nsm.decomposition.dictionaries.wiktionary.WiktionaryCrawler main mothode.
+    Run the initializer form de.kimanufaktur.nsm.decomposition.dictionaries.wiktionary.WiktionaryCrawler main mothode.

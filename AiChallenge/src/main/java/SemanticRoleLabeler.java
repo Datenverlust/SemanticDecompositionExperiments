@@ -6,8 +6,8 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
 import se.lth.cs.srl.CompletePipeline;
 import se.lth.cs.srl.corpus.Predicate;
 import se.lth.cs.srl.corpus.Sentence;

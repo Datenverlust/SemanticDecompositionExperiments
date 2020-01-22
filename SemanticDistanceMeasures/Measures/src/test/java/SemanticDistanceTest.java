@@ -6,13 +6,13 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 
@@ -32,7 +32,7 @@ public abstract class SemanticDistanceTest {
 
     public SemanticDistanceTest() {
         /*
-        Load de.dailab.nsm.semanticDistanceMeasures.data sets
+        Load de.kimanufaktur.nsm.semanticDistanceMeasures.data sets
          */
 //        WordSim353DataSet wordSim353DataSet = new WordSim353DataSet();
 //        datasets.add(wordSim353DataSet);

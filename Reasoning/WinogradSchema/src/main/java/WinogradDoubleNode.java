@@ -6,22 +6,21 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.graph.entities.links.*;
-import de.dailab.nsm.decomposition.graph.entities.marker.DoubleMarkerWithOrigin;
-import de.dailab.nsm.decomposition.graph.entities.nodes.DoubleNodeWithMultipleThresholds;
-import de.dailab.nsm.decomposition.graph.entities.relations.Hyponym;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Link;
-import de.tuberlin.spreadalgo.Marker;
-import de.tuberlin.spreadalgo.SpreadingStep;
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.markerpassing.SpreadingStep;
+import de.kimanufaktur.nsm.decomposition.Concept;
+
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.graph.entities.links.*;
+import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin;
+import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds;
+import de.kimanufaktur.nsm.graph.entities.relations.Hyponym;
 import links.NerLink;
 import links.RoleLink;
 import links.SyntaxLink;
 
 import java.util.*;
-import java.util.List;
-import java.util.LinkedList;
 
 /**
  * Created by Hannes on 03.04.2017.

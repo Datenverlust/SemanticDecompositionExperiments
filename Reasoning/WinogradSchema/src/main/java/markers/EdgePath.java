@@ -8,7 +8,7 @@
 
 package markers;
 
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
 
 import java.util.ArrayList;
 import java.util.List;

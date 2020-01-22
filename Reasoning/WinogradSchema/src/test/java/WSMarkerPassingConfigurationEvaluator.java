@@ -6,10 +6,10 @@
  *
  */
 
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.MarkerPassingConfigurationEvaluator;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.NfoldCrossvalidation;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.ParameterLearner.MarkerPassingConfigurationEvaluator;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.NfoldCrossvalidation;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
 
 import java.util.List;
 

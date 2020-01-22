@@ -6,18 +6,18 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.Evaluation;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.MarkerPassingSemanticDistanceMeasure;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
-import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
-import de.dailab.nsm.semanticDistanceMeasures.measures.BDOS;
-import de.dailab.nsm.semanticDistanceMeasures.measures.ELKB;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.WordType;
+import de.kimanufaktur.nsm.decomposition.graph.Evaluation;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingSemanticDistanceMeasure;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.measures.BDOS;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.measures.ELKB;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.junit.Before;
@@ -91,7 +91,7 @@ public class Rubenstein1965Test {
         if (semanticDistanceMarkerPassing == null) {
             semanticDistanceMarkerPassing = new MarkerPassingSemanticDistanceMeasure();
         }
-        //Load de.dailab.nsm.semanticDistanceMeasures.data sets
+        //Load de.kimanufaktur.nsm.semanticDistanceMeasures.data sets
         //1
 //        WordSim353DataSet wordSim353DataSet = new WordSim353DataSet();
 //        datasets.add(wordSim353DataSet);

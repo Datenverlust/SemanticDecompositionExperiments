@@ -6,9 +6,9 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
 import edges.NerEdge;
 import edges.RoleEdge;
 import edges.SyntaxEdge;

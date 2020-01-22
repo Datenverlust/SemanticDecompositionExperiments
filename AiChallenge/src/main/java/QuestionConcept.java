@@ -6,7 +6,7 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Concept;
 
 public class QuestionConcept extends Concept {
 

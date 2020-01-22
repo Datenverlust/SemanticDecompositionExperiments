@@ -6,10 +6,10 @@
  *
  */
 
-import de.dailab.nsm.decomposition.graph.Evaluation;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
+import de.kimanufaktur.nsm.decomposition.graph.Evaluation;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

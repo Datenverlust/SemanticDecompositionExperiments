@@ -8,15 +8,16 @@
 
 package test;
 
-import basics.InferencePath;
-import basics.MeronymLink;
-import de.dailab.nsm.decomposition.graph.entities.links.AntonymLink;
-import de.dailab.nsm.decomposition.graph.entities.links.HypernymLink;
-import de.dailab.nsm.decomposition.graph.entities.links.HyponymLink;
-import de.dailab.nsm.decomposition.graph.entities.links.SynonymLink;
-import de.tuberlin.spreadalgo.Link;
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.nsm.graph.entities.links.AntonymLink;
+import de.kimanufaktur.nsm.graph.entities.links.HyponymLink;
+import de.kimanufaktur.nsm.graph.entities.links.SynonymLink;
+import de.kimanufaktur.nsm.reasoning.InferencePath;
+import de.kimanufaktur.nsm.reasoning.MeronymLink;
+
 import org.junit.Before;
 import org.junit.Test;
+
 
 import java.util.ArrayList;
 import java.util.List;

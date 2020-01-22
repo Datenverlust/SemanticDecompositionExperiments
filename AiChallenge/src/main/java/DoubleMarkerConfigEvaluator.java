@@ -6,25 +6,10 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.Definition;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.LearnMPParameters;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.ParamerterLearningExperimentGeneticAlgorithm;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.TypedMarkerPassingConfig;
-import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.semgraph.SemanticGraphEdge;
-import org.jgrapht.Graph;
-import org.uncommons.watchmaker.framework.FitnessEvaluator;
-import se.lth.cs.srl.CompletePipeline;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 
-import java.security.SecureRandom;
-import java.util.*;
-import java.util.concurrent.Callable;
-import java.util.concurrent.Future;
+import java.util.List;
+import java.util.Map;
 
 /**
  * Created by root on 28.12.15.

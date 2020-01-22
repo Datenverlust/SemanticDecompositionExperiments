@@ -6,8 +6,8 @@
  *
  */
 
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.util.*;
 

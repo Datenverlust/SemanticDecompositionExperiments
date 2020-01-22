@@ -8,13 +8,12 @@
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.Definition;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
-import de.dailab.nsm.decomposition.graph.entities.links.*;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.*;
+import de.kimanufaktur.markerpassing.*;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.Definition;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.graph.entities.links.*;
 import edges.NerEdge;
 import edges.RoleEdge;
 import edges.SyntaxEdge;
@@ -29,7 +28,7 @@ import java.util.*;
 /**
  * Created by Hannes on 30.03.2017.
  */
-public class WinogradDoubleMarkerPassing extends SpreadingAlgorithm{
+public class WinogradDoubleMarkerPassing extends SpreadingAlgorithm {
 
 
     int pulsecount = 0;

@@ -7,14 +7,14 @@
  */
 
 package test;
-import basics.*;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.Definition;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Marker;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.Definition;
+import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.reasoning.*;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 import org.junit.Before;

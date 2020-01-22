@@ -6,11 +6,11 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.data.*;
-import de.dailab.nsm.semanticDistanceMeasures.measures.ELKB;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.*;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.measures.ELKB;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -105,7 +105,7 @@ public class ELKTest {
 
 
     public static void init() {
-        //Load de.dailab.nsm.semanticDistanceMeasures.data sets
+        //Load de.kimanufaktur.nsm.semanticDistanceMeasures.data sets
         //1
         WordSim353DataSet wordSim353DataSet = new WordSim353DataSet();
         datasets.add(wordSim353DataSet);

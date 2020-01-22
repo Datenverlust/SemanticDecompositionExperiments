@@ -7,7 +7,7 @@
  */
 
 import com.opencsv.CSVReader;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

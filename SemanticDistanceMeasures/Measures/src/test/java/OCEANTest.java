@@ -7,10 +7,10 @@
  */
 
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.WordType;
+import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 

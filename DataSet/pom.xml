@@ -13,24 +13,24 @@
 
     <parent>
         <artifactId>Experiments</artifactId>
-        <groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>
+        <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
         <version>0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>
+    <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
     <artifactId>DataSet</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>de.dailab.NSM.NaturalSemanticMetalanguage.SemanticDistanceMeasures</groupId>
+            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage.SemanticDistanceMeasures</groupId>
             <artifactId>SemanticDistanceMeasureAPI</artifactId>
             <version>${project.version}</version>
         </dependency>
 
         <!--<dependency>-->
-            <!--<groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>-->
+            <!--<groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>-->
             <!--<artifactId>SemanticEmoji</artifactId>-->
             <!--<version>0.1</version>-->
             <!--<scope>compile</scope>-->

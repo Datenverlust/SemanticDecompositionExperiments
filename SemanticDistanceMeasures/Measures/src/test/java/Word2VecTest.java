@@ -6,12 +6,12 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.WordSim353DataSet;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -40,7 +40,7 @@ public Word2VecTest(){
 
     @Before
     public void init() {
-        //Load de.dailab.nsm.semanticDistanceMeasures.data sets
+        //Load de.kimanufaktur.nsm.semanticDistanceMeasures.data sets
         //1
         WordSim353DataSet wordSim353DataSet = new WordSim353DataSet();
         datasets.add(wordSim353DataSet);
@@ -87,7 +87,7 @@ public Word2VecTest(){
         System.out.println("total Failure " + totalFailure);
         averageFailure = totalFailure / i;
         System.out.println("average Failure " + averageFailure);
-        /*for (de.dailab.nsm.semanticDistanceMeasures.SynonymPair pair : testSynonymPairs) {
+        /*for (de.kimanufaktur.nsm.semanticDistanceMeasures.SynonymPair pair : testSynonymPairs) {
             System.out.println(pair.getString1() + ";" + pair.getString2() + ";" + pair.getResult() + ";" + pair.getDistance());
         }*/
 

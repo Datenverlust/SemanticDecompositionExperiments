@@ -4,7 +4,7 @@ SciQ is a dataset of Science Questions, available at http://data.allenai.org/sci
 Dataset split size:
 11679 training instances
 1000 validation instances
-1000 de.dailab.nsm.experiments.abductiveReasoning.test instances
+1000 de.kimanufaktur.nsm.experiments.abductiveReasoning.test instances
 
 
 The questions in SciQ were composed by crowdworkers who were instructed to write a question based on short supporting text snippets from a science text book. The dataset creation process is described in detail in the paper [1].
@@ -16,7 +16,7 @@ i) as a Reading Comprehension dataset, where the goal is to answer the question 
 ii) as a Multiple Choice QA dataset, where the goal is to choose the correct option given any material available.
 
 
-The majority of questions comes with the supporting text snippet (10481 in train, 887 in validation, and 884 in de.dailab.nsm.experiments.abductiveReasoning.test). However, some questions were obtained from unreleasable texts. For these, the string with the supporting document is empty and setting i) excludes these examples.
+The majority of questions comes with the supporting text snippet (10481 in train, 887 in validation, and 884 in de.kimanufaktur.nsm.experiments.abductiveReasoning.test). However, some questions were obtained from unreleasable texts. For these, the string with the supporting document is empty and setting i) excludes these examples.
 
 
 For questions, feedback or comments, please reach out to one of the authors:

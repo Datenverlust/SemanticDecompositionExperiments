@@ -6,16 +6,16 @@
  *
  */
 
-import de.dailab.nsm.decomposition.AnalyseUtil;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.Definition;
-import de.dailab.nsm.decomposition.graph.entities.links.*;
-import de.dailab.nsm.decomposition.graph.entities.marker.DoubleMarkerWithOrigin;
-import de.dailab.nsm.decomposition.graph.entities.relations.Hyponym;
-import de.tuberlin.spreadalgo.Link;
-import de.tuberlin.spreadalgo.Marker;
-import de.tuberlin.spreadalgo.Node;
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.markerpassing.Node;
+import de.kimanufaktur.nsm.decomposition.AnalyseUtil;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.Definition;
+import de.kimanufaktur.nsm.graph.entities.links.*;
+import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin;
+import de.kimanufaktur.nsm.graph.entities.relations.Hyponym;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import links.NerLink;
 import links.RoleLink;

@@ -8,8 +8,8 @@
 
 package edges;
 
-import de.dailab.nsm.decomposition.graph.edges.EdgeType;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
 
 /**
  * Created by Hannes on 30.03.2017.

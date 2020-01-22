@@ -9,13 +9,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>de.dailab.NSM.NaturalSemanticMetalanguage.Experiments</groupId>
+        <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage.Experiments</groupId>
         <artifactId>SemanticDistanceMeasures</artifactId>
         <version>0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.dailab.NSM.NaturalSemanticMetalanguage.Experiments.SemanticDistanceMeasures</groupId>
+    <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage.Experiments.SemanticDistanceMeasures</groupId>
     <artifactId>Word2Vec</artifactId>
     <packaging>jar</packaging>
     <name>Deep Learning Neuronal Netword Vector Space</name>
@@ -23,7 +23,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>de.dailab.NSM.Decomposition</groupId>
+            <groupId>de.kimanufaktur.NSM.Decomposition</groupId>
             <artifactId>SemanticDecomposition</artifactId>
             <version>${project.version}</version>
         </dependency>

@@ -6,9 +6,9 @@
  *
  */
 
-import de.dailab.nsm.decomposition.DecompositionConfig;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.ParamerterLearningExperimentGeneticAlgorithm;
+import de.kimanufaktur.nsm.decomposition.DecompositionConfig;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.ParamerterLearningExperimentGeneticAlgorithm;
 
 import java.io.BufferedWriter;
 import java.io.File;

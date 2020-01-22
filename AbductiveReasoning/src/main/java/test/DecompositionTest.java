@@ -8,20 +8,21 @@
 
 package test;
 
-import basics.PathMarker;
-import basics.PathMarkerPassing;
-import basics.PathNode;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.Definition;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.decomposition.graph.edges.WeightedEdge;
-import de.dailab.nsm.decomposition.graph.entities.links.HyponymLink;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Link;
-import de.tuberlin.spreadalgo.Marker;
-import de.tuberlin.spreadalgo.Node;
-import de.tuberlin.spreadalgo.TerminationCondition;
+import de.kimanufaktur.nsm.reasoning.PathMarker;
+
+import de.kimanufaktur.nsm.reasoning.PathMarkerPassing;
+import de.kimanufaktur.nsm.reasoning.PathNode;
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.markerpassing.Node;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.Definition;
+import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+
+import de.kimanufaktur.nsm.graph.entities.links.HyponymLink;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 import org.junit.Before;
@@ -31,7 +32,6 @@ import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class DecompositionTest {

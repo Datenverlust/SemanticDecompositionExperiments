@@ -6,7 +6,7 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Concept;
 
 /**
  * Created by Hannes on 05.04.2017.

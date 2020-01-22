@@ -12,7 +12,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>Experiments</artifactId>
-        <groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>
+        <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
         <version>0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -38,18 +38,18 @@
         <!--</dependency>-->
 
         <dependency>
-            <groupId>de.dailab.NSM.NaturalSemanticMetalanguage.Experiments</groupId>
+            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage.Experiments</groupId>
             <artifactId>SentenceSenseDisambiguation</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>de.dailab.NSM.Decomposition</groupId>
+            <groupId>de.kimanufaktur.NSM.Decomposition</groupId>
             <artifactId>SemanticDecomposition</artifactId>
             <version>${project.version}</version>
             <!--<scope>compile</scope>-->
         </dependency>
         <dependency>
-            <groupId>de.dailab.NSM.NaturalSemanticMetalanguage</groupId>
+            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
             <artifactId>SemanticNetwork</artifactId>
             <version>${project.version}</version>
             <!--<scope>compile</scope>-->

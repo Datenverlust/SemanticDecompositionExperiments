@@ -6,12 +6,12 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
-import de.dailab.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
-import de.dailab.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
-import de.dailab.nsm.semanticDistanceMeasures.measures.BDOS;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.Rubenstein1965Dataset;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.data.WordSimilarityDataSet;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.measures.BDOS;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -41,7 +41,7 @@ public class BDOSTests {
     @Before
     public void init() {
         bdos = new BDOS();
-        //Load de.dailab.nsm.semanticDistanceMeasures.data sets
+        //Load de.kimanufaktur.nsm.semanticDistanceMeasures.data sets
         //1
         Rubenstein1965Dataset rubenstein1965Dataset = new Rubenstein1965Dataset();
         datasets.add(rubenstein1965Dataset);
@@ -106,14 +106,14 @@ public class BDOSTests {
             TestHelpers.filterFar(testSimilarityPairs);
             //System.out.println("Testing Dataset number " + i);
             comparisonTest();
-            testSimilarityPairs = new ArrayList<de.dailab.nsm.semanticDistanceMeasures.DataExample>();
+            testSimilarityPairs = new ArrayList<de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample>();
         }
         /*System.out.println("Failure for all Datasets");
         for (WordSimilarityDataSet dataSet : datasets) {
             testSynonymPairs.addAll(dataSet.ReadExampleDataSet());
         }
         comparisonTest();*/
-        testSimilarityPairs = new ArrayList<de.dailab.nsm.semanticDistanceMeasures.DataExample>();
+        testSimilarityPairs = new ArrayList<de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample>();
     }
 
 }

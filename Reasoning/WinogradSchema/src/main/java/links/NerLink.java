@@ -8,7 +8,8 @@
 
 package links;
 
-import de.dailab.nsm.decomposition.graph.entities.links.WeightedLink;
+
+import de.kimanufaktur.nsm.graph.entities.links.WeightedLink;
 
 /**
  * Created by Hannes on 30.03.2017.

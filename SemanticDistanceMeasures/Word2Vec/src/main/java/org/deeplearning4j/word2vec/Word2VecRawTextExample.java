@@ -8,10 +8,9 @@
 
 package org.deeplearning4j.word2vec;
 
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.semanticDistanceMeasures.ReadWriteTextFile;
-import de.dailab.nsm.semanticDistanceMeasures.Word2VecCosineSimilarityMeasure;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.WordType;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.ReadWriteTextFile;
 import org.deeplearning4j.models.embeddings.WeightLookupTable;
 import org.deeplearning4j.models.embeddings.inmemory.InMemoryLookupTable;
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;

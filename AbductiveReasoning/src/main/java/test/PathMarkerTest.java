@@ -8,10 +8,15 @@
 
 package test;
 
-import basics.*;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.graph.entities.links.*;
-import de.tuberlin.spreadalgo.*;
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.nsm.decomposition.Concept;
+
+import de.kimanufaktur.nsm.graph.entities.links.HyponymLink;
+import de.kimanufaktur.nsm.graph.entities.links.SynonymLink;
+import de.kimanufaktur.nsm.reasoning.PathMarker;
+import de.kimanufaktur.nsm.reasoning.PathNode;
+
 import org.junit.*;
 import java.util.*;
 import static org.junit.Assert.assertEquals;

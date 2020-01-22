@@ -6,10 +6,10 @@
  *
  */
 
-import de.dailab.nsm.decomposition.WordType;
-import de.dailab.nsm.decomposition.graph.conceptCache.GraphUtil;
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
-import de.dailab.nsm.semanticDistanceMeasures.SimilarityPair;
+import de.kimanufaktur.nsm.decomposition.WordType;
+import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.SimilarityPair;
 import org.jgrapht.Graph;
 
 import java.util.ArrayList;

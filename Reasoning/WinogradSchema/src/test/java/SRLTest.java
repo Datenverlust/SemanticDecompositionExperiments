@@ -6,8 +6,8 @@
  *
  */
 
-import de.dailab.nsm.decomposition.AnalyseUtil;
-import de.dailab.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.AnalyseUtil;
+import de.kimanufaktur.nsm.decomposition.Concept;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import se.lth.cs.srl.CompletePipeline;

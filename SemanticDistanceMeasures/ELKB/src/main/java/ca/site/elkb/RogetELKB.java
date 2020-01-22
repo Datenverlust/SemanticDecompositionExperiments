@@ -44,7 +44,7 @@ public class RogetELKB {
 	final String path = this.getClass().getResource("../../").getPath();
 	//final String path = System.getProperty("user.home") + File.separator + ".decomposition" + File.separator + "Roget" + File.separator;
 	/***************************************************************************
-	 * Location of the <i>ELKB</i> de.dailab.nsm.semanticDistanceMeasures.data directory.
+	 * Location of the <i>ELKB</i> de.kimanufaktur.nsm.semanticDistanceMeasures.data directory.
 	 **************************************************************************/
 	public  final String ELKB_PATH = System.getProperty("elkb.path",
 			path.substring(0,path.length()-3) + "roget_elkb");

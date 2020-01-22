@@ -6,8 +6,8 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.tuberlin.spreadalgo.Link;
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.nsm.decomposition.Concept;
 
 import java.util.List;
 

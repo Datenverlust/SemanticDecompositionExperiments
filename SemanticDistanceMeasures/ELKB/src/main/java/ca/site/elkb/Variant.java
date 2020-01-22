@@ -38,7 +38,7 @@ public class Variant implements Serializable {
 
 	final String path = this.getClass().getResource("").getPath();
 	/***************************************************************************
-	 * Location of the <i>ELKB</i> de.dailab.nsm.semanticDistanceMeasures.data directory.
+	 * Location of the <i>ELKB</i> de.kimanufaktur.nsm.semanticDistanceMeasures.data directory.
 	 **************************************************************************/
 	public final String ELKB_PATH = System.getProperty("elkb.path",
 			path + "/roget_elkb");

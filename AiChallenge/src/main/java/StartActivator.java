@@ -6,12 +6,12 @@
  *
  */
 
-import de.dailab.nsm.decomposition.AnalyseUtil;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.graph.entities.marker.DoubleMarkerWithOrigin;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Marker;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.nsm.decomposition.AnalyseUtil;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;

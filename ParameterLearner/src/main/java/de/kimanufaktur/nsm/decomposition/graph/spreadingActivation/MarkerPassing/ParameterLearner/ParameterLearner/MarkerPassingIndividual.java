@@ -1,0 +1,15 @@
+/*
+ * Copyright (C) Johannes Fähndrich - All Rights Reserved.
+ * Unauthorized copying of this file, via any medium is strictly
+ * prohibited Proprietary and confidential.
+ * Written by Johannes Fähndrich <faehndrich@gmail.com.com>,  2011
+ *
+ */
+
+package de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner;
+
+/**
+ * Created by faehndrich on 03.04.16.
+ */
+public class MarkerPassingIndividual {
+}

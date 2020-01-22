@@ -6,8 +6,8 @@
  *
  */
 
-import de.dailab.nsm.decomposition.Concept;
-import de.tuberlin.spreadalgo.Marker;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.nsm.decomposition.Concept;
 import org.jgrapht.Graph;
 
 import java.util.List;

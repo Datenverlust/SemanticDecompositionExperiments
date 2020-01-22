@@ -308,7 +308,7 @@ public class Sentence {
 		System.out.println("@attribute 'extendedByB' real");
 		System.out.println("@attribute 'class' {'1','0'}");
 		System.out.println();
-		System.out.println("@de.dailab.nsm.semanticDistanceMeasures.data");
+		System.out.println("@de.kimanufaktur.nsm.semanticDistanceMeasures.data");
 	}
 	
 	/**
@@ -332,7 +332,7 @@ public class Sentence {
 			}
 			bw.write("@attribute 'class' {'1','0'}\n");
 			bw.write("\n");
-			bw.write("@de.dailab.nsm.semanticDistanceMeasures.data\n");
+			bw.write("@de.kimanufaktur.nsm.semanticDistanceMeasures.data\n");
 
 			bw.flush();
 		}

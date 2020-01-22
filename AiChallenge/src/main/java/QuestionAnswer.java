@@ -6,12 +6,13 @@
  *
  */
 
-import de.dailab.nsm.decomposition.AnalyseUtil;
-import de.dailab.nsm.decomposition.Concept;
-import de.dailab.nsm.decomposition.Decomposition;
-import de.dailab.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Marker;
-import de.tuberlin.spreadalgo.Node;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.markerpassing.Node;
+import de.kimanufaktur.nsm.decomposition.AnalyseUtil;
+import de.kimanufaktur.nsm.decomposition.Concept;
+import de.kimanufaktur.nsm.decomposition.Decomposition;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
+
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraphEdge;
@@ -123,7 +124,7 @@ public class QuestionAnswer {
                 }
 
         }
-        Collection<Node> activeNodes = doubleMarkerPassing.getActiveNodes();
+
         doubleMarkerPassing.doubleActivation = new HashMap<>();
 
 
@@ -140,7 +141,7 @@ public class QuestionAnswer {
 
             Decomposition decomposition = new Decomposition();
             decomposition.init();
-            StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.easyPipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
 
             System.out.println(q.getQuestionContent());
@@ -380,7 +381,7 @@ public class QuestionAnswer {
 
             Decomposition decomposition = new Decomposition();
             decomposition.init();
-            StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.easyPipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
 
             System.out.println(q.getQuestionContent());

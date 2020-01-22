@@ -6,7 +6,7 @@
  *
  */
 
-import de.dailab.nsm.semanticDistanceMeasures.DataExample;
+import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
 
 import java.util.HashMap;
 import java.util.List;
