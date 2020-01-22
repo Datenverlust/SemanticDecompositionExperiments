@@ -1,7 +1,7 @@
 package de.kimanufaktur.nsm.emoji;
 
+
 import de.kimanufaktur.nsm.decomposition.Concept;
-import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
 import org.jgrapht.Graph;
 
 import java.io.File;

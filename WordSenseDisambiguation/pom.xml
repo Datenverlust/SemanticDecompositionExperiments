@@ -49,11 +49,6 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>de.tuberlin</groupId>
-            <artifactId>spreadalgo</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-        <dependency>
             <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage.SemanticDistanceMeasures</groupId>
             <artifactId>SemanticDistanceMeasureAPI</artifactId>
             <version>${project.version}</version>

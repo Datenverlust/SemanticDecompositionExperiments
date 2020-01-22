@@ -47,12 +47,12 @@
             <version>0.2-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
-        <dependency>
+<!--        <dependency>
             <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
             <artifactId>EmojiNetCrawler</artifactId>
             <version>0.1</version>
             <scope>compile</scope>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
@@ -62,10 +62,9 @@
         <dependency>
             <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
             <artifactId>WordSenseDisambiguation</artifactId>
-            <version>0.1</version>
-            <scope>compile</scope>
+            <version>0.2-SNAPSHOT</version>
         </dependency>
-        <dependency>
+        <!--<dependency>
             <groupId>org.apache.tinkerpop</groupId>
             <artifactId>gremlin-core</artifactId>
             <version>3.3.3</version>
@@ -74,6 +73,6 @@
             <groupId>com.tinkerpop.blueprints</groupId>
             <artifactId>blueprints-core</artifactId>
             <version>3.3.3</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 </project>
