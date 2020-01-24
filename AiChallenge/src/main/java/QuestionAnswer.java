@@ -141,7 +141,7 @@ public class QuestionAnswer {
 
             Decomposition decomposition = new Decomposition();
             decomposition.init();
-            StanfordCoreNLP stanPipeline = AnalyseUtil.easyPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.tokenizePipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
 
             System.out.println(q.getQuestionContent());
@@ -251,18 +251,9 @@ public class QuestionAnswer {
         System.out.println(q.getQuestionContent());
         System.out.println();
         System.out.print("Annotating schema...");
-
         System.out.println("done.");
-
-
-
-
         try {
-
-
             System.out.println("done.");
-
-
             List<String> answers = new ArrayList<>();
             answers.add(q.anwserA);
             answers.add(q.anwserB);
@@ -291,15 +282,9 @@ public class QuestionAnswer {
             //GraphUtil.saveToGraphML(roleGraph, "D:\\roleDad.GraphML");
             //System.out.println("afgh: "+roleGraph.toString());
             System.out.println("done.");
-
-
             try {
                 Evaluator eva = new Evaluator();
                 List<Map<Concept, List<? extends Marker>>> startActivation = g.startActivation;
-
-
-
-
                 System.out.println("done.");
 
                 System.out.print("Initializing markerpassing...");
@@ -316,72 +301,32 @@ public class QuestionAnswer {
                 Map<String,Double>  result =eva.summe(doubleMarkerPassing,answers);
                 cleanUpMarker(doubleMarkerPassing);
                 return result;
-
-
-
-
             }catch(Exception ex){
                 ex.printStackTrace();
-
             }
-
-
-
-
-
         }catch(Exception e){
             e.printStackTrace();
         }
         return null;
-
     }
-
-
     static Map<String,Double> getAnswerMap(Question q){
         Map<String, Integer> superLinkMap = new HashMap<>();
-
-
         System.out.println();
         System.out.println("QuestionAnswerTest");
         System.out.println();
-
         System.out.print("Initializing...");
         //Decomposition decomposition = new Decomposition();
         //decomposition.init();
-
         System.out.println("done.");
-
-
-
-
-
-
-
-
-
-
         ArrayList<Question> questions = new ArrayList<>();
-
-
-
-
-
         //CONFIG MARKERPASSING
         MarkerPassingConfig.setDecompositionDepth(2);
         //MarkerPassingConfig.setTerminationPulsCount(4);
-
-
-
-
-
-
             clean();
             MarkerPassingConfig.setDecompositionDepth(2);
-
-
             Decomposition decomposition = new Decomposition();
             decomposition.init();
-            StanfordCoreNLP stanPipeline = AnalyseUtil.easyPipeline();
+            StanfordCoreNLP stanPipeline = AnalyseUtil.tokenizePipeline();
             CompletePipeline srlPipeline = SemanticRoleLabeler.getPipeline();
 
             System.out.println(q.getQuestionContent());
@@ -397,16 +342,7 @@ public class QuestionAnswer {
             String questionVerb = DataLoader.getVerbs(tokenized,srlPipeline);
             try {
                 QuestionConcept questionConcept = findConcept(tokenized, questionVerb, q.getQuestionContent(), stanPipeline);
-
-
-
                 System.out.println("done.");
-
-
-
-
-
-
                 System.out.print("Getting syntactic dependencies...");
                 List<List<SemanticGraphEdge>> edgeList = GraphBuilder.getSyntactics(annotation);
                 //here begins a stupid approach to allow reflux of markers
@@ -456,14 +392,6 @@ public class QuestionAnswer {
                 //System.out.println("afgh: "+roleGraph.toString());
                 System.out.println("done.");
                 List<String> excluded = GraphBuilder.excludedAttribute(edgeList, answers, questionConcept);
-
-
-
-
-
-
-
-
                 List<String> concepts = new ArrayList(answers);
                 for(String s : DataLoader.parse(tokenized,srlPipeline)){
                     concepts.add(s);
@@ -471,19 +399,12 @@ public class QuestionAnswer {
                 System.out.println("test2: "+tokenized.toString());
 
                 //Different startactivations
-
                 System.out.print("Setting startmarkers...");
                 List<Concept> allVerbsAndNouns = StartActivator.getAllVerbsAndNouns(tokenized,srlPipeline,stanPipeline,nerMap,answers);
-
-
-
                                 try {
                                     Evaluator eva = new Evaluator();
                                     List<Map<Concept, List<? extends Marker>>> startActivation = null;
-
                                     startActivation = StartActivator.setStartActivation(StartActivator.getAllVerbsNounsAndAdjectives(tokenized, srlPipeline, stanPipeline, nerMap, answers));
-
-
                                     System.out.println("done.");
 
                                     System.out.print("Initializing markerpassing...");
@@ -498,18 +419,9 @@ public class QuestionAnswer {
                                     System.out.println("done.");
                                     System.out.println();
                                     return eva.summe(doubleMarkerPassing,answers);
-
-
-
                                 }catch(Exception ex){
                                     ex.printStackTrace();
-
                                 }
-
-
-
-
-
             }catch(Exception e){
                 e.printStackTrace();
             }

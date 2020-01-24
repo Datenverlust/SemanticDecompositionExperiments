@@ -16,7 +16,7 @@ import de.kimanufaktur.nsm.decomposition.WordType;
 import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.DoubleSpreadingActivation.DoubleSpreadingActivation;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing;
-import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.SemanticDistanceTest;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.ParameterLearner.SemanticDistanceTest;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.TestRunnable;
 import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin;
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds;

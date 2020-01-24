@@ -12,7 +12,7 @@ package de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassin
 import de.kimanufaktur.nsm.decomposition.WordType;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingSemanticDistanceMeasure;
-import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.SemanticDistanceTest;
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.ParameterLearner.SemanticDistanceTest;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.ParameterLearner.TestRunnable;
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds;
 import de.kimanufaktur.nsm.semanticDistanceMeasures.DataExample;
