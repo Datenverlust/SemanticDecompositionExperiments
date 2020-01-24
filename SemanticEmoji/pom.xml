@@ -12,17 +12,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>Experiments</artifactId>
-        <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+        <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
         <version>0.2-SNAPSHOT</version>
         <!--relativePath>../pom.xml</relativePath-->
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+    <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
     <artifactId>SemanticEmoji</artifactId>
     <dependencies>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.Decomposition</groupId>
+            <groupId>de.kimanufaktur.nsm.Decomposition</groupId>
             <artifactId>SemanticDecomposition</artifactId>
             <version>0.2-SNAPSHOT</version>
         </dependency>
@@ -42,13 +42,13 @@
             <version>1.0.2</version>
         </dependency>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+            <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
             <artifactId>SemanticNetwork</artifactId>
             <version>0.2-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 <!--        <dependency>
-            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+            <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
             <artifactId>EmojiNetCrawler</artifactId>
             <version>0.1</version>
             <scope>compile</scope>
@@ -60,7 +60,7 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+            <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
             <artifactId>WordSenseDisambiguation</artifactId>
             <version>0.2-SNAPSHOT</version>
         </dependency>

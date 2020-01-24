@@ -9,13 +9,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+        <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
         <artifactId>Experiments</artifactId>
         <version>0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+    <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
     <artifactId>WordSenseDisambiguation</artifactId>
     <packaging>jar</packaging>
 
@@ -44,17 +44,17 @@
             <version>3.3</version>
         </dependency>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.Decomposition</groupId>
+            <groupId>de.kimanufaktur.nsm.Decomposition</groupId>
             <artifactId>SemanticDecomposition</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage.SemanticDistanceMeasures</groupId>
+            <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage.SemanticDistanceMeasures</groupId>
             <artifactId>SemanticDistanceMeasureAPI</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+            <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
             <artifactId>SemanticNetwork</artifactId>
             <version>${project.version}</version>
         </dependency>
@@ -145,7 +145,7 @@
             <version>2.5.0</version>
         </dependency>
         <dependency>
-            <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+            <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
             <artifactId>SemanticNetwork</artifactId>
             <version>0.2-SNAPSHOT</version>
             <scope>compile</scope>

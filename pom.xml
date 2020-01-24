@@ -12,13 +12,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>NaturalSemanticMetalanguage</artifactId>
-        <groupId>de.kimanufaktur.NSM</groupId>
+        <groupId>de.kimanufaktur.nsm</groupId>
         <version>0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
 
-    <groupId>de.kimanufaktur.NSM.NaturalSemanticMetalanguage</groupId>
+    <groupId>de.kimanufaktur.nsm.NaturalSemanticMetalanguage</groupId>
     <artifactId>Experiments</artifactId>
 
 
