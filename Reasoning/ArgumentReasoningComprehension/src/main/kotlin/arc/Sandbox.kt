@@ -17,7 +17,7 @@ fun main() {
             ?.forEach { (request, senses) ->
                 println("sentence: ${request.sentence}")
                 println("word to disambiguate: ${request.sentence.split("""\s+""".toRegex())[request.targetIndex]}")
-                println("matching sense: ${senses.map{it.gloss+ " " + it.senseKey}.joinToString(" & ")}")
+                println("matching sense: ${senses.map{it.gloss+ " - " + it.senseKey}.joinToString(" & ")}")
                 println()
             }
     }
