@@ -6,19 +6,19 @@
  *
  */
 
+import de.kimanufaktur.markerpassing.Link;
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.markerpassing.Node;
 import de.kimanufaktur.nsm.decomposition.AnalyseUtil;
 import de.kimanufaktur.nsm.decomposition.Concept;
 import de.kimanufaktur.nsm.decomposition.Decomposition;
 import de.kimanufaktur.nsm.decomposition.Definition;
 import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
-import de.kimanufaktur.nsm.decomposition.graph.entities.links.*;
-import de.kimanufaktur.nsm.decomposition.graph.entities.marker.DoubleMarkerWithOrigin;
-import de.kimanufaktur.nsm.decomposition.graph.entities.relations.Hyponym;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Link;
-import de.tuberlin.spreadalgo.Marker;
-import de.tuberlin.spreadalgo.Node;
+import de.kimanufaktur.nsm.graph.entities.links.*;
+import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin;
+import de.kimanufaktur.nsm.graph.entities.relations.Hyponym;
 import edges.NerEdge;
 import edges.RoleEdge;
 import edu.stanford.nlp.ling.CoreAnnotations;
@@ -869,7 +869,7 @@ public class WSTest {
         Collection<Node> activeNodes = doubleMarkerPassing.getActiveNodes();
         int totalNodeCount = 0;
         Map<String, Integer> perSchemaLinkMap = new HashMap<>();
-        StanfordCoreNLP stanPipeline = AnalyseUtil.getPipeline();
+        StanfordCoreNLP stanPipeline = AnalyseUtil.getFullPipeline();
         List<String> lemmatizedAnswers = new LinkedList<>();
 
         for (Node knoten: activeNodes) {
@@ -1500,7 +1500,7 @@ public class WSTest {
 
             schemaCounter++;
             //Annotate the schema
-            Annotation annotation = AnalyseUtil.getAnnotation(schema.getText(), AnalyseUtil.getPipeline());
+            Annotation annotation = AnalyseUtil.getAnnotation(schema.getText(), AnalyseUtil.getFullPipeline());
             List<List<String>> tokenized = AnalyseUtil.tokenizeText(annotation);
 
             //find ponoun concept
@@ -1760,7 +1760,7 @@ public class WSTest {
 
     public static void init() {
         if (stanPipeline == null) {
-            stanPipeline = AnalyseUtil.getPipeline();
+            stanPipeline = AnalyseUtil.getFullPipeline();
         }
         if (srlPipeline == null) {
             srlPipeline = SemanticRoleLabeler.getPipeline();

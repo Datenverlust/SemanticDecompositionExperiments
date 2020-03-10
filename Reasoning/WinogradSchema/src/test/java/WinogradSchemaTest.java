@@ -6,17 +6,17 @@
  *
  */
 
+import de.kimanufaktur.markerpassing.Marker;
+import de.kimanufaktur.markerpassing.Node;
 import de.kimanufaktur.nsm.decomposition.Concept;
 import de.kimanufaktur.nsm.decomposition.Decomposition;
 import de.kimanufaktur.nsm.decomposition.Definition;
 import de.kimanufaktur.nsm.decomposition.graph.conceptCache.GraphUtil;
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge;
-import de.kimanufaktur.nsm.decomposition.graph.entities.marker.DoubleMarkerWithOrigin;
-import de.kimanufaktur.nsm.decomposition.graph.entities.nodes.DoubleNodeWithMultipleThresholds;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing;
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig;
-import de.tuberlin.spreadalgo.Marker;
-import de.tuberlin.spreadalgo.Node;
+import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin;
+import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.ListenableDirectedGraph;
 
