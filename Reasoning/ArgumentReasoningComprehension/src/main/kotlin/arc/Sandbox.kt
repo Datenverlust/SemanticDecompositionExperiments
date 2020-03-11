@@ -1,12 +1,7 @@
 package arc
 
-import arc.utils.Dataset
-import arc.utils.readDataset
-
+import de.kimanufaktur.nsm.decomposition.Decomposition
 
 fun main() {
-    Dataset.values().forEach {
-        val dataset = readDataset(it)
-        println()
-    }
+    val decomposition = Decomposition()
 }
