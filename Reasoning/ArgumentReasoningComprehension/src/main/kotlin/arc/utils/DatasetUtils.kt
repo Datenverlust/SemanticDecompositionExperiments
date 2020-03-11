@@ -1,6 +1,7 @@
 package arc.utils
 
 import arc.ArcTask
+import arc.Label
 import java.io.File
 
 enum class Dataset {
@@ -38,7 +39,7 @@ fun readDataset(dataset: Dataset) =
                         id = it[0],
                         warrant0 = it[1],
                         warrant1 = it[2],
-                        correctLabelW0orW1 = it[3],
+                        correctLabelW0orW1 = if(it[3]=="0") Label.W0 else if(it[3]=="1") Label.W1 else Label.UNKNOWN,
                         reason = it[4],
                         claim = it[5],
                         debateTitle = it[6],
