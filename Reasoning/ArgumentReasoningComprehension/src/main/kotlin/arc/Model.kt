@@ -11,6 +11,9 @@ data class ArcTask(
     val debateInfo: String
 )
 
+fun ArcTask.getConceptElements() =
+    listOf(this.warrant0, this.warrant1, this.reason, this.claim, this.debateTitle, this.debateInfo)
+
 enum class Label {
     W0,
     W1,
