@@ -17,14 +17,15 @@ data class WordSense(
 
 class WSDClient(
     val host: String = "localhost",
-    val port: String = "5000"
+    val port: String = "5000",
+    val clientThreshold: Double = 0.5
 ) {
     init {
         System.err.close();
         System.setErr(System.out);
     }
 
-    fun disambiguate(requests: List<WSDRequest>, threshold: Double = 0.5) =
+    fun disambiguate(requests: List<WSDRequest>, threshold: Double = clientThreshold) =
         requests
             .map { it.convertToCsvString() }
             .joinToString("\n")
@@ -36,7 +37,7 @@ class WSDClient(
                     .map { (sense, _) -> sense }
             }
 
-    fun disambiguate(request: WSDRequest, threshold: Double = 0.5) =
+    fun disambiguate(request: WSDRequest, threshold: Double = clientThreshold) =
         request.convertToCsvString()
             .let { sendRequest(it, request.wordSenses) }
             ?.filter { (_, score) -> score >= threshold }
