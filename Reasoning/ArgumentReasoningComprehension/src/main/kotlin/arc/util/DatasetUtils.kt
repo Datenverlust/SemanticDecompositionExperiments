@@ -1,7 +1,7 @@
-package arc.utils
+package arc.util
 
 import arc.ArcTask
-import arc.Label
+import arc.ArcLabel
 import java.io.File
 
 enum class Dataset {
@@ -24,7 +24,7 @@ internal val datasetFilesMap = mapOf(
     Dataset.SEMEVAL_SWAPPED to "datasets/semeval2018/train-w-swap-full.txt"
 )
 
-internal val resourcesDir = {}::class.java.getResource("").path.replace("/utils", "")
+internal val resourcesDir = {}::class.java.getResource("").path.replace("/util", "")
 
 fun readDataset(dataset: Dataset) =
     datasetFilesMap.get(dataset)?.let { datasetPath ->
@@ -39,7 +39,7 @@ fun readDataset(dataset: Dataset) =
                         id = it[0],
                         warrant0 = it[1],
                         warrant1 = it[2],
-                        correctLabelW0orW1 = if(it[3]=="0") Label.W0 else if(it[3]=="1") Label.W1 else Label.UNKNOWN,
+                        correctLabelW0orW1 = if(it[3]=="0") ArcLabel.W0 else if(it[3]=="1") ArcLabel.W1 else ArcLabel.UNKNOWN,
                         reason = it[4],
                         claim = it[5],
                         debateTitle = it[6],
@@ -49,3 +49,6 @@ fun readDataset(dataset: Dataset) =
                 .toList()
         }
     }
+
+fun ArcTask.allElements() =
+    listOf(this.warrant0, this.warrant1, this.reason, this.claim, this.debateTitle, this.debateInfo)
