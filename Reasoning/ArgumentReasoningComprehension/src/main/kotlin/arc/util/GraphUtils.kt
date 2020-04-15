@@ -1,4 +1,4 @@
-package arc
+package arc.util
 
 import arc.wsd.WSDRequest
 import arc.wsd.WordSense
@@ -19,9 +19,11 @@ import org.jgrapht.graph.DefaultListenableGraph
 
 val decomposition = Decomposition()
 
+val conceptToContextsMap = mutableMapOf<Concept, Set<String>>()
+
 internal fun disambiguateByContext(word: Concept, sentence: String): List<String> {
     val wordSenses = word.getWordSenses()
-    word.getTargetIndex(sentence)
+    word.getIndicesIn(sentence)
         .map { target ->
             WSDRequest(
                 targetIndex = target,
@@ -35,7 +37,7 @@ internal fun disambiguateByContext(word: Concept, sentence: String): List<String
 }
 
 //TODO: Rework this fun with use of tokenization by stanford core nlp pipeline
-internal fun Concept.getTargetIndex(sentence: String): List<Int> {
+internal fun Concept.getIndicesIn(sentence: String): List<Int> {
     return sentence.split("""\s+""".toRegex())
         .mapIndexedNotNull { index, word ->
             if (this.litheral == word) index
@@ -52,11 +54,15 @@ internal fun Concept.getWordSenses() = this.sensekeyToDefinitionsMap
         )
     }
 
-fun getGraph(word: Concept, decompositionDepth: Int = MarkerPassingConfig.getDecompositionDepth(), context: String): Graph<*, *> {
+fun getGraph(word: Concept, decompositionDepth: Int = MarkerPassingConfig.getDecompositionDepth(), context: String): Graph<Concept, WeightedEdge> {
     //TODO: Use Graph Cache
     val decomposed = decomposition.decompose(word, decompositionDepth)
-    decomposition.cleanUp()
     val senseKeys = disambiguateByContext(decomposed, context)
+    decomposed.assignedSensekeys = senseKeys.toSet()
+    val contextList = conceptToContextsMap.get(decomposed)?.toMutableSet() ?: mutableSetOf()
+    contextList.add(context)
+    decomposed.assignedContexts = contextList.toSet()
+    conceptToContextsMap.put(decomposed, contextList)
     return createJGraph(decomposed, senseKeys)
 }
 
@@ -166,33 +172,21 @@ fun addConceptRecursivly(graph: DefaultListenableGraph<Concept, WeightedEdge>, s
     }
 }
 
-//TODO: Use MergedGraphCache
-fun mergeGraph(acc: Graph<*, *>, graph: Graph<*, *>): Graph<Concept, WeightedEdge> {
-    return DefaultListenableGraph(
+fun mergeGraph(graphList: Collection<Graph<Concept, WeightedEdge>>) =
+    DefaultListenableGraph(
         DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
-    )
-        .also {
-            val vertices = acc.vertexSet().toList().plus(graph.vertexSet())
-
-            val groups = vertices.map { it as Concept }.groupBy { it.litheral }
-
-
-            val edges = acc.edgeSet().plus(graph.edgeSet())
-            addVerticesOfGraph(it, vertices.iterator())
-            addEdgesOfGraph(it, edges.iterator())
-        }
-}
-
-fun addVerticesOfGraph(result: DefaultListenableGraph<Concept, WeightedEdge>, iterator: Iterator<*>) {
-    while (iterator.hasNext()) {
-        result.addVertex(iterator.next() as Concept)
+    ).also { graph ->
+        graphList
+            .map { it.vertexSet() }
+            .flatten()
+            .distinct()
+            .forEach { graph.addVertex(it) }
+        graphList
+            .map { it.edgeSet() }
+            .flatten()
+            .distinct()
+            .forEach {
+                graph.addEdge(it.source as Concept, it.target as Concept, it)
+                graph.setEdgeWeight(it, it.edgeWeight)
+            }
     }
-}
-
-fun addEdgesOfGraph(result: DefaultListenableGraph<Concept, WeightedEdge>, iterator: Iterator<*>) {
-    while (iterator.hasNext()) {
-        val edge = iterator.next() as WeightedEdge
-        result.addEdge(edge.source as Concept, edge.target as Concept, edge)
-        result.setEdgeWeight(edge, edge.edgeWeight)
-    }
-}
