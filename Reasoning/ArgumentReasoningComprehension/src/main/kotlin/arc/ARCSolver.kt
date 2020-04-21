@@ -1,6 +1,9 @@
 package arc
 
-import de.kimanufaktur.nsm.decomposition.Decomposition
+import arc.util.allElements
+import arc.util.getGraph
+import arc.util.mergeGraph
+import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.Definition
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig
@@ -8,76 +11,116 @@ import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
 
 class ARCSolver() {
-    init {
-        Decomposition.init()
+    fun invoke(task: ArcTask): ArcLabel {
+        val allElements = task.allElements()
+        return invoke(
+            graphElements = allElements,
+            startActivationElements = listOf(task.claim, task.reason),
+            thresholdElements = allElements,
+            warrant0Elements = listOf(task.warrant0),
+            warrant1Elements = listOf(task.warrant1)
+        )
     }
 
-    fun invoke(task: ArcTask): Label {
+    fun invoke(
+        graphElements: Collection<String>,
+        startActivationElements: Collection<String>,
+        thresholdElements: Collection<String>,
+        warrant0Elements: Collection<String>,
+        warrant1Elements: Collection<String>
+    ): ArcLabel {
+        val semanticGraph = createSemanticGraph(graphElements)
+        val vertexSet = semanticGraph.vertexSet()
 
-        //elements with start activation
-        val activationMap = listOf(task.claim, task.reason)
-            .map { elem ->
-                Definition(elem).definition.toList()
-                    .filterNot { it in Decomposition.getConcepts2Ignore() }
-            }
-            .flatten()
-            .distinct()
-            .let { startActivationConcepts ->
 
-                val startActivationMap = startActivationConcepts
-                    .map { word ->
-                        DoubleMarkerWithOrigin().also {
-                            it.activation = MarkerPassingConfig.getStartActivation() * 100
-                            it.origin = word
-                        }
-                            .let { word to listOf(it) }
-                    }
-                    .toMap()
-                    .let { listOf(it) }
-
-                val thresholdMap = startActivationConcepts
-                    .map { it to MarkerPassingConfig.getThreshold() }
-                    .toMap()
-
-                //elements to build the graph of semantic decomposition
-                task.getConceptElements()
-                    .map { elem ->
-                        Definition(elem).definition
-                            .map { word ->
-                                getGraph(
-                                    word = word,
-                                    context = elem
-                                )
-                            }
-                    }
-                    .flatten()
-                    .reduce { acc, graph -> mergeGraph(acc, graph) }
-                    .let { graph ->
-                        DoubleMarkerPassing(graph, thresholdMap, DoubleNodeWithMultipleThresholds::class.java)
-                            .also { DoubleMarkerPassing.doInitialMarking(startActivationMap, it) }
-                    }
+        val markerPassing = ArcMarkerPassing(
+            semanticGraph,
+            createThresholdMap(vertexSet, thresholdElements),
+            DoubleNodeWithMultipleThresholds::class.java
+        )
+            .also { markerpassing ->
+                createStartActivationMap(vertexSet, startActivationElements)
+                    .let { markerpassing.doInitialMarking(it) }
             }
             .also { it.execute() }
-            .nodes
-            .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
-            .map { it.activationHistory.map { it as DoubleMarkerWithOrigin } }
-            .flatten()
-            .map { it.origin to it.activation }
-            .toMap()
-
-        //check activation for these elements after markerpassing is executed
-        return mapOf(
-            Label.W0 to task.warrant0,
-            Label.W1 to task.warrant1
+        return evaluateMarkerpassing(
+            markerPassing = markerPassing,
+            warrant0Elements = warrant0Elements,
+            warrant1Elements = warrant1Elements
         )
-            .mapValues { (_, warrant) -> Definition(warrant).definition.toList() }
-            .mapValues { (_, concepts) ->
-                concepts.mapNotNull {
-                    activationMap.get(it)
-                }
-                    .average()
-            }
-            .maxBy { (_, score) -> score }
-            ?.key ?: Label.UNKNOWN
     }
+
+    internal fun createSemanticGraph(graphElements: Collection<String>) = graphElements
+        .map { elem ->
+            Definition(elem).definition
+                .map { word ->
+                    getGraph(
+                        word = word,
+                        context = elem
+                    )
+                }
+        }
+        .flatten()
+        .let { graphList -> mergeGraph(graphList) }
+
+    internal fun createStartActivationMap(
+        vertexSet: Set<Concept>,
+        startActivationElements: Collection<String>
+    ) = vertexSet
+        .filter { vertex -> vertex.assignedContexts.any { context -> context in startActivationElements } }
+        .map { vertex ->
+            DoubleMarkerWithOrigin().also {
+                it.activation = MarkerPassingConfig.getStartActivation() * 100  //put multiplicator in config
+                it.origin = vertex
+            }
+                .let { vertex to listOf(it) }
+        }
+        .toMap()
+
+    internal fun createThresholdMap(
+        verticesSet: Set<Concept>,
+        thresholdElements: Collection<String>
+    ) = verticesSet
+        .filter { vertex -> vertex.assignedContexts.any { context -> context in thresholdElements } }
+        .map { vertex -> vertex to MarkerPassingConfig.getThreshold() }
+        .toMap()
+
+    internal fun evaluateMarkerpassing(
+        markerPassing: DoubleMarkerPassing,
+        warrant0Elements: Collection<String>,
+        warrant1Elements: Collection<String>
+    ) = markerPassing.nodes
+        .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
+        .map { it.activationHistory.map { it as DoubleMarkerWithOrigin } }
+        .flatten()
+        .map { it.origin to it.activation }
+        .toMap()
+        .let {
+            evaluateActivationMap(
+                activationMap = it,
+                warrant0Elements = warrant0Elements,
+                warrant1Elements = warrant1Elements
+            )
+        }
+
+    internal fun evaluateActivationMap(
+        activationMap: Map<Concept, Double>,
+        warrant0Elements: Collection<String>,
+        warrant1Elements: Collection<String>
+    ) = mapOf(
+        ArcLabel.W0 to warrant0Elements,
+        ArcLabel.W1 to warrant1Elements
+    )
+        .mapValues { (_, warrantElements) ->
+            warrantElements.map { elem ->
+                activationMap.filterKeys { concept -> elem in concept.assignedContexts }.values
+            }
+                .flatten()
+                .average()
+        }
+        .toList()
+        .sortedByDescending { (_, score) -> score }
+        .firstOrNull()
+        ?.let { (label, _) -> label }
+        ?: ArcLabel.UNKNOWN
 }
