@@ -15,7 +15,7 @@ internal val kotlinXmlMapper = XmlMapper(JacksonXmlModule().apply {
     .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
 
 internal data class Frameset(
-    val predicate: Predicate? = null
+    val predicate: List<Predicate>? = null
 )
 
 internal data class Predicate(
@@ -44,12 +44,15 @@ internal data class VnRole(
     val vntheta: String? = null
 )
 
-internal fun Frameset.toRoleMap() =
-    this.predicate?.roleset
+internal fun Frameset.asPredicatesMap() =
+    this.predicate?.mapNotNull { p -> p.lemma?.let { it to p } }?.toMap()
+
+internal fun Frameset.getRolesetMap(lemma: String) =
+    this.asPredicatesMap()?.get(lemma)?.roleset
         ?.mapNotNull { roleset ->
             roleset.id?.let { id ->
                 roleset.roles?.role
-                    ?.map { it.descr + it.vnRole?.vntheta }
+                    ?.map { it.descr } //TODO: add abstract v-theta-role
                     ?.let { roles -> id to roles }
             }
         }
@@ -57,6 +60,6 @@ internal fun Frameset.toRoleMap() =
 
 internal val framesDir = File({}::class.java.getResource("").path, "frames")
 
-fun getRoleset(verb: String) = File(framesDir, "$verb.xml")
+fun getRoleset(lemma: String, sense: String) = File(framesDir, "$lemma.xml")
     .readText()
-    .let { kotlinXmlMapper.readValue<Frameset>(it).toRoleMap() }
+    .let { kotlinXmlMapper.readValue<Frameset>(it).getRolesetMap(lemma)?.get(sense) }
