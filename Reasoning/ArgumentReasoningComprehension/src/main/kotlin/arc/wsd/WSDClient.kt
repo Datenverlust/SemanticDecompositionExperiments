@@ -5,8 +5,7 @@ import khttp.post
 typealias WSDResponse = List<Pair<WordSense, Double>>
 
 data class WSDRequest(
-    val targetIndex: Int,
-    val sentence: String,
+    val markedContext: String,
     val wordSenses: List<WordSense>
 )
 
@@ -53,22 +52,12 @@ class WSDClient(
             .let { wordSenses.zip(it) }
     }
 
-    internal fun String.markTarget(index: Int) =
-        this.split("""\s+""".toRegex()).let {
-            it.take(index)
-                .plus("\"")
-                .plus(it[index])
-                .plus("\"")
-                .plus(it.drop(index + 1))
-                .joinToString(" ")
-        }
-
     internal fun WSDRequest.convertToCsvString() =
         this.wordSenses.map {
             listOf(
                 "id",
                 "0",
-                this.sentence.markTarget(this.targetIndex),
+                this.markedContext,
                 it.gloss,
                 it.senseKey
             ).joinToString("\t")
