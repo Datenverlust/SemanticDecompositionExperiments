@@ -17,19 +17,19 @@ data class WordSense(
 class WSDClient(
     val host: String = "localhost",
     val port: String = "5000",
-    val clientThreshold: Double = 0.5
+    private val clientThreshold: Double = 0.5
 ) {
     init {
-        System.err.close();
-        System.setErr(System.out);
+        System.err.close()
+        System.setErr(System.out)
     }
 
     fun disambiguate(requests: List<WSDRequest>, threshold: Double = clientThreshold) =
-        requests
-            .map { it.convertToCsvString() }
-            .joinToString("\n")
-            .let { sendRequest(it, requests.map { it.wordSenses }.flatten()) }
-            .let { it?.cut(requests.map { it.wordSenses.size }) }
+        sendRequest(
+            requests.joinToString("\n") { it.convertToCsvString() },
+            requests.map { request -> request.wordSenses }.flatten()
+        )
+            .let { it?.cut(requests.map { request -> request.wordSenses.size }) }
             ?.map { response ->
                 response
                     .filter { (_, score) -> score >= threshold }
@@ -37,12 +37,11 @@ class WSDClient(
             }
 
     fun disambiguate(request: WSDRequest, threshold: Double = clientThreshold) =
-        request.convertToCsvString()
-            .let { sendRequest(it, request.wordSenses) }
+        sendRequest(request.convertToCsvString(), request.wordSenses)
             ?.filter { (_, score) -> score >= threshold }
             ?.map { (sense, _) -> sense }
 
-    internal fun sendRequest(rawRequest: String, wordSenses: List<WordSense>): WSDResponse? {
+    private fun sendRequest(rawRequest: String, wordSenses: List<WordSense>): WSDResponse? {
         return post(url = "http://$host:$port", data = rawRequest)
             .text
             .split("\n")
@@ -52,8 +51,8 @@ class WSDClient(
             .let { wordSenses.zip(it) }
     }
 
-    internal fun WSDRequest.convertToCsvString() =
-        this.wordSenses.map {
+    private fun WSDRequest.convertToCsvString() =
+        this.wordSenses.joinToString("\n") {
             listOf(
                 "id",
                 "0",
@@ -61,7 +60,7 @@ class WSDClient(
                 it.gloss,
                 it.senseKey
             ).joinToString("\t")
-        }.joinToString("\n")
+        }
 
     internal fun WSDResponse.cut(sizes: List<Int>): List<WSDResponse> {
         var responseList = this
