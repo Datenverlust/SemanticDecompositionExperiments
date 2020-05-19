@@ -27,7 +27,7 @@ internal val datasetFilesMap = mapOf(
 internal val resourcesDir = {}::class.java.getResource("").path.replace("/util", "")
 
 fun readDataset(dataset: Dataset) =
-    datasetFilesMap.get(dataset)?.let { datasetPath ->
+    datasetFilesMap[dataset]?.let { datasetPath ->
         File(resourcesDir, datasetPath).useLines { lines ->
             lines
                 .filterNot { it.startsWith("#") }
