@@ -1,5 +1,11 @@
 package arc
 
+import edu.stanford.nlp.ling.CoreLabel
+import edu.stanford.nlp.pipeline.Annotation
+import edu.stanford.nlp.util.CoreMap
+
+typealias TokenizedText = List<Pair<CoreMap, List<CoreLabel>>>
+
 data class ArcTask(
     val id: String,
     val warrant0: String,
