@@ -17,3 +17,8 @@ val syntaxLinkWeight = MarkerPassingConfig.getSyntaxLinkWeight()
 val namedEntityLinkWeight = MarkerPassingConfig.getNerLinkWeight()
 val semanticRoleLinkWeight = MarkerPassingConfig.getRoleLinkWeight()
 
+val activeSyntax = true
+val activeSrl = true
+val activeNer = true
+val activeWsd = true
+val activeNeg = true

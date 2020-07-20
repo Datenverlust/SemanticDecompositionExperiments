@@ -8,10 +8,9 @@ import com.fasterxml.jackson.module.kotlin.readValue
 
 fun main() {
     {}::class.java.getResourceAsStream("wsd_examples.yml").readBytes().let { bytes ->
-        val client = WSDClient()
         ObjectMapper(YAMLFactory()).registerModule(KotlinModule() as Module?)
             .readValue<List<WSDRequest>>(bytes)
-            .let { requests -> client.disambiguate(requests)?.let { requests.zip(it) } }
+            .let { requests -> disambiguate(requests)?.let { requests.zip(it) } }
             ?.forEach { (request, senses) ->
                 println("sentence: ${request.markedContext}")
                 println("word to disambiguate: ${

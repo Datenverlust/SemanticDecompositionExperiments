@@ -9,9 +9,9 @@ import java.io.File
 import java.io.OutputStream
 import java.io.PrintStream
 
-class SemanticRoleLabeler {
-    internal val language = "eng"
-    internal val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
+
+    private val language = "eng"
+    private val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
     private val lemmaPath = downloadModel("lemmatizer-eng-4M-v36.mdl")
     private val taggerPath = downloadModel("tagger-eng-4M-v36.mdl")
     private val parserPath = downloadModel("parser-eng-12M-v36.mdl")
@@ -51,14 +51,14 @@ class SemanticRoleLabeler {
         return pipeline
     }
 
-    fun invoke(sentence: CoreSentence) =
+    fun identifySemanticRoles(sentence: CoreSentence) =
         pipeline.parse(
             sentence.tokens().map { token ->
                 token.originalText()
             }
         )
             .predicates.mapNotNull { predicate ->
-                getRoleset(predicate.lemma, predicate.sense)
+                getRoleSet(predicate.lemma, predicate.sense)
                     ?.let { roleSet ->
                         predicate.argMap.mapNotNull { (word, argName) ->
                             roleSet.getOrNull(argName.removePrefix("A").toInt().dec())
@@ -72,4 +72,3 @@ class SemanticRoleLabeler {
             .asSequence()
             .flatMap { it.asSequence() }
             .groupBy({ it.key }, { it.value })
-}
