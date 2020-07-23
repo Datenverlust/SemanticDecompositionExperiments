@@ -35,16 +35,29 @@ fun readDataset(dataset: Dataset) =
                 .map { it.split("\t") }
                 .filter { it.size >= 8 }
                 .map {
-                    ArcTask(
-                        id = it[0],
-                        warrant0 = it[1],
-                        warrant1 = it[2],
-                        correctLabelW0orW1 = if(it[3]=="0") ArcLabel.W0 else if(it[3]=="1") ArcLabel.W1 else ArcLabel.UNKNOWN,
-                        reason = it[4],
-                        claim = it[5],
-                        debateTitle = it[6],
-                        debateInfo = it[7]
-                    )
+                    if (dataset == Dataset.ADVERSIAL_TEST) {
+                        ArcTask(
+                            id = it[0],
+                            warrant0 = it[1],
+                            warrant1 = it[2],
+                            correctLabelW0orW1 = if (it[7] == "0") ArcLabel.W0 else if (it[7] == "1") ArcLabel.W1 else ArcLabel.UNKNOWN,
+                            reason = it[3],
+                            claim = it[4],
+                            debateTitle = it[5],
+                            debateInfo = it[6]
+                        )
+                    } else {
+                        ArcTask(
+                            id = it[0],
+                            warrant0 = it[1],
+                            warrant1 = it[2],
+                            correctLabelW0orW1 = if (it[3] == "0") ArcLabel.W0 else if (it[3] == "1") ArcLabel.W1 else ArcLabel.UNKNOWN,
+                            reason = it[4],
+                            claim = it[5],
+                            debateTitle = it[6],
+                            debateInfo = it[7]
+                        )
+                    }
                 }
                 .toList()
         }
