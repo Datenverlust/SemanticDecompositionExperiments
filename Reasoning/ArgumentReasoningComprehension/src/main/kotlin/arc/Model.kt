@@ -1,11 +1,5 @@
 package arc
 
-import edu.stanford.nlp.ling.CoreLabel
-import edu.stanford.nlp.pipeline.Annotation
-import edu.stanford.nlp.util.CoreMap
-
-typealias TokenizedText = List<Pair<CoreMap, List<CoreLabel>>>
-
 data class ArcTask(
     val id: String,
     val warrant0: String,
@@ -15,6 +9,15 @@ data class ArcTask(
     val claim: String,
     val debateTitle: String,
     val debateInfo: String
+)
+
+data class ArcComponents(
+    val graphComponents: Collection<String>,
+    val startActivationComponents: Collection<String>,
+    val thresholdComponents: Collection<String>,
+    val warrant0Components: Collection<String>,
+    val warrant1Components: Collection<String>,
+    val evaluationComponents: Collection<String>
 )
 
 enum class ArcLabel {

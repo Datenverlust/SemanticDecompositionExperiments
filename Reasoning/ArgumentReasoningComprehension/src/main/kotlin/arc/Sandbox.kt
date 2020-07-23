@@ -1,5 +1,7 @@
 package arc
 
+import arc.util.Dataset
+import arc.util.readDataset
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import de.kimanufaktur.nsm.decomposition.Concept
@@ -15,6 +17,7 @@ data class Wrapper(
 )
 
 fun main() {
+
 //    val arcSolver = ARCSolver()
 //    val pipeline = arcSolver.syntaxPipeline
 //    val doc = "Maria is not my teacher. I do not know anything about Russia. Who do you think you are?"

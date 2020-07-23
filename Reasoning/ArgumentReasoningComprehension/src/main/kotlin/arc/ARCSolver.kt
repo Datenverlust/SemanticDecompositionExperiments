@@ -1,5 +1,6 @@
 package arc
 
+import arc.srl.identifySemanticRoles
 import arc.util.allElements
 import arc.util.createNerGraph
 import arc.util.createRolesGraph
@@ -21,26 +22,23 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP
 private val syntaxPipeline = StanfordCoreNLP(getPipelineProperties())
 private val conceptToContextMap = mapOf<Concept, Set<String>>()
 
-fun solveArcTask(task: ArcTask): ArcLabel {
-    val allElements = task.allElements()
-    return solveArcTask(
-        graphElements = allElements,
-        startActivationElements = listOf(task.claim, task.reason),
-        thresholdElements = allElements,
-        warrant0Elements = listOf(task.warrant0),
-        warrant1Elements = listOf(task.warrant1)
+fun ArcTask.defaultComponentSplit() = allElements().let { allElements ->
+    ArcComponents(
+        graphComponents = allElements,
+        startActivationComponents = listOf(reason),
+        thresholdComponents = allElements,
+        warrant0Components = listOf(warrant0),
+        warrant1Components = listOf(warrant1),
+        evaluationComponents = listOf(claim)
     )
 }
 
-fun solveArcTask(
-    graphElements: Collection<String>,
-    startActivationElements: Collection<String>,
-    thresholdElements: Collection<String>,
-    warrant0Elements: Collection<String>,
-    warrant1Elements: Collection<String>
-): ArcLabel {
+fun ArcTask.solve(
+    componentSplit: ArcTask.() -> ArcComponents = { defaultComponentSplit() }
+) = componentSplit().solve()
 
-    val graph = graphElements
+fun ArcComponents.solve(): ArcLabel {
+    val graph = graphComponents
         .map { it.asCoreDocument() }
         .map { createGraph(it) }
         .let { mergeGraphes(it) }
@@ -49,18 +47,19 @@ fun solveArcTask(
 
     val markerPassing = ArcMarkerPassing(
         graph,
-        createThresholdMap(contextSensitiveVertices, thresholdElements),
+        createThresholdMap(contextSensitiveVertices, thresholdComponents),
         DoubleNodeWithMultipleThresholds::class.java
     )
         .also { markerPassing ->
-            createStartActivationMap(contextSensitiveVertices, startActivationElements)
+            createStartActivationMap(contextSensitiveVertices, startActivationComponents)
                 .let { markerPassing.doInitialMarking(it) }
         }
         .also { it.execute() }
+
     return evaluateMarkerPassing(
         markerPassing = markerPassing,
-        warrant0Elements = warrant0Elements,
-        warrant1Elements = warrant1Elements
+        warrant0Elements = warrant0Components,
+        warrant1Elements = warrant1Components
     )
 }
 
@@ -119,7 +118,7 @@ private fun createGraph(context: CoreDocument) = context.sentences()
                 createSemanticGraph(it.values),
                 createSyntaxGraph(it, sentence),
                 createNerGraph(it),
-                createRolesGraph(it, mapOf())//roleLabeler.invoke(sentence))
+                createRolesGraph(it, identifySemanticRoles(sentence))
             )
         }
     }
@@ -182,6 +181,6 @@ private fun evaluateActivationMap(
             .average()
     }
     .toList()
-    .maxBy { (_, score) -> score }
+    .minBy { (_, score) -> score }
     ?.let { (label, _) -> label }
     ?: ArcLabel.UNKNOWN
