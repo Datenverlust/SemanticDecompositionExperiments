@@ -1,14 +1,8 @@
 package arc
 
-import arc.util.Dataset
-import arc.util.readDataset
-import com.fasterxml.jackson.dataformat.xml.XmlMapper
-import com.fasterxml.jackson.module.kotlin.readValue
 import de.kimanufaktur.nsm.decomposition.Concept
-import de.kimanufaktur.nsm.decomposition.Decomposition
 import de.kimanufaktur.nsm.decomposition.graph.edges.SynonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
-import edu.stanford.nlp.pipeline.CoreDocument
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 

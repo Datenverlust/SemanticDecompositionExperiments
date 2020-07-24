@@ -1,7 +1,7 @@
 package arc
 
 import arc.srl.identifySemanticRoles
-import arc.util.allElements
+import arc.dataset.allElements
 import arc.util.asAnnotatedCoreDocument
 import arc.util.createNerGraph
 import arc.util.createRolesGraph

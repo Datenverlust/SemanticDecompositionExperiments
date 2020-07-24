@@ -1,8 +1,8 @@
 package arc
 
-import arc.util.Dataset
+import arc.dataset.Dataset
 import arc.util.printProgress
-import arc.util.readDataset
+import arc.dataset.readDataset
 
 fun main() {
     val sizeToTake = 100

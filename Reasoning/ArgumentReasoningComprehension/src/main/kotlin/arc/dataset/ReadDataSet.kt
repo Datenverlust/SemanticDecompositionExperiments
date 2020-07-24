@@ -1,4 +1,4 @@
-package arc.util
+package arc.dataset
 
 import arc.ArcTask
 import arc.ArcLabel
@@ -15,16 +15,16 @@ enum class Dataset {
 }
 
 internal val datasetFilesMap = mapOf(
-    Dataset.ADVERSIAL_DEV to "datasets/adversarial/dev-adv-negated.csv",
-    Dataset.ADVERSIAL_TRAIN to "datasets/adversarial/train-adv-negated.csv",
-    Dataset.ADVERSIAL_TEST to "datasets/adversarial/test-adv-negated.csv",
-    Dataset.SEMEVAL_DEV to "datasets/semeval2018/dev-full.txt",
-    Dataset.SEMEVAL_TRAIN to "datasets/semeval2018/train-full.txt",
-    Dataset.SEMEVAL_TEST to "datasets/semeval2018/test-full.txt",
-    Dataset.SEMEVAL_SWAPPED to "datasets/semeval2018/train-w-swap-full.txt"
+    Dataset.ADVERSIAL_DEV to "adversarial/dev-adv-negated.csv",
+    Dataset.ADVERSIAL_TRAIN to "adversarial/train-adv-negated.csv",
+    Dataset.ADVERSIAL_TEST to "adversarial/test-adv-negated.csv",
+    Dataset.SEMEVAL_DEV to "semeval2018/dev-full.txt",
+    Dataset.SEMEVAL_TRAIN to "semeval2018/train-full.txt",
+    Dataset.SEMEVAL_TEST to "semeval2018/test-full.txt",
+    Dataset.SEMEVAL_SWAPPED to "semeval2018/train-w-swap-full.txt"
 )
 
-internal val resourcesDir = {}::class.java.getResource("").path.replace("/util", "")
+internal val resourcesDir = {}::class.java.getResource("").path
 
 fun readDataset(dataset: Dataset) =
     datasetFilesMap[dataset]?.let { datasetPath ->
