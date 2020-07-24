@@ -10,65 +10,67 @@ import java.io.OutputStream
 import java.io.PrintStream
 
 
-    private val language = "eng"
-    private val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
-    private val lemmaPath = downloadModel("lemmatizer-eng-4M-v36.mdl")
-    private val taggerPath = downloadModel("tagger-eng-4M-v36.mdl")
-    private val parserPath = downloadModel("parser-eng-12M-v36.mdl")
-    private val srlPath = downloadModel("CoNLL2009-ST-English-ALL.anna-3.3.srl-4.1.srl.model")
-    private val pipeline = getPipeline(
-        arrayOf(
-            language,
-            "-lemma",
-            lemmaPath,
-            "-tagger",
-            taggerPath,
-            "-parser",
-            parserPath,
-            "-srl",
-            srlPath
-        )
+private val language = "eng"
+private val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
+private val lemmaPath = downloadModel("lemmatizer-eng-4M-v36.mdl")
+private val taggerPath = downloadModel("tagger-eng-4M-v36.mdl")
+private val parserPath = downloadModel("parser-eng-12M-v36.mdl")
+private val srlPath = downloadModel("CoNLL2009-ST-English-ALL.anna-3.3.srl-4.1.srl.model")
+private val pipeline = getPipeline(
+    arrayOf(
+        language,
+        "-lemma",
+        lemmaPath,
+        "-tagger",
+        taggerPath,
+        "-parser",
+        parserPath,
+        "-srl",
+        srlPath
     )
+)
 
-    private fun downloadModel(fileName: String): String {
-        File(userHome(".decomposition"), "Models")
-            .also { it.mkdirs() }
-            .let { modelsDir ->
-                File(modelsDir, fileName).let { model ->
-                    if (!model.exists()) DictUtil.downloadFileParalell(source + fileName, model.path)
-                    return model.path
-                }
+private fun downloadModel(fileName: String): String {
+    File(userHome(".decomposition"), "Models")
+        .also { it.mkdirs() }
+        .let { modelsDir ->
+            File(modelsDir, fileName).let { model ->
+                if (!model.exists()) DictUtil.downloadFileParalell(source + fileName, model.path)
+                return model.path
             }
-    }
+        }
+}
 
-    private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
-        val defaultOutputStream = System.out
-        System.setOut(PrintStream(OutputStream.nullOutputStream()))
-        val pipeline = CompletePipelineCMDLineOptions()
-            .also { it.parseCmdLineArgs(pipelineOptions) }
-            .let { CompletePipeline.getCompletePipeline(it) }
-        System.setOut(defaultOutputStream)
-        return pipeline
-    }
+private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
+    val defaultOutputStream = System.out
+    System.setOut(PrintStream(OutputStream.nullOutputStream()))
+    val pipeline = CompletePipelineCMDLineOptions()
+        .also { it.parseCmdLineArgs(pipelineOptions) }
+        .let { CompletePipeline.getCompletePipeline(it) }
+    System.setOut(defaultOutputStream)
+    return pipeline
+}
 
-    fun identifySemanticRoles(sentence: CoreSentence) =
-        pipeline.parse(
+fun identifySemanticRoles(sentence: CoreSentence) =
+    pipeline.parse(
+        listOf("").plus(
             sentence.tokens().map { token ->
                 token.originalText()
             }
         )
-            .predicates.mapNotNull { predicate ->
-                getRoleSet(predicate.lemma, predicate.sense)
-                    ?.let { roleSet ->
-                        predicate.argMap.mapNotNull { (word, argName) ->
-                            roleSet.getOrNull(argName.removePrefix("A").toInt().dec())
-                                ?.let { role ->
-                                    sentence.tokens()[word.idx] to role
-                                }
-                        }
-                            .toMap()
+    )
+        .predicates.mapNotNull { predicate ->
+            getRoleSet(predicate.lemma, predicate.sense)
+                ?.let { roleSet ->
+                    predicate.argMap.mapNotNull { (word, argName) ->
+                        argName.removePrefix("A").toIntOrNull()?.let { roleSet.getOrNull(it) }
+                            ?.let { role ->
+                                sentence.tokens()[word.idx-1] to role
+                            }
                     }
-            }
-            .asSequence()
-            .flatMap { it.asSequence() }
-            .groupBy({ it.key }, { it.value })
+                        .toMap()
+                }
+        }
+        .asSequence()
+        .flatMap { it.asSequence() }
+        .groupBy({ it.key }, { it.value })
