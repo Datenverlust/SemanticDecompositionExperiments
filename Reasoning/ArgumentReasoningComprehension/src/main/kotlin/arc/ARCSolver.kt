@@ -2,11 +2,11 @@ package arc
 
 import arc.srl.identifySemanticRoles
 import arc.util.allElements
+import arc.util.asAnnotatedCoreDocument
 import arc.util.createNerGraph
 import arc.util.createRolesGraph
 import arc.util.createSemanticGraph
 import arc.util.createSyntaxGraph
-import arc.util.getPipelineProperties
 import arc.util.mergeGraphes
 import arc.wsd.WSDRequest
 import arc.wsd.WordSense
@@ -17,9 +17,7 @@ import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
 import edu.stanford.nlp.ling.CoreLabel
 import edu.stanford.nlp.pipeline.CoreDocument
 import edu.stanford.nlp.pipeline.CoreSentence
-import edu.stanford.nlp.pipeline.StanfordCoreNLP
 
-private val syntaxPipeline = StanfordCoreNLP(getPipelineProperties())
 private val conceptToContextMap = mapOf<Concept, Set<String>>()
 
 fun ArcTask.defaultComponentSplit() = allElements().let { allElements ->
@@ -39,7 +37,7 @@ fun ArcTask.solve(
 
 fun ArcComponents.solve(): ArcLabel {
     val graph = graphComponents
-        .map { it.asCoreDocument() }
+        .map { it.asAnnotatedCoreDocument() }
         .map { createGraph(it) }
         .let { mergeGraphes(it) }
 
@@ -62,9 +60,6 @@ fun ArcComponents.solve(): ArcLabel {
         warrant1Elements = warrant1Components
     )
 }
-
-private fun String.asCoreDocument() = CoreDocument(this)
-    .also { syntaxPipeline.annotate(it) }
 
 private fun getSenseKeysByContext(decomposed: Concept, word: CoreLabel, context: CoreDocument): List<String> {
     WSDRequest(
