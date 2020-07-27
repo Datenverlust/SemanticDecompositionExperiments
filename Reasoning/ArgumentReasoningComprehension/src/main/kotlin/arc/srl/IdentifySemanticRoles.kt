@@ -52,20 +52,14 @@ private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
 }
 
 fun identifySemanticRoles(sentence: CoreSentence) =
-    pipeline.parse(
-        listOf("").plus(
-            sentence.tokens().map { token ->
-                token.originalText()
-            }
-        )
-    )
+    pipeline.parse(listOf("").plus(sentence.tokensAsStrings()))
         .predicates.mapNotNull { predicate ->
             getRoleSet(predicate.lemma, predicate.sense)
                 ?.let { roleSet ->
                     predicate.argMap.mapNotNull { (word, argName) ->
                         argName.removePrefix("A").toIntOrNull()?.let { roleSet.getOrNull(it) }
                             ?.let { role ->
-                                sentence.tokens()[word.idx-1] to role
+                                sentence.tokens()[word.idx - 1] to role
                             }
                     }
                         .toMap()
