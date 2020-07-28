@@ -7,9 +7,9 @@ import java.util.Properties
 private val stanfordPipeline = StanfordCoreNLP(
     Properties()
         .also {
-            it.setProperty("annotators", "tokenize, ssplit, pos, lemma, parse, ner")
+            it.setProperty("annotators", "tokenize, ssplit, pos, lemma,  parse, ner")
             it.setProperty("ner.useSUTime", "false")
-            it.setProperty("depparse.extradependencies", "MAXIMAL")
+            it.setProperty("parse.originalDependencies", "true")
         }
 )
 
