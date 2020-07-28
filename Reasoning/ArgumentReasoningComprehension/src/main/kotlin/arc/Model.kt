@@ -1,5 +1,11 @@
 package arc
 
+import de.kimanufaktur.nsm.decomposition.Concept
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
+import edu.stanford.nlp.ling.CoreLabel
+import edu.stanford.nlp.pipeline.CoreDocument
+import org.jgrapht.Graph
+
 data class ArcTask(
     val id: String,
     val warrant0: String,
@@ -11,17 +17,15 @@ data class ArcTask(
     val debateInfo: String
 )
 
-data class ArcComponents(
-    val graphComponents: Collection<String>,
-    val startActivationComponents: Collection<String>,
-    val thresholdComponents: Collection<String>,
-    val warrant0Components: Collection<String>,
-    val warrant1Components: Collection<String>,
-    val evaluationComponents: Collection<String>
-)
-
 enum class ArcLabel {
     W0,
     W1,
     UNKNOWN
 }
+
+data class GraphComponent(
+    val context: String,
+    val coreDoc: CoreDocument,
+    val conceptMap: Map<CoreLabel, Concept>,
+    val graph: Graph<Concept, WeightedEdge>
+)
