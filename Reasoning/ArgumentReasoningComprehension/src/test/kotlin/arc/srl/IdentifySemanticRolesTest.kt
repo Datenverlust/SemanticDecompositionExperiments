@@ -5,40 +5,60 @@ import org.junit.Assert
 import org.junit.Test
 
 class IdentifySemanticRolesTest {
+    //TODO: look up expected by frameset in resources
     @Test
     fun singleVerbTest() {
-        "He lends me his computer.".asAnnotatedCoreDocument().sentences().first()
-            .let { coreSentence ->
-                val roles = identifySemanticRoles(coreSentence)
+        "He lends me his computer.".asAnnotatedCoreDocument()
+            .let { coreDoc ->
+                val roles = identifySemanticRoles(coreDoc)
+                val tokens = coreDoc.tokens()
                 Assert.assertTrue(roles.size == 3)
-                Assert.assertEquals(roles[coreSentence.tokens()[0]], listOf("lender"))
-                Assert.assertEquals(roles[coreSentence.tokens()[2]], listOf("lent-to"))
-                Assert.assertEquals(roles[coreSentence.tokens()[4]], listOf("thing lent"))
+                Assert.assertEquals(listOf("lender"), roles[tokens[0]])
+                Assert.assertEquals(listOf("lent-to"), roles[tokens[2]])
+                Assert.assertEquals(listOf("thing lent"), roles[tokens[4]])
             }
     }
 
     @Test
     fun auxVerbTest() {
-        "He tries to buy a computer.".asAnnotatedCoreDocument().sentences().first()
-            .let { coreSentence ->
-                val roles = identifySemanticRoles(coreSentence)
+        "He tries to buy a computer.".asAnnotatedCoreDocument()
+            .let { coreDoc ->
+                val roles = identifySemanticRoles(coreDoc)
+                val tokens = coreDoc.tokens()
                 Assert.assertTrue(roles.size == 3)
-                Assert.assertEquals(roles[coreSentence.tokens()[0]], listOf("Agent/Entity Trying", "buyer"))
-                Assert.assertEquals(roles[coreSentence.tokens()[2]], listOf("thing tried"))
-                Assert.assertEquals(roles[coreSentence.tokens()[5]], listOf("thing bought"))
+                Assert.assertEquals(listOf("Agent/Entity Trying", "buyer"), roles[tokens[0]])
+                Assert.assertEquals(listOf("thing tried"), roles[tokens[2]])
+                Assert.assertEquals(listOf("thing bought"), roles[tokens[5]])
             }
     }
 
     @Test
     fun duplicatedVerbsTest() {
-        "He buys a bike because she bought a computer.".asAnnotatedCoreDocument().sentences().first()
-            .let { coreSentence ->
-                val roles = identifySemanticRoles(coreSentence)
+        "He buys a bike because she bought a computer.".asAnnotatedCoreDocument()
+            .let { coreDoc ->
+                val roles = identifySemanticRoles(coreDoc)
+                val tokens = coreDoc.tokens()
                 Assert.assertTrue(roles.size == 4)
-                Assert.assertEquals(roles[coreSentence.tokens()[0]], listOf("buyer"))
-                Assert.assertEquals(roles[coreSentence.tokens()[3]], listOf("thing bought"))
-                Assert.assertEquals(roles[coreSentence.tokens()[5]], listOf("buyer"))
-                Assert.assertEquals(roles[coreSentence.tokens()[8]], listOf("thing bought"))
+                Assert.assertEquals(listOf("buyer"), roles[tokens[0]])
+                Assert.assertEquals(listOf("thing bought"), roles[tokens[3]])
+                Assert.assertEquals(listOf("buyer"), roles[tokens[5]])
+                Assert.assertEquals(listOf("thing bought"), roles[tokens[8]])
+            }
+    }
+
+    @Test
+    fun multipleSentencesTest() {
+        "He tries to buy a computer. He lends me his computer.".asAnnotatedCoreDocument()
+            .let { coreDoc ->
+                val roles = identifySemanticRoles(coreDoc)
+                val tokens = coreDoc.tokens()
+                Assert.assertTrue(roles.size == 6)
+                Assert.assertEquals(listOf("Agent/Entity Trying", "buyer"), roles[tokens[0]])
+                Assert.assertEquals(listOf("thing tried"), roles[tokens[2]])
+                Assert.assertEquals(listOf("thing bought"), roles[tokens[5]])
+                Assert.assertEquals(listOf("lender"), roles[tokens[7]])
+                Assert.assertEquals(listOf("lent-to"), roles[tokens[9]])
+                Assert.assertEquals(listOf("thing lent"), roles[tokens[11]])
             }
     }
 }

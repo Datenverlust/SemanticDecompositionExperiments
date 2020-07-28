@@ -2,7 +2,8 @@ package arc.srl
 
 import arc.util.userHome
 import de.kimanufaktur.nsm.decompostion.Dictionaries.DictUtil
-import edu.stanford.nlp.pipeline.CoreSentence
+import edu.stanford.nlp.ling.CoreLabel
+import edu.stanford.nlp.pipeline.CoreDocument
 import se.lth.cs.srl.CompletePipeline
 import se.lth.cs.srl.options.CompletePipelineCMDLineOptions
 import java.io.File
@@ -51,7 +52,8 @@ private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
     return pipeline
 }
 
-fun identifySemanticRoles(sentence: CoreSentence) =
+fun identifySemanticRoles(coreDocument: CoreDocument): Map<CoreLabel, List<String>> = coreDocument.sentences().map { sentence ->
+    //add a pseudo element to the tokens at index 0... mate tools srl desires it
     pipeline.parse(listOf("").plus(sentence.tokensAsStrings()))
         .predicates.mapNotNull { predicate ->
             getRoleSet(predicate.lemma, predicate.sense)
@@ -62,9 +64,10 @@ fun identifySemanticRoles(sentence: CoreSentence) =
                                 sentence.tokens()[word.idx - 1] to role
                             }
                     }
-                        .toMap()
                 }
         }
-        .asSequence()
-        .flatMap { it.asSequence() }
-        .groupBy({ it.key }, { it.value })
+        .flatten()
+}
+    .asSequence()
+    .flatten()
+    .groupBy({ (coreLabel, _) -> coreLabel }, { (_, roleName) -> roleName })
