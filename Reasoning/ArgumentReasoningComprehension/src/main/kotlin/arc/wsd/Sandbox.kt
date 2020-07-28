@@ -10,7 +10,7 @@ fun main() {
     {}::class.java.getResourceAsStream("wsd_examples.yml").readBytes().let { bytes ->
         ObjectMapper(YAMLFactory()).registerModule(KotlinModule() as Module?)
             .readValue<List<WSDRequest>>(bytes)
-            .let { requests -> disambiguate(requests)?.let { requests.zip(it) } }
+            .let { requests -> requests.send()?.let { requests.zip(it) } }
             ?.forEach { (request, senses) ->
                 println("sentence: ${request.markedContext}")
                 println("word to disambiguate: ${
