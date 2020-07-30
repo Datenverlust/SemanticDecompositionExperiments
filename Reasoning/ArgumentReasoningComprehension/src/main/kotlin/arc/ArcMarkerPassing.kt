@@ -9,7 +9,9 @@ import de.kimanufaktur.nsm.graph.entities.links.AntonymLink
 import de.kimanufaktur.nsm.graph.entities.links.DefinitionLink
 import de.kimanufaktur.nsm.graph.entities.links.HypernymLink
 import de.kimanufaktur.nsm.graph.entities.links.HyponymLink
+import de.kimanufaktur.nsm.graph.entities.links.MeronymLink
 import de.kimanufaktur.nsm.graph.entities.links.NamedEntityLink
+import de.kimanufaktur.nsm.graph.entities.links.SemanticRoleLink
 import de.kimanufaktur.nsm.graph.entities.links.SynonymLink
 import de.kimanufaktur.nsm.graph.entities.links.SyntaxLink
 import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
@@ -31,10 +33,11 @@ class ArcMarkerPassing(
         EdgeType.Antonym -> AntonymLink()
         EdgeType.Hyponym -> HyponymLink()
         EdgeType.Hypernym -> HypernymLink()
+        EdgeType.Meronym -> MeronymLink()
         EdgeType.Definition -> DefinitionLink()
         EdgeType.Syntax -> SyntaxLink()
         EdgeType.NamedEntity -> NamedEntityLink()
-        EdgeType.SemanticRole -> SynonymLink()
+        EdgeType.SemanticRole -> SemanticRoleLink()
         else -> null
     }
 
