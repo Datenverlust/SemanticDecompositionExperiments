@@ -1,5 +1,4 @@
-- targetIndex: 10
-  sentence: "I could see the flames from San Francisco from my house across the bay ."
+- markedContext: "I could see the flames from San Francisco from my \" house \" across the bay ."
   wordSenses:
   - gloss: "play in which children take the roles of father or mother or children and pretend to interact like adults"
     senseKey: "house%1:04:00::"
@@ -30,8 +29,7 @@
   - gloss: "contain or cover"
     senseKey: "house%2:42:02::"
 
-- targetIndex: 2
-  sentence: "I actually thought that I might die ."
+- markedContext: "I actually \" thought \" that I might die ."
   wordSenses:
     - gloss:    "an instance of deliberate thinking"
       senseKey:    "think%1:09:00::"
@@ -62,8 +60,7 @@
     - gloss:    "imagine or visualize"
       senseKey:    "think%2:36:00::"
 
-- targetIndex: 1
-  sentence: "My back is still in knots and my hands are still shaking ."
+- markedContext: "My \" back \" is still in knots and my hands are still shaking ."
   wordSenses:
     - gloss:    "(American football) the position of a player on a football team who is stationed behind the line of scrimmage"
       senseKey:    "back%1:04:00::"
