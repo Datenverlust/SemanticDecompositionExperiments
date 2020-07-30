@@ -1,35 +1,23 @@
 package arc.wsd
 
+import arc.util.copy
+import de.kimanufaktur.nsm.decomposition.Concept
 import khttp.post
 
 private const val host: String = "localhost"
 private const val port: String = "5000"
 private const val defaultThreshold: Double = 0.5
 
-private fun init() {
-    System.err.close()
-    System.setErr(System.out)
-}
-
-fun List<WSDRequest>.send(threshold: Double = defaultThreshold) =
-    sendWsdRequest(
-        joinToString("\n") { it.convertToCsvString() },
-        map { request -> request.wordSenses }.flatten()
-    )
-        ?.cut(map { request -> request.wordSenses.size })
-        ?.map { response ->
-            response
-                .filter { (_, score) -> score >= threshold }
+fun WSDRequest.process(threshold: Double = defaultThreshold) =
+    sendWsdRequest(convertToCsvString(), wordSenses)
+        ?.let { results ->
+            results.filter { (_, score) -> score >= threshold }
+                .ifEmpty { listOfNotNull(results.maxBy { (_, score) -> score }) }
                 .map { (sense, _) -> sense }
         }
 
-fun WSDRequest.send(threshold: Double = defaultThreshold) =
-    sendWsdRequest(convertToCsvString(), wordSenses)
-        ?.filter { (_, score) -> score >= threshold }
-        ?.map { (sense, _) -> sense }
-
 private fun sendWsdRequest(rawRequest: String, wordSenses: List<WordSense>): WSDResponse? {
-    return post(url = "http://$host:$port", data = rawRequest)
+    return post(url = "http://$host:$port", data = rawRequest, timeout = 60.0)
         .text
         .split("\n")
         .map { it.split("\t") }
@@ -49,12 +37,30 @@ private fun WSDRequest.convertToCsvString() =
         ).joinToString("\t")
     }
 
-private fun WSDResponse.cut(sizes: List<Int>): List<WSDResponse> {
-    var responseList = this
-    return sizes.map {
-        val thisResponses = responseList.take(it)
-        responseList = responseList.drop(it)
-        thisResponses
+fun Concept.disambiguateBy(markedContext: String): Concept {
+    if (senseKeyToGlossMap.isEmpty()) return this
+    val wordSenses = senseKeyToGlossMap.map { (senseKey, gloss) ->
+        WordSense(
+            senseKey = senseKey,
+            gloss = gloss
+        )
     }
+    return WSDRequest(
+        markedContext = markedContext,
+        wordSenses = wordSenses
+    )
+        .process()
+        ?.map { wordSense -> wordSense.senseKey }
+        ?.toSet()
+        ?.let { senseKeys -> copy().also { it.assignedSenseKeys = senseKeys } }
+        ?: this
 }
+
+fun Int.markContext(contextAsWords: List<String>) = contextAsWords.asSequence()
+    .take(this)
+    .plus("\"")
+    .plus(contextAsWords[this])
+    .plus("\"")
+    .plus(contextAsWords.drop(this + 1))
+    .joinToString(" ")
 

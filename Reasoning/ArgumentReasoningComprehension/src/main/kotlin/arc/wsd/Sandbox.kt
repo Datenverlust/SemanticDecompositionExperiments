@@ -10,8 +10,8 @@ fun main() {
     {}::class.java.getResourceAsStream("wsd_examples.yml").readBytes().let { bytes ->
         ObjectMapper(YAMLFactory()).registerModule(KotlinModule() as Module?)
             .readValue<List<WSDRequest>>(bytes)
-            .let { requests -> requests.send()?.let { requests.zip(it) } }
-            ?.forEach { (request, senses) ->
+            .mapNotNull { request -> request.process()?.let { response -> request to response } }
+            .forEach { (request, sense) ->
                 println("sentence: ${request.markedContext}")
                 println("word to disambiguate: ${
                 request.markedContext
@@ -19,7 +19,7 @@ fun main() {
                     .substringBefore("\"")
                     .replace("""\s""".toRegex(), "")
                 }")
-                println("matching sense: ${senses.map { it.gloss + " - " + it.senseKey }.joinToString(" & ")}")
+                println("matching sense: ${sense.map { it.gloss + " - " + it.senseKey }.joinToString(" & ")}")
                 println()
             }
     }

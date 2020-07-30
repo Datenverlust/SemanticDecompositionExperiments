@@ -8,6 +8,6 @@ data class WSDRequest(
 )
 
 data class WordSense(
-    val gloss: String,
-    val senseKey: String
+    val senseKey: String,
+    val gloss: String
 )
