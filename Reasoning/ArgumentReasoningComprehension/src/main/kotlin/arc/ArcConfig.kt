@@ -1,6 +1,6 @@
 package arc
 
-var decompositionDepth = 1
+var defaultDecompositionDepth = 2
 
 var startActivation = 100.0
 var threshold = 0.1
@@ -17,7 +17,7 @@ var semanticRoleLinkWeight = 1.0
 
 var useSemanticDecomposition = true
 var useSyntaxDependencies = true
-var useSemanticRoles = true
+var useSemanticRoles = false
 var useNamedEntities = true
-var useWsd = true
+var useWsd = false
 var useNegationHandling = true
