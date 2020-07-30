@@ -1,178 +1,153 @@
 package arc
 
-import arc.srl.identifySemanticRoles
 import arc.dataset.allElements
 import arc.util.asAnnotatedCoreDocument
 import arc.util.createNerGraph
 import arc.util.createRolesGraph
 import arc.util.createSemanticGraph
 import arc.util.createSyntaxGraph
-import arc.util.mergeGraphes
-import arc.wsd.WSDRequest
-import arc.wsd.WordSense
+import arc.util.decompose
+import arc.util.isNamedEntity
+import arc.util.isStopWord
+import arc.util.merge
+import arc.wsd.disambiguateBy
+import arc.wsd.markContext
 import de.kimanufaktur.nsm.decomposition.Concept
+import de.kimanufaktur.nsm.decomposition.WordType
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing
 import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
 import edu.stanford.nlp.ling.CoreLabel
 import edu.stanford.nlp.pipeline.CoreDocument
-import edu.stanford.nlp.pipeline.CoreSentence
+import java.util.Collections
 
-private val conceptToContextMap = mapOf<Concept, Set<String>>()
+val graphCache = Collections.synchronizedMap<String, GraphComponent>(mutableMapOf())
 
-fun ArcTask.defaultComponentSplit() = allElements().let { allElements ->
-    ArcComponents(
-        graphComponents = allElements,
-        startActivationComponents = listOf(reason),
-        thresholdComponents = allElements,
-        warrant0Components = listOf(warrant0),
-        warrant1Components = listOf(warrant1),
-        evaluationComponents = listOf(claim)
+fun String.asKey(config: ArcGraphConfig) = "$this#${config.decompositionDepth}"
+
+fun String.toGraphComponent(config: ArcGraphConfig = ArcGraphConfig()) = graphCache[this.asKey(config)]
+    ?: buildGraphComponent(config)
+
+fun String.buildGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): GraphComponent {
+    val coreDoc = asAnnotatedCoreDocument()
+    val conceptMap = coreDoc.buildConceptMap(config)
+
+    val graph = listOfNotNull(
+        if (config.useSemanticGraph)
+            createSemanticGraph(
+                conceptList = conceptMap.values,
+                config = config
+            )
+        else null,
+        if (config.useSyntaxDependencies) createSyntaxGraph(conceptMap, coreDoc) else null,
+        if (config.useNamedEntities) createNerGraph(conceptMap, config) else null,
+        if (config.useSemanticRoles) createRolesGraph(
+            conceptMap = conceptMap,
+            coreDoc = coreDoc,
+            config = config
+        ) else null
     )
+        .merge()
+
+    return GraphComponent(
+        context = this,
+        coreDoc = coreDoc,
+        conceptMap = conceptMap,
+        graph = graph
+    ).also { graphCache[this.asKey(config)] = it }
 }
 
-fun ArcTask.solve(
-    componentSplit: ArcTask.() -> ArcComponents = { defaultComponentSplit() }
-) = componentSplit().solve()
+fun CoreDocument.buildConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept> {
+    val tokens by lazy { tokens() }
+    val words by lazy { tokens().map { it.word() } }
+    return sentences().map { coreSentence ->
+        coreSentence.tokens().asSequence()
+            .map { coreLabel ->
+                coreLabel to coreLabel.originalText().replace("""[^\p{Alnum}]+""".toRegex(), "")
+            }
+            .filterNot { (_, litheral) -> litheral.isBlank() }
+            .map { (coreLabel, litheral) ->
+                Concept(litheral, WordType.getType(coreLabel.tag()))
+                    .let { concept ->
+                        if (concept.isStopWord() && coreLabel.isNamedEntity()) {
+                            concept
+                        } else {
+                            concept.decompose(config.decompositionDepth)
+                        }
+                    }
+                    .let { concept ->
+                        if (config.useWsd) {
+                            val markedContext = tokens.indexOf(coreLabel).markContext(words)
+                            concept.disambiguateBy(markedContext)
+                        } else concept
+                    }
+                    .let { if (config.useNegationHandling) it else it }
+                    .let { concept -> coreLabel to concept }
+            }
+            .toList()
+    }
+        .flatten()
+        .toMap()
+}
 
-fun ArcComponents.solve(): ArcLabel {
-    val graph = graphComponents
-        .map { it.asAnnotatedCoreDocument() }
-        .map { createGraph(it) }
-        .let { mergeGraphes(it) }
+fun ArcTask.solve(): ArcLabel {
 
-    val contextSensitiveVertices = graph.vertexSet().filter { it.assignedContexts.isNotEmpty() }
+    //TODO: simplify by data class
+    val graphComponents = allElements().map { elem -> elem.toGraphComponent() }
+    val thresholdConcepts = graphComponents.map { it.conceptMap.values }.flatten()
+    val startActivationConcepts = graphComponents.first { it.context == reason }.conceptMap.values
+    val w0Concepts = graphComponents.first { it.context == warrant0 }.conceptMap.values
+    val w1Concepts = graphComponents.first { it.context == warrant1 }.conceptMap.values
+
+    val graph = graphComponents.map { it.graph }.merge()
 
     val markerPassing = ArcMarkerPassing(
         graph,
-        createThresholdMap(contextSensitiveVertices, thresholdComponents),
+        thresholdConcepts.createThresholdMap(),
         DoubleNodeWithMultipleThresholds::class.java
     )
         .also { markerPassing ->
-            createStartActivationMap(contextSensitiveVertices, startActivationComponents)
-                .let { markerPassing.doInitialMarking(it) }
+            startActivationConcepts.createStartActivationMap().let { startActivationMap ->
+                markerPassing.doInitialMarking(startActivationMap)
+            }
         }
         .also { it.execute() }
 
-    return evaluateMarkerPassing(
-        markerPassing = markerPassing,
-        warrant0Elements = warrant0Components,
-        warrant1Elements = warrant1Components
-    )
-}
-
-private fun getSenseKeysByContext(decomposed: Concept, word: CoreLabel, context: CoreDocument): List<String> {
-    WSDRequest(
-        markedContext = context.markTarget(word),
-        wordSenses = decomposed.getWordSenses()
-    )
-        .let {
-            return decomposed.availableSensekeys.toList().shuffled().take(2)//wsdClient.disambiguate(it)
-        }
-}
-
-private fun CoreDocument.markTarget(coreLabel: CoreLabel): String {
-    val tokens = this.tokens()
-    val index = tokens.indexOf(coreLabel)
-    val words = tokens.map { it.word() }
-    return words.asSequence().take(index)
-        .plus("\"")
-        .plus(coreLabel.word())
-        .plus("\"")
-        .plus(words.drop(index + 1))
-        .joinToString(" ")
-}
-
-private fun Concept.getWordSenses() = this.sensekeyToDefinitionsMap
-    .toList()
-    .map { (id, glossDef) ->
-        WordSense(
-            gloss = glossDef.toString(),
-            senseKey = id
+    return markerPassing.activationMap()
+        .evaluate(
+            w0Concepts = w0Concepts,
+            w1Concepts = w1Concepts
         )
-    }
+}
 
-private fun decomposeSentence(sentence: CoreSentence, context: CoreDocument) = sentence.tokens()
-    .map { coreLabel ->
-        val decomposed = decomposeWord(coreLabel.originalText())
-        val senseKeys = getSenseKeysByContext(decomposed, coreLabel, context)
-        decomposed.assignedSensekeys = senseKeys.toSet()
-        val contextList = conceptToContextMap[decomposed]?.toMutableList() ?: mutableListOf()
-        decomposed.assignedContexts = contextList.toSet()
-        coreLabel to decomposed
+private fun Collection<Concept>.createStartActivationMap() = map { concept ->
+    DoubleMarkerWithOrigin().also {
+        it.activation = startActivation
+        it.origin = concept
     }
+        .let { concept to listOf(it) }
+}
     .toMap()
 
-private fun createGraph(context: CoreDocument) = context.sentences()
-    .map { sentence ->
-        decomposeSentence(
-            sentence = sentence,
-            context = context
-        ).let {
-            listOf(
-                createSemanticGraph(it.values),
-                createSyntaxGraph(it, sentence),
-                createNerGraph(it),
-                createRolesGraph(it, identifySemanticRoles(sentence))
-            )
-        }
-    }
-    .flatten()
-    .let { mergeGraphes(it) }
+private fun Collection<Concept>.createThresholdMap() = map { concept -> concept to threshold }.toMap()
 
-private fun createStartActivationMap(
-    vertices: List<Concept>,
-    startActivationElements: Collection<String>
-) = vertices
-    .filter { vertex -> vertex.assignedContexts.any { context -> context in startActivationElements } }
-    .map { vertex ->
-        DoubleMarkerWithOrigin().also {
-            it.activation = startActivation
-            it.origin = vertex
-        }
-            .let { vertex to listOf(it) }
-    }
-    .toMap()
-
-private fun createThresholdMap(
-    vertices: List<Concept>,
-    thresholdElements: Collection<String>
-) = vertices
-    .filter { vertex -> vertex.assignedContexts.any { context -> context in thresholdElements } }
-    .map { vertex -> vertex to threshold }
-    .toMap()
-
-private fun evaluateMarkerPassing(
-    markerPassing: DoubleMarkerPassing,
-    warrant0Elements: Collection<String>,
-    warrant1Elements: Collection<String>
-) = markerPassing.nodes
+private fun DoubleMarkerPassing.activationMap() = nodes
     .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
     .map { node -> node.activationHistory.map { it as DoubleMarkerWithOrigin } }
     .flatten()
     .map { it.origin to it.activation }
     .toMap()
-    .let {
-        evaluateActivationMap(
-            activationMap = it,
-            warrant0Elements = warrant0Elements,
-            warrant1Elements = warrant1Elements
-        )
-    }
 
-private fun evaluateActivationMap(
-    activationMap: Map<Concept, Double>,
-    warrant0Elements: Collection<String>,
-    warrant1Elements: Collection<String>
+
+private fun Map<Concept, Double>.evaluate(
+    w0Concepts: Collection<Concept>,
+    w1Concepts: Collection<Concept>
 ) = mapOf(
-    ArcLabel.W0 to warrant0Elements,
-    ArcLabel.W1 to warrant1Elements
+    ArcLabel.W0 to w0Concepts,
+    ArcLabel.W1 to w1Concepts
 )
-    .mapValues { (_, warrantElements) ->
-        warrantElements.map { elem ->
-            activationMap.filterKeys { concept -> elem in concept.assignedContexts }.values
-        }
-            .flatten()
+    .mapValues { (_, warrantConcepts) ->
+        warrantConcepts.map { concept -> getValue(concept) }
             .average()
     }
     .toList()

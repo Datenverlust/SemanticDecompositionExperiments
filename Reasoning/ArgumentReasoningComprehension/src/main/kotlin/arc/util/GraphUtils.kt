@@ -1,17 +1,20 @@
 package arc.util
 
+import arc.ArcGraphConfig
 import arc.antonymLinkWeight
-import arc.decomposeWord
 import arc.definitionLinkWeight
 import arc.hypernymLinkWeight
 import arc.hyponymLinkWeight
 import arc.meronymLinkWeight
 import arc.namedEntityLinkWeight
 import arc.semanticRoleLinkWeight
+import arc.srl.identifySemanticRoles
 import arc.synonymLinkWeight
 import arc.syntaxLinkWeight
+import arc.toGraphComponent
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.Decomposition
+import de.kimanufaktur.nsm.decomposition.WordType
 import de.kimanufaktur.nsm.decomposition.graph.edges.AntonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.DefinitionEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
@@ -24,94 +27,125 @@ import de.kimanufaktur.nsm.decomposition.graph.edges.SynonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.SyntaxEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import edu.stanford.nlp.ling.CoreLabel
-import edu.stanford.nlp.pipeline.CoreSentence
+import edu.stanford.nlp.pipeline.CoreDocument
 import org.jgrapht.Graph
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
+import java.util.Collections
 
-fun createSemanticGraph(conceptList: Collection<Concept>) = conceptList.map { concept ->
-    DefaultListenableGraph(
+val semanticGraphCache = Collections.synchronizedMap<String, DefaultListenableGraph<Concept, WeightedEdge>>(mutableMapOf())
+fun Concept.asKey(config: ArcGraphConfig) = "${hashCode()}#${config.hashCode()}"
+
+fun createSemanticGraph(conceptList: Collection<Concept>, config: ArcGraphConfig) = conceptList.map { source ->
+    val key = source.asKey(config)
+    semanticGraphCache[key] ?: DefaultListenableGraph(
         DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
     )
         .also { graph ->
-            if (concept !in Decomposition.getConcepts2Ignore()) {
-                addConceptRecursivly(graph, concept)
+            if (source !in Decomposition.getConcepts2Ignore()) {
+                graph.addSemanticRelationsRecursive(source, config)
             }
         }
-}.let { mergeGraphes(it) }
+        .also { semanticGraphCache[key] = it }
+}
+    .merge()
 
-fun createSyntaxGraph(decomposedInput: Map<CoreLabel, Concept>, sentence: CoreSentence) = DefaultListenableGraph(
+val syntaxGraphCache = Collections.synchronizedMap<String, DefaultListenableGraph<Concept, WeightedEdge>>(mutableMapOf())
+
+fun createSyntaxGraph(conceptMap: Map<CoreLabel, Concept>, coreDoc: CoreDocument) = DefaultListenableGraph(
     DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
 ).also { graph ->
-    sentence.tokens()
-        .mapNotNull { decomposedInput[it] }
-        .forEach { graph.addVertex(it) }
-
-    sentence.dependencyParse().edgeListSorted()
-        .forEach { syntaxEge ->
-            val source = syntaxEge.source.backingLabel().let { decomposedInput.getValue(it) }
-            val target = syntaxEge.target.backingLabel().let { decomposedInput.getValue(it) }
-            createEdge(
-                edgeType = EdgeType.Syntax,
-                source = source,
-                target = target,
-                syntaxRelation = syntaxEge.relation.longName
-            )?.let { edge ->
-                if (edge !in graph.getAllEdges(source, target)) {
-                    graph.addEdge(source, target, edge)
-                    graph.setEdgeWeight(edge, edge.edgeWeight)
+    conceptMap.values.forEach { concept -> graph.addVertex(concept) }
+    coreDoc.syntaxEdges()
+        .forEach { syntaxEdge ->
+            syntaxEdge.source.backingLabel().let { source -> conceptMap[source] }
+                ?.let { source ->
+                    syntaxEdge.target.backingLabel().let { target -> conceptMap[target] }
+                        ?.let { target ->
+                            createEdge(
+                                edgeType = EdgeType.Syntax,
+                                source = source,
+                                target = target,
+                                syntaxRelation = syntaxEdge.relation.longName
+                            )?.let { edge ->
+                                if (edge !in graph.getAllEdges(source, target)) {
+                                    graph.addEdge(source, target, edge)
+                                    graph.setEdgeWeight(edge, edge.edgeWeight)
+                                }
+                            }
+                        }
                 }
-            }
+
         }
 }
 
-fun createNerGraph(decomposedInput: Map<CoreLabel, Concept>) = DefaultListenableGraph(
+fun createNerGraph(conceptMap: Map<CoreLabel, Concept>, config: ArcGraphConfig) = DefaultListenableGraph(
     DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
 ).also { graph ->
-    decomposedInput.filterKeys { it.ner() != "O" }
-        .forEach { (coreLabel, name) ->
-            graph.addVertex(name)
-            val entity = decomposeWord(coreLabel.ner().toLowerCase())
-                .also { addConceptRecursivly(graph, it) }
-            createEdge(
-                edgeType = EdgeType.NamedEntity,
-                source = name,
-                target = entity
-            )?.let { edge ->
-                if (edge !in graph.getAllEdges(name, entity)) {
-                    graph.addEdge(name, entity, edge)
-                    graph.setEdgeWeight(edge, edge.edgeWeight)
-                }
-            }
-        }
-}
+    conceptMap
+        .filterKeys { it.ner() != null && it.ner() != "O" }
+        .forEach { (coreLabel, nameConcept) ->
+            graph.addVertex(nameConcept)
 
-fun createRolesGraph(decomposedInput: Map<CoreLabel, Concept>, rolesMap: Map<CoreLabel, List<String>>) = DefaultListenableGraph(
-    DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
-).also { graph ->
-    rolesMap.forEach { (coreLabel, roles) ->
-        val source = decomposedInput.getValue(coreLabel)
-            .also { graph.addVertex(it) }
-        roles
-            .map { role ->
-                decomposeWord(role.toLowerCase())
-                    .also { addConceptRecursivly(graph, it) }
-            }
-            .forEach { roleConcept ->
-                graph.addVertex(roleConcept)
-                createEdge(
-                    edgeType = EdgeType.SemanticRole,
-                    source = source,
-                    target = roleConcept
-                )?.let { edge ->
-                    if (edge !in graph.getAllEdges(source, roleConcept)) {
-                        graph.addEdge(source, roleConcept, edge)
-                        graph.setEdgeWeight(edge, edge.edgeWeight)
+            Concept(coreLabel.ner().toLowerCase(), WordType.getType(coreLabel.tag()))
+                .let { entityConcept ->
+                    if (config.useSemanticGraph) entityConcept.decompose(config.decompositionDepth)
+                    else entityConcept
+                }
+                .also { entityConcept ->
+                    graph.addSemanticRelationsRecursive(entityConcept, config)
+                }
+                .let { entityConcept ->
+                    createEdge(
+                        edgeType = EdgeType.NamedEntity,
+                        source = nameConcept,
+                        target = entityConcept
+                    )?.let { edge ->
+                        if (edge !in graph.getAllEdges(nameConcept, entityConcept)) {
+                            graph.addEdge(nameConcept, entityConcept, edge)
+                            graph.setEdgeWeight(edge, edge.edgeWeight)
+                        }
                     }
                 }
+
+        }
+}
+
+fun createRolesGraph(
+    conceptMap: Map<CoreLabel, Concept>,
+    coreDoc: CoreDocument,
+    config: ArcGraphConfig
+) = DefaultListenableGraph(
+    DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
+)
+    .also { graph ->
+        identifySemanticRoles(coreDoc)
+            .forEach { (coreLabel, roleList) ->
+                val source = conceptMap.getValue(coreLabel)
+                    .also { graph.addVertex(it) }
+                roleList
+                    .map { role ->
+                        role.toGraphComponent(config.copy(useSemanticRoles = false)).graph
+                    }
+                    .forEach { roleGraph ->
+                        roleGraph.vertexSet().forEach { graph.addVertex(it) }
+                        roleGraph.edgeSet().forEach { edge -> graph.addEdge(edge.source as Concept, edge.target as Concept, edge) }
+                        roleGraph.vertexSet()
+                            .forEach { roleConcept ->
+                                createEdge(
+                                    edgeType = EdgeType.SemanticRole,
+                                    source = source,
+                                    target = roleConcept
+                                )?.let { edge ->
+                                    if (edge !in graph.getAllEdges(source, roleConcept)) {
+                                        graph.addEdge(source, roleConcept, edge)
+                                        graph.setEdgeWeight(edge, edge.edgeWeight)
+                                    }
+                                }
+                            }
+                    }
             }
     }
-}
 
 fun createEdge(edgeType: EdgeType, source: Concept, target: Concept, syntaxRelation: String? = null): WeightedEdge? {
     val edgetypeAttribute = "edgeType"
@@ -144,19 +178,19 @@ fun createEdge(edgeType: EdgeType, source: Concept, target: Concept, syntaxRelat
             weight = hyponymLinkWeight,
             attributes = mapOf(edgetypeAttribute to "hyponym")
         )
-        EdgeType.Antonym -> createEdge(
-            edge = AntonymEdge(),
-            source = source,
-            target = target,
-            weight = antonymLinkWeight,
-            attributes = mapOf(edgetypeAttribute to "antonym")
-        )
         EdgeType.Meronym -> createEdge(
             edge = MeronymEdge(),
             source = source,
             target = target,
             weight = meronymLinkWeight,
             attributes = mapOf(edgetypeAttribute to "meronym")
+        )
+        EdgeType.Antonym -> createEdge(
+            edge = AntonymEdge(),
+            source = source,
+            target = target,
+            weight = antonymLinkWeight,
+            attributes = mapOf(edgetypeAttribute to "antonym")
         )
         EdgeType.Syntax -> createEdge(
             edge = SyntaxEdge(),
@@ -198,68 +232,102 @@ fun createEdge(edge: WeightedEdge, source: Concept, target: Concept, weight: Dou
     return edge
 }
 
-fun addConceptRecursivly(graph: DefaultListenableGraph<Concept, WeightedEdge>, source: Concept) {
-    if (!Decomposition.getConcepts2Ignore().contains(source)) {
-        if (!graph.containsVertex(source)) {
-            val senseKeys =
-                if (source.assignedSensekeys.isNotEmpty()) {
-                    source.assignedSensekeys
-                } else {
-                    source.availableSensekeys
-                }
-
-            graph.addVertex(source)
-
-            mapOf(
-                EdgeType.Synonym to source.sensekeyToSynonymsMap,
-                EdgeType.Definition to source.sensekeyToDefinitionsMap.mapValues { (_, def) -> def.definition },
-                EdgeType.Hyponym to source.sensekeyToHyponymsMap,
-                EdgeType.Hypernym to source.sensekeyToHypernymsMap,
-                EdgeType.Antonym to source.sensekeyToAntonymsMap,
-                EdgeType.Meronym to source.sensekeyToMeronymsMap
-            )
-                .mapValues { (_, senseKeyMap) ->
-                    senseKeyMap.filterKeys { it in senseKeys }.values.flatten()
-                }
-                .map { (edgeType, concepts) ->
-                    concepts.mapNotNull { it?.let { edgeType to it } }
-                }
-                .flatten()
-                .filterNot { (_, target) -> target in Decomposition.getConcepts2Ignore() || source == target }
-                .forEach { (edgeType, target) ->
-                    addConceptRecursivly(graph, target)
-                    createEdge(
-                        edgeType = edgeType,
-                        source = source,
-                        target = target
-                    )
-                        ?.let { edge ->
-                            if (edge !in graph.getAllEdges(source, target)) {
-                                graph.addEdge(source, target, edge)
-                                graph.setEdgeWeight(edge, edge.edgeWeight)
-                            }
-                        }
-                }
-        }
+fun DefaultListenableGraph<Concept, WeightedEdge>.addSemanticRelationsRecursive(source: Concept, config: ArcGraphConfig) {
+    if (source !in Decomposition.getConcepts2Ignore() && !containsVertex(source)) {
+        addVertex(source)
+        addDefinitionsBy(source, config)
+        addConceptsBy(source, config)
     }
 }
 
-fun mergeGraphes(graphList: List<Graph<Concept, WeightedEdge>>) =
+fun DefaultListenableGraph<Concept, WeightedEdge>.addDefinitionsBy(source: Concept, config: ArcGraphConfig) {
+    val senseKeys = source.assignedSenseKeys.ifEmpty { source.senseKeyToGlossMap.keys }
+
+    val defComponents = senseKeys.mapNotNull { senseKey ->
+        source.senseKeyToGlossMap[senseKey]
+            ?.toGraphComponent(
+                config = config.copy(decompositionDepth = config.decompositionDepth - 1)
+            )
+    }
+    //merge def Graphs with graph
+    defComponents.map { it.graph }.merge()
+        .let {
+            vertexSet().forEach { concept ->
+                if (!containsVertex(concept)) addVertex(concept)
+            }
+            edgeSet().forEach { edge ->
+                val currSource = edge.source as Concept
+                val currTarget = edge.target as Concept
+                if (edge !in getAllEdges(currSource, currTarget)) {
+                    addEdge(currSource, currTarget, edge)
+                    setEdgeWeight(edge, edge.edgeWeight)
+                }
+            }
+        }
+
+    //link def Graph with source
+    defComponents.map { it.conceptMap.values }.flatten().forEach { concept ->
+        addSemanticRelationsRecursive(concept, config)
+        createEdge(
+            edgeType = EdgeType.Definition,
+            source = source,
+            target = concept
+        )
+            ?.let { edge ->
+                if (edge !in getAllEdges(source, concept)) {
+                    addEdge(source, concept, edge)
+                    setEdgeWeight(edge, edge.edgeWeight)
+                }
+            }
+    }
+}
+
+fun DefaultListenableGraph<Concept, WeightedEdge>.addConceptsBy(source: Concept, config: ArcGraphConfig) {
+    val senseKeys = source.assignedSenseKeys.ifEmpty { source.senseKeyToGlossMap.keys }
+    mapOf(
+        EdgeType.Synonym to source.senseKeyToSynonymsMap,
+        EdgeType.Antonym to source.senseKeyToAntonymsMap,
+        EdgeType.Hyponym to source.senseKeyToHyponymsMap,
+        EdgeType.Hypernym to source.senseKeyToHypernymsMap,
+        EdgeType.Meronym to source.senseKeyToMeronymsMap
+    )
+        .mapValues { (_, senseKeyMap) ->
+            senseKeys.mapNotNull { senseKey -> senseKeyMap[senseKey] }.flatten()
+        }
+        .map { (edgeType, conceptList) ->
+            conceptList.map { con -> edgeType to con }
+        }
+        .flatten()
+        .filterNot { (_, target) -> source == target || target in Decomposition.getConcepts2Ignore() }
+        .forEach { (edgeType, target) ->
+            addSemanticRelationsRecursive(target, config)
+            createEdge(
+                edgeType = edgeType,
+                source = source,
+                target = target
+            )
+                ?.let { edge ->
+                    if (edge !in getAllEdges(source, target)) {
+                        addEdge(source, target, edge)
+                        setEdgeWeight(edge, edge.edgeWeight)
+                    }
+                }
+        }
+}
+
+fun List<Graph<Concept, WeightedEdge>>.merge() =
     DefaultListenableGraph(
         DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
     ).also { graph ->
-        graphList
-            .map { it.vertexSet() }
+        map { it.vertexSet() }
             .flatten()
-            .sortedByDescending { it.assignedContexts.size }
             .distinct()
             .forEach { graph.addVertex(it) }
-        graphList
-            .map { it.edgeSet() }
+        map { it.edgeSet() }
             .flatten()
             .distinct()
-            .forEach {
-                graph.addEdge(it.source as Concept, it.target as Concept, it)
-                graph.setEdgeWeight(it, it.edgeWeight)
+            .forEach { edge ->
+                graph.addEdge(edge.source as Concept, edge.target as Concept, edge)
+                graph.setEdgeWeight(edge, edge.edgeWeight)
             }
     }
