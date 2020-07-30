@@ -29,3 +29,13 @@ data class GraphComponent(
     val conceptMap: Map<CoreLabel, Concept>,
     val graph: Graph<Concept, WeightedEdge>
 )
+
+data class ArcGraphConfig(
+    val decompositionDepth: Int = 2,
+    val useSemanticGraph: Boolean = true,
+    val useSyntaxDependencies: Boolean = false,
+    val useSemanticRoles: Boolean = false,
+    val useNamedEntities: Boolean = false,
+    val useWsd: Boolean = false,
+    val useNegationHandling: Boolean = false
+)
