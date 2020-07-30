@@ -5,7 +5,7 @@ import arc.util.printProgress
 import arc.dataset.readDataset
 
 fun main() {
-    val sizeToTake = 100
+    val sizeToTake = 10
     val results = readDataset(Dataset.ADVERSIAL_TRAIN)?.let { dataSet ->
         dataSet.asSequence()
             .take(sizeToTake)

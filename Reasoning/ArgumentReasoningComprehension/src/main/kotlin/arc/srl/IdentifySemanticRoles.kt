@@ -7,9 +7,6 @@ import edu.stanford.nlp.pipeline.CoreDocument
 import se.lth.cs.srl.CompletePipeline
 import se.lth.cs.srl.options.CompletePipelineCMDLineOptions
 import java.io.File
-import java.io.OutputStream
-import java.io.PrintStream
-
 
 private val language = "eng"
 private val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
@@ -17,7 +14,7 @@ private val lemmaPath = downloadModel("lemmatizer-eng-4M-v36.mdl")
 private val taggerPath = downloadModel("tagger-eng-4M-v36.mdl")
 private val parserPath = downloadModel("parser-eng-12M-v36.mdl")
 private val srlPath = downloadModel("CoNLL2009-ST-English-ALL.anna-3.3.srl-4.1.srl.model")
-private val pipeline = getPipeline(
+private val srlPipeline = getPipeline(
     arrayOf(
         language,
         "-lemma",
@@ -43,18 +40,24 @@ private fun downloadModel(fileName: String): String {
 }
 
 private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
-    val defaultOutputStream = System.out
-    System.setOut(PrintStream(OutputStream.nullOutputStream()))
-    val pipeline = CompletePipelineCMDLineOptions()
-        .also { it.parseCmdLineArgs(pipelineOptions) }
-        .let { CompletePipeline.getCompletePipeline(it) }
-    System.setOut(defaultOutputStream)
-    return pipeline
+//    val defaultOutputStream = System.out
+//    System.setOut(PrintStream(OutputStream.nullOutputStream()))
+    val srlPipeline =try {
+         CompletePipelineCMDLineOptions()
+            .also { it.parseCmdLineArgs(pipelineOptions) }
+            .let { CompletePipeline.getCompletePipeline(it) }
+    } catch (e:NoClassDefFoundError){
+        CompletePipelineCMDLineOptions()
+            .also { it.parseCmdLineArgs(pipelineOptions) }
+            .let { CompletePipeline.getCompletePipeline(it) }
+    }
+//    System.setOut(defaultOutputStream)
+    return srlPipeline
 }
 
 fun identifySemanticRoles(coreDocument: CoreDocument): Map<CoreLabel, List<String>> = coreDocument.sentences().map { sentence ->
     //add a pseudo element to the tokens at index 0... mate tools srl desires it
-    pipeline.parse(listOf("").plus(sentence.tokensAsStrings()))
+    srlPipeline.parse(listOf("").plus(sentence.tokensAsStrings()))
         .predicates.mapNotNull { predicate ->
             getRoleSet(predicate.lemma, predicate.sense)
                 ?.let { roleSet ->
