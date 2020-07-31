@@ -8,8 +8,8 @@ import se.lth.cs.srl.CompletePipeline
 import se.lth.cs.srl.options.CompletePipelineCMDLineOptions
 import java.io.File
 
-private val language = "eng"
-private val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
+private const val language = "eng"
+private const val source = "http://dainas.dai-labor.de/~faehndrich@dai/NLP/Models/"
 private val lemmaPath = downloadModel("lemmatizer-eng-4M-v36.mdl")
 private val taggerPath = downloadModel("tagger-eng-4M-v36.mdl")
 private val parserPath = downloadModel("parser-eng-12M-v36.mdl")
@@ -42,17 +42,15 @@ private fun downloadModel(fileName: String): String {
 private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
 //    val defaultOutputStream = System.out
 //    System.setOut(PrintStream(OutputStream.nullOutputStream()))
-    val srlPipeline =try {
-         CompletePipelineCMDLineOptions()
-            .also { it.parseCmdLineArgs(pipelineOptions) }
-            .let { CompletePipeline.getCompletePipeline(it) }
-    } catch (e:NoClassDefFoundError){
-        CompletePipelineCMDLineOptions()
-            .also { it.parseCmdLineArgs(pipelineOptions) }
-            .let { CompletePipeline.getCompletePipeline(it) }
-    }
+    val srlPipeline = CompletePipelineCMDLineOptions()
+        .also { pipeline -> pipeline.parseCmdLineArgs(pipelineOptions) }
+//    } catch (e:NoClassDefFoundError){
+//        CompletePipelineCMDLineOptions()
+//            .also { it.parseCmdLineArgs(pipelineOptions) }
+//            .let { CompletePipeline.getCompletePipeline(it) }
+//    }
 //    System.setOut(defaultOutputStream)
-    return srlPipeline
+    return srlPipeline.let { pipeline -> CompletePipeline.getCompletePipeline(pipeline) }
 }
 
 fun identifySemanticRoles(coreDocument: CoreDocument): Map<CoreLabel, List<String>> = coreDocument.sentences().map { sentence ->
