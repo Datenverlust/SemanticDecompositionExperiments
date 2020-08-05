@@ -1,7 +1,7 @@
 package arc.util
 
+import arc.ArcGraphConfig
 import de.kimanufaktur.nsm.decomposition.Concept
-import de.kimanufaktur.nsm.decomposition.WordType
 import org.junit.Assert
 import org.junit.Test
 
@@ -9,7 +9,7 @@ class DecompositionUtilTest {
     @Test
     fun decompositionDepthTest() {
         (0..3).forEach { depth ->
-            val decomposed = Concept("mother", WordType.NN).decompose(depth)
+            val decomposed = "mother".decompose(ArcGraphConfig(depth = 1), "NN")
             if (depth == 0) Assert.assertEquals(-1, decomposed.decompositionlevel)
             else Assert.assertEquals(depth, decomposed.decompositionlevel)
             val allHypernyms = mutableListOf<Concept>()
@@ -29,16 +29,9 @@ class DecompositionUtilTest {
     }
 
     @Test
-    fun wordTypeTest() {
-        val wordTypeBefore = WordType.NN
-        val wordTypeAfter = Concept("mother", wordTypeBefore).decompose(1).wordType
-        Assert.assertEquals(wordTypeBefore, wordTypeAfter)
-    }
-
-    @Test
     fun stopWordsTest() {
         listOf("a", "the", "that", "on", "of", "by").forEach { stopWord ->
-            Assert.assertTrue(Concept(stopWord).isStopWord())
+            Assert.assertTrue(stopWord.isStopWord())
         }
     }
 
