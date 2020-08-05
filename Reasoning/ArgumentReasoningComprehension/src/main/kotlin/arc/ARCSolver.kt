@@ -1,54 +1,50 @@
 package arc
 
 import arc.dataset.allElements
+import arc.negation.resolveNegation
+import arc.util.addNerGraph
+import arc.util.addRolesGraph
+import arc.util.addSemanticGraph
+import arc.util.addSyntaxGraph
 import arc.util.asAnnotatedCoreDocument
-import arc.util.createNerGraph
-import arc.util.createRolesGraph
-import arc.util.createSemanticGraph
-import arc.util.createSyntaxGraph
 import arc.util.decompose
-import arc.util.isNamedEntity
-import arc.util.isStopWord
 import arc.util.merge
+import arc.util.syntaxEdges
 import arc.wsd.disambiguateBy
 import arc.wsd.markContext
 import de.kimanufaktur.nsm.decomposition.Concept
-import de.kimanufaktur.nsm.decomposition.WordType
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing
 import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
 import edu.stanford.nlp.ling.CoreLabel
 import edu.stanford.nlp.pipeline.CoreDocument
+import org.jgrapht.graph.DefaultDirectedWeightedGraph
+import org.jgrapht.graph.DefaultListenableGraph
 import java.util.Collections
+import arc.util.mapIf as mapIf
 
 val graphCache = Collections.synchronizedMap<String, GraphComponent>(mutableMapOf())
 
-fun String.asKey(config: ArcGraphConfig) = "$this#${config.decompositionDepth}"
+fun String.asKey(config: ArcGraphConfig) = "$this#${config.depth}"
 
-fun String.toGraphComponent(config: ArcGraphConfig = ArcGraphConfig()) = graphCache[this.asKey(config)]
-    ?: buildGraphComponent(config)
+fun String.toGraphComponent(config: ArcGraphConfig = ArcGraphConfig()) =
+    graphCache[asKey(config)] ?: buildGraphComponent(config)
 
 fun String.buildGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): GraphComponent {
     val coreDoc = asAnnotatedCoreDocument()
     val conceptMap = coreDoc.buildConceptMap(config)
-
-    val graph = listOfNotNull(
-        if (config.useSemanticGraph)
-            createSemanticGraph(
-                conceptList = conceptMap.values,
-                config = config
-            )
-        else null,
-        if (config.useSyntaxDependencies) createSyntaxGraph(conceptMap, coreDoc) else null,
-        if (config.useNamedEntities) createNerGraph(conceptMap, config) else null,
-        if (config.useSemanticRoles) createRolesGraph(
-            conceptMap = conceptMap,
-            coreDoc = coreDoc,
-            config = config
-        ) else null
-    )
-        .merge()
-
+    val graph = DefaultListenableGraph(
+        DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
+    ).also { graph ->
+        conceptMap.values.forEach { graph.addVertex(it) }
+        if (config.depth > 0) {
+            if (config.useSemDec) graph.addSemanticGraph(conceptMap.values, config)
+            if (config.useSyntax) graph.addSyntaxGraph(conceptMap, coreDoc, config)
+            if (config.useNer) graph.addNerGraph(conceptMap, config)
+            if (config.useSrl) graph.addRolesGraph(conceptMap, coreDoc, config)
+        }
+    }
     return GraphComponent(
         context = this,
         coreDoc = coreDoc,
@@ -60,38 +56,36 @@ fun String.buildGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): Graph
 fun CoreDocument.buildConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept> {
     val tokens by lazy { tokens() }
     val words by lazy { tokens().map { it.word() } }
-    return sentences().map { coreSentence ->
-        coreSentence.tokens().asSequence()
-            .map { coreLabel ->
-                coreLabel to coreLabel.originalText().replace("""[^\p{Alnum}]+""".toRegex(), "")
-            }
-            .filterNot { (_, litheral) -> litheral.isBlank() }
-            .map { (coreLabel, litheral) ->
-                Concept(litheral, WordType.getType(coreLabel.tag()))
-                    .let { concept ->
-                        if (concept.isStopWord() && coreLabel.isNamedEntity()) {
-                            concept
-                        } else {
-                            concept.decompose(config.decompositionDepth)
-                        }
-                    }
-                    .let { concept ->
-                        if (config.useWsd) {
-                            val markedContext = tokens.indexOf(coreLabel).markContext(words)
-                            concept.disambiguateBy(markedContext)
-                        } else concept
-                    }
-                    .let { if (config.useNegationHandling) it else it }
-                    .let { concept -> coreLabel to concept }
-            }
-            .toList()
-    }
+    val negEdges by lazy { syntaxEdges().filter { it.relation.shortName == "neg" } }
+
+    return sentences().asSequence()
+        .map { coreSentence ->
+            coreSentence.tokens().asSequence()
+                .filterNot { coreLabel ->
+                    coreLabel.originalText().replace("""[^\p{Alnum}]+""".toRegex(), "").isBlank()
+                }
+                .map { coreLabel ->
+                    coreLabel to coreLabel.decompose(config)
+                }
+        }
         .flatten()
+        .mapIf(config.useWsd && config.depth > 0) { (coreLabel, concept) ->
+            coreLabel to concept.disambiguateBy(
+                markedContext = tokens.indexOf(coreLabel).markContext(words)
+            )
+        }
+        .mapIf(config.useNeg && config.depth > 0 && negEdges.isNotEmpty()) { (coreLabel, concept) ->
+            coreLabel to concept.resolveNegation(
+                config = config,
+                coreLabel = coreLabel,
+                markedContext = tokens.indexOf(coreLabel).markContext(words),
+                negationEdges = negEdges
+            )
+        }
         .toMap()
 }
 
 fun ArcTask.solve(): ArcLabel {
-
     //TODO: simplify by data class
     val graphComponents = allElements().map { elem -> elem.toGraphComponent() }
     val thresholdConcepts = graphComponents.map { it.conceptMap.values }.flatten()
