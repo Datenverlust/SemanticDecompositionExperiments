@@ -11,7 +11,9 @@ private const val defaultThreshold: Double = 0.5
 fun WSDRequest.process(threshold: Double = defaultThreshold) =
     sendWsdRequest(convertToCsvString(), wordSenses)
         ?.let { results ->
-            results.filter { (_, score) -> score >= threshold }
+
+            results
+                .filter { (_, score) -> score >= threshold }
                 .ifEmpty { listOfNotNull(results.maxBy { (_, score) -> score }) }
                 .map { (sense, _) -> sense }
         }
@@ -38,11 +40,11 @@ private fun WSDRequest.convertToCsvString() =
     }
 
 fun Concept.disambiguateBy(markedContext: String): Concept {
-    if (senseKeyToGlossMap.isEmpty()) return this
-    val wordSenses = senseKeyToGlossMap.map { (senseKey, gloss) ->
+    if (definitions.isEmpty()) return this
+    val wordSenses = definitions.map { def ->
         WordSense(
-            senseKey = senseKey,
-            gloss = gloss
+            senseKey = def.sensekey,
+            gloss = def.gloss
         )
     }
     return WSDRequest(
