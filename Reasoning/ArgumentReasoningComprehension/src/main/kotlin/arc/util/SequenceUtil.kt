@@ -1,5 +1,7 @@
 package arc.util
 
+fun <T> Sequence<T>.mapIf(condition: Boolean, mapper: (T) -> T) = if (condition) map(mapper) else this
+
 fun <T> Sequence<T>.printProgress(
     interval: Int,
     total: Int,
