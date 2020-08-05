@@ -4,7 +4,7 @@ import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import edu.stanford.nlp.ling.CoreLabel
 import edu.stanford.nlp.pipeline.CoreDocument
-import org.jgrapht.Graph
+import org.jgrapht.graph.DefaultListenableGraph
 
 data class ArcTask(
     val id: String,
@@ -27,15 +27,18 @@ data class GraphComponent(
     val context: String,
     val coreDoc: CoreDocument,
     val conceptMap: Map<CoreLabel, Concept>,
-    val graph: Graph<Concept, WeightedEdge>
+    val graph: DefaultListenableGraph<Concept, WeightedEdge>
 )
 
 data class ArcGraphConfig(
-    val decompositionDepth: Int = 2,
-    val useSemanticGraph: Boolean = true,
-    val useSyntaxDependencies: Boolean = false,
-    val useSemanticRoles: Boolean = false,
-    val useNamedEntities: Boolean = false,
+    val depth: Int = 2,
+    val useSemDec: Boolean = true,
+    val useSyntax: Boolean = false,
+    val useSrl: Boolean = false,
+    val useNer: Boolean = false,
     val useWsd: Boolean = false,
-    val useNegationHandling: Boolean = false
+    val useNeg: Boolean = false
 )
+
+fun Concept.ifWsd(config: ArcGraphConfig, transformer: Concept.() -> Concept) =
+    if (config.useWsd) this.transformer() else this
