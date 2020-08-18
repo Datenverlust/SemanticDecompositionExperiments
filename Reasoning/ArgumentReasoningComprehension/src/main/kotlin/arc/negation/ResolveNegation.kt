@@ -15,7 +15,7 @@ fun Concept.resolveNegation(
     markedContext: String,
     negationEdges: List<SemanticGraphEdge>
 ) =
-    if (coreLabel.isNegationTarget(negationEdges))
+    if (coreLabel.isNegated(negationEdges))
         assignedSenseKeys.ifEmpty { definitions.map { it.sensekey} }
             .mapNotNull { senseKey -> senseKeyToAntonymsMap[senseKey] }
             .flatten().firstOrNull()
@@ -31,5 +31,5 @@ private fun Concept.pseudoAntonym() = copy().also {
     it.senseKeyToAntonymsMap = senseKeyToSynonymsMap
 }
 
-fun CoreLabel.isNegationTarget(negationEdges: List<SemanticGraphEdge>) = negationEdges
-    .any { edge -> edge.target.backingLabel() == this }
+fun CoreLabel.isNegated(negationEdges: List<SemanticGraphEdge>) = negationEdges
+    .any { edge -> edge.source.backingLabel() == this }
