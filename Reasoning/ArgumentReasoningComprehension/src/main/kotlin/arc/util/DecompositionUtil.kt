@@ -9,7 +9,7 @@ import edu.stanford.nlp.ling.CoreLabel
 private val semanticDecomposition = Decomposition()
 
 fun Concept.decompose(depth: Int) = semanticDecomposition.decompose(
-    lemma,
+    lemma?:litheral,
     wordType,
     depth
 )
@@ -51,5 +51,6 @@ fun Concept.copy() = Concept(litheral).also { con ->
     con.senseKeyToHyponymsMap = senseKeyToHyponymsMap
     con.senseKeyToHypernymsMap = senseKeyToHypernymsMap
     con.senseKeyToMeronymsMap = senseKeyToMeronymsMap
+    con.assignedSenseKeys = assignedSenseKeys
     con.definitions = definitions
 }
