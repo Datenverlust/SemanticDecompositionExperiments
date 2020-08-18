@@ -11,9 +11,7 @@ import java.io.File
 val exporter = GraphMLExporter<Concept, WeightedEdge>(
     { concept -> concept.hashCode().toString() },
     { concept ->
-        concept.litheral +
-            if (concept.assignedSenseKeys.isNotEmpty()) " : ${concept.assignedSenseKeys}" else "" +
-                if (concept.negated) " NEG" else ""
+        concept.litheral + (if (concept.assignedSenseKeys.isNotEmpty()) " : ${concept.assignedSenseKeys}" else "") + (if (concept.negated) " NEG" else "")
     },
     { concept ->
         mapOf(
