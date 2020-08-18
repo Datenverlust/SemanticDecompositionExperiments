@@ -2,17 +2,13 @@ package arc
 
 import arc.dataset.allElements
 import arc.util.merge
+import arc.util.printSize
+import arc.util.saveToFile
 import arc.util.userHome
-import de.kimanufaktur.nsm.decomposition.Concept
-import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.runBlocking
-import org.jgrapht.io.Attribute
-import org.jgrapht.io.AttributeType
-import org.jgrapht.io.DefaultAttribute
-import org.jgrapht.io.GraphMLExporter
 import java.io.File
 import java.util.Collections
 
@@ -34,43 +30,21 @@ fun main() {
 //    graphCache.clear()
 //
 //
-//    val startTimeParallel = System.currentTimeMillis()
+
 //    val graphBuilder = ParallelGraphBuilder(3)
 //    val parallelGraph = graphBuilder.startAsync(arcTask.allElements()).map { it.graph }.merge()
-//    val endTimeParallel = System.currentTimeMillis()
-//    val durationParallel = endTimeParallel - startTimeParallel
-//    println("parallel duration: $durationParallel ms")
-//    graphCache.clear()
-//    "mother".decompose(ArcGraphConfig(depth = 1),"NN")
+
 //
     val component = "Amazon does not allow more leeway and money to the writers.".toGraphComponent()
+//    val component = arcTask.reason.toGraphComponent()
+    val startTime = System.currentTimeMillis()
+    val graph = arcTask.allElements().map { it.toGraphComponent().graph }.merge()
+    val endTime = System.currentTimeMillis()
+    val duration = endTime - startTime
+    println("duration: $duration ms")
+    graph.printSize()
 
-//    val startTime = System.currentTimeMillis()
-//    val con = arcTask.allElements().map { it.toGraphComponent().graph}.merge()
-////    val con = arcTask.reason.toGraphComponent(ArcGraphConfig()).graph
-//    val endTime = System.currentTimeMillis()
-//    val duration = (endTime - startTime).toDouble() / 1000.0
-//    println("duration: $duration s")
-
-
-    val exporter = GraphMLExporter<Concept, WeightedEdge>(
-        { concept -> concept.hashCode().toString() },
-        { concept -> concept.litheral + ": " + concept.assignedSenseKeys.toString() },
-        { concept ->
-            mapOf(
-                "literal" to DefaultAttribute(concept.litheral, AttributeType.STRING),
-                "lemma" to DefaultAttribute(concept.lemma, AttributeType.STRING),
-                "negated" to DefaultAttribute(concept.negated, AttributeType.BOOLEAN),
-                "assignedSenseKeys" to DefaultAttribute(concept.assignedSenseKeys.toString(), AttributeType.STRING),
-                "decompositionLevel" to DefaultAttribute(concept.decompositionlevel, AttributeType.INT)
-            )
-        },
-        { edge -> edge.hashCode().toString() },
-        { edge -> edge.edgeType.name },
-        { edge -> mapOf() }
-    )
-    val outputWriter = File(userHome("Dokumente/graph"), "Amazon.graphml").writer()
-    exporter.exportGraph(component.graph, outputWriter)
+    graph.saveToFile(File(userHome("Dokumente/graph"), "Tipping_Full.graphml"))
 
     println("debug")
 }

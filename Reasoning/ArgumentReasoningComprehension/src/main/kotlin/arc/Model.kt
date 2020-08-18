@@ -33,11 +33,11 @@ data class GraphComponent(
 data class ArcGraphConfig(
     val depth: Int = 2,
     val useSemDec: Boolean = true,
-    val useSyntax: Boolean = false,
-    val useSrl: Boolean = false,
-    val useNer: Boolean = false,
+    val useSyntax: Boolean = true,
+    val useSrl: Boolean = true,
+    val useNer: Boolean = true,
     val useWsd: Boolean = false,
-    val useNeg: Boolean = false
+    val useNeg: Boolean = true
 )
 
 fun Concept.ifWsd(config: ArcGraphConfig, transformer: Concept.() -> Concept) =
