@@ -8,6 +8,8 @@ import arc.util.addSemanticGraph
 import arc.util.addSyntaxGraph
 import arc.util.asAnnotatedCoreDocument
 import arc.util.decompose
+import arc.util.isStopWord
+import arc.util.mapIf
 import arc.util.merge
 import arc.util.syntaxEdges
 import arc.wsd.disambiguateBy
@@ -22,7 +24,6 @@ import edu.stanford.nlp.pipeline.CoreDocument
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 import java.util.Collections
-import arc.util.mapIf as mapIf
 
 val graphCache = Collections.synchronizedMap<String, GraphComponent>(mutableMapOf())
 
@@ -38,9 +39,9 @@ fun String.buildGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): Graph
         DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
     ).also { graph ->
         conceptMap.values.forEach { graph.addVertex(it) }
+        if (config.useSyntax) graph.addSyntaxGraph(conceptMap, coreDoc)
         if (config.depth > 0) {
             if (config.useSemDec) graph.addSemanticGraph(conceptMap.values, config)
-            if (config.useSyntax) graph.addSyntaxGraph(conceptMap, coreDoc, config)
             if (config.useNer) graph.addNerGraph(conceptMap, config)
             if (config.useSrl) graph.addRolesGraph(conceptMap, coreDoc, config)
         }
@@ -56,13 +57,17 @@ fun String.buildGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): Graph
 fun CoreDocument.buildConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept> {
     val tokens by lazy { tokens() }
     val words by lazy { tokens().map { it.word() } }
-    val negEdges by lazy { syntaxEdges().filter { it.relation.shortName == "neg" } }
+    val negTargets by lazy {
+        syntaxEdges().filter { edge -> edge.relation.shortName == "neg" }
+            .map { edge -> edge.source.backingLabel() }
+    }
 
     return sentences().asSequence()
         .map { coreSentence ->
             coreSentence.tokens().asSequence()
                 .filterNot { coreLabel ->
                     coreLabel.originalText().replace("""[^\p{Alnum}]+""".toRegex(), "").isBlank()
+                        || coreLabel.lemma().isStopWord()
                 }
                 .map { coreLabel ->
                     coreLabel to coreLabel.decompose(config)
@@ -74,13 +79,11 @@ fun CoreDocument.buildConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept
                 markedContext = tokens.indexOf(coreLabel).markContext(words)
             )
         }
-        .mapIf(config.useNeg && config.depth > 0 && negEdges.isNotEmpty()) { (coreLabel, concept) ->
-            coreLabel to concept.resolveNegation(
+        .mapIf(config.useNeg && config.depth > 0) { (coreLabel, concept) ->
+            coreLabel to if (coreLabel in negTargets) concept.resolveNegation(
                 config = config,
-                coreLabel = coreLabel,
-                markedContext = tokens.indexOf(coreLabel).markContext(words),
-                negationEdges = negEdges
-            )
+                markedContext = tokens.indexOf(coreLabel).markContext(words)
+            ) else concept
         }
         .toMap()
 }
