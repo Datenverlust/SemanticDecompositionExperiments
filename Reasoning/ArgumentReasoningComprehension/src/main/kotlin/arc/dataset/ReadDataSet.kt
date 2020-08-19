@@ -63,5 +63,5 @@ fun readDataset(dataset: Dataset) =
         }
     }
 
-fun ArcTask.allElements() =
+fun ArcTask.allTextElements() =
     listOf(this.warrant0, this.warrant1, this.reason, this.claim, this.debateTitle, this.debateInfo)
