@@ -43,15 +43,15 @@ data class ArcGraphConfig(
 data class ArcMarkerPassingConfig(
     val startActivation: Double = 100.0,
     val threshold: Double = 0.1,
-    val synonymLinkWeight: Double = 0.9,
-    val definitionLinkWeight: Double = 0.8,
-    val antonymLinkWeight: Double = -0.9,
-    val hyponymLinkWeight: Double = 0.5,
-    val hypernymLinkWeight: Double = 0.4,
-    val meronymLinkWeight: Double = 0.4,
-    val syntaxLinkWeight: Double = 0.8,
-    val namedEntityLinkWeight: Double = 0.5,
-    val semanticRoleLinkWeight: Double = 0.8
+    val synonymLinkWeight: Double = -0.94,
+    val definitionLinkWeight: Double = 0.25,
+    val antonymLinkWeight: Double = -0.11,
+    val hyponymLinkWeight: Double = 0.11,
+    val hypernymLinkWeight: Double = 0.3,
+    val meronymLinkWeight: Double = 0.3,
+    val syntaxLinkWeight: Double = 0.25,
+    val namedEntityLinkWeight: Double = -0.94,
+    val semanticRoleLinkWeight: Double = -0.94
 )
 
 data class ArcResult(
