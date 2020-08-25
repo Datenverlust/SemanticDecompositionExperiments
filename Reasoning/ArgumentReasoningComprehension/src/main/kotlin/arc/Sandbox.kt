@@ -1,6 +1,11 @@
 package arc
 
 import arc.dataset.allTextElements
+import arc.util.evaluateResults
+import arc.util.merge
+import arc.util.saveToFile
+import arc.util.userHome
+import java.io.File
 
 fun main() {
     val arcTask = ArcTask(
@@ -14,28 +19,10 @@ fun main() {
         debateInfo = "Should restaurants do away with tipping?"
     )
 
+//    val solver = ArcSolver()
+//    val graph = arcTask.allTextElements().map { solver.buildGraphComponent(it).graph }.merge()
+//    graph.saveToFile(File(userHome("Dokumente/graph"), "Tipping_${ArcGraphConfig().hashCode()}.graphml"))
+    val results = evaluateResults(ArcGraphConfig().hashCode().toString())
 
-//    val wsdSentence = "I am visiting my mother today. The Mediterranean was mother to many cultures and languages."
-    //    val sentence = arcTask.allElements().map { it.toGraphComponent().graph}.merge()
-//    val init = arcTask.warrant0.toGraphComponent()
-//    graphCache.clear()
-//
-//
-
-//    val graphBuilder = ParallelGraphBuilder(3)
-//    val parallelGraph = graphBuilder.startAsync(arcTask.allElements()).map { it.graph }.merge()
-
-//
-//    val component = "Amazon does not allow more leeway and money to the writers.".toGraphComponent()
-//    val component = arcTask.reason.toGraphComponent()
-//    val startTime = System.currentTimeMillis()
-//    val graph = arcTask.allElements().map { it.toGraphComponent().graph }.merge()
-//    val endTime = System.currentTimeMillis()
-//    val duration = endTime - startTime
-//    println("duration: $duration ms")
-//    graph.printSize()
-//
-//    graph.saveToFile(File(userHome("Dokumente/graph"), "Tipping_Full.graphml"))
-//
-//    println("debug")
+    println("debug")
 }
