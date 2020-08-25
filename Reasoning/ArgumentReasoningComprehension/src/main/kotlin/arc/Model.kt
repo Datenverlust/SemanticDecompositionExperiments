@@ -41,16 +41,16 @@ data class ArcGraphConfig(
 )
 
 data class ArcMarkerPassingConfig(
-    val startActivation: Double = 100.0,
-    val threshold: Double = 0.1,
+    val startActivation: Double = 3.0,
+    val threshold: Double = 0.32,
     val synonymLinkWeight: Double = -0.94,
     val definitionLinkWeight: Double = 0.25,
     val antonymLinkWeight: Double = -0.11,
     val hyponymLinkWeight: Double = 0.11,
     val hypernymLinkWeight: Double = 0.3,
     val meronymLinkWeight: Double = 0.3,
-    val syntaxLinkWeight: Double = 0.25,
-    val namedEntityLinkWeight: Double = -0.94,
+    val syntaxLinkWeight: Double = 0.5,
+    val namedEntityLinkWeight: Double = 0.3,
     val semanticRoleLinkWeight: Double = -0.94
 )
 
