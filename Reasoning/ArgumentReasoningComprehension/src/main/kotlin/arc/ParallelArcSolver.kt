@@ -8,27 +8,27 @@ import java.util.Collections
 
 class ParallelArcSolver(
     val numThreads: Int,
-    val arcSolverFactory: () -> ((ArcTask) -> ArcLabel)
+    val arcSolverFactory: () -> ((ArcTask) -> ArcResult)
 ) {
-    fun startAsync(tasks: List<ArcTask>): Map<String, ArcLabel> = runBlocking {
+    fun startAsync(tasks: List<ArcTask>): List<ArcResult> = runBlocking {
         val componentChannel = Channel<ArcTask>()
-        val labels = Collections.synchronizedMap(HashMap<String, ArcLabel>(tasks.size))
+        val results = Collections.synchronizedList(ArrayList<ArcResult>(tasks.size))
         val runners = (1..numThreads).map {
             async(Dispatchers.IO) {
-                buildGraphs(componentChannel, labels)
+                buildGraphs(componentChannel, results)
             }
         }
         tasks.forEach { componentChannel.send(it) }
         componentChannel.close()
         runners.forEach { it.await() }
-        return@runBlocking labels
+        return@runBlocking results
     }
 
-    internal suspend fun buildGraphs(taskChannel: Channel<ArcTask>, labels: MutableMap<String, ArcLabel>) {
+    internal suspend fun buildGraphs(taskChannel: Channel<ArcTask>, results: MutableList<ArcResult>) {
         val arcSolver = arcSolverFactory.invoke()
         for (task in taskChannel) {
-            val label = arcSolver.invoke(task)
-            labels[task.id] = label
+            val result = arcSolver.invoke(task)
+            results.add(result)
         }
     }
 }
