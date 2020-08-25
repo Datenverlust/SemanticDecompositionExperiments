@@ -8,7 +8,7 @@ fun <T> Sequence<T>.printProgress(
     msg: String? = null,
     printer: (String) -> Unit = { println(it) }
 ): Sequence<T> = sequence {
-    val timer = TimerUtils()
+    val timer = TimerUtil()
     val totalDouble = total.toDouble()
     this@printProgress.forEachIndexed { index, t ->
         yield(t)
@@ -34,7 +34,7 @@ fun <T> Sequence<T>.printProgress(
     msg: String? = null,
     printer: (String) -> Unit = { println(it) }
 ): Sequence<T> = sequence {
-    val timer = TimerUtils()
+    val timer = TimerUtil()
     this@printProgress.forEachIndexed { index, t ->
         yield(t)
         val counter = index + 1
