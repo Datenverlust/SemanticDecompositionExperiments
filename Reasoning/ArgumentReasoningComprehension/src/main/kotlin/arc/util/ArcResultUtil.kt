@@ -24,7 +24,7 @@ fun saveResult(result: ArcResult, folderName: String) = File(resultsDir, folderN
         File(dir, "${result.id}.txt").writeText(result.toText())
     }
 
-fun getIdsOfDoneTasks() = resultsDir.listFiles().map { it.name.replace(".txt", "") }
+fun getIdsOfDoneTasks(dirName: String) = File(resultsDir, dirName).listFiles().map { it.name.replace(".txt", "") }
 
 fun List<ArcResult>.print() {
     filter { it.foundLabel == it.correctLabel }
