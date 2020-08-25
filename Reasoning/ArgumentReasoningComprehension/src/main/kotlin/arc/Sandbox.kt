@@ -24,5 +24,5 @@ fun main() {
 //    graph.saveToFile(File(userHome("Dokumente/graph"), "Tipping_${ArcGraphConfig().hashCode()}.graphml"))
     val results = evaluateResults(ArcGraphConfig().hashCode().toString())
 
-    println("debug")
+    println(results.filter { it.correctLabel == it.foundLabel }.size.toDouble() / results.size)
 }
