@@ -279,6 +279,8 @@ class ArcSolver : (ArcTask) -> ArcResult {
             .toMap()
     }
 
+    fun buildGraphComponent(text: String, config: ArcGraphConfig = ArcGraphConfig()): GraphComponent = text.toGraphComponent(config)
+
     override fun invoke(task: ArcTask): ArcResult {
         semanticGraphCache.clear()
         graphComponentCache.clear()
