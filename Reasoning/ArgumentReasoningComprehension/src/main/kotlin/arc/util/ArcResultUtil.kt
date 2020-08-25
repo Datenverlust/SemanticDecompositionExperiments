@@ -1,14 +1,17 @@
+@file:Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
+
 package arc.util
 
 import arc.ArcLabel
+import arc.ArcPartialResult
 import arc.ArcResult
 import java.io.File
 
 val resultsDir = File(userHome("Dokumente"), "arc_results").also { it.mkdirs() }
 
 fun ArcResult.toText() = listOf(
-    "found label: ${foundLabel}",
-    "correct label: ${correctLabel}",
+    "found label: $foundLabel",
+    "correct label: $correctLabel",
     "w0 score: ${resultW0.score}",
     "\t#vertices: ${resultW0.numVertices}",
     "\t#edges: ${resultW0.numEdges}",
@@ -24,7 +27,10 @@ fun saveResult(result: ArcResult, folderName: String) = File(resultsDir, folderN
         File(dir, "${result.id}.txt").writeText(result.toText())
     }
 
-fun getIdsOfDoneTasks(dirName: String) = File(resultsDir, dirName).listFiles().map { it.name.replace(".txt", "") }
+fun getIdsOfDoneTasks(dirName: String) = File(resultsDir, dirName)
+    .also { it.mkdirs() }
+    .listFiles()
+    .map { it.name.replace(".txt", "") }
 
 fun List<ArcResult>.print() {
     filter { it.foundLabel == it.correctLabel }
@@ -46,3 +52,27 @@ fun List<ArcResult>.print() {
             ).let { println(it) }
         }
 }
+
+fun evaluateResults(dirName: String) = File(resultsDir, dirName).listFiles()
+    .map { file -> file.parseAsArcResult() }
+
+fun File.parseAsArcResult(): ArcResult = readText()
+    .split("\n")
+    .map { line -> line.replace("""^.+: """.toRegex(), "") }
+    .let {
+        ArcResult(
+            id = name.removeSuffix(".txt"),
+            foundLabel = ArcLabel.valueOf(it[0]),
+            correctLabel = ArcLabel.valueOf(it[1]),
+            resultW0 = ArcPartialResult(
+                score = it[2].toDouble(),
+                numVertices = it[3].toInt(),
+                numEdges = it[4].toInt()
+            ),
+            resultW1 = ArcPartialResult(
+                score = it[5].toDouble(),
+                numVertices = it[6].toInt(),
+                numEdges = it[7].toInt()
+            )
+        )
+    }
