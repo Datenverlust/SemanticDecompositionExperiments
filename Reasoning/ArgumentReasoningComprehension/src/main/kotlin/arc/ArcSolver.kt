@@ -25,8 +25,9 @@ import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 import java.util.Collections
 
+val markerPassingConfig = ArcMarkerPassingConfig()
 
-class ArcSolver : (ArcTask) -> ArcLabel {
+class ArcSolver : (ArcTask) -> ArcResult {
 
     private val graphComponentCache = Collections.synchronizedMap<String, GraphComponent>(mutableMapOf())
 
@@ -143,12 +144,13 @@ class ArcSolver : (ArcTask) -> ArcLabel {
                                     source = source,
                                     target = target,
                                     relation = syntaxEdge.relation.longName
-                                )?.let { edge ->
-                                    if (!containsEdge(edge)) {
-                                        addEdge(source, target, edge)
-                                        setEdgeWeight(edge, edge.edgeWeight)
+                                )
+                                    ?.let { edge ->
+                                        if (!containsEdge(edge)) {
+                                            addEdge(source, target, edge)
+                                            setEdgeWeight(edge, edge.edgeWeight)
+                                        }
                                     }
-                                }
                             }
                     }
 
@@ -217,12 +219,12 @@ class ArcSolver : (ArcTask) -> ArcLabel {
             }
     }
 
-    private fun String.toGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): GraphComponent {
+    fun String.toGraphComponent(config: ArcGraphConfig = ArcGraphConfig()): GraphComponent {
         val key = asKey(config)
         graphComponentCache[key]?.let { return it }
 
         val coreDoc = asAnnotatedCoreDocument()
-        val conceptMap = coreDoc.buildConceptMap(config)
+        val conceptMap = coreDoc.toConceptMap(config)
         val graph = DefaultListenableGraph(
             DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
         ).also { graph ->
@@ -242,7 +244,7 @@ class ArcSolver : (ArcTask) -> ArcLabel {
         ).also { graphComponentCache[key] = it }
     }
 
-    private fun CoreDocument.buildConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept> {
+    private fun CoreDocument.toConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept> {
         val tokens by lazy { tokens() }
         val words by lazy { tokens().map { it.word() } }
         val negTargets by lazy {
@@ -256,6 +258,7 @@ class ArcSolver : (ArcTask) -> ArcLabel {
                     .filterNot { coreLabel ->
                         coreLabel.originalText().replace("""[^\p{Alnum}]+""".toRegex(), "").isBlank()
                             || coreLabel.lemma().isStopWord()
+                            || coreLabel.originalText().isStopWord()
                     }
                     .map { coreLabel ->
                         coreLabel to coreLabel.decompose(config)
@@ -276,53 +279,74 @@ class ArcSolver : (ArcTask) -> ArcLabel {
             .toMap()
     }
 
-    override fun invoke(task: ArcTask): ArcLabel {
-        val graphComponents = task.allTextElements().map { elem -> elem.toGraphComponent() }
-        listOf(
-            task.warrant0,
-            task.warrant1
+    override fun invoke(task: ArcTask): ArcResult {
+        semanticGraphCache.clear()
+        graphComponentCache.clear()
+
+        val allComponents = task.allTextElements().map { elem -> elem.toGraphComponent() }
+
+        return listOf(
+            ArcLabel.W0,
+            ArcLabel.W1
         )
-            .map {warrant ->
+            .map { label ->
+                val (warrant, components) =
+                    if (label == ArcLabel.W0)
+                        task.warrant0 to allComponents.filterNot { it.context == task.warrant1 }
+                    else
+                        task.warrant1 to allComponents.filterNot { it.context == task.warrant0 }
 
+                val graph = components.map { it.graph }.merge()
+
+                val markerPassing = ArcMarkerPassing(
+                    graph = graph,
+                    threshold = components.map { it.conceptMap.values }.flatten().createThresholdMap(),
+                    nodeType = DoubleNodeWithMultipleThresholds::class.java
+                )
+                    .also { markerPassing ->
+                        components.filter { it.context in listOf(task.reason, warrant) }
+                            .map { it.conceptMap.values }
+                            .flatten()
+                            .createStartActivationMap()
+                            .let { startActivationMap ->
+                                markerPassing.doInitialMarking(startActivationMap)
+                            }
+                    }
+                    .also { it.execute() }
+                ArcPartialResult(
+                    score = markerPassing.activationMap()
+                        .evaluate(components.map { it.conceptMap.values }.flatten()),
+                    numVertices = graph.vertexSet().size,
+                    numEdges = graph.edgeSet().size
+                )
             }
-        //TODO: simplify by data class
-
-        val thresholdConcepts = graphComponents.map { it.conceptMap.values }.flatten()
-        val startActivationConcepts = graphComponents.first { it.context == task.reason }.conceptMap.values
-        val w0Concepts = graphComponents.first { it.context == task.warrant0 }.conceptMap.values
-        val w1Concepts = graphComponents.first { it.context == task.warrant1 }.conceptMap.values
-
-        val graph = graphComponents.map { it.graph }.merge()
-
-        val markerPassing = ArcMarkerPassing(
-            graph,
-            thresholdConcepts.createThresholdMap(),
-            DoubleNodeWithMultipleThresholds::class.java
-        )
-            .also { markerPassing ->
-                startActivationConcepts.createStartActivationMap().let { startActivationMap ->
-                    markerPassing.doInitialMarking(startActivationMap)
-                }
+            .let { it[0] to it[1] }
+            .let { (resultW0, resultW1) ->
+                ArcResult(
+                    id = task.id,
+                    foundLabel =
+                    when {
+                        resultW0.score > resultW1.score -> ArcLabel.W0
+                        resultW0.score < resultW1.score -> ArcLabel.W1
+                        else -> ArcLabel.UNKNOWN
+                    },
+                    correctLabel = task.correctLabelW0orW1,
+                    resultW0 = resultW0,
+                    resultW1 = resultW1
+                )
             }
-            .also { it.execute() }
-
-        return markerPassing.activationMap()
-            .evaluate(
-                w0Concepts = w0Concepts,
-                w1Concepts = w1Concepts
-            )
     }
 
     private fun Collection<Concept>.createStartActivationMap() = map { concept ->
         DoubleMarkerWithOrigin().also {
-            it.activation = startActivation
+            it.activation = markerPassingConfig.startActivation
             it.origin = concept
         }
             .let { marker -> concept to listOf(marker) }
     }
         .toMap()
 
-    private fun Collection<Concept>.createThresholdMap() = map { concept -> concept to threshold }.toMap()
+    private fun Collection<Concept>.createThresholdMap() = map { concept -> concept to markerPassingConfig.threshold }.toMap()
 
     private fun DoubleMarkerPassing.activationMap() = nodes
         .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
@@ -331,22 +355,10 @@ class ArcSolver : (ArcTask) -> ArcLabel {
         .map { it.origin to it.activation }
         .toMap()
 
-
     private fun Map<Concept, Double>.evaluate(
-        w0Concepts: Collection<Concept>,
-        w1Concepts: Collection<Concept>
-    ) = mapOf(
-        ArcLabel.W0 to w0Concepts,
-        ArcLabel.W1 to w1Concepts
-    )
-        .mapValues { (_, warrantConcepts) ->
-            warrantConcepts.mapNotNull { concept -> this[concept] }
-                .average()
-        }
-        .toList()
-        .minBy { (_, score) -> score }
-        ?.let { (label, _) -> label }
-        ?: ArcLabel.UNKNOWN
+        resultConcepts: Collection<Concept>
+    ) = resultConcepts.mapNotNull { concept -> this[concept] }.average()
+
 }
 
 

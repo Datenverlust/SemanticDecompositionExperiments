@@ -4,7 +4,7 @@ import org.joda.time.Period
 import org.joda.time.format.PeriodFormatterBuilder
 import kotlin.math.roundToInt
 
-class TimerUtils {
+class TimerUtil {
     private var startTime: Long = 0
     private var endTime: Long = 0
     fun start() {
