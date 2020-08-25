@@ -31,13 +31,41 @@ data class GraphComponent(
 )
 
 data class ArcGraphConfig(
-    val depth: Int = 2,
+    val depth: Int = 1,
     val useSemDec: Boolean = true,
     val useSyntax: Boolean = true,
     val useSrl: Boolean = true,
     val useNer: Boolean = true,
     val useWsd: Boolean = false,
     val useNeg: Boolean = true
+)
+
+data class ArcMarkerPassingConfig(
+    val startActivation: Double = 100.0,
+    val threshold: Double = 0.1,
+    val synonymLinkWeight: Double = 0.9,
+    val definitionLinkWeight: Double = 0.8,
+    val antonymLinkWeight: Double = -0.9,
+    val hyponymLinkWeight: Double = 0.5,
+    val hypernymLinkWeight: Double = 0.4,
+    val meronymLinkWeight: Double = 0.4,
+    val syntaxLinkWeight: Double = 0.8,
+    val namedEntityLinkWeight: Double = 0.5,
+    val semanticRoleLinkWeight: Double = 0.8
+)
+
+data class ArcResult(
+    val id: String,
+    val foundLabel: ArcLabel,
+    val correctLabel: ArcLabel,
+    val resultW0: ArcPartialResult,
+    val resultW1: ArcPartialResult
+)
+
+data class ArcPartialResult(
+    val score: Double,
+    val numVertices: Int,
+    val numEdges: Int
 )
 
 fun Concept.ifWsd(config: ArcGraphConfig, transformer: Concept.() -> Concept) =
