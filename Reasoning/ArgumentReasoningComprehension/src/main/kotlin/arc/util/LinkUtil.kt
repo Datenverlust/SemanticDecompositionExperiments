@@ -1,6 +1,7 @@
 package arc.util
 
 import de.kimanufaktur.markerpassing.Link
+import de.kimanufaktur.markerpassing.Node
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import de.kimanufaktur.nsm.graph.entities.links.AntonymLink
@@ -27,8 +28,9 @@ fun WeightedEdge.toEmptyLink() = when (edgeType) {
 }
 
 fun Link.reverseByType(edgeType: EdgeType) = when (edgeType) {
-    EdgeType.Hyponym -> HypernymLink().reverse()
-    EdgeType.Hypernym -> HyponymLink().reverse()
+    EdgeType.Hyponym -> HypernymLink().reverse(source, target)
+    EdgeType.Hypernym -> HyponymLink().reverse(source, target)
+    EdgeType.SemanticRole -> null
     EdgeType.Definition -> null
     else -> reverse()
 }
@@ -36,4 +38,9 @@ fun Link.reverseByType(edgeType: EdgeType) = when (edgeType) {
 private fun Link.reverse() = apply {
     source = this@reverse.target
     target = this@reverse.source
+}
+
+private fun Link.reverse(source: Node, target: Node) = apply {
+    this.source = target
+    this.target = source
 }
