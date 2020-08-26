@@ -56,9 +56,6 @@ fun CoreDocument.findNegationTargets() = syntaxEdges().let { edgeList ->
                     }
                     ?.target
                     ?.backingLabel()
-                    .let {
-                        it
-                    }
             } else sourceLabel
         }
 }
