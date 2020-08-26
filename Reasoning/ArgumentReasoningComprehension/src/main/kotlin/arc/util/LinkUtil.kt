@@ -30,8 +30,7 @@ fun WeightedEdge.toEmptyLink() = when (edgeType) {
 fun Link.reverseByType(edgeType: EdgeType) = when (edgeType) {
     EdgeType.Hyponym -> HypernymLink().reverse(source, target)
     EdgeType.Hypernym -> HyponymLink().reverse(source, target)
-    EdgeType.SemanticRole -> null
-    EdgeType.Definition -> null
+    EdgeType.SemanticRole, EdgeType.Definition, EdgeType.Meronym -> null
     else -> reverse()
 }
 
