@@ -3,6 +3,7 @@ package arc
 import arc.dataset.Dataset
 import arc.dataset.allTextElements
 import arc.dataset.readDataset
+import arc.negation.findNegationTargets
 import arc.util.asAnnotatedCoreDocument
 import arc.util.printProgress
 import arc.util.syntaxEdges
@@ -30,7 +31,7 @@ fun main() {
         ?.printProgress(10)
         ?.map { task ->
             task.allTextElements().map {
-                it.asAnnotatedCoreDocument().syntaxEdges().filter { edge -> edge.relation.shortName == "neg" }
+                it.asAnnotatedCoreDocument().findNegationTargets()
             }
                 .flatten()
         }
