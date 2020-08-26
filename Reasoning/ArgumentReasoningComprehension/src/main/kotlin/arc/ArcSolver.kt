@@ -1,6 +1,7 @@
 package arc
 
 import arc.dataset.allTextElements
+import arc.negation.findNegationTargets
 import arc.negation.resolveNegation
 import arc.srl.identifySemanticRoles
 import arc.util.addGraph
@@ -247,10 +248,7 @@ class ArcSolver : (ArcTask) -> ArcResult {
     private fun CoreDocument.toConceptMap(config: ArcGraphConfig): Map<CoreLabel, Concept> {
         val tokens by lazy { tokens() }
         val words by lazy { tokens().map { it.word() } }
-        val negTargets by lazy {
-            syntaxEdges().filter { edge -> edge.relation.shortName == "neg" }
-                .map { edge -> edge.source.backingLabel() }
-        }
+        val negTargets by lazy { findNegationTargets() }
 
         return sentences().asSequence()
             .map { coreSentence ->
@@ -282,7 +280,6 @@ class ArcSolver : (ArcTask) -> ArcResult {
     fun buildGraphComponent(text: String, config: ArcGraphConfig = ArcGraphConfig()): GraphComponent = text.toGraphComponent(config)
 
     override fun invoke(task: ArcTask): ArcResult {
-        semanticGraphCache.clear()
         graphComponentCache.clear()
 
         val allComponents = task.allTextElements().map { elem -> elem.toGraphComponent() }
