@@ -1,11 +1,11 @@
 package arc
 
+import arc.dataset.Dataset
 import arc.dataset.allTextElements
-import arc.util.evaluateResults
-import arc.util.merge
-import arc.util.saveToFile
-import arc.util.userHome
-import java.io.File
+import arc.dataset.readDataset
+import arc.util.asAnnotatedCoreDocument
+import arc.util.printProgress
+import arc.util.syntaxEdges
 
 fun main() {
     val arcTask = ArcTask(
@@ -22,7 +22,20 @@ fun main() {
 //    val solver = ArcSolver()
 //    val graph = arcTask.allTextElements().map { solver.buildGraphComponent(it).graph }.merge()
 //    graph.saveToFile(File(userHome("Dokumente/graph"), "Tipping_${ArcGraphConfig().hashCode()}.graphml"))
-    val results = evaluateResults(ArcGraphConfig().hashCode().toString())
+//    val results = evaluateResults(ArcGraphConfig().hashCode().toString())
+//
+//    println(results.filter { it.correctLabel == it.foundLabel }.size.toDouble() / results.size)
+    val negEdges = readDataset(Dataset.ADVERSIAL_TRAIN)
+        ?.asSequence()
+        ?.printProgress(10)
+        ?.map { task ->
+            task.allTextElements().map {
+                it.asAnnotatedCoreDocument().syntaxEdges().filter { edge -> edge.relation.shortName == "neg" }
+            }
+                .flatten()
+        }
+        ?.flatten()
+        ?.toList()
+    println("debug")
 
-    println(results.filter { it.correctLabel == it.foundLabel }.size.toDouble() / results.size)
 }
