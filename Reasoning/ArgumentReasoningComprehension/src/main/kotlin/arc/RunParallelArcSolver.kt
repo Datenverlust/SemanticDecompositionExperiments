@@ -9,11 +9,13 @@ import arc.util.saveResult
 fun main() {
 
     val parallelArcSolver = ParallelArcSolver(
-        numThreads = 5,
+        numCoroutines = 4,
+        config = ArcConfig(),
         arcSolverFactory = { ArcSolver() }
     )
-    val dirName = ArcGraphConfig().hashCode().toString()
+    val dirName = ArcConfig().toDirName()
 
+    val bulkSize = 1
     readDataset(Dataset.ADVERSIAL_TEST)?.let { dataSet ->
         var notDone = true
         while (notDone) {
@@ -21,9 +23,9 @@ fun main() {
             println("Done Tasks: ${tasksDone.size}")
             if (tasksDone.size == dataSet.size) notDone = false
             dataSet.filterNot { it.id in tasksDone }
-                .take(10)
+                .take(bulkSize)
                 .let { test -> parallelArcSolver.startAsync(test) }
-                .also { it.print() }
+                .also { if (it.isNotEmpty()) it.print() }
                 .forEach { saveResult(it, dirName) }
         }
     }

@@ -8,9 +8,10 @@ import arc.util.printProgress
 import arc.util.saveResult
 
 fun main() {
-    val bulkSize = 10
+    val bulkSize = 1
     val solver = ArcSolver()
-    val dirName = ArcGraphConfig().hashCode().toString()
+    val config = ArcConfig()
+    val dirName = ArcConfig().toDirName()
     readDataset(Dataset.ADVERSIAL_TEST)?.let { dataSet ->
         var notDone = true
         while (notDone) {
@@ -20,8 +21,8 @@ fun main() {
             dataSet.asSequence()
                 .filterNot { it.id in tasksDone }
                 .take(bulkSize)
-                .printProgress(1, bulkSize)
-                .map { task -> solver.invoke(task).also { saveResult(it, dirName) } }
+//                .printProgress(1, bulkSize)
+                .map { task -> solver.invoke(task, config).also { saveResult(it, dirName) } }
                 .toList().print()
 
         }

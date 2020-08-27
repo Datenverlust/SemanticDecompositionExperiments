@@ -1,6 +1,6 @@
 package arc.negation
 
-import arc.ArcGraphConfig
+import arc.ArcConfig
 import arc.ifWsd
 import arc.util.copy
 import arc.util.decompose
@@ -16,7 +16,7 @@ private val adverbTags = listOf("RB", "RBR", "RBS")
 private val negatedTags = listOf(verbTags, nounTags, adjectiveTags, adverbTags).flatten()
 
 fun Concept.resolveNegation(
-    config: ArcGraphConfig,
+    config: ArcConfig,
     markedContext: String
 ) = assignedSenseKeys.ifEmpty { definitions.map { it.sensekey } }
     .mapNotNull { senseKey -> senseKeyToAntonymsMap[senseKey] }

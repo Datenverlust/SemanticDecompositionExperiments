@@ -1,6 +1,6 @@
 package arc.util
 
-import arc.ArcGraphConfig
+import arc.ArcConfig
 import de.kimanufaktur.nsm.decomposition.Concept
 import org.junit.Assert
 import org.junit.Test
@@ -9,7 +9,7 @@ class DecompositionUtilTest {
     @Test
     fun decompositionDepthTest() {
         (0..3).forEach { depth ->
-            val decomposed = "mother".decompose(ArcGraphConfig(depth = 1), "NN")
+            val decomposed = "mother".decompose(ArcConfig(depth = 1), "NN")
             if (depth == 0) Assert.assertEquals(-1, decomposed.decompositionlevel)
             else Assert.assertEquals(depth, decomposed.decompositionlevel)
             val allHypernyms = mutableListOf<Concept>()

@@ -30,29 +30,32 @@ data class GraphComponent(
     val graph: DefaultListenableGraph<Concept, WeightedEdge>
 )
 
-data class ArcGraphConfig(
+data class ArcConfig(
     val depth: Int = 1,
     val useSemDec: Boolean = true,
     val useSyntax: Boolean = true,
     val useSrl: Boolean = true,
     val useNer: Boolean = true,
     val useWsd: Boolean = false,
-    val useNeg: Boolean = true
-)
-
-data class ArcMarkerPassingConfig(
-    val startActivation: Double = 100.0,
-    val threshold: Double = 0.1,
-    val synonymLinkWeight: Double = 0.9,
+    val useNeg: Boolean = false,
+    val startActivation: Double = 3.3,
+    val threshold: Double = 0.32,
+    val synonymLinkWeight: Double = -0.94,
     val definitionLinkWeight: Double = 0.25,
     val antonymLinkWeight: Double = -0.11,
     val hyponymLinkWeight: Double = 0.11,
     val hypernymLinkWeight: Double = 0.3,
-    val meronymLinkWeight: Double = 0.3,
+    val meronymLinkWeight: Double = 0.11,
     val syntaxLinkWeight: Double = 0.5,
-    val namedEntityLinkWeight: Double = 0.11,
-    val semanticRoleLinkWeight: Double = 0.25
+    val namedEntityLinkWeight: Double = 0.3,
+    val semanticRoleLinkWeight: Double = -0.94
 )
+
+fun ArcConfig.toDirName() =
+    "depth$depth"
+        .let { if (useWsd) "${it}-Wsd" else "${it}-noWsd" }
+        .let { if (useNeg) "${it}-Neg" else "${it}-noNeg" }
+        .let { "$it-${this.hashCode()}" }
 
 data class ArcResult(
     val id: String,
@@ -68,5 +71,5 @@ data class ArcPartialResult(
     val numEdges: Int
 )
 
-fun Concept.ifWsd(config: ArcGraphConfig, transformer: Concept.() -> Concept) =
+fun Concept.ifWsd(config: ArcConfig, transformer: Concept.() -> Concept) =
     if (config.useWsd) this.transformer() else this

@@ -1,6 +1,6 @@
 package arc.util
 
-import arc.ArcGraphConfig
+import arc.ArcConfig
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.Decomposition
 import de.kimanufaktur.nsm.decomposition.WordType
@@ -9,12 +9,12 @@ import edu.stanford.nlp.ling.CoreLabel
 private val semanticDecomposition = Decomposition()
 
 fun Concept.decompose(depth: Int) = semanticDecomposition.decompose(
-    lemma?:litheral,
+    lemma ?: litheral,
     wordType,
     depth
 )
 
-fun CoreLabel.decompose(config: ArcGraphConfig): Concept =
+fun CoreLabel.decompose(config: ArcConfig): Concept =
     if (!config.useSemDec || lemma().isStopWord() || (config.useNer && isNamedEntity())) {
         Concept(lemma(), WordType.getType(tag()))
     } else {
@@ -25,7 +25,7 @@ fun CoreLabel.decompose(config: ArcGraphConfig): Concept =
         )
     }
 
-fun String.decompose(config: ArcGraphConfig, wordType: String): Concept =
+fun String.decompose(config: ArcConfig, wordType: String): Concept =
     if (!config.useSemDec || isStopWord()) {
         Concept(this, WordType.getType(wordType))
     } else {
