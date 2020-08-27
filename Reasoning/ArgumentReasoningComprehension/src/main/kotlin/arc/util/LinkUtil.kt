@@ -1,5 +1,6 @@
 package arc.util
 
+import arc.ArcConfig
 import de.kimanufaktur.markerpassing.Link
 import de.kimanufaktur.markerpassing.Node
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
@@ -14,29 +15,28 @@ import de.kimanufaktur.nsm.graph.entities.links.SemanticRoleLink
 import de.kimanufaktur.nsm.graph.entities.links.SynonymLink
 import de.kimanufaktur.nsm.graph.entities.links.SyntaxLink
 
-fun WeightedEdge.toEmptyLink() = when (edgeType) {
-    EdgeType.Synonym -> SynonymLink()
-    EdgeType.Antonym -> AntonymLink()
-    EdgeType.Hyponym -> HyponymLink()
-    EdgeType.Hypernym -> HypernymLink()
-    EdgeType.Meronym -> MeronymLink()
-    EdgeType.Definition -> DefinitionLink()
-    EdgeType.Syntax -> SyntaxLink()
-    EdgeType.NamedEntity -> NamedEntityLink()
-    EdgeType.SemanticRole -> SemanticRoleLink()
+fun WeightedEdge.toEmptyLink(config: ArcConfig) = when (edgeType) {
+    EdgeType.Synonym -> SynonymLink().also { it.weight = config.synonymLinkWeight }
+    EdgeType.Antonym -> AntonymLink().also { it.weight = config.antonymLinkWeight }
+    EdgeType.Hyponym -> HyponymLink().also { it.weight = config.hyponymLinkWeight}
+    EdgeType.Hypernym -> HypernymLink().also { it.weight = config.hypernymLinkWeight}
+    EdgeType.Meronym -> MeronymLink().also { it.weight = config.meronymLinkWeight}
+    EdgeType.Definition -> DefinitionLink().also { it.weight = config.definitionLinkWeight}
+    EdgeType.Syntax -> SyntaxLink().also { it.weight = config.syntaxLinkWeight}
+    EdgeType.NamedEntity -> NamedEntityLink().also { it.weight = config.namedEntityLinkWeight}
+    EdgeType.SemanticRole -> SemanticRoleLink().also { it.weight = config.semanticRoleLinkWeight}
     else -> null
 }
 
-fun Link.reverseByType(edgeType: EdgeType) = when (edgeType) {
-    EdgeType.Hyponym -> HypernymLink().reverse(source, target)
-    EdgeType.Hypernym -> HyponymLink().reverse(source, target)
+fun Link.reverseByType(edgeType: EdgeType, config: ArcConfig) = when (edgeType) {
     EdgeType.SemanticRole, EdgeType.Definition, EdgeType.Meronym -> null
-    else -> reverse()
-}
-
-private fun Link.reverse() = apply {
-    source = this@reverse.target
-    target = this@reverse.source
+    EdgeType.Synonym -> SynonymLink().also { it.weight = config.synonymLinkWeight }.reverse(source, target)
+    EdgeType.Antonym -> AntonymLink().also { it.weight = config.antonymLinkWeight }.reverse(source, target)
+    EdgeType.Syntax -> SyntaxLink().also { it.weight = config.syntaxLinkWeight }.reverse(source, target)
+    EdgeType.NamedEntity -> NamedEntityLink().also { it.weight = config.namedEntityLinkWeight }.reverse(source, target)
+    EdgeType.Hyponym -> HypernymLink().also { it.weight = config.hypernymLinkWeight }.reverse(source, target)
+    EdgeType.Hypernym -> HyponymLink().also { it.weight = config.hyponymLinkWeight }.reverse(source, target)
+    else -> null
 }
 
 private fun Link.reverse(source: Node, target: Node) = apply {
