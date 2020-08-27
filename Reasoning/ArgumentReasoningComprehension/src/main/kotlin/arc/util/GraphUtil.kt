@@ -1,6 +1,6 @@
 package arc.util
 
-import arc.markerPassingConfig
+import arc.ArcConfig
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.AntonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.DefinitionEdge
@@ -16,56 +16,54 @@ import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 
-fun createEdge(edgeType: EdgeType, source: Concept, target: Concept, relation: String? = null): WeightedEdge? {
+fun createEdge(
+    edgeType: EdgeType,
+    source: Concept,
+    target: Concept,
+    relation: String? = null
+): WeightedEdge? {
     val edgeTypeAttribute = "edgeType"
     return when (edgeType) {
         EdgeType.Synonym -> createEdge(
             edge = SynonymEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.synonymLinkWeight,
             attributes = mapOf(edgeTypeAttribute to "synonym")
         )
         EdgeType.Definition -> createEdge(
             edge = DefinitionEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.definitionLinkWeight,
             attributes = mapOf(edgeTypeAttribute to "definition")
         )
         EdgeType.Hypernym -> createEdge(
             edge = HypernymEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.hypernymLinkWeight,
             attributes = mapOf(edgeTypeAttribute to "hypernym")
         )
         EdgeType.Hyponym -> createEdge(
             edge = HyponymEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.hyponymLinkWeight,
             attributes = mapOf(edgeTypeAttribute to "hyponym")
         )
         EdgeType.Meronym -> createEdge(
             edge = MeronymEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.meronymLinkWeight,
             attributes = mapOf(edgeTypeAttribute to "meronym")
         )
         EdgeType.Antonym -> createEdge(
             edge = AntonymEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.antonymLinkWeight,
             attributes = mapOf(edgeTypeAttribute to "antonym")
         )
         EdgeType.Syntax -> createEdge(
             edge = SyntaxEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.syntaxLinkWeight,
             attributes = mapOf(
                 edgeTypeAttribute to "syntax",
                 "syntaxRelation" to (relation ?: "")
@@ -75,7 +73,6 @@ fun createEdge(edgeType: EdgeType, source: Concept, target: Concept, relation: S
             edge = NamedEntityEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.namedEntityLinkWeight,
             attributes = mapOf(
                 edgeTypeAttribute to "namedEntity"
             )
@@ -84,7 +81,6 @@ fun createEdge(edgeType: EdgeType, source: Concept, target: Concept, relation: S
             edge = SemanticRoleEdge(),
             source = source,
             target = target,
-            weight = markerPassingConfig.semanticRoleLinkWeight,
             attributes = mapOf(
                 edgeTypeAttribute to "semanticRole"
             )
@@ -93,10 +89,9 @@ fun createEdge(edgeType: EdgeType, source: Concept, target: Concept, relation: S
     }
 }
 
-fun createEdge(edge: WeightedEdge, source: Concept, target: Concept, weight: Double, attributes: Map<String, String>): WeightedEdge {
+fun createEdge(edge: WeightedEdge, source: Concept, target: Concept, attributes: Map<String, String>): WeightedEdge {
     edge.source = source
     edge.target = target
-    edge.weight = weight
     edge.attributes = attributes
     return edge
 }
