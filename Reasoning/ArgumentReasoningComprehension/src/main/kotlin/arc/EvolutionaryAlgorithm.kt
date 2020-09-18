@@ -7,7 +7,7 @@ import java.io.File
 import kotlin.random.Random
 
 private val solver = ArcSolver()
-private const val generationSize = 10
+private const val generationSize = 20
 
 private fun ArcConfig.fitness(dataSet: List<ArcTask>) = dataSet.asSequence()
     .map { solver.invoke(it, this) }
@@ -28,18 +28,31 @@ private fun buildRandomGeneration(size: Int) = (1..size).map {
         namedEntityLinkWeight = Random.nextDouble(0.0, 1.0),
         semanticRoleLinkWeight = Random.nextDouble(0.0, 1.0)
     )
+        .let {
+            Genotype(
+                dna = it to it,
+                phenotype = it
+            )
+        }
 }
 
-private fun List<ArcConfig>.mix(): List<ArcConfig> = elementPairs(this).toList()
-    .map { (first, second) -> first.mix(second).mutate(0.2) }
+data class Genotype(
+    val dna: Pair<ArcConfig, ArcConfig>,
+    val phenotype: ArcConfig,
+    val fitness: Int = 0
+)
 
-private fun <T> elementPairs(arr: List<T>): Sequence<Pair<T, T>> = sequence {
-    for (i in 0 until arr.size - 1)
-        for (j in i + 1 until arr.size)
-            yield(arr[i] to arr[j])
+private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled().zipWithNext().map { (first, second) ->
+    first.dna.second.mixWith(second.dna.first).mutate() to first.dna.first.mixWith(second.dna.second).mutate()
 }
+    .map {
+        Genotype(
+            dna = it,
+            phenotype = it.first.mixWith(it.second)
+        )
+    }
 
-private fun ArcConfig.mix(config: ArcConfig) = ArcConfig(
+private fun ArcConfig.mixWith(config: ArcConfig) = ArcConfig(
     startActivation = if (Random.nextBoolean()) config.startActivation else startActivation,
     threshold = if (Random.nextBoolean()) config.threshold else threshold,
     synonymLinkWeight = if (Random.nextBoolean()) config.synonymLinkWeight else synonymLinkWeight,
@@ -53,7 +66,7 @@ private fun ArcConfig.mix(config: ArcConfig) = ArcConfig(
     semanticRoleLinkWeight = if (Random.nextBoolean()) config.namedEntityLinkWeight else semanticRoleLinkWeight
 )
 
-private fun ArcConfig.mutate(mutateProb: Double): ArcConfig = ArcConfig(
+private fun ArcConfig.mutate(mutateProb: Double = 0.1): ArcConfig = ArcConfig(
     startActivation = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 100.0) else startActivation,
     threshold = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else threshold,
     synonymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else synonymLinkWeight,
@@ -67,31 +80,42 @@ private fun ArcConfig.mutate(mutateProb: Double): ArcConfig = ArcConfig(
     semanticRoleLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else semanticRoleLinkWeight
 )
 
-private fun List<ArcConfig>.evolution(dataSet: List<ArcTask>): List<ArcConfig> {
-    val results = map { it to it.fitness(dataSet) }
-        .sortedByDescending { it.second }
-        .also { resultPairs -> println(resultPairs.map { it.second }) }
-    val elite = results.first().first
-    val parents = results.take(4).map { it.first }
-    return listOf(elite)
-        .plus(parents.mix())
-        .plus(buildRandomGeneration(3))
+private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
+    val results = map { it.copy(fitness = it.phenotype.fitness(dataSet)) }
+        .sortedByDescending { it.fitness }
+        .also { genotypes -> println(genotypes.map { it.fitness }) }
+    val elite = results.take(3)
+    val parents = results.take(10)
+    return elite.plus(parents.nextGeneration())
+        .plus(buildRandomGeneration(7))
 }
 
 fun main() {
     val resultDir = File(userHome("Dokumente"), "generations_arc").also { it.mkdirs() }
     var generation = buildRandomGeneration(generationSize)
-    val fullDataSet = readDataset(Dataset.ADVERSIAL_TRAIN)!!.asSequence()
+    var bestGenotype: Genotype = generation.first()
+
+    val fullDataSet = readDataset(Dataset.ADVERSIAL_TEST)!!.asSequence()
     repeat(10) { shuffleIndex ->
-        fullDataSet.shuffled().chunked(200).filter { it.size == 200 }.forEachIndexed { chunkIndex, dataSet ->
-            //initial test last elite
-            dataSet.asSequence().map { task -> solver.invoke(task, generation.first()) }
+        fullDataSet.shuffled().chunked(400).filter { it.size == 400 }.forEachIndexed { chunkIndex, dataSet ->
+            println("size of next dataset is ${dataSet.size}")
+            //initial test last time's best genotype
+            dataSet.asSequence().map { task -> solver.invoke(task, bestGenotype.phenotype) }
                 .filter { it.correctLabel == it.foundLabel }
                 .count()
-                .let { println("Score of elite from last chunk: $it") }
-
+                .let { it.toDouble() / dataSet.size }
+                .let { println("Score of best genotype from last chunk: $it") }
+            var unchangedBestCount = 0
             //do the evolution
-            repeat(20) { generation = generation.evolution(dataSet) }
+            while (unchangedBestCount < 10) {
+                generation = generation.evolution(dataSet)
+                if (bestGenotype == generation.first()) {
+                    unchangedBestCount = unchangedBestCount.inc()
+                } else {
+                    bestGenotype = generation.first()
+                    unchangedBestCount = 0
+                }
+            }
             File(resultDir, "shuffle${shuffleIndex + 1}_chunk${chunkIndex + 1}.txt").writeText(generation.first().toString())
             solver.clearCaches()
         }
