@@ -8,12 +8,15 @@ private const val host: String = "localhost"
 private const val port: String = "5000"
 private const val defaultThreshold: Double = 0.5
 
+val wsdCache = WsdCache()
+
 fun WSDRequest.process(threshold: Double = defaultThreshold) =
+
     sendWsdRequest(convertToCsvString(), wordSenses)
         ?.let { results ->
             results
                 .filter { (_, score) -> score >= threshold }
-                .ifEmpty { listOfNotNull(results.maxBy { (_, score) -> score }) }
+                .ifEmpty { listOfNotNull(results.maxByOrNull { (_, score) -> score }) }
                 .map { (sense, _) -> sense }
         }
 
@@ -35,11 +38,13 @@ private fun WSDRequest.convertToCsvString() =
             markedContext,
             it.gloss,
             it.senseKey
-        ).joinToString("\t")
+        )
+            .joinToString("\t")
     }
 
 fun Concept.disambiguateBy(markedContext: String): Concept {
     if (definitions.isEmpty() || definitions.size == 1) return this
+    wsdCache.find(markedContext)?.let { senseKeys -> return copy().also { it.assignedSenseKeys = senseKeys } }
     val wordSenses = definitions.map { def ->
         WordSense(
             senseKey = def.sensekey,
@@ -53,7 +58,12 @@ fun Concept.disambiguateBy(markedContext: String): Concept {
         .process()
         ?.map { wordSense -> wordSense.senseKey }
         ?.toSet()
-        ?.let { senseKeys -> copy().also { it.assignedSenseKeys = senseKeys } }
+        ?.let { senseKeys ->
+            copy().also {
+                it.assignedSenseKeys = senseKeys
+                wsdCache.save(markedContext, senseKeys)
+            }
+        }
         ?: this
 }
 
