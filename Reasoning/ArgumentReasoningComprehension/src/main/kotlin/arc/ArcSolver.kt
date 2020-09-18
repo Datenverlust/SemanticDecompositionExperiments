@@ -29,7 +29,7 @@ import java.util.Collections
 class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
 
-    private val graphComponentCache = Collections.synchronizedMap<String, GraphComponent>(mutableMapOf())
+    private val graphComponentCache = Collections.synchronizedMap<String, GraphData>(mutableMapOf())
 
     private fun String.asKey(config: ArcConfig) = "$this#${config.depth}"
 
@@ -52,7 +52,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             source.definitions.filter { def -> def.sensekey in source.assignedSenseKeys }
         }
             .mapNotNull { def ->
-                def.gloss?.toGraphComponent(
+                def.gloss?.toGraphData(
                     config = config.copy(depth = config.depth.dec())
                 )
             }
@@ -155,7 +155,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
         conceptMap
             .filterKeys { it.ner() != null && it.ner() != "O" }
             .forEach { (nameCoreLabel, nameConcept) ->
-                nameCoreLabel.ner().toLowerCase().decompose(config, nameCoreLabel.tag())
+                nameCoreLabel.ner().toLowerCase().decompose(config, nameCoreLabel.tag()) //TODO: warum kein disambiguate?
                     .also { entityConcept -> addSemanticRelationsRecursive(entityConcept, config) }
                     .let { entityConcept ->
                         createEdge(
@@ -179,17 +179,18 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 conceptMap[coreLabel]?.let { source ->
                     roleList
                         .map { role ->
-                            role.toGraphComponent(
+                            role.toGraphData(
                                 config.copy(
                                     useSrl = false,
                                     depth = config.depth.dec()
                                 )
-                            ).graph
+                            )
                         }
-                        .forEach { roleGraph ->
+                        .forEach { roleData ->
+                            val roleGraph = roleData.graph
                             roleGraph.vertexSet().forEach { addVertex(it) }
                             roleGraph.edgeSet().forEach { edge -> addEdge(edge.source as Concept, edge.target as Concept, edge) }
-                            roleGraph.vertexSet()
+                            roleData.conceptMap.values
                                 .forEach { roleConcept ->
                                     createEdge(
                                         edgeType = EdgeType.SemanticRole,
@@ -204,7 +205,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             }
     }
 
-    fun String.toGraphComponent(config: ArcConfig = ArcConfig()): GraphComponent {
+    fun String.toGraphData(config: ArcConfig = ArcConfig()): GraphData {
         val key = asKey(config)
         graphComponentCache[key]?.let { return it }
 
@@ -221,7 +222,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 if (config.useSrl) graph.addRolesGraph(conceptMap, coreDoc, config)
             }
         }
-        return GraphComponent(
+        return GraphData(
             context = this,
             coreDoc = coreDoc,
             conceptMap = conceptMap,
@@ -261,7 +262,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             .toMap()
     }
 
-    fun buildGraphComponent(text: String, config: ArcConfig = ArcConfig()): GraphComponent = text.toGraphComponent(config)
+    fun createGraphData(text: String, config: ArcConfig = ArcConfig()): GraphData = text.toGraphData(config)
 
     fun clearCaches() {
         semanticGraphCache.clear()
@@ -269,8 +270,9 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
     }
 
     override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
+        clearCaches()
 
-        val allComponents = task.allTextElements().map { elem -> elem.toGraphComponent() }
+        val allComponents = task.allTextElements().map { elem -> elem.toGraphData() }
 
         return listOf(
             ArcLabel.W0,
@@ -337,9 +339,13 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
     private fun DoubleMarkerPassing.activationMap() = nodes
         .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
-        .map { node -> node.activationHistory.map { it as DoubleMarkerWithOrigin } }
-        .flatten()
-        .map { it.origin to it.activation }
+        .map { node ->
+            val averageActivation = node.activationHistory
+                .map { it as DoubleMarkerWithOrigin }
+                .map { it.activation }
+                .average()
+
+            node.concept to averageActivation }
         .toMap()
 
     private fun Map<Concept, Double>.evaluate(

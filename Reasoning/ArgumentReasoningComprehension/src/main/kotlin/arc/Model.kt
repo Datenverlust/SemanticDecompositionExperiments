@@ -23,7 +23,7 @@ enum class ArcLabel {
     UNKNOWN
 }
 
-data class GraphComponent(
+data class GraphData(
     val context: String,
     val coreDoc: CoreDocument,
     val conceptMap: Map<CoreLabel, Concept>,
@@ -36,19 +36,19 @@ data class ArcConfig(
     val useSyntax: Boolean = true,
     val useSrl: Boolean = true,
     val useNer: Boolean = true,
-    val useWsd: Boolean = false,
-    val useNeg: Boolean = false,
-    val startActivation: Double = 3.3,
-    val threshold: Double = 0.32,
-    val synonymLinkWeight: Double = -0.94,
-    val definitionLinkWeight: Double = 0.25,
-    val antonymLinkWeight: Double = -0.11,
-    val hyponymLinkWeight: Double = 0.11,
+    val useWsd: Boolean = true,
+    val useNeg: Boolean = true,
+    val startActivation: Double = 100.0,
+    val threshold: Double = 0.1,
+    val synonymLinkWeight: Double = 0.8,
+    val definitionLinkWeight: Double = 0.5,
+    val antonymLinkWeight: Double = -0.8,
+    val hyponymLinkWeight: Double = 0.2,
     val hypernymLinkWeight: Double = 0.3,
-    val meronymLinkWeight: Double = 0.11,
+    val meronymLinkWeight: Double = 0.2,
     val syntaxLinkWeight: Double = 0.5,
     val namedEntityLinkWeight: Double = 0.3,
-    val semanticRoleLinkWeight: Double = -0.94
+    val semanticRoleLinkWeight: Double = 0.8
 )
 
 fun ArcConfig.toDirName() =

@@ -3,13 +3,8 @@ package arc
 import arc.dataset.Dataset
 import arc.dataset.allTextElements
 import arc.dataset.readDataset
-import arc.negation.findNegationTargets
-import arc.util.asAnnotatedCoreDocument
-import arc.util.evaluateResults
 import arc.util.merge
-import arc.util.printProgress
 import arc.util.saveToFile
-import arc.util.syntaxEdges
 import arc.util.userHome
 import java.io.File
 
@@ -25,23 +20,10 @@ fun main() {
         debateInfo = "Should restaurants do away with tipping?"
     )
 
-//    val solver = ArcSolver()
-//    val graph = arcTask.allTextElements().map { solver.buildGraphComponent(it).graph }.merge()
-//    graph.saveToFile(File(userHome("Dokumente/graph"), "Tipping_${ArcGraphConfig().hashCode()}.graphml"))
-    val results = evaluateResults(ArcConfig().toDirName())//.filterNot { it.id.contains("adversarial") }
-
-    println(results.filter { it.correctLabel == it.foundLabel }.size.toDouble() / results.size)
-//    val negEdges = readDataset(Dataset.ADVERSIAL_TRAIN)
-//        ?.asSequence()
-//        ?.printProgress(10)
-//        ?.map { task ->
-//            task.allTextElements().map {
-//                it.asAnnotatedCoreDocument().findNegationTargets()
-//            }
-//                .flatten()
-//        }
-//        ?.flatten()
-//        ?.toList()
+    val solver = ArcSolver()
+    val graph = readDataset(Dataset.ADVERSIAL_TEST)?.first()?.allTextElements()?.map { solver.createGraphData(it).graph }?.merge()
+    graph?.saveToFile(File(userHome("Dokumente/graph"), "First_Tryout_${ArcConfig().hashCode()}.graphml"))
+//    val results = evaluateResults(ArcConfig().toDirName())//.filterNot { it.id.contains("adversarial") }
+//    println(results.filter { it.correctLabel == it.foundLabel }.size.toDouble() / results.size)
 //    println("debug")
-
 }
