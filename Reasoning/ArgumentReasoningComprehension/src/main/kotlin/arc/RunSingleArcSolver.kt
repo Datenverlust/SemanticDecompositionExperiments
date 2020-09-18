@@ -8,7 +8,7 @@ import arc.util.printProgress
 import arc.util.saveResult
 
 fun main() {
-    val bulkSize = 1
+    val bulkSize = 100
     val solver = ArcSolver()
     val config = ArcConfig()
     val dirName = ArcConfig().toDirName()
@@ -21,10 +21,9 @@ fun main() {
             dataSet.asSequence()
                 .filterNot { it.id in tasksDone }
                 .take(bulkSize)
-//                .printProgress(1, bulkSize)
+                .printProgress(10, bulkSize)
                 .map { task -> solver.invoke(task, config).also { saveResult(it, dirName) } }
                 .toList().print()
-
         }
     }
 }
