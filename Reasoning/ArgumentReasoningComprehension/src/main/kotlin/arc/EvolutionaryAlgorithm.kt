@@ -8,6 +8,10 @@ import kotlin.random.Random
 
 private val solver = ArcSolver()
 private const val generationSize = 20
+private const val numElites = 3
+private const val numParents = 10
+
+private const val paramNum = 11
 
 private fun ArcConfig.fitness(dataSet: List<ArcTask>) = dataSet.asSequence()
     .map { solver.invoke(it, this) }
@@ -28,43 +32,46 @@ private fun buildRandomGeneration(size: Int) = (1..size).map {
         namedEntityLinkWeight = Random.nextDouble(0.0, 1.0),
         semanticRoleLinkWeight = Random.nextDouble(0.0, 1.0)
     )
-        .let {
-            Genotype(
-                dna = it to it,
-                phenotype = it
-            )
-        }
+        .let { Genotype(dna = it) }
 }
 
 data class Genotype(
-    val dna: Pair<ArcConfig, ArcConfig>,
-    val phenotype: ArcConfig,
+    val dna: ArcConfig,
     val fitness: Int = 0
 )
 
-private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled().zipWithNext().map { (first, second) ->
-    first.dna.second.mixWith(second.dna.first).mutate() to first.dna.first.mixWith(second.dna.second).mutate()
-}
-    .map {
-        Genotype(
-            dna = it,
-            phenotype = it.first.mixWith(it.second)
+private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled()
+    .asSequence()
+    .chunked(2)
+    .filter { it.size == 2 }
+    .map { parents ->
+        val crossDef = (1..paramNum).map { Random.nextBoolean() }
+        val invertedCrossDef = crossDef.map { it.not() }
+        listOf(
+            (parents[0].dna to parents[1].dna).uniformCrossover(crossDef),
+            (parents[0].dna to parents[1].dna).uniformCrossover(invertedCrossDef)
         )
     }
+    .flatten()
+    .map { Genotype(dna = it.mutate()) }
+    .toList()
 
-private fun ArcConfig.mixWith(config: ArcConfig) = ArcConfig(
-    startActivation = if (Random.nextBoolean()) config.startActivation else startActivation,
-    threshold = if (Random.nextBoolean()) config.threshold else threshold,
-    synonymLinkWeight = if (Random.nextBoolean()) config.synonymLinkWeight else synonymLinkWeight,
-    antonymLinkWeight = if (Random.nextBoolean()) config.antonymLinkWeight else antonymLinkWeight,
-    definitionLinkWeight = if (Random.nextBoolean()) config.definitionLinkWeight else definitionLinkWeight,
-    hyponymLinkWeight = if (Random.nextBoolean()) config.hyponymLinkWeight else hyponymLinkWeight,
-    hypernymLinkWeight = if (Random.nextBoolean()) config.hypernymLinkWeight else hypernymLinkWeight,
-    meronymLinkWeight = if (Random.nextBoolean()) config.meronymLinkWeight else meronymLinkWeight,
-    syntaxLinkWeight = if (Random.nextBoolean()) config.syntaxLinkWeight else syntaxLinkWeight,
-    namedEntityLinkWeight = if (Random.nextBoolean()) config.namedEntityLinkWeight else namedEntityLinkWeight,
-    semanticRoleLinkWeight = if (Random.nextBoolean()) config.namedEntityLinkWeight else semanticRoleLinkWeight
-)
+private fun Pair<ArcConfig, ArcConfig>.uniformCrossover(crossDef: List<Boolean>): ArcConfig = if (crossDef.size != paramNum)
+    throw RuntimeException("random list size does not match params")
+else
+    ArcConfig(
+        startActivation = if (crossDef[0]) first.startActivation else second.startActivation,
+        threshold = if (crossDef[1]) first.threshold else second.threshold,
+        synonymLinkWeight = if (crossDef[2]) first.synonymLinkWeight else second.synonymLinkWeight,
+        antonymLinkWeight = if (crossDef[3]) first.antonymLinkWeight else second.antonymLinkWeight,
+        definitionLinkWeight = if (crossDef[4]) first.definitionLinkWeight else second.definitionLinkWeight,
+        hyponymLinkWeight = if (crossDef[5]) first.hyponymLinkWeight else second.hyponymLinkWeight,
+        hypernymLinkWeight = if (crossDef[6]) first.hypernymLinkWeight else second.hypernymLinkWeight,
+        meronymLinkWeight = if (crossDef[7]) first.meronymLinkWeight else second.meronymLinkWeight,
+        syntaxLinkWeight = if (crossDef[8]) first.syntaxLinkWeight else second.syntaxLinkWeight,
+        namedEntityLinkWeight = if (crossDef[9]) first.namedEntityLinkWeight else second.namedEntityLinkWeight,
+        semanticRoleLinkWeight = if (crossDef[10]) first.semanticRoleLinkWeight else second.semanticRoleLinkWeight
+    )
 
 private fun ArcConfig.mutate(mutateProb: Double = 0.1): ArcConfig = ArcConfig(
     startActivation = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 100.0) else startActivation,
@@ -81,13 +88,15 @@ private fun ArcConfig.mutate(mutateProb: Double = 0.1): ArcConfig = ArcConfig(
 )
 
 private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
-    val results = map { it.copy(fitness = it.phenotype.fitness(dataSet)) }
+    val results = map { it.copy(fitness = it.dna.fitness(dataSet)) }
         .sortedByDescending { it.fitness }
         .also { genotypes -> println(genotypes.map { it.fitness }) }
-    val elite = results.take(3)
-    val parents = results.take(10)
-    return elite.plus(parents.nextGeneration())
-        .plus(buildRandomGeneration(7))
+    val elite = results.take(numElites)
+    val parents = results.take(numParents)
+    val nextGeneration = parents.nextGeneration()
+    val numRandoms = generationSize - numElites - (numParents / 2*2)
+    return elite.plus(nextGeneration)
+        .plus(buildRandomGeneration(numRandoms))
 }
 
 fun main() {
@@ -97,27 +106,30 @@ fun main() {
 
     val fullDataSet = readDataset(Dataset.ADVERSIAL_TEST)!!.asSequence()
     repeat(10) { shuffleIndex ->
-        fullDataSet.shuffled().chunked(400).filter { it.size == 400 }.forEachIndexed { chunkIndex, dataSet ->
-            println("size of next dataset is ${dataSet.size}")
-            //initial test last time's best genotype
-            dataSet.asSequence().map { task -> solver.invoke(task, bestGenotype.phenotype) }
-                .filter { it.correctLabel == it.foundLabel }
-                .count()
-                .let { it.toDouble() / dataSet.size }
-                .let { println("Score of best genotype from last chunk: $it") }
-            var unchangedBestCount = 0
-            //do the evolution
-            while (unchangedBestCount < 10) {
-                generation = generation.evolution(dataSet)
-                if (bestGenotype == generation.first()) {
-                    unchangedBestCount = unchangedBestCount.inc()
-                } else {
-                    bestGenotype = generation.first()
-                    unchangedBestCount = 0
+        val chunkSize = 10
+        fullDataSet.shuffled()
+            .chunked(chunkSize)
+            .filter { it.size == chunkSize }
+            .forEachIndexed { chunkIndex, dataSet ->
+                //initial test last time's best genotype and fill the cache
+                dataSet.asSequence().map { task -> solver.invoke(task, bestGenotype.dna) }
+                    .filter { it.correctLabel == it.foundLabel }
+                    .count()
+                    .let { it.toDouble() / dataSet.size }
+                    .let { println("Score of best genotype from last chunk: $it") }
+                var unchangedBestCount = 0
+                //do the evolution
+                while (unchangedBestCount < 10) {
+                    generation = generation.evolution(dataSet)
+                    if (bestGenotype == generation.first()) {
+                        unchangedBestCount = unchangedBestCount.inc()
+                    } else {
+                        bestGenotype = generation.first()
+                        unchangedBestCount = 0
+                    }
                 }
+                File(resultDir, "shuffle${shuffleIndex + 1}_chunk${chunkIndex + 1}.txt").writeText(generation.first().toString())
+                solver.clearCaches()
             }
-            File(resultDir, "shuffle${shuffleIndex + 1}_chunk${chunkIndex + 1}.txt").writeText(generation.first().toString())
-            solver.clearCaches()
-        }
     }
 }
