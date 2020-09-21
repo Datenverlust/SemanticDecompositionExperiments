@@ -18,6 +18,7 @@ import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig
 import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
 import edu.stanford.nlp.ling.CoreLabel
@@ -270,7 +271,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
     }
 
     override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
-        clearCaches()
+//        clearCaches()
 
         val allComponents = task.allTextElements().map { elem -> elem.toGraphData() }
 
@@ -287,44 +288,51 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
                 val graph = components.map { it.graph }.merge()
                 currentConfig = config
+
+                val startActivationMap = components.filter { it.context in listOf(task.reason, warrant) }
+                    .map { it.conceptMap.values }
+                    .flatten()
+                    .createStartActivationMap(config)
+
                 val markerPassing = ArcMarkerPassing(
                     graph = graph,
                     threshold = components.map { it.conceptMap.values }.flatten().createThresholdMap(config),
                     nodeType = DoubleNodeWithMultipleThresholds::class.java
                 )
-                    .also { markerPassing ->
-                        components.filter { it.context in listOf(task.reason, warrant) }
-                            .map { it.conceptMap.values }
-                            .flatten()
-                            .createStartActivationMap(config)
-                            .let { startActivationMap ->
-                                markerPassing.doInitialMarking(startActivationMap)
-                            }
-                    }
-                    .also { it.execute() }
-                ArcPartialResult(
-                    score = markerPassing.activationMap()
-                        .evaluate(components.map { it.conceptMap.values }.flatten()),
+                markerPassing.doInitialMarking(startActivationMap)
+                MarkerPassingConfig.setDoubleActivationLimit(Double.POSITIVE_INFINITY)
+                MarkerPassingConfig.setTerminationPulsCount(99)
+//                markerPassing.pulsecount = 99
+                markerPassing.execute()
+
+                val activationMap = markerPassing.activationMap()
+                val score = activationMap.evaluate(components.first { it.context == task.claim }.conceptMap.values)
+
+                label to ArcPartialResult(
+                    score = score,
                     numVertices = graph.vertexSet().size,
                     numEdges = graph.edgeSet().size
                 )
             }
-            .let { it[0] to it[1] }
-            .let { (resultW0, resultW1) ->
+            .toMap()
+            .let { results ->
+                val resultW0 = results.getValue(ArcLabel.W0)
+                val resultW1 = results.getValue(ArcLabel.W1)
+                val resultLabel = when {
+                    resultW0.score > resultW1.score -> ArcLabel.W0
+                    resultW0.score < resultW1.score -> ArcLabel.W1
+                    else -> ArcLabel.UNKNOWN
+                }
                 ArcResult(
                     id = task.id,
-                    foundLabel =
-                    when {
-                        resultW0.score > resultW1.score -> ArcLabel.W0
-                        resultW0.score < resultW1.score -> ArcLabel.W1
-                        else -> ArcLabel.UNKNOWN
-                    },
+                    foundLabel = resultLabel,
                     correctLabel = task.correctLabelW0orW1,
                     resultW0 = resultW0,
                     resultW1 = resultW1
                 )
             }
     }
+
 
     private fun Collection<Concept>.createStartActivationMap(config: ArcConfig) = map { concept ->
         DoubleMarkerWithOrigin().also {
@@ -343,9 +351,10 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             val averageActivation = node.activationHistory
                 .map { it as DoubleMarkerWithOrigin }
                 .map { it.activation }
-                .average()
+                .average() //TODO: decide what type of average is useful
 
-            node.concept to averageActivation }
+            node.concept to averageActivation
+        }
         .toMap()
 
     private fun Map<Concept, Double>.evaluate(

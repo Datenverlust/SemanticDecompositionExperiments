@@ -40,7 +40,7 @@ data class ArcConfig(
     val useNeg: Boolean = true,
     val startActivation: Double = 100.0,
     val threshold: Double = 0.1,
-    val synonymLinkWeight: Double = 0.8,
+    val synonymLinkWeight: Double = 1.0,
     val definitionLinkWeight: Double = 0.5,
     val antonymLinkWeight: Double = -0.8,
     val hyponymLinkWeight: Double = 0.2,

@@ -5,6 +5,7 @@ import arc.util.toEmptyLink
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig
 import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
 import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
 import org.jgrapht.Graph
@@ -27,6 +28,8 @@ class ArcMarkerPassing(
         threshold: MutableMap<Concept, Double>?,
         nodeType: Class<T>?) {
         //TODO: check nodeType
+        MarkerPassingConfig.setDoubleActivationLimit(Double.POSITIVE_INFINITY)
+        MarkerPassingConfig.setTerminationPulsCount(99)
         if (graph == null || threshold == null) return
         fillNodes(
             graph = graph as Graph<Concept, WeightedEdge>,
@@ -44,7 +47,7 @@ class ArcMarkerPassing(
                     .also { it.threshold = thresholdMap }
                     .also { nodes[sourceConcept] = it }
 
-            graph.edgesOf(sourceConcept).filter { edge -> edge.source as Concept == sourceConcept }
+            graph.edgeSet().filter { edge -> edge.source as Concept == sourceConcept }
                 .forEach { edge ->
                     edge.toEmptyLink(currentConfig)?.also { link ->
                         link.source = sourceNode
