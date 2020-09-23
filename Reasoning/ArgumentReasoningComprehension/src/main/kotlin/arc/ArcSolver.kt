@@ -26,11 +26,12 @@ import edu.stanford.nlp.pipeline.CoreDocument
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 import java.util.Collections
+import kotlin.random.Random
+
 
 class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
-
-    private val graphComponentCache = Collections.synchronizedMap<String, GraphData>(mutableMapOf())
+    val graphComponentCache: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())!!
 
     private fun String.asKey(config: ArcConfig) = "$this#${config.depth}"
 
@@ -271,8 +272,6 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
     }
 
     override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
-//        clearCaches()
-
         val allComponents = task.allTextElements().map { elem -> elem.toGraphData() }
 
         return listOf(
@@ -289,7 +288,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 val graph = components.map { it.graph }.merge()
                 currentConfig = config
 
-                val startActivationMap = components.filter { it.context in listOf(task.reason, warrant) }
+                val startActivationMap = components.filter { it.context == task.reason }
                     .map { it.conceptMap.values }
                     .flatten()
                     .createStartActivationMap(config)
@@ -300,13 +299,24 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                     nodeType = DoubleNodeWithMultipleThresholds::class.java
                 )
                 markerPassing.doInitialMarking(startActivationMap)
-                MarkerPassingConfig.setDoubleActivationLimit(Double.POSITIVE_INFINITY)
-                MarkerPassingConfig.setTerminationPulsCount(99)
-//                markerPassing.pulsecount = 99
+                MarkerPassingConfig.setTerminationPulsCount(config.pulseCount)
                 markerPassing.execute()
 
                 val activationMap = markerPassing.activationMap()
-                val score = activationMap.evaluate(components.first { it.context == task.claim }.conceptMap.values)
+
+                val score = sequenceOf(
+                    task.reason to task.claim,
+                    warrant to task.claim,
+                    task.reason to warrant
+                )
+                    .map { (origin, resulting) ->
+                        components.first { it.context == origin }.conceptMap.values to
+                            components.first { it.context == resulting }.conceptMap.values
+                    }
+                    .map { (originCons, resultCons) ->
+                        activationMap.evaluate(originCons, resultCons)
+                    }
+                    .toList()
 
                 label to ArcPartialResult(
                     score = score,
@@ -318,11 +328,14 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             .let { results ->
                 val resultW0 = results.getValue(ArcLabel.W0)
                 val resultW1 = results.getValue(ArcLabel.W1)
-                val resultLabel = when {
-                    resultW0.score > resultW1.score -> ArcLabel.W0
-                    resultW0.score < resultW1.score -> ArcLabel.W1
-                    else -> ArcLabel.UNKNOWN
-                }
+                val resultLabel = (resultW0.score.indices).mapNotNull { index ->
+                    when {
+                        resultW0.score[index] > resultW1.score[index] -> ArcLabel.W0
+                        resultW0.score[index] < resultW1.score[index] -> ArcLabel.W1
+                        else -> null
+                    }
+                }.firstOrNull() ?: if (Random.nextBoolean()) ArcLabel.W0 else ArcLabel.W1
+
                 ArcResult(
                     id = task.id,
                     foundLabel = resultLabel,
@@ -347,20 +360,27 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
     private fun DoubleMarkerPassing.activationMap() = nodes
         .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
-        .map { node ->
-            val averageActivation = node.activationHistory
+        .mapNotNull { node ->
+            node.activationHistory.asSequence()
                 .map { it as DoubleMarkerWithOrigin }
-                .map { it.activation }
-                .average() //TODO: decide what type of average is useful
-
-            node.concept to averageActivation
+                .groupBy { it.origin }
+                .filter { (_, markers) -> markers.isNotEmpty() }
+                .mapValues { (_, markers) ->
+                    markers.map { it.activation }.average()
+                }
+                .ifEmpty { null }
+                ?.let { node.concept to it }
         }
         .toMap()
 
-    private fun Map<Concept, Double>.evaluate(
-        resultConcepts: Collection<Concept>
-    ) = resultConcepts.mapNotNull { concept -> this[concept] }.average()
-
+    private fun Map<Concept, Map<Concept, Double>>.evaluate(
+        originCons: Collection<Concept>,
+        resultCons: Collection<Concept>
+    ): Double = resultCons.mapNotNull { target ->
+        this[target]
+            ?.filterKeys { origin -> origin in originCons }
+            ?.values
+    }
+        .flatten()
+        .average()
 }
-
-
