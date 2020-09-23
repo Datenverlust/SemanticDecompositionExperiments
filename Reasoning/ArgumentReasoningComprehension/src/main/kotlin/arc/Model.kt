@@ -38,17 +38,22 @@ data class ArcConfig(
     val useNer: Boolean = true,
     val useWsd: Boolean = true,
     val useNeg: Boolean = true,
+    val pulseCount: Int = 100,
     val startActivation: Double = 100.0,
     val threshold: Double = 0.1,
     val synonymLinkWeight: Double = 1.0,
     val definitionLinkWeight: Double = 0.5,
+    val definitionOfLinkWeight: Double = 0.5,
     val antonymLinkWeight: Double = -0.8,
     val hyponymLinkWeight: Double = 0.2,
     val hypernymLinkWeight: Double = 0.3,
     val meronymLinkWeight: Double = 0.2,
+    val holonymLinkWeight: Double = 0.2,
     val syntaxLinkWeight: Double = 0.5,
     val namedEntityLinkWeight: Double = 0.3,
-    val semanticRoleLinkWeight: Double = 0.8
+    val nameOfLinkWeight: Double = 0.3,
+    val semanticRoleLinkWeight: Double = 0.8,
+    val semanticRoleOfLinkWeight: Double = 0.8
 )
 
 fun ArcConfig.toDirName() =
@@ -66,7 +71,7 @@ data class ArcResult(
 )
 
 data class ArcPartialResult(
-    val score: Double,
+    val score: List<Double>,
     val numVertices: Int,
     val numEdges: Int
 )
