@@ -4,19 +4,21 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.runBlocking
+import mu.KotlinLogging
 import java.util.Collections
 
-class ParallelArcSolver(
+private val kLogger = KotlinLogging.logger { }
+
+class CoroutineArcSolver(
     val numCoroutines: Int,
-    val config :ArcConfig,
-    val arcSolverFactory: () -> ((ArcTask, ArcConfig) -> ArcResult)
+    val solver: ArcSolver
 ) {
-    fun startAsync(tasks: List<ArcTask>): List<ArcResult> = runBlocking {
+    fun startAsync(tasks: List<ArcTask>, config: ArcConfig): List<ArcResult> = runBlocking {
         val componentChannel = Channel<ArcTask>()
         val results = Collections.synchronizedList(ArrayList<ArcResult>(tasks.size))
         val runners = (1..numCoroutines).map {
             async(Dispatchers.IO) {
-                buildGraphs(componentChannel, results)
+                solveTasks(componentChannel, results, config)
             }
         }
         tasks.forEach { componentChannel.send(it) }
@@ -25,14 +27,13 @@ class ParallelArcSolver(
         return@runBlocking results
     }
 
-    internal suspend fun buildGraphs(
+    internal suspend fun solveTasks(
         taskChannel: Channel<ArcTask>,
-        results: MutableList<ArcResult>
+        results: MutableList<ArcResult>,
+        config: ArcConfig
     ) {
-        val arcSolver = arcSolverFactory.invoke()
         for (task in taskChannel) {
-            val result = arcSolver.invoke(task, config)
-            results.add(result)
+            results.add(solver.invoke(task, config))
         }
     }
 }

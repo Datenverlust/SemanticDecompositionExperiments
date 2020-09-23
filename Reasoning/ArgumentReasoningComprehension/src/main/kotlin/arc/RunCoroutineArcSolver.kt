@@ -8,25 +8,23 @@ import arc.util.saveResult
 
 fun main() {
 
-    val parallelArcSolver = ParallelArcSolver(
+    val parallelArcSolver = CoroutineArcSolver(
         numCoroutines = 4,
-        config = ArcConfig(),
-        arcSolverFactory = { ArcSolver() }
+        solver = ArcSolver()
     )
     val dirName = ArcConfig().toDirName()
 
     val bulkSize = 1
     readDataset(Dataset.ADVERSIAL_TEST)?.let { dataSet ->
-        var notDone = true
-        while (notDone) {
-            val tasksDone = getIdsOfDoneTasks(dirName)
+        var tasksDone = getIdsOfDoneTasks(dirName)
+        while (tasksDone.size < dataSet.size) {
             println("Done Tasks: ${tasksDone.size}")
-            if (tasksDone.size == dataSet.size) notDone = false
             dataSet.filterNot { it.id in tasksDone }
                 .take(bulkSize)
-                .let { test -> parallelArcSolver.startAsync(test) }
+                .let { test -> parallelArcSolver.startAsync(test, ArcConfig()) }
                 .also { if (it.isNotEmpty()) it.print() }
                 .forEach { saveResult(it, dirName) }
+            tasksDone = getIdsOfDoneTasks(dirName)
         }
     }
 }

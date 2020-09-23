@@ -3,41 +3,62 @@ package arc
 import arc.dataset.Dataset
 import arc.dataset.readDataset
 import arc.util.userHome
+import kotlinx.coroutines.runBlocking
 import java.io.File
 import kotlin.random.Random
 
 private val solver = ArcSolver()
+private val parallelArcSolver = CoroutineArcSolver(10, solver)
 private const val generationSize = 20
 private const val numElites = 3
 private const val numParents = 10
+private const val paramNum = 16
 
-private const val paramNum = 11
+private fun fitness(config: ArcConfig, dataSet: List<ArcTask>) =
 
-private fun ArcConfig.fitness(dataSet: List<ArcTask>) = dataSet.asSequence()
-    .map { solver.invoke(it, this) }
-    .filter { it.correctLabel == it.foundLabel }
-    .count()
+    runBlocking {
+//        dataSet.solveArcWithFlow(config, solver)
+        parallelArcSolver.startAsync(dataSet, config)
+            .let { results ->
+                Fitness(
+                    correct = results.filter { it.correctLabel == it.foundLabel }.count(),
+                    wrong = results.filter { it.correctLabel != it.foundLabel && it.foundLabel != ArcLabel.UNKNOWN }.count(),
+                    unknown = results.filter { it.foundLabel == ArcLabel.UNKNOWN }.count()
+                )
+            }
+    }
 
 private fun buildRandomGeneration(size: Int) = (1..size).map {
     ArcConfig(
+        pulseCount = Random.nextInt(1, 100),
         startActivation = Random.nextDouble(0.0, 100.0),
         threshold = Random.nextDouble(0.0, 1.0),
         synonymLinkWeight = Random.nextDouble(0.0, 1.0),
         antonymLinkWeight = Random.nextDouble(-1.0, 1.0),
         definitionLinkWeight = Random.nextDouble(0.0, 1.0),
+        definitionOfLinkWeight = Random.nextDouble(0.0, 1.0),
         hyponymLinkWeight = Random.nextDouble(0.0, 1.0),
         hypernymLinkWeight = Random.nextDouble(0.0, 1.0),
         meronymLinkWeight = Random.nextDouble(0.0, 1.0),
+        holonymLinkWeight = Random.nextDouble(0.0, 1.0),
         syntaxLinkWeight = Random.nextDouble(0.0, 1.0),
         namedEntityLinkWeight = Random.nextDouble(0.0, 1.0),
-        semanticRoleLinkWeight = Random.nextDouble(0.0, 1.0)
+        nameOfLinkWeight = Random.nextDouble(0.0, 1.0),
+        semanticRoleLinkWeight = Random.nextDouble(0.0, 1.0),
+        semanticRoleOfLinkWeight = Random.nextDouble(0.0, 1.0)
     )
         .let { Genotype(dna = it) }
 }
 
 data class Genotype(
     val dna: ArcConfig,
-    val fitness: Int = 0
+    val fitness: Fitness = Fitness()
+)
+
+data class Fitness(
+    val correct: Int = 0,
+    val wrong: Int = 0,
+    val unknown: Int = 0
 )
 
 private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled()
@@ -58,43 +79,56 @@ private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled()
 
 private fun Pair<ArcConfig, ArcConfig>.uniformCrossover(crossDef: List<Boolean>): ArcConfig = if (crossDef.size != paramNum)
     throw RuntimeException("random list size does not match params")
-else
+else {
+    val iterator = crossDef.iterator()
     ArcConfig(
-        startActivation = if (crossDef[0]) first.startActivation else second.startActivation,
-        threshold = if (crossDef[1]) first.threshold else second.threshold,
-        synonymLinkWeight = if (crossDef[2]) first.synonymLinkWeight else second.synonymLinkWeight,
-        antonymLinkWeight = if (crossDef[3]) first.antonymLinkWeight else second.antonymLinkWeight,
-        definitionLinkWeight = if (crossDef[4]) first.definitionLinkWeight else second.definitionLinkWeight,
-        hyponymLinkWeight = if (crossDef[5]) first.hyponymLinkWeight else second.hyponymLinkWeight,
-        hypernymLinkWeight = if (crossDef[6]) first.hypernymLinkWeight else second.hypernymLinkWeight,
-        meronymLinkWeight = if (crossDef[7]) first.meronymLinkWeight else second.meronymLinkWeight,
-        syntaxLinkWeight = if (crossDef[8]) first.syntaxLinkWeight else second.syntaxLinkWeight,
-        namedEntityLinkWeight = if (crossDef[9]) first.namedEntityLinkWeight else second.namedEntityLinkWeight,
-        semanticRoleLinkWeight = if (crossDef[10]) first.semanticRoleLinkWeight else second.semanticRoleLinkWeight
+        pulseCount = if (iterator.next()) first.pulseCount else second.pulseCount,
+        startActivation = if (iterator.next()) first.startActivation else second.startActivation,
+        threshold = if (iterator.next()) first.threshold else second.threshold,
+        synonymLinkWeight = if (iterator.next()) first.synonymLinkWeight else second.synonymLinkWeight,
+        antonymLinkWeight = if (iterator.next()) first.antonymLinkWeight else second.antonymLinkWeight,
+        definitionLinkWeight = if (iterator.next()) first.definitionLinkWeight else second.definitionLinkWeight,
+        definitionOfLinkWeight = if (iterator.next()) first.definitionOfLinkWeight else second.definitionOfLinkWeight,
+        hyponymLinkWeight = if (iterator.next()) first.hyponymLinkWeight else second.hyponymLinkWeight,
+        hypernymLinkWeight = if (iterator.next()) first.hypernymLinkWeight else second.hypernymLinkWeight,
+        meronymLinkWeight = if (iterator.next()) first.meronymLinkWeight else second.meronymLinkWeight,
+        holonymLinkWeight = if (iterator.next()) first.holonymLinkWeight else second.holonymLinkWeight,
+        syntaxLinkWeight = if (iterator.next()) first.syntaxLinkWeight else second.syntaxLinkWeight,
+        namedEntityLinkWeight = if (iterator.next()) first.namedEntityLinkWeight else second.namedEntityLinkWeight,
+        nameOfLinkWeight = if (iterator.next()) first.nameOfLinkWeight else second.nameOfLinkWeight,
+        semanticRoleLinkWeight = if (iterator.next()) first.semanticRoleLinkWeight else second.semanticRoleLinkWeight,
+        semanticRoleOfLinkWeight = if (iterator.next()) first.semanticRoleOfLinkWeight else second.semanticRoleOfLinkWeight
     )
+}
 
 private fun ArcConfig.mutate(mutateProb: Double = 0.1): ArcConfig = ArcConfig(
+    pulseCount = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextInt(1, 100) else pulseCount,
     startActivation = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 100.0) else startActivation,
     threshold = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else threshold,
     synonymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else synonymLinkWeight,
     antonymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(-1.0, 1.0) else antonymLinkWeight,
     definitionLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else definitionLinkWeight,
+    definitionOfLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else definitionOfLinkWeight,
     hyponymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else hyponymLinkWeight,
     hypernymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else hypernymLinkWeight,
     meronymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else meronymLinkWeight,
+    holonymLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else holonymLinkWeight,
     syntaxLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else syntaxLinkWeight,
     namedEntityLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else namedEntityLinkWeight,
-    semanticRoleLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else semanticRoleLinkWeight
+    nameOfLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else nameOfLinkWeight,
+    semanticRoleLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else semanticRoleLinkWeight,
+    semanticRoleOfLinkWeight = if (Random.nextDouble(0.0, 1.0) < mutateProb) Random.nextDouble(0.0, 1.0) else semanticRoleOfLinkWeight
 )
 
 private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
-    val results = map { it.copy(fitness = it.dna.fitness(dataSet)) }
-        .sortedByDescending { it.fitness }
-        .also { genotypes -> println(genotypes.map { it.fitness }) }
+    val results = map { if (it.fitness.correct > 0) it else it.copy(fitness = fitness(it.dna, dataSet)) }
+        .sortedByDescending { it.fitness.correct }
+        .also { genotypes -> println(genotypes.map { it.fitness.correct }) }
+    results.first().let { println("(correct: ${it.fitness.correct}, wrong: ${it.fitness.wrong}, unknown: ${it.fitness.unknown})") }
     val elite = results.take(numElites)
     val parents = results.take(numParents)
     val nextGeneration = parents.nextGeneration()
-    val numRandoms = generationSize - numElites - (numParents / 2*2)
+    val numRandoms = generationSize - numElites - (numParents / 2 * 2)
     return elite.plus(nextGeneration)
         .plus(buildRandomGeneration(numRandoms))
 }
@@ -106,7 +140,7 @@ fun main() {
 
     val fullDataSet = readDataset(Dataset.ADVERSIAL_TEST)!!.asSequence()
     repeat(10) { shuffleIndex ->
-        val chunkSize = 10
+        val chunkSize = 400
         fullDataSet.shuffled()
             .chunked(chunkSize)
             .filter { it.size == chunkSize }
@@ -117,6 +151,10 @@ fun main() {
                     .count()
                     .let { it.toDouble() / dataSet.size }
                     .let { println("Score of best genotype from last chunk: $it") }
+
+                //reset fitness values
+                generation = generation.map { it.copy(fitness = Fitness()) }
+
                 var unchangedBestCount = 0
                 //do the evolution
                 while (unchangedBestCount < 10) {
