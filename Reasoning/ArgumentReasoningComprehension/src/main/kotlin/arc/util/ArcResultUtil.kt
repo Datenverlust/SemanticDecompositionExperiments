@@ -3,8 +3,9 @@
 package arc.util
 
 import arc.ArcLabel
-import arc.ArcPartialResult
 import arc.ArcResult
+import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.module.kotlin.readValue
 import java.io.File
 
 val resultsDir = File(userHome("Dokumente"), "arc_results").also { it.mkdirs() }
@@ -24,7 +25,7 @@ fun ArcResult.toText() = listOf(
 fun saveResult(result: ArcResult, folderName: String) = File(resultsDir, folderName)
     .also { it.mkdirs() }
     .let { dir ->
-        File(dir, "${result.id}.txt").writeText(result.toText())
+        File(dir, "${result.id}.json").writeText(ObjectMapper().writeValueAsString(result))
     }
 
 fun getIdsOfDoneTasks(dirName: String) = File(resultsDir, dirName)
@@ -56,23 +57,4 @@ fun List<ArcResult>.print() {
 fun evaluateResults(dirName: String) = File(resultsDir, dirName).listFiles()
     .map { file -> file.parseAsArcResult() }
 
-fun File.parseAsArcResult(): ArcResult = readText()
-    .split("\n")
-    .map { line -> line.replace("""^.+: """.toRegex(), "") }
-    .let {
-        ArcResult(
-            id = name.removeSuffix(".txt"),
-            foundLabel = ArcLabel.valueOf(it[0]),
-            correctLabel = ArcLabel.valueOf(it[1]),
-            resultW0 = ArcPartialResult(
-                score = it[2].toDouble(),
-                numVertices = it[3].toInt(),
-                numEdges = it[4].toInt()
-            ),
-            resultW1 = ArcPartialResult(
-                score = it[5].toDouble(),
-                numVertices = it[6].toInt(),
-                numEdges = it[7].toInt()
-            )
-        )
-    }
+fun File.parseAsArcResult(): ArcResult = ObjectMapper().readValue(this)
