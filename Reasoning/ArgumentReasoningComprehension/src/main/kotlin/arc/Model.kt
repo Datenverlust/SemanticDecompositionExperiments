@@ -65,6 +65,7 @@ fun ArcConfig.toDirName() =
 data class ArcResult(
     val id: String,
     val foundLabel: ArcLabel,
+    val index: Int,
     val correctLabel: ArcLabel,
     val resultW0: ArcPartialResult,
     val resultW1: ArcPartialResult

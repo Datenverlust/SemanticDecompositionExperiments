@@ -328,17 +328,19 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             .let { results ->
                 val resultW0 = results.getValue(ArcLabel.W0)
                 val resultW1 = results.getValue(ArcLabel.W1)
-                val resultLabel = (resultW0.score.indices).mapNotNull { index ->
+                val (resultLabel, index) = (resultW0.score.indices).mapNotNull { index ->
                     when {
-                        resultW0.score[index] > resultW1.score[index] -> ArcLabel.W0
-                        resultW0.score[index] < resultW1.score[index] -> ArcLabel.W1
+                        resultW0.score[index] > resultW1.score[index] -> ArcLabel.W0 to index
+                        resultW0.score[index] < resultW1.score[index] -> ArcLabel.W1 to index
                         else -> null
                     }
-                }.firstOrNull() ?: if (Random.nextBoolean()) ArcLabel.W0 else ArcLabel.W1
+                }.firstOrNull()
+                    ?: ArcLabel.UNKNOWN to 4//TODO: replace by: if (Random.nextBoolean()) ArcLabel.W0 else ArcLabel.W1
 
                 ArcResult(
                     id = task.id,
                     foundLabel = resultLabel,
+                    index = index,
                     correctLabel = task.correctLabelW0orW1,
                     resultW0 = resultW0,
                     resultW1 = resultW1
