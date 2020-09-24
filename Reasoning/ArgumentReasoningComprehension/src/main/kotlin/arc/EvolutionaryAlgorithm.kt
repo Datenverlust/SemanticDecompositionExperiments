@@ -1,8 +1,13 @@
+@file:Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
+
 package arc
 
 import arc.dataset.Dataset
 import arc.dataset.readDataset
 import arc.util.userHome
+import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.module.kotlin.KotlinModule
+import com.fasterxml.jackson.module.kotlin.readValue
 import kotlinx.coroutines.runBlocking
 import java.io.File
 import kotlin.random.Random
@@ -135,7 +140,14 @@ private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
 
 fun main() {
     val resultDir = File(userHome("Dokumente"), "generations_arc").also { it.mkdirs() }
-    var generation = buildRandomGeneration(generationSize)
+    var generation = resultDir.listFiles()
+        .maxByOrNull { it.lastModified() }
+        ?.let {
+            listOf(
+                ObjectMapper().registerModule(KotlinModule()).readValue<Genotype>(it.readBytes())
+            ).plus(buildRandomGeneration(generationSize - 1))
+        } ?: buildRandomGeneration(generationSize)
+
     var bestGenotype: Genotype = generation.first()
 
     val fullDataSet = readDataset(Dataset.ADVERSIAL_TEST)!!.asSequence()
@@ -166,7 +178,8 @@ fun main() {
                         unchangedBestCount = 0
                     }
                 }
-                File(resultDir, "shuffle${shuffleIndex + 1}_chunk${chunkIndex + 1}.txt").writeText(generation.first().toString())
+                File(resultDir, "shuffle${shuffleIndex + 1}_chunk${chunkIndex + 1}.json")
+                    .writeText(ObjectMapper().writeValueAsString(generation.first()))
                 solver.clearCaches()
             }
     }
