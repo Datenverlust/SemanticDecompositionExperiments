@@ -31,7 +31,7 @@ fun saveResult(result: ArcResult, folderName: String) = File(resultsDir, folderN
 fun getIdsOfDoneTasks(dirName: String) = File(resultsDir, dirName)
     .also { it.mkdirs() }
     .listFiles()
-    .map { it.name.replace(".txt", "") }
+    .map { it.name.replace(".json", "") }
 
 fun List<ArcResult>.print() {
     filter { it.foundLabel == it.correctLabel }
