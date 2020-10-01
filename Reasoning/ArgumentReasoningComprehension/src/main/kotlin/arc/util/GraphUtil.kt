@@ -1,7 +1,5 @@
 package arc.util
 
-import arc.ArcConfig
-import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.AntonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.DefinitionEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
@@ -18,8 +16,8 @@ import org.jgrapht.graph.DefaultListenableGraph
 
 fun createEdge(
     edgeType: EdgeType,
-    source: Concept,
-    target: Concept,
+    source: String,
+    target: String,
     relation: String? = null
 ): WeightedEdge? {
     val edgeTypeAttribute = "edgeType"
@@ -89,16 +87,16 @@ fun createEdge(
     }
 }
 
-fun createEdge(edge: WeightedEdge, source: Concept, target: Concept, attributes: Map<String, String>): WeightedEdge {
+fun createEdge(edge: WeightedEdge, source: String, target: String, attributes: Map<String, String>): WeightedEdge {
     edge.source = source
     edge.target = target
     edge.attributes = attributes
     return edge
 }
 
-fun List<DefaultListenableGraph<Concept, WeightedEdge>>.merge() =
+fun List<DefaultListenableGraph<String, WeightedEdge>>.merge() =
     DefaultListenableGraph(
-        DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
+        DefaultDirectedWeightedGraph<String, WeightedEdge>(WeightedEdge::class.java)
     ).also { graph ->
         map { it.vertexSet() }
             .flatten()
@@ -109,17 +107,17 @@ fun List<DefaultListenableGraph<Concept, WeightedEdge>>.merge() =
             .distinct()
             .forEach { edge ->
                 if (!graph.containsEdge(edge)) {
-                    graph.addEdge(edge.source as Concept, edge.target as Concept, edge)
+                    graph.addEdge(edge.source as String, edge.target as String, edge)
                     graph.setEdgeWeight(edge, edge.edgeWeight)
                 }
             }
     }
 
-fun DefaultListenableGraph<Concept, WeightedEdge>.addGraph(graph: DefaultListenableGraph<Concept, WeightedEdge>) {
-    graph.vertexSet().forEach { concept -> if (!containsVertex(concept)) addVertex(concept) }
+fun DefaultListenableGraph<String, WeightedEdge>.addGraph(graph: DefaultListenableGraph<String, WeightedEdge>) {
+    graph.vertexSet().forEach { node -> if (!containsVertex(node)) addVertex(node) }
     graph.edgeSet().forEach { edge ->
         if (!containsEdge(edge)) {
-            addEdge(edge.source as Concept, edge.target as Concept, edge)
+            addEdge(edge.source as String, edge.target as String, edge)
             setEdgeWeight(edge, edge.edgeWeight)
         }
     }

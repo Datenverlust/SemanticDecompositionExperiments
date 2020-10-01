@@ -17,37 +17,37 @@ import arc.wsd.markContext
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
-import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.DoubleMarkerPassing
 import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.MarkerPassingConfig
-import de.kimanufaktur.nsm.graph.entities.marker.DoubleMarkerWithOrigin
-import de.kimanufaktur.nsm.graph.entities.nodes.DoubleNodeWithMultipleThresholds
+import de.kimanufaktur.nsm.decomposition.graph.spreadingActivation.MarkerPassing.StringDoubleMarkerPassing
+import de.kimanufaktur.nsm.graph.entities.marker.StringDoubleMarkerWithOrigin
+import de.kimanufaktur.nsm.graph.entities.nodes.StringDoubleNodeWithMultipleThresholds
 import edu.stanford.nlp.ling.CoreLabel
 import edu.stanford.nlp.pipeline.CoreDocument
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 import java.util.Collections
-import kotlin.random.Random
 
 
 class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
-    val graphComponentCache: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())!!
+    val graphComponentCache = GraphCache()//: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())!!
 
     private fun String.asKey(config: ArcConfig) = "$this#${config.depth}"
 
-    private val semanticGraphCache = Collections.synchronizedMap<String, DefaultListenableGraph<Concept, WeightedEdge>>(mutableMapOf())
+    private val semanticGraphCache = SemanticGraphCache() // = Collections.synchronizedMap<String, DefaultListenableGraph<String, WeightedEdge>>(mutableMapOf())
 
-    private fun Concept.asKey(config: ArcConfig) = "${hashCode()}#${config.hashCode()}"
+    private fun Concept.asKey(config: ArcConfig) = "${asNodeIdentifier()}#${config.hashCode()}"
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addSemanticRelationsRecursive(source: Concept, config: ArcConfig) {
-        if (!source.isStopWord() && !containsVertex(source)) {
-            addVertex(source)
+    private fun DefaultListenableGraph<String, WeightedEdge>.addSemanticRelationsRecursive(source: Concept, config: ArcConfig) {
+        val node = source.asNodeIdentifier()
+        if (!source.isStopWord() && !containsVertex(node)) {
+            addVertex(node)
             addDefinitionsBy(source, config)
             addConceptsBy(source, config)
         }
     }
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addDefinitionsBy(source: Concept, config: ArcConfig) {
+    private fun DefaultListenableGraph<String, WeightedEdge>.addDefinitionsBy(source: Concept, config: ArcConfig) {
         if (source.assignedSenseKeys.isEmpty()) {
             source.definitions
         } else {
@@ -63,22 +63,23 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 defComponents.map { it.conceptMap.values }
                     .flatten()
                     .distinct()
-                    .forEach { target ->
-                        if (!target.isStopWord()) {
+                    .forEach { targetNode ->
+                        val sourceNode = source.asNodeIdentifier()
+                        if (!targetNode.isStopWord()) {
                             createEdge(
                                 edgeType = EdgeType.Definition,
-                                source = source,
-                                target = target
+                                source = sourceNode,
+                                target = targetNode
                             )
                                 ?.let { edge ->
-                                    if (!containsEdge(edge)) addEdge(source, target, edge)
+                                    if (!containsEdge(edge)) addEdge(sourceNode, targetNode, edge)
                                 }
                         }
                     }
             }
     }
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addConceptsBy(source: Concept, config: ArcConfig) {
+    private fun DefaultListenableGraph<String, WeightedEdge>.addConceptsBy(source: Concept, config: ArcConfig) {
         mapOf(
             EdgeType.Synonym to source.senseKeyToSynonymsMap,
             EdgeType.Antonym to source.senseKeyToAntonymsMap,
@@ -97,36 +98,40 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             .filterNot { (_, target) -> source == target || target.isStopWord() }
             .forEach { (edgeType, target) ->
                 if (!target.isStopWord()) {
+                    val sourceNode = source.asNodeIdentifier()
+                    val targetNode = target.asNodeIdentifier()
                     addSemanticRelationsRecursive(target, config.copy(depth = config.depth.dec()))
                     createEdge(
                         edgeType = edgeType,
-                        source = source,
-                        target = target
+                        source = sourceNode,
+                        target = targetNode
                     )
                         ?.let { edge ->
-                            if (!containsEdge(edge)) addEdge(source, target, edge)
+                            if (!containsEdge(edge)) addEdge(sourceNode, targetNode, edge)
                         }
                 }
             }
     }
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addSemanticGraph(
+    private fun DefaultListenableGraph<String, WeightedEdge>.addSemanticGraph(
         conceptList: Collection<Concept>,
         config: ArcConfig
     ) {
         conceptList.map { source ->
             val key = source.asKey(config)
-            semanticGraphCache[key]
-                ?: DefaultListenableGraph(DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java))
+            semanticGraphCache.find(key)
+                ?: DefaultListenableGraph(DefaultDirectedWeightedGraph<String, WeightedEdge>(WeightedEdge::class.java))
                     .also { graph -> graph.addSemanticRelationsRecursive(source, config) }
-                    .also { semanticGraphCache[key] = it }
+                    .also {
+                        semanticGraphCache.save(key, it)
+                    }
         }
             .merge()
             .also { graph -> addGraph(graph) }
     }
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addSyntaxGraph(
-        conceptMap: Map<CoreLabel, Concept>,
+    private fun DefaultListenableGraph<String, WeightedEdge>.addSyntaxGraph(
+        conceptMap: Map<CoreLabel, String>,
         coreDoc: CoreDocument
     ) {
         coreDoc.syntaxEdges()
@@ -150,29 +155,30 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             }
     }
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addNerGraph(
-        conceptMap: Map<CoreLabel, Concept>,
+    private fun DefaultListenableGraph<String, WeightedEdge>.addNerGraph(
+        conceptMap: Map<CoreLabel, String>,
         config: ArcConfig
     ) {
         conceptMap
             .filterKeys { it.ner() != null && it.ner() != "O" }
-            .forEach { (nameCoreLabel, nameConcept) ->
+            .forEach { (nameCoreLabel, nameNode) ->
                 nameCoreLabel.ner().toLowerCase().decompose(config, nameCoreLabel.tag()) //TODO: warum kein disambiguate?
                     .also { entityConcept -> addSemanticRelationsRecursive(entityConcept, config) }
                     .let { entityConcept ->
+                        val entityNode = entityConcept.asNodeIdentifier()
                         createEdge(
                             edgeType = EdgeType.NamedEntity,
-                            source = nameConcept,
-                            target = entityConcept
+                            source = nameNode,
+                            target = entityNode
                         )?.let { edge ->
-                            if (!containsEdge(edge)) addEdge(nameConcept, entityConcept, edge)
+                            if (!containsEdge(edge)) addEdge(nameNode, entityNode, edge)
                         }
                     }
             }
     }
 
-    private fun DefaultListenableGraph<Concept, WeightedEdge>.addRolesGraph(
-        conceptMap: Map<CoreLabel, Concept>,
+    private fun DefaultListenableGraph<String, WeightedEdge>.addRolesGraph(
+        conceptMap: Map<CoreLabel, String>,
         coreDoc: CoreDocument,
         config: ArcConfig
     ) {
@@ -191,7 +197,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                         .forEach { roleData ->
                             val roleGraph = roleData.graph
                             roleGraph.vertexSet().forEach { addVertex(it) }
-                            roleGraph.edgeSet().forEach { edge -> addEdge(edge.source as Concept, edge.target as Concept, edge) }
+                            roleGraph.edgeSet().forEach { edge -> addEdge(edge.source as String, edge.target as String, edge) }
                             roleData.conceptMap.values
                                 .forEach { roleConcept ->
                                     createEdge(
@@ -209,27 +215,27 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
     fun String.toGraphData(config: ArcConfig = ArcConfig()): GraphData {
         val key = asKey(config)
-        graphComponentCache[key]?.let { return it }
+        graphComponentCache.find(key)?.let { return it }
 
         val coreDoc = asAnnotatedCoreDocument()
         val conceptMap = coreDoc.toConceptMap(config)
+        val nodeMap = conceptMap.mapValues { (_, concept) -> concept.asNodeIdentifier() }
         val graph = DefaultListenableGraph(
-            DefaultDirectedWeightedGraph<Concept, WeightedEdge>(WeightedEdge::class.java)
+            DefaultDirectedWeightedGraph<String, WeightedEdge>(WeightedEdge::class.java)
         ).also { graph ->
-            conceptMap.values.forEach { graph.addVertex(it) }
+            nodeMap.values.forEach { graph.addVertex(it) }
             if (config.depth > 0) {
                 if (config.useSemDec) graph.addSemanticGraph(conceptMap.values, config)
-                if (config.useSyntax) graph.addSyntaxGraph(conceptMap, coreDoc)
-                if (config.useNer) graph.addNerGraph(conceptMap, config)
-                if (config.useSrl) graph.addRolesGraph(conceptMap, coreDoc, config)
+                if (config.useSyntax) graph.addSyntaxGraph(nodeMap, coreDoc)
+                if (config.useNer) graph.addNerGraph(nodeMap, config)
+                if (config.useSrl) graph.addRolesGraph(nodeMap, coreDoc, config)
             }
         }
         return GraphData(
             context = this,
-            coreDoc = coreDoc,
-            conceptMap = conceptMap,
+            conceptMap = nodeMap,
             graph = graph
-        ).also { graphComponentCache[key] = it }
+        ).also { graphComponentCache.save(key, it) }
     }
 
     private fun CoreDocument.toConceptMap(config: ArcConfig): Map<CoreLabel, Concept> {
@@ -267,13 +273,12 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
     fun createGraphData(text: String, config: ArcConfig = ArcConfig()): GraphData = text.toGraphData(config)
 
     fun clearCaches() {
-        semanticGraphCache.clear()
-        graphComponentCache.clear()
+//        semanticGraphCache.clear()
+//        graphComponentCache.clear()
     }
 
     override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
         val allComponents = task.allTextElements().map { elem -> elem.toGraphData() }
-
         return listOf(
             ArcLabel.W0,
             ArcLabel.W1
@@ -296,7 +301,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 val markerPassing = ArcMarkerPassing(
                     graph = graph,
                     threshold = components.map { it.conceptMap.values }.flatten().createThresholdMap(config),
-                    nodeType = DoubleNodeWithMultipleThresholds::class.java
+                    nodeType = StringDoubleNodeWithMultipleThresholds::class.java
                 )
                 markerPassing.doInitialMarking(startActivationMap)
                 MarkerPassingConfig.setTerminationPulsCount(config.pulseCount)
@@ -328,14 +333,14 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             .let { results ->
                 val resultW0 = results.getValue(ArcLabel.W0)
                 val resultW1 = results.getValue(ArcLabel.W1)
-                val (resultLabel, index) = (resultW0.score.indices).mapNotNull { index ->
+                val (index, resultLabel) = (resultW0.score.indices).mapNotNull { index ->
                     when {
-                        resultW0.score[index] > resultW1.score[index] -> ArcLabel.W0 to index
-                        resultW0.score[index] < resultW1.score[index] -> ArcLabel.W1 to index
+                        resultW0.score[index] > resultW1.score[index] -> index to ArcLabel.W0
+                        resultW0.score[index] < resultW1.score[index] -> index to ArcLabel.W1
                         else -> null
                     }
                 }.firstOrNull()
-                    ?: ArcLabel.UNKNOWN to 4//TODO: replace by: if (Random.nextBoolean()) ArcLabel.W0 else ArcLabel.W1
+                    ?: 4 to ArcLabel.UNKNOWN//TODO: replace by: 4 to if (Random.nextBoolean()) ArcLabel.W0 else ArcLabel.W1
 
                 ArcResult(
                     id = task.id,
@@ -349,35 +354,35 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
     }
 
 
-    private fun Collection<Concept>.createStartActivationMap(config: ArcConfig) = map { concept ->
-        DoubleMarkerWithOrigin().also {
+    private fun <T> Collection<T>.createStartActivationMap(config: ArcConfig) = map { concept ->
+        StringDoubleMarkerWithOrigin().also {
             it.activation = config.startActivation
-            it.origin = concept
+            it.origin = concept as String
         }
             .let { marker -> concept to listOf(marker) }
     }
         .toMap()
 
-    private fun Collection<Concept>.createThresholdMap(config: ArcConfig) = map { concept -> concept to config.threshold }.toMap()
+    private fun <T> Collection<T>.createThresholdMap(config: ArcConfig) = map { concept -> concept to config.threshold }.toMap()
 
-    private fun DoubleMarkerPassing.activationMap() = nodes
-        .map { (_, node) -> node as DoubleNodeWithMultipleThresholds }
+    private fun StringDoubleMarkerPassing.activationMap() = nodes
+        .map { (_, node) -> node as StringDoubleNodeWithMultipleThresholds }
         .mapNotNull { node ->
             node.activationHistory.asSequence()
-                .map { it as DoubleMarkerWithOrigin }
+                .map { it as StringDoubleMarkerWithOrigin }
                 .groupBy { it.origin }
                 .filter { (_, markers) -> markers.isNotEmpty() }
                 .mapValues { (_, markers) ->
                     markers.map { it.activation }.average()
                 }
                 .ifEmpty { null }
-                ?.let { node.concept to it }
+                ?.let { node.name to it }
         }
         .toMap()
 
-    private fun Map<Concept, Map<Concept, Double>>.evaluate(
-        originCons: Collection<Concept>,
-        resultCons: Collection<Concept>
+    private fun <T> Map<T, Map<T, Double>>.evaluate(
+        originCons: Collection<T>,
+        resultCons: Collection<T>
     ): Double = resultCons.mapNotNull { target ->
         this[target]
             ?.filterKeys { origin -> origin in originCons }
