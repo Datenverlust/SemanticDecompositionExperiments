@@ -3,7 +3,6 @@ package arc
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
 import edu.stanford.nlp.ling.CoreLabel
-import edu.stanford.nlp.pipeline.CoreDocument
 import org.jgrapht.graph.DefaultListenableGraph
 
 data class ArcTask(
@@ -25,13 +24,14 @@ enum class ArcLabel {
 
 data class GraphData(
     val context: String,
-    val coreDoc: CoreDocument,
-    val conceptMap: Map<CoreLabel, Concept>,
-    val graph: DefaultListenableGraph<Concept, WeightedEdge>
+    val conceptMap: Map<CoreLabel, String>,
+    val graph: DefaultListenableGraph<String, WeightedEdge>
 )
 
+fun Concept.asNodeIdentifier() = hashCode().toString()//"${litheral}_${assignedSenseKeys}${if (negated) "_neg" else ""}"
+
 data class ArcConfig(
-    val depth: Int = 1,
+    val depth: Int = 2,
     val useSemDec: Boolean = true,
     val useSyntax: Boolean = true,
     val useSrl: Boolean = true,
