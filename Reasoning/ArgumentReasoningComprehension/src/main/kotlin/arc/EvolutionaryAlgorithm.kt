@@ -151,7 +151,7 @@ private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
 
 fun main() {
     val resultDir = File(userHome("Dokumente"), "generations_arc").also { it.mkdirs() }
-    val dataSet = readDataset(Dataset.ADVERSIAL_TEST)!!
+    val dataSet = readDataset(Dataset.ADVERSIAL_TRAIN)!!
     println("fill caches")
     dataSet.asSequence().printProgress(1, dataSet.size).forEach { solver.invoke(it, ArcConfig()) }
     val timestamp = System.currentTimeMillis()
