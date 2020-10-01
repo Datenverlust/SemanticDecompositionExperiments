@@ -21,8 +21,11 @@ fun main() {
             dataSet.asSequence()
                 .filterNot { it.id in tasksDone }
                 .take(bulkSize)
-                .printProgress(10, bulkSize)
-                .map { task -> solver.invoke(task, config).also { saveResult(it, dirName) } }
+                .printProgress(1, bulkSize)
+                .map { task ->
+                    solver.invoke(task, config)
+                        .also { saveResult(it, dirName) }
+                }
                 .toList().print()
         }
     }
