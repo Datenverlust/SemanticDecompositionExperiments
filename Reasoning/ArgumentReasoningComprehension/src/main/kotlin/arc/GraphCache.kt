@@ -7,7 +7,6 @@ import com.fasterxml.jackson.module.kotlin.readValue
 import org.rocksdb.Options
 import org.rocksdb.RocksDB
 import java.io.File
-import java.lang.NullPointerException
 
 interface KeyValueRepository<K, V> {
     fun save(key: K, value: V)
@@ -40,7 +39,7 @@ class GraphCache : KeyValueRepository<String, GraphData> {
     override fun find(key: String): GraphData? {
         return try {
             database.get(key.toByteArray()).deserialize()
-        }  catch (_: NullPointerException) {
+        } catch (_: NullPointerException) {
             null
         }
     }

@@ -7,15 +7,12 @@ import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
-import org.apache.commons.lang.ObjectUtils
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 import org.rocksdb.Options
 import org.rocksdb.RocksDB
 import java.io.File
-import java.io.ObjectInputStream
 import java.io.StringWriter
-import java.lang.NullPointerException
 
 class SemanticGraphCache : KeyValueRepository<String, DefaultListenableGraph<String, WeightedEdge>> {
 

@@ -2,10 +2,10 @@ package arc.wsd
 
 import arc.util.userHome
 import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
 import org.rocksdb.Options
 import org.rocksdb.RocksDB
-import java.io.ByteArrayOutputStream
 import java.io.File
 
 interface KeyValueRepository<K, V> {
@@ -19,6 +19,7 @@ class WsdCache : KeyValueRepository<String, Set<String>> {
     val dbName = "wsd"
     val dbDir: File = File(userHome("Dokumente"), "$dbName-db").also { it.mkdirs() }
     val options = Options()
+    val mapper: ObjectMapper = ObjectMapper().registerModule(KotlinModule())
 
     init {
         RocksDB.loadLibrary()
@@ -27,15 +28,9 @@ class WsdCache : KeyValueRepository<String, Set<String>> {
 
     val database: RocksDB = RocksDB.open(options, dbDir.path)
 
-    fun Set<String>.serialize(): ByteArray {
-        val outputStream = ByteArrayOutputStream()
-        ObjectMapper().writeValue(outputStream, this)
-        return outputStream.toByteArray()
-    }
+    fun Set<String>.serialize(): ByteArray = mapper.writeValueAsBytes(this)
 
-    fun ByteArray.deserialize(): Set<String> {
-        return ObjectMapper().readValue(this)
-    }
+    fun ByteArray.deserialize(): Set<String> = mapper.readValue(this)
 
     override fun save(key: String, value: Set<String>) {
         database.put(key.toByteArray(), value.serialize())
