@@ -40,21 +40,13 @@ private fun downloadModel(fileName: String): String {
 }
 
 private fun getPipeline(pipelineOptions: Array<String>): CompletePipeline {
-//    val defaultOutputStream = System.out
-//    System.setOut(PrintStream(OutputStream.nullOutputStream()))
     val srlPipeline = CompletePipelineCMDLineOptions()
         .also { pipeline -> pipeline.parseCmdLineArgs(pipelineOptions) }
-//    } catch (e:NoClassDefFoundError){
-//        CompletePipelineCMDLineOptions()
-//            .also { it.parseCmdLineArgs(pipelineOptions) }
-//            .let { CompletePipeline.getCompletePipeline(it) }
-//    }
-//    System.setOut(defaultOutputStream)
     return srlPipeline.let { pipeline -> CompletePipeline.getCompletePipeline(pipeline) }
 }
 
 fun identifySemanticRoles(coreDocument: CoreDocument): Map<CoreLabel, List<String>> = coreDocument.sentences().map { sentence ->
-    //add a pseudo element to the tokens at index 0... mate tools srl desires it
+    //add a pseudo element to the tokens at index 0... mate tools srl requires this step
     srlPipeline.parse(listOf("").plus(sentence.tokensAsStrings()))
         .predicates.mapNotNull { predicate ->
             getRoleSet(predicate.lemma, predicate.sense)
