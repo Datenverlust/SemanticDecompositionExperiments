@@ -11,19 +11,21 @@ import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
 import kotlinx.coroutines.runBlocking
 import java.io.File
+import kotlin.math.roundToInt
 import kotlin.random.Random
 
 private val solver = ArcSolver()
-private val parallelArcSolver = CoroutineArcSolver(10, solver)
-private const val generationSize = 100
+private val parallelArcSolver = CoroutineArcSolver(8, solver)
+private const val generationSize = 10
 private const val numElites = 1
-private const val numParents = 25
+private const val numParents = 6
 private const val numParams = 16
-private const val numRepeats = 1
-private const val mutateProb = 0.02
+private const val numRepeatedFitnessTests = 1
+private const val mutateProb = 0.05
+private const val mutateInfluence = 0.2
 
 private fun fitness(config: ArcConfig, dataSet: List<ArcTask>) = runBlocking {
-    (1..numRepeats).map {
+    (1..numRepeatedFitnessTests).map {
         parallelArcSolver.startAsync(dataSet, config)
     }.let { results ->
         Fitness(
@@ -40,7 +42,7 @@ private fun buildRandomGeneration(size: Int) = (1..size).map {
         startActivation = randomStartActivation(),
         threshold = randomThreshold(),
         synonymLinkWeight = randomEdgeWeight(),
-        antonymLinkWeight = randomEdgeWeight(),
+        antonymLinkWeight = randomNegEdgeWeight(),
         definitionLinkWeight = randomEdgeWeight(),
         definitionOfLinkWeight = randomEdgeWeight(),
         hyponymLinkWeight = randomEdgeWeight(),
@@ -67,8 +69,9 @@ data class Fitness(
     val unknown: List<Int> = listOf()
 )
 
-private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled().zip(shuffled())
-    .asSequence()
+private fun List<Genotype>.nextGeneration(): List<Genotype> = shuffled().asSequence()
+    .chunked(2)
+    .filter { it.size == 2 }
     .map { (first, second) ->
         val crossDef = (1..numParams).map { Random.nextBoolean() }
         val invertedCrossDef = crossDef.map { it.not() }
@@ -102,39 +105,41 @@ private fun Pair<ArcConfig, ArcConfig>.uniformCrossover(crossDefIterator: Iterat
     )
 
 private fun randomEdgeWeight() = Random.nextDouble(0.0, 1.0)
+private fun randomNegEdgeWeight() = Random.nextDouble(-1.0, 1.0)
 private fun randomThreshold() = Random.nextDouble(0.0, 1.0)
-private fun randomStartActivation() = Random.nextDouble(0.0, 100.0)
-private fun randomPulseCount() = Random.nextInt(0, 100)
+private fun randomStartActivation() = Random.nextDouble(10.0, 100.0)
+private fun randomPulseCount() = Random.nextInt(10, 100)
+
+private fun Double.mutateBy(randomNumber: Double) = (1.0 - mutateInfluence) * this + mutateInfluence * randomNumber
+
+private fun Int.mutateBy(randomNumber: Int) = toDouble().mutateBy(randomNumber.toDouble()).roundToInt()
 
 private fun ArcConfig.mutate(): ArcConfig = (1..numParams).map { Random.nextDouble(0.0, 1.0) < mutateProb }.iterator()
     .let { iterator ->
         ArcConfig(
-            pulseCount = if (iterator.next()) randomPulseCount() else pulseCount,
-            startActivation = if (iterator.next()) randomStartActivation() else startActivation,
-            threshold = if (iterator.next()) randomThreshold() else threshold,
-            synonymLinkWeight = if (iterator.next()) randomEdgeWeight() else synonymLinkWeight,
-            antonymLinkWeight = if (iterator.next()) randomEdgeWeight() else antonymLinkWeight,
-            definitionLinkWeight = if (iterator.next()) randomEdgeWeight() else definitionLinkWeight,
-            definitionOfLinkWeight = if (iterator.next()) randomEdgeWeight() else definitionOfLinkWeight,
-            hyponymLinkWeight = if (iterator.next()) randomEdgeWeight() else hyponymLinkWeight,
-            hypernymLinkWeight = if (iterator.next()) randomEdgeWeight() else hypernymLinkWeight,
-            meronymLinkWeight = if (iterator.next()) randomEdgeWeight() else meronymLinkWeight,
-            holonymLinkWeight = if (iterator.next()) randomEdgeWeight() else holonymLinkWeight,
-            syntaxLinkWeight = if (iterator.next()) randomEdgeWeight() else syntaxLinkWeight,
-            namedEntityLinkWeight = if (iterator.next()) randomEdgeWeight() else namedEntityLinkWeight,
-            nameOfLinkWeight = if (iterator.next()) randomEdgeWeight() else nameOfLinkWeight,
-            semanticRoleLinkWeight = if (iterator.next()) randomEdgeWeight() else semanticRoleLinkWeight,
-            semanticRoleOfLinkWeight = if (iterator.next()) randomEdgeWeight() else semanticRoleOfLinkWeight
+            pulseCount = if (iterator.next()) pulseCount.mutateBy(randomPulseCount()) else pulseCount,
+            startActivation = if (iterator.next()) startActivation.mutateBy(randomStartActivation()) else startActivation,
+            threshold = if (iterator.next()) threshold.mutateBy(randomThreshold()) else threshold,
+            synonymLinkWeight = if (iterator.next()) synonymLinkWeight.mutateBy(randomEdgeWeight()) else synonymLinkWeight,
+            antonymLinkWeight = if (iterator.next()) antonymLinkWeight.mutateBy(randomNegEdgeWeight()) else antonymLinkWeight,
+            definitionLinkWeight = if (iterator.next()) definitionLinkWeight.mutateBy(randomEdgeWeight()) else definitionLinkWeight,
+            definitionOfLinkWeight = if (iterator.next()) definitionOfLinkWeight.mutateBy(randomEdgeWeight()) else definitionOfLinkWeight,
+            hyponymLinkWeight = if (iterator.next()) hyponymLinkWeight.mutateBy(randomEdgeWeight()) else hyponymLinkWeight,
+            hypernymLinkWeight = if (iterator.next()) hypernymLinkWeight.mutateBy(randomEdgeWeight()) else hypernymLinkWeight,
+            meronymLinkWeight = if (iterator.next()) meronymLinkWeight.mutateBy(randomEdgeWeight()) else meronymLinkWeight,
+            holonymLinkWeight = if (iterator.next()) holonymLinkWeight.mutateBy(randomEdgeWeight()) else holonymLinkWeight,
+            syntaxLinkWeight = if (iterator.next()) syntaxLinkWeight.mutateBy(randomEdgeWeight()) else syntaxLinkWeight,
+            namedEntityLinkWeight = if (iterator.next()) namedEntityLinkWeight.mutateBy(randomEdgeWeight()) else namedEntityLinkWeight,
+            nameOfLinkWeight = if (iterator.next()) nameOfLinkWeight.mutateBy(randomEdgeWeight()) else nameOfLinkWeight,
+            semanticRoleLinkWeight = if (iterator.next()) semanticRoleLinkWeight.mutateBy(randomEdgeWeight()) else semanticRoleLinkWeight,
+            semanticRoleOfLinkWeight = if (iterator.next()) semanticRoleOfLinkWeight.mutateBy(randomEdgeWeight()) else semanticRoleOfLinkWeight
         )
     }
 
 private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
     val results = asSequence().printProgress(1, size)
         .map { if (it.fitness == Fitness()) it.copy(fitness = fitness(it.dna, dataSet)) else it }
-        .sortedWith(
-            compareByDescending<Genotype> { it.fitness.correct.average() - it.fitness.wrong.average() }
-                .thenByDescending { it.fitness.correct.average() }
-        )
+        .sortedByDescending { (it.fitness.correct.average() - it.fitness.wrong.average()) }
         .toList()
         .also { genotypes ->
             genotypes.forEach {
@@ -144,25 +149,24 @@ private fun List<Genotype>.evolution(dataSet: List<ArcTask>): List<Genotype> {
     results.first().let { println("(correct: ${it.fitness.correct}, wrong: ${it.fitness.wrong}, unknown: ${it.fitness.unknown})") }
     val elite = results.take(numElites)
     val parents = results.take(numParents)
-    val numRandoms = generationSize - numElites - (numParents * 2)
+    val numRandoms = generationSize - numElites - ((numParents / 2) * 2)
     return elite.plus(parents.nextGeneration())
         .plus(buildRandomGeneration(numRandoms))
 }
 
 fun main() {
+    val mapper = ObjectMapper().registerModule(KotlinModule())
     val resultDir = File(userHome("Dokumente"), "generations_arc").also { it.mkdirs() }
     val dataSet = readDataset(Dataset.ADVERSIAL_TRAIN)!!
     println("fill caches")
-    dataSet.asSequence().printProgress(1, dataSet.size).forEach { solver.invoke(it, ArcConfig()) }
+    solver.initialFillCache(dataSet)
     val timestamp = System.currentTimeMillis()
     repeat(10) { index ->
+        println("ITERATION#${index+1}")
         var generation = resultDir.listFiles()
-            .maxByOrNull { it.lastModified() }
-            ?.let {
-                listOf(
-                    ObjectMapper().registerModule(KotlinModule()).readValue<Genotype>(it.readBytes())
-                ).plus(buildRandomGeneration(generationSize - 1))
-            } ?: buildRandomGeneration(generationSize)
+            .map { mapper.readValue<Genotype>(it.readBytes()) }
+            .map { it.copy(dna = it.dna.copy(depth = ArcConfig().depth), fitness = Fitness()) }
+            .let { it.plus(buildRandomGeneration(generationSize - it.size)) }
 
         var bestGenotype: Genotype? = null
         var evolutionCount = 0
@@ -177,9 +181,9 @@ fun main() {
             } else {
                 bestGenotype = generation.first()
                 unchangedBestCount = 0
+                File(resultDir, "${timestamp}_iter-${index + 1}_evo-${evolutionCount}.json")
+                    .writeText(mapper.writeValueAsString(generation.first()))
             }
-            File(resultDir, "iter-${index + 1}_evo-${evolutionCount}_$timestamp.json")
-                .writeText(ObjectMapper().writeValueAsString(generation.first()))
         }
     }
 }
