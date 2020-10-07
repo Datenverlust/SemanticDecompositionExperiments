@@ -1,8 +1,10 @@
 package arc
 
+import arc.util.readGraphFromString
+import arc.util.writeGraphAsString
 import de.kimanufaktur.nsm.decomposition.Concept
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
-import edu.stanford.nlp.ling.CoreLabel
+import kotlinx.serialization.Serializable
 import org.jgrapht.graph.DefaultListenableGraph
 
 data class ArcTask(
@@ -24,11 +26,32 @@ enum class ArcLabel {
 
 data class GraphData(
     val context: String,
-    val conceptMap: Map<CoreLabel, String>,
+    val sourceConcepts: Set<String>,
     val graph: DefaultListenableGraph<String, WeightedEdge>
 )
 
-fun Concept.asNodeIdentifier() = hashCode().toString()//"${litheral}_${assignedSenseKeys}${if (negated) "_neg" else ""}"
+@Serializable
+data class CompressedData(
+    val context: String,
+    val sourceConcepts: Set<String>,
+    val graphML: String
+)
+
+fun GraphData.compress() = CompressedData(
+    context = context,
+    sourceConcepts = sourceConcepts,
+    graphML = writeGraphAsString(graph)
+)
+
+fun CompressedData.decompress() = GraphData(
+    context = context,
+    sourceConcepts = sourceConcepts,
+    graph = readGraphFromString(graphML)
+)
+
+fun Concept.asNodeIdentifier() = litheral.replace("""[-/',]""".toRegex(), "") +
+    assignedSenseKeys.joinToString("_") { it.replace("""[:%]""".toRegex(), "") }.let { "_$it" } +
+    if (negated) "_neg" else ""
 
 data class ArcConfig(
     val depth: Int = 2,

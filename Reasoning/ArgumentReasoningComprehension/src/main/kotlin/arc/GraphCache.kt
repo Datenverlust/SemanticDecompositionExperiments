@@ -28,21 +28,20 @@ class GraphCache : KeyValueRepository<String, GraphData> {
 
     val database: RocksDB = RocksDB.open(options, dbDir.path)
 
-    fun GraphData.serialize(): ByteArray = mapper.writeValueAsBytes(this)
+    fun GraphData.serialize(): ByteArray = mapper.writeValueAsBytes(compress())
 
-    fun ByteArray.deserialize(): GraphData = mapper.readValue(this)
+    fun ByteArray.deserialize(): GraphData = mapper.readValue<CompressedData>(this).decompress()
 
     override fun save(key: String, value: GraphData) {
         database.put(key.toByteArray(), value.serialize())
     }
 
-    override fun find(key: String): GraphData? {
-        return try {
+    override fun find(key: String): GraphData? =
+        try {
             database.get(key.toByteArray()).deserialize()
         } catch (_: NullPointerException) {
             null
         }
-    }
 
     override fun delete(key: String) {
         database.delete(key.toByteArray())
