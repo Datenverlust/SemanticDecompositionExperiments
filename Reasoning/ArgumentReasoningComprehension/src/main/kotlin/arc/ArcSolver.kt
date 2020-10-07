@@ -11,6 +11,7 @@ import arc.util.decompose
 import arc.util.isStopWord
 import arc.util.mapIf
 import arc.util.merge
+import arc.util.printProgress
 import arc.util.syntaxEdges
 import arc.wsd.disambiguateBy
 import arc.wsd.markContext
@@ -31,6 +32,17 @@ import java.util.Collections
 class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
     val graphComponentCache = GraphCache()//: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())!!
+    val cache: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())
+
+    fun initialFillCache(dataSet: List<ArcTask>) = dataSet
+        .asSequence()
+        .printProgress(10)
+        .map { it.allTextElements() }
+        .flatten()
+        .map { text -> text.asKey(ArcConfig()) }
+        .forEach { key ->
+            graphComponentCache.find(key)?.let { cache[key] = it }
+        }
 
     private fun String.asKey(config: ArcConfig) = "$this#${config.depth}"
 
@@ -60,7 +72,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             }
             .also { defComponents ->
                 addGraph(defComponents.map { component -> component.graph }.merge())
-                defComponents.map { it.conceptMap.values }
+                defComponents.map { it.sourceConcepts }
                     .flatten()
                     .distinct()
                     .forEach { targetNode ->
@@ -198,7 +210,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                             val roleGraph = roleData.graph
                             roleGraph.vertexSet().forEach { addVertex(it) }
                             roleGraph.edgeSet().forEach { edge -> addEdge(edge.source as String, edge.target as String, edge) }
-                            roleData.conceptMap.values
+                            roleData.sourceConcepts
                                 .forEach { roleConcept ->
                                     createEdge(
                                         edgeType = EdgeType.SemanticRole,
@@ -233,7 +245,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
         }
         return GraphData(
             context = this,
-            conceptMap = nodeMap,
+            sourceConcepts = nodeMap.values.toSet(),
             graph = graph
         ).also { graphComponentCache.save(key, it) }
     }
@@ -278,7 +290,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
     }
 
     override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
-        val allComponents = task.allTextElements().map { elem -> elem.toGraphData() }
+        val allComponents = task.allTextElements().map { elem -> cache[elem.asKey(config)] ?: elem.toGraphData() }
         return listOf(
             ArcLabel.W0,
             ArcLabel.W1
@@ -294,13 +306,13 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 currentConfig = config
 
                 val startActivationMap = components.filter { it.context == task.reason }
-                    .map { it.conceptMap.values }
+                    .map { it.sourceConcepts }
                     .flatten()
                     .createStartActivationMap(config)
 
                 val markerPassing = ArcMarkerPassing(
                     graph = graph,
-                    threshold = components.map { it.conceptMap.values }.flatten().createThresholdMap(config),
+                    threshold = components.map { it.sourceConcepts }.flatten().createThresholdMap(config),
                     nodeType = StringDoubleNodeWithMultipleThresholds::class.java
                 )
                 markerPassing.doInitialMarking(startActivationMap)
@@ -315,8 +327,8 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                     task.reason to warrant
                 )
                     .map { (origin, resulting) ->
-                        components.first { it.context == origin }.conceptMap.values to
-                            components.first { it.context == resulting }.conceptMap.values
+                        components.first { it.context == origin }.sourceConcepts to
+                            components.first { it.context == resulting }.sourceConcepts
                     }
                     .map { (originCons, resultCons) ->
                         activationMap.evaluate(originCons, resultCons)
