@@ -1,18 +1,16 @@
 package arc
 
-import arc.util.exporter
-import arc.util.importer
+import arc.util.readGraphFromString
 import arc.util.userHome
+import arc.util.writeGraphAsString
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
-import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 import org.rocksdb.Options
 import org.rocksdb.RocksDB
 import java.io.File
-import java.io.StringWriter
 
 class SemanticGraphCache : KeyValueRepository<String, DefaultListenableGraph<String, WeightedEdge>> {
 
@@ -28,16 +26,11 @@ class SemanticGraphCache : KeyValueRepository<String, DefaultListenableGraph<Str
 
     val database: RocksDB = RocksDB.open(options, dbDir.path)
 
-    fun DefaultListenableGraph<String, WeightedEdge>.serialize(): ByteArray = StringWriter()
-        .also { exporter.exportGraph(this, it) }
-        .let { mapper.writeValueAsBytes(it.toString()) }
-
+    fun DefaultListenableGraph<String, WeightedEdge>.serialize(): ByteArray =
+        mapper.writeValueAsBytes(writeGraphAsString(this))
 
     fun ByteArray.deserialize(): DefaultListenableGraph<String, WeightedEdge> =
-        DefaultListenableGraph(DefaultDirectedWeightedGraph<String, WeightedEdge>(WeightedEdge::class.java)).also { graph ->
-            importer.importGraph(graph, mapper.readValue<String>(this).reader())
-        }
-
+        readGraphFromString(mapper.readValue(this))
 
     override fun save(key: String, value: DefaultListenableGraph<String, WeightedEdge>) {
         database.put(key.toByteArray(), value.serialize())
