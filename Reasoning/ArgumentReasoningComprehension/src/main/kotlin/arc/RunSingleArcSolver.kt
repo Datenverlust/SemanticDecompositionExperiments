@@ -13,6 +13,8 @@ fun main() {
     val config = ArcConfig()
     val dirName = ArcConfig().toDirName()
     readDataset(Dataset.ADVERSIAL_TEST)?.let { dataSet ->
+        solver.initialFillCache(dataSet)
+        println("Größe des Caches: " + solver.cache.size)
         var notDone = true
         while (notDone) {
             val tasksDone = getIdsOfDoneTasks(dirName)
