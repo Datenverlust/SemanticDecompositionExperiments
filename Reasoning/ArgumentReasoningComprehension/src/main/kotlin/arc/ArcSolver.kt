@@ -1,5 +1,7 @@
 package arc
 
+import arc.cache.GraphCache
+import arc.cache.SemanticGraphCache
 import arc.dataset.allTextElements
 import arc.negation.findNegationTargets
 import arc.negation.resolveNegation
@@ -8,6 +10,7 @@ import arc.util.addGraph
 import arc.util.asAnnotatedCoreDocument
 import arc.util.createEdge
 import arc.util.decompose
+import arc.util.extractMeta
 import arc.util.isStopWord
 import arc.util.mapIf
 import arc.util.merge
@@ -31,24 +34,24 @@ import java.util.Collections
 
 class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
 
-    val graphComponentCache = GraphCache()//: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())!!
-    val cache: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())
+    val graphComponentCache = GraphCache()
+    private val semanticGraphCache = SemanticGraphCache()
+    val ramCache: MutableMap<String, GraphData> = Collections.synchronizedMap(mutableMapOf())
 
-    fun initialFillCache(dataSet: List<ArcTask>) = dataSet
+    private fun Concept.asKey(config: ArcConfig) = "${asNodeIdentifier()}#${config.depth}${if (config.useWsd) "_wsd" else ""}${if (config.useNeg) "_neg" else ""}"
+
+    fun initialFillRamCache(dataSet: List<ArcTask>) = dataSet
+        .also { println("-filling ram cache-") }
         .asSequence()
         .printProgress(10)
         .map { it.allTextElements() }
         .flatten()
         .map { text -> text.asKey(ArcConfig()) }
         .forEach { key ->
-            graphComponentCache.find(key)?.let { cache[key] = it }
+            graphComponentCache.find(key)?.let { ramCache[key] = it }
         }
 
-    private fun String.asKey(config: ArcConfig) = "$this#${config.depth}"
-
-    private val semanticGraphCache = SemanticGraphCache() // = Collections.synchronizedMap<String, DefaultListenableGraph<String, WeightedEdge>>(mutableMapOf())
-
-    private fun Concept.asKey(config: ArcConfig) = "${asNodeIdentifier()}#${config.hashCode()}"
+    private fun String.asKey(config: ArcConfig) = "$this#${config.depth}${if (config.useWsd) "_wsd" else ""}${if (config.useNeg) "_neg" else ""}"
 
     private fun DefaultListenableGraph<String, WeightedEdge>.addSemanticRelationsRecursive(source: Concept, config: ArcConfig) {
         val node = source.asNodeIdentifier()
@@ -225,7 +228,7 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             }
     }
 
-    fun String.toGraphData(config: ArcConfig = ArcConfig()): GraphData {
+    fun String.toGraphData(config: ArcConfig): GraphData {
         val key = asKey(config)
         graphComponentCache.find(key)?.let { return it }
 
@@ -282,21 +285,31 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
             .toMap()
     }
 
-    fun createGraphData(text: String, config: ArcConfig = ArcConfig()): GraphData = text.toGraphData(config)
-
-    fun clearCaches() {
-//        semanticGraphCache.clear()
-//        graphComponentCache.clear()
-    }
-
-    override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
-        val allComponents = task.allTextElements().map { elem -> cache[elem.asKey(config)] ?: elem.toGraphData() }
+    fun createGraphes(task: ArcTask, config: ArcConfig): List<DefaultListenableGraph<String, WeightedEdge>> {
+        val allComponents = task.allTextElements().map { elem -> ramCache[elem.asKey(config)] ?: elem.toGraphData(config) }
         return listOf(
             ArcLabel.W0,
             ArcLabel.W1
         )
             .map { label ->
-                val (warrant, components) =
+                val (_, components) =
+                    if (label == ArcLabel.W0)
+                        task.warrant0 to allComponents.filterNot { it.context == task.warrant1 }
+                    else
+                        task.warrant1 to allComponents.filterNot { it.context == task.warrant0 }
+
+                components.map { it.graph }.merge()
+            }
+    }
+
+    override fun invoke(task: ArcTask, config: ArcConfig): ArcResult {
+        val allComponents = task.allTextElements().map { elem -> ramCache[elem.asKey(config)] ?: elem.toGraphData(config) }
+        return listOf(
+            ArcLabel.W0,
+            ArcLabel.W1
+        )
+            .map { label ->
+                val (_, components) =
                     if (label == ArcLabel.W0)
                         task.warrant0 to allComponents.filterNot { it.context == task.warrant1 }
                     else
@@ -319,45 +332,30 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 MarkerPassingConfig.setTerminationPulsCount(config.pulseCount)
                 markerPassing.execute()
 
-                val activationMap = markerPassing.activationMap()
-
-                val score = sequenceOf(
-                    task.reason to task.claim,
-                    warrant to task.claim,
-                    task.reason to warrant
+                val score = markerPassing.activationMap().evaluate(
+                    originCons = components.first { it.context == task.reason }.sourceConcepts,
+                    targetCons = components.first { it.context == task.claim }.sourceConcepts
                 )
-                    .map { (origin, resulting) ->
-                        components.first { it.context == origin }.sourceConcepts to
-                            components.first { it.context == resulting }.sourceConcepts
-                    }
-                    .map { (originCons, resultCons) ->
-                        activationMap.evaluate(originCons, resultCons)
-                    }
-                    .toList()
 
                 label to ArcPartialResult(
                     score = score,
-                    numVertices = graph.vertexSet().size,
-                    numEdges = graph.edgeSet().size
+                    graphMeta = graph.extractMeta()
                 )
             }
             .toMap()
             .let { results ->
                 val resultW0 = results.getValue(ArcLabel.W0)
                 val resultW1 = results.getValue(ArcLabel.W1)
-                val (index, resultLabel) = (resultW0.score.indices).mapNotNull { index ->
-                    when {
-                        resultW0.score[index] > resultW1.score[index] -> index to ArcLabel.W0
-                        resultW0.score[index] < resultW1.score[index] -> index to ArcLabel.W1
-                        else -> null
-                    }
-                }.firstOrNull()
-                    ?: 4 to ArcLabel.UNKNOWN//TODO: replace by: 4 to if (Random.nextBoolean()) ArcLabel.W0 else ArcLabel.W1
+
+                val resultLabel = when {
+                    resultW0.score > resultW1.score -> ArcLabel.W0
+                    resultW0.score < resultW1.score -> ArcLabel.W1
+                    else -> ArcLabel.UNKNOWN
+                }
 
                 ArcResult(
                     id = task.id,
                     foundLabel = resultLabel,
-                    index = index,
                     correctLabel = task.correctLabelW0orW1,
                     resultW0 = resultW0,
                     resultW1 = resultW1
@@ -384,22 +382,26 @@ class ArcSolver : (ArcTask, ArcConfig) -> ArcResult {
                 .map { it as StringDoubleMarkerWithOrigin }
                 .groupBy { it.origin }
                 .filter { (_, markers) -> markers.isNotEmpty() }
-                .mapValues { (_, markers) ->
-                    markers.map { it.activation }.average()
-                }
                 .ifEmpty { null }
                 ?.let { node.name to it }
         }
         .toMap()
 
-    private fun <T> Map<T, Map<T, Double>>.evaluate(
-        originCons: Collection<T>,
-        resultCons: Collection<T>
-    ): Double = resultCons.mapNotNull { target ->
+    private fun Map<String, Map<String, List<StringDoubleMarkerWithOrigin>>>.evaluate(
+        originCons: Collection<String>,
+        targetCons: Collection<String>
+    ): Double = targetCons.mapNotNull { target ->
         this[target]
             ?.filterKeys { origin -> origin in originCons }
             ?.values
+            ?.mapNotNull { markerList ->
+                markerList
+//                    .filter { marker -> marker.visitedStrings.any { it in midCons } } TODO: filter by visited waypoints
+                    .map { it.activation }
+                    .ifEmpty { null }
+                    ?.sum()
+            }
+            ?.sum()
     }
-        .flatten()
-        .average()
+        .sum()
 }
