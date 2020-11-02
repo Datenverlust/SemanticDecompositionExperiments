@@ -1,22 +1,20 @@
-package arc
+package arc.cache
 
+import arc.util.readGraphFromString
 import arc.util.userHome
+import arc.util.writeGraphAsString
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
+import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
+import org.jgrapht.graph.DefaultListenableGraph
 import org.rocksdb.Options
 import org.rocksdb.RocksDB
 import java.io.File
 
-interface KeyValueRepository<K, V> {
-    fun save(key: K, value: V)
-    fun find(key: K): V?
-    fun delete(key: K)
-}
+class SemanticGraphCache : KeyValueRepository<String, DefaultListenableGraph<String, WeightedEdge>> {
 
-class GraphCache : KeyValueRepository<String, GraphData> {
-
-    val dbName = "graph"
+    val dbName = "semanticGraph"
     val dbDir: File = File(userHome("Dokumente"), "$dbName-db").also { it.mkdirs() }
     val options = Options()
     val mapper: ObjectMapper = ObjectMapper().registerModule(KotlinModule())
@@ -28,15 +26,17 @@ class GraphCache : KeyValueRepository<String, GraphData> {
 
     val database: RocksDB = RocksDB.open(options, dbDir.path)
 
-    fun GraphData.serialize(): ByteArray = mapper.writeValueAsBytes(compress())
+    fun DefaultListenableGraph<String, WeightedEdge>.serialize(): ByteArray =
+        mapper.writeValueAsBytes(writeGraphAsString(this))
 
-    fun ByteArray.deserialize(): GraphData = mapper.readValue<CompressedData>(this).decompress()
+    fun ByteArray.deserialize(): DefaultListenableGraph<String, WeightedEdge> =
+        readGraphFromString(mapper.readValue(this))
 
-    override fun save(key: String, value: GraphData) {
+    override fun save(key: String, value: DefaultListenableGraph<String, WeightedEdge>) {
         database.put(key.toByteArray(), value.serialize())
     }
 
-    override fun find(key: String): GraphData? =
+    override fun find(key: String): DefaultListenableGraph<String, WeightedEdge>? =
         try {
             database.get(key.toByteArray()).deserialize()
         } catch (_: NullPointerException) {

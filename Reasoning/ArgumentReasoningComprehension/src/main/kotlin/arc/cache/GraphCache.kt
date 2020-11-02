@@ -1,20 +1,26 @@
-package arc
+package arc.cache
 
-import arc.util.readGraphFromString
+import arc.CompressedData
+import arc.GraphData
+import arc.compress
+import arc.decompress
 import arc.util.userHome
-import arc.util.writeGraphAsString
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
-import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
-import org.jgrapht.graph.DefaultListenableGraph
 import org.rocksdb.Options
 import org.rocksdb.RocksDB
 import java.io.File
 
-class SemanticGraphCache : KeyValueRepository<String, DefaultListenableGraph<String, WeightedEdge>> {
+interface KeyValueRepository<K, V> {
+    fun save(key: K, value: V)
+    fun find(key: K): V?
+    fun delete(key: K)
+}
 
-    val dbName = "semanticGraph"
+class GraphCache : KeyValueRepository<String, GraphData> {
+
+    val dbName = "graph"
     val dbDir: File = File(userHome("Dokumente"), "$dbName-db").also { it.mkdirs() }
     val options = Options()
     val mapper: ObjectMapper = ObjectMapper().registerModule(KotlinModule())
@@ -26,17 +32,15 @@ class SemanticGraphCache : KeyValueRepository<String, DefaultListenableGraph<Str
 
     val database: RocksDB = RocksDB.open(options, dbDir.path)
 
-    fun DefaultListenableGraph<String, WeightedEdge>.serialize(): ByteArray =
-        mapper.writeValueAsBytes(writeGraphAsString(this))
+    fun GraphData.serialize(): ByteArray = mapper.writeValueAsBytes(compress())
 
-    fun ByteArray.deserialize(): DefaultListenableGraph<String, WeightedEdge> =
-        readGraphFromString(mapper.readValue(this))
+    fun ByteArray.deserialize(): GraphData = mapper.readValue<CompressedData>(this).decompress()
 
-    override fun save(key: String, value: DefaultListenableGraph<String, WeightedEdge>) {
+    override fun save(key: String, value: GraphData) {
         database.put(key.toByteArray(), value.serialize())
     }
 
-    override fun find(key: String): DefaultListenableGraph<String, WeightedEdge>? =
+    override fun find(key: String): GraphData? =
         try {
             database.get(key.toByteArray()).deserialize()
         } catch (_: NullPointerException) {

@@ -1,13 +1,13 @@
 package arc.dataset
 
-import arc.ArcTask
 import arc.ArcLabel
+import arc.ArcTask
 import java.io.File
 
 enum class Dataset {
-    ADVERSIAL_DEV,
-    ADVERSIAL_TRAIN,
-    ADVERSIAL_TEST,
+    ADVERSARIAL_DEV,
+    ADVERSARIAL_TRAIN,
+    ADVERSARIAL_TEST,
     SEMEVAL_DEV,
     SEMEVAL_TRAIN,
     SEMEVAL_TEST,
@@ -15,9 +15,9 @@ enum class Dataset {
 }
 
 internal val datasetFilesMap = mapOf(
-    Dataset.ADVERSIAL_DEV to "adversarial/dev-adv-negated.csv",
-    Dataset.ADVERSIAL_TRAIN to "adversarial/train-adv-negated.csv",
-    Dataset.ADVERSIAL_TEST to "adversarial/test-adv-negated.csv",
+    Dataset.ADVERSARIAL_DEV to "adversarial/dev-adv-negated.csv",
+    Dataset.ADVERSARIAL_TRAIN to "adversarial/train-adv-negated.csv",
+    Dataset.ADVERSARIAL_TEST to "adversarial/test-adv-negated.csv",
     Dataset.SEMEVAL_DEV to "semeval2018/dev-full.txt",
     Dataset.SEMEVAL_TRAIN to "semeval2018/train-full.txt",
     Dataset.SEMEVAL_TEST to "semeval2018/test-full.txt",
@@ -35,7 +35,7 @@ fun readDataset(dataset: Dataset) =
                 .map { it.split("\t") }
                 .filter { it.size >= 8 }
                 .map {
-                    if (dataset == Dataset.ADVERSIAL_TEST) {
+                    if (dataset == Dataset.ADVERSARIAL_TEST) {
                         ArcTask(
                             id = it[0],
                             warrant0 = it[1],
@@ -44,7 +44,8 @@ fun readDataset(dataset: Dataset) =
                             reason = it[3],
                             claim = it[4],
                             debateTitle = it[5],
-                            debateInfo = it[6]
+                            debateInfo = it[6],
+                            isAdversarial = it[8].toBoolean()
                         )
                     } else {
                         ArcTask(
@@ -55,7 +56,8 @@ fun readDataset(dataset: Dataset) =
                             reason = it[4],
                             claim = it[5],
                             debateTitle = it[6],
-                            debateInfo = it[7]
+                            debateInfo = it[7],
+                            isAdversarial = it[8].toBoolean()
                         )
                     }
                 }

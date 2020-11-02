@@ -5,7 +5,6 @@ import org.junit.Assert
 import org.junit.Test
 
 class IdentifySemanticRolesTest {
-    //TODO: look up expected by frameset in resources
     @Test
     fun singleVerbTest() {
         "He lends me his computer.".asAnnotatedCoreDocument()

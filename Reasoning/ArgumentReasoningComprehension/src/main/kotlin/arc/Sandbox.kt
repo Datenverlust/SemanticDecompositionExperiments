@@ -4,6 +4,7 @@ package arc
 
 import arc.dataset.Dataset
 import arc.dataset.readDataset
+import arc.eval.getLatestConfig
 import arc.util.print
 import arc.util.resultsDir
 import com.fasterxml.jackson.databind.ObjectMapper

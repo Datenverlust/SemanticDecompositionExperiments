@@ -1,13 +1,12 @@
 package arc.latex
 
 fun transposeLatexTable(inputTable: String) = inputTable.trimIndent()
-        .replace("\\hline", "")
-        .split("\\\\")
-        .map { line -> line.split("&").map { it.trim() }.filterNot { it.isBlank() } }
-        .filterNot { it.isEmpty() }
-        .transpose()
-        .map { it.joinToString(" & ") }
-        .joinToString("\\\\ \\hline \n")
+    .replace("\\hline", "")
+    .split("\\\\")
+    .map { line -> line.split("&").map { it.trim() }.filterNot { it.isBlank() } }
+    .filterNot { it.isEmpty() }
+    .transpose()
+    .joinToString("\\\\ \\hline \n") { it.joinToString(" & ") }
 
 private fun List<List<String>>.transpose(): List<List<String>> {
     val rows = mutableListOf<List<String>>()   //rows
