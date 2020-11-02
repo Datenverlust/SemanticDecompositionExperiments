@@ -1,5 +1,6 @@
 package arc.util
 
+import arc.GraphMeta
 import de.kimanufaktur.nsm.decomposition.graph.edges.AntonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.DefinitionEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.EdgeType
@@ -11,6 +12,7 @@ import de.kimanufaktur.nsm.decomposition.graph.edges.SemanticRoleEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.SynonymEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.SyntaxEdge
 import de.kimanufaktur.nsm.decomposition.graph.edges.WeightedEdge
+import org.jgrapht.alg.connectivity.ConnectivityInspector
 import org.jgrapht.graph.DefaultDirectedWeightedGraph
 import org.jgrapht.graph.DefaultListenableGraph
 
@@ -121,4 +123,29 @@ fun DefaultListenableGraph<String, WeightedEdge>.addGraph(graph: DefaultListenab
             setEdgeWeight(edge, edge.edgeWeight)
         }
     }
+}
+
+fun DefaultListenableGraph<String, WeightedEdge>.extractMeta(): GraphMeta {
+    val edges = edgeSet()
+    return GraphMeta(
+        numNodes = vertexSet().size,
+        connected = ConnectivityInspector(this).isConnected,
+        numDefinitionEdges = edges.filter { it.edgeType == EdgeType.Definition }.size,
+        numDefinitionOfEdges = edges.filter { it.edgeType == EdgeType.Definition }.size,
+        numSynonymEdges = edges.filter { it.edgeType == EdgeType.Synonym }.size * 2,
+        numAntonymEdges = edges.filter { it.edgeType == EdgeType.Antonym }.size * 2,
+        numHypernymEdges = edges.filter { it.edgeType == EdgeType.Hypernym }.size + edges.filter { it.edgeType == EdgeType.Hyponym }.size,
+        numHyponymEdges = edges.filter { it.edgeType == EdgeType.Hyponym }.size + edges.filter { it.edgeType == EdgeType.Hypernym }.size,
+        numMeronymEdges = edges.filter { it.edgeType == EdgeType.Meronym }.size,
+        numHolonymEdges = edges.filter { it.edgeType == EdgeType.Meronym }.size,
+        numSyntaxEdges = edges.filter { it.edgeType == EdgeType.Syntax }.size * 2,
+        numNamedEntityEdges = edges.filter { it.edgeType == EdgeType.NamedEntity }.size,
+        numNameOfEdges = edges.filter { it.edgeType == EdgeType.NamedEntity }.size,
+        numSemRoleEdges = edges.filter { it.edgeType == EdgeType.SemanticRole }.size,
+        numSemRoleOfEdges = edges.filter { it.edgeType == EdgeType.SemanticRole }.size
+    )
+}
+
+fun DefaultListenableGraph<String, WeightedEdge>.printSize() {
+    println("#vertices: ${vertexSet().size}\n#edges: ${edgeSet().size}")
 }
