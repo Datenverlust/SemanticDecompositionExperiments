@@ -1,5 +1,6 @@
 package arc
 
+import arc.util.printProgress
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.channels.Channel
@@ -21,7 +22,9 @@ class CoroutineArcSolver(
                 solveTasks(componentChannel, results, config)
             }
         }
-        tasks.forEach { componentChannel.send(it) }
+        tasks.asSequence()
+            .printProgress(100, tasks.size) { msg -> kLogger.info { msg } }
+            .forEach { componentChannel.send(it) }
         componentChannel.close()
         runners.forEach { it.await() }
         return@runBlocking results
