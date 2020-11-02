@@ -50,7 +50,7 @@ private fun buildRandomGeneration(size: Int) = (1..size).map {
     ArcConfig(
         threshold = randomThreshold(),
         synonymLinkWeight = randomEdgeWeight(),
-        antonymLinkWeight = randomNegEdgeWeight(),
+        antonymLinkWeight = randomEdgeWeight(),
         definitionLinkWeight = randomEdgeWeight(),
         definitionOfLinkWeight = randomEdgeWeight(),
         hyponymLinkWeight = randomEdgeWeight(),
@@ -110,8 +110,7 @@ private fun Pair<ArcConfig, ArcConfig>.uniformCrossover(crossDefIterator: Iterat
         semanticRoleOfLinkWeight = if (crossDefIterator.next()) first.semanticRoleOfLinkWeight else second.semanticRoleOfLinkWeight
     )
 
-private fun randomEdgeWeight() = Random.nextDouble(0.0, 1.0)
-private fun randomNegEdgeWeight() = Random.nextDouble(-1.0, 1.0)
+private fun randomEdgeWeight() = Random.nextDouble(-1.0, 1.0)
 private fun randomThreshold() = Random.nextDouble(0.1, 1.0)
 
 private fun Double.mutateBy(randomNumber: Double) = (1.0 - mutateInfluence) * this + mutateInfluence * randomNumber
@@ -121,7 +120,7 @@ private fun ArcConfig.mutate(): ArcConfig = (1..numParams).map { Random.nextDoub
         ArcConfig(
             threshold = if (iterator.next()) threshold.mutateBy(randomThreshold()) else threshold,
             synonymLinkWeight = if (iterator.next()) synonymLinkWeight.mutateBy(randomEdgeWeight()) else synonymLinkWeight,
-            antonymLinkWeight = if (iterator.next()) antonymLinkWeight.mutateBy(randomNegEdgeWeight()) else antonymLinkWeight,
+            antonymLinkWeight = if (iterator.next()) antonymLinkWeight.mutateBy(randomEdgeWeight()) else antonymLinkWeight,
             definitionLinkWeight = if (iterator.next()) definitionLinkWeight.mutateBy(randomEdgeWeight()) else definitionLinkWeight,
             definitionOfLinkWeight = if (iterator.next()) definitionOfLinkWeight.mutateBy(randomEdgeWeight()) else definitionOfLinkWeight,
             hyponymLinkWeight = if (iterator.next()) hyponymLinkWeight.mutateBy(randomEdgeWeight()) else hyponymLinkWeight,
